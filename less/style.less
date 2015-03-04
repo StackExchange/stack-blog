@@ -1,4 +1,5 @@
 @import "base/variables";
+@import "base/mixins";
 
 .inner-container {
 	max-width: 800px;
@@ -40,9 +41,10 @@ article.post {
 	}
 	.entry {
 		margin: 50px 0px;
-		h1, h2, h3, h4, h5, h6 {
-			font-size: 1.8em;
-		}
+		h1 { .fontSize(l); }
+		h2 { .fontSize(m); }
+		h3 { .fontSize(s); }
+
 	}
 	&.preview-post {
 		.hero-container {
