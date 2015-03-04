@@ -84,4 +84,26 @@ You can see what [this post](http://stackexchange.github.io/blog/My-First-Six-We
 Adding this file is very similar to adding your original authors markdown file. You can use git to add your post markdown file in the `_posts` folder, or you can use the [GitHub user interface](https://github.com/StackExchange/blog/new/gh-pages/_posts) to do so. Note that the moment you commit this file, it will be published to the blog.
 
 **Writing your post**
-Everything following the second set of three dashes in your post markdown file will be the contents of your post. We use [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to format the post. 
+
+Everything following the second set of three dashes in your post markdown file will be the content of your post. We use [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to format the post. 
+
+**Code snippets**
+
+Jekyll has support for code snippets and highlighting built-in using [Pygments](http://pygments.org/). To include a codeblock with in your markdown, use the following syntax:
+```
+{% highlight [language] %}
+[Your code here]
+{% endhighlight %}
+```
+So if you were going to be including a snippet of Ruby code in your post, it would look like:
+```
+{% highlight ruby %}
+def show
+  @widget = Widget(params[:id])
+  respond_to do |format|
+    format.html # show.html.erb
+    format.json { render json: @widget }
+  end
+end
+{% endhighlight %}
+```
