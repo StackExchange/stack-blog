@@ -2,17 +2,34 @@
 layout: default
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">    
-      
-      <h1 class="h2"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+<div class="inner-container">
+	<div class="posts">
+	  {% for post in site.posts %}
+	    <article class="preview-post post">    
+		  {% for author in site.data.authors %}
+		  {% if author.id == post.author %}
+		  <div class="author-container">
+		  	<img src="{{ author.avatar }}" class="avatar">
+		  	<div class="info">
+		  		<h2 class="h4 author"><a href="{{ site.baseurl }}/authors/{{ author.id }}">{{ author.name }}</a></h2>
+		  		<h3 class="h5 twitter"><a href="http://twitter.com/{{ author.twitter }}">@{{ author.twitter }}</a> . {{ post.date | date: "%B %e, %Y" }}</h3>
+		  	</div>
+		  </div>
+		  {% endif %}
+		  {% endfor %}
 
-      <div class="entry">
-        {{ post.content | truncatewords:40}}
-      </div>
-      
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
+		  <div class="hero-container">
+		  	<a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.hero }}"></a>
+		  </div>
+
+		  <h1 class="h3"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+	      <div class="entry">
+	        {{ post.content | truncatewords:40}}
+	      </div>
+	      
+	      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Continue reading</a>
+	    </article>
+	  {% endfor %}
+	</div>
 </div>
