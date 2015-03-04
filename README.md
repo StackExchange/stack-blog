@@ -14,7 +14,7 @@ This blog runs on [Jekyll](http://jekyllrb.com/) and [GitHub Pages](https://page
 
 ###1. Add yourself as a contributor with an author file
 
-You need to create a new markdown file with your username in the `_authors` folder to be included as a contributor on the blog. For example, Jon Chan uses the username `jonhmchan` so he would create a new file named `jonhmchan.md`. In the content of this file should be the following:
+You need to create a new markdown file with your username in the `_authors` folder to be included as a contributor on the blog. For example, Jon Chan uses the username `jonhmchan` so he would create a new file named `jonhmchan.md`. In the content of this markdown file should be the following:
 ```
 ---
 layout: author
@@ -42,3 +42,19 @@ website: http://www.jonhmchan.com/
 If you are a developer, you can do this simply by submitting a PR or adding this file to the `_authors` directory. If you are not a developer, you should try and learn Git and GitHub using [some tutorials](https://try.github.io/levels/1/challenges/1). If you *really* prefer not to, you can use [this link on GitHub](https://github.com/StackExchange/blog/new/gh-pages/_authors) to create this file, then submit your changes by adding a commit message like `Added [your name] to authors` and hitting the `Commit new file` button:
 
 ![Adding yourself as an author](http://stackexchange.github.io/blog/images/adding_authors.png)
+
+###2. Creating a post
+To create a new post, you need to create a new markdown file with a particular format in the `_posts` folder in order to publish. The file needs to include the date and title seperated by dashes: `YYYY-MM-DD-[Title with dashes as spaces].md`. For example, Jon Chan published a post on January 28th, 2014 titled "My First Six Weeks Working at Stack Overflow". So the title of his file was `2014-1-28-My-First-Six-Weeks-At-Stack-Overflow.md`.  In the content of this markdown file should be the following: 
+```
+---
+layout: post
+title: [title of your post]
+author: [your author id]
+hero: [url of a high quality hero image to be used for your post]
+source: [url of the original post, optional]
+category: [what category this post is in, optional]
+tags: [what tags are associated with this post separated by spaces, optional]
+---
+[Content of your post in markdown]
+```
+You can see what [this post](http://stackexchange.github.io/blog/My-First-Six-Weeks-Working-At-Stack-Overflow/) looks like as a markdown file by going to [this link](https://github.com/StackExchange/blog/edit/gh-pages/_posts/2014-1-28-My-First-Six-Weeks-Working-At-Stack-Overflow.md)
