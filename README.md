@@ -15,7 +15,7 @@ This is a blog for the developers of Stack Exchange to share their work on anyth
  - Your post is about something related to Stack Exchange or the work you do there
  - It is about technology or the technology community
 
-If you are unsure of whether your post meets the requirements, it's probably not a great fit. Here are some examples of things that do or don't fit in with these requirements:
+If you are unsure of whether your post meets the requirements, it's probably not a great fit. If you are very comfortable modifying the content you want to contribute to fit more cleanly, go ahead and do it! Here are some examples of things that do or don't fit in with these requirements:
 
 :heavy_multiplication_x: Why CSS frameworks are awesome generally  
 :heavy_check_mark: How design and development worked together to create a Pattern Library
@@ -25,6 +25,9 @@ If you are unsure of whether your post meets the requirements, it's probably not
 
 :heavy_multiplication_x: How I built *another* 2046 clone, but in Cobol!  
 :heavy_check_mark: How I helped build Winter Bash snow animations
+
+:heavy_multiplication_x: Why I think diversity is important to building products  
+:heavy_check_mark: How we approach hiring engineers to avoid bias
 
 ## Quickstart
 
