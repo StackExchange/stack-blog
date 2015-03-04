@@ -10,8 +10,8 @@ This blog runs on [Jekyll](http://jekyllrb.com/) and [GitHub Pages](https://page
  - Adding posts with markdown
 
 ## Links
- - [Add yourself as a contributor on the blog](https://github.com/StackExchange/blog/new/gh-pages/_authors)
- - [Publish a new post](https://github.com/StackExchange/blog/new/gh-pages/_posts)
+ - [Add yourself as a contributor on the blog](https://github.com/StackExchange/blog/new/gh-pages/_authors) ([See example file](https://github.com/StackExchange/blog/edit/gh-pages/_authors/jonhmchan.md))
+ - [Publish a new post](https://github.com/StackExchange/blog/new/gh-pages/_posts) ([See example post](https://github.com/StackExchange/blog/edit/gh-pages/_posts/2014-1-28-My-First-Six-Weeks-Working-At-Stack-Overflow.md))
 
 ## Quickstart
 
