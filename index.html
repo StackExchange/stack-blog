@@ -2,7 +2,9 @@
 layout: default
 ---
 
-<div class="inner-container">
+<div class="inner-container padded">
+	<div class="-row">
+		<div class="-col8">
 	<div class="posts">
 	  {% for post in site.posts %}
 	    <article class="preview-post post">    
@@ -31,5 +33,9 @@ layout: default
 	      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Continue reading</a>
 	    </article>
 	  {% endfor %}
+	</div>
+		</div>
+		<div class="-col4">
+		</div>
 	</div>
 </div>
