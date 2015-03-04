@@ -21,7 +21,7 @@ If you are unsure of whether your post meets the requirements, it's probably not
 :heavy_check_mark: How design and development worked together to create a Pattern Library
 
 :heavy_multiplication_x: How awesome the food is at Stack Exchange  
-:heavy_check_mark: Why private offices are helpful to devs versus open office plans
+:heavy_check_mark: Why we still believe in private offices and remote work
 
 :heavy_multiplication_x: How I built *another* 2046 clone, but in Cobol!  
 :heavy_check_mark: How I helped build Winter Bash snow animations
