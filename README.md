@@ -120,8 +120,9 @@ If you are interested in making changes to the design, functionality, or structu
 
 ### Setting up locally
 
-**1. Install Jekyll and dependencies.** First thing you're going to need to do is set up Jekyll and the appropriate dependencies so you can develop locally. The easiest way to install everything is to use [RubyGems](https://rubygems.org/pages/download) and follow the instructions on the [Jekyll](http://jekyllrb.com/docs/installation/) website. In addition to the basic Jekyll installation, you also need to install the `jekyll-sitemap` gem using the following command:
+**1. Install Jekyll and dependencies.** First thing you're going to need to do is set up Jekyll and the appropriate dependencies so you can develop locally. The easiest way to install everything is to use [RubyGems](https://rubygems.org/pages/download) and follow the instructions on the [Jekyll](http://jekyllrb.com/docs/installation/) website. In addition to the basic Jekyll installation, you also need to install the `jekyll-sitemap` gem. After install RubyGems on your machine, you really only to run two basic commands:
 ```
+gem install jekyll
 gem install jekyll-sitemap
 ```
 
@@ -135,3 +136,9 @@ cd blog
 jekyll serve
 ```
 This will get a local version of the blog running on your machine, accessible on `localhost:4000/blog`
+
+**3. Read up on the documentation.** To really understand how to develop the site there are a few things you're going to need to read up on to make meaningful changes:
+ - [Jekyll](http://jekyllrb.com/docs/home/) The static site generator used for the site
+ - [GitHub Pages](https://help.github.com/articles/using-jekyll-with-pages/) How the site is hosted
+ - [Liquid](https://docs.shopify.com/themes/liquid-documentation/basics) The templating language used with Jekyll by Shopify
+ - [Stack Overflow Careers Pattern Library](http://stackexchange.github.io/uikit/index.html) Our pattern library by our designers that includes a full LESS framework for rapid development
