@@ -55,7 +55,7 @@ layout: post
 title: [title of your post]
 author: [your author id]
 hero: [url of a high quality hero image to be used for your post]
-source: [url of the original post, optional]
+source: [url of the original post so a source banner will be added to the post, optional]
 category: [what category this post is in, optional]
 tags: [what tags are associated with this post separated by spaces, optional]
 ---
@@ -81,4 +81,7 @@ You can see what [this post](http://stackexchange.github.io/blog/My-First-Six-We
 
 **How to add this file**
 
-Adding this file is very similar to adding your original authors markdown file. You can use git to add your post markdown file in the `_posts` folder, or you can use the [GitHub user interface](https://github.com/StackExchange/blog/new/gh-pages/_posts) to do so.
+Adding this file is very similar to adding your original authors markdown file. You can use git to add your post markdown file in the `_posts` folder, or you can use the [GitHub user interface](https://github.com/StackExchange/blog/new/gh-pages/_posts) to do so. Note that the moment you commit this file, it will be published to the blog.
+
+**Writing your post**
+Everything following the second set of three dashes in your post markdown file will be the contents of your post. We use [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to format the post. 
