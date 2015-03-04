@@ -49,6 +49,9 @@ collections:
   authors:
     output: true
     permalink: /authors/:title/
+  tags:
+    output: true
+    permalink: /tags/:title/
 
 #
 # !! You don't need to change any of the configuration flags below !!
