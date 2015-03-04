@@ -3,12 +3,45 @@ layout: default
 ---
 <article class="author">
 	<div class="inner-container">
-		<div class="author-container">
-		  	<img src="{{ page.avatar }}" class="avatar">
-		  	<div class="info">
-		  		<h2 class="h4 author"><a href="{{ site.baseurl }}/authors/{{ author.id }}">{{ page.name }}</a></h2>
-		  		<h3 class="h5 twitter"><a href="http://twitter.com/{{ author.twitter }}">@{{ page.twitter }}</a></h3>
-		  	</div>
+		<div class="-row">
+			<div class="-col12">
+			<div class="author-container">
+			  	<img src="{{ page.avatar }}" class="avatar">
+			  	<div class="info">
+			  		<h2 class="h4 author-name">{{ page.name }}</h2>
+			  		<h3 class="h5">{{ page.job }}</h3>
+			  		<h3 class="h5 twitter"><a href="http://twitter.com/{{ author.twitter }}">@{{ page.twitter }}</a></h3>
+			  	</div>
+			</div>
+			</div>
+		</div>
+		<div class="-row author-content">
+			<div class="-col12">
+			<div class="posts">
+				  {% for post in site.posts %}
+				  	{% for author in site.authors %}
+					  {% if author.id == post.author %}
+				    <article class="preview-post post">
+
+					  <div class="hero-container">
+					  	<a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.hero }}"></a>
+					  </div>
+
+					  <h1 class="h3"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+					  <div class="date">Written on {{ post.date | date: "%B %e, %Y" }}</div>
+
+				      <div class="entry">
+				        {{ post.excerpt | markdownify }}
+				      </div>
+				      
+				      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Continue reading</a>
+				    </article>
+				     {% endif %}
+					  {% endfor %}
+				  {% endfor %}
+				</div>
+			</div>
 		</div>
 	</div>
 </article>
