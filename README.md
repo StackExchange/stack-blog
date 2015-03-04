@@ -105,11 +105,11 @@ end
 ```
 **Adding tags**
 
-Jekyll has some support for tags, but requires that you do a little bit of work in order to make sure new tags are accomodated. All tags that have their own page exist in the `_tags` folder with a very basic markdown file for each tag. For example, the `onboarding` tag markdown file `onboarding.md` looks like this:
+Jekyll has some support for tags, but requires that you do a little bit of work in order to make sure new tags are accomodated. All tags must have a markdown file named after the tag in the `_tags` folder. For example, the `onboarding` tag markdown file `onboarding.md` looks like this:
 ```
 ---
 layout: tag
 slug: onboarding
 ---
 ```
-When writing a new post, you can add space separated tags at the top of the post markdown file. Any tags that you include that already have an associated markdown file in the `_tags` folder will get its own page at `/tags/[tag-name]` and will be featured on the homepage. However, if you are adding a new tag, make sure that you create the appropriate tag markdown file to include in the `_tags` folder.
+When writing a new post, you can add space separated tags at the top of the post markdown file. Any tags that already have an associated markdown file in the `_tags` folder will get its own page at `/tags/[tag-name]` and will be featured on the homepage. However, if you are adding a new tag, make sure that you create the appropriate markdown file in the `_tags` folder.
