@@ -14,6 +14,7 @@ This blog runs on [Jekyll](http://jekyllrb.com/) and [GitHub Pages](https://page
 ###Add yourself as a contributor with an author file
 1. You need to create a new markdown file with your username in the `_authors` folder to be included as a contributor on the blog. For example, Jon Chan uses the username `jonhmchan` so he would create a new file named `jonhmchan.md`. In the content of this file should be the following:
 
+
 	---
 	layout: author
 	id: jonhmchan
