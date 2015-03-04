@@ -16,12 +16,12 @@ This blog runs on [Jekyll](http://jekyllrb.com/) and [GitHub Pages](https://page
 
 	---
 	layout: author
-	id: [username]
-	name: [full name]
-	avatar: [url to an image of you that will show up on your blog posts]
-	twitter: [twitter handle, optional though recommended]
-	job: [your job title]
-	website: [url to your personal website]
+	id: (username)
+	name: (full name)
+	avatar: (url to an image of you that will show up on your blog posts)
+	twitter: (twitter handle, optional though recommended)
+	job: (your job title)
+	website: (url to your personal website)
 	---
 
 So Jon Chan's `jonhmchan.md` file would look like:
