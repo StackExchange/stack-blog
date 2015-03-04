@@ -133,7 +133,7 @@ Then go into root of the folder and run `jekyll serve`:
 cd blog
 jekyll serve
 ```
-This will get a local version of the blog running on your machine, accessible on `localhost:4000/blog`
+This will get a local version of the blog running on your machine, accessible on `localhost:4000/blog/`
 
 **3. Read up on the documentation.** To really understand how to develop the site there are a few things you're going to need to read up on to make meaningful changes:
  - [Jekyll](http://jekyllrb.com/docs/home/) The static site generator used for the site
