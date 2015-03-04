@@ -4,13 +4,18 @@ layout: default
 
 <article class="post">
   <h1 class="h2">{{ page.title }}</h1>
+  {% for author in site.data.authors %}
+  {% if author.id == page.author %}
+  <h2 class="h4">{{ author.name }}</h2>
+  {% endif %}
+  {% endfor %}
+  <div class="date">
+    Written on {{ page.date | date: "%B %e, %Y" }}
+  </div>
+
 
   <div class="entry">
     {{ content }}
-  </div>
-
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
 
   {% include disqus.html disqus_identifier=page.disqus_identifier %}
