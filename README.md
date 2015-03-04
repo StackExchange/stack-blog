@@ -3,11 +3,7 @@
 This is a prototype for a new blog in the Stack Overflow ecosystem centered on developer topics. "Stack Overflow Blog" is a working name for this prototype.
 
 ## Getting Started
-This blog runs on [Jekyll](http://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/). If you are actively involved in improving the infrastructure of this project, you should read the documentation for these platforms thoroughly (they're pretty short as it is). If you are simply contributing, this guide should be enough to get you going. Regardless of how you are contributing, you need to know some basics:
-
- - Git and GitHub
- - Adding yourself as a contributor
- - Adding posts with markdown
+This blog runs on [Jekyll](http://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/). If you are actively involved in improving the infrastructure of this project, you should read the documentation for these platforms thoroughly (they're pretty short as it is). If you are simply contributing, this guide should be enough to get you going.
 
 ## Links
  - [Add yourself as a contributor on the blog](https://github.com/StackExchange/blog/new/gh-pages/_authors) ([See example file](https://github.com/StackExchange/blog/edit/gh-pages/_authors/jonhmchan.md))
