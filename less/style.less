@@ -3,6 +3,9 @@
 .inner-container {
 	max-width: 800px;
 	margin: 0px auto;
+	&.padded {
+		margin: 25px auto;
+	}
 }
 header {
 	padding: 10px;
@@ -85,27 +88,29 @@ article.post {
 	}
 }
 article.author {
-	.author-container {
-		img {
-			width: 100px;
-			margin-right: 25px;
-			border-radius: 50px;
-		}
-		.info {
-			.author-name {
-				font-size: 36px;
-			}
-			.twitter {
-				font-size: 18px;
-			}
-		}
-	}
 	.author-content {
 		margin-top: 50px;
 	}
 }
 .author-container {
 	padding: 15px 0px;
+	&.large {
+		img {
+			width: 100px;
+			margin-right: 25px;
+			border-radius: 50px;
+		}
+		.info {
+			padding-top: 5px;
+			.author-name {
+				font-size: 24px;
+			}
+			.twitter {
+				font-size: 14px;
+			}
+		}
+	}
+
 	img {
 		width: 50px;
 		margin-right: 15px;
