@@ -2,7 +2,7 @@
 @import "base/mixins";
 
 .inner-container {
-	max-width: 800px;
+	max-width: 1000px;
 	margin: 0px auto;
 	&.padded {
 		margin: 25px auto;
@@ -36,6 +36,9 @@ header {
 }
 
 article.post {
+	.inner-container {
+		max-width: 800px;
+	}
 	.author {
 		font-size: 16px;
 	}
