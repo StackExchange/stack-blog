@@ -69,7 +69,10 @@ ol ol {
     ol ol { list-style-type: lower-latin; }
 }
 
-li { padding-bottom: @padding-half; }
+li {
+    padding-bottom: @padding-half;
+    .lineHeight(base);
+}
 
 
 //  -- Inline List
