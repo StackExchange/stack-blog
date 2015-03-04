@@ -6,7 +6,7 @@ layout: default
 	<div class="posts">
 	  {% for post in site.posts %}
 	    <article class="preview-post post">    
-		  {% for author in site.data.authors %}
+		  {% for author in site.authors %}
 		  {% if author.id == post.author %}
 		  <div class="author-container">
 		  	<img src="{{ author.avatar }}" class="avatar">
@@ -30,6 +30,10 @@ layout: default
 	      
 	      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Continue reading</a>
 	    </article>
+	  {% endfor %}
+
+	  {% for author in site.authors %}
+	  {{ author.name }}
 	  {% endfor %}
 	</div>
 </div>

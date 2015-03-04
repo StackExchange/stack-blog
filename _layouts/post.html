@@ -5,7 +5,7 @@ layout: default
 	<div class="hero" style="background: url('{{ page.hero }}') fixed center center no-repeat;">
 		<div class="inner-container">
 			<h1 class="h2">{{ page.title }}</h1>
-			{% for author in site.data.authors %}
+			{% for author in site.authors %}
 			{% if author.id == page.author %}
 			<div class="author-container">
 			<img src="{{ author.avatar }}" >
