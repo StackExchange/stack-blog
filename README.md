@@ -57,4 +57,20 @@ tags: [what tags are associated with this post separated by spaces, optional]
 ---
 [Content of your post in markdown]
 ```
-You can see what [this post](http://stackexchange.github.io/blog/My-First-Six-Weeks-Working-At-Stack-Overflow/) looks like as a markdown file by going to [this link](https://github.com/StackExchange/blog/edit/gh-pages/_posts/2014-1-28-My-First-Six-Weeks-Working-At-Stack-Overflow.md)
+So Jon Chan's post `2014-1-28-My-First-Six-Weeks-At-Stack-Overflow.md` would look something like the following:
+```
+---
+layout: post
+title: My First Six Weeks Working at Stack Overflow
+author: jonhmchan
+hero: https://ununsplash.imgix.net/photo-1416339306562-f3d12fefd36f?q=75&fm=jpg&s=dd8bffcffb3d622bea05c74d203121c6https://unsplash.imgix.net/photo-1416339442236-8ceb164046f8?q=75&fm=jpg&s=8eb83df8a744544977722717b1ea4d09
+source: http://www.jonhmchan.com/blog/2014/1/16/my-first-six-weeks-working-at-stack-overflow
+category: engineering
+tags: onboarding
+---
+
+I started working at [Stack Exchange](http://www.stackexchange.com/) (which many know for/as [Stack Overflow](http://stackoverflow.com/)) as a software developer just six weeks ago. This (lengthy) post is about a number of things: what it was like relearning a lot of what I know about web development, the challenges and resources I encountered doing so, and a few pointers others might benefit from on-boarding on a new development team.
+
+...
+```
+You can see what [this post](http://stackexchange.github.io/blog/My-First-Six-Weeks-Working-At-Stack-Overflow/) looks like as a full markdown file by going to [this link](https://github.com/StackExchange/blog/edit/gh-pages/_posts/2014-1-28-My-First-Six-Weeks-Working-At-Stack-Overflow.md).
