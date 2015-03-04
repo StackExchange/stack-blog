@@ -8,8 +8,8 @@ layout: default
 			{% for author in site.authors %}
 			{% if author.id == page.author %}
 			<div class="author-container">
-			<img src="{{ author.avatar }}" >
-			<h2 class="h4">{{ author.name }}</h2>
+			<a href="{{ site.baseurl }}/authors/{{ author.id }}"><img src="{{ author.avatar }}" ></a>
+			<h2 class="h4 author-name"><a href="{{ site.baseurl }}/authors/{{ author.id }}">{{ author.name }}</a></h2>
 			{% endif %}
 			{% endfor %}
 			<div class="date">Written on {{ page.date | date: "%B %e, %Y" }}</div>

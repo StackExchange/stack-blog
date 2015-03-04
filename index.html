@@ -9,9 +9,9 @@ layout: default
 		  {% for author in site.authors %}
 		  {% if author.id == post.author %}
 		  <div class="author-container">
-		  	<img src="{{ author.avatar }}" class="avatar">
+		  	<a href="{{ site.baseurl }}/authors/{{ author.id }}"><img src="{{ author.avatar }}" class="avatar"></a>
 		  	<div class="info">
-		  		<h2 class="h4 author"><a href="{{ site.baseurl }}/authors/{{ author.id }}">{{ author.name }}</a></h2>
+		  		<h2 class="h4 author-name"><a href="{{ site.baseurl }}/authors/{{ author.id }}">{{ author.name }}</a></h2>
 		  		<h3 class="h5 twitter"><a href="http://twitter.com/{{ author.twitter }}">@{{ author.twitter }}</a> . {{ post.date | date: "%B %e, %Y" }}</h3>
 		  	</div>
 		  </div>
@@ -30,10 +30,6 @@ layout: default
 	      
 	      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Continue reading</a>
 	    </article>
-	  {% endfor %}
-
-	  {% for author in site.authors %}
-	  {{ author.name }}
 	  {% endfor %}
 	</div>
 </div>
