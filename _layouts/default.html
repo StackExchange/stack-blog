@@ -15,44 +15,36 @@
     <![endif]-->
 
     <link rel="stylesheet" type="text/less" href="{{ site.baseurl }}/less/base.less" />
+    <link rel="stylesheet" type="text/less" href="{{ site.baseurl }}/less/style.less" />
     <script src="//cdnjs.cloudflare.com/ajax/libs/less.js/2.3.1/less.min.js"></script>
-    
+
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
 
   <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
+    <div class="container">
+    <header>
+      <div class="inner-container -row">
+        <div class="-col4">
           <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
-          
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
-          </div>
-          
-          <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
-          </nav>
-        </header>
+        </div>      
+        <nav class="-col8">
+          <a href="{{ site.baseurl }}/">Blog</a>
+          <a href="{{ site.baseurl }}/about">About</a>
+        </nav>
       </div>
-    </div>
+    </header>
 
-    <div id="main" role="main" class="container">
+    <div id="main" role="main" class="inner-container">
       {{ content }}
     </div>
 
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          {% include svg-icons.html %}
-        </footer>
-      </div>
+    <footer class="footer">
+      {% include svg-icons.html %}
+    </footer>
     </div>
-
     {% include analytics.html %}
   </body>
 </html>
