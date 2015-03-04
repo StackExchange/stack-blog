@@ -17,13 +17,13 @@ This is a blog for the developers of Stack Exchange to share their work on anyth
 
 If you are unsure of whether your post meets the requirements, it's probably not a great fit. Here are some examples of things that do or don't fit in with these requirements:
 
-:heavy_multiplication_x: Why CSS frameworks are awesome generally
+:heavy_multiplication_x: Why CSS frameworks are awesome generally  
 :heavy_check_mark: How design and development worked together to create a Pattern Library
 
-:heavy_multiplication_x: How awesome the food is at Stack Exchange
+:heavy_multiplication_x: How awesome the food is at Stack Exchange  
 :heavy_check_mark: Why private offices are helpful to devs versus open office plans
 
-:heavy_multiplication_x: How I built *another* 2046 clone, but in Cobol!
+:heavy_multiplication_x: How I built *another* 2046 clone, but in Cobol!  
 :heavy_check_mark: How I helped build Winter Bash snow animations
 
 ## Quickstart
