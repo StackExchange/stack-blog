@@ -45,6 +45,11 @@ url: http://jonhmchan.github.io/blog
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: "/blog"
 
+collections:
+  authors:
+    output: true
+    permalink: /authors/:title/
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #
