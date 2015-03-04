@@ -1,4 +1,4 @@
-# [Stack Overflow Blog](http://jonhmchan.github.io/blog)
+# [Stack Overflow Blog](http://stackexchange.github.io/blog)
 
 This is a prototype for a new blog in the Stack Overflow ecosystem centered on developer topics. "Stack Overflow Blog" is a working name for this prototype.
 
