@@ -25,7 +25,7 @@ layout: default
 		  		<div class="-col4 classification">
 		  			<div class="tags">
 				  	{% for tag in post.tags %}
-				  		<span class="postTag">{{ tag }}</span>
+				  		<a href="{{ site.baseurl }}/tags/{{ tag }}"><span class="postTag">{{ tag }}</span></a>
 				  	{% endfor %}
 				  </div>
 		  		</div>
@@ -48,8 +48,24 @@ layout: default
 		</div>
 		<div class="-col4">
 			<div class="sidebar">
-				<h4>Hello World</h4>
-				<p>Welcome! We are the developers working at <a href="http://stackexchange.com/">Stack Exchange</a>, home of <a href="https://stackoverflow.com/">Stack Overflow</a>, <a href="https://careers.stackoverflow.com/">Stack Overflow Careers</a>, and <a href="http://stackexchange.com/sites">over 100 Q&amp;A sites</a> part of the Stack Exchange network. In addition to writing a lot of code, we like to write about writing code and the other things we're doing to improve the programming community. We've trying a new thing by collecting those writings here so we can share them with the larger programming community. We hope you like it!</p>
+				<section>
+				<h3>Hello World</h3>
+				<p>Welcome! We are the developers working at <a href="http://stackexchange.com/">Stack Exchange</a>, home of <a href="https://stackoverflow.com/">Stack Overflow</a>, <a href="https://careers.stackoverflow.com/">Stack Overflow Careers</a>, and <a href="http://stackexchange.com/sites">over 100 Q&amp;A sites</a> part of the Stack Exchange network. In addition to writing a lot of code, we like to write about writing code and the other things we're doing to improve the tech community. We've trying a new thing by collecting those writings here so we can share them with the larger programming community. We hope you like it!</p>
+				</section>
+
+				<section>
+				<h4>Topics</h4>
+				{% for tag in site.tags %}
+				{% assign tagCount = 0 %}
+				{% assign currentTag = tag | first %}
+					{% for post in site.posts %}
+						{% if post.tags contains currentTag %}
+						{% assign tagCount = tagCount | plus: 1 %}
+						{% endif %}
+					{% endfor %}
+				<p><a href="{{ site.baseurl }}/tags/{{ tag | first }}"><span class="postTag">{{ tag | first }}</span></a> ({{ tagCount }})</p>
+				{% endfor %}
+				</section>
 			</div>
 		</div>
 	</div>

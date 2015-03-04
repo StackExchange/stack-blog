@@ -30,7 +30,7 @@ layout: default
 		    <p>
 		    	<strong>Tags</strong>&nbsp;
 				{% for tag in page.tags %}
-					<span class="postTag">{{ tag }}</span>
+					<a href="{{ site.baseurl }}/tags/{{ tag }}"><span class="postTag">{{ tag }}</span></a>
 				{% endfor %}
 		    </p>
 	    </div>
