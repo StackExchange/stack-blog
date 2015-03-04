@@ -113,3 +113,25 @@ slug: onboarding
 ---
 ```
 When writing a new post, you can add space separated tags at the top of the post markdown file. Any tags that already have an associated markdown file in the `_tags` folder will get its own page at `/tags/[tag-name]` and will be featured on the homepage. However, if you are adding a new tag, make sure that you create the appropriate markdown file in the `_tags` folder.
+
+## Making code changes
+
+If you are interested in making changes to the design, functionality, or structure of the blog, you're going to need to set up a local environment and understand some of the technologies behind the site.
+
+### Setting up locally
+
+**1. Install Jekyll and dependencies.** First thing you're going to need to do is set up Jekyll and the appropriate dependencies so you can develop locally. The easiest way to install everything is to use [RubyGems](https://rubygems.org/pages/download) and follow the instructions on the [Jekyll](http://jekyllrb.com/docs/installation/) website. In addition to the basic Jekyll installation, you also need to install the `jekyll-sitemap` gem using the following command:
+```
+gem install jekyll-sitemap
+```
+
+**2. Run a local version of the blog.** Using Git, clone the latest version of this repository to your local machine using the following command:
+```
+git clone https://github.com/StackExchange/blog.git
+```
+Then go into root of the folder and run `jekyll serve`:
+```
+cd blog
+jekyll serve
+```
+This will get a local version of the blog running on your machine, accessible on `localhost:4000/blog`
