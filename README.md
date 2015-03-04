@@ -10,7 +10,7 @@ This blog runs on [Jekyll](http://jekyllrb.com/) and [GitHub Pages](https://page
  - [Publish a new post](https://github.com/StackExchange/blog/new/gh-pages/_posts) ([See example post file](https://github.com/StackExchange/blog/edit/gh-pages/_posts/2014-1-28-My-First-Six-Weeks-Working-At-Stack-Overflow.md), [published version](http://stackexchange.github.io/blog/My-First-Six-Weeks-Working-At-Stack-Overflow/))
 
 ## What this blog is for
-This is a blog for the developers of Stack Exchange to share their work on anything technology-related at the company. This is the scope that we're playing around with for now, we may certainly expand it later on if we see that there's interest in expanding (outreach, diversity, infographics, guest contributors, etc.) But for now these are the requirements:
+This is a blog for the developers of Stack Exchange to share their work on anything technology-related at the company. This is the scope that we're playing around with for now, and it's meant to be narrow by design. We may certainly expand it later on if we see that there's interest in expanding (outreach, diversity, interactive pieces, guest contributors, etc.) But for now these are the requirements:
 
  - Your post is about something related to Stack Exchange or the work you do there
  - It is about technology or the technology community
