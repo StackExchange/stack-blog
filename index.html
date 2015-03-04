@@ -28,7 +28,7 @@ layout: default
 	        {{ post.excerpt }}
 	      </div>
 	      
-	      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Continue reading</a>
+	      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Continue reading</a> {{ post.content | reading_time_as_i }}
 	    </article>
 	  {% endfor %}
 	</div>
