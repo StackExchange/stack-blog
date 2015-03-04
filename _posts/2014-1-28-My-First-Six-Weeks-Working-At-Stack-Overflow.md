@@ -10,6 +10,16 @@ tags: onboarding
 
 I started working at [Stack Exchange](http://www.stackexchange.com/) (which many know for/as [Stack Overflow](http://stackoverflow.com/)) as a software developer just six weeks ago. This (lengthy) post is about a number of things: what it was like relearning a lot of what I know about web development, the challenges and resources I encountered doing so, and a few pointers others might benefit from on-boarding on a new development team.
 
+{% highlight ruby %}
+def show
+  @widget = Widget(params[:id])
+  respond_to do |format|
+    format.html # show.html.erb
+    format.json { render json: @widget }
+  end
+end
+{% endhighlight %}
+
 # About Me
 
 I think to grasp what this experience was like, it's useful to have some context. I won't go into all the details about joining (that's a whole other story), but just the necessary bits. Before I joined Stack, I was working at a [Big Four consulting firm](http://en.wikipedia.org/wiki/Big_Four_(audit_firms)) in their technology division straight out of college. After I built [Bento](https://www.bento.io/), I had the opportunity to join Stack, and I took it. What's also important is that I'm a self-taught developer. Pretty much everything i know is through online tutorials and some books.
