@@ -36,11 +36,18 @@ header {
 }
 
 article.post {
+	.post-tag, .postTag {
+		padding: 0.45em 0.5em 0.35em 0.5em;
+		.fontSize(xxs);
+	}
 	.inner-container {
 		max-width: 800px;
 	}
 	.author {
 		font-size: 16px;
+	}
+	.tags {
+		text-align: right;
 	}
 	.entry {
 		margin: 50px 0px;
@@ -52,6 +59,21 @@ article.post {
 		}
 	}
 	&.preview-post {
+		.date {
+			font-size: 12px;
+			color: @color-grayMid;
+		}
+		.post-header {
+			padding: 15px 0px;
+			.tags {
+				margin-top: 25px;
+			}
+			&.no-author {
+				.tags {
+					margin-top: -10px;
+				}
+			}
+		}
 		.hero-container {
 			width: 100%;
 			height: 150px;
@@ -100,7 +122,6 @@ article.author {
 	}
 }
 .author-container {
-	padding: 15px 0px;
 	&.large {
 		img {
 			width: 100px;
@@ -117,7 +138,6 @@ article.author {
 			}
 		}
 	}
-
 	img {
 		width: 50px;
 		margin-right: 15px;
@@ -126,7 +146,7 @@ article.author {
 	}
 	.info {
 		.author-name {
-			margin-top: 5px;
+			padding-top: 8px;
 			font-size: 16px;
 			margin-bottom: 5px;
 		}
