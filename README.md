@@ -18,7 +18,7 @@ This is a blog for the developers of Stack Exchange to share their work on anyth
 If you are unsure of whether your post meets the requirements, it's probably not a great fit. If you are very comfortable modifying the content you want to contribute to fit more cleanly, go ahead and do it! Here are some examples of things that do or don't fit in with these requirements:
 
 :heavy_multiplication_x: Why CSS frameworks are awesome generally  
-:heavy_check_mark: How design and development worked together to create a Pattern Library
+:heavy_check_mark: How design and development worked together to create a pattern library
 
 :heavy_multiplication_x: How awesome the food is at Stack Exchange  
 :heavy_check_mark: Why we still believe in private offices and remote work
@@ -26,7 +26,7 @@ If you are unsure of whether your post meets the requirements, it's probably not
 :heavy_multiplication_x: How I built *another* 2046 clone, but in Cobol!  
 :heavy_check_mark: How I helped build Winter Bash snow animations
 
-:heavy_multiplication_x: Why I think diversity is important to building products  
+:heavy_multiplication_x: Why I think diversity is important to building technology products  
 :heavy_check_mark: How we approach hiring engineers to avoid bias
 
 ## Quickstart
