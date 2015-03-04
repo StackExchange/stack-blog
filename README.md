@@ -22,9 +22,9 @@ This blog runs on [Jekyll](http://jekyllrb.com/) and [GitHub Pages](https://page
 	twitter: [twitter handle, optional though recommended]
 	job: [your job title]
 	website: [url to your personal website]
-	--- 
+	---
 
-So Jon Chan's `jonhmchan.md` file would look like
+So Jon Chan's `jonhmchan.md` file would look like:
 
 	---
 	layout: author
