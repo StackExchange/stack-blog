@@ -43,7 +43,7 @@ If you are a developer, you can do this simply by submitting a PR or adding this
 
 ![Adding yourself as an author](http://stackexchange.github.io/blog/images/adding_authors.png)
 
-###2. Creating a post
+###2. Publishing a post
 To create a new post, you need to create a new markdown file with a particular format in the `_posts` folder in order to publish. The file needs to include the date and title seperated by dashes: `YYYY-MM-DD-[Title with dashes as spaces].md`. For example, Jon Chan published a post on January 28th, 2014 titled "My First Six Weeks Working at Stack Overflow". So the title of his file was `2014-1-28-My-First-Six-Weeks-At-Stack-Overflow.md`.  In the content of this markdown file should be the following: 
 ```
 ---
