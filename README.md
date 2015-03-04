@@ -12,9 +12,9 @@ This blog runs on [Jekyll](http://jekyllrb.com/) and [GitHub Pages](https://page
 
 ## Quickstart
 
-###Add yourself as a contributor with an author file
+###1. Add yourself as a contributor with an author file
 
-1. You need to create a new markdown file with your username in the `_authors` folder to be included as a contributor on the blog. For example, Jon Chan uses the username `jonhmchan` so he would create a new file named `jonhmchan.md`. In the content of this file should be the following:
+You need to create a new markdown file with your username in the `_authors` folder to be included as a contributor on the blog. For example, Jon Chan uses the username `jonhmchan` so he would create a new file named `jonhmchan.md`. In the content of this file should be the following:
 ```
 ---
 layout: author
@@ -38,3 +38,4 @@ twitter: jonhmchan
 website: http://www.jonhmchan.com/
 ---
 ```
+If you are a developer, you can do this simply by submitting a PR or adding this file to the `_authors` directory. If you are not a developer, you can use [this link on GitHub](https://github.com/StackExchange/blog/new/gh-pages/_authors) to create this file, then submit your changes by adding a commit message like `Added [your name] to authors` and hitting the `Commit new file` button.
