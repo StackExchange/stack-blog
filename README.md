@@ -103,6 +103,11 @@ Adding this file is very similar to adding your original authors markdown file. 
 
 Everything following the second set of three dashes in your post markdown file will be the content of your post. We use [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to format the post. 
 
+**Where to get good hero images**
+ - [Unsplash](https://unsplash.com/grid)
+ - You can also upload them to `images` and it will be accessible using `/blog/images/path-to-your-image`
+ - Search our internal drive for "Photos" there are a number of professional photos we have in store
+
 **Code snippets**
 
 Jekyll has support for code snippets and highlighting built-in using [Pygments](http://pygments.org/). To include a codeblock with in your markdown, use the following syntax:
