@@ -2,7 +2,7 @@
 layout: post
 title: My First Six Weeks Working at Stack Overflow
 author: jonhmchan
-hero: https://ununsplash.imgix.net/photo-1416339306562-f3d12fefd36f?q=75&fm=jpg&s=dd8bffcffb3d622bea05c74d203121c6https://unsplash.imgix.net/photo-1416339442236-8ceb164046f8?q=75&fm=jpg&s=8eb83df8a744544977722717b1ea4d09
+hero: https://ununsplash.imgix.net/40/OSASuBX1SGu4kb3ozvne_IMG_1088.jpg?q=75&fm=jpg&s=d6ce591c2de5ee7a465c856782fe765c
 source: http://www.jonhmchan.com/blog/2014/1/16/my-first-six-weeks-working-at-stack-overflow
 category: engineering
 tags: onboarding
