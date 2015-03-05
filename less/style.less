@@ -49,6 +49,14 @@ header {
 	.fontSize(xxs);
 }
 article.post {
+	padding: 25px 0;
+	border-bottom: 1px solid @color-grayLight;
+	&:first-child {
+		padding-top: 0;
+	}
+	&:last-child{
+		border-bottom: none;
+	}
 	.inner-container {
 		max-width: 800px;
 	}
