@@ -39,7 +39,7 @@ You need to create a new markdown file with your username in the `_authors` fold
 layout: author
 id: [username, must be same as file name]
 name: [your full name]
-job: [job title, in quotes]
+job: [job title]
 avatar: [url to an image to be used with all your posts]
 twitter: [your twitter handle]
 website: [url to your personal site]
@@ -51,7 +51,7 @@ So Jon Chan's `jonhmchan.md` file would look like:
 layout: author
 id: jonhmchan
 name: Jon Chan
-job: "Web Developer"
+job: Web Developer
 avatar: https://pbs.twimg.com/profile_images/519220131243646977/79kxjMuY_400x400.jpeg
 twitter: jonhmchan
 website: http://www.jonhmchan.com/
@@ -64,7 +64,7 @@ If you are a developer, you can do this simply by submitting a PR or adding this
 ![Adding yourself as an author](http://stackexchange.github.io/blog/images/adding_authors.png)
 
 ###2. Publishing a post
-To create a new post, you need to create a new markdown file with a particular format in the `_posts` folder in order to publish. The file needs to include the date and title seperated by dashes: `YYYY-MM-DD-[Title with dashes as spaces].md`. For example, Jon Chan published a post on January 28th, 2014 titled "My First Six Weeks Working at Stack Overflow". So the title of his file was `2014-1-28-My-First-Six-Weeks-At-Stack-Overflow.md`.  In the content of this markdown file should be the following: 
+To create a new post, you need to create a new markdown file with a particular format in the `_posts` folder in order to publish. The file needs to include the date and title seperated by dashes: `YYYY-MM-DD-Title-With-Dashes-As-Spaces.md`. For example, Jon Chan published a post on January 28th, 2014 titled "My First Six Weeks Working at Stack Overflow". So the title of his file was `2014-1-28-My-First-Six-Weeks-At-Stack-Overflow.md`.  In the content of this markdown file should be the following: 
 ```
 ---
 layout: post
