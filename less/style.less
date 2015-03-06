@@ -31,7 +31,7 @@ header {
 		padding: 15px;
 	}
 	nav {
-		padding-top: 20px;
+		padding-top: 19px;
 		text-align: right;
 		a {
 			display: inline-block;
@@ -86,6 +86,7 @@ article.post {
 				margin-top: 25px;
 			}
 			&.no-author {
+				padding-bottom: 0;
 				.tags {
 					margin-top: -10px;
 				}
@@ -179,4 +180,35 @@ footer {
 	background: @color-grayLight;
 	padding: 50px 0px;
 	text-align: center;
+}
+
+@media (max-width: @mediaQuery-small) {
+	.add-padding {
+		padding: 0 25px;
+	}
+	.media-padded {
+		.add-padding;
+	}
+	article.post {
+		&.preview-post {
+			.hero-container {
+				border-radius: 0;
+			}
+		}
+		.entry {
+			margin-top: 0;
+		}
+		.tags {
+			text-align: left;
+		}
+	}
+	article.author {
+		.author-content {
+			margin-top: 0;
+		}
+	}
+	.sidebar {
+		border-top: 1px solid @color-grayLight;
+		padding-top: 25px;
+	}
 }
