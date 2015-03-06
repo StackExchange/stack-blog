@@ -130,7 +130,7 @@ end
 ```
 **Adding tags**
 
-Jekyll has some support for tags, but requires that you do a little bit of work in order to make sure new tags are accomodated. All tags must have a markdown file named after the tag in the `_tags` folder. For example, the `onboarding` tag markdown file `onboarding.md` looks like this:
+Jekyll has some support for tags, but requires that you do a little bit of work in order to make sure new tags are accommodated. All tags must have a markdown file named after the tag in the `_tags` folder. For example, the `onboarding` tag markdown file `onboarding.md` looks like this:
 ```
 ---
 layout: tag
