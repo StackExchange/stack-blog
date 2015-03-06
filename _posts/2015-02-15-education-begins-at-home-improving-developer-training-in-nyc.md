@@ -2,7 +2,7 @@
 layout: post
 title: 'Education Begins At Home: Improving developer training in NYC'
 author: bethanymarz
-hero: http://i.stack.imgur.com/TRXOC.png
+hero: /blog/images/StackExchange-19.jpg
 source: http://blog.stackexchange.com/2015/02/education-begins-at-home-improving-developer-training-in-nyc/
 category: announcement
 tags: diversity education stack-exchange
