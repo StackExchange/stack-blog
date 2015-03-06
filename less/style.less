@@ -98,9 +98,15 @@ article.post {
 			overflow: hidden;
 			margin-bottom: 15px;
 			border-radius: 5px;
+			position: relative;
 			img {
+				position: absolute;
+				left: 50%;
+				top: 50%;
 				width: 100%;
-				margin-top: -25%;
+                -webkit-transform: translate(-50%,-50%);
+                -ms-transform: translate(-50%,-50%);
+                transform: translate(-50%,-50%);
 			}
 		}
 		h1 {
