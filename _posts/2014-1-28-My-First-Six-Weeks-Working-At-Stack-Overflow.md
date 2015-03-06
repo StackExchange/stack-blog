@@ -6,6 +6,7 @@ hero: https://ununsplash.imgix.net/40/OSASuBX1SGu4kb3ozvne_IMG_1088.jpg?q=75&fm=
 source: http://www.jonhmchan.com/blog/2014/1/16/my-first-six-weeks-working-at-stack-overflow
 category: engineering
 tags: onboarding
+redirect_to: http://www.jonhmchan.com/blog/2014/1/16/my-first-six-weeks-working-at-stack-overflow
 ---
 
 I started working at [Stack Exchange](http://www.stackexchange.com/) (which many know for/as [Stack Overflow](http://stackoverflow.com/)) as a software developer just six weeks ago. This (lengthy) post is about a number of things: what it was like relearning a lot of what I know about web development, the challenges and resources I encountered doing so, and a few pointers others might benefit from on-boarding on a new development team.
