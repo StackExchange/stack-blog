@@ -1,0 +1,4 @@
+---
+layout: tag
+slug: education
+---
