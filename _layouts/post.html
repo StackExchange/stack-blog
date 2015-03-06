@@ -17,27 +17,27 @@ layout: default
 		</div>
 	</div>
 	<div class="inner-container">
-		  <div class="entry">
+		<div class="entry">
 		  	{% if page.source %}
 			  	<div class="source">
 			  		<p>This post was originally published elsewhere and has been put here with the author's permission. You can see <a href="{{ page.source }}" target="_blank">where it was originally published here</a>.</p>
 			  	</div>
 		  	{% endif %}
-		  	<div class="media-padded">
-			    {{ content }}
-			    <div class="metadata">
-				    <p>
-				    	<strong>Tags</strong>&nbsp;
-						{% for tag in page.tags %}
-							<a href="{{ site.baseurl }}/tags/{{ tag }}"><span class="postTag">{{ tag }}</span></a>
-						{% endfor %}
-				    </p>
-			    </div>
-			 </div>
-		  </div>
-		  <div class="disqus media-padded">
-			  <p class="_help">There could be a Disqus here for comments</p>
-			  {% include disqus.html disqus_identifier=page.disqus_identifier %}
-		  </div>
+			  	<div class="media-padded">
+				    {{ content }}
+				    <div class="metadata">
+					    <p>
+					    	<strong>Tags</strong>&nbsp;
+							{% for tag in page.tags %}
+								<a href="{{ site.baseurl }}/tags/{{ tag }}"><span class="postTag">{{ tag }}</span></a>
+							{% endfor %}
+					    </p>
+				    </div>
+				</div>
+				<div class="disqus media-padded">
+				  <p class="_help">There could be a Disqus here for comments</p>
+				  {% include disqus.html disqus_identifier=page.disqus_identifier %}
+				</div>
+		</div>
 	</div>
-</div>
+</article>
