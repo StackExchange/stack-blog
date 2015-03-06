@@ -2,24 +2,23 @@
 layout: post
 title: I Can Powershell and So Can You!
 author: selfcommit
-hero: http://i.imgur.com/zTMRAgA.jpg
+hero: /blog/images/window.jpg
 source: http://www.selfcommit.com/
 category: engineering
 tags: scripting
 ---
-Often automating a task is <a href="http://xkcd.com/1205/" target="_blank">not worth the time </a>and rarely takes<a href="http://xkcd.com/1319/" target="_blank"> the time planned</a>. I work at <a href="http://www.stackexchange.com/" target="_blank">StackExchange</a>, where we have lots of people on our team and in our community <a href="http://stackoverflow.com/tags/powershell/hot" target="_blank">who are amazing at Powershell</a>.&nbsp;<b>
-<br>I am not one of those people</b>.<br />
-<h4>
-<i>Is it possible to save time using Powershell, even if you're not a guru?</i>
+Often automating a task is [not worth the time](http://xkcd.com/1205/) and rarely takes [the time intended.](http://xkcd.com/1319/) I work at [Stack Exchange](http://www.stackexchange.com/), where we have lots of people on our team and in our community that are [amazing at Powershell](http://stackoverflow.com/tags/powershell/hot).
+**I am not one of those people**
+
+#Is it possible to save time using Powershell, even if you're not a guru?
 <br>
-<br>
-<i>Sure!</i></h4>
+**Sure!**
 <div>
 <h3><span style="font-size: large;">Framing the Problem</span></h3>
-My team is partially responsible for managing our <a href="http://www.google.com/enterprise/apps/business/" target="_blank">Google Apps for Work</a> instance.  Google Apps for Work includes a great tool for linking your existing Active Directory structure to your Google Accounts. &nbsp;That tool,&nbsp;<a href="https://support.google.com/a/answer/106368?hl=en" target="_blank">Google Apps Directory Sync</a>&nbsp;(GADS) allows a company to sync Active Directory Users and Groups with Google email accounts and mailing lists. &nbsp;We already sync our users with email addresses, but my task is to also link our security groups with email distribution lists. &nbsp;</div>
+My team is partially responsible for managing our <a href="http://www.google.com/enterprise/apps/business/" target="_blank">Google Apps for Work</a> instance.  Google Apps for Work includes a great tool for linking your existing Active Directory structure to your Google Accounts. That tool,<a href="https://support.google.com/a/answer/106368?hl=en" target="_blank">Google Apps Directory Sync</a>(GADS) allows a company to sync Active Directory Users and Groups with Google email accounts and mailing lists. We already sync our users with email addresses, but my task is to also link our security groups with email distribution lists. </div>
 
 <br />
-In a fresh environment, this would be incredibly easy. &nbsp;However, we have a number of mailing lists that exist on the "Google side" that don't have matching security groups in AD. &nbsp;This issue is compounded because when group sync is enabled in GADS, any group that does not match an AD group will be deleted on the Google side*. &nbsp;
+In a fresh environment, this would be incredibly easy. However, we have a number of mailing lists that exist on the "Google side" that don't have matching security groups in AD. This issue is compounded because when group sync is enabled in GADS, any group that does not match an AD group will be deleted on the Google side*. 
 <h3>
 <span style="font-size: large;">Steps to resolve the problem:</span></h3>
 </div>
@@ -30,17 +29,17 @@ In a fresh environment, this would be incredibly easy. &nbsp;However, we have a 
 <li>Populate the AD Security Groups with the correct users</li>
 </ol>
 <div>
-If you're familiar with GADS, you'll know #1 is pretty easy. &nbsp;Using an AD filter we can&nbsp;<a href="https://www.google.com/support/enterprise/static/gapps/docs/admin/en/gads/admin/config_group_sync.html" target="_blank">match groups in our AD structure</a>&nbsp;to existing Google Groups. &nbsp; The only concern here is to make sure that the AD groups actually have the same users as the existing Google group, since no sync has occurred previously. &nbsp;</div>
+If you're familiar with GADS, you'll know #1 is pretty easy. Using an AD filter we can<a href="https://www.google.com/support/enterprise/static/gapps/docs/admin/en/gads/admin/config_group_sync.html" target="_blank">match groups in our AD structure</a>to existing Google Groups.  The only concern here is to make sure that the AD groups actually have the same users as the existing Google group, since no sync has occurred previously. </div>
 <br>
-The second issue, Generating AD Security Groups that don't exist as mailing lists, &nbsp;poses a problem.  Running a simulated Sync on GADS shows&nbsp;<b>80 Google Groups&nbsp;</b>without a matching AD distribution group.  Some of those groups have 100+ members. (Done by hand, That's quite a few clicks...)
+The second issue, Generating AD Security Groups that don't exist as mailing lists, poses a problem.  Running a simulated Sync on GADS shows<b>80 Google Groups</b>without a matching AD distribution group.  Some of those groups have 100+ members. (Done by hand, That's quite a few clicks...)
 
 <br>
 <div>
-This is our first opportunity to use Powershell to solve our problems. &nbsp;</div>
+This is our first opportunity to use Powershell to solve our problems. </div>
 <br />
 
 <div style="text-align: left;">
-I start by grabbing a list of groups that arn't in AD. &nbsp;GADS simulated Sync logs those groups in a way that is easily copy/pasted into a nice CVS file.</div>
+I start by grabbing a list of groups that arn't in AD. GADS simulated Sync logs those groups in a way that is easily copy/pasted into a nice CVS file.</div>
 <br>
 <div class="separator" style="clear: both; text-align: center;">
 </div>
@@ -57,9 +56,9 @@ Now that we have the groups we can get them into AD:</h3>
 <h4><i>"BUT I DONT KNOW HOW TO DO THAT IN POWERSHELL!"</i></div></h4>
 </div>
 <div>
-That's ok. &nbsp;Lets use our minimal knowledge, and Google to figure out how.</div>
+That's ok. Lets use our minimal knowledge, and Google to figure out how.</div>
 <div>
-A quick Google search shows a Technet article on&nbsp;<a href="http://technet.microsoft.com/en-us/library/ee176874.aspx" target="_blank">Import-CSV</a>. &nbsp;Reading Microsoft Technet articles is an art all its own. &nbsp;These articles provide lots of in depth information on Import-CSV. &nbsp;While more information is GREAT, we're trying to Get Things Done. &nbsp;Let's CTRL&nbsp;+ F to find relevant examples:</div>
+A quick Google search shows a Technet article on<a href="http://technet.microsoft.com/en-us/library/ee176874.aspx" target="_blank">Import-CSV</a>. Reading Microsoft Technet articles is an art all its own. These articles provide lots of in depth information on Import-CSV. While more information is GREAT, we're trying to Get Things Done. Let's CTRL+ F to find relevant examples:</div>
 <div class="separator" style="clear: both; text-align: center;">
 </div>
 <div>
@@ -69,18 +68,18 @@ A quick Google search shows a Technet article on&nbsp;<a href="http://technet.mi
 <div class="separator" style="clear: both;">
 <br /></div>
 <div class="separator" style="clear: both;">
-We quickly isolate the example CSV import. &nbsp;By dumping that import into a variable ($csv) we now have an object Powershell can manipulate. &nbsp;Following a similar search and CTRL&nbsp;+ F for&nbsp;<a href="http://technet.microsoft.com/en-us/library/ee617258.aspx" target="_blank">New-ADGoup</a>&nbsp;we end up a short script:</div>
+We quickly isolate the example CSV import. By dumping that import into a variable ($csv) we now have an object Powershell can manipulate. Following a similar search and CTRL+ F for<a href="http://technet.microsoft.com/en-us/library/ee617258.aspx" target="_blank">New-ADGoup</a>we end up a short script:</div>
 
 <script src="https://gist.github.com/selfcommit/1781985ae311dda7b02e.js"></script>
 
-<h4>So Close.. But wait there's more!</h4>
+#So Close.. But wait there's more!
 
 Problem 1 and 2 are resolved, but we still need to populate those AD groups. Many of the groups only have a few users, and are easily updated using the build in Active Directory Interface. Some groups are larger. So large that the existing AD interface would require<b>hundreds</b>, or even t<b>housands of clicks</b>. If you think that's too many clicks, you'd be right.</div>
 
 <h4>Powershell can help!</h4>
 <div>
 
-Just as before, GADS simulated sync will return a list of users effected by a planned sync. &nbsp;We can again pull that list of users into a CSV.  Lets modify our existing Powershell script to populate AD groups.We match on email address, not AD username, so we need to find the AD user with a matching email address, and add them to the correct group.&nbsp;<a href="http://technet.microsoft.com/en-us/library/ee617241.aspx" target="_blank">Get-ADUser</a>&nbsp; has a filter option, which accepts a string. &nbsp;If we set the email address provided by GADS as the filtered string, we should always get the user we want.</div>
+Just as before, GADS simulated sync will return a list of users effected by a planned sync. We can again pull that list of users into a CSV.  Lets modify our existing Powershell script to populate AD groups.We match on email address, not AD username, so we need to find the AD user with a matching email address, and add them to the correct group.<a href="http://technet.microsoft.com/en-us/library/ee617241.aspx" target="_blank">Get-ADUser</a> has a filter option, which accepts a string. If we set the email address provided by GADS as the filtered string, we should always get the user we want.</div>
 <br>
 
 
