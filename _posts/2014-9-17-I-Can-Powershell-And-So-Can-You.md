@@ -35,20 +35,19 @@ If you're familiar with GADS, you'll know #1 is pretty easy. &nbsp;Using an AD f
 The second issue, Generating AD Security Groups that don't exist as mailing lists, &nbsp;poses a problem.  Running a simulated Sync on GADS shows&nbsp;<b>80 Google Groups&nbsp;</b>without a matching AD distribution group.  Some of those groups have 100+ members. (Done by hand, That's quite a few clicks...)
 
 <br>
-<br>
 <div>
 This is our first opportunity to use Powershell to solve our problems. &nbsp;</div>
-![Too Many Clicks](http://i.imgur.com/6l48aYe.jpg)
-<div>
-<br /></div>
+<br />
 
 <div style="text-align: left;">
 I start by grabbing a list of groups that arn't in AD. &nbsp;GADS simulated Sync logs those groups in a way that is easily copy/pasted into a nice CVS file.</div>
+<br>
 <div class="separator" style="clear: both; text-align: center;">
 </div>
 <div class="separator" style="clear: both; text-align: center;">
 <a href="http://4.bp.blogspot.com/-Pmb4Odbat8k/VBj_pFaGwrI/AAAAAAAAE0k/ytn4GoF_Qgo/s1600/copy-csv.gif" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://4.bp.blogspot.com/-Pmb4Odbat8k/VBj_pFaGwrI/AAAAAAAAE0k/ytn4GoF_Qgo/s1600/copy-csv.gif" height="308" width="640" /></a></div>
 <h3>
+<br>
 Now that we have the groups we can get them into AD:</h3>
 <ul>
 <li>Read the CSV into powershell</li>
@@ -74,25 +73,23 @@ We quickly isolate the example CSV import. &nbsp;By dumping that import into a v
 
 <script src="https://gist.github.com/selfcommit/1781985ae311dda7b02e.js"></script>
 
-<h4>
-So Close.. But wait there's more!</h4>
-Problem 1 and 2 are resolved, but we still need to populate those AD groups. &nbsp;Many of the groups only have a few users, and are easily updated using the build in Active Directory Interface. &nbsp;Some groups are larger. &nbsp;So large that the existing AD interface would require&nbsp;<b>hundreds</b>, or even t<b>housands of clicks</b>. &nbsp;If you think that's too many clicks, you'd be right.</div>
+<h4>So Close.. But wait there's more!</h4>
+
+Problem 1 and 2 are resolved, but we still need to populate those AD groups. Many of the groups only have a few users, and are easily updated using the build in Active Directory Interface. Some groups are larger. So large that the existing AD interface would require<b>hundreds</b>, or even t<b>housands of clicks</b>. If you think that's too many clicks, you'd be right.</div>
+
+<h4>Powershell can help!</h4>
 <div>
 
-<h4><span style="font-size: large;">Powershell can help!</span></div></h4>
-<div>
-
-Just as before, GADS simulated sync will return a list of users effected by a planned sync. &nbsp;We can again pull that list of users into a TSV.  Lets modify our existing Powershell script to populate AD groups.
-<div>
-We match on email address, not AD username, so we need to find the AD user with a matching email address, and add them to the correct group.&nbsp;<a href="http://technet.microsoft.com/en-us/library/ee617241.aspx" target="_blank">Get-ADUser</a>&nbsp; has a filter option, which accepts a string. &nbsp;If we set the email address provided by GADS as the filtered string, we should always get the user we want.</div>
+Just as before, GADS simulated sync will return a list of users effected by a planned sync. &nbsp;We can again pull that list of users into a CSV.  Lets modify our existing Powershell script to populate AD groups.We match on email address, not AD username, so we need to find the AD user with a matching email address, and add them to the correct group.&nbsp;<a href="http://technet.microsoft.com/en-us/library/ee617241.aspx" target="_blank">Get-ADUser</a>&nbsp; has a filter option, which accepts a string. &nbsp;If we set the email address provided by GADS as the filtered string, we should always get the user we want.</div>
+<br>
 
 
 <script src="https://gist.github.com/selfcommit/696d2a45593313044dde.js"></script>
 
-My own workflow involves grabbing a single set of usernames and dumping them into a TSV<br />
-I name that TSV after the security Group I intend to populate.<br />
+My own workflow involves grabbing a single set of usernames and dumping them into a CSV<br />
+I name that CSV after the security Group I intend to populate.<br />
 Defining my path with the string below lets me change only 1 variable with each pass of the script.
 <br>
-I hope my first career as a teach dosen't bleed through too much on this post, but I think with a little effort powershell, or any scripting language can save the average user lots of time and repetition.  
+I hope my first career as a teacher dosen't bleed through too much on this post. Powershell can be fun, and with a bit of effort save considerable time. 
 
 *After some research I found a way to have GADS ignore certains groups, but if I had found that earlier we wouldn't have this fun post!
