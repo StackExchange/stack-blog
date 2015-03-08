@@ -49,22 +49,36 @@ header {
 	background: @color-grayLight;
 }
 .featured-posts {
-	article.post {
-		h2 {
-			font-weight: 600;
-			margin-bottom: 0;
-			.fontSize(m);
-		}
-		h6 {
-			border-bottom: 1px solid @color-grayLight;
-			padding: 0px 15px 10px 15px;
-			margin-bottom: 15px;
-			letter-spacing: 5px;
-			display: inline-block;
-			color: @color-grayMid;
+	a.post {
+		display: block;
+		text-decoration: none;
+		&:hover {
+			background: @color-orange;
+			.top {
+				p._h2, p._h6 {
+					border-color: @color-white;
+					color: @color-white;
+				}
+			}
 		}
 		.top {
 			padding: 50px;
+			p._h2 {
+				font-weight: 600;
+				margin-bottom: 0;
+				.fontSize(m);
+				color: @title-color;
+			}
+			p._h6 {
+				text-transform: uppercase;
+				border-bottom: 1px solid @color-grayLight;
+				padding: 0px 15px 10px 15px;
+				margin-bottom: 15px;
+				letter-spacing: 5px;
+				display: inline-block;
+				.fontSize(xs);
+				color: @color-grayMid;
+			}
 		}
 		.image-container {
 			height: 250px;
