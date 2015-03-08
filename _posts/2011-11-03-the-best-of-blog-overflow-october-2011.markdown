@@ -1,5 +1,5 @@
 ---
-author: Aarthi Devanathan
+author: aarthi
 comments: true
 date: 2011-11-03 20:22:49+00:00
 layout: post
