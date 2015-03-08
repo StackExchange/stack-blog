@@ -3,6 +3,7 @@ author: rcartaino
 comments: true
 date: 2010-07-07 06:40:25+00:00
 layout: post
+hero: /blog/images/wordpress/Empty-Restaurant.jpg
 slug: area-51-asking-the-first-questions
 title: 'Your New Site: Asking the First Questions'
 wordpress_id: 3924

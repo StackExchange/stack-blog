@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-10-14 08:39:27+00:00
 layout: post
+hero: /blog/images/wordpress/new-public-sites.png
 slug: new-question-migration-paths
 title: New Question Migration Paths
 wordpress_id: 5633

@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-08-18 00:03:25+00:00
 layout: post
+hero: /blog/images/wordpress/native-image-uploads-imgur.png
 slug: new-image-upload-support
 title: New Image Upload Support
 wordpress_id: 4700

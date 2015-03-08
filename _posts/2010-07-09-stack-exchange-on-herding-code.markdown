@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-07-09 03:57:31+00:00
 layout: post
+hero: http://herdingcode.com/?p=263
 slug: stack-exchange-on-herding-code
 title: Stack Exchange on Herding Code
 wordpress_id: 4030

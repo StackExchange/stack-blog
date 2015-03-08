@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-10-19 14:41:33+00:00
 layout: post
+hero: /blog/images/wordpress/voting-controls.png
 slug: vote-early-vote-often
 title: Vote Early, Vote Often
 wordpress_id: 5697

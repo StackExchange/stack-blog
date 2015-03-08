@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2011-02-04 07:59:54+00:00
 layout: post
+hero: http://stackoverflow.com/users/34397/slaks
 slug: welcome-our-new-trilogy-moderators-for-2011
 title: Welcome Our New Trilogy Moderators for 2011!
 wordpress_id: 7093

@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-08-27 06:59:46+00:00
 layout: post
+hero: /blog/images/wordpress/question-tags-highlighted2.png
 slug: new-tag-info-pages
 title: New Tag Info Pages
 wordpress_id: 4887

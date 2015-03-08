@@ -3,6 +3,7 @@ author: spolsky
 comments: true
 date: 2010-09-02 16:50:46+00:00
 layout: post
+hero: /blog/images/wordpress/ubuntu-vs-unix-graph.png
 slug: fork-it
 title: Fork it!
 wordpress_id: 4954

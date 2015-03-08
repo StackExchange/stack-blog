@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-03-21 11:00:09+00:00
 layout: post
+hero: /blog/images/wordpress/examining-vote-chad.jpg
 slug: more-voting-anomalies
 title: More Voting Anomalies
 wordpress_id: 897

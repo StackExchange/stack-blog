@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-04-04 13:19:19+00:00
 layout: post
+hero: http://99designs.com/contests/20088
 slug: logo-design-contest-for-serverfaultcom
 title: Logo Design Contest for serverfault.com
 wordpress_id: 952

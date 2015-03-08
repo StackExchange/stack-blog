@@ -3,6 +3,7 @@ author: alex
 comments: true
 date: 2011-09-15 19:08:31+00:00
 layout: post
+hero: http://i.stack.imgur.com/NCCFV.jpg
 slug: welcome-chaos
 title: Welcome [Valued Associates That Make Up] CHAOS!
 wordpress_id: 9805

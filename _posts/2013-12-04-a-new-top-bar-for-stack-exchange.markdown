@@ -3,6 +3,7 @@ author: david
 comments: true
 date: 2013-12-04 19:50:29+00:00
 layout: post
+hero: http://i.stack.imgur.com/ZXNdN.png
 slug: a-new-top-bar-for-stack-exchange
 title: A New Top Bar for Stack Exchange
 wordpress_id: 14223

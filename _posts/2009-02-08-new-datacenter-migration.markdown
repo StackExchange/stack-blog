@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-02-08 19:52:57+00:00
 layout: post
+hero: /blog/images/wordpress/new-datacenter-racked-servers-glamour-shots.jpg
 slug: new-datacenter-migration
 title: New Datacenter Migration
 wordpress_id: 615

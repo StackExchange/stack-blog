@@ -3,6 +3,7 @@ author: rebecca
 comments: true
 date: 2011-10-04 10:00:46+00:00
 layout: post
+hero: http://tug.org
 slug: stack-exchange-becomes-an-institutional-member-of-the-tex-users-group
 title: Stack Exchange becomes an institutional member of the TeX Users Group
 wordpress_id: 9989

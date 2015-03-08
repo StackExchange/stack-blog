@@ -3,6 +3,7 @@ author: spolsky
 comments: true
 date: 2011-04-07 17:44:10+00:00
 layout: post
+hero: http://meetup.com/stackoverflow
 slug: stack-overflow-around-the-world
 title: Stack Overflow Around the World
 wordpress_id: 7670

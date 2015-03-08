@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-01-17 06:40:44+00:00
 layout: post
+hero: /blog/images/wordpress/lenovo-rs110-server.jpg
 slug: furtheradventures-of-a-raid-noob
 title: Further Adventures of a RAID Noob
 wordpress_id: 453

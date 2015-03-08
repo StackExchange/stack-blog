@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-10-01 09:35:55+00:00
 layout: post
+hero: http://peanuts.com/
 slug: an-area-51-apology-and-clarification
 title: An Area 51 Apology -- and Clarification
 wordpress_id: 5325

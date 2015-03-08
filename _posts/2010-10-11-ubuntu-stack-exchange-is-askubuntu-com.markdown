@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-10-11 19:00:55+00:00
 layout: post
+hero: http://askubuntu.com
 slug: ubuntu-stack-exchange-is-askubuntu-com
 title: Ubuntu Stack Exchange is askubuntu.com
 wordpress_id: 5543

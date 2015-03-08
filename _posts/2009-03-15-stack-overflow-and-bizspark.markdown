@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-03-15 06:59:01+00:00
 layout: post
+hero: /blog/images/wordpress/screwdrivers.jpg
 slug: stack-overflow-and-bizspark
 title: Stack Overflow and BizSpark
 wordpress_id: 846

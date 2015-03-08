@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-05-19 10:39:52+00:00
 layout: post
+hero: /blog/images/wordpress/auto-association.png
 slug: new-automatic-account-association
 title: New Automatic Account Association
 wordpress_id: 3236

@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-01-15 10:09:14+00:00
 layout: post
+hero: http://geekandpoke.typepad.com/geekandpoke/2008/05/the-new-social.html
 slug: what-would-a-stack-overflow-api-look-like
 title: What Would a Stack Overflow API Look Like?
 wordpress_id: 2544

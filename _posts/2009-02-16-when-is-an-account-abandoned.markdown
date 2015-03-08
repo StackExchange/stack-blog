@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-02-16 06:59:09+00:00
 layout: post
+hero: http://i.stack.imgur.com/dlqrE.png
 slug: when-is-an-account-abandoned
 title: When Is An Account "Abandoned"?
 wordpress_id: 666

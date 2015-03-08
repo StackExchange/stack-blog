@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2011-08-28 23:08:29+00:00
 layout: post
+hero: http://www.nerdmeritbadges.com/
 slug: a-bevy-of-new-badges
 title: A Bevy of New Badges
 wordpress_id: 9602

@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2012-02-29 20:24:19+00:00
 layout: post
+hero: /blog/images/wordpress/the-guessing-game.png
 slug: lets-play-the-guessing-game
 title: Let's Play The Guessing Game
 wordpress_id: 11203

@@ -3,6 +3,7 @@ author: bethanymarz
 comments: true
 date: 2012-11-02 22:09:07+00:00
 layout: post
+hero: /blog/images/wordpress/denver-blog-intro.png
 slug: stack-exchange-partners-with-denver-startup-week
 title: Stack Exchange partners with Denver Startup Week
 wordpress_id: 12452

@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2008-12-24 12:46:53+00:00
 layout: post
+hero: /blog/images/wordpress/tempest_holiday.jpg
 slug: a-stack-overflow-holiday
 title: A Stack Overflow Holiday
 wordpress_id: 185

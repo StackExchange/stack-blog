@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-11-24 06:59:07+00:00
 layout: post
+hero: http://powerscripting.wordpress.com/2009/11/22/episode-93-jeff-atwood-tells-us-rock-hard-awesome-will-create-teleportation-and-we-talk-about-serverfault/
 slug: server-fault-and-the-powerscripting-podcast
 title: Server Fault and the PowerScripting Podcast
 wordpress_id: 2188

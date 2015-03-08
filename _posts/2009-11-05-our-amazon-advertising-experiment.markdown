@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-11-05 15:00:43+00:00
 layout: post
+hero: /blog/images/wordpress/so-amazon-ads.png
 slug: our-amazon-advertising-experiment
 title: Our Amazon Advertising Experiment
 wordpress_id: 2122

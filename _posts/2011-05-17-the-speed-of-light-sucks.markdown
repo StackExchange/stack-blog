@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2011-05-17 11:48:58+00:00
 layout: post
+hero: /blog/images/wordpress/cdn-world-map.png
 slug: the-speed-of-light-sucks
 title: The Speed of Light Sucks
 wordpress_id: 8158

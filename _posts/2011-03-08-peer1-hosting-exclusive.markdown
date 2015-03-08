@@ -3,6 +3,7 @@ author: alison
 comments: true
 date: 2011-03-08 10:10:38+00:00
 layout: post
+hero: /blog/images/wordpress/shiny-peer-1.jpg
 slug: peer1-hosting-exclusive
 title: PEER 1 Hosting – Making your data center more awesome!
 wordpress_id: 7305

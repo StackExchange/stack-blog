@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2011-07-16 17:12:29+00:00
 layout: post
+hero: /blog/images/wordpress/iphone-mobile-stack-exchange.png
 slug: mobile-stack-exchange
 title: Mobile Stack Exchange
 wordpress_id: 8745

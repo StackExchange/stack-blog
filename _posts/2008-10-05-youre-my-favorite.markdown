@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2008-10-05 03:32:49+00:00
 layout: post
+hero: /blog/images/wordpress/stackoverflow-favorites-closeup.png
 slug: youre-my-favorite
 title: You're My Favorite
 wordpress_id: 110

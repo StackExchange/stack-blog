@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-04-16 09:20:13+00:00
 layout: post
+hero: /blog/images/wordpress/stackoverflow-comment-flags-votes.png
 slug: comments-now-with-flags-and-votes
 title: 'Comments: Now with Flags and Votes'
 wordpress_id: 1066

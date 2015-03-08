@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-10-08 19:21:33+00:00
 layout: post
+hero: /blog/images/wordpress/project-ask-elevator-pitch2.png
 slug: search-all-stack-exchange-sites
 title: Search All Stack Exchange Sites
 wordpress_id: 5481

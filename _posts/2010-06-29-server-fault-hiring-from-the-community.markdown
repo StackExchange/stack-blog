@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-06-29 17:43:07+00:00
 layout: post
+hero: http://serverfault.com/
 slug: server-fault-hiring-from-the-community
 title: 'Server Fault: Hiring From the Community'
 wordpress_id: 3895

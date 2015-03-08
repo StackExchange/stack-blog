@@ -3,6 +3,7 @@ author: alison
 comments: true
 date: 2012-01-26 16:00:56+00:00
 layout: post
+hero: http://blog.stackoverflow.com/2012/01/welcome-valued-associates-anna-rachel-carleejean-and-charles/bio-anna-lear/
 slug: welcome-valued-associates-anna-rachel-carleejean-and-charles
 title: Welcome Valued Associates Anna, Rachel, CarleeJean and Charles!
 wordpress_id: 10858

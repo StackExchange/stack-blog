@@ -3,6 +3,7 @@ author: lauren
 comments: false
 date: 2011-10-24 19:36:00+00:00
 layout: post
+hero: http://media.tumblr.com/tumblr_ltl1fdhc601qm2n4t.jpg
 published: false
 slug: '11873124659'
 title: Lessons from Event Sponsorships

@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-12-16 00:44:31+00:00
 layout: post
+hero: http://basicinstructions.net/basic-instructions/2009/12/13/how-to-discipline-your-employees.html
 slug: badges-positive-only
 title: 'Badges: Positive Only'
 wordpress_id: 2324

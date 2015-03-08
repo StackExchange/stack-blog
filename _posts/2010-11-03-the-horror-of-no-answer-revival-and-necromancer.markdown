@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-11-03 07:56:36+00:00
 layout: post
+hero: /blog/images/wordpress/unanswered-no-answers-tab.png
 slug: the-horror-of-no-answer-revival-and-necromancer
 title: 'The Horror of No Answer: Revival and Necromancer'
 wordpress_id: 6007

@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-05-23 06:59:08+00:00
 layout: post
+hero: /blog/images/wordpress/top-40-tags.png
 slug: generalist-badge-implemented
 title: Generalist Badge Implemented
 wordpress_id: 3268

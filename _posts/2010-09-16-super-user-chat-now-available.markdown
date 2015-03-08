@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-09-16 12:43:18+00:00
 layout: post
+hero: http://chat.superuser.com
 slug: super-user-chat-now-available
 title: Super User Chat Now Available
 wordpress_id: 5131

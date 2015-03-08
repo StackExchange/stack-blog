@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2008-10-13 03:59:56+00:00
 layout: post
+hero: /blog/images/wordpress/stackoverflow-related-tags1.png
 slug: tags-and-tags-or-tags
 title: Tags AND Tags OR Tags
 wordpress_id: 119

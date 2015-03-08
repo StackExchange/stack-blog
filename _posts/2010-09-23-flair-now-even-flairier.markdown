@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-09-23 06:49:04+00:00
 layout: post
+hero: http://superuser.com/users/2054/joey
 slug: flair-now-even-flairier
 title: 'Flair: Now Even Flairier'
 wordpress_id: 5177

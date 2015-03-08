@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2011-08-16 05:24:38+00:00
 layout: post
+hero: http://www.topatoco.com/merchant.mvc?Screen=PROD&Store_Code=TO&Product_Code=RB-HIGHFIVE&Category_Code=RB
 slug: gorilla-vs-shark
 title: Gorilla vs. Shark
 wordpress_id: 9324

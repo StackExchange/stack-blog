@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2011-01-11 02:39:44+00:00
 layout: post
+hero: /blog/images/wordpress/tag-favorites-subscribe2.png
 slug: tag-favorites-and-tag-subscriptions
 title: Tag Favorites and Tag Subscriptions
 wordpress_id: 6668

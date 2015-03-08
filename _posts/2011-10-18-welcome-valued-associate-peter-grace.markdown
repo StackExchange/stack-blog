@@ -3,6 +3,7 @@ author: alison
 comments: true
 date: 2011-10-18 12:50:54+00:00
 layout: post
+hero: http://blog.stackoverflow.com/2011/10/welcome-valued-associate-peter-grace/pete-ben-nate/
 slug: welcome-valued-associate-peter-grace
 title: Welcome Valued Associate Peter Grace!
 wordpress_id: 10052

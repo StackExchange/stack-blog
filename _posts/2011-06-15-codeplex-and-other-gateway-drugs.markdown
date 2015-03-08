@@ -3,6 +3,7 @@ author: matt
 comments: true
 date: 2011-06-15 19:26:04+00:00
 layout: post
+hero: /blog/images/wordpress/opensourcelinks.png
 slug: codeplex-and-other-gateway-drugs
 title: CodePlex and other Gateway Drugs
 wordpress_id: 8462

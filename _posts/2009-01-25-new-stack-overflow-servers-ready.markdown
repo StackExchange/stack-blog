@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-01-25 16:18:24+00:00
 layout: post
+hero: http://blog.stackoverflow.com/2009/01/new-stack-overflow-server-glamour-shots/
 slug: new-stack-overflow-servers-ready
 title: New Stack Overflow Servers Ready
 wordpress_id: 493

@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2011-01-14 09:54:06+00:00
 layout: post
+hero: /blog/images/wordpress/flag-post-link.png
 slug: improved-flagging
 title: Improved Flagging
 wordpress_id: 6779

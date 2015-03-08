@@ -3,6 +3,7 @@ author: spolsky
 comments: true
 date: 2010-04-13 22:36:02+00:00
 layout: post
+hero: /wp-content/uploads/se2-venn-diagram.png
 slug: changes-to-stack-exchange
 title: Changes to Stack Exchange
 wordpress_id: 2935

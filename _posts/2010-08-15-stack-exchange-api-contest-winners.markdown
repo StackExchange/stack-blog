@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-08-15 05:43:38+00:00
 layout: post
+hero: http://stackapps.com/questions/623/six-to-eight-an-iphone-client-now-in-the-app-store
 slug: stack-exchange-api-contest-winners
 title: Stack Exchange API Contest Winners
 wordpress_id: 4645

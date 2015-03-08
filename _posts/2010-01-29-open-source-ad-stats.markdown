@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-01-29 01:12:57+00:00
 layout: post
+hero: http://rads.stackoverflow.com/ossads/all
 slug: open-source-ad-stats
 title: Open Source Ad Stats
 wordpress_id: 2661

@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-12-25 07:38:58+00:00
 layout: post
+hero: http://www.reddit.com/r/geek/comments/eh47w/my_good_friend_made_this_wreath_for_her_it/
 slug: stack-overflow-gives-back-2010
 title: Stack Overflow Gives Back 2010
 wordpress_id: 6526

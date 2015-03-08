@@ -3,6 +3,7 @@ author: lauren
 comments: true
 date: 2012-06-26 14:04:36+00:00
 layout: post
+hero: /blog/images/wordpress/arqade-blue-300x256.png
 slug: welcome-to-the-arqade
 title: 'Welcome to the Arqade: Rebranding a Successful Site'
 wordpress_id: 11878

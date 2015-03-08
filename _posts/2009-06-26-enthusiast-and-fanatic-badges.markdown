@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-06-26 09:34:54+00:00
 layout: post
+hero: /blog/images/wordpress/woot-badge-grant-small.png
 slug: enthusiast-and-fanatic-badges
 title: Enthusiast and Fanatic Badges
 wordpress_id: 1528

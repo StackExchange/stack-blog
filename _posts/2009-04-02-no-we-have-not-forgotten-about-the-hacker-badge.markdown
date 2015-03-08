@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-04-02 02:23:56+00:00
 layout: post
+hero: http://www.catb.org/~esr/hacker-emblem/
 slug: no-we-have-not-forgotten-about-the-hacker-badge
 title: No, We Have Not Forgotten About the Hacker Badge
 wordpress_id: 944

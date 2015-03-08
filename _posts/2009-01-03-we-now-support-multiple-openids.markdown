@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-01-03 08:52:54+00:00
 layout: post
+hero: /blog/images/wordpress/popeil-infomercial-pricing.jpg
 slug: we-now-support-multiple-openids
 title: We Now Support Multiple OpenIDs
 wordpress_id: 253

@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-10-01 00:40:23+00:00
 layout: post
+hero: http://webapps.stackexchange.com
 slug: our-first-area-51-site-goes-public
 title: Our First Area 51 Site Goes Public
 wordpress_id: 5307

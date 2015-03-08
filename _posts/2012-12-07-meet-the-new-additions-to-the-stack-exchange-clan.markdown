@@ -3,6 +3,7 @@ author: jhumphries
 comments: true
 date: 2012-12-07 22:03:31+00:00
 layout: post
+hero: /blog/images/wordpress/Bradley-Maura3-e1354826980270.jpg
 slug: meet-the-new-additions-to-the-stack-exchange-clan
 title: Meet the new additions to the Stack Exchange clan
 wordpress_id: 12613

@@ -3,6 +3,7 @@ author: rebecca
 comments: true
 date: 2011-04-01 00:11:01+00:00
 layout: post
+hero: http://www.meetup.com/stackoverflow/
 slug: attend-one-of-stack-overflows-250-world-wide-meetups-2
 title: Attend One of Stack Overflow's 250+ World-Wide MeetUps
 wordpress_id: 7603

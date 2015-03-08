@@ -3,6 +3,7 @@ author: rcartaino
 comments: true
 date: 2014-12-24 16:17:31+00:00
 layout: post
+hero: /blog/images/wordpress/SE-Gives-Back-2014-results.png
 slug: stack-exchange-gives-back-2014
 title: Stack Exchange Gives Back 2014
 wordpress_id: 15047

@@ -3,6 +3,7 @@ author: jhanlon
 comments: true
 date: 2013-09-16 16:20:31+00:00
 layout: post
+hero: http://blog.stackoverflow.com/2008/09/then-a-miracle-occurs-public-beta/
 slug: five-years-ago-stack-overflow-launched-then-a-miracle-occurred
 title: Five years ago, Stack Overflow launched. Then, a miracle occurred.
 wordpress_id: 13995

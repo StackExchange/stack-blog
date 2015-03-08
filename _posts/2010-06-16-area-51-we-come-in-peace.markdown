@@ -3,6 +3,7 @@ author: rcartaino
 comments: true
 date: 2010-06-16 19:42:53+00:00
 layout: post
+hero: http://area51.stackexchange.com
 slug: area-51-we-come-in-peace
 title: 'Area 51: We Come in Peace'
 wordpress_id: 3611

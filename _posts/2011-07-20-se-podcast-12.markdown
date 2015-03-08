@@ -3,6 +3,7 @@ author: alex
 comments: true
 date: 2011-07-20 19:00:09+00:00
 layout: post
+hero: /blog/images/wordpress/index.png
 slug: se-podcast-12
 title: 'SE Podcast #12 - Patrick McKenzie'
 wordpress_id: 8771

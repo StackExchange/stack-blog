@@ -3,6 +3,7 @@ author: spolsky
 comments: true
 date: 2010-10-13 17:09:40+00:00
 layout: post
+hero: /blog/images/wordpress/superman-elevator.jpg
 slug: stack-exchange-naming-for-dummies
 title: Stack Exchange Naming for Dummies
 wordpress_id: 5584

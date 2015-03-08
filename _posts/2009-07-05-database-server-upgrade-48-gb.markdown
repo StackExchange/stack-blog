@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-07-05 23:42:10+00:00
 layout: post
+hero: /blog/images/wordpress/stackoverflow-db-memory-os-upgrade-complete.png
 slug: database-server-upgrade-48-gb
 title: Database Server Upgrade -- 48 GB
 wordpress_id: 1589

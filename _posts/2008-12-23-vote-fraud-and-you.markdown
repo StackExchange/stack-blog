@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2008-12-23 09:55:47+00:00
 layout: post
+hero: http://www.coxandforkum.com/archives/000973.html
 slug: vote-fraud-and-you
 title: Vote Fraud and You
 wordpress_id: 170

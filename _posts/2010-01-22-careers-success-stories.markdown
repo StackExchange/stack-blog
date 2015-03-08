@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-01-22 11:20:14+00:00
 layout: post
+hero: /blog/images/wordpress/stack-overflow-careers-search-stats.png
 slug: careers-success-stories
 title: Careers Success Stories
 wordpress_id: 2629

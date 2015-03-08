@@ -3,6 +3,7 @@ author: david
 comments: true
 date: 2011-12-20 20:54:20+00:00
 layout: post
+hero: /blog/images/wordpress/hat-dash-hats-smaller.jpg
 slug: gaming-holiday-promotion-hat-dash
 title: 'Gaming Holiday Promotion: Hat Dash!'
 wordpress_id: 10477

@@ -3,6 +3,7 @@ author: shog
 comments: true
 date: 2013-08-09 17:41:21+00:00
 layout: post
+hero: http://stackoverflow.com/users/1438/jon-ericson
 slug: please-welcome-jon-ericson-community-manager
 title: Please welcome Jon Ericson, Community Manager
 wordpress_id: 13902

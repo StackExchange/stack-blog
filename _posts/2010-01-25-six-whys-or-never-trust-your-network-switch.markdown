@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-01-25 18:13:43+00:00
 layout: post
+hero: /blog/images/wordpress/switch-autodetect-fail-large.png
 slug: six-whys-or-never-trust-your-network-switch
 title: Six Whys - Or, Never Trust Your Network Switch
 wordpress_id: 2652

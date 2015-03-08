@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-03-01 06:15:20+00:00
 layout: post
+hero: /blog/images/wordpress/aquaman-and-aqualad.jpg
 slug: our-sidekick-ifixit-com
 title: Our Sidekick, iFixit.com
 wordpress_id: 2758

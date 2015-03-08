@@ -3,6 +3,7 @@ author: jtunnell
 comments: true
 date: 2014-03-03 19:49:25+00:00
 layout: post
+hero: http://i.stack.imgur.com/Jbt2w.png
 slug: your-communities-list-is-now-customizable
 title: Your communities list is now customizable
 wordpress_id: 14593

@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-12-14 06:14:23+00:00
 layout: post
+hero: /blog/images/wordpress/stack-overflow-server-rack-front-small.jpg
 slug: stack-overflow-rack-glamour-shots
 title: Stack Overflow Rack Glamour Shots
 wordpress_id: 2303

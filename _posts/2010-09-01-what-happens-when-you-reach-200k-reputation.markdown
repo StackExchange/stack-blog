@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-09-01 08:10:19+00:00
 layout: post
+hero: /blog/images/wordpress/jon-skeet-unicorn-painting.jpg
 slug: what-happens-when-you-reach-200k-reputation
 title: What Happens When You Reach 200k Reputation?
 wordpress_id: 4938

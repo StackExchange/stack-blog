@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2011-04-05 07:16:07+00:00
 layout: post
+hero: http://twitter.com/#!/timbray/status/53139383058051072
 slug: helping-the-experts-get-answers
 title: Helping The Experts Get Answers
 wordpress_id: 7616

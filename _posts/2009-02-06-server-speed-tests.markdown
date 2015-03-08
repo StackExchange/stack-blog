@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-02-06 10:34:09+00:00
 layout: post
+hero: /blog/images/wordpress/stackoverflow-firebug-old-server.png
 slug: server-speed-tests
 title: Server Speed Tests
 wordpress_id: 604

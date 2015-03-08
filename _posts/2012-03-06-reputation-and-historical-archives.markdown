@@ -3,6 +3,7 @@ author: shog
 comments: true
 date: 2012-03-06 02:14:47+00:00
 layout: post
+hero: /blog/images/wordpress/badrep.png
 slug: reputation-and-historical-archives
 title: Reputation and Historical Archives
 wordpress_id: 11339

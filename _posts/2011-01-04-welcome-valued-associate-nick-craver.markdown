@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2011-01-04 05:21:05+00:00
 layout: post
+hero: /blog/images/wordpress/nick-craver-photo.jpg
 slug: welcome-valued-associate-nick-craver
 title: Welcome Valued Associate Nick Craver
 wordpress_id: 6553

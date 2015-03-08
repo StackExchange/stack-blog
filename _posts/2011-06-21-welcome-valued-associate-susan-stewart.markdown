@@ -3,6 +3,7 @@ author: rcartaino
 comments: true
 date: 2011-06-21 20:56:08+00:00
 layout: post
+hero: http://parenting.stackexchange.com/users/26/hedgemage
 slug: welcome-valued-associate-susan-stewart
 title: Welcome Valued Associate Susan Stewart
 wordpress_id: 8508

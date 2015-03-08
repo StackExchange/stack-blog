@@ -3,6 +3,7 @@ author: david
 comments: true
 date: 2012-03-28 17:33:47+00:00
 layout: post
+hero: /blog/images/wordpress/messages1.png
 slug: careers-2-0-new-features-for-hiring-developers
 title: Careers 2.0 New Features for Hiring Developers
 wordpress_id: 11468

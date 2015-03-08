@@ -3,6 +3,7 @@ author: rcartaino
 comments: true
 date: 2010-10-05 07:08:25+00:00
 layout: post
+hero: /blog/images/wordpress/sorry-im-so-stupid-cake.jpg
 slug: domain-names-the-wrong-question
 title: 'Domain Names: The Wrong Question'
 wordpress_id: 5376

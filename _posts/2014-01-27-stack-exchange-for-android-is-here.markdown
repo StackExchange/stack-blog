@@ -3,6 +3,7 @@ author: david
 comments: true
 date: 2014-01-27 17:36:23+00:00
 layout: post
+hero: http://i.stack.imgur.com/XUufS.png
 slug: stack-exchange-for-android-is-here
 title: Stack Exchange for Android is here!
 wordpress_id: 14395

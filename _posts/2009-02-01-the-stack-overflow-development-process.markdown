@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-02-01 05:29:30+00:00
 layout: post
+hero: http://www.bugbash.net/comic/113.html
 slug: the-stack-overflow-development-process
 title: The Stack Overflow Development Process
 wordpress_id: 593

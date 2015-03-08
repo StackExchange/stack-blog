@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-11-29 11:26:12+00:00
 layout: post
+hero: http://www.youtube.com/watch?v=UVKsd8z6scw
 slug: the-pee-wee-herman-rule
 title: The Pee-Wee Herman Rule
 wordpress_id: 6182

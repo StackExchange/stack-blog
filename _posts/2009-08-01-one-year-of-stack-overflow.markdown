@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-08-01 23:53:23+00:00
 layout: post
+hero: /blog/images/wordpress/i-hope-you-enjoy-your-birthday-infinitely.png
 slug: one-year-of-stack-overflow
 title: One Year of Stack Overflow
 wordpress_id: 1777

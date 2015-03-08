@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2008-10-12 06:04:44+00:00
 layout: post
+hero: /blog/images/wordpress/stack-overflow-welcome-sidebar.png
 slug: a-question-about-questions
 title: A Question About Questions
 wordpress_id: 117

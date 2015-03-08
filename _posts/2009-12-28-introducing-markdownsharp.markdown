@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-12-28 02:03:36+00:00
 layout: post
+hero: http://code.google.com/p/markdownsharp/
 slug: introducing-markdownsharp
 title: Introducing MarkdownSharp
 wordpress_id: 2388

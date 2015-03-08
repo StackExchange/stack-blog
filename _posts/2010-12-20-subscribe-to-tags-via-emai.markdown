@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-12-20 11:48:48+00:00
 layout: post
+hero: http://stackexchange.com/tagsets/popular
 slug: subscribe-to-tags-via-emai
 title: Subscribe to Tags via Email
 wordpress_id: 6409

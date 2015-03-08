@@ -3,6 +3,7 @@ author: rcartaino
 comments: true
 date: 2010-12-23 03:14:31+00:00
 layout: post
+hero: http://www.flickr.com/photos/tomgauld/4814940002/sizes/l/in/photostream/
 slug: no-artificial-intelligence-in-area-51
 title: No Artificial Intelligence in Area 51
 wordpress_id: 6446

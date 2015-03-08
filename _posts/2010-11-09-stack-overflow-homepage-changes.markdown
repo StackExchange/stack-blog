@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-11-09 10:43:37+00:00
 layout: post
+hero: /blog/images/wordpress/interesting-vs-active-large.png
 slug: stack-overflow-homepage-changes
 title: Stack Overflow Homepage Changes
 wordpress_id: 6071

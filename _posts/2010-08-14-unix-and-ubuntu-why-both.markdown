@@ -3,6 +3,7 @@ author: rcartaino
 comments: true
 date: 2010-08-14 00:11:29+00:00
 layout: post
+hero: /blog/images/wordpress/spock-vs-evil-spock.jpg
 slug: unix-and-ubuntu-why-both
 title: 'Unix and Ubuntu: Why Both?'
 wordpress_id: 4542

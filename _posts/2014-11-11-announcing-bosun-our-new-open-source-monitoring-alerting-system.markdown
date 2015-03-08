@@ -4,6 +4,7 @@ comments: true
 date: 2014-11-11 15:53:53+00:00
 layout: post
 hero: http://i.stack.imgur.com/oR3cl.png
+hero: http://i.stack.imgur.com/oR3cl.png
 slug: announcing-bosun-our-new-open-source-monitoring-alerting-system
 title: Announcing Bosun, our new open source monitoring & alerting system
 wordpress_id: 14872
