@@ -1,5 +1,5 @@
 ---
-author: Sam Brand
+author: sbrand
 comments: true
 date: 2012-06-04 17:24:46+00:00
 layout: post

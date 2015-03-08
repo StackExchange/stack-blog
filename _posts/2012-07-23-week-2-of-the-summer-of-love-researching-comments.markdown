@@ -1,5 +1,5 @@
 ---
-author: Seth Rogers
+author: seth
 comments: true
 date: 2012-07-23 21:25:52+00:00
 layout: post

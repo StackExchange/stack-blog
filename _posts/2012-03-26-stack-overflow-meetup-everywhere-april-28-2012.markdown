@@ -1,5 +1,5 @@
 ---
-author: Laura Dobrzynski
+author: laura
 comments: true
 date: 2012-03-26 14:59:16+00:00
 layout: post
