@@ -1,5 +1,5 @@
 ---
-author: Demis Bellot
+author: demis
 comments: true
 date: 2012-03-02 20:00:29+00:00
 layout: post

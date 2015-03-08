@@ -1,5 +1,5 @@
 ---
-author: Jin Yang
+author: jin
 comments: true
 date: 2011-09-27 15:22:50+00:00
 layout: post

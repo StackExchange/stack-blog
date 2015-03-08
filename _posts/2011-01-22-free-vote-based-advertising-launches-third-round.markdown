@@ -1,5 +1,5 @@
 ---
-author: Rebecca Chernoff
+author: rebecca
 comments: true
 date: 2011-01-22 05:17:06+00:00
 layout: post
