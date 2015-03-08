@@ -1,0 +1,94 @@
+---
+author: Jon Ericson
+comments: true
+date: 2014-12-15 00:00:16+00:00
+layout: post
+slug: winter-bash-2014
+title: Winter Bash 2014
+wordpress_id: 14896
+categories:
+- announcement
+- stackexchange
+---
+
+<blockquote>There is no better antidote, at least for the worst hours and eclipses of the soul, than to conjure up …  
+serious frivolity.--[Friedrich Nietzsche](https://books.google.com/books?id=Nl-vaAdJD3MC&pg=PA61&lpg=PA61#v=onepage&q&f=false)</blockquote>
+
+
+[![Winter Bash 2014](http://i.stack.imgur.com/urxgC.png)](http://winterbash2014.stackexchange.com)
+
+
+## What's Winter Bash again?
+
+
+No, it's not a new flavor of [Unix shell](http://en.wikipedia.org/wiki/Bash_(Unix_shell)). Rather, Winter Bash is an [ancient tradition](http://stackexchange.com/promos/2/hat-dash) of Stack Exchange. (2011 is ancient according to Internet time.) Here's how it works:
+
+
+
+
+	
+  1. Starting right now, when you complete one of [30-odd challenges](http://winterbash2014.stackexchange.com/) while logged on a [participating site](http://winterbash2014.stackexchange.com/leaderboard), you will be awarded the associated hat. To notify you, an icon will light up on the top bar. In addition, admire your hat collection on the [Winter Bash 2014 site](http://winterbash2014.stackexchange.com/). Finally, your profile includes the number of unique <strike>snowflakes</strike> **hats** (![You have a hat to wear!](http://i.stack.imgur.com/VmGTG.png)) you've earned all around the network.
+
+
+
+	
+  2. Once you acquire an item, click your avatar to pick a hat that you earned--not just on the current site, but anywhere. When you are satisfied the hat's position, click "Wear hat" and it will be visible everywhere your avatar is displayed. Optionally, you may have a different look on each site. Once you are wearing a hat, you'll also see an option to go unadorned. (But really, why would you want that?)
+
+[![I'm a pirate!](http://i.stack.imgur.com/8FDy0.png)](http://meta.stackexchange.com/users/1438/jon-ericson)
+
+
+
+	
+  3. On January 4, 2015 at 23:59:59 UTC, all hats will be returned to the Stack Exchange vault. The best way to preserve holiday memories is to [take plenty of pictures](http://www.take-a-screenshot.org/) before they are gone.
+
+
+
+
+
+## Again with the hats? What happened to "We hate fun"?
+
+
+In the face of the darkening days of winter, we put aside our [steely, businesslike frowns](http://blog.stackoverflow.com/2010/01/stack-overflow-where-we-hate-fun/) to wear [virtual cosmetic items](https://wiki.teamfortress.com/wiki/Cosmetic_items). It's our solemn duty to cut out the nonsense leaving pure, unadulterated knowledge as permanent artifacts helpful to future visitors. And that task is no laughing matter. 
+
+Yet, to quote [G. K. Chesterton](http://www.ccel.org/ccel/chesterton/heretics.xvi.html):
+
+
+<blockquote>About what other subjects can one make jokes except serious subjects?</blockquote>
+
+
+The truth is, we don't really hate fun. Contributing to a volunteer effort should be an enjoyable experience. Heck, [fake internet points](http://blog.stackoverflow.com/2013/09/five-years-ago-stack-overflow-launched-then-a-miracle-occurred/) are integral to how these sites operate. Winter Bash reminds us that there's more to life than nose-to-the-grindstone work and quality content. We don't stop having fun when the event ends. We go back to having fun with a larger purpose.
+
+
+
+## Is everything going to be the same as last year?
+
+
+Management gave us a clear mandate when it came to building new features into Winter Bash:
+
+
+<blockquote>We were not allowed to spend weeks on snow animation.</blockquote>
+
+
+Thankfully, we could reuse last year's start-of-the-art snowfall algorithm for the [official Winter Bash 2014 homepage](http://winterbash2014.stackexchange.com/). There you can discover a nearly* complete list of hats and how you can earn them. The activities this year are mostly fresh and (hopefully) all fun. If you could go ahead and answer 5 questions on Saturday, that'd be great. Mmmkay?
+
+Once again, we are delighted with the work of freelance illustrator, [Elias Stein](http://www.eliasstein.com/). It's difficult to express how satisfying it feels to think up a concept (Tam o' Shanter!) and have it manifest a few days later:
+
+[![Tam o' Shanter](http://i.stack.imgur.com/hdKRn.png)](http://en.wikipedia.org/wiki/Tam_o%27_Shanter_%28cap%29)
+
+In the past, some people have had trouble getting hats to fit properly. [Last year](http://blog.stackoverflow.com/2013/12/winter-bash-2013-is-here/), we added the ability to reposition hats, but that did little to satisfy folks with especially large or disembodied heads. So, this year [hats can be resized and twisted to fit your head](http://meta.stackexchange.com/questions/212056/all-i-want-is-a-well-fitted-hat). (Thanks, [balpha](http://balpha.de/about/)!) 
+
+[![Shog The Hunter](http://i.stack.imgur.com/9lMdh.png)](http://meta.stackexchange.com/users/811/shog9)
+
+If you have any questions about the event, try the [Frequently Asked Questions.](http://winterbash2014.stackexchange.com/faq) If your question isn't covered there, please ask it on [Meta Stack Exchange](http://meta.stackexchange.com/questions/tagged/winterbash-2014), our Q&A; site about our network of Q&A; sites.
+
+Before signing off, I apologize to our [Southern Hemisphere friends](http://meta.pt.stackoverflow.com/questions/2288/o-que-voc%C3%AAs-t%C3%AAm-na-cabe%C3%A7a) for the name. I wanted to go with something season-neutral like HAT ATTACK or December Fling, but tradition ruled the day. Just remember: while you are sipping refreshing drinks and enjoying the sunshine, it's [cold](https://www.youtube.com/watch?v=tuCO7Kq744U),  wet, and dark up here.
+
+**Act now and get [an exclusive hat only available today](http://winterbash2014.stackexchange.com/saint-lucia)!**
+
+
+
+* * *
+
+
+
+* [![status-bydesign](http://i.stack.imgur.com/BRAuT.png)](http://meta.stackexchange.com/questions/212799/how-do-i-get-the-winterbash-2013-secret-hats)

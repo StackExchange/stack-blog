@@ -1,0 +1,47 @@
+---
+author: alex
+comments: true
+date: 2011-06-01 20:40:36+00:00
+layout: post
+slug: se-podcast-06
+title: 'SE Podcast #06'
+wordpress_id: 8320
+categories:
+- podcasts
+---
+
+It's our first test of a live podcast!  In case you missed it, we streamed this week's podcast live during the taping. It's something we're playing with and may continue to do in the future if it is popular.  You can tune in to the live tapings Tuesdays @ 4 PM Eastern / 1 PM Pacific -- check Joel and Jeff's Twitter feeds for the location.
+
+
+
+	
+  * We've found that hosting a podcast while running a business is more useful than you might think -- because it allows you to introspect on your own thoughts and decisions and have a history explaining why you made those bad decisions at the time.  Even if you only have 10 listeners, and one of them is your dad.
+
+	
+  * Jeff is currently reading _[Super Cooperators](http://www.amazon.com/dp/1439100187/?tag=stackoverfl08-20)_ which focuses on the [prisoner's dilemma](http://en.wikipedia.org/wiki/Prisoner's_dilemma) and how it applies to social situations. In the real world, people remember your actions, and that history changes how they interact with you. Ultimately our concept of reputation derives from the realization that your current actions will have future consequences not just on other people, but on society and the greater internet.
+
+	
+  * Some of the NY team went to hear [Bing Gordon](http://en.wikipedia.org/wiki/Bing_Gordon) give a talk on gamification that covered a number of topics.  In particular, he noted that almost everyone (except for males age 18-24) prefer a cooperative game to a competitive one, and people are much more likely to continue with something if at least one other person sees and validates what they did. That's one reason why we're so gung-ho about everything being public -- by keeping everything visible and in the open, you encourage more civic-minded level of behavior than what happens behind closed doors. Sometimes people [can be turned off](http://meta.stackoverflow.com/questions/42481/the-problem-with-extrinsic-motivation) by these types of reputation systems, though.
+
+	
+  * There's [a fantastic article at TheAwl](http://www.theawl.com/2011/05/wikipedia-and-the-death-of-the-expert) about how Wikipedia made it possible for amateurs who are obsessive about a topic to become, en masse, as reliable as traditional experts.
+
+	
+  * Stack Exchange is [now an OpenID provider](http://blog.stackoverflow.com/2011/05/stack-exchange-is-an-openid-provider/)!  We did this primarily for two reasons. First, any time you send people off to another site to sign up, you lose visitors. By keeping everything on Stack Exchange, we increase the success rate of sign ups. Second, while MyOpenID is a great service, it's free -- so there's no incentive for JanRain to maintain it and keep it in good repair. There have been some recent ... incidents ... with MyOpenID.
+
+	
+  * Down votes no longer cost you, the down-voter, any reputation points _on questions only_.  We found that too many people weren't willing to down vote questions because of the -1 cost to the voter. Downvotes on questions are a critically important signal for us in separating the good questions from the not-so-good questions.
+
+	
+  * Upcoming guests include Steve Karantza ([Shirlock Homes](http://diy.stackexchange.com/users/386/shirlock-homes) from DIY.SE), Rory Blyth, Dave Winer, Jason Calacanis, and more.  If you have guest suggestions, make sure to [add them to the Meta thread](http://meta.stackoverflow.com/questions/91139/who-do-you-want-to-see-on-the-stack-exchange-podcast)!
+
+	
+  * We're hiring a Community Evangelism Team!  They'll be responsible for promoting our communities and sites out to new audiences, and helping them grow. It's a great job for anyone who wants to get into the startup world or a recent grad with a humanities degree who doesn't want to be stuck working at an agency for the next 10 years.  For more details, [check out the job post](http://stackexchange.theresumator.com/apply/5bbnOo/Community-Evangelism-Team.html).
+
+	
+  * Joel takes his first question from the audience: why does he think great programmers aren't going to be found developing internal company apps?
+
+
+Tune in next week when our guest is [Sam Saffron](http://stackoverflow.com/users/17174/sam-saffron) (aka [Waffles](http://meta.stackoverflow.com/users/17174/waffles)) - once again, you'll be able to watch/listen live on Tuesday @ 4pm as we do the taping.  Follow [@spolsky](http://twitter.com/#!/spolsky) and [@codinghorror](http://www.twitter.com/codinghorror) for the link.  You can also hang out in the [official chat room](http://chat.stackexchange.com/rooms/512/se-podcast-live-chat) during the tapings.
+
+[Stack Exchange Podcast - Episode #06](http://soundcloud.com/stack-exchange/stack-exchange-podcast-8) by [Stack Exchange](http://soundcloud.com/stack-exchange)

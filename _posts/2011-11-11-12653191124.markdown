@@ -1,0 +1,41 @@
+---
+author: Lauren Gundrum
+comments: false
+date: 2011-11-11 20:25:00+00:00
+layout: post
+published: false
+slug: '12653191124'
+title: Gotta have a hook
+wordpress_id: 10542
+categories:
+- chaos
+post_format:
+- Aside
+tags:
+- blogs
+---
+
+![](http://media.tumblr.com/tumblr_luij94axic1qm2n4t.png)
+
+
+
+
+(Alright, not a fishing hook or a Captain hook, but a “hook.” You’ll see what I mean.)
+
+
+
+
+One of our biggest outreach strategies has been to sponsor bloggers in the hopes of attracting some of their readers to Stack Exchange. The problem with that tactic is that most people will care way more about the Kindle or Fitbit you’re buying them than about you. So how can you get them interested in what your site has to offer, when the content is really similar to the blog they already follow?
+
+
+
+
+One thing we’ve found to be really effective is getting the blogger interested in our site. If they check it out themselves, they can give an honest review and share some of their favorite questions, which are much more likely to draw attention than a site url (especially if the question is [pirate related](http://english.stackexchange.com/questions/tagged/pirate-english)!). But what might be even more useful is seeding the site with content related to the blog (after all, you know that the people who read blog are interested in what the blogger has to say). Interviewing the blogger is a great way to do this. Recently we sponsored the [Grammar Girl podcast](http://grammar.quickanddirtytips.com/he-they-generic-personal-pronoun.aspx), and she agreed to do an interview that we wrote up on the [English Language & Usage blog](http://english.blogoverflow.com/2011/10/grammar-girl-interview/). When Grammar Girl acknowledged our sponsorship in her podcast, on her website, on twitter, and on Facebook, she linked to the interview. These mentions were really big referrers to EL&U, and the English blog saw a lot more traffic than usual. It worked so well that we used the same strategy for the upcoming [Nutrition Diva](http://nutritiondiva.quickanddirtytips.com/) podcast sponsorship – her interview went up yesterday on the [Fitness blog](http://fitness.blogoverflow.com/2011/11/interview-with-nutrition-diva/). Hopefully it will have the same kind of effect!
+
+
+
+
+The lesson here is not that you always have to interview a blogger before you sponsor them, but you should always have a hook to pull in their readers. The interview works really well, because it’s almost like you’re pointing their readers to something the blogger wrote. Drop a few example questions from your own site in the interview, and BAM! You got some new viewers. If you’re lucky, you might even get the blogger to [answer some questions on your site](http://fitness.stackexchange.com/questions/4575/why-do-nutritionists-continue-to-advocate-soy-as-a-good-source-of-protein-espe) too.
+
+
+

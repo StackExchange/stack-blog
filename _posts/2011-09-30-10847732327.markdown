@@ -1,0 +1,36 @@
+---
+author: Laura Dobrzynski
+comments: false
+date: 2011-09-30 14:34:00+00:00
+layout: post
+published: false
+slug: '10847732327'
+title: Minimum Viable Personality - we can has?
+wordpress_id: 10550
+categories:
+- chaos
+post_format:
+- Aside
+tags:
+- blogs
+---
+
+Words of wisdom from [Fake Grimlock](http://twitter.com/#!/FAKEGRIMLOCK):
+
+
+<blockquote>CHICKEN LIVE IN CAGE. NO CAN HAVE PERSONALITY INSIDE CAGE.
+
+LAST STEP IS SMASH CAGE, LIGHT BARN ON FIRE.
+
+DO THAT, YOU WIN.</blockquote>
+
+
+![](http://a1.twimg.com/profile_images/1214909919/Grimlock2.jpg)
+
+Grimlock’s [guest post on Fred Wilson’s blog](http://www.avc.com/a_vc/2011/09/minimum-viable-personality.html) is chock full of robo-monster speak goodness about the minimum viable personality of a company. This last step, quoted above, is one of my favorites: break free of barriers, burn the old system that limited creativity and made companies fear to speak freely and have opinions.
+
+We’re talking a lot at Stack HQ about how we can communicate the Stack Exchange personality to people who don’t already know us. How we can make new friends, and what we have to do to speak their language while clearly communicating our mission (help people find great answers to their questions), our values (making the Internet a better place) and our enemies ([Experts Exchange](http://www.experts-exchange.com/), which [makes it really difficult](http://www.codinghorror.com/blog/2008/04/introducing-stackoverflow-com.html) for people to get great answers). This means a lot of talk about how to use channels outside of our own (our site’s blog, chat rooms, meta discussions, etc.). the channels other people who don’t yet know about us use.
+
+Stay tuned as we develop a social media strategy and become more diligent about posting food for thought here instead of just awesome photos. :) In the meantime, check out the rest of Fake Grimlock’s guest post; lots of great stuff there.
+
+

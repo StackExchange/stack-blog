@@ -1,0 +1,72 @@
+---
+author: admin
+comments: true
+date: 2009-10-15 00:38:14+00:00
+layout: post
+slug: podcast-70
+title: 'Podcast #70'
+wordpress_id: 2048
+categories:
+- podcasts
+---
+
+In this episode of the podcast, Joel and Jeff discuss DevDays, the diversity of Stack Exchange sites, the debut of CVs and careers on Stack Overflow, and the viability of WiFi at tech conferences.
+
+
+
+
+
+
+  * [Stack Exchange](http://stackexchange.com/) is now officially in public beta! There are a [huge number of sites](http://meta.stackexchange.com/questions/4/list-of-stackexchange-sites) running on the Stack Overflow engine. Far more than I expected at this early stage, anyway.  
+
+
+
+  * The Stack Exchange sites are pushing the boundaries of the specific audience (that is, programmers) we designed it for. Consider the audience overlap between [answers.onstartups.com](http://answers.onstartups.com/), [epicadvice.com](http://www.epicadvice.com/), and [moms4mom.com](http://moms4mom.com/). I was getting usability reports from my wife on that last one, which was quite surreal. Also surreal: that Jon Skeet is a top user on one of the above. You'll never guess which one!
+
+
+  * Do some of the Stack Exchange sites compete with Stack Overflow? Such as [ask.sqlteam.com](http://ask.sqlteam.com/) and [snippetgood.com](http://snippetgood.com/)? Not necessarily; if you're particularly enthusiastic about some niche, you'll get more questions and tighter focus of community by going to site dedicated to that topic.
+
+
+  * Joel feels that Stack Exchange works so well as a support forum that he's shutting down all the other online FogBugz web support tools in favor of [fogbugz.stackexchange.com](http://fogbugz.stackexchange.com/).  
+
+
+
+  * What's the minimum number of knowledgable, invested users you need to have a functional online Q&A community? Joel says one (!). I think it's more on the order of a few dozen. The software part is easy, the real hurdle is this: can you rustle together a core community of a few dozen enthusiastic, knowledgable folks?
+
+
+  * An extended discussion of our new careers section of Stack Overflow, which [we launched last week](http://blog.stackoverflow.com/2009/10/introducing-stack-overflow-careers/). Joel sort of wrote the book on this topic, with [Smart and Gets Things Done: Joel Spolsky's Concise Guide to Finding the Best Technical Talent](http://www.amazon.com/dp/1590598385/?tag=codinghorror-20). Our careers approach grows out of Joel (and my) dissatisfaction with the current status quo. It sucks, and we'd like to build something better.
+
+
+  * This is the philosophy behind [careers.stackoverflow.com](http://careers.stackoverflow.com/) : smart companies should be pursuing good programmers, and not the other way around. We also want to cut out the cheesy for-pay contingency recruiters (or any other middlemen, for that matter) from the mix, and directly connect passionate programmers with companies that understand the value of programmers who [hit the high notes](http://www.joelonsoftware.com/articles/HighNotes.html).
+
+
+  * This is Fog Creek's guarantee for every service they charge money for: "The Fog Creek Promise: If you're not satisfied, for any reason, within 90 days you get a full refund, period, no questions asked. We don't want your money if you're not amazingly happy." Stack Overflow has adopted this promise as well. Why don't all companies do this? Why would you want to keep an unsatisified customer's money -- it generates ill will _far_ out of proportion to the tiny amount of money involved.
+
+
+  * As a part of careers, we're planning to roll out free, public CVs with user-selectable "vanity" URLs in a week or two. In retrospect, we should have done this from day one, as it compliments the public record of your Q&A on Stack Overflow. As Joel notes, the best way to control your online presence is to fill it yourself with all the cool stuff you've been doing! Don't let others tell the story of you when you can tell it yourself.
+
+
+
+
+Our favorite question this week is from Server Fault:
+
+
+
+
+
+
+  * [Why is Internet access and Wi-Fi always so terrible at large tech conferences?](http://serverfault.com/questions/72767/why-is-internet-access-and-wi-fi-always-so-terrible-at-large-tech-conferences) Based on Joel's recent DevDays experience, reliable WiFi at tech conferences seems to be rare. Why? How can this be fixed? What does it take?  
+
+
+
+
+
+If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser. We also have a dedicated phone number you can call to leave audio questions at **646-826-3879**.
+
+
+
+
+
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W29089) for this episode is available for public editing.
+

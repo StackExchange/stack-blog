@@ -1,0 +1,97 @@
+---
+author: admin
+comments: true
+date: 2008-05-20 23:50:19+00:00
+layout: post
+slug: podcast-6
+title: 'Podcast #6'
+wordpress_id: 43
+categories:
+- podcasts
+---
+
+
+This is the sixth episode of the StackOverflow podcast, wherein Joel and I discuss the following:
+
+
+
+
+
+
+
+  * A mercifully brief critique of Joel's Skype avatar. Of course, he should be using [this image](http://www.codinghorror.com/blog/images/spolsky-wtf.jpg).
+
+  * The other programmer I'm working with, Jarrod, will be visiting me this week. It's his first visit to California! Welcome to the San Francisco Bay area -- [geek mecca](http://www.amazon.com/exec/obidos/ASIN/0762742399/codinghorror-20). We will get some pair programming time in.
+
+  * We'll also visit the [Computer History Museum](http://www.computerhistory.org/), one of my favorite places in the world. I like to refer to it as [computer hardware pornography](http://www.codinghorror.com/blog/archives/000874.html).
+
+  * An examination of the [ASP.NET MVC](http://www.asp.net/mvc/) development model as compared to the classic ASP.NET Form model.
+
+  * We'll be using [JQuery](http://jquery.com/) as our JavaScript and AJAX framework, and [ELMAH](http://code.google.com/p/elmah/) for error handling duties.
+
+  * A bit on the Fog Creek philosophy of error handling: crashes are automatically entered in [Fogbugz](http://www.fogcreek.com/FogBUGZ/).
+
+  * About crashing in general. I enjoy talking about this because I think it's incredibly important. [Crash responsibly!](http://www.codinghorror.com/blog/archives/001118.html)
+
+  * Why you should [pay people not to work at your company](http://discussionleader.hbsp.com/taylor/2008/05/wy_zappos_pays_new_employees_t.html).
+
+  * Why am I so evangelical about [Twitter](http://twitter.com/)?
+
+  * What should Joel talk about at [the Rails Conference Keynote](http://en.oreilly.com/rails2008/public/schedule/detail/4365)?
+
+  * Is it unfair to dismiss Java? Is the only [difference between Java and COBOL](http://www.joelonsoftware.com/items/2006/03/05.html) that Java doesn't require you to type keywords in all capital letters?
+
+  * The rare topic that Joel and I agree on: [presentations should be about entertainment first](http://www.codinghorror.com/blog/archives/001040.html) and information second.
+
+  * What's the best way to deal with the larger bandwidth requirements for a podcast? We're going to use up more than 1250 GB this month. Should we be on [ITConversations](http://itc.conversationsnetwork.org/index.html)?
+
+  * We would like to support [OpenID](http://openid.net/) for site logins.
+
+  * About my [$5,000 donation](http://www.codinghorror.com/blog/archives/001098.html) to open source on .NET -- or more specifically, to [ScrewTurn Wiki](http://www.screwturn.eu/).
+
+  * A brief mention of [Google DocType](http://code.google.com/doctype/) and the now defunct [Google Answers](http://answers.google.com/answers/).
+
+  * Is Google starting to have the Microsoft "big company" problem? Why can't big companies effectively spin off smaller companies?
+
+  * What is the [Microsoft "Strategy Tax"](http://www.25hoursaday.com/weblog/PermaLink.aspx?guid=bea47949-c4b2-48cc-aee4-0eb60b652404)?
+
+  * The list of [new features in Vista](http://en.wikipedia.org/wiki/Features_new_to_Windows_Vista). How many did you know about? More importantly, how many of these features do you use and care about? 
+
+  * A mention of the [Software Engineering Radio](http://se-radio.net/ ) podcast. 
+
+  * As usual, thank you for all the questions and for the Wiki edits! We appreciate all the interest in the private beta signups, too.
+
+
+
+
+We also answered the following listener questions, with a lot of peripheral discussion on related topics:
+
+
+
+
+
+
+
+  1. **Warren Henning**: Why custom build stackoverflow.com when you could use something off the shelf?
+
+  2. **Andrew Hay**: Why did you choose to reinvent the default ASP.NET membership provider?
+
+  3. **Martin Wallace**: Have you considered open sourcing the stackoverflow.com code?
+
+
+  4. **Daniel Thompson**: What should be in the next version of Windows, and is it worth spending hundreds of dollars to upgrade?
+
+
+
+
+If you'd like to submit a question to be answered in our next episode, 
+record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser.
+
+
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W4331) for this episode is available for public editing.
+
+
+
+[display_podcast]
+

@@ -1,0 +1,96 @@
+---
+author: admin
+comments: true
+date: 2009-04-09 04:49:15+00:00
+layout: post
+slug: podcast-48
+title: 'Podcast #48'
+wordpress_id: 1003
+categories:
+- podcasts
+---
+
+
+This is the 48th episode of the StackOverflow podcast, where Joel and Jeff discuss planning your career, the importance (or not?) of localization, what makes a good moderator, and dealing with programmers who lack interpersonal skills.
+
+
+
+
+
+
+
+
+  * Until 2004, I felt sort of like that feather in the movie Forrest Gump, or the plastic bag in American Beauty. I had no real plan for my career. This prompted me to think about what I wanted from my career, and it's why I wrote [The Eight Levels of Programmers](http://www.codinghorror.com/blog/archives/001250.html). Think about who you respect, and why, and whether those paths work for you.
+
+
+  * If you're very lucky in your career, perhaps you'll be able to build [Bongo's Dream House](http://img23.imageshack.us/img23/3661/bongosdreamhouse.png).
+
+
+  * Joel and I have a long (REALLY LONG) discussion about the [Chinese Stack Overflow clone, cnprog](http://translate.google.com/translate?hl=en&ie=UTF-8&sl=zh-CN&tl=en&u=http://blog.cnprog.com/2009/01/why-create-cnprog/). It's excellent that we are inspiring other programmers, but we do draw the line at copying our look and feel down to the tiniest detail (including the blog). Don't be a [content stealing jerk](http://www.kevinwilliampang.com/post/Content-Stealing-Jerks.aspx)!  
+
+
+
+  * One reason localization has been a very low priority is that we feel for our particular audience, namely programmers, [English is the de facto standard language](http://www.codinghorror.com/blog/archives/001248.html). Not that other languages aren't important, but it's easier to get engineering work done when everything coalesces around a standard language.
+
+
+  * It is true that localization is not even close to being on our radar. Programming communities [need to form in local languages](http://odwks.com/2009/03/mandarin-chinese-programmer-communites/), too.
+
+
+  * We're open to providing a dump of our [cc-wiki licensed content](http://blog.stackoverflow.com/2008/05/now-licensed-under-creative-commons/), but we don't want to have an [AOL data scandal](http://en.wikipedia.org/wiki/AOL_search_data_scandal). That would be .. bad. It's the biggest risk blocking that from happening at the moment.
+
+
+  * Joel believes that there are five "important" languages that programming content should eventually be localized into: German, Spanish, French, Chinese, and Japanese.
+
+
+  * We're beginning the process of promoting a notable user from our community to full-blown moderator status. [Shaya Loney](http://www.shayaloney.com/), who works at answers.com, had some excellent advice for us -- one of the risks is that when you take one of your best teachers and turn them into the principal of the school, you lose a great teacher. We also want moderators with a variety of different backgrounds for diversity.
+
+
+  * We were able to [test our datacenter disaster contingency planning](http://blog.stackoverflow.com/2009/03/tuesday-outage-its-raid-tastic/) a little with a recent server error. Lesson: always have your contingency plans ready to go in _practice_, not just in _theory_. We only lost time, but we're considering the use of remote KVMs if this becomes an ongoing concern.
+
+
+  * One way to deal with programmers who come off as abrasive and perhaps lack interpersonal skills, is to focus on the specific behaviors that are problematic. Detail the very specific, ultra-narrow things that they could change to improve the way other people react to them.
+
+
+  * There's a good reason to fix this, beyond [the bad apple theory](http://www.codinghorror.com/blog/archives/001227.html). As Joel points out, "for marginal performers, the people who don't get along, are probably going to get fired, and the people who everybody likes, are probably going to stay around."
+
+
+  * Revisiting the "architect" title. We still think it's a bad idea, but perhaps it's more palatable if you think of it as "software engineer with lots of experience." And get rid of the title! That said, there are the rare few, with Joel's example of [Dave Cutler](http://en.wikipedia.org/wiki/Dave_Cutler), who truly was the Architect of Windows NT in every possible sense of the word.  
+
+
+
+
+
+We answered the following listener questions on this podcast:
+
+
+
+
+
+
+  1. **Demitrios from Brazil** "What do you do with a solid contributor who on a personal level is very annoying, nobody likes him, and nobody can get along with him?"
+
+
+  2. **Rudy from Denver** "Is it possible that Architect is a valid title, for those developers who have the skill to develop large applications?"
+
+
+
+
+If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser. We also have a dedicated phone number you can call to leave audio questions at **646-826-3879**.
+
+
+
+
+
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W29040) for this episode is available for public editing.
+
+
+
+
+
+
+[display_podcast]
+
+
+
+

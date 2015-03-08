@@ -1,0 +1,113 @@
+---
+author: admin
+comments: true
+date: 2009-05-21 18:45:53+00:00
+layout: post
+slug: podcast-54
+title: 'Podcast #54'
+wordpress_id: 1329
+categories:
+- podcasts
+---
+
+This is the 54th episode of the StackOverflow podcast where Joel and Jeff discuss bespoke software development, URL routing, the God Algorithm, and getting your database under version control.
+
+
+
+
+
+
+  * We need to talk to you about your flair. Specifically, [your User Flair!](http://blog.stackoverflow.com/2009/05/nowearn-valuable-flair) It's a small badge you can embed in your own website to show off your identity and "street cred", such as it is, on Stack Overflow and Server Fault. If that's not enough, you can also [put it on a t-shirt](http://shirt.social-shirt.com/stackoverflow-shirt.html). Or dress up like [the Facebook guy](http://www.eye-wash.com/wp-content/uploads/2007/11/facebookcostume2.jpg). Hey man, these are your life choices, not ours!
+
+
+  * A brief discussion of how [ASP.NET MVC URL routes](http://www.asp.net/Learn/mvc/tutorial-05-cs.aspx) should be declared. We do it through an custom attribute attached to the top of the method signature, which we feel provides excellent locality of information.
+
+
+  * Part of the promise of Stack Overflow was that it would be run by the community. We are trying to continue delivering on that promise by [electing new community moderators](http://blog.stackoverflow.com/2009/05/welcome-new-community-moderators/), and having a [moderation policy](http://blog.stackoverflow.com/2009/05/a-theory-of-moderation/) that all the moderators (including the core team) abide by.
+
+
+  * Speaking of [Stack Overflow DevDays](http://stackoverflow.carsonified.com/), "the" [Jon Skeet](http://msmvps.com/blogs/jon_skeet/default.aspx) is confirmed to be a speaker at the London DevDays; [Scott Hanselman](http://www.hanselman.com/blog/) will be at the Seattle and San Francisco DevDays.
+
+
+  * We now have [better, AJAX-y support](http://blog.stackoverflow.com/2009/05/linking-duplicate-questions/) for handling [duplicate questions](http://blog.stackoverflow.com/2009/04/handling-duplicate-questions/). We believe duplicate mapping is mostly a human-driven task, but we want to streamline the workflow as much as possible.
+
+
+  * Part of our development style on Stack Overflow is to build features as they become needed, rather than coding speculatively, trying to guess what will become important later. Our [UserVoice site](http://stackoverflow.uservoice.com/) has been very helpful in this regard, as we try mightily to retire the top rated user feature requests and bugs. Well, the ones we agree with, anyway..
+
+
+  * How do you bid on software development projects without cutting corners and still stay competitive? Joel shares his thoughts. "Your job is not to deliver a spec, it's to step into the client's shoes and figure out what their problem is, and how it can be solved with computers."
+
+
+  * I maintain this is the blessing and curse of contract software development -- you are a proxy employee during the contract. This can be good, if it's a client you like and have empathy with, or it can be bad, if it's a client that you don't respect, or that you have absolutely nothing in common with. Would you work for that company?
+
+
+  * On the topic of bespoke software, Joel recommends the oddly named book [How to Castrate a Bull: Unexpected Lessons on Risk, Growth, and Success in Business](http://www.amazon.com/dp/0470345233/?tag=codinghorror-20). Consider selling coffee makers to a hotel -- hotels don't really want a bunch of coffee machines (even if that's what they ask for), they want a _system_ that guarantees they never have to think about coffee makers in their rooms again. This is what it means to be "enterprisey". This is what big consulting firms do.
+
+
+  * If you're worried about backdoors in your code, first, don't work with scumbags. But if you work at an industry where there is a lot of risk, such as banking, then you need an audit trail on everything, and perhaps an internal audit department that does nothing other than check things periodically. A certain percentage of random auditing may be preferable to strict gates on every action.
+
+
+  * A discussion of O(1), which sort of seems like "The God Algorithm" at first glance. But you do have to define how 'big' that 1 is. There are dimensions of space and time here that aren't immediately apparent.
+
+
+  * One quirk of keeping your database under version control is that you have to make a distinction between the schema, the data, and the fixed data. At the very least, have tools that let you diff your database! And ideally integrate with your build and deployment. Have you looked at the Rails way of handling database changes, with [Migrations](http://guides.rubyonrails.org/migrations.html)?   
+
+
+
+  * Thanks to our podcast sponsor, [Mint](http://www.mint.com/jobs) -- they're looking for a great developer!
+
+
+
+
+
+
+We answered the following listener questions on this podcast:
+
+
+
+
+
+
+  1. "Is it true that the more the complex the software system is, the simpler it is to manage, because there are more rules defining its behavior?"
+
+
+  2. "How do you win software development contracts, while still delivering quality?" Based on an existing [question](http://stackoverflow.com/questions/204572/how-can-a-software-agency-deliver-quality-software-win-projects).  
+
+
+
+  3. "How do you deal with a large codebase, and disgruntled employees leaving backdoors in the code?"
+
+
+
+
+Our favorite Stack Overflow questions this week are:
+
+
+
+
+
+
+  * [Do you source control your databases?](http://stackoverflow.com/questions/115369/do-you-source-control-your-databases) The answer is always yes! Yes! YES![  
+](http://stackoverflow.com/questions/332952/whats-up-with-o1)
+
+
+  * [What's Up with O(1)?](http://stackoverflow.com/questions/332952/whats-up-with-o1) Worth some thought.
+
+
+
+
+
+If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser. We also have a dedicated phone number you can call to leave audio questions at **646-826-3879**.
+
+
+
+
+
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?pg=pgWiki&command=view&ixWikiPage=29053) for this episode is available for public editing.
+
+
+
+
+
+[display_podcast]

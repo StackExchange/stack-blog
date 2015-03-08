@@ -1,0 +1,26 @@
+---
+author: Laura Dobrzynski
+comments: false
+date: 2011-11-18 20:53:00+00:00
+layout: post
+published: false
+slug: '12978552537'
+title: '"Give a damn. Give lots of damns. More than anyone."'
+wordpress_id: 10540
+categories:
+- chaos
+post_format:
+- Aside
+tags:
+- talks
+---
+
+This is probably my favorite piece of advice from Alexis Ohanian, best known as the co-founder of Reddit. I attended a talk he gave a few days ago in NYC called “[Making Something People Love](http://www.skillshare.com/Making-Something-People-Love/822658242),” which was advice for start-ups (founders, and by extension, their small, versatile staffs) based on Alexis’s experiences at Reddit, Hipmunk, and Breadpig.
+
+He touched on a lot of concepts and philosophies that are valuable to people looking to build successful companies, but I think this principle of caring - more than anyone else - underlies everything else that he talked about. (I also won’t spoil his speech by filling you in on the details; he’s a very enjoyable speaker, and he has [at least one upcoming event](http://makingsomethingpeoplelove.eventbrite.com/).)
+
+The notion of “giving lots of damns” is fundamental to the Stack Exchange way, and of CHAOS initiatives in particular. Our developers put a lot of effort into building a great tool for people who want expert answers to their questions, and CHAOS promotes that tool by caring who we target and building relationships with people we think would both benefit from our sites **and **contribute to the existing communities. We try to think of different ways to express that we give a damn: handing out swag at conferences, giving free stuff to our top users, asking for community feedback on our ideas, and sharing what we learn about community building and promotion.
+
+We hope that by “giving lots of damns,” we’re building a product and communities that people love — and that those people will, in turn, give a damn and help us grow.
+
+

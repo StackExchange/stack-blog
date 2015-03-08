@@ -1,0 +1,22 @@
+---
+author: admin
+comments: true
+date: 2009-02-01 05:29:30+00:00
+layout: post
+slug: the-stack-overflow-development-process
+title: The Stack Overflow Development Process
+wordpress_id: 593
+categories:
+- background
+---
+
+
+I occasionally get questions about the Stack Overflow development process. It goes a little something like this:
+
+
+
+[![The Stack Overflow Development Process](http://blog.stackoverflow.com/wp-content/uploads/bug-bash-stackoverflow-development-process.png)](http://www.bugbash.net/comic/113.html)
+
+
+
+(with apologies to the [always-excellent Bug Bash](http://www.bugbash.net/comic/113.html).)

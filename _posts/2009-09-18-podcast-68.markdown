@@ -1,0 +1,97 @@
+---
+author: admin
+comments: true
+date: 2009-09-18 00:31:44+00:00
+layout: post
+slug: podcast-68
+title: 'Podcast #68'
+wordpress_id: 1964
+categories:
+- podcasts
+---
+
+Joel and Jeff discuss outsourced DNS, virtual machine "appliances", and programmers as library users versus library writers.
+
+
+
+
+
+
+  * As a dyed in the wool fan of [fake plastic rock](http://www.fakeplasticrock.com/), I am required by law to mention that [The Beatles: Rock Band](http://www.amazon.com/gp/search?ie=UTF8&keywords=beatles%20rock%20band&tag=codinghorror-20&index=videogames&linkCode=ur2&camp=1789&creative=9325) was released last week. It's great!
+
+
+  * We [changed DNS providers](http://blog.stackoverflow.com/2009/09/new-dns-provider/), as our existing registrar's DNS service was highly ... irregular.
+
+
+  * Should you pay for outsourced, dedicated DNS? What do you get for that money? What kinds of value can outsourced DNS provide? What clever things can a smart DNS provider do?
+
+
+  * If you need to troubleshoot your DNS, try [DNS Stuff](http://www.dnsstuff.com/).
+
+
+  * DNS is heavily cached throughout the internet, but I think we overestimate how efficient these distributed caches are. For example, Yahoo found that [40-60 percent of their users](http://yuiblog.com/blog/2007/01/04/performance-research-part-2/) have an empty browser cache experience. There is value in having a fast, distributed core service for the no-cache scenario.
+
+
+  * A brief discussion of our use of virtual machines in our little server farm. Since the only trouble spot for VM performance is disk, that gives us the flexibility of using a lot of great Linux and open source tools for networking (no or very little disk dependency), such as [HAProxy](http://haproxy.1wt.eu/) and [Cacti](http://www.cacti.net/).
+
+
+  * Sometimes people _should_ question the premise of your question; as in [our Server Fault question about having two default gateways](http://serverfault.com/questions/64232/dead-gateway-detection-on-windows-2008-server), it turns out that the only sane answer is "don't do that."
+
+
+  * When it comes to [Stack Exchange](http://stackexchange.com/), the broader the topic, and the more unanswerable questions you have, the worse the engine will do for you. The engine is designed for reasonably narrow topics, with a majority of questions that can actually be answered in some reasonable way.
+
+
+  * Joel likens the classic divide in software developers to "library users versus library writers". At what point do programmers cross that chasm? Do they need to? Joel says "we write one algorithm per year."
+
+
+  * How do you deal with [the dancing bunnies](http://www.codinghorror.com/blog/archives/000347.html) problem? Also known as [the Dancing pigs](http://en.wikipedia.org/wiki/Dancing_pigs) problem. "Given a choice between dancing pigs and security, users will pick dancing pigs every time."
+
+
+
+
+We answered the following listener questions this week:
+
+
+
+
+
+
+  * **Steve**: "The etiquette rules for meta are much looser than on the other Trilogy sites. Does this have ramifications for Stack Exchange sites?"
+
+
+  * **Brian**: "Technology changes so fast that most developers burn out in 20 years. How do we retain our historical knowledge if the rate of attrition is so high?"
+
+
+
+
+Our favorite questions this week:
+
+
+
+
+
+
+  * [](http://serverfault.com/questions/45516/recommended-logparser-queries-for-iis-monitoring)[How can I gently explain to non-techie friends they are the victim of a hoax?](http://superuser.com/questions/27453/how-can-i-gently-explain-to-non-techie-friends-they-are-the-victim-of-a-hoax) It is part of the responsibility of a true superuser to tend to those users who can't protect themselves.
+
+
+  * [What is the worst real-world macros/pre-processor abuse you've ever come across?](http://stackoverflow.com/questions/652788/what-is-the-worst-real-world-macros-pre-processor-abuse-youve-ever-come-across) The C, she is dangerous!
+
+
+
+
+If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser. We also have a dedicated phone number you can call to leave audio questions at **646-826-3879**.
+
+
+
+
+
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W29083) for this episode is available for public editing.
+
+
+
+
+
+
+[display_podcast]
+

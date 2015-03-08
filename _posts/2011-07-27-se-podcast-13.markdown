@@ -1,0 +1,73 @@
+---
+author: alex
+comments: true
+date: 2011-07-27 19:00:58+00:00
+layout: post
+slug: se-podcast-13
+title: 'SE Podcast #13 - Jin Yang'
+wordpress_id: 9033
+categories:
+- podcasts
+---
+
+Jeff & Joel are joined this week by [Jin Yang](http://www.twitter.com/jzy) - our resident web/graphic designer here at Stack (the distinction between the two becomes a discussion point).  Once we get the proper picture of [Jin](http://www.8164.org/) in the chatroom, he relates everything from his background in design to how he ended up at Stack Exchange and our philosophy behind design.
+
+Full topics this week include:
+
+
+
+	
+  * Jin refers to himself as a "web designer" as opposed to a "graphic designer" because of the type of work he focuses on.
+
+	
+  * [Last week](http://blog.stackoverflow.com/2011/07/se-podcast-12), we discussed [this amazing answer](http://stackoverflow.com/questions/6441218/can-a-local-variables-memory-be-accessed-outside-its-scope/6445794#6445794) from [Eric Lippert](http://stackoverflow.com/users/88656/eric-lippert) and how it was a great answer in response to a poor question.  Looking over this led Joel to notice that some people will vote to close a question as duplicate because the answers are the same even though the questions are different.
+
+	
+  * In this case, there was already some questions on the topic but Eric decided to write the "canonical" answer that can be referenced from here out.  Joel will often do the same thing on some of the other Stack Exchange sites (like in [this OnStartups post](http://answers.onstartups.com/questions/6949/forming-a-new-software-startup-how-do-i-allocate-ownership-fairly/23326#23326))
+
+	
+  * Sometimes you do [have to have SOME duplication](http://blog.stackoverflow.com/2010/11/dr-strangedupe-or-how-i-learned-to-stop-worrying-and-love-duplication/) of questions to make sure that the different use-cases are covered, but you want to avoid there being 12 of the exact same question on every site.
+
+	
+  * When applying for Stack Exchange, Jin created a custom site targeted at Joel to show his abilities.
+
+	
+  * As Joel notes (and expands on) Jin went with the always smart tactic of spending a ton of time focusing on the one company he truly wanted to work for instead of very little time on 50 random companies.
+
+	
+  * Many people forget that truly great design is very hard, when you have to meld it with making sure the site stays useful and effective for the users.
+
+	
+  * Talking about continuous improvement: Jin notes an [episode of This American Life](http://www.thisamericanlife.org/radio-archives/episode/403/nummi) covering similar topics.
+
+	
+  * Joel likes Robin Williams' (no, not that Robin Williams) book on design since it has really good and basic lessons on it - [The Non-Designers Design Book](http://www.amazon.com/Non-Designers-Design-Book-Robin-Williams/dp/0321193857)
+
+	
+  * We use a special CSS structure that lets us have a master CSS file for the entire network and then smaller CSS files for each site that just contain the differences between the generic template and the special parts of each site.
+
+	
+  * We've also learned a number of design lessons: like that white on black designs just don't look very good and aren't usable.
+
+	
+  * There have been issues in the past with designers creating their designs on macs but those designs then looking funny on PCs because of differences in text rendering - fortunately, thanks to improvements on both ends, that happens less now.
+
+	
+  * While Jin is our in house designer and works on everything, we occasionally have help from some outside designers (such as for English and UX) who are members of the community.
+
+	
+  * Prompted by a question for the chatroom, Jin is really excited about getting to design [our RPG site](http://rpg.stackexchange.com/).
+
+	
+  * Anonymous feedback is now live!  That means non-logged in users and those with less than 15 rep can give feedback on how good questions/answers are.  We haven't figured out how we'll incorporate this data yet, but we're collecting it and will figure that out.
+
+	
+  * Make sure you get your tickets for [Stack Overflow DevDays](http://devdays.stackoverflow.com) (we just [announced the first round of speakers](http://blog.stackoverflow.com/2011/07/documenting-devdays-2011-2-%E2%80%93-speakers/) for all the cities!) and use discount code "podcast" to save $100!
+
+
+
+
+We'll be back live next week with a bunch of brand new podcast gear  and our special guest: [Miguel De Icaza](http://stackoverflow.com/users/16929/miguel-de-icaza).  Join us for the [live stream](http://www.livestream.com/stackexchange) and in the [official show chatroom](http://chat.stackexchange.com/rooms/512)
+
+
+[Stack Exchange Podcast - Episode #13 w/ Jin Yang](http://soundcloud.com/stack-exchange/stack-exchange-podcast-13) by [Stack Exchange](http://soundcloud.com/stack-exchange)

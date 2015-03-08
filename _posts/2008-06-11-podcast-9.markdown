@@ -1,0 +1,138 @@
+---
+author: admin
+comments: true
+date: 2008-06-11 23:15:22+00:00
+layout: post
+slug: podcast-9
+title: 'Podcast #9'
+wordpress_id: 51
+categories:
+- podcasts
+---
+
+
+This is the ninth episode of the StackOverflow podcast -- [the first fully hosted on itconversations](http://www.joelonsoftware.com/items/2008/06/05.html) -- wherein Joel and Jeff discuss the following:
+
+
+
+
+
+
+  * Apple's [WWDC](http://developer.apple.com/wwdc/) is going on this week, and Joel has a few Fog Creek people at the conference.
+
+
+
+  * at a WWDC party, I saw my friend [Wil Shipley](http://www.wilshipley.com/blog/) of [Delicious Monster](http://www.delicious-monster.com/), who just so happens to be a FogBugz user. If you have a Mac, check out Delicious Monster 2!
+
+
+
+  * On the use of Javascript -- [is it OK to require JavaScript](http://blog.stackoverflow.com/index.php/2008/06/is-it-ok-to-require-javascript/) on today's web?
+
+
+
+  * [How to pronounce OS X](http://dmiessler.com/blog/how-to-pronounce-os-x-proof-from-apple).
+
+
+
+  * On Nicholas Carr's excellent Atlantic article [Is Google Making Us Stupid?](http://www.theatlantic.com/doc/200807/google) His [blog](http://www.roughtype.com/) is outstanding as well and highly recommended. Many people know him from his book [Does IT Matter?](http://www.amazon.com/dp/1591394449/?tag=codinghorror-20)
+
+
+  * On the challenges of tagging and hierarchy, and the folly of attempting to define popularity before it exists. 
+
+
+  * The StackOverflow private beta is still scheduled for early next month. We have to go through at least one full cycle privately with Joel first. Beyond that, we will be seeding the site with the existing content of the [discuss.joelonsoftware.com .NET questions forum](http://discuss.joelonsoftware.com/default.asp?dotnet).
+
+
+
+  * On the absurdity and emotional emptiness of TechCrunch. Is it venture capital pornography?
+
+
+
+  * A quick reference to my friend Matt Hempey's [Here Comes Another Bubble](http://www.youtube.com/watch?v=I6IQ_FOCE6I) video. It's so good, it won a webby award!
+
+
+
+  * News flash: Joel adopts instant messaging technology, seven years after the fact!
+
+
+
+  * We did our first server deployment of the stackoverflow code, where we ran into a little [ASP.NET MVC](http://www.asp.net/mvc/) beta problem. We're crossing our fingers and hoping ASP.NET MVC will have a "go live" license before we enter the public beta.
+
+
+
+  * Joel describes the way they use [FinalBuilder](http://www.finalbuilder.com/finalbuilder.aspx), and I describe my brief dabblings with MSBuild.
+
+
+  * On the strange sentiment of "I agree with everything you've written, except.."
+
+
+
+  * Why does [Amazon's affiliate program](https://affiliate-program.amazon.com/002-8631162-3447259) work, when Fog Creek's Fogbugz affiliate program did not?
+
+
+
+  * How [Google Answers failed because they paid people](http://www.dashes.com/anil/2006/12/matt-haughey-beat-google.html).
+
+
+
+  * Is it possible to ["specialize in being a generalist"](http://sethgodin.typepad.com/seths_blog/2008/05/we-specialize-i.html)? Does that even mean anything? Expressing our general affection for Seth Godin, while acknowledging that he is, after all, a marketing weasel. But a really, really good one!
+
+
+
+  * An example of specialization in action: how Larry O'Brien's single post on programming Sabre [generated the majority of his income.](http://www.knowing.net/PermaLink,guid,e5aadb98-0a69-44e3-94cb-0afa583b0c0e.aspx)
+
+
+
+  * How I personally wish the "begins-with-www or doesn't-begin-with-www" debate would just _go away_. Perhaps [some humor will help](http://www.codinghorror.com/blog/archives/001109.html)? Probably not.
+
+
+
+  * A final coda on Joel's question to our audience about password management.
+
+
+
+  * On [the manifold evils of focus stealing](http://www.codinghorror.com/blog/archives/001011.html), and our very favorite home page of all time: [about:blank](http://about:blank)
+
+
+
+
+
+
+We also answered the following listener questions:
+
+
+
+
+
+
+  1. **John Topley**: "What are your thoughts on affiliate programs, such as [the new 37signals affiliate program](http://www.37signals.com/svn/posts/1063-launch-announcing-the-new-37signals-affiliate-program-with-recurring-income)?"
+
+
+
+  2. **Matthew Glidden**: "What do you think of Seth Godin's [We specialize in everything](http://sethgodin.typepad.com/seths_blog/2008/05/we-specialize-i.html)?"
+
+
+
+  3. **Jim McKeeth**: "A reproducable way of generating a secure password: [passwordmaker.org](http://passwordmaker.org)"
+
+
+
+
+
+
+If you'd like to submit a question to be answered in our next episode,  
+
+record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser.
+
+
+
+
+
+The [transcript wiki](http://stackoverflow.fogbugz.com/default.asp?W7782) for this episode is available for public editing.
+
+
+
+
+
+[display_podcast]
+

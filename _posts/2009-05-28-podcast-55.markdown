@@ -1,0 +1,117 @@
+---
+author: admin
+comments: true
+date: 2009-05-28 14:55:55+00:00
+layout: post
+slug: podcast-55
+title: 'Podcast #55'
+wordpress_id: 1357
+categories:
+- podcasts
+---
+
+This is the 55th episode of the StackOverflow podcast where Joel and Jeff discuss killer IDEs, how much interview feedback is appropriate (for both parties), and how to teach young programmers who think they know it all.
+
+
+
+
+
+
+  * 
+Server Fault [has launched!](http://blog.stackoverflow.com/2009/05/server-fault-public-beta-launches/) If you're a sysadmin or IT pro type, [please join us there](http://serverfault.com).   
+
+
+
+  * You may have noticed that [woot!](http://www.woot.com/) is the launch sponsor of Server Fault. These sorts of (hopefully) tasteful advertiser relationships underwrite continued development of the site -- and let us do cool things like bring on Geoff Dalgas as [Stack Overflow Valued Associate #00003](http://blog.stackoverflow.com/2009/05/welcome-stack-overflow-valued-associate-00003/)!
+
+
+  * What does it mean to be successful as a writer online? Perhaps one metric of success is getting people you respect and admire to link to your writing in an organic, natural way (that is, without asking them to).
+
+
+  * Steve Yegge indicated [he may blog anonymously or not at all](http://steve-yegge.blogspot.com/2009/05/programmers-view-of-universe-part-3.html) in the future. We suspect that Steve's high profile as a notable software blogger makes it difficult for him at Google, which is a notoriously secretive company. Not _Apple_ secretive, mind you, but close. We agree that as much as Steve writes, it's coming out of him one way or the other, but unfortunately it may be anonymous from this point on. 
+
+
+  * If we can render virtual 3D worlds at 60 frames per second, why haven't our software development IDEs evolved much beyond ASCII text for layout? How about [visual comments?](http://www.scribd.com/doc/6889812/Visual-Comments) And Lutz Roeder wonders about [Interactive Source Code](http://www.lutzroeder.com/paper/InteractiveSourceCode.ppt) (ppt). Why not have diagrams in the code, or even better, dynamic visualization of the data structures in that code?  
+
+
+
+  * My thoughts on [what it takes to build a killer IDE](http://www.codinghorror.com/blog/archives/000195.html). I'm still waiting, by the way.  
+
+
+
+  * An analysis of what it takes to have a vibrant add-in ecosystem, while still folding in the most popular add-ins to the core of the product, where they rightfully belong. This is a fine line to walk, particularly for commercial software.
+
+
+  * It really is amazing how many problems go away when your software is all open source. Except for the "how do we pay our employees" one.
+
+
+  * How much feedback should job interview candidates get when the interview doesn't work out? Joel and I have an extended discussion. This is a lot tricker than it seems at first glance. At some level, perhaps you have to treat job interviews (particularly at extremely selective companies like Fog Creek) like romantic relationships -- sometimes there just isn't chemistry. Rather than over-analyze it, learn what you can, and move on to the next relationship.
+
+
+  * Don't ask what programming language beginning programmers should learn -- ask what type of programming do you want to train people to do! Do you want to teach theory, or skill?   
+
+
+
+  * Joel's example of the MIT curriculum of robot programming is a fantastic one: "what they care about is not the actual language. It's not a matter of teaching you the Python, it's teaching you to be a programmer in an environment where everything is constantly falling down around you, nothing as works as documented, even if there were documentation, and there isn't, and if there was documentation, it was probably written by a technical writer who was afraid to go into the programmer's offices because the last time she went in she got her head bitten off."
+
+
+  * How to deal with headstrong know-it-all beginning programmers? Been there, done that. And by that I mean I was one, too. You have to fail. In fact, make them fail, if you can. As Joel says, they have to learn that "no code that you write can ever possibly work." We know. Alternately, throw a copy of [Code Complete](http://www.amazon.com/exec/obidos/ASIN/0735619670/codinghorror-20) at them, if they're in a place where they can actually learn from it.
+
+
+  * Possibly one of the worst scenarios for beginning programmers is to be in a company where everyone is a beginning programmer. It does help to have some seasoned veterans in the mix, otherwise you're basically living out [Lord of the Flies](http://www.amazon.com/dp/0399529209/?tag=codinghorror-20) -- and if you don't know who Piggy is, then it's you.
+
+
+
+
+We answered the following listener questions on this podcast:
+
+
+
+
+
+
+  1. "I read on Steve Yegge's blog that he's [not going to blog any more](http://steve-yegge.blogspot.com/2009/05/programmers-view-of-universe-part-3.html). What are your thoughts on this?"
+
+
+  2. Chris: "Can you point to a particular article or time where you realized that your blog was going somewhere?"
+
+
+  3. Ohad: "Why can't rich comment be put in source code as comments? Why not use images, document snippets, and so forth?"
+
+
+
+
+Our favorite Stack Overflow questions this week are:
+
+
+
+
+
+
+  * [How can I teach a know-it-all beginner programmer?](http://stackoverflow.com/questions/868301/how-can-i-teach-a-know-it-all-beginner-programmer) Many of us start out this way, sadly, so put yourself in.. er.. your own shoes.[  
+](http://stackoverflow.com/questions/332952/whats-up-with-o1)
+
+
+  * [What programming language should be taught in Computer Science 101?](http://stackoverflow.com/questions/309160/what-programming-language-should-be-taught-in-computer-science-101) Maybe the question is fundamentally wrong.  
+
+
+
+
+
+
+If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser. We also have a dedicated phone number you can call to leave audio questions at **646-826-3879**.
+
+
+
+
+
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W29056) for this episode is available for public editing.
+
+
+
+
+
+
+[display_podcast]
+

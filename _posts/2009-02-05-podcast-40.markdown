@@ -1,0 +1,117 @@
+---
+author: admin
+comments: true
+date: 2009-02-05 06:32:25+00:00
+layout: post
+slug: podcast-40
+title: 'Podcast #40'
+wordpress_id: 600
+categories:
+- podcasts
+---
+
+This is the 40th episode of the StackOverflow podcast, where
+Joel and Jeff sit down with Michael Lopp, aka Rands, to discuss how a geek manages other geeks, the dangers of working remotely, the pitfalls of offshoring, and some techniques for continual learning.
+
+
+
+
+
+
+  * You may know Michael Lopp from his excellent blog, [Rands in Repose](http://www.randsinrepose.com/). We highly recommend the [Best Of category](http://www.randsinrepose.com/archives/cat_best_of.html) if you haven't visited Rands before. Heck, even if you have.  
+
+
+
+  * Rands is a Manager of Humans, and many of the entries on his blog are a fantastic resource for other Managers of Humans. "A lot of people stuff on a daily basis, it's 60 to 70 percent of my day." He wrote a book on this topic, [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](http://www.amazon.com/dp/159059844X/?tag=codinghorror-20).
+
+
+  * If you transition from being a software developer to a manager, you will almost never write code. As a manager, how do you balance writing code -- if only as a form of daily exercise, to keep your skills sharp -- with the rest of what you do?  
+
+
+
+  * The #1 management skill? Listening. Which means Joel and I should probably never be managers.
+
+
+  * The magical number of people one person can manage without having serious problems is seven. Beyond that, you're probably not giving the people on your team enough attention.
+
+
+  * On managing geeks and nerds: it should be done systematically. They like _structure_, and you have to put that around this messy business of us being human beings. Perhaps [the handbook](http://www.randsinrepose.com/archives/2007/11/11/the_nerd_handbook.html) will be of use.
+
+
+  * Leading by example can only get you so far. What do you do when you inherit the world's best programmer in some language you don't even know? It's much more hands on than that. Your strengths are not your team's strengths.
+
+
+  * Building a so-called Nerd Playground is one way to attract talented developers. But as Joel says, "10% of the joy of coming in to work is that it's a great place to work, and 90% is that I love these people."
+
+
+  * The danger of working remotely is that there's a lot of non-verbal communication that typically goes on. Our tentative recommendation for working remotely, if you must do it, is to have frequent intervals where you all come together multiple days and work together. In order for the remote relationship to work, there has to be a face to face relationship in place to support it.
+
+
+  * Michael asks about the Stack Overflow badge system, which was explicitly modelled on the [Xbox 360 Achievements system](http://xbox.gamespy.com/articles/680/680891p1.html). The Bronze, Silver, and Gold badges are there to support beginners, intermediates, and the hardcore respectively. The idea that you have to figure out why you got a badge is there very much by design; the mystery is part of the fun.
+
+
+  * There were complaints that answers came too fast on Stack Overflow, which [we have hopefully addressed](http://blog.stackoverflow.com/2008/10/solving-the-fastest-gun-in-the-west-problem/) -- there is an art to answering questions quickly and effectively. If anything, Stack Overflow "games" you into learning how to progressively answering other people's questions more and more effectively over time. How, exactly, is this a bad thing?
+
+
+  * A brief discussion of offshoring. "If people were getting as much value out of remote developers as local developers, then the price would be the same." It's also difficult to get good results out of teams when their skin isn't in the game.
+
+
+  * While I am deeply uncomfortable with using Stack Overflow as a hiring tool, it is totally reasonable to use it as a "breadcrumb trail of your awesomeness" as a programmer. If your questions and answers are well written and clear, and getting upvoted by your peers, that is something to be proud of.
+
+
+  * How do you manage continually learning? Reading, writing, and practice of the things you enjoy. It is possible to take this too far, though, and become [a magpie developer](http://www.codinghorror.com/blog/archives/000916.html). One advantage of older developers is that they have [more failures under their belt](http://www.codinghorror.com/blog/archives/000576.html).
+
+
+  * Michael looks for a combination of ego and humility when he hires -- these are somewhat contradictory traits, but they balance and complement each other.
+
+
+
+
+Our favorite Stack Overflow questions this week are:
+
+
+
+
+
+
+  * **Joel:** [What do you do to keep learning?](http://stackoverflow.com/questions/201189/what-do-you-do-to-keep-learning)
+
+
+  * **Jeff:** [I was recently asked for my stackoverflow rep score in a job interview. Is that appropriate?](http://stackoverflow.com/questions/502492/i-was-recently-asked-for-my-stackoverflow-rep-score-in-a-job-interview-is-that-a)
+
+
+
+
+We answered one listener question on this podcast:
+
+
+
+
+
+
+  1. "What makes a great software development manager? Should he or she be a good developer to be a manager?"
+
+
+  2. **Alex**: "What do you think of the feasability of building a workforce of people who work remotely from home?"  
+
+
+
+
+
+
+If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser. We also have a dedicated phone number you can call to leave audio questions at **646-826-3879**.
+
+
+
+
+
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W29028) for this episode is available for public editing.
+
+
+
+
+
+
+[display_podcast]
+

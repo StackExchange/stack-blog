@@ -1,0 +1,87 @@
+---
+author: admin
+comments: true
+date: 2008-08-13 22:50:14+00:00
+layout: post
+slug: podcast-17
+title: 'Podcast #17'
+wordpress_id: 88
+categories:
+- podcasts
+---
+
+
+This is the seventeenth episode of the StackOverflow podcast. Joel is on vacation, so this is a special podcast with the software development team: Jeff Atwood, Geoff Dalgas, and Jarrod Dixon.
+
+
+
+
+
+
+  * Our team is geographically distributed -- I'm in California, Jarrod is in North Carolina, and Geoff is in Oregon.   
+
+
+
+
+  * Geoff and Jarrod, like me, both g[rew up with BASIC programming](http://www.codinghorror.com/blog/archives/001104.html) on early computers like the Apple // and Commodore 64. Can programmers who grew up programming somehow recognize each other?
+
+
+  * The private beta is going well. We think the beta will continue through the month of August. We'll continue to add 150 users per day until the private beta is over.   
+
+
+
+  * This entire podcast was inspired by community comments on the Stack Overflow blog, so we proceeded quickly to the following questions:  
+
+
+
+
+
+
+We answered the following questions left from the blog:
+
+
+
+
+
+
+  1. "How do you manage collaboration on a distributed team? Is code ownership a problem?"
+
+
+  2. "How do you prioritize what features you're working on?"
+
+
+  3. "How do you test new features you're developing before you roll them out?"
+
+
+  4. "What were the biggest technical challenges you had to overcome?"
+
+
+  5. "What happened on the site that you didn't anticipate?"
+
+
+  6. "Are you happy with the performance of your Windows development stack on the web server?"
+
+
+  7. "Will you have an API? How will you deal with spammers, griefers, and marketers?"
+
+
+
+
+The Stack Overflow private beta list is essentially full until the end of the month. If you'd like an invite sooner, do two minutes of transcription in the wiki and I'll bump you so you get an invite the same day.
+
+
+
+
+
+If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser.
+
+
+
+
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W24212) for this episode is available for public editing.
+
+
+
+
+[display_podcast]

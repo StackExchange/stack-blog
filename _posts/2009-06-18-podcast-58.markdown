@@ -1,0 +1,99 @@
+---
+author: admin
+comments: true
+date: 2009-06-18 02:20:31+00:00
+layout: post
+slug: podcast-58
+title: 'Podcast #58'
+wordpress_id: 1499
+categories:
+- podcasts
+---
+
+This is the 58th episode of the StackOverflow podcast where Joel and Jeff discuss HTML encoding, designing "safe by default", whether a question can be too simple, and the art of beta testing.
+
+
+
+
+
+
+  * Joel wonders if doing his Visual Studio development in a virtual machine is a viable solution. I say in this era of cheap 8 GB RAM and quad core CPUs, why not?
+
+
+  * As always, [Naming Is Hard](http://blog.stackoverflow.com/2009/03/it-stack-overflow-update-naming-is-hard/). We're struggling with naming the hosted Stack Overflow that Fog Creek is working on. Joel likes the name "Stack Exchange". It's not bad, but we wonder if anyone listening has a better idea?
+
+
+  * I admit, finally, that Joel was right about something. Don't HTML encode data that's stored in your database! Take the [good advice of Damien Guard](http://damieng.com/blog/2007/12/18/5-signs-your-aspnet-application-may-be-vulnerable-to-html-injection) and Joel Spolsky! You can choose to store both representations, but don't store just the HTML; go with the raw data at the highest level of precision.
+
+
+  * A brief political rant about the evil of view engines that fail to HTML encode by default. The problem with this design choice is that it is not "safe by default", which is **always** the wrong choice for a framework or API. Forget to encode some bit of user-entered data in [_one single stinking place_ in your web app](http://damieng.com/blog/2007/12/10/how-dangerous-is-html-injection), and you will be totally owned with [XSS](http://en.wikipedia.org/wiki/Cross-site_scripting). Believe it. I know because it's happened to us. Multiple times!
+
+
+  * Joel maintains that, with a strongly-typed language and the right framework, it's possible (in theory) to completely eliminate XSS -- this would require using a specific data type, a type that is your only way to send data to the browser. That data type would be validated at compile time.
+
+
+  * We continue to ramp up on our computer enthusiast site, [superuser.com](http://superuser.com/) -- we just launched a [logo design contest at crowdspring](http://www.crowdspring.com/projects/graphic_design/logo/logo_for_superuser_com/details). This will be as close as we ever get to an "anything goes" website, and I'm excited to see what happens.
+
+
+  * I maintain your online behavior shouldn't be all that different than your general public behavior. I say "don't post anything you wouldn't want your mom to read." Joel cites the Wall Street rule: "don't ever write anything you wouldn't want published on the front page of the Wall Street Journal." Also, systems where people are able to behave as if nobody is watching are fundamentally broken systems.
+
+
+  * Joel says that the only bad simple question is a _duplicate_ simple question. I say simple questions are OK as long as they're actually interesting (in some way) for other users to consider and answer. To prove his point, Joel actually asks the question on Stack Overflow: [How do I move the turtle in LOGO](http://stackoverflow.com/questions/1003841/how-do-i-move-the-turtle-in-logo)? Do _you_ think this question adds value?
+
+
+  * Some ruminations about the challenge of asking questions when you are a total beginner and not even sure what you should be asking. Perhaps the best solution there is "screenshots", or in code parlance: just shut up and show us the code!
+
+
+  * Beta testing is an art, and perhaps the first beta test barrier is if people can actually understand whatever the heck it is you're trying to do. There's often a disconnect between what beta users say (particularly gung-ho early adopters who love betas) and what typical users do. Unfortunately at the early beta, you lack the one thing you'd benefit from most: lots of usage data!
+
+
+  * The absurdity of the term "Content Management System". It's for, y'know, managing.. content. What does this even mean? Trying to be everything to everyone means you solve nobody's problem particularly well. Maybe this is why Fog Creek's hosted FogBugz is not attempting to expand thematically beyond their core business: software bug tracking.
+
+
+  * Remember that [random NTP server that Joel ran into](http://serverfault.com/questions/24933/questionable-timeservers-in-pool-ntp-org)? They're back -- and they made a slightly .. uh.. disturbing .. theme song for us! Thanks! We think!
+
+
+
+
+We answered the following listener questions on this podcast:
+
+
+
+
+
+
+  1. **Joseph**: "Now that you have the jobs connection up and running, how do you think that will affect the questions and answers on the site -- that some future employer might see what they're doing?"
+
+
+  2. **Frank**: "What are your thoughts on getting beta testers (and getting good beta results) when you don't necessarily have a super high profile project?"
+
+
+
+
+Our favorite Stack Overflow questions this week are:
+
+
+
+
+
+
+  * [](http://stackoverflow.com/questions/895371/bubble-sort-homework)[Twitter image encoding challenge](http://stackoverflow.com/questions/891643/twitter-image-encoding-challenge). Not necessarily useful, but a really fun programming challenge. Great use of the bounty system as well!  
+
+
+
+
+
+
+If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/)
+using nothing but a telephone and a web browser. We also have a dedicated phone number you can call to leave audio questions at **646-826-3879**.
+
+
+
+
+
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W29063) for this episode is available for public editing.
+
+
+
+

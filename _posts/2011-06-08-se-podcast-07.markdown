@@ -1,0 +1,56 @@
+---
+author: alex
+comments: true
+date: 2011-06-08 23:10:48+00:00
+layout: post
+slug: se-podcast-07
+title: 'SE Podcast #07'
+wordpress_id: 8375
+categories:
+- podcasts
+---
+
+Jeff and Joel are joined by [Sam Saffron](http://stackoverflow.com/users/17174/sam-saffron) (aka [Waffles](http://meta.stackoverflow.com/users/17174/waffles)), our only Australian developer at Stack Exchange!
+
+
+
+	
+  * Does "Hell Banning" -- making a problematic user's posts visible to just him or her -- make sense? You can see Jeff's post about it [over on Coding Horror](http://www.codinghorror.com/blog/2011/06/suspension-ban-or-hellban.html). When issues like this are presented to the community, the gravity of the situation is often not fully conveyed to the audience. They can't see all the removed content that tells the story of how destructive that person was to the community. Of course, we _always_ encourage discussion of general moderation issues on the [per-site metas](http://blog.stackoverflow.com/2010/07/new-per-site-metas/).
+
+	
+  * Two pieces of advice about moderation discussions: try to stick to generalized dicussions about a broad _class_ of moderation, without delving into minutiae specific to one user and one situation. To keep it useful to the community, avoid devolving into a  laundry list of every tiny thing that happened to every user. Also, try to limit discussion about moderation to those users who have an _actual connection to the site and these moderation events_, and aren't just stopping by to opine about some abstract, perceived wrong on the internet. (insert XKCD cartoon here)
+
+	
+  * Sam Saffron has been [working remotely for Stack Exchange](http://blog.stackoverflow.com/2010/06/welcome-stack-overflow-valued-associate-00008/) from Australia for about a year now. Sam came to our attention as an avid participant on Stack Overflow and meta, as well as his own homegrown Stack Overflow inspired support tool he wrote, [Community Tracker](http://community-tracker.com/). In addition to being the lead on the [Stack Exchange Data Explorer](http://blog.stackoverflow.com/2010/12/re-launching-stack-exchange-data-explorer/), Sam's touched almost every area of the engine at this point: improvements to [badges](http://blog.stackoverflow.com/2010/07/improvements-to-badge-system/), [privileges](http://blog.stackoverflow.com/2010/10/membership-has-its-privileges/), [edits](http://blog.stackoverflow.com/2011/02/suggested-edits-and-edit-review/), [users page](http://blog.stackoverflow.com/2011/03/redesigned-users-page/), [tags page](http://blog.stackoverflow.com/2011/03/redesigned-tags-page/) …
+
+	
+  * We're starting to build a feature we call **emacs.stackexchange.com**, which essentially gives users a filtered view of Stack Overflow to specific topic groups, as represented by a set of tags. We have historically [shut down Area 51 proposals that would factionalize Stack Overflow](http://blog.stackoverflow.com/2010/09/factionalism-site-or-tag/), and although we feel this is the correct decision, we are sympathetic to the underlying concern. Stack Exchange sites are intended to be groups of topics, identified by tags, that are of broad interest to people who all love a topic -- like, say, _programming_. This is fine when you follow a large tag like [java] or [c#], but what about when you follow 20 small tags? Yes, [you can set up a tag filter](http://blog.stackoverflow.com/2011/04/improved-tag-sets/), but it might be nice to have some default groupings for certain popular sub-areas -- thus, emacs.stackexchange.com instead of the Area 51 site proposal for emacs.
+
+	
+  * The bedrock guideline of [our Area 51 site creation process](http://area51.stackexchange.com/faq) is, "I'd like to ask a question about {x} but there's no place on the Stack Exchange network to do so". We've been a bit disappointed that the CSTheory community has been [unwilling to accept an expansion of their scope](http://meta.cstheory.stackexchange.com/questions/947/is-theoretical-computer-science-too-narrow), because there are technical computer science questions on Stack Overflow that [aren't being handled correctly](http://meta.stackoverflow.com/questions/92563/ogod-why-are-we-helping-spread-misinformation) and have no other place to go.
+
+	
+  * The [German](http://german.stackexchange.com/) and [Japanese](http://japanese.stackexchange.com/) proposals are now public! These are our first [baby steps into other languages](http://blog.stackoverflow.com/2011/04/stack-overflow-around-the-world/), as guided by the community. It's already caused a bit of an issue as we "advertise" popular questions to the network that may have very few words in English. This also comes up with [http://judaism.stackexchange.com/](http://judaism.stackexchange.com/) questions which can have quite a bit of Hebrew in them.
+
+	
+  * As Joel builds out [the CHAOS (NYC community development and evangelism) team](http://stackexchange.theresumator.com/apply/5bbnOo/Community-Evangelism-Team.html) out, they start with a generalized online SAT/ACT style aptitude test.
+Which Jeff did not pass. :) But the far more interesting test that we're giving candidates is what we call the "Internet competency test" -- how would you test someone to see if they are experts at using the internet? How to find things, how to send email, how to link, what "The Facebooks" and "The Twitters" are, and so forth? Building such a test is an interesting thought exercise. How would you do it?
+
+	
+  * A question from the chat room -- are there any metrics around how much [the new suggested edits feature](http://blog.stackoverflow.com/2011/02/suggested-edits-and-edit-review/) has improved the site? One thing we've learned is that "simple" edits to fix layout (code formatting) and proper English go a long, long way towards increasing the overall quality of the experience. At Zappos, [they went so far as assigned Mechanical Turk tasks to edit and improve shoe reviews!](http://behind-the-enemy-lines.blogspot.com/2011/04/want-to-improve-sales-fix-grammar-and.html) We have noticed that a) some users are hesitant to approve edits that totally rewrite the post, even when it's necessary and b) we don't get _nearly_ as many anonymous edits as we expected; most edits come from existing or registered users.
+
+	
+  * The intent of editing questions and answers is to offer more permanent resources that can evolve over time. It is important to displace the old, out of date information that is often entombed in Google; for example with [Keyboard shortcut to access the first link in a Google search page?](http://webapps.stackexchange.com/questions/15945/keyboard-shortcut-to-access-the-first-link-in-a-google-search-page) Jeff was surprised to find that almost all the searches he did produced old, obsolete, and sort of incorrect results -- so he rolled up his sleeves and created a definitive answer, then edited the question and other answers. Hopefully future internet travellers will find this correct and up to date answer… and they can click edit to improve it, too!
+
+	
+  * We are open sourcing our [.NET web performance mini-profiler](http://code.google.com/p/mvc-mini-profiler/). This has been _huge_ for us on Stack Exchange, directly leading to **2x-10x performance improvements across the board**, and we are pulling it into all our sites. It's awesome and if you work at all in .NET building websites, I strongly encourage you to check out the [.NET web performance mini-profiler](http://code.google.com/p/mvc-mini-profiler/) for your projects. Kudos to [Jarrod Dixon](http://blog.stackoverflow.com/2009/01/welcome-stack-overflow-valued-associate-00002/) for putting this together in a highly polished, re-usable form, and [Marc Gravell](http://blog.stackoverflow.com/2010/06/welcome-stack-overflow-valued-associates-00006-and-00007/) for coming up with the genesis of the concept in [chat](http://blog.stackoverflow.com/2010/10/stack-overflow-chat-now-live/).
+
+	
+  * **The brand new [Stack Exchange Shop](http://shop.stackexchange.com/) is now officially live!** Pickup some of our great stack exchange gear like [Shirts](http://shop.stackexchange.com/collections/t-shirts), [Hoodies](http://shop.stackexchange.com/collections/frontpage/products/stack-overflow-hoodie), [Jackets](http://shop.stackexchange.com/products/stack-overflow-jacket-1), [Pens](http://shop.stackexchange.com/products/stack-exchange-pens) and even [Beer Steins](http://shop.stackexchange.com/collections/frontpage/products/beer-stein)!
+
+
+Join us next week when our guest is [Marco Arment](http://www.marco.org/), the creator of [Instapaper](http://www.instapaper.com/) and the former lead developer of Tumblr.  We'll also be live streaming again, so tune in to [http://www.livestream.com/stackexchange](http://www.livestream.com/stackexchange) starting at 3:30pm - you can also join the live chat at [http://chat.stackexchange.com/rooms/512](http://chat.stackexchange.com/rooms/512).
+
+[Stack Exchange Podcast - Episode #07 w/ Sam Saffron](http://soundcloud.com/stack-exchange/stack-exchange-podcast-9) by [Stack Exchange](http://soundcloud.com/stack-exchange)
+
+[display_podcast]

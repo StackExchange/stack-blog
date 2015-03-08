@@ -1,0 +1,48 @@
+---
+author: alex
+comments: true
+date: 2011-05-04 18:00:36+00:00
+layout: post
+slug: se-podcast-03
+title: 'SE Podcast #03'
+wordpress_id: 7997
+categories:
+- podcasts
+---
+
+This week, Jeff and Joel are joined by [Scott Hanselman](http://www.hanselman.com/blog/) - tune in for their discussion of everything from MIX11 to the salads at Jack in the Box.
+
+
+
+	
+  * Welcome Scott Hanselman! Be sure to check out both of Scott's excellent podcasts at [Hanselminutes](http://www.hanselminutes.com/) and [This Developer's Life](http://thisdeveloperslife.com/).
+
+	
+  * Joel recently wrote an unintentionally controversial [blog post about lunch](http://www.joelonsoftware.com/items/2011/04/28.html) and how important it is here at Stack Exchange and Fog Creek. [Despite the claims](http://news.ycombinator.com/item?id=2494398) that Joel is torturing introverts by _forcing_ them to eat lunch together, the truth is that almost everyone at both companies is introverted and yet enjoy lunch together.
+
+	
+  * Scott wonders how so many people have so much time to sit around on Hacker News and Reddit (and everywhere else) discussing thse blog posts when they have work to do. Of course we have to reference Clay Shirky's classic [Gin, Television, and Social Surplus](http://replay.web.archive.org/20080512021738/http://www.herecomeseverybody.org/2008/04/looking-for-the-mouse.html) here.
+
+	
+  * Scott is busy putting together a new [Synology DiskStation DS1511+](http://www.amazon.com/dp/B004GKLT4G/?tag=stackoverfl08-20) to replace his Windows Home Server setup - unfortunately, there's a lot of options (and a lot of bad ones out there). Scott is a wired enthusiast, but he does like his optimized wireless N setup, which is based on a [Netgear N600](http://www.amazon.com/dp/B0041LYY6K/?tag=stackoverfl08-20).
+
+	
+  * Microsoft has an amazing video conferencing system known as [RoundTable](http://www.microsoft.com/uc/products/roundtable.mspx) -- now branded as [the Polycom CX5000](http://www.polycom.com/products/voice/conferencing_solutions/microsoft_optimized_conferencing/cx5000.html) -- that captures the room in 360 degrees and then automatically detects and shows the person who is talking. Scott also has a [mobile remote telepresence](http://www.hanselman.com/blog/BuildingAnEmbodiedSocialProxyOrCrazyWebcamRemoteCartThing.aspx) device running around Redmond as him, somewhere. He also recommends the [Cisco Umi](http://www.hanselman.com/blog/ReviewLivingWorkingAndUsingTheCiscoUmiPersonalTelepresenceSystemAllThatAndBagOfChips.aspx).
+
+	
+  * Over on [mechanics.stackexchange.com](http://mechanics.stackexchange.com/), Jeff wonders why online car communities are so brand-centric -- there are hundreds of dedicated sites for Ford enthusiasts, and Subaru enthusiasts, and so forth. Whereas programmers can have Java and Python installed side by side on the same PC, you have to own a lot of physical, real world vehicles to have experience with many different car brands -- or, be an auto mechanic. Perhaps programmers are kinda-sorta mechanics in the sense that they spend most of their time practicing [the noble art of maintenance programming](http://www.codinghorror.com/blog/2006/06/the-noble-art-of-maintenance-programming.html).
+
+	
+  * Stack Exchange sites do well in professions where you can open a relevant Stack Exchange site in a window side-by-side with the work you're already doing on the computer. But what about people who _don't_ regularly work on computers? Is it realistic to expect people who tend to work offline to take the time and effort to come online after they finish working and _keep_ discussing their work? Or, will the proliferation of computing devices like smartphones and tablets bring the online world to them _while_ they work? It does happen, since [diy.stackexchange.com](http://diy.stackexchange.com) is clearly an offline site but produces a lot of really high quality questions and answers about home improvement.
+
+	
+  * We've improved flagging dramatically on Stack Exchange over the last few months. You may have noticed a public flag weight value on some user profiles. Your flags now carry different weight depending on how accurate and helpful your flags have been in the past ... and the more you successfully flag, the more daily flags you'll get, in a sort of virtuous cycle.
+
+	
+  * Scott asks: why should I care about all these points and flags and badges and reputation systems on Stack Exchange? What's the point of you guys building your own Dungeons and Dragons MMORPG system online?
+
+
+Tune in to next week's podcast when Joel will be "live" from London and our guest will be the infamous Jon Skeet!
+
+Also, if you're interested in helping us pick content for Stack Overflow Dev Days - check out [Joel's post on it](http://blog.stackoverflow.com/2011/05/devdays-2011-planning-begins/).
+ [Stack Exchange Podcast - Episode #03 w/ Scott Hanselman](http://soundcloud.com/stack-exchange/se-episode03) by [Stack Exchange](http://soundcloud.com/stack-exchange)

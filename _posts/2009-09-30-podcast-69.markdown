@@ -1,0 +1,82 @@
+---
+author: admin
+comments: true
+date: 2009-09-30 15:11:40+00:00
+layout: post
+slug: podcast-69
+title: 'Podcast #69'
+wordpress_id: 1995
+categories:
+- podcasts
+---
+
+Joel and Jeff sit down with Peter Seibel to discuss his new book [Coders At Work](http://www.amazon.com/dp/1430219483/?tag=codinghorror-20), the effect of listening to music while coding, and the future of programming books.
+
+
+
+
+
+
+  * Peter draws on some commonalities in the [15 famous programmers](http://www.codersatwork.com/) he interviewed for Coders at Work. 
+
+
+  * Peter agrees with Joel that concurrent (threaded) programming is some of the hardest programming anyone can do -- even the extraordinary programmers he interviewed concur on this point.  
+
+
+
+  * Susan Lammers' book [Programmers at Work](http://www.codinghorror.com/blog/archives/000541.html) was the early inspiration for Coders at Work. It's a similarly fantastic read. The other book in the same series, [Founders at Work](http://www.amazon.com/dp/1430210788/?tag=codinghorror-20), is a great (albeit less technical) too.
+
+
+  * Many of the programmers interviewed (with the lone exception of [Brad Fitzpatrick](http://www.codersatwork.com/brad-fitzpatrick.html)) got their start before home microcomputers such as the Apple II were even available. But they all spent deep, huge hands-on volumes of time on a computer, somehow.
+
+
+  * One big sea change in the last 30 years of programming: per Jamie Zawinski, ["these days, almost all software is social software"](http://www.jwz.org/doc/groupware.html). The days of the solitary, disconnected programmer toiling away in a server room are essentially over.
+
+
+  * Even a hardcore game programmer like John Carmack (who, sadly, could not be reached for interview in Peter's book) has [gone on record](http://www.gamasutra.com/php-bin/news_index.php?story=23997) with a back to basics approach: "if I were off by myself, I would want to become an iPhone game developer."
+
+
+  * Does listening to music affect your ability to program, positively or negatively? Joel cites one unpublished study, then goes on to mention that he occasionally watches _video_ while programming. Is there any actual, verifiable data on this either way?
+
+
+  * Have we passed through the "golden age" of technical books? Are technical books dead? What niche will books fill for programmers in the future? Joel and I both remember poring over programming manuals in great detail in the early days because there were no other sources.   
+
+
+
+
+
+We answered the following listener question this week:
+
+
+
+
+**Stuart**: "Do you have any opinions on listening to music while coding? Is this a viable alternative to having a private office?"
+
+
+
+
+Our favorite questions this week:
+
+
+
+
+
+
+  * [Proposal: Free Vote-Based Advertising for Open Source Projects](http://meta.stackoverflow.com/questions/23899/proposal-free-vote-based-advertising-for-open-source-projects). We'd like to put some of our Stack Overflow remnant ad inventory to work for the community via voting and popular nominations. The goal is to highlight useful and interesting open source projects that programmers might not be aware of.
+
+
+  * [What is the single most influential book every programmer should read?](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) Why, Coders at Work of course! This was one of the first popular questions posted on Stack Overflow during the private beta; programmers do love their books.  
+
+
+
+
+
+If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser. We also have a dedicated phone number you can call to leave audio questions at **646-826-3879**.
+
+
+
+
+
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W29085) for this episode is available for public editing.
+

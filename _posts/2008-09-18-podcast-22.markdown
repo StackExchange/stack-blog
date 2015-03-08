@@ -1,0 +1,78 @@
+---
+author: admin
+comments: true
+date: 2008-09-18 02:05:37+00:00
+layout: post
+slug: podcast-22
+title: 'Podcast #22'
+wordpress_id: 101
+categories:
+- podcasts
+---
+
+This is the twenty-second episode of the StackOverflow podcast, wherein Joel and I discuss the following:
+
+
+
+
+
+
+  * Stack Overflow is now a public beta. We went from about 2-5% CPU usage during the private beta to over 50% CPU usage, on an 8-CPU server! Some day one stats: 1,500 questions were asked, 6,000 answers provided, 1,700 comments added, there were 62,000 unique visitors and almost 700,000 page views. Miraculously, the server is still running and performance is still snappy.
+
+
+  * It was tempting to keep a closed community, but Joel and I believe the real value here is in letting Google and other web search engines in, along with the hordes of everyday average programmers. We believe programmers are a smarter breed of user, and the low-friction question and answer format will be sustainible for the greater public community if is designed properly. Hopefully.  
+
+
+
+  * We sit down with [Josh Millard](http://www.metafilter.com/user/7418) of [MetaFilter](http://en.wikipedia.org/wiki/MetaFilter), who graciously agreed at very short notice to come on and talk about his role as one of the 5 member core team that helps run and maintain MetaFilter.
+
+
+  * Josh is a programmer, too: you may remember him as the creator of the [weird and wonderful Garkov](http://www.codinghorror.com/blog/archives/001132.html)!
+
+
+  * It was a great honor for [Stack Overflow to make MetaFilter](http://www.metafilter.com/74896/Hey-Jeff-Wheres-my-advertising-your-new-site-badge). I remain a longtime fan of MetaFilter and it definitely influenced the building of Stack Overflow. MetaFilter is a sort of collaborative blog with an amazing and incredibly effective (and eclectic) Q&A community.
+
+
+  * MetaFilter has grown to five moderators over time. How do you decide who becomes a moderator? Does moderation scale? How much can/should the community police itself?
+
+
+  * MetaTalk is the "backchannel" of MetaFilter, analogous to the "discussion" page on Wikipedia. It turns out there are two channels of communication in any social website. The topic, and then the topic about the topic. These are two very different audiences with very different needs.  
+
+
+
+  * "technologically assisted profiling" is how MetaFilter works; the community flags questionable things (in addition to discussion on MetaTalk) and then the moderators act on those flags. MetaFilter is extremely strict -- they consider PR and blatantly promotional material spam, which rules out a huge section of what normally appears on Digg or Reddit.
+
+
+  * MetaFilter has not voting, but it does have a favorites system, which is something we have planned for Stack Overflow. I follow the Best of MetaFilter feed which I believe is determined by how many people have favorited a given MetaFilter post.
+
+
+  * In the rare event where a user goes haywire -- remember that it costs $5 to even _join_ MetaFilter -- these users will be given "timeouts" of a day or two until they cool down. There are no scarlet letters or black marks that can be placed on users. The history of the user's actions, particularly if that history is public, is usually enough to handle the problem. We definitely agree with this philosophy.
+
+
+
+
+
+We did not have time to answer any listener questions today, but please send them in and we'll get to them on the next episode!
+
+
+
+
+
+
+
+
+
+If you'd like to submit a question to be answered in our next episode,  
+
+record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser. We also have a dedicated phone number you can call to leave audio questions at **646-826-3879**.
+
+
+
+
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?pg=pgWiki&command=view&ixWikiPage=24227) for this episode is available for public editing.
+
+
+
+
+[display_podcast]

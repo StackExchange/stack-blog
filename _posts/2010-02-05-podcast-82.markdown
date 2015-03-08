@@ -1,0 +1,76 @@
+---
+author: admin
+comments: true
+date: 2010-02-05 23:59:56+00:00
+layout: post
+slug: podcast-82
+title: 'Podcast #82'
+wordpress_id: 2703
+categories:
+- podcasts
+---
+
+In this episode of the Stack Overflow podcast, Joel and Jeff sit down with Mac developer Daniel Jalkut of [Red Sweater Software](http://www.red-sweater.com/) to discuss his experience as a longtime Mac developer and small Mac software business owner, and the possible impact of the iPad.
+
+
+
+	
+  * Daniel launched Red Sweater software way back in 1999 (and has been an active Mac developer since 1995), but it didn't become his primary business until 2005-ish. The big apps in his stable are [MarsEdit](http://www.red-sweater.com/marsedit/), blog composing software, and [Black Ink](http://www.red-sweater.com/blackink/), a crossword app. There has been no iPhone version of these OSX apps to date because it wasn't a good fit, but the iPad is going to be a nearly perfect fit.
+
+	
+  * In Daniel's experience, the primary change in Apple's software developer support story over the last 15 years is that Apple has become much more pragmatic in adopting developer tools from the UNIX and open source world. Remember when Apple had its own unix, [a/ux](http://en.wikipedia.org/wiki/A/UX)?
+
+	
+  * Apple has a whole new alternative to gcc, the [clang](http://en.wikipedia.org/wiki/Clang) compiler.
+
+	
+  * The [Macmillan-Amazon Kindle incident](http://www.antipope.org/charlie/blog-static/2010/01/amazonmacmillan-other-perspect.html) highlighted how Apple entering the eBook market with the [iPad and iBooks](http://www.apple.com/ipad/features/) is actually disruptive in a good way, that benefits both readers and writers.
+
+	
+  * Joel agrees that the iPad will probably kill the Kindle hardware. We think [e ink](http://en.wikipedia.org/wiki/E_Ink) is kind of overrated. It's not clear how much this matters to Amazon. It is bizarre that the Kindle app will be allowed to run on the iPad as a competing "app store" next to iBooks.
+
+	
+  * I'm a little perplexed about [the existence of iWork for the iPad](http://www.youtube.com/watch?v=SBPnB3noTa8), since it highlights the main weakness of the iPad -- while touch is great, the inclusion of keyboard support is odd, and I'm not sure how well it's going to scale to large screens and I think it's a weak replacement for the mouse paradigm.
+
+	
+  * Joel and I think Steve Jobs never really believed that computers made sense as general purpose devices. Computers should always have been appliances, and the iPhone and iPad are manifestations of that.
+
+	
+  * Steven Frank [likens the iPad to the new world of computing](http://stevenf.tumblr.com/post/359224392/i-need-to-talk-to-you-about-computers-ive-been), a bespoke from the ground up reconception of how computers should work, compared to the classic OSX, Linux, Windows desktop old world.
+
+	
+  * Is lack of support for Adobe's Flash on the iPad the equivalent of dropping the floppy drive from early iMac models? I'd say the floppy drive was already pretty useless by the time Apple dropped it, whereas Flash is [still kind of useful in a lot of circumstances](http://blogs.adobe.com/jnack/2010/01/sympathy_for_the_devil.html), as John Nack notes. Particularly on a large screen device billed as delivering a no-compromises web experience.
+
+	
+  * If Apple choosing to make a political statement about dropping Flash (on the iPhone and now iPad) results in [websites built with better Flash fallbacks](http://www.zeldman.com/2010/02/01/flash-ipad-standards/) than an empty box on a web page, that is a good thing. It's just hard for me, personally, to accept that Apple is doing this out of the goodness of their own heart, rather than as a nakedly capitalistic way to protect the income stream from the App Store.
+
+	
+  * It has been pointed out to me that Stack Overflow is [powered by bored programmers](http://meta.stackoverflow.com/questions/28642/why-do-i-get-more-satisfaction-out-of-participating-in-so-than-out-of-my-job), so it is in our best interest for programmers to be bored at work.
+
+	
+  * Joel says that being bored says a lot more about a person's state of mind rather than whether the environment is actually boring. If you're bored while programming, "you are doing it wrong."
+
+	
+  * There are several dimensions to improving questions on any site on the trilogy; primary among those is editing (at 2k rep), and there always is voting to close (at 3k rep), flagging for moderator attention (at 15 rep). And meta-discussion about questions is always welcome on [meta.stackoverflow.com](http://meta.stackoverflow.com).
+
+	
+  * Community moderation is an important part of our sites, and we're currently [conducting an election](http://blog.stackoverflow.com/2010/02/stack-overflow-2010-moderator-election-begins/) to determine the next Stack Overflow moderator. You do need 200 reputation to have the right to vote, though.
+
+	
+  * For more great Mac dev discussion, check out Daniel's podcast with Manton Reece, [Core Intuition](http://www.coreint.org/).
+
+
+We answered the following listener question on this podcast:
+
+	
+  1. **Jeffrey** "How do you deal with programmers who are intellectually bored at work?"
+
+	
+  2. **Phil** "I spend a fair amount of time on Server Fault, but I've seen a lot of new users not providing enough information for us to help them. As a result the signal to noise ratio has dropped. What can be done to improve this?"
+
+
+If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser. We also have a dedicated phone number you can call to leave audio questions at **646-826-3879**.
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W29126) for this episode is available for public editing.
+
+

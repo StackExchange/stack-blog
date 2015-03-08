@@ -1,0 +1,85 @@
+---
+author: admin
+comments: true
+date: 2009-07-02 03:14:56+00:00
+layout: post
+slug: podcast-60
+title: 'Podcast #60'
+wordpress_id: 1563
+categories:
+- podcasts
+---
+
+This is the 60th episode of the StackOverflow podcast where Joel and Jeff discuss the value (or lack thereof) of meta-discussion, how much "big iron" popular websites need, and whether code forking is sometimes inevitable.
+
+
+
+
+
+
+  * A discussion of our [newly launched outlet for meta-discussion](http://blog.stackoverflow.com/2009/06/cmon-get-meta/) at [meta.stackoverflow.com](http://meta.stackoverflow.com/). We view this as a pressure release valve. Why is meta-discussion necessary? What purpose does it serve, and for who?
+
+
+  * Joel and I are both [headphone enthusiasts](http://www.codinghorror.com/blog/archives/000463.html). It's also a key part of the programmer's toolkit for getting "in the zone", so it's worth investing in this area. A quality set of headphones can deliver an audio experience equivalent to floor-standing speakers worth thousands of dollars!
+
+
+  * After [three](http://blog.stackoverflow.com/2008/04/logo-design-contest-winner/) [logo](http://blog.stackoverflow.com/2009/04/logo-contest-winner-for-serverfaultcom/) [contests](http://blog.stackoverflow.com/2009/06/superuser-com-logo-vote/), we are becoming experts in crowdsourcing design. There is a risk here when people don't know what criteria they're supposed to be judging on. Joel brings up the point of televisions which all have a "store mode" which maximizes brightness and contrast to the actual detriment of the overall image quality. And if you use a LCD at its out of box brightness (always the maximum) [you're going to go blind](http://www.codinghorror.com/blog/archives/000965.html)!
+
+
+  * We took the plunge and upgraded our database server to its maximum of 48 GB of memory. This is mostly a cheap form of insurance against future growth. We may also end up taking advantage of SQL Server's [database compression](http://www.infoq.com/news/2007/11/SQL-Server-Compression). The old memory will be eventually used in a second database server we anticipate needing by the end of the year.
+
+
+  * I was spurred on to do this after reading about [the massive 512 GB monster server](http://www.codinghorror.com/blog/archives/001279.html) that Plenty of Fish bought. It's interesting how the cost of "free", at that scale (they're a top 20 website in the US and Canada), is no longer cheap. Joel points to a [scathing New Yorker review by Malcolm Gladwell of Chris Anderson's book Free](http://www.newyorker.com/arts/critics/books/2009/07/06/090706crbo_books_gladwell), which covers similar topics.
+
+
+  * As Joel notes, paying $100,000 for a server _could_ be more effective than spending $100,000 for a year's worth of programmer time to convert your database from single and monolithic (the traditional, classic SQL / Oracle model) to [sharded](http://en.wikipedia.org/wiki/Shard_%28database_architecture%29) ([Hadoop](http://en.wikipedia.org/wiki/Hadoop) and [BigTable](http://en.wikipedia.org/wiki/BigTable)).
+
+
+  * Twitter, for example, has moved to an [almost all in-memory database architecture](http://www.infoq.com/news/2009/06/Twitter-Architecture). The downside is that it is literally impossible for me to get to any of my Twitter messages older than the middle of 2008. Still a fan of twitter, though; it's actually useful. Consider the story of an indie musician [who made $19,000 in 10 hours on Twitter](http://mikeking.berkleemusicblogs.com/2009/06/23/how-an-indie-musician-can-make-19000-in-10-hours-using-twitter/), while netting exactly $0 from 30,000 traditional record sales.
+
+
+  * What are the ethics and legality of using code from one job on a different job? If you get a job as a programmer and you never signed anything, then you own all the code you wrote. Most employers sign a [Work for Hire agreement](http://www.nolo.com/definition.cfm/Term/AE4ACD77-12AC-4705-B870E4551730F72C/alpha/W/) which means they own all the code you write while on the job. 
+
+
+  * Should Stack Overflow be _eventually_ open-sourced? Joel is concerned that open sourcing the code would interfere with the hosted product [Stack Exchange](http://stackexchange.com/) that Fog Creek is building out right now. I don't see a conflict between these two audiences; one has infinite time and no money, and the other wants a turnkey, "it just works" solution for a reasonable price.
+
+
+  * Joel thinks that hosts deploying open source software crash the business model down to the cost of the hosting itself. I wonder how companies like [Six Apart](http://www.sixapart.com/) (of [Movable Type](http://www.movabletype.org/) fame) continue to survive if that is the case. And eventually, won't someone create an open source clone of what you're doing anyway? Why not beat them to the punch and take control of the situation, by open sourcing the real thing yourself?
+
+
+  * I continue to have deep skepticism that [the hosted Fog Creek version of Stack Overflow](http://stackexchange.com/) cannot avoid a serious fork with our code. The audience of the ad-supported general internet, versus the audience of paying customers building topic-specific 'stacks, is very different. Can version control tools save you when you're building the "same" products for such different audiences?
+
+
+
+
+We answered the following listener questions on this podcast:
+
+
+
+
+
+
+  1. **Lloyd**: "I am leaving a business and working for a competitor in a different business. I want to take the codebase I've worked on for the last few years with me -- to use as a reference point for future products. What advice can you give?"
+
+
+
+
+If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser. We also have a dedicated phone number you can call to leave audio questions at **646-826-3879**.
+
+
+
+
+
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W29067) for this episode is available for public editing.
+
+
+
+
+
+
+[display_podcast]
+
+
+
+

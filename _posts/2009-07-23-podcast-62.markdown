@@ -1,0 +1,100 @@
+---
+author: admin
+comments: true
+date: 2009-07-23 04:08:53+00:00
+layout: post
+slug: podcast-62
+title: 'Podcast #62'
+wordpress_id: 1692
+categories:
+- podcasts
+---
+
+
+In this episode of the Stack Overflow podcast, Joel and Jeff discuss software updates, the power of APIs and plugins, and leading by example.
+
+
+
+
+
+
+
+  * A brief discussion of how software should be updated, using Firefox and Apple's Software Updater as examples. In a perfect world, you wouldn't need to care about software updates because you'd always be on the latest version. A smart and silent update mechanism should be architected into your app from day one.  
+
+
+
+  * Web apps largely get a pass on the "latest version" problem, but even here, you could update smart by having multiple web servers behind a load balancer, and rotating some servers out of service to update, then back in with the latest version.
+
+
+  * Speaking of software updates, [Fog Bugz 7 has shipped](http://www.fogcreek.com/FogBUGZ/WhatsNew.html). It's the first new version in two years, with a brand new, extensive plugin API.   
+
+
+
+  * Joel wonders if having a robust plugin model can replace the need to constantly ship new major versions of your software with new features. I question whether Fog Creek [got their plugin API](http://www.fogcreek.com/FogBugz/plugins/) right the first time, but if done right, this is totally plausible.
+
+
+  * I view plugins as free product design and highly valuable product feedback -- so you should fold the top 5 plugins / add-ons into your product every year or so. But how do you do this without crushing your partners in the ecosystem? There are plenty of examples of popular iPhone paid apps being obsoleted by, say, iPhone OS 3.0. Joel argues that plugins should go vertical, and stay out of the path of that oncoming steamroller.
+
+
+  * Now that we have four sites in the er.. trilogy.. it is finally possible to [associate your accounts](http://blog.stackoverflow.com/2009/07/cross-site-account-associations/) between the sites, and [migrate questions fairly painlessly](http://blog.stackoverflow.com/2009/07/migrate-questions-between-websites/) from site to site.
+
+
+  * Sometimes we belatedly realize that we got something wrong. We're now thinking that our current +10 upvote, -2 downvote formula nerfs downvotes into oblivion, and lets certain classes of users who tend to ask a lot of low-quality "do my work for me" questions gain a substantial amount of reputation over time. We are pondering making an adjustment here, which is [under discussion at meta.stackoverflow.com](http://meta.stackoverflow.com/questions/7322/should-the-weight-of-downvotes-be-increased).
+
+
+  * Maybe we should be weighting question votes differently, since users who continue to repeatedly ask dozens of low quality questions are [still an ongoing concern.](http://meta.stackoverflow.com/questions/1326/please-charge-rep-for-questions-after-threshold) As we get more and more questions in the system, the voting system needs to help us discriminate good questions from poor ones, so we want to encourage question votes.  
+
+
+
+  * There is now officially a full time Fog Creek developer working on [Stack Exchange](http://stackexchange.com/) -- welcome Aaron Maenpaa to the team! On a related note, one advantage of open source tooling is that you don't have to have painful discussions about licensing expenses and whether the tool is worth using as your team grows.
+
+
+  * [R language](http://en.wikipedia.org/wiki/R_%28programming_language%29) enthusiasts are taking a [clever and effective approach](http://blog.stackoverflow.com/2009/07/stack-overflow-flash-mobs/) to get more R content on Stack Overflow -- we think this is a great way to build a community that is completely in tune with the spirit of the site.
+
+
+  * In the post [Leading by Example](http://www.codinghorror.com/blog/archives/000933.html), I proposed that one of the best ways (maybe the only way?) to lead junior programmers is to do the things you wish they'd do, and let them observe your success. Those that can be led, will follow to some degree, and the rest are a lost cause.
+
+
+  * Let's broaden the terms. Forget programmers, how do you get pizza guys or car wash guys to get excited about what they do? Joel says you can't. I say there has to be some kind of hippie commune shared ownership business arrangement. At the very least, you can become interested in efficiency, since that might mean you could leave earlier, make more money, or work less.
+
+
+
+
+We answered the following listener questions on this podcast:
+
+
+
+
+
+
+  1. **J.D. Long**: "The R language is attempting to move away from isolated mailing list and adopt Stack Overflow as a resource. What's a good way to do this?"
+
+
+  2. **Sergei**: "I am a programmer in a small IT company. I often see my junior teammates program things that are not optimal. I try to help them, but they've complained to my manager. What should I do about this?"
+
+
+
+
+Our favorite site questions this week are:
+
+
+
+
+
+
+
+
+  * [DNS failing to propagate worldwide](http://serverfault.com/questions/42678/dns-failing-to-propagate-worldwide). I used this as an example of asking a question the right way, in that you put some effort into the question -- research the problem first and provide all the information necessary for people to help you.
+
+
+
+
+
+If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser. We also have a dedicated phone number you can call to leave audio questions at **646-826-3879**.
+
+
+
+
+
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W29069) for this episode is available for public editing.

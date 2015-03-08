@@ -1,0 +1,65 @@
+---
+author: admin
+comments: true
+date: 2010-03-13 03:38:54+00:00
+layout: post
+slug: podcast-85
+title: 'Podcast #85'
+wordpress_id: 2787
+categories:
+- podcasts
+---
+
+In this episode of the Stack Overflow podcast, Joel and Jeff discuss the pursuit of venture capital, why Joel is ending his blog, and the hidden power of Google's web spider.
+
+
+
+	
+  * We were surprised that so many people who read [Joel's article about our venture capital experiment](http://www.joelonsoftware.com/items/2010/02/14.html) were unable to imagine any way we could put millions of dollars to use.
+
+	
+  * If you consider that our core mission is to kill software like [vBulletin](http://www.vbulletin.com/) and [phpBB](http://www.phpbb.com/), and you had millions of dollars, what would you do and how would you do it?
+
+	
+  * We were also a little disappointed that some people thought we would be willing to damage the community in some kind of quest to create a business. Hopefully we can be given a bit more credit than that -- Joel and I may be dumb, but we're not dumb enough to destroy the very thing we're trying to create!
+
+	
+  * Choosing a VC partner is like a marriage, and our philosophy is to only marry someone who has compatible views to our own.
+
+	
+  * Even if we didn't take VC, the process of talking to all these smart people who have accomplished so much in the industry was illuminating, and helped us synthesize and crystallize our own strategy for what we want to do with Stack Overflow -- we're excited about it, and we think you will be too once we can talk about it in more detail!
+
+	
+  * I was away for a two week trip with my family to beautiful New Zealand, where I gave a talk at Webstock 2010 titled [Stack Overflow: Building Social Software for the Anti-Social](http://www.slideshare.net/codinghorror/webstock-2010-stack-overflow-building-social-software-for-the-antisocial).
+
+	
+  * I'm buying a new laptop from Dell, and [giving away my old Dell laptop](http://meta.stackoverflow.com/questions/40585/free-laptop-to-deserving-meta-user-complete) to a deserving meta.stackoverflow.com community member. Joel is a hard-core ThinkPad fan, but I believe what the world needs is more of an Ikea PC hardware experience. Dell's design isn't quite there yet but it has gotten better.
+
+	
+  * Joel elaborates a bit on [why he's planning to quit blogging](http://www.inc.com/magazine/20100301/lets-take-this-offline.html). There's plenty of precedent for leaving while you're still ahead, [like Bill Watterson (of the comic strip "Calvin and Hobbes") did](http://www.cleveland.com/living/index.ssf/2010/02/bill_watterson_creator_of_belo.html). After 10 years of doing the same thing, you might want to evolve and do something different, too -- but hopefully not vanish without a trace. I'm still trying to convince him not to quit podcasting.
+
+	
+  * It's well known that [90% of our traffic comes from Google](http://www.codinghorror.com/blog/2009/02/the-elephant-in-the-room-google-monoculture.html). But did you know that Google is about the only company with a competent spider, based on our logs? There are so many terrible spiders, even from large companies that really should know better. It's a chicken and egg problem; Google's spidering is so far ahead of every other search engine that I'm unclear how anyone could switch -- the result pages simply wouldn't be there!
+
+	
+  * I have found the [Howard Aiken](http://en.wikipedia.org/wiki/Howard_H._Aiken) quote _"Don't worry about people stealing an idea. If it's original, you will have to ram it down their throats."_ to be very true with regards to Q&A and Stack Overflow. The corollary to this is that if you don't have to fight people to convince them your idea is good, your idea might not be so hot.
+
+	
+  * Even very smart people have to be in the right place at the right time to be successful. The best success strategy is probably dogged, bullheaded persistence, because there are so many variables you can't control or even predict.
+
+
+We answered the following listener question:
+
+
+**Michael from Cambridge**: "What if Google, or another large company, decided to clone your product and give it away for free? What should a hypothetical startup do if this happens to them?"
+
+
+If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser. We also have a dedicated phone number you can call to leave audio questions at **646-826-3879**.
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W29180) for this episode is available for public editing.
+
+
+
+[display_podcast]
+
+

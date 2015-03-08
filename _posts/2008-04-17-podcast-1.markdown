@@ -1,0 +1,27 @@
+---
+author: admin
+comments: true
+date: 2008-04-17 00:00:16+00:00
+layout: post
+slug: podcast-1
+title: 'Podcast #1'
+wordpress_id: 4
+categories:
+- podcasts
+---
+
+This is the inaugural episode of the StackOverflow Podcast, with your hosts [Joel Spolsky](http://www.joelonsoftware.com/) and [Jeff Atwood](http://www.codinghorror.com/blog/), wherein we explain what StackOverflow.com will be. We hope.
+
+
+
+If you'd like to submit a question to be answered in our next episode, 
+record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com).
+
+
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W6) for this episode is available for editing. It was graciously submitted by Brian Pelton.
+
+
+
+[display_podcast]
+

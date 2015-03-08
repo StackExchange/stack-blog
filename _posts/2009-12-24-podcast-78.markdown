@@ -1,0 +1,98 @@
+---
+author: admin
+comments: true
+date: 2009-12-24 01:05:32+00:00
+layout: post
+slug: podcast-78
+title: 'Podcast #78'
+wordpress_id: 2382
+categories:
+- podcasts
+---
+
+
+In this episode of the Stack Overflow podcast, Joel and Jeff sit down with Paul, David, and Matthew -- the creators of Litmus and DocType -- to discuss ASCII vs. pixels, the power of Amazon EC2, and the unglamorous but critically important topic of backup.
+
+
+
+
+
+
+  * The fine folks at [Litmus](http://litmusapp.com/) created [DocType](http://doctype.com/) partly as a homage to the Stack Overflow engine. We were so impressed we invited them into our [League of Web Justice](http://blog.stackoverflow.com/2009/07/why-cant-you-have-just-one-site/). You can view DocType as the intersection of what Litmus does (screenshots of browsers and email clients rendering HTML) and what Stack Overflow does (Q&A).
+
+
+  * Where the [Stack Overflow Trilogy](http://blog.stackoverflow.com/2009/05/the-stack-overflow-trilogy/) is about programmers, sysadmins, and power users exercising ASCII text, DocType and Litmus is about designers exercising pixels. It's not an audience we can satisfy particularly well, which is why we were happy to partner up. It's all about getting good, effective answers to your questions, regardless of which site provides those answers.
+
+
+  * A bit on the technical underpinnings of Litmus. This app has to generate screenshots from a ton of different [email clients](http://litmusapp.com/email-testing) and a ton of [different browsers](http://litmusapp.com/browser-testing), for both Macs and PCs. The PC side is served by [Amazon Elastic Compute Cloud](http://aws.amazon.com/ec2/) instances, which was an incredible boon for this type of work. They actually scale up to 400 EC2 instances at peak load times.
+
+
+  * The original version of Litmus was built using nothing but scripting on a single machine, but was enough to get customers. They were effectively running on a prototype; the entire app has been rearchitected several times since then.
+
+
+  * DocType is built mostly in Ruby on Rails, and Litmus is a combination of C# and Ruby on Rails. In that sense, they also reflect the platform agnostic spirit of Stack Overflow.   
+
+
+
+  * A brief discussion of the state of the DocType community. One point of integration between the two sites is that people having difficulty solving layouts problems via the screenshot service in Litmus are encouraged to ask for help on DocType.
+
+
+  * Joel points out that one way to get a critical mass of core users is to get some kind of sponsorship or mention by people who have large audiences. For example, if you're starting a music site, try to get [Derek Sivers](http://sivers.org/) to mention you or, better yet, become the godfather of your site. Anyway, always have the goal of making something that is useful to _somebody_ -- and start with yourself.
+
+
+  * We are a little tired of the backup topic at this point, but maybe it's a good thing to remind people that every day is [International Backup Awareness Day](http://www.codinghorror.com/blog/archives/001315.html), and it never hurts to revisit your own backup practices, as we did with [our Stack Overflow backup policies](http://blog.stackoverflow.com/2009/12/blog-outage-backup-policies/).
+
+
+  * [RAID is not a backup](http://serverfault.com/questions/2888/why-is-raid-not-a-backup), but I sure do wish the server which experienced the hard drive failure had some kind of basic mirroring in place to protect against exactly this kind of routine, mundane drive failure. The moving parts are what tend to fail, which is why all our Stack Overflow servers use RAID.
+
+
+  * Joel elaborates a bit on the importance of focusing on [recovery versus backup](http://www.joelonsoftware.com/items/2009/12/14.html). There are a lot of ways a valid "backup" can go horribly wrong, and you will never know any of that until you actively restore a backup.  
+
+
+
+
+
+Our featured questions this week are:
+
+
+
+
+
+
+  * DocType: [How does Doctype generate the screenshots they use on the site?](http://doctype.com/does-doctype-generate-screenshots-use-site) A nice description of the ImageMagick commands used to generate the nifty little DocType screenshot thumbnails.
+
+
+  * SuperUser: [Recovering a lost website with no backup?](http://superuser.com/questions/82036/recovering-a-lost-website-with-no-backup) The short vc"go back in time and do proper backups." The long version is, "How patient are you?"
+
+
+
+
+We answered the following listener question on this podcast:
+
+
+
+
+
+
+  1. **Travis** from Wisconsin: "I have a music based Stack Exchange site called [keyminor.com](http://keyminor.com/). I have a ton of questions I plan to seed the site with, and I have a bunch of users I plan to approach for assistance. What's the best elevator pitch for getting people to understand and check out a Stack Exchange site?"  
+
+
+
+
+
+
+If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser. We also have a dedicated phone number you can call to leave audio questions at **646-826-3879**.
+
+
+
+
+
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W29114) for this episode is available for public editing.
+
+
+
+
+
+[display_podcast]
+

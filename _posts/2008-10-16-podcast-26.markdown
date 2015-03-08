@@ -1,0 +1,55 @@
+---
+author: admin
+comments: true
+date: 2008-10-16 01:17:08+00:00
+layout: post
+slug: podcast-26
+title: 'Podcast #26'
+wordpress_id: 128
+categories:
+- podcasts
+---
+
+
+This is the twenty-sixth episode of the StackOverflow podcast, where Joel and Jeff answer five listener questions, mostly about social software design. Warning: this podcast features cowbell. Really.
+
+
+
+
+
+
+
+  * **Christopher Leary**: "Any thoughts on the general design of karma and rep systems based on your experience building one for Stack Overflow?"
+
+
+  * **Michael L Perry:** "What about a system where votes by people who have more reputation count more?"
+
+
+  * **Jeff Metzner**: "If I post personal anecdotes as an answer to a question, is it reasonable for other users to edit that?"
+
+
+  * **Anonymous: **"Why can't we ask IT questions? What about a sister site like Stack Overflow but for IT questions?"
+
+
+  * **Miles Dennis:** "For a cost-conscious startup, where do you see the balance between taking inexperienced staff that costs less, versus experienced staff that costs more?"
+
+
+
+
+
+If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/)
+using nothing but a telephone and a web browser. We also have a
+dedicated phone number you can call to leave audio questions at **646-826-3879**.
+
+
+
+
+
+When calling the audio phone number, be sure to leave your name, so we can properly cite you when we answer your question.
+
+
+
+
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W25802) for this episode is available for public editing.
+

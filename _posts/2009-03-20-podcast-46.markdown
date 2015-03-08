@@ -1,0 +1,137 @@
+---
+author: admin
+comments: true
+date: 2009-03-20 04:41:52+00:00
+layout: post
+slug: podcast-46
+title: 'Podcast #46'
+wordpress_id: 879
+categories:
+- podcasts
+---
+
+
+This is the 46th episode of the StackOverflow podcast, live from MIX09, where Joel and Jeff answer questions from the live audience.
+
+
+
+
+
+
+  * This podcast is live from the [MIX09](http://2009.visitmix.com/) conference! Joel and I also had a small 5 minute segment in the Day 1 keynote, which you can [view online](http://live.visitmix.com/). It's at around the 50 minute mark or so.
+
+
+
+
+  * We had a live audience, so the focus of this podcast is on questions from our live audience.
+
+
+
+
+We answered the following live audience questions on this podcast:
+
+
+
+
+
+
+  1. **"What's the point of Silverlight?"** The short answer is, it's like Adobe Flash, but much more programmer oriented. [Silverlight 3 beta](http://silverlight.net/getstarted/silverlight3/default.aspx) was just launched at MIX, with lots of new developer-y goodness.  
+  
+
+
+
+  2. **"What's the most number of questions asked by an actual Stack Overflow user?"** That would be [Edward Tanguay](http://stackoverflow.com/users/4639) with 210 questions, closely followed by [Thomas Owens](http://stackoverflow.com/users/572) who asked 207 questions. One reason the "ask a question" button isn't more prominent on the site is that we encourage people to read and answer a while before asking anything. Good questions take some effort!  
+  
+
+
+
+  3. **"Have you ever considered moving Stack Overflow to the cloud?"** The cloud makes more sense for experimental projects that may or may not succeed. We did the math and decided that owning the hardware was a better deal for our project. It could also make sense for hot-standby disaster recovery backup servers. It depends whether or not you prefer flexibility, or fine-grained control.  
+  
+
+
+
+  4. **"What issues did you have with using ASP.NET MVC?"** Other than the typical beta issues, not much. The big advantage, to us, is that MVC is a much more web-centric development model. It is a much closer match to our mental model of how web programming should work, and how URLs should be formed.  
+  
+
+
+
+  5. "**What does the new guy do on the first day?"** Fix the simplest possible bug in your product. And on the next day, fix a slightly more complex bug. It helps to do this in an environment of active pairing or mentoring.  
+  
+
+
+
+  6. **"Are there some things about the web platform (HTML, CSS, etc) that you wish worked differently?"** Sure, the platform barely works. There's something inspiring about so many programmers are building great stuff on such a rickety platform. And it's creating a whole new generation of programmers. There's a certain inexplicable elegance to the madness.  
+  
+
+
+
+  7. **"We have a lot of relatively unstructured data that we're storing in a database, is there some other way do deal with this? And what about REST vs. SOAP access to it?" ** Joel points to [Adam Bosworth's classic talk](http://adambosworth.net/2004/11/18/iscoc04-talk/) about the flexibility of loosely structured data. Perhaps something like [Lucene](http://en.wikipedia.org/wiki/Lucene) or [CouchDB](http://couchdb.apache.org/) would be a better choice than a traditional rigid database. And remember that meta-tags, while worthless on the open web, are trustworthy on local data. Sometimes you don't need a perfect 100% right answer back from the data. Joel describes the advantage of REST over SOAP thusly: you can just type stuff into the browser's address bar and see the results in real time.  
+  
+
+
+
+  8. **"Should you teach the framework, or the underlying languages?"** Joel points out that maybe students shouldn't be studying programming at all. You can learn a lot about programming through related fields. Joel and I disagree a bit on this one. I think good developers are inherently curious, so they can learn the framework and dip into the lower level language as necessary to solve whatever problem is at hand. Joel says you should start with the language and scale up.  
+  
+
+
+
+  9. **"How different is the world view of a programmer who is twenty-something and grew up with the web, versus a thirty-something who didn't? How important is historical context?"** Can developers who only know JavaScript, HTML, and CSS grow into being generally great developers? I argue that there's an inherent intellectual curiosity in all great programmers, so they can start _anywhere_ and get amazing results. Joel notes that some of the historical context can become a burden and possibly even incorrect over time. There's a tension between necessary mentoring between older and younger programmers, and fresh eyes questioning the status quo. It's good to continually question the programming status quo. Otherwise, how would we make any progress? We'd carry forward our old biases and decisions forever, even after they were no longer necessary.  
+  
+
+
+
+  10. **"At what point in Stack Overflow do you see yourselves hiring specialists? How do we justify bringing in experts to management?"** We already have, to some degree; we have Jeremy Kratz helping us with design and Brent Ozar helping us with advanced database stuff. You have to know your own limitations, what you're good at and not good at, and how to slice off a small piece of work that's appropriate for the specialist. If you need to sell this to management, try it on a small part of the project first and show what the difference would be on the full project.  
+
+
+
+
+
+Our favorite Stack Overflow qustions this week are:
+
+
+
+
+
+
+  * 
+
+
+[Stack Overflow on Line 25](http://stackoverflow.com/questions/656549) -- this is one of the downsides of having the name "Stack Overflow". It's impressive how good the answers are to a question by a poor, beleaguered end user who just got a stack overflow JavaScript error in their browser
+
+
+
+
+
+  * 
+
+
+[Why does setting a stack method result in a Stack Overflow?](http://stackoverflow.com/questions/656226) -- this is a classic example of a mind reading answer. The asker wasn't able to establish what their question really was.
+
+
+
+
+
+  * 
+
+
+[Is there a human readable programming language?](http://stackoverflow.com/questions/202750/is-there-a-human-readable-programming-language) -- yes, until everyone decided that was a really dumb idea. Its name was COBOL.
+
+
+
+
+
+  * [Should a function have only one return statement?](http://stackoverflow.com/questions/36707) -- a classic discussion question. Discussions are valid as long as they're focused. Here, the goal is to avoid writing "arrow" or "pacman" code and to keep the functions as small as possible. It's amazing to us that some developers are still dogmatic about this one. In theory, this is a good rule, but in practice, it isn't. And practice always overrules theory in my book.  
+
+
+
+
+
+If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser. We also have a dedicated phone number you can call to leave audio questions at **646-826-3879**.
+
+
+
+
+
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W29036) for this episode is available for public editing.
+

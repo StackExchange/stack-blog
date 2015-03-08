@@ -1,0 +1,58 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>WordPress.com</title>
+<style type="text/css">
+img {
+	border: 0;
+}
+a {
+	color: #0074a2;
+}
+body {
+	background: #f1f1f1;
+	color: #444;
+	font-family: "Open Sans",sans-serif;
+	font-size: 13px;
+	line-height: 21px;
+	margin: 10% auto;
+	text-align: center;
+	width: 430px;
+}
+p {
+	margin: 0;
+}
+.message {
+	font-size: 17px;
+	line-height: 25px
+}
+.message-box {
+	background: #fff;
+	border-left: 4px solid #ffba00;
+	-webkit-box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+	-moz-box-shadow:    0 1px 1px 0 rgba(0,0,0,.1);
+	box-shadow:         0 1px 1px 0 rgba(0,0,0,.1);
+	margin: 33px 23px;
+	padding: 33px 13px;
+}
+.signup-link {
+	color: #888;
+}
+@media (max-width: 430px) {
+	body {
+		width: 90%;
+	}
+}
+</style>
+</head>
+<body>
+<h1><a href="http://wordpress.com/"><img src="//s2.wp.com/wp-admin/images/wordpress-logo.svg?ver=20131107" alt="WordPress.com" height="84" width="84" /></a></h1>
+<div class="message-box">
+	<p class="message">404 &#8212; File not found.</p>
+</div>
+<p class="signup-link">You can <a href="http://wordpress.com/?ref=graceful">create your own free blog on WordPress.com</a>.</p>
+
+</body>
+</html>
+	

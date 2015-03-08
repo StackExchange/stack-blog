@@ -1,0 +1,108 @@
+---
+author: admin
+comments: true
+date: 2008-12-11 07:24:54+00:00
+layout: post
+slug: podcast-33
+title: 'Podcast #33'
+wordpress_id: 159
+categories:
+- podcasts
+---
+
+
+This is the thirty-third episode of the StackOverflow podcast, where Joel and
+Jeff sit down with special guest Babak Ghahremanpour, the lead developer for FogBugz.
+
+
+
+
+
+
+  * I gifted the Fog Creek office with [a set of cymbals for the Rock Band 2 drums](http://www.fakeplasticrock.com/2008/11/05/fake-plastic-cymbals/), to complement the [sweet Rock Band setup](http://www.fakeplasticrock.com/2008/03/31/equipping-your-first-fake-plastic-rock-band/) I bought for them earlier this year. And yes, I already got them [a tambourine and cowbell](http://www.fakeplasticrock.com/2008/11/21/the-ultimate-vocalist-battlestation/).
+
+
+  * We're starting to seriously consider [buying our own servers and renting rackspace](http://blog.stackoverflow.com/2008/12/server-hosting-rent-vs-buy/) for the Stack Overflow servers. It makes sense to us from both from a financial standpoint and from a performance standpoint. We're also considering some of the cloud services like Amazon EC2 and Windows Azure.
+
+
+  * We wonder why so much of the software that's bundled with hardware is so terrible. There's nothing scarier to me as a software developer than the DVD labelled "Install me!" provided with some bit of hardware that I just bought. Why is that?  
+
+
+
+  * I tend to agree that one danger sign for a new programming job is the requirement to be on call. This is a bit more normal for sysadmin positions, but it's unusual (and arguably unhealthy) for programmers.  
+
+
+
+  * Joel and I note that developing software predisposes you to "debug" real world processes that largely aren't worth the effort. Beware!  
+
+
+
+  * We've probably mentioned this before, but whatever else you decide to do with your database, it is incredibly important that you [get your database under version control](http://www.codinghorror.com/blog/archives/001050.html).
+
+
+  * Does it make sense for every software developer to start their own company, which is what [Paul Graham seems to advocate](http://paulgraham.com/start.html)? It's certainly one of the few paths to becoming very wealthy, if that's your primary goal.
+
+
+  * If you just can't get enough Spolsky, Joel was featured on the [Startup Success podcast](http://startuppodcast.wordpress.com/) with Bob Walsh and Patrick Foley.
+
+
+
+
+Our favorite Stack Overflow questions this week:
+
+
+
+
+
+
+  * **Jeff**: [Why doesn't IE7 copy PRE CODE blocks to the clipboard correctly?](http://stackoverflow.com/questions/136443/why-doesnt-ie7-copy-precode-blocks-to-the-clipboard-correctly) This is sort of cheating because it's my own question, but it's a perfect example of using Stack Overflow to build Stack Overflow! We are the target audience, too. 
+
+
+
+  * **Joel**: [Dealbreakers for new programming jobs](http://stackoverflow.com/questions/242996/dealbreakers-for-new-programming-jobs). Some great responses to this question; worth a read if you're looking for a new job.  
+
+
+
+  * **Babak**: [What real life bad habits has programming given you?](http://stackoverflow.com/questions/164432/what-real-life-bad-habits-has-programming-given-you) We alluded to this question in the previous podcast; it's a classic.  
+
+
+
+
+
+We answered the following listener questions on this podcast:
+
+
+
+
+
+
+  1. **Peter Bailey**: "When you're designing a new application, how much code (triggers and stored procedures) do you put in the database?"  
+
+
+
+  2. **Vincent Tan**: "What are your top 3 costs in running a software business, and how do you reduce them?"  
+
+
+
+
+
+
+If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/)
+using nothing but a telephone and a web browser. We also have a
+dedicated phone number you can call to leave audio questions at
+**646-826-3879**.
+
+
+
+
+
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W29008) for this episode is available for public editing.
+
+
+
+
+
+
+[display_podcast]
+

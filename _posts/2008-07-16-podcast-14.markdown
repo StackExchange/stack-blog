@@ -1,0 +1,89 @@
+---
+author: admin
+comments: true
+date: 2008-07-16 22:11:35+00:00
+layout: post
+slug: podcast-14
+title: 'Podcast #14'
+wordpress_id: 69
+categories:
+- podcasts
+---
+
+
+This is the fourteenth episode of the StackOverflow podcast, wherein Joel and Jeff discuss the following:
+
+
+
+
+
+
+  * This week's Rock Band downloadable content is epic -- [the best of the Who](http://www.xbox360fanboy.com/2008/07/01/the-best-of-the-who-rock-band-tracklist-revealed/). Pointless podcast trivia: the Who song Baba O'Reily is a concatenation of two influences, one philosophical, the other musical: [Meher Baba](http://en.wikipedia.org/wiki/Baba_O%27Riley) and [Terry Riley](http://en.wikipedia.org/wiki/Terry_Riley). "_They're all wasted!_"
+
+
+  * On Joel's post [Don't Hide or Disable Menu Items](http://www.joelonsoftware.com/items/2008/07/01.html). Joel considers this post an experiment in minimalism, to see if it is possible to write an extremely short piece that still works. I viewed it as a mistake; surely there's _something_ between three tiny paragraphs and 5,000 words.
+
+
+  * There should be a common UI metaphor for things that are disabled that provides a standard bit of interface to indicate _why_ something is disabled. The specific situation that Joel ran into that motivated his post on this was the fact that [the accelerated playback mode of Windows Media Player](http://blog.stackoverflow.com/2008/06/listen-to-podcasts-in-less-time/) was disabled for Joel.
+
+
+  * I believe that comments are an important avenue for clarification and course correction in blogs, which is why they are so essential. Is [a blog without comments even a blog](http://www.codinghorror.com/blog/archives/000538.html) at all? It is what provides the conversational tone that makes them work.
+
+
+  * Joel feels conversational nature is "leading to the demise of blogs". People are relying on the conversation to complete the idea, rather than writing and researching the topic and presenting it as a coherent whole. It's more like hanging out with your friends and saying the first thing that pops into your head. Joel draws comparisons to the [eternal September](http://en.wikipedia.org/wiki/Eternal_September).
+
+
+  * So much of programming is not easily measurable or quantifiable; it is explained by anecdote. I believe it is the reader's job to read critically and question viewpoints -- and demand some form of supporting data, beyond just one example or a few anecdotes. Don't let the most persuasive argument win; let the best data win.
+
+
+  * Joel brings up a great point -- you should [avoid weasel words](http://en.wikipedia.org/wiki/Weasel_word) in your writing! Or at least know when you're using them. And try to stop.  
+
+
+
+  * On making decisions based on data: I believe you should automatically measure the number of queries and the time they take in your software. Based on that data, decide [how much to normalize your database](http://www.codinghorror.com/blog/archives/001152.html).
+
+
+  * Joel says the older he gets, the less he knows -- citing a few of his earlier posts. He plans to switch to story driven writing, free of agenda or morals. Let the reader interpret whatever message he or she wants into it.
+
+
+  * Perhaps the ideal workspace is re-configurable by the group that works in it -- [Microsoft's new research building](http://www.fastcompany.tv/video/the-innovations-microsoft%E2%80%99s-new-research-building) might be an example of this, or the the [Patterns & Practices agile workspace.](http://channel9.msdn.com/ShowPost.aspx?PostID=238321)
+
+  * A discussion on the perils of object relational mapping -- it's not called [the Vietnam of Computer Science](http://blogs.tedneward.com/2006/06/26/The+Vietnam+Of+Computer+Science.aspx) for nothing. We use [LINQ to SQL](http://msdn.microsoft.com/en-us/library/bb425822.aspx) on Stack Overflow and I have been quite happy with LINQ to SQL because it is 1) flexible 2) very lightweight and 3) built into the language as a fundamental construct, not bolted on in bunch of code generation or classes. 
+
+
+  * Thanks again to everyone contributing wiki transcriptions!
+
+
+
+
+We also answered the following listener questions:
+
+
+
+
+
+
+  1. **Paul D. Waite**: "As a web developer going from JavaScript and Python to Objective-C, where should I start learning C?"
+
+
+
+
+
+
+If you'd like to submit a question to be answered in our next episode,  
+
+record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser.
+
+
+
+
+
+The [transcript wiki](http://stackoverflow.fogbugz.com/default.asp?W13086) for this episode is available for public editing.
+
+
+
+
+[display_podcast]
+
+
+

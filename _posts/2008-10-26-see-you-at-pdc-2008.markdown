@@ -1,0 +1,51 @@
+---
+author: admin
+comments: true
+date: 2008-10-26 06:59:12+00:00
+layout: post
+slug: see-you-at-pdc-2008
+title: See You At PDC 2008
+wordpress_id: 141
+categories:
+- background
+---
+
+
+I will be attending the [Microsoft Professional Developers' Conference](http://www.microsoftpdc.com/) this year, courtesy of Microsoft.
+
+
+
+[![pdc-2008-logo](http://blog.stackoverflow.com/wp-content/uploads/pdc-2008-logo.jpg)](http://www.microsoftpdc.com/)
+
+
+
+The main reason I am attending is to help [Phil Haack](http://haacked.com/) deliver a session about [ASP.NET MVC](http://www.asp.net/mvc/).
+
+
+
+
+
+## ASP.NET MVC: A New Framework for Building Web Applications
+
+
+<table >
+<tr >
+<td >Monday, October 27th</tr>
+<tr >
+<td >3:30 pm -- 4:45 pm</tr>
+<tr >
+<td >Room 153</tr>
+</table>
+
+
+
+Phil invited me to talk for 15 minutes about the real world use of ASP.NET MVC in stackoverflow.com, and I was happy to oblige him. Phil and I have been friends for a few years, so our relationship predates any of the business stuff.
+
+
+
+If you're attending [PDC08](http://www.microsoftpdc.com/) this year, maybe I'll see you there -- and definitely attend our session!
+
+
+
+Update: the session Phil and I presented can [now be viewed online](http://channel9.msdn.com/pdc2008/PC21/). (Thanks Zack!)
+

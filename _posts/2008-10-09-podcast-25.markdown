@@ -1,0 +1,71 @@
+---
+author: admin
+comments: true
+date: 2008-10-09 06:12:32+00:00
+layout: post
+slug: podcast-25
+title: 'Podcast #25'
+wordpress_id: 116
+categories:
+- podcasts
+---
+
+
+This is the twenty-fifth episode of the StackOverflow podcast, where Joel and Jeff sit down with the ineffable Steve Yegge, who you may know from his excellent and extremely popular blog [Stevey's Blog Rants.](http://steve-yegge.blogspot.com/) Steve worked for Amazon and currently works for Google.
+
+
+
+
+
+
+  * Steve proposes we use the [Muppets Show](http://en.wikipedia.org/wiki/The_Muppet_Show) theme as our podcast theme song. I'm more amenable to ["The Touch"](http://www.youtube.com/watch?v=30BFrLl07r4) as featured in the [Transformers the Movie](http://www.imdb.com/title/tt0092106/) from 1986.  
+
+
+
+  * We ask how Google maintains its culture in the face of an army of new hires entering the company every month.
+
+
+  * Steve is, to put it mildly, a language maven. He shares some of his perspectives on language aesthetics. Should languages be designed by committee, or by a benevolent dictator?
+
+
+  * If Steve could teach every developer one thing, it wouldn't be how to type, or how to write -- but how to _market_.
+
+
+  * Google has an infrastructure in place to support "mini-startups" within the company. Joel thinks all good startups must have ideas that sound terrible. YouTube is a great example, as is the [Flip video recorder](http://www.theflip.com/).
+
+
+  * Being an entrepreneur often means spending a lot of your time _not_ programming. This can be challenging for software engineers who love to code. Make sure you know what you're signing up for if you go this route.
+
+
+  * Steve is a big [believer in the Google experience](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html), even though his last three projects have been cancelled "for business reasons". Instead of Joel's "Smart, and Gets Things Done", Steve proposes ["Done, and Gets Things Smart."](http://steve-yegge.blogspot.com/2008/06/done-and-gets-things-smart.html)
+
+
+  * How much does choosing the "right" programming language matter? Isn't the variance between programmers far more significant to the end result? On the other hand, the best programmers often tend to be fluent in multiple languages.
+
+
+  * One way to drag the "one horse language" programmers into multiple languages is to support sublanguages within the same runtime, ala IronPython, IronRuby, Jython, and JRuby.
+
+
+  * Steve is considering porting his game [Wyvern](http://en.wikipedia.org/wiki/Wyvern_(Online_Game)) to [Android](http://code.google.com/android/what-is-android.html). He can't talk about his current full time project at Google, but he does fess up to owning it -- both from the business side and the engineering side. So if this time it's cancelled, we really know who to blame.  
+
+
+
+  * Steve: "You can't write about anything interesting without making a bunch of people mad.", "Everything you say can be quoted out of context 500 years from now."
+
+
+  * One of my very favorite Steve Yegge posts is [You Should Write Blogs](http://steve.yegge.googlepages.com/you-should-write-blogs). Unfortunately, despite my cajoling, blogging just isn't for everyone. Too many brilliant programmers are virtually unknown because they have no footprint on the web. This is one of the reasons we created [Stack Overflow](http://stackoverflow.com/) -- to lower that participation barrier, at least a few millimeters.
+
+
+
+
+
+If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser. We also have a dedicated phone number you can call to leave audio questions at
+646-826-3879.
+
+
+
+
+
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W25795) for this episode is available for public editing.
+

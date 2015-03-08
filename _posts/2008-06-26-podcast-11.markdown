@@ -1,0 +1,128 @@
+---
+author: admin
+comments: true
+date: 2008-06-26 00:41:25+00:00
+excerpt: Joel and Jeff try to avoid talking over each other while discussing data
+  generation, full text searching, cross-site scripting, Markdown, Microsoft's Silverlight,
+  and how to get a job at Fog Creek software.
+layout: post
+slug: podcast-11
+title: 'Podcast #11'
+wordpress_id: 59
+categories:
+- podcasts
+---
+
+
+This is the eleventh episode of the StackOverflow podcast, wherein Joel and Jeff discuss the following:
+
+
+
+
+
+
+  * Addressing a few key bits of podcast feedback: we'll try to avoid talking over each other, and the 
+callers who are asking questions, in the future.
+
+
+
+  * On [the value of software postmortems](http://www.developer.com/design/article.php/3637441). 
+
+
+
+  * On data generation through [Team System Database Edition](http://msdn.microsoft.com/en-us/vsts2008/products/bb933747.aspx) and [Redgate SQL Data Generator](http://www.red-gate.com/products/sql_data_generator/index.htm). If you don't have a tool to generate data, why not?
+
+
+
+  * Joel provided me with a drop of the [Joel on Software .NET discussion forums](http://discuss.joelonsoftware.com/default.asp?dotnet) for the purposes of data load testing. It's up and running, but we're not sure we will use it; it might bias stackoverflow.com too heavily towards .NET topics initially.
+
+
+
+  * Why not use [full-text searching in SQL Server 2005](http://www.microsoft.com/technet/prodtechnol/sql/bestpractice/ftslesld.mspx) for stackoverflow.com? Joel says it's too hard to use, the index server is too disconnected from the main database process; it just has too many gotchas overall.
+
+
+
+  * Joel sings the praises of [Lucene.NET](http://incubator.apache.org/lucene.net/); it provides excellent full-text search results for the hosted FogBugz.
+
+
+
+  * Reginald Braithwaite's fine essay [We Have Lost Control of the Apparatus](http://weblog.raganwald.com/2007/09/we-have-lost-control-of-apparatus.html), which correctly notes that most desktop apps in the corporate world now have to compete with web apps.
+
+
+
+  * On rooting out assumptions in discussions, to make sure you're actually discussing the same topic: try using the [five whys](http://www.joelonsoftware.com/items/2008/01/22.html) technique Joel discussed.
+
+
+
+  * The odd story of Microsoft's acquisition of [LookOut](http://www.belshe.com/software/), a popular and extremely fast indexing solution for Outlook. What happened? Why do so many large companies buy smaller software companies and then essentially kill them?
+
+
+
+  * stackoverflow.com will be using [Markdown](http://en.wikipedia.org/wiki/Markdown), but one downside of Markdown it the spec allows HTML. [This opens us up to XSS exploits](http://ha.ckers.org/xss.html), so we have to be very careful here.
+
+
+
+  * If you do any sort of web programming whatsoever, [**please** visit this page of XSS exploits](http://ha.ckers.org/xss.html), so you can "scroll" for yourself how dangerous and pervasive the XSS problem is today.
+
+
+
+  * A discussion of the complex rules for storing and rendering both Markdown and HTML in the same content. It's part of the spec, and it gives users a lot of flexibility. We store both the Markdown and rendered HTML representations in the database.
+
+
+
+  * We are using [prettify.js](http://code.google.com/p/google-code-prettify/) which is almost magical in the way it works. It is used on Google Code, and it infers all syntax highlighting for most languages and content without any explicit markup indicating which language is in use. Are there other, better javascript syntax highlighters we should be looking at?
+
+
+
+  * The difficulties of [Silverlight](http://www.microsoft.com/SILVERLIGHT/): 1.0 versus 2.0, and the distinctly un-webbiness of the "rectangle in a browser" model. If Flash hasn't been able to overcome these obstacles in 10 years of use and near total ubiquity on the web, how is Silverlight going to?
+
+
+
+  * I'm excited about the [SquirrelFish project](http://webkit.org/blog/189/announcing-squirrelfish/), which promises to speed up plain old JavaScript running in the browser dramatically -- 1.5 times faster than Firefox 3, and 2.6 times faster than Opera.
+
+
+
+  * On Steve Yegge's essay [Done And Get Things Smart](http://steve-yegge.blogspot.com/2008/06/done-and-gets-things-smart.html) -- is the only reliable way to identify truly great people through actually working with them? Or following the social graph of "name the greatest engineer you have worked with" chain all the way back as far as you can?
+
+
+
+  * Joel himself probably wouldn't pass [the current interview process at Fog Creek](http://www.fogcreek.com/Interviews.html). Hiring is hard; it's better to err on the side of safety, which means a lot of great programmers will get turned down.
+
+
+
+
+
+
+We also answered the following listener questions:
+
+
+
+
+
+
+  1. **Stephen Hill**:  "What do you think of Microsoft's Silverlight?"
+
+
+
+  2. **Dave Roberts**: "Joel, would you hire Jeff? If not, would you hire me?"
+
+
+
+
+
+If you'd like to submit a question to be answered in our next episode,  
+
+record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser.
+
+
+
+
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W12621) for this episode is available for public editing.
+
+
+
+
+
+[display_podcast]
+

@@ -1,0 +1,69 @@
+---
+author: admin
+comments: true
+date: 2010-01-10 04:05:24+00:00
+layout: post
+slug: podcast-79
+title: 'Podcast #79'
+wordpress_id: 2469
+categories:
+- podcasts
+---
+
+In this episode of the podcast, Joel and Jeff discuss open sourcing Markdown, the necessity of barriers on the open internet, and the importance of design in the software process.
+
+
+
+	
+  * We highlight three interesting Stack Exchange sites: [Climate Deal](http://community.climatedeal.org/) (environmental climate change issues), [ASCOM Answers](http://answers.ascom-standards.org) (astronomy tech), and [Math Overflow](http://mathoverflow.net/) (professional mathematicians).
+
+	
+  * Thanks to [Anton Geraschenko](http://mathoverflow.net/users/1/anton-geraschenko) (the operator of Math Overflow, who I erroneously, embarrassingly, and _repeatedly_ refer to as "Jacob" in this podcast -- my apologies) for his help with improving our [client side Markdown implementation](http://code.google.com/p/wmd-new/). We also have a server side implementation of Markdown, which is now [open sourced at Google Code](http://code.google.com/p/markdownsharp/).
+
+	
+  * The [original Markdown implementation](http://daringfireball.net/projects/markdown/) was in Perl. As a result, there is an unfortunate tradition in the community of writing Markdown parsers using a slew of regular expressions. This leads to some rather dense and complicated code with a lot of hairy edge conditions. Like most Perl, it worked well for the 95% case but that last 5% is extraordinarily difficult to achieve.
+
+	
+  * Joel argues that if the community had started out writing a proper Markdown parser using standard tools like [Yacc](http://en.wikipedia.org/wiki/Yacc), [Bison](http://en.wikipedia.org/wiki/GNU_bison), [Lex](http://en.wikipedia.org/wiki/Lex_programming_tool) would have produced much simpler, easier to maintain code. I tend to agree that this is kind of a textbook example of where "the right way" would have perhaps been easier in the long run than the quick and dirty hack.
+
+	
+  * Take a look at the [core HTML block parser](http://code.google.com/p/markdownsharp/source/browse/trunk/MarkdownSharpTests/source/php/markdown.php#365) in the much better maintained PHP implementation. It is three full screens .. of a single regular expression. This is the most complex regular expression I've ever seen that was not a joke of some kind, and it's the core of the PHP Markdown implementation. Compiling this enormous regex in .NET causes my super-fast machine to freeze for several seconds.
+
+	
+  * Running an open source project has reminded me of Derek Sivers classic article -- [Nobody's going to help you. Does that encourage you or discourage you?](http://sivers.org/up2you) You have to be more dedicated to your open source project than anyone else in the world. Your dedication will inspire others to follow.
+
+	
+  * Unfortunately, blessing something as open source does not magically synthesize leadership. This is why I was [a bit critical of John Gruber's handling of Markdown](http://www.codinghorror.com/blog/archives/001317.html), as I felt the lack of action was starting to harm Markdown. Regardless, [we donated to Markdown](http://blog.stackoverflow.com/2009/12/stack-overflow-gives-back/) along with all the other parts of our development stack that we rely on. We hope to make these donations a yearly tradition.
+
+	
+  * The idea that you should have no barrier to participation on the open internet isn't just a myth, it's a dangerous and destructive myth. We believe you need a barrier to keep those people who aren't serious out. For example, [wikipedia intentionally does this](http://blog.citizendium.org/?p=233). We aren't talking about a concrete wall lined with razor wire, but a toddler sized barrier to keep the most bored and uninteresting users (or, if you prefer, "the majority of the internet") away.
+
+	
+  * Joel explains why he no longer believes in outsourcing design; they are [hiring a designer](http://fogcreek.com/Jobs/Design.html) to work at Fog Creek full time. We compare the differences in the hiring process for designers versus programmers.
+
+	
+  * Our philosophy of design on Stack Overflow is to try to do as little as possible, but make those few things polished as we can. While there's always room for improvement, and we love whitespace and minimalism, there is [an issue of information density](http://www.codinghorror.com/blog/archives/000644.html) that is totally intentional -- particularly on the homepage.
+
+	
+  * Item number 11 of [the Joel Test](http://en.wikipedia.org/wiki/The_Joel_Test) ensures that you work for a company where they ask candidates to write code during the interview. The essential part here is not the production of the code, per se, but observation of the work actually happening. You need to know how the sausage is produced.
+
+	
+  * There is a website that conducts programming tests on the internet for you at [Codility](http://codility.com/), but we're skeptical this can actually work without the one-on-one human element of observation.
+
+
+We answered two listener questions:
+
+	
+  * **Evan**: "why do you feel it is necessary to charge programmers to list CVs? Won't this prevent the service from reaching critical mass?"
+
+	
+  * "Part of the Joel Test is writing code during the interview. How do you feel about companies who ask programmers to submit code samples or take home programming assignments?"
+
+
+If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser. We also have a dedicated phone number you can call to leave audio questions at **646-826-3879**.
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W29119) for this episode is available for public editing.
+
+[display_podcast]
+
+

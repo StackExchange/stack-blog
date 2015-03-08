@@ -1,0 +1,76 @@
+---
+author: admin
+comments: true
+date: 2008-10-01 18:18:17+00:00
+layout: post
+slug: podcast-24
+title: 'Podcast #24'
+wordpress_id: 108
+categories:
+- podcasts
+---
+
+
+This is the twenty-fourth episode of the StackOverflow podcast, a special roundtable discussion **conducted in NYC at Joel's Fog Creek offices with the entire Stack Overflow team**. That includes Jarrod Dixon, Geoff Dalgas, and Michael Pryor in addition to Joel and Jeff.
+
+
+
+
+
+
+
+  * We muse about [the 7.5 million dollar Dreamhost billing error](http://blog.dreamhost.com/2008/01/15/um-whoops/). We admire the openness of Dreamhost, that they would be so up front about such a major gaffe on their blog.
+
+
+  * There is a rule at Fog Creek which we at Stack Overflow also follow -- never ship on Friday.
+
+
+  * A brief discussion about responsible advertising; contrasting our ad deal with [woot](http://www.woot.com/) and the [Audible](http://www.audible.com/) sponsorship of podcasts. One sells a product we've bought before and vouch for, the other sells DRM encumbered product.
+
+
+  * Michael and Joel bring up the idea of mixing real world money and our reputation system. I don't think we'll do this, but it's an interesting conversation.
+
+
+  * Discussing Geoff's cool [JavaScript reputation graphing system](http://blog.stackoverflow.com/2008/09/i-dont-give-a-damn-about-my-reputation/).
+
+
+  * The giant "questions" with 300 answers were putting a huge load on the server and on client browsers. We never anticipated this would happen. Jarrod's pagination feature was deployed last night. Pagination begins at 30 answers, which matches the current wiki community threshold. If your "question" gets to page two of the answers, it'll be paginated and converted to community mode.
+
+
+  * Michael asks the eternal question -- why not support alternate login methods versus OpenID? I believe that OpenID is a bit of a chicken and egg problem at the moment, and we want to support a better future. We are open to partnering with another OpenID provider to provide a more seamless signup experience; [myopenid supports this](https://www.myopenid.com/affiliate) and we'll try to get it in the queue.
+
+
+  * We go around the table, discussing the short term future -- what's the #1 feature each of us wants to see in on Stack Overflow?
+
+
+  * Michael draws a comparison between Stack Overflow and [Project Euler](http://projecteuler.net/). You get points on this site for solving algorithmic / mathematical problems.
+
+
+  * Although it has been criticized, we continue to like the Stack Overflow design, which is largely thanks to [Jeremy Kratz](http://www.jeremykratz.com/). We feel providing solid layout and markup control makes our questions look great.
+
+
+  * We've been pleasantly surprised with the SQL Server 2005 full-text search on Stack Overflow, but we agree with Joel that something like [Lucene.NET](http://incubator.apache.org/lucene.net/) would probably work better, as it operates at the logical "page" level instead of database record level. People don't think in terms of database records; they think in terms of web pages.
+
+
+  * Geoff discusses how important [sitemap.xml](http://www.sitemaps.org/) was for us. Unlike a blog, we didn't have stable, permanent links to questions. until we rolled out sitemap it was literally _impossible_ to find questions using web search, even if you entered the exact word-for-word title. As [google says](https://www.google.com/webmasters/tools/docs/en/protocol.html), you should use sitemaps for "any site where certain pages are only accessible via a search form".
+
+
+
+
+
+If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser.  We also have a dedicated phone number you can call to leave audio questions at 646-826-3879.
+
+
+
+
+
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W25778) for this episode is available for public editing.
+
+
+
+
+
+
+[display_podcast]
+

@@ -1,0 +1,72 @@
+---
+author: alex
+comments: true
+date: 2011-07-20 19:00:09+00:00
+layout: post
+slug: se-podcast-12
+title: 'SE Podcast #12 - Patrick McKenzie'
+wordpress_id: 8771
+categories:
+- podcasts
+---
+
+This week, Jeff and Joel are joined by [Patrick McKenzie](http://www.kalzumeus.com/) - StackOverflow contributor, internet commentator and SEO expert (especially when it comes to driving traffic for [Halloween bingo cards](http://www.halloweenbingocards.net/)).  After a few early tech issues (don't worry, we cleaned up for everyone at home) we jump right into things, with tons of discussion, including:
+
+
+
+	
+  * The big news for Stack Exchange this week: we officially [launched our new mobile support](http://blog.stackoverflow.com/?p=8745)!
+
+	
+  * We also recently [introduced in-line editing](http://blog.stackoverflow.com/2011/07/faster-edits-with-inline-editing/) so you don't have to go to a separate page to edit an answer or question - we really want to encourage editing and have people help make questions better.
+
+	
+  * Patrick is the creator of BingoCardCreator.com - an amazingly popular site for putting together bingo cards for various occasions.  Apparently, one of the biggest markets is for [Halloween Bingo Cards](http://www.bingocardcreator.com) with the entire month of October being worth $20k in sales.
+
+	
+  * He also has a new tool for helping doctor's offices [remind patients of upcoming appointments](https://www.appointmentreminder.org/).
+
+	
+  * Patrick owns a bunch of "exact match" domain names which provide a [_huge_ SEO bonus](http://www.seoptimise.com/blog/2011/06/30-new-google-ranking-factors-you-may-over-or-underestimate.html) since Google assumes that anyone who owns a domain exactly matching a search must be credible.  The bonus doesn't apply to hyphenated domains though.
+
+	
+  * Joel suspects (and Patrick confirms) that Google now incorporate WHOIS data into their ranking to discount any domains that are owned by people who have a history of owning crappy domains. (Joel has apparently also never seen [Burn Notice](http://www.imdb.com/title/tt0810788/))
+
+	
+  * One potential issue with rewriting question titles to be SEO'd is that not everyone searches in the same language that Google ranks for - so you might actually hurt how many people find your questions.
+
+	
+  * Joel misses all the "labor of love" sites that people have written because they truly love a subject - the quality and usefulness of those sites is FAR better than the useless drivel turned out by content farms.  Patrick does point out one defense of them though.
+
+	
+  * Jeff has been wanting to talk more about the "[Ask Me Anything](http://www.reddit.com/help/faqs/iama)" concept that originated from Reddit.  Jeff thinks the format of Reddit isn't the best for the AMA idea (and in general has some issues with the format) and likes a new site: [AnyAsq.com](http://www.anyasq.com) which is really optimized for it.
+
+	
+  * Ultimately, this leads to a further discussion of the value of various formats for organizing different types of content.
+
+	
+  * Joel & Jeff have often wondered how to prevent the "tyranny of the sort order" in which already upvoted posts (or posts from high rep users) get lots of upvotes on their answer even though there may be a better one.
+
+	
+  * Sometimes certain answers get crazy levels of upvotes - [like this one](http://stackoverflow.com/questions/6441218/can-a-local-variables-memory-be-accessed-outside-its-scope/6445794#6445794)
+
+	
+  * Our math intern, [Qiaochu](http://math.stackexchange.com/users/232/qiaochu-yuan), has been doing some research and found the effect of having an upvoted post on a users propensity to return:
+
+
+
+
+[![](http://blog.stackoverflow.com/wp-content/uploads/index.png)](http://blog.stackoverflow.com/wp-content/uploads/index.png)
+
+
+
+
+
+
+	
+  * Of course [Stack Overflow DevDays](http://devdays.stackoverflow.com) 2011 is still coming along, so make sure to pick up your tickets now!  We'll be coming to 4 cities around the world this fall with some of the foremost experts on software development, so don't miss it!  Use the code "podcast" for a $100 discount too!
+
+
+We'll see you next week when our guest is [Stack Exchange designer](http://blog.stackoverflow.com/2010/07/our-designer-in-residence-jin-yang/) [Jin Yang](http://twitter.com/#!/jzy)!
+
+[Stack Exchange Podcast - Episode #12 w/ Patrick McKenzie](http://soundcloud.com/stack-exchange/stack-exchange-podcast-12) by [Stack Exchange](http://soundcloud.com/stack-exchange)

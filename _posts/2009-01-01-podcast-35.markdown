@@ -1,0 +1,97 @@
+---
+author: admin
+comments: true
+date: 2009-01-01 01:23:27+00:00
+layout: post
+slug: podcast-35
+title: 'Podcast #35'
+wordpress_id: 246
+categories:
+- podcasts
+---
+
+This is the 35th episode of the StackOverflow podcast, where Joel and Jeff discuss the mysteries of server hardware, anomalous voting patterns, change fatigue, and whether or not Joel is the Martha Stewart of the software industry.
+
+
+
+
+
+
+  * A discussion of the bizarre world of server pricing, as discussed in the [Best (or Worst) Geek Christmas Ever](http://www.codinghorror.com/blog/archives/001200.html). It is sort of mysterious how a lot of the same hardware parts are is rebranded "server" parts, along with an instant 50%+ markup.
+
+
+  * Building your own servers up probably doesn't make any sense from a business perspective, but Joel and I both enjoy learning about this stuff -- and it is critical to our business. I doubt I would personally handle every server we ever use, but the first few, absolutely. I believe [understanding the commodity hardware market](http://www.codinghorror.com/blog/archives/000814.html) is important for programmers.  
+
+
+
+  * Joel notes that you really, really want to test your RAID failover scenarios before deploying your servers. That's one of the exact reasons I wanted to have the servers here, for me to play with RAID scenarios while the servers are up and running.
+
+
+  * After receiving a number of complaints, we now [check for anomalous voting patterns on Stack Overflow](http://blog.stackoverflow.com/2008/12/vote-fraud-and-you/). I guess it shouldn't be surprising that there were 4x as many anomalous upvote patterns as downvote patterns.
+
+
+  * Answers to older questions don't tend to get voted up as aggressively as rapid answers. There's an aspect of the [Fastest Gun in the West](http://stackoverflow.com/questions/56103/fastest-gun-in-the-west-problem-closed) to our system. Joel and I believe there are two audiences here; the daily users and the long tail. Sometimes a little (or a lot) of patience in order.
+
+
+  * We are now [reverse engineering the JavaScript based Markdown editor](http://blog.stackoverflow.com/2008/12/reverse-engineering-the-wmd-editor/) we use on Stack Overflow. Believe me, we don't want to, but we have no choice. If you know JavaScript and/or GIT, we welcome your contribution!
+
+
+  * Joel had a great response to a [forum post by a programmer thinking of leaving the industry](http://discuss.joelonsoftware.com/default.asp?joel.3.718003.14), which I summarized as [Programming: Love It or Leave It](http://www.codinghorror.com/blog/archives/001202.html). Apparently Joel thinks of himself as the Martha Stewart of the software industry? Who am I to judge; listen to the audio yourself.
+
+
+  * If you're unhappy with your job as a programmer, it might simply be because your situation is not a good one. If you're in a bad situation, recognize that: either change your organization, or [change your organization](http://www.codinghorror.com/blog/archives/000689.html). Alternately, if you want to have a great 10 to 15 year career goal, why not start your _own_ software company where programmers are able to work under great conditions, building awesome software with their peers?
+
+
+  * The [Joel on Software discussion forums](http://discuss.joelonsoftware.com/?joel) may soon require (nominal) paid registration, much like MetaFilter. This is something we discussed with Josh Millard, a MetaFilter moderator, on [Podcast #22](http://blog.stackoverflow.com/2008/09/podcast-22/).
+
+
+  * Joel and I struggle with the definition of "change fatigue" as a career hazard for programmers. Isn't change the very basis of programming, and the reason most people enter the field? Rather than being a hazard, isn't the continual change a destination? Admittedly, it must be painful to be a specialist and have your knowledge obsoleted; Joel and I are both [broad generalists](http://www.codinghorror.com/blog/archives/000711.html), so it's easier for us.
+
+
+  * I discovered a great Stack Overflow post through Damien Katz: [Arrays, What's the Point? Good Question](http://damienkatz.net/2008/12/arrays_whats_the_point_good_qu.html). This is a fine example of a question that seems sort of ridiculous on the surface, but can provide amazingly insightful answers -- and a deeper understanding of programming. Jonathan Holland's [accepted response](http://stackoverflow.com/questions/392397/arrays-whats-the-point#392426) has 190 upvotes!
+
+
+
+
+Our favorite Stack Overflow questions this week are:
+
+
+
+
+
+
+  * **Jeff** and **Joel**: [Arrays, What's the point?](http://stackoverflow.com/questions/392397/arrays-whats-the-point) This is exactly why we created Stack Overflow; fantastic result. Understanding data structures is as fundamental as it gets -- and so is questioning them.  
+
+
+
+
+
+We answered one listener question on this podcast:
+
+
+
+
+
+
+  1. **Ian Varley**: "A lot of programmers eventually become exhausted by the pace of change in our industry. How do you keep from getting change fatigue?"
+
+
+
+
+
+If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-our-telephone/) using nothing but a telephone and a web browser. We also have a dedicated phone number you can call to leave audio questions at **646-826-3879**.
+
+
+
+
+
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?pg=pgWiki&command=view&ixWikiPage=29014) for this episode is available for public editing.
+
+
+
+
+
+
+[display_podcast]
+

@@ -1,0 +1,26 @@
+---
+author: Laura Dobrzynski
+comments: false
+date: 2011-08-10 20:20:05+00:00
+layout: post
+published: false
+slug: '8745495085'
+title: Everybody loves swag!
+wordpress_id: 10554
+categories:
+- chaos
+post_format:
+- Aside
+tags:
+- photography
+---
+
+Even though we already have some awesome [Stack Exchange merch for sale](http://shop.stackexchange.com/) on our website, [each of our sites](http://stackexchange.com/sites) is special. New sites graduate from beta on a regular basis (like [Bicycles](http://bicycles.stackexchange.com) just the other day!), and they need their own swag.
+
+Right now, my domain is [Photography](http://photo.stackexchange.com/). Everybody loves a t-shirt, sure, but we wanted to know what would be desirable and useful for photographers. How do we find that out? We ask them. I hosted a chat a few days ago with the community and asked them directly what they wanted. (Did you know there are [chat rooms](http://chat.photo.stackexchange.com) for each Stack Exchange site? It’s pretty neat.)
+
+This format worked really well. It was open to all members of the photo.SE community, who were talking directly with the company (in the form of me). We got some great ideas, right down to the brand name and specific color they want for lens cleaning cloths. As a result, I’m now looking into what it’ll take to create Photo Stack Exchange camera straps and lens cleaning cloths. I also could have posted a discussion question on the site’s [meta](http://meta.photo.stackexchange.com), but we’ve found that the meta format doesn’t usually generate the same momentum as chat.
+
+It’s a lesson that we’re taking to heart: the community has a voice. We listen to it.
+
+

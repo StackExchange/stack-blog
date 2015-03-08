@@ -1,0 +1,114 @@
+---
+author: admin
+comments: true
+date: 2008-07-02 20:50:28+00:00
+excerpt: Joel and Jeff discuss Macbook Air overheating and undervolting, constructive
+  criticism, and engage in an extended discussion of Joel's management training program
+  reading list. If you love classic books, this is the podcast you're looking for.
+layout: post
+slug: podcast-12
+title: 'Podcast #12'
+wordpress_id: 64
+categories:
+- podcasts
+---
+
+
+This is the twelfth episode of the Stack Overflow podcast, wherein Joel and Jeff discuss the following:
+
+
+
+
+
+
+  * The difficulty of working on an airplane, even with an ultraportable laptop. [I use the Dell XPS M1330](http://www.codinghorror.com/blog/archives/000927.html), which I love, but it's still marginal on an airplane.  
+
+
+
+  * It's not quite version control, but why doesn't our IDE automatically create lightweight versions every time we save?
+
+
+  * Joel discovers the wide world of undervolting, which can dramatically reduce the power usage (and thus heat generation) of the Intel CPU inside the Macbook Air -- which is notorious for overheating. The program is [coolbook](http://www.coolbook.se/CoolBook.html); look into it if you have a Macbook Air.
+
+
+  * Marco Arment provides this sage bit of advice: [Don't let Jeff Atwood lead your web project](http://tumblelog.marco.org/40234086/dont-let-jeff-atwood-lead-your-web-project). Too late! I try to avoid becoming the web equivalent of [Usenet's James Parry (kibo)](http://en.wikipedia.org/wiki/James_Parry), the original egosurfer, by responding to every single post that includes my name. But it does give me an opportunity to reply via the podcast using an audio clip from my very favorite two man novelty band, [Flight of the Conchords](http://www.amazon.com/dp/B000P2A6C0/?tag=codinghorror-20).   
+
+
+
+  * Stack Overflow is meant to replace some books, but by no means _all_ of them. We love books! We spend the rest of the episode discussing Joel's [Fog Creek Software Management Training Program reading list](http://www.joelonsoftware.com/articles/FogCreekMBACurriculum.html). It is a fantastic list, filled with excellent reads that will broaden and inspire you as a software developer -- or software entrepreneur.
+
+
+  * I would be remiss if I didn't mention my favorite technical book title of all time: [The Difference Between God and Larry Ellison: God Doesn't Think He's Larry Ellison](http://www.amazon.com/dp/0060008768/?tag=codinghorror-20).
+
+
+  * It's not a book, exactly, but I highly recommend [the 2001 documentary Startup.com](http://www.amazon.com/dp/B00005N5QV/?tag=codinghorror-20) which provides a sometimes disturbing look into the hysteria at the height of the original dot-com era.
+
+
+  * If you only read one book from this list, make it [Peopleware: Productive Projects and Teams](http://www.amazon.com/dp/0932633439/?tag=codinghorror-20). And if you like that, walk the list of Demarco and Lister books and read a few more!
+
+
+  * I have read [Robert X. Cringely](http://www.pbs.org/cringely/) for years. I love his older book [Accidental Empires](http://www.codinghorror.com/blog/archives/000718.html) and the related three part video, [Triumph of the Nerds](http://www.codinghorror.com/blog/archives/000718.html). I was disturbed to find out from Joel that there is [more than one](http://www.pbs.org/cringely/about/) Robert X. Cringely these days.
+
+
+  * You own a copy of [How to Win Friends & Influence People](http://www.amazon.com/dp/0671027034/?tag=codinghorror-20) -- right? If not, why not? This is not a sleazy, ugly book like [The Game](http://www.amazon.com/dp/0060554738/?tag=codinghorror-20). It's a timeless classic, as relevant today as it was over fifty years ago when it was originally written.  
+
+
+
+  * Don't have time to listen to all that jibba-jabba? Here is Joel's short list:
+
+
+    1. [Peopleware: Productive Projects and Teams](http://www.amazon.com/dp/0932633439/?tag=codinghorror-20)
+
+
+    2. [Don't Make Me Think: A Common Sense Approach to Web Usability](http://www.amazon.com/dp/0321344758/?tag=codinghorror-20)
+
+
+    3. [The Non-Designer's Design Book](http://www.amazon.com/dp/0321534042/?tag=codinghorror-20)
+
+
+    4. [Facts and Fallacies of Software Engineering](http://www.amazon.com/dp/0321117425/?tag=codinghorror-20)
+
+
+    5. [Secrets of Consulting: A Guide to Giving and Getting Advice Successfully](http://www.amazon.com/dp/0932633013/?tag=codinghorror-20)
+
+
+    6. [Influence: The Psychology of Persuasion](http://www.amazon.com/dp/0688128165/?tag=codinghorror-20)
+
+
+    7. [Getting to Yes: Negotiating Agreement Without Giving In](http://www.amazon.com/dp/0140157352/?tag=codinghorror-20)
+
+
+    8. [How to Win Friends & Influence People](http://www.amazon.com/dp/0671027034/?tag=codinghorror-20)
+
+
+
+
+
+  * Remember, [most programmers don't read books -- but you should!   
+](http://www.codinghorror.com/blog/archives/001108.html)
+
+
+
+
+There were no listener questions this week. **Please send in your questions** -- the more controversial, the better!
+
+
+
+
+If you'd like to submit a question to be answered in our next episode,  
+
+record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser.
+
+
+
+
+
+The [transcript wiki](http://stackoverflow.fogbugz.com/default.asp?W12908) for this episode is available for public editing.
+
+
+
+
+[display_podcast]
+
+
+

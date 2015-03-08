@@ -1,0 +1,81 @@
+---
+author: admin
+comments: true
+date: 2009-08-06 04:59:32+00:00
+layout: post
+slug: podcast-64
+title: 'Podcast #64'
+wordpress_id: 1796
+categories:
+- podcasts
+---
+
+Joel and Jeff discuss the disappointment of Google AdSense, the difference in skillset between programmers and testers, and the value of standards groups to working programmers.
+
+
+
+	
+  * If you have feedback for [Stack Exchange](http://stackexchange.com/) (still scheduled for beta by September 1st), please leave it on meta.stackoverflow.com [under the Stack Exchange tag](http://meta.stackoverflow.com/questions/tagged/stackexchange).
+
+	
+  * The speaker list for [Stack Overflow DevDays](http://devdays.stackoverflow.com) is coming soon, it's looking really impressive so far. For example, both John Resig (of jQuery fame) and Miguel De Icaza (of Mono fame) will be at the Boston leg, and there are still seats available! There's also a rumor that Jeff Atwood, whoever that guy is, may show up in London.
+
+	
+  * We are forming a [League of Justice on the web](http://blog.stackoverflow.com/2009/07/why-cant-you-have-just-one-site/). The first new hero in our league is [How-To Geek](http://blog.stackoverflow.com/2009/07/howtogeek-and-stack-overflow/), of the most excellent [How-To Geek website](http://www.howtogeek.com/). It's the editorially cultivated content yin to our user-generated yang.
+
+	
+  * On the crushing disappointment of Google AdSense on Stack Overflow. The theory of AdSense, matching topical ads to the content on the page, is fantastic. The reality of the type of ads we actually saw on Stack Overflow is a terrible disappointment. They were barely relevant, and often quite ugly.
+
+	
+  * Our hand-selected ads, targetted to our audience, perform _50 times_ better than AdSense. We believe that if Google could somehow tag a site with a specific audience topic (such as, say, "programmers") it would do much better.
+
+	
+  * If a site like Stack Overflow, which does almost a million pageviews a day, can't make enough to cover even one person at half time using Google AdSense, how does _anyone_ make a living with AdSense? Does it even work?
+
+	
+  * Joel says the only people making decent money with AdSense are scammers who specifically build websites to do nothing except target high pay-per-click keywords. I am not sure this is what Google had in mind. It is a stunning indictment of "the power of the algorithm".
+
+	
+  * Our ad partner is Alex from [The Daily WTF](http://thedailywtf.com/), and we take [responsible advertising](http://www.codinghorror.com/blog/archives/000893.html) seriously. The right kind of advertising, the relevant, interesting, thoughtful kind is win-win. And _always_ in moderation. We are willing to leave money on the table to have the right kind of ads that we like editorially.
+
+	
+  * Joel has a great discussion about the difference in skillset between a good tester and a good programmer. "There's something about the nature of the work that's different enough that a lot of good developers are bored by testing, and a lot of testers are too detail-oriented to get anything done as a developer." Some programming skills are helpful, but they're different.
+
+	
+  * There is great risk in creating standards in advance -- how do you know if you're solving a problem people care about, or even the right problem in the first place? Also, the disconnect between the theory and practice can be rather painful.
+
+	
+  * Who can we blame for the [codified misspelling of "referer"](http://en.wikipedia.org/wiki/HTTP_referrer)? I would like to have some words with this person.
+
+	
+  * We frequently use Stack Overflow to build Stack Overflow. It's almost a recursive endeavor. If you browse the questions the team asks on [Stack Overflow](http://stackoverflow.com/users?tab=oldest) or [Server Fault](http://serverfault.com/users?tab=oldest), many of them are directly related to development and deployment issues on the sites themselves!
+
+
+Our favorite questions this week are both from [Super User](http://superuser.com), which for now is still in semi-private beta. If you need the password it is "ewok.adventure" without the quotes.
+
+
+
+	
+  * [Upgrading from Windows 7 RC to Windows 7 RTM](http://superuser.com/questions/1298/upgrading-from-windows-7-rc-to-windows-7-rtm). It's perplexing why Microsoft doesn't officially support RC to RTM without a little hack.
+
+	
+  * [Troubleshooting Failed Upgrade to Windows 7](http://superuser.com/questions/16933/troubleshooting-failed-upgrade-to-windows-7). Three out of four of my Vista machines upgraded to Windows 7 fine. That fourth one, though ... I meticulously documented all the steps I took to troubleshoot it, so maybe my failure will be helpful to someone else in time.
+
+
+We answered the following listener questions on this podcast:
+
+	
+  1. **Adam**: "The Fog Creek way of hiring programmers has been well documented. What about hiring testers, and how they fit into your view of how software should be built?"
+
+	
+  2. **Kevin**: "What do you see as the role of standards committees in the development community?"
+
+	
+  3. **George**: "You talked about open sourcing Stack Overflow. Why not just write a book about it?"
+
+
+If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser. We also have a dedicated phone number you can call to leave audio questions at **646-826-3879**.
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W29074) for this episode is available for public editing.
+
+[display_podcast]

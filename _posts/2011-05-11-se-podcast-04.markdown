@@ -1,0 +1,69 @@
+---
+author: alex
+comments: true
+date: 2011-05-11 17:00:41+00:00
+layout: post
+slug: se-podcast-04
+title: 'SE Podcast #04'
+wordpress_id: 8081
+categories:
+- podcasts
+---
+
+This week, the Stack Exchange podcast travels to England, where Jeff and Joel are joined by [Stack Overflow legend Jon Skeet](http://blog.stackoverflow.com/2010/09/what-happens-when-you-reach-200k-reputation/) (and son!) along with [Marc Gravell](http://blog.stackoverflow.com/2010/06/welcome-stack-overflow-valued-associates-00006-and-00007/).
+
+
+
+	
+  * Picking up the discussion from last week's episode: what constitutes a good question? [Our very own "How to Ask" page](http://blog.stackoverflow.com/2010/10/asking-better-questions/) is a start -- and it's a _mandatory_ page on Stack Overflow for all new askers. It's partially based on Jon's own post, [Writing the Perfect Question](http://msmvps.com/blogs/jon_skeet/archive/2010/08/29/writing-the-perfect-question.aspx).
+
+	
+  * Why should you downvote a question? Is there such a thing as a bad question? There most certainly is! We generally tend to consider questions **where the asker put virtually zero effort into asking** worthy of a downvote. Jon has also written a bit about [reasons for voting on questions and answers](http://msmvps.com/blogs/jon_skeet/archive/2009/05/20/reasons-for-voting-on-questions-and-answers.aspx). Two of the most important aspects of a _good_ question, per Jon, are providing evidence that you've researched the problem yourself, and providing as much information as possible: detailed code snippets, error messages, objectives, etc.
+
+	
+  * Some users don't want to answer questions by users with [low accept rates](http://blog.stackoverflow.com/2009/08/new-question-asker-features/). Jon deeply disapproves of the practice of leaving comments nagging users about their accept rate, especially since you can gain far more reputation by writing good answers that are highly upvoted rather than ones that are accepted.
+
+	
+  * Accept rate by itself doesn't capture all of the information about how good (or bad) a member of the community a given user is. Perhaps accept rate could be expanded into a broader numeric metric of how "civic minded" a user is.
+
+	
+  * Only two things keep Jeff up at night: the size of the constantly growing database, and [maintaining quality within the community](http://meta.stackoverflow.com/questions/56817/can-we-prevent-some-of-the-low-quality-questions-from-entering-our-system). We absolutely want a friendly and civil atmosphere, but as the site grows, people have to learn to follow the norms and guidelines of the site themselves without manual hand holding. It doesn't scale. Ultimately, we can't save every user, and some have to be turned away from the site in order to protect the overall quality of the community. You must give a little to get.
+
+	
+  * To maintain quality, we started capping the number of questions that can be asked by a user in a given time period. If users are submitting more than 6 questions a day, or more than 50 questions a month ... are they _really_ putting the appropriate amount of research effort into their questions?
+
+	
+  * Jon wonders if there are algorithmic solutions to detect users asking low quality questions - similar to how GMail reminds you when you reference an attached document in your email, but forget to actually attach something.  Jeff responds that we [already do that for answers](http://meta.stackoverflow.com/questions/72523/heuristics-for-detecting-a-bad-answer), and are beginning to aggressively extend it to questions.
+
+	
+  * Following up on the previous conversations about [improved flagging tools](http://blog.stackoverflow.com/2011/01/improved-flagging/) -- we get hundreds of flags per day, and the vast majority of them are valid. (Comment flags ... not so much). Even though we're buried in them at the moment, we welcome flags from the community because nearly every one goes directly towards a better signal-to-noise quality ratio on your site. So keep 'em coming!
+
+	
+  * Jon wonders whether the quality of answers is increasing or declining.  Jeff and Joel respond that not only are the percentage of answered questions increasing but that answer quality, to their knowledge, has never been disputed. It's fundamentally easier to preserve the answer experience than the question experience because users love to vote on answers: good answers go to the top, bad answers to the bottom.  But the flow of incoming _questions_ -- which make up the entirety of the front page and the top 25% of every question page -- have a hugely disproportionate effect on any Q&A system; that's why we spend so much time focusing on them.
+
+	
+  * The main issues we see with answers isn't quality per se, but that people misuse the answer field to enter thank yous, pleas for help, and other irrelevancies. We do provide the [How to Answer](http://stackoverflow.com/questions/how-to-answer) page which is [automatically shown](http://blog.stackoverflow.com/2011/01/how-to-say-thanks-in-an-answer/) when we detect such answers.
+
+	
+  * The Stack Exchange workflow isn't necessarily the most natural for how most new people ask questions.  Most would start out with a small question and proceed to ask a series of followups while leading down a path and escalating the conversation after being assured the other person is engaged as opposed to having to put all of the information in the first post (almost more like an instant messaging conversation). Jeff points out that there are some sites that work like that, such as [ChaCha](http://www.chacha.com/), however it's a very different model. If you prefer this type of rapid back and forth interaction, don't forget that there's always [chat.stackexchange.com](http://chat.stackexchange.com) and [chat.stackoverflow.com](http://chat.stackoverflow.com) -- our live chat rooms!
+
+	
+  * Is [Stack Overflow Dev Days 2011](http://blog.stackoverflow.com/2011/05/devdays-2011-planning-begins/) the best name for the conference or should we come up with something new?  Is the term "Dev Days" being used by too many conferences?
+
+	
+  * Over the holidays last year, Jon wrote an epic 45 (!) series of blog posts about [reimplementing LINQ to Objects](http://msmvps.com/blogs/jon_skeet/archive/2011/02/23/reimplementing-linq-to-objects-part-45-conclusion-and-list-of-posts.aspx). It's a fantastic and utterly essential resource for anyone interested in the guts of LINQ.
+
+	
+  * Jon's old and trusty Samsung NC10 laptop was recently stolen - so he's now rocking a [Chrome OS](http://www.google.com/chromeos/) laptop on his daily commute (which unfortunately means he only has a browser and no compiler on his daily commute).  It did however lead to him discovering [Compilr](http://compilr.com/) which allows you to compile code on the web - he thinks it would be amazing to integrate that into Stack Overflow so you can check code from inside questions.
+
+	
+  * Jeff reveals that of all the SE sites he [participates on](http://stackexchange.com/users/febfb878-3f6f-4215-9323-46d15d62ac7d?tab=accounts), his most satisfying answer to date was [this post on parenting](http://parenting.stackexchange.com/questions/1244/how-to-deal-with-tantrums-without-spanking/1245#1245). Knowing that his answer helped another person with _his own child_ -- that's especially personal and gratifying.
+
+
+Jon needs your help!  If he is chosen to speak at DevDays 2011, what do you  want to hear him speak about?  Enter your suggestions in the comments to this post. Sadly, Jon was having so much fun with the podcast that he forgot to put dinner in the oven halfway through the taping - hence we are left with this picture of the three sitting on their laptops, waiting for dinner to cook while accompanied by a papier-mâché dragon left over from a recent birthday party for Jon's children.
+
+![](http://blog.stackoverflow.com/wp-content/uploads/photo1.jpg)
+
+See you next week!
+
+[Stack Exchange Podcast - Episode #04 w/ Jon Skeet](http://soundcloud.com/stack-exchange/stack-exchange-podcast-7) by [Stack Exchange](http://soundcloud.com/stack-exchange)

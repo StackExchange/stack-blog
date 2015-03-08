@@ -1,0 +1,102 @@
+---
+author: alex
+comments: true
+date: 2011-06-22 20:27:53+00:00
+layout: post
+slug: se-podcast-09
+title: 'SE Podcast #09'
+wordpress_id: 8533
+categories:
+- podcasts
+---
+
+This week, Jeff and Joel are joined by Greg Wilson, an author, developer, and former university professor, who is also an expert on open source software development.  Once make it through the jokes and get his mic sounding great, we can jump in and explore all kinds of interesting topics, like:
+
+
+
+	
+  * Everyone's favorite Canadian airline? [Porter Airlines](http://www.flyporter.com)!  What makes them so great?  They use FogBugz as their customer service software.
+
+	
+  * We've hired a math intern to help us mine through all of our Stack Exchange data and (hopefully) improve the site.   And to make it better, he's an MIT student and Math.SE moderator.
+
+	
+  * According to a study of Microsoft data, what was the strongest [predictor of bug rates](http://research.microsoft.com/apps/pubs/default.aspx?id=118790) in Windows Vista?  The answer: how far apart the developers are in the org charts. The more separate they are, the more likely there are to be conflicting orders or different mind sets.
+
+	
+  * There have been fairly strong _opinions_ for years on what makes a good programming setup/environment, but people are just now beginning to look at actual data to derive conclusions
+Greg thinks this is LONG overdue, especially given that software development is an engineering backed profession - why weren't our processes based on science?
+Even big companies, who have access to the data, have been avoiding actually using data for their decision making: people treat it as a craft rather than an engineering discipline
+
+	
+  * Greg has written several books on how to develop software better - two of which came out this year and are must reads.
+
+	
+  * [Making Software](http://www.amazon.com/Making-Software-Really-Works-Believe/dp/0596808321/ref=sr_1_1?ie=UTF8&qid=1308690300&sr=8-1): Joel requires that you read this book,  because its the first one to take a scientific approach to making  software as opposed to the subjective and anecdotal way that most have  in the past (eg: everyone who has done one software project and then written a post on HN about how their method is "amazing").
+
+	
+  * Greg wanted to use the results of his studies to bring actual concrete steps back to professionals on how they could improve their process
+
+	
+  * His favorite chapter: while [Test Driven Development](http://programmers.stackexchange.com/questions/678/test-driven-development-convince-me) is very popular right now, a survey of all of the studies that have been done on TDD have shown that the better the study done, the weaker the signal as to its benefit.
+
+	
+  * Another study recently looked at how much effort goes into maintaining the build system: 5 to 30% of all development effort is spent on maintaining the build system.  With the variations being huge even when working on similar projects.  Clearly, there's a huge difference in the efficiency of some developers.
+
+	
+  * Measuring programmer "productivity": As Joel points out, any metric that  you come up with as a method for measuring programmer productivity can  be gamed some how.  He even made money as a consultant in the past  showing companies why they shouldn't hire consulting companies to  improve "productivity" since programmers would instantly game any system (which is how consulting companies appeared to be successful).  Ultimately, [it's pretty hard to actually measure](http://programmers.stackexchange.com/questions/26596/metric-by-which-to-hold-developers-accountable).
+
+	
+  * Greg points out that the irony is that the single most correlated measure of productivity is simply lines of code written.  Joel counters with that only holds true, so long as the developers don't know they are being measured based on that (since its so easy to game).
+
+	
+  * His second book is [The Architecture of Open Source Applications](http://www.aosabook.org/): its entirely CC licensed so you can read it online for free.  if you do buy a hard copy though, all the proceeds go to [Amnesty International](http://www.amnesty.org/).
+
+	
+  * Greg decided to publish it for free online after seeing how quickly [Beautiful Code](http://www.amazon.com/Beautiful-Code-Leading-Programmers-Practice/dp/0596510047) was put onto torrent sites.
+
+	
+  * His key thesis behind it is that we don't teach people how to read code (only how to write it).  His example: you wouldn't hire an architect who had never looked at other designs before.
+
+	
+  * What's really important isn't the internals of the code, but rather the architecture - especially when it comes to understand what you're trying to achieve.
+
+	
+  * The best parts about the book are where the authors stop talking about what's inside the code and start talking about why those things are there.
+
+	
+  * Deloitte performed a study called "[A Random Search for Excellence](http://www.deloitte.com/view/en_US/us/Insights/Browse-by-Content-Type/research/persistence-project/b589835011011210VgnVCM100000ba42f00aRCRD.htm)" (based on a book by Tom Peters called "[In Search of Excellence](http://www.amazon.com/Search-Excellence-Lessons-Americas-Companies/dp/0446385077)").  They tried to explain the data that Peters used by assuming that all of the companies were on a random walk and found that yes, he didn't actually prove anything.
+
+	
+  * Joel is reading Henry Petroski's [new book](http://www.amazon.com/Essential-Engineer-Science-Problems-Vintage/dp/0307473503/ref=ntt_at_ep_dpt_2) on the difference between science and engineering.
+
+	
+  * TO-DO: Greg needs more data for his upcoming work.  So take your favorite piece of open source software (something you find interesting) and take it apart and tell us how it all fits together.
+
+	
+  * Joel's post on [building communities with software](http://www.joelonsoftware.com/articles/BuildingCommunitieswithSo.html)
+
+	
+  * Jeff's take: If you want to get better, work with programmers who are better than you.  Period.  And since its so important to pick your work family well, [consider coming to work at Stack Exchange](http://stackexchange.com/about/hiring)!
+
+	
+  * Make sure to register for [Stack Overflow DevDays](http://devdays.stackoverflow.com/) 2011!  Use the code "PODCAST" for a $100 discount in any city.
+
+	
+    * We'll also be having a one day hackathon on December 13th in Washington DC - come join the entire Stack Exchange dev team in hacking away on your favorite open source project!
+
+
+
+
+	
+  * We've launched a few new sites including [Astronomy](http://astronomy.stackexchange.com/) and [Philosophy](http://philosophy.stackexchange.com/)!  Plus, Travel is now in private beta and Personal Productivity is starting soon!
+
+	
+  * We're going to start a weekly newsletter highlighting the best questions on the sites.  We're targeting this based on some recent data we've found that a lot of our users don't return frequently after their initial visits and activity.
+
+	
+  * Because of how much we love our [universal inbox](http://blog.stackoverflow.com/2010/09/new-global-inbox/),  we're working on an feature that would email the things that you missed from your inbox.
+
+
+Thanks for joining us again this week - join us next Tuesday @ 4pm when our guest is Steve Karantza (aka Shirlock Homes on [DIY.StackExchange](http://diy.stackexchange.com/users/386/shirlock-homes)).  We'll be live at [livestream.com/stackexchange](http://www.livestream.com/stackexchange) - see you then!
+[Stack Exchange Podcast - Episode #09 w/ Greg Wilson](http://soundcloud.com/stack-exchange/stack-exchange-podcast-10) by [Stack Exchange](http://soundcloud.com/stack-exchange)

@@ -1,0 +1,115 @@
+---
+author: admin
+comments: true
+date: 2009-05-14 05:37:20+00:00
+layout: post
+slug: podcast-53
+title: 'Podcast #53'
+wordpress_id: 1247
+categories:
+- podcasts
+---
+
+This is the 53rd episode of the StackOverflow podcast where Joel and Jeff sit down with [Wil Shipley](http://www.wilshipley.com/blog/) of [Delicious Monster](http://delicious-monster.com/) to discuss the shifting sands of Apple and Microsoft APIs, the value of software development conferences, intuition versus empiricism for developers, and "parrot programming".
+
+
+
+
+
+
+  * Like all the coolest developers, Wil [wrote a web browser](http://www.oreillynet.com/pub/a/mac/2001/05/11/w_talk.html). And he's not shy about mentioning it!
+
+
+  * Wil and Joel reminisce about [NeXT computers](http://en.wikipedia.org/wiki/NeXT), Steve Jobs' gig after he was unceremoniously ousted from Apple by John Sculley. Wil wrote a lot of [Objective C](http://en.wikipedia.org/wiki/Objective-C) for NeXT before it was popularized on the Mac.  
+
+
+
+  * We complain about the fact that Microsoft seems to release a new framework every other year that seems to obsolete the previous framework, as famously documented in Joel's article [How Microsoft Lost the API War](http://www.joelonsoftware.com/articles/APIWar.html).  
+
+
+
+  * Joel announces [Stack Overflow Developer Days](http://www.joelonsoftware.com/items/2009/05/12.html), in the platform agnostic spirit of the site. Five cities, a great set of speakers from many different disciplines, one day, $99. And yes, we're trying to get Wil Shipley to speak at the San Francisco leg.
+
+
+  * Wil has some fantastic advice for software entrepreneurs -- witness his presentation [How to Succeed Writing Mac Software](http://wilshipley.com/blog/WWDC_Student_Talk.pdf) (pdf). It motivated at least one developer to enter the priesthood.
+
+
+  * Some thoughts on the utility of conferences for software developers. You should probably try to go to one conference per year, either because you're interested in the speakers, or you're interested in networking with other programmers. Beyond that, the benefits are unclear.
+
+
+  * Wil notes that WWDC is a unique opportunity to get a lot of your detailed Mac programming questions answered by the people who wrote the APIs. Remember, one of the biggest reason to attend these conference is to hang out in the hallways with your fellow developers!
+
+
+  * I don't think the legendary Apple secrecy is a good strategy for a developer platform. Witness the absurdity of the [iPhone developer NDA](http://arstechnica.com/apple/news/2008/07/iphone-nda-doing-more-harm-than-good.ars).
+
+
+  * On the other hand, all those developers who learned about WinFS at Microsoft conferences from 2005 to 2007 must be a little cheesed that the feature never shipped. So it is possible to talk about stuff too early.
+
+
+  * Wil Shipley is also agnostic about unit testing: [Unit Testing is Teh Suck, Urr](http://wilshipley.com/blog/2005/09/unit-testing-is-teh-suck-urr.html). Isn't using programs to test programs a case of "who watches the watchmen"? Also, is every bug ultimately [worth fixing](http://www.codinghorror.com/blog/archives/000420.html)?
+
+
+  * Is excessive reliance on unit testing a case of Empiricists versus Intuitionists, as dramatized in the book [The Intuitionist](http://www.amazon.com/dp/0385493002/?tag=codinghorror-20)? As you get more years of programming experience under your belt, you could argue that you have a (slightly) better "spider sense" of what the problem areas may possibly be in your code. Ideally you should use both empiricism and intuition, of course. Nobody programs using the force. Well, except for Knuth.  
+
+
+
+  * Even a programmer as experienced as Wil occasionally runs afoul of the [First Rule of Programming: It's Always Your Fault](http://www.codinghorror.com/blog/archives/001079.html). His anecdote involves writing an email to a VP at Apple, though. Humility is often the best approach; "I think I'm doing something wrong here, can you help me figure this out?"
+
+
+  * Joel says no question is too simple for Stack Overflow, and we discourage people from responding with RTFM or "too trivial to even ask". These questions may be simple, but think about each question in terms of future programmers who might encounter this question; is it relevant enough to the world to help them, and not just the one guy or gal with that one ultra-narrow question? If so, then it's worth asking.  
+
+
+
+  * Joel calls it page faulting in knowledge. Wil calls it "parrot programming": newbie programmers who don't really understand what they're doing, but occasionally get a search result cracker, so that particular programming behavior is rewarded and reinforced. This is why we encourage neophyte programmers to [buy a few key programming books](http://www.codinghorror.com/blog/archives/001108.html), so they can underpin their giant heap of randomly page faulted knowledge with deeper principles and concepts.  
+
+
+
+
+
+
+
+We answered the following listener questions on this podcast:
+
+
+
+
+
+
+  1. **Kris**: "What are your thoughts on the value of attending conferences?"
+
+
+  2. **Clay**: "As you become a more experienced programmer, do you use more intuition as a part of your decision making?"
+
+
+
+
+Our favorite Stack Overflow qustions this week are:
+
+
+
+
+
+
+  * [Objective-C: what does @private mean?](http://stackoverflow.com/questions/844658/objective-c-what-does-private-mean) Is this question too simple to be asked?  
+
+
+
+
+
+
+If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser. We also have a dedicated phone number you can call to leave audio questions at **646-826-3879**.
+
+
+
+
+
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W29050) for this episode is available for public editing.
+
+
+
+
+
+
+[display_podcast]
+
