@@ -3,6 +3,7 @@ author: alex
 comments: true
 date: 2011-12-09 14:58:41+00:00
 layout: post
+hero: http://blog.stackoverflow.com/2011/12/the-stack-big-board/big-board-high/
 slug: the-stack-big-board
 title: The Stack Big Board (with Video!)
 wordpress_id: 10366

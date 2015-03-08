@@ -3,6 +3,7 @@ author: david
 comments: true
 date: 2012-02-15 17:05:24+00:00
 layout: post
+hero: /blog/images/wordpress/developer-at-work-png.png
 slug: so-you-want-to-be-a-developer-part-1
 title: So You Want To Be a Developer (Part 1)
 wordpress_id: 11060

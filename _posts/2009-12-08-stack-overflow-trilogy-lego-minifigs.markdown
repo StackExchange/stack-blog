@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-12-08 18:52:58+00:00
 layout: post
+hero: /blog/images/wordpress/stack-overflow-lego-minfigs-hires.jpg
 slug: stack-overflow-trilogy-lego-minifigs
 title: Stack Overflow Trilogy Lego Minifigs
 wordpress_id: 2260

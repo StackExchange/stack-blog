@@ -3,6 +3,7 @@ author: alison
 comments: true
 date: 2011-08-10 18:55:52+00:00
 layout: post
+hero: http://www.flickr.com/photos/pepez/4054502960/in/pool-1256992@N21/
 slug: documenting-devdays-2011-3-%e2%80%93-more-speakers
 title: 'Documenting DevDays 2011: #3 – More Speakers!'
 wordpress_id: 9279

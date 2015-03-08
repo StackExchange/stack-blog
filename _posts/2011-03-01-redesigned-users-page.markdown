@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2011-03-01 23:02:59+00:00
 layout: post
+hero: /blog/images/wordpress/new-user-page.png
 slug: redesigned-users-page
 title: Redesigned Users Page
 wordpress_id: 7369

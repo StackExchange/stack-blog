@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-07-02 07:30:34+00:00
 layout: post
+hero: http://www.pollsb.com/polls/p2131264-logo_works_best_superuser_com#results
 slug: logo-contest-winner-for-superusercom
 title: Logo Contest Winner for superuser.com
 wordpress_id: 1567

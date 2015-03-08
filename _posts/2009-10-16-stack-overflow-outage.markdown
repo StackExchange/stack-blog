@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-10-16 06:33:24+00:00
 layout: post
+hero: http://twitpic.com/lqu5u
 slug: stack-overflow-outage
 title: Stack Overflow Outage
 wordpress_id: 2067

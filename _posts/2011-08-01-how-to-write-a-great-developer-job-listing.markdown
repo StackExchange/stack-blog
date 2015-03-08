@@ -3,6 +3,7 @@ author: korneel
 comments: true
 date: 2011-08-01 15:16:42+00:00
 layout: post
+hero: http://careers.stackoverflow.com
 slug: how-to-write-a-great-developer-job-listing
 title: How to Write a Great Developer Job Listing
 wordpress_id: 9104

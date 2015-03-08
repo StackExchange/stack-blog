@@ -3,6 +3,7 @@ author: rebecca
 comments: true
 date: 2011-06-23 18:17:02+00:00
 layout: post
+hero: http://blogoverflow.com
 slug: blog-overflow
 title: Blog Overflow
 wordpress_id: 8578

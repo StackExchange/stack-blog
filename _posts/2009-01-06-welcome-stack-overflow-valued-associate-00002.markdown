@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-01-06 01:55:11+00:00
 layout: post
+hero: /blog/images/wordpress/welcome-jarrod-dixon-stackoverflow-employee-002.jpg
 slug: welcome-stack-overflow-valued-associate-00002
 title: 'Welcome Stack Overflow Valued Associate #00002'
 wordpress_id: 313

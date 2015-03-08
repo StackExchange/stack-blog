@@ -3,6 +3,7 @@ author: rcartaino
 comments: true
 date: 2012-03-06 20:58:28+00:00
 layout: post
+hero: /blog/images/wordpress/sethemebeforeafter3.png
 slug: the-new-stack-exchange-beta-theme-2
 title: The New Stack Exchange Beta Theme
 wordpress_id: 11317

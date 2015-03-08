@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2011-03-24 03:36:13+00:00
 layout: post
+hero: /blog/images/wordpress/redesigned-tags-page.png
 slug: redesigned-tags-page
 title: Redesigned Tags Page
 wordpress_id: 7500

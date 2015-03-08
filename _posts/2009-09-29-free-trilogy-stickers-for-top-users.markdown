@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-09-29 06:59:10+00:00
 layout: post
+hero: /blog/images/wordpress/stickers-near-loose.jpg
 slug: free-trilogy-stickers-for-top-users
 title: Free Trilogy Stickers for Top Users
 wordpress_id: 1979

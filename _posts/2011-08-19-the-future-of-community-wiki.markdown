@@ -3,6 +3,7 @@ author: chris
 comments: true
 date: 2011-08-19 21:05:48+00:00
 layout: post
+hero: /blog/images/wordpress/community-wiki-checkbox.png
 slug: the-future-of-community-wiki
 title: The Future of Community Wiki
 wordpress_id: 9312

@@ -3,6 +3,7 @@ author: abbytmiller
 comments: true
 date: 2014-07-16 19:00:44+00:00
 layout: post
+hero: http://blog.stackoverflow.com/2014/07/podcast-60-are-we-that-predictable/podcast-og/
 slug: podcast-60-are-we-that-predictable
 title: 'Podcast #60: Are We That Predictable?'
 wordpress_id: 14732

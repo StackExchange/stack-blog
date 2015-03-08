@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-06-25 16:54:00+00:00
 layout: post
+hero: /blog/images/wordpress/sam-saffron-blog.jpg
 slug: welcome-stack-overflow-valued-associate-00008
 title: 'Welcome Stack Overflow Valued Associate #00008'
 wordpress_id: 3843

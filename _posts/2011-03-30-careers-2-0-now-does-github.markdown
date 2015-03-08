@@ -3,6 +3,7 @@ author: matt
 comments: true
 date: 2011-03-30 14:39:00+00:00
 layout: post
+hero: https://twitter.com/#!/jeresig/status/33968704983138304
 slug: careers-2-0-now-does-github
 title: Careers 2.0 now does GitHub
 wordpress_id: 7583

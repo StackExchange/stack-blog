@@ -3,6 +3,7 @@ author: alison
 comments: true
 date: 2011-08-30 22:36:18+00:00
 layout: post
+hero: http://blog.stackoverflow.com/2011/08/welcome-valued-associate-demis-bellot/img_5223/
 slug: welcome-valued-associate-demis-bellot
 title: Welcome Valued Associate Demis Bellot
 wordpress_id: 9667

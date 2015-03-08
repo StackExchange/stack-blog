@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-07-06 13:30:00+00:00
 layout: post
+hero: /blog/images/wordpress/stack-overflow-captcha-reportedly-geekiest.jpg
 slug: are-you-a-human-being
 title: Are you a human being?
 wordpress_id: 1599

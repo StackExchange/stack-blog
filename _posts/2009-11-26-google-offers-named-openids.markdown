@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-11-26 06:09:21+00:00
 layout: post
+hero: /blog/images/wordpress/so-openid-google-1.png
 slug: google-offers-named-openids
 title: Google Offers Named OpenIDs
 wordpress_id: 2197

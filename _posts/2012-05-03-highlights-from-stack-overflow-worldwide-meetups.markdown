@@ -3,6 +3,7 @@ author: laura
 comments: true
 date: 2012-05-03 15:40:23+00:00
 layout: post
+hero: http://www.flickr.com/photos/77777646@N06/6982707524/
 slug: highlights-from-stack-overflow-worldwide-meetups
 title: Highlights from Stack Overflow Worldwide Meetups
 wordpress_id: 11631

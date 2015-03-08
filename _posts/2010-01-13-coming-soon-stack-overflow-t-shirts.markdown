@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-01-13 01:37:32+00:00
 layout: post
+hero: http://meta.stackoverflow.com/questions/18382/help-design-our-stack-overflow-t-shirts/18398#18398
 slug: coming-soon-stack-overflow-t-shirts
 title: 'Coming Soon: Stack Overflow T-Shirts'
 wordpress_id: 2477

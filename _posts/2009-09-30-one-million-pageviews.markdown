@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-09-30 21:59:45+00:00
 layout: post
+hero: http://www.youtube.com/watch?v=cKKHSAE1gIs#t=0m13s
 slug: one-million-pageviews
 title: One Million Pageviews
 wordpress_id: 2002

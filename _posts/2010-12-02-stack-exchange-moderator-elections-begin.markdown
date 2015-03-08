@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-12-02 10:44:09+00:00
 layout: post
+hero: http://www.life.com/image/95883094
 slug: stack-exchange-moderator-elections-begin
 title: Stack Exchange Moderator Elections Begin
 wordpress_id: 6225

@@ -3,6 +3,7 @@ author: rcartaino
 comments: true
 date: 2011-02-25 16:03:45+00:00
 layout: post
+hero: /blog/images/wordpress/Dori-Smith.jpg
 slug: welcome-valued-associate-dori-smith
 title: Welcome Valued Associate Dori Smith
 wordpress_id: 7319

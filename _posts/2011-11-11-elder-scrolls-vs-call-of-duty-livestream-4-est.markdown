@@ -3,6 +3,7 @@ author: david
 comments: true
 date: 2011-11-11 16:00:54+00:00
 layout: post
+hero: /blog/images/wordpress/SkyrimVsMW3.jpg
 slug: elder-scrolls-vs-call-of-duty-livestream-4-est
 title: Elder Scrolls vs. Call of Duty - Livestream @ 4 EST
 wordpress_id: 10185

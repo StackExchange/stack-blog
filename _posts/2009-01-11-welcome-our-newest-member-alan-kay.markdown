@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-01-11 00:32:32+00:00
 layout: post
+hero: /blog/images/wordpress/stackoverflow-badges-alan-kay.png
 slug: welcome-our-newest-member-alan-kay
 title: 'Welcome Our Newest Member: Alan Kay'
 wordpress_id: 369

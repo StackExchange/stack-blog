@@ -3,6 +3,7 @@ author: jhanlon
 comments: true
 date: 2013-06-25 16:45:45+00:00
 layout: post
+hero: /blog/images/wordpress/game-of-thrones-recap-jon-snow-ygritte-600x337-2.jpg
 slug: the-war-of-the-closes
 title: 'The War of the Closes '
 wordpress_id: 13438

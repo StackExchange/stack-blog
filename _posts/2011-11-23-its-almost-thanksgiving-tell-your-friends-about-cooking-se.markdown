@@ -3,6 +3,7 @@ author: lauren
 comments: true
 date: 2011-11-23 20:02:23+00:00
 layout: post
+hero: http://chaos.blogoverflow.com/files/2011/11/turkey1.jpg
 published: false
 slug: its-almost-thanksgiving-tell-your-friends-about-cooking-se
 title: It's almost Thanksgiving! (Tell your friends about Cooking.SE)

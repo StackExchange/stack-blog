@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-09-04 06:03:21+00:00
 layout: post
+hero: http://stackexchange.com
 slug: customizing-stackexchange-com
 title: Customizing stackexchange.com
 wordpress_id: 4982

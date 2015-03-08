@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-07-31 09:46:56+00:00
 layout: post
+hero: /blog/images/wordpress/burned-server.jpg
 slug: happy-sysadmin-appreciation-day
 title: Happy SysAdmin Appreciation Day!
 wordpress_id: 1766

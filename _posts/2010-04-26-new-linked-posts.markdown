@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-04-26 05:45:44+00:00
 layout: post
+hero: /blog/images/wordpress/superuser-linked-related-1.png
 slug: new-linked-posts
 title: New Linked Posts
 wordpress_id: 2982

@@ -3,6 +3,7 @@ author: rcartaino
 comments: true
 date: 2010-06-27 20:08:26+00:00
 layout: post
+hero: http://area51.stackexchange.com
 slug: area-51-trusting-the-community
 title: 'Area 51: Trusting the Community'
 wordpress_id: 3866

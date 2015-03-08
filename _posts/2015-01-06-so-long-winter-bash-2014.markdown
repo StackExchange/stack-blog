@@ -3,6 +3,7 @@ author: jericson
 comments: true
 date: 2015-01-06 16:51:25+00:00
 layout: post
+hero: http://programmers.stackexchange.com/users/40980/michaelt
 slug: so-long-winter-bash-2014
 title: So long Winter Bash 2014
 wordpress_id: 15097

@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2011-02-18 23:12:43+00:00
 layout: post
+hero: http://stackapps.com/?tab=scripts
 slug: stack-apps-and-scripts
 title: Stack Apps and Scripts
 wordpress_id: 7244

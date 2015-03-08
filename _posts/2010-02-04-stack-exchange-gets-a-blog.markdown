@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-02-04 07:31:47+00:00
 layout: post
+hero: http://stackexchange.com/
 slug: stack-exchange-gets-a-blog
 title: Stack Exchange Gets a Blog
 wordpress_id: 2694

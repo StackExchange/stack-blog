@@ -3,6 +3,7 @@ author: laura
 comments: true
 date: 2012-04-24 06:13:14+00:00
 layout: post
+hero: http://blog.stackoverflow.com/2012/03/stack-overflow-meetup-everywhere-april-28-2012/
 slug: tips-for-planners-of-meetups
 title: Tips for Planners of 350+ Stack Overflow Worldwide Meetups!
 wordpress_id: 11594

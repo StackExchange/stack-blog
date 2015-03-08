@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2011-02-10 20:16:55+00:00
 layout: post
+hero: http://gis.stackexchange.com/users/flair/59.png
 slug: community-conference-sponsorships
 title: Community Conference Sponsorships
 wordpress_id: 7166

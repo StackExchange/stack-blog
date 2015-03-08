@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2011-02-02 10:26:33+00:00
 layout: post
+hero: /blog/images/wordpress/mod-contact-templates.png
 slug: moderator-messages
 title: Moderator Messages
 wordpress_id: 7074

@@ -3,6 +3,7 @@ author: rcartaino
 comments: true
 date: 2010-10-21 03:20:15+00:00
 layout: post
+hero: http://area51.stackexchange.com/proposals/1425/geographic-information-systems
 slug: when-will-my-site-graduate
 title: When Will My Site Graduate?
 wordpress_id: 5744

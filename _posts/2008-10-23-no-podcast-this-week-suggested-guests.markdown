@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2008-10-23 13:41:35+00:00
 layout: post
+hero: http://www.jonathancoulton.com/2006/04/14/thing-a-week-29-code-monkey/
 slug: no-podcast-this-week-suggested-guests
 title: No Podcast This Week -- Suggested Guests?
 wordpress_id: 138

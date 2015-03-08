@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-01-06 00:11:22+00:00
 layout: post
+hero: /blog/images/wordpress/stack-overflow-revision-dates-by-hour.png
 slug: the-best-time-to-ask-a-stack-overflow-question
 title: The Best Time to Ask a Stack Overflow Question?
 wordpress_id: 303

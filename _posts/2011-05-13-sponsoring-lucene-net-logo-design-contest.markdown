@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2011-05-13 12:21:13+00:00
 layout: post
+hero: https://99designs.com/logo-design/contests/help-lucene-net-logo-77574
 slug: sponsoring-lucene-net-logo-design-contest
 title: Sponsoring Lucene.Net Logo Design Contest
 wordpress_id: 8131

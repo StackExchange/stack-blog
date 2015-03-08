@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-06-28 08:26:03+00:00
 layout: post
+hero: http://www.kropserkel.com/fightclub.htm
 slug: cmon-get-meta
 title: C'Mon Get Meta!
 wordpress_id: 1540

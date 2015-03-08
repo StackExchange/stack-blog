@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2008-12-27 05:39:46+00:00
 layout: post
+hero: /blog/images/wordpress/uservoice-top-users-by-activity1.png
 slug: new-uservoice-moderator
 title: New UserVoice Moderators
 wordpress_id: 193

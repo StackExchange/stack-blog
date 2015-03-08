@@ -3,6 +3,7 @@ author: jhumphries
 comments: true
 date: 2013-09-25 21:19:51+00:00
 layout: post
+hero: /blog/images/wordpress/Ericson-Jon.png
 slug: summer-hiring-happened-so-fast
 title: Summer Hiring, Happened So Fast
 wordpress_id: 14123

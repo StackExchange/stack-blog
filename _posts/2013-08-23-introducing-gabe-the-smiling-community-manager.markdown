@@ -3,6 +3,7 @@ author: shog
 comments: true
 date: 2013-08-23 20:59:58+00:00
 layout: post
+hero: http://stackoverflow.com/users/9835/gabe
 slug: introducing-gabe-the-smiling-community-manager
 title: Introducing Gabe, The Smiling Community Manager
 wordpress_id: 13958

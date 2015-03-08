@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2011-01-24 07:59:25+00:00
 layout: post
+hero: http://se.awio.com/election.html
 slug: stack-exchange-2011-elections-begin
 title: Stack Exchange 2011 Elections Begin
 wordpress_id: 6954

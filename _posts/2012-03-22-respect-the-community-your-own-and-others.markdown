@@ -3,6 +3,7 @@ author: shog
 comments: true
 date: 2012-03-22 19:15:57+00:00
 layout: post
+hero: http://serverfault.com/
 slug: respect-the-community-your-own-and-others
 title: Respect the community - your own, and others’
 wordpress_id: 11446

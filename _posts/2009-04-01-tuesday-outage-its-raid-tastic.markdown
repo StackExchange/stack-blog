@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-04-01 01:43:32+00:00
 layout: post
+hero: /blog/images/wordpress/serveraid-8k-error-memory-retention-failure.jpg
 slug: tuesday-outage-its-raid-tastic
 title: 'Tuesday Outage: It''s RAID-tastic!'
 wordpress_id: 925

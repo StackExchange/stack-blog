@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-02-20 00:51:03+00:00
 layout: post
+hero: http://www.amazon.com/dp/B001AXCJVE/?tag=codinghorror-20
 slug: our-backup-strategy-inexpensive-nas
 title: Our Backup Strategy - Inexpensive NAS
 wordpress_id: 697

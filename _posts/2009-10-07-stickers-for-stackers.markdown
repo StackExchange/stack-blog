@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-10-07 03:01:20+00:00
 layout: post
+hero: /blog/images/wordpress/stack-overflow-stickers-mailed-stuff-large.jpg
 slug: stickers-for-stackers
 title: Stickers for Stackers
 wordpress_id: 2015

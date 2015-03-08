@@ -3,6 +3,7 @@ author: alison
 comments: true
 date: 2012-02-10 21:13:29+00:00
 layout: post
+hero: http://blog.stackoverflow.com/2012/02/survey-results/salary-by-company-size/
 slug: survey-results
 title: 2011 Stack Overflow User Survey Results
 wordpress_id: 11011

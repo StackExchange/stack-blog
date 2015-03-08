@@ -3,6 +3,7 @@ author: laura
 comments: false
 date: 2011-11-10 20:48:26+00:00
 layout: post
+hero: http://i.imgur.com/Et9Fi.jpg
 published: false
 slug: '12609314795'
 title: What do a virtual berry tasting event and a game launch have in common?

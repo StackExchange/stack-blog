@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-10-07 19:57:50+00:00
 layout: post
+hero: /blog/images/wordpress/8-bit-congratulations-treasure-island.png
 slug: membership-has-its-privileges
 title: Membership Has Its Privileges
 wordpress_id: 5447

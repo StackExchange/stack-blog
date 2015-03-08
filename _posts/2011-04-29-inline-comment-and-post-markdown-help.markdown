@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2011-04-29 08:22:33+00:00
 layout: post
+hero: /blog/images/wordpress/comments-inline-help.png
 slug: inline-comment-and-post-markdown-help
 title: Inline Comment and Post Markdown Help
 wordpress_id: 7965

@@ -3,6 +3,7 @@ author: lauren
 comments: true
 date: 2012-09-26 16:57:47+00:00
 layout: post
+hero: http://apptivate.ms
 slug: apptivate-ms-a-windows-8-app-development-contest
 title: 'Apptivate.ms: A Windows 8 App Development Contest'
 wordpress_id: 12274

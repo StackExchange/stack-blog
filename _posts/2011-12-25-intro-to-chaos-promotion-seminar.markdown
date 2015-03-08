@@ -3,6 +3,7 @@ author: lauren
 comments: true
 date: 2011-12-25 15:57:59+00:00
 layout: post
+hero: /blog/images/wordpress/lightsaber-1024x373.jpg
 slug: intro-to-chaos-promotion-seminar
 title: 'Intro to CHAOS Promotion Seminar '
 wordpress_id: 10407

@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-07-26 14:30:29+00:00
 layout: post
+hero: /blog/images/wordpress/so-trilogy-logos.png
 slug: why-cant-you-have-just-one-site
 title: Why Can't You Have Just One Site?
 wordpress_id: 1698

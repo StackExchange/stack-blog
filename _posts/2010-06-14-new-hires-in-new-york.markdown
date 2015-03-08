@@ -3,6 +3,7 @@ author: spolsky
 comments: true
 date: 2010-06-14 18:21:02+00:00
 layout: post
+hero: /blog/images/wordpress/bio-david-fullerton.jpg
 slug: new-hires-in-new-york
 title: New Hires in New York
 wordpress_id: 3694

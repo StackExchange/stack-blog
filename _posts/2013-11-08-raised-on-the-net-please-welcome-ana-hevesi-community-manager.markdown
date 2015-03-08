@@ -3,6 +3,7 @@ author: shog
 comments: true
 date: 2013-11-08 20:16:32+00:00
 layout: post
+hero: http://scifi.stackexchange.com/users/19253/ana-hevesi
 slug: raised-on-the-net-please-welcome-ana-hevesi-community-manager
 title: 'Raised on The ꞌNet: please welcome Ana Hevesi, Community Manager'
 wordpress_id: 14192

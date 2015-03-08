@@ -3,6 +3,7 @@ author: kevinmontrose
 comments: true
 date: 2012-10-09 20:04:25+00:00
 layout: post
+hero: http://xkcd.com/688/
 slug: stack-overflow-data-visualization-contest
 title: Stack Overflow Data Visualization Contest
 wordpress_id: 12355

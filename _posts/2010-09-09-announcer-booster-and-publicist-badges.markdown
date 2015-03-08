@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-09-09 08:36:51+00:00
 layout: post
+hero: /blog/images/wordpress/announcer-badge.png
 slug: announcer-booster-and-publicist-badges
 title: Announcer, Booster, and Publicist Badges
 wordpress_id: 5036

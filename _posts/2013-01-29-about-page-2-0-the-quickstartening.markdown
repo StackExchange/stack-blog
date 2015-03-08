@@ -3,6 +3,7 @@ author: jhanlon
 comments: true
 date: 2013-01-29 22:04:42+00:00
 layout: post
+hero: /blog/images/wordpress/2013-01-28_20-36-00.jpeg
 slug: about-page-2-0-the-quickstartening
 title: 'About Page 2.0: The QuickStartening'
 wordpress_id: 12972

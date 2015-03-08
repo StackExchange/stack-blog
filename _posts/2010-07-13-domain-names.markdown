@@ -3,6 +3,7 @@ author: spolsky
 comments: true
 date: 2010-07-13 01:52:31+00:00
 layout: post
+hero: http://ecx.images-amazon.com/images/I/51HRVJ5X09L._SL160_.jpg
 slug: domain-names
 title: Domain Names
 wordpress_id: 4161

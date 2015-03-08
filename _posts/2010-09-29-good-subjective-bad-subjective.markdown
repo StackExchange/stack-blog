@@ -3,6 +3,7 @@ author: rcartaino
 comments: true
 date: 2010-09-29 09:58:38+00:00
 layout: post
+hero: http://xkcd.com/435/
 slug: good-subjective-bad-subjective
 title: Good Subjective, Bad Subjective
 wordpress_id: 5236

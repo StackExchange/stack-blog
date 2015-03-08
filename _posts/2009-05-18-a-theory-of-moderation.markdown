@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-05-18 06:59:58+00:00
 layout: post
+hero: /blog/images/wordpress/stackexchange-flag-post.png
 slug: a-theory-of-moderation
 title: A Theory of Moderation
 wordpress_id: 1297

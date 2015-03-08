@@ -3,6 +3,7 @@ author: jin
 comments: true
 date: 2011-09-27 15:22:50+00:00
 layout: post
+hero: /blog/images/wordpress/seven-samurai-300x225.jpg
 slug: welcome-valued-associate-sean-gallagher
 title: Welcome Valued Associate Sean Gallagher
 wordpress_id: 9927

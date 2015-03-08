@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-04-29 12:44:09+00:00
 layout: post
+hero: /blog/images/wordpress/angry_unicorn.png
 slug: do-trilogy-sites-need-a-third-place
 title: Do Trilogy Sites Need a "Third Place"?
 wordpress_id: 3012

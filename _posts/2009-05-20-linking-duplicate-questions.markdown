@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-05-20 12:01:38+00:00
 layout: post
+hero: /blog/images/wordpress/question-close-votes-shown.png
 slug: linking-duplicate-questions
 title: Linking Duplicate Questions
 wordpress_id: 1316

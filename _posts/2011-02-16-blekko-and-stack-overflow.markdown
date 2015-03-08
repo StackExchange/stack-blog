@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2011-02-16 17:20:12+00:00
 layout: post
+hero: http://blekko.com/
 slug: blekko-and-stack-overflow
 title: Blekko and Stack Overflow
 wordpress_id: 7222

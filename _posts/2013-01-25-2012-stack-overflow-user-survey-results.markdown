@@ -3,6 +3,7 @@ author: bethanymarz
 comments: true
 date: 2013-01-25 15:00:40+00:00
 layout: post
+hero: http://blog.stackoverflow.com/2013/01/2012-stack-overflow-user-survey-results/survey-final-3/
 slug: 2012-stack-overflow-user-survey-results
 title: 2012 Stack Overflow User Survey Results
 wordpress_id: 12948

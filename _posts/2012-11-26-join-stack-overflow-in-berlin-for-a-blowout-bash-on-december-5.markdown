@@ -3,6 +3,7 @@ author: bethanymarz
 comments: true
 date: 2012-11-26 16:33:07+00:00
 layout: post
+hero: http://careers.stackoverflow.com/launch
 slug: join-stack-overflow-in-berlin-for-a-blowout-bash-on-december-5
 title: Join Stack Overflow in Berlin for a blowout bash on December 5!
 wordpress_id: 12521

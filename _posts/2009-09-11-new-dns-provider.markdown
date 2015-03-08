@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-09-11 23:34:55+00:00
 layout: post
+hero: http://dynamicnetworkservices.com/
 slug: new-dns-provider
 title: New DNS Provider
 wordpress_id: 1954

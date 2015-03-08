@@ -3,6 +3,7 @@ author: alison
 comments: true
 date: 2010-12-21 16:34:09+00:00
 layout: post
+hero: https://www.surveymonkey.com/s/StackOverflowSurvey
 slug: stack-overflow-annual-survey
 title: Stack Overflow Annual Survey
 wordpress_id: 6433

@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-08-07 06:38:27+00:00
 layout: post
+hero: /blog/images/wordpress/villagers-with-pitchforks.jpg
 slug: the-death-of-meta-tags
 title: The Death of Meta Tags
 wordpress_id: 4436

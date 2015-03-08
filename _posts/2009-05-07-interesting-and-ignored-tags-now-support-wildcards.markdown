@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-05-07 12:05:42+00:00
 layout: post
+hero: /blog/images/wordpress/stackoverflow-ignored-interesting-wildcards.png
 slug: interesting-and-ignored-tags-now-support-wildcards
 title: Interesting and Ignored Tags Now Support Wildcards
 wordpress_id: 1225

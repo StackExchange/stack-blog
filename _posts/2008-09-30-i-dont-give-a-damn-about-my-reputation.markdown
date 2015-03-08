@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2008-09-30 06:18:22+00:00
 layout: post
+hero: /blog/images/wordpress/reputation-graph.png
 slug: i-dont-give-a-damn-about-my-reputation
 title: I Don't Give a Damn About My Reputation
 wordpress_id: 104

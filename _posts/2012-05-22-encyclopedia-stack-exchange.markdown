@@ -3,6 +3,7 @@ author: spolsky
 comments: true
 date: 2012-05-22 06:40:54+00:00
 layout: post
+hero: /blog/images/wordpress/VennDiagramSmall.png
 slug: encyclopedia-stack-exchange
 title: Encyclopedia Stack Exchange
 wordpress_id: 11760
