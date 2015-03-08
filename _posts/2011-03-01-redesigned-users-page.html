@@ -1,0 +1,46 @@
+---
+layout: post
+title: Redesigned Users Page
+date: 2011-03-01 15:02:59.000000000 -05:00
+categories:
+- community
+- design
+- stackexchange
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>After 2.5 years of being almost unchanged, we decided it was <b>high time the Users page got a redesign</b>.</p>
+<p>The old user page was fine, in a late 2008 sort of way, but it ultimately became a bit monotonous -- every time you viewed it, you'd see more or less the same list of top users. At least, on a mature site you would. And we don't think anyone was using those oldest, newest, and name tabs at all.</p>
+<p>The new user page is much more ... <i>dynamic</i>. And hopefully more useful and interesting as a destination.</p>
+<p><img src="assets/new-user-page.png" alt="" title="new-user-page" width="600" height="327" /></p>
+<p>I opened <a href="http://meta.stackoverflow.com/questions/80690/redesigning-the-users-page">a post on meta asking for design feedback</a> and we incorporated a lot of that feedback into the revised Users directory page:</p>
+<ul>
+<li>We default to showing the users who <b>gained the most reputation in the current week</b>.
+</li>
+<li>You can switch to viewing month, quarter, year, or all time. All Time is the same as the old default users page view.
+</li>
+<li>We list the specific tags each user gained reputation for in that time frame.
+</li>
+<li>We show the location of users, if they have populated their location field -- we have a <a href="http://blog.stackoverflow.com/2010/12/stack-overflow-2010-analytics/">surprisingly diverse worldwide audience</a>.
+</li>
+<li>Searches are "match anywhere" again, but the minimum match is now 3 characters. Also, you can only match users with more than 1 reputation on Stack Overflow due to the size of the user table.
+</li>
+</ul>
+<p>This is partially inspired by the still-awesome <a href="http://stackexchange.com/leagues">Stack Exchange reputation leagues</a>, and it is intended to complement them. Mostly we wanted to <b>highlight and showcase the efforts of <i>any</i> active users</b>, not just the all-time top users.</p>
+<p>We also added a link to the leagues on your individual user page -- a dynamic link that indicates <b>your current percentile ranking relative to your peers</b> within the current week, month, quarter, or year.</p>
+<p><img src="assets/rep-percentiles-user-page.png" alt="" title="rep-percentiles-user-page" width="200" height="106" /></p>
+<p>Clicking through on this link will permalink you to your <i>best</i> current Stack Exchange reputation league rank.</p>
+<p>Hopefully you'll agree, as we do, that this redesign makes the users page a lot more fun and useful than it was before. We have a few more tabs we want to add to the Users page, but haven't quite gotten to yet. So check it out, and feel free to <a href="http://meta.stackoverflow.com/questions/80690/redesigning-the-users-page">propose new tabs</a> or provide further feedback on meta.</p>

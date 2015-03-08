@@ -1,0 +1,42 @@
+---
+layout: post
+title: More Voting Anomalies
+date: 2009-03-21 04:00:09.000000000 -04:00
+categories:
+- community
+- design
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>
+In December we began <a href="http://blog.stackoverflow.com/2008/12/vote-fraud-and-you/">tracking and removing anomalous voting patterns</a>. This happens automatically as part of a daily script, and it's worked well to date, nullifying the most egregious upvoting and downvoting anomalies.</p>
+<p>
+I've been getting a few reports of further voting issues via the email link provided at the bottom of every Stack Overflow page. We take any reports of exploits or problems on Stack Overflow very seriously, and they're all investigated. In particular, <b>we will not tolerate gaming our vote system</b>.</p>
+<p>
+<img src="assets/examining-vote-chad.jpg" alt="examining-vote-chad" title="examining-vote-chad" class="alignnone size-full wp-image-898" /></p>
+<p>
+Based on additional analysis of the voting data and user data, we've refined our detection of voting anomalies even further. I have to be coy (again) about exactly how we do this because I don't want users optimizing around the various checks we do. But, in a nutshell:</p>
+<ol>
+<li><b>We can automatically detect <a href="http://en.wikipedia.org/wiki/Sockpuppet_(Internet)">sockpuppet accounts</a> now</b>. Sockpuppets used for the purpose of upvoting or downvoting will be deleted, and their votes -- cancelled.
+</li>
+<li><b>We now perform a more detailed statistical analysis on voting patterns</b>. Any voting patterns that are too far outside the statistical norm will be nullified.
+</li>
+</ol>
+<p>
+If you see a reputation drop today, it's likely because our new, improved daily vote anomaly check found something that should be removed. And if you own a sockpuppet account, you may find it no longer exists. That said, we believe in discouraging <i>behaviors</i> rather than the user. Nobody will be banned or penalized. Just refrain from engaging in these behaviors unless you want them undone every day, like clockwork.</p>
+<p>
+The bottom line is this: <b>it will always be easier to earn reputation legitimately -- by asking good questions and providing great answers -- than by gaming the system</b>.</p>
+<p /></p></p></p>

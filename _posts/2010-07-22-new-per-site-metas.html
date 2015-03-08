@@ -1,0 +1,95 @@
+---
+layout: post
+title: New Per-Site Metas
+date: 2010-07-22 13:44:12.000000000 -04:00
+categories:
+- meta
+- serverfault.com
+- stackexchange
+- superuser.com
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '27'
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>
+If you've been following our new Stack Exchange 2.0 private and public betas, you may have noticed that <b>every new website launches with its own dedicated meta site</b>.</p>
+<p><p><a href="http://area51.stackexchange.com/proposals/1288/food-and-cooking"><img src="assets/beta-child-meta-logos.png" alt="" title="beta-child-meta-logos" width="364" height="114" /></a></p>
+<p>
+If we've learned anything (and I personally had to learn this lesson by having <a href="http://blog.stackoverflow.com/2009/06/cmon-get-meta/">it beaten into me</a>), it is that <b>meta-discussion is an absolutely integral part of any healthy community</b>. So much so, that I question whether any community <i>without</i> a meta site can actually survive in the wild. It's certainly not a mistake we're ever going to repeat again.</p>
+<p>
+We tried to make these new per-site metas fairly discoverable with both a site wide notification banner of the form ...</p>
+<blockquote><p>
+got a question about the site itself? meta.topic is the place to talk about things like what questions are appropriate, what tags we should use, etc.
+</p></blockquote>
+<p>
+... and a prominently featured link to switch between the site and the meta site at the top left of both.</p>
+<p>
+<img src="assets/meta-switch-link.png" alt="" title="meta-switch-link" width="271" height="210" /></p>
+<p>
+(<font color="red">update</font>: we've changed the layout a bit. The links to meta and parent are still at the top, but shifted over to the right as plain text links -- the <a href="http://blog.stackoverflow.com/2010/08/network-central-stackexchange-com/">stackexchange navigation</a> takes its place on the left. And the link to meta is now in the sidebar like so, with the top weekly meta questions -- or meta questions with the special moderator-only "featured" tag.)</p>
+<p>
+<img src="assets/meta-links.png" alt="" title="meta-links" width="227" height="246" /></p>
+<p>
+Click that "meta" link at the top left to go to meta (shocking, I know), and click "parent" in the same location to get back to the parent site.</p>
+<p>
+However, you should know that these per-site (or "child") metas behave significantly differently than what you might be used to on meta.stackoverflow.com, if you participated there. Based on our existing experience with Meta Stack Overflow, we tried to improve and simplify in a few ways:</p>
+<ol>
+<li><b>You never have to log in to the per-site meta.</b> It grabs the cookie from the parent site and already "knows" who you are when you visit.
+</li>
+<li><b>Identity is always inherited from the parent site.</b> If you have an account on the parent site, you automatically have an account on the per-site meta. Your profile can only be edited on the parent site. And of course, moderators on the parent are moderators on the per-site meta.
+</li>
+<li><b>Reputation is always inherited from the parent site.</b>  You cannot gain or lose reputation* on the per-site meta. This also means that some reputation related functions like the rep graph and bounties are not enabled on the per-site meta.
+</li>
+<li><b>You must have a minimum of 5 rep on the parent site to participate on the per-site meta.</b> In general, the more reputation you have on the parent site, the more stake you should have in its governance. And the converse is also true: if you have <i>no</i> reputation on the parent site (as in 1 rep, the minumum), you haven't even come of age to "vote" in governance issues, so to speak. We also expect that most established users will have the +100 network account association bonus, so they won't be affected.
+</li>
+<li><b>Voting up or down does not affect reputation</b>. You are now free to vote purely based on post content, without worrying about how your vote might positively or negatively affect someone's reputation score.
+</li>
+</ol>
+<p>
+<sub>* however, there is one exception: extreme misbehavior on the meta site will affect your parent site reputation. And not in, shall we say, the "good" way.</sub></p>
+<p>
+In fact, we're so happy with the way these per-site metas are working on the Stack Exchange 2.0 sites, we're <b>extending the per-site metas to Super User and Server Fault as of right now!</b><br />
+<a href="http://meta.superuser.com"><br />
+<h2>meta.superuser.com</h2>
+<p></a></p>
+<p>
+<a href="http://meta.superuser.com"><img src="assets/meta-su-crop1.png" alt="" title="meta-su-crop" width="554" height="306" /></a></p>
+<p>
+<a href="http://meta.serverfault.com"><br />
+<h2>meta.serverfault.com</h2>
+<p></a></p>
+<p>
+<a href="http://meta.serverfault.com"><img src="assets/meta-sf-crop1.png" alt="" title="meta-sf-crop" width="555" height="305" /></a></p>
+<p>
+For now we are leaving meta.stackoverflow.com grandfathered in, as-is, with no changes; it's still a standalone community with a standalone reputation system. We think Stack Overflow is large enough to justify this, and it just so happens that Stack Overflow is also the name of the company, too. <b>Meta Stack Overflow will serve as the "National Capital" where we process feedback not just for Stack Overflow but for the core engine itself</b> -- while the smaller meta sites are akin to regional or state capitals. So, in a nutshell:</p>
+<ul>
+<li>meta.stackoverflow.com is Washington, DC
+</li>
+<li>meta.serverfault.com is Columbus, OH
+</li>
+<li>meta.superuser.com is Sacramento, CA
+</li>
+<li>meta.cooking.stackexchange.com is Atlanta, GA
+</li>
+<li>meta.gadgets.stackexchange.com is Denver, CO
+</li>
+<li>meta.webmasters.stackexchange.com is Boston, MA
+</li>
+</ul>
+<p>
+... and so forth.</p>
+<p>
+But it is the exception. The per-site meta is a standard fixture of our network now, because <a href="http://blog.stackoverflow.com/2010/07/the-7-essential-meta-questions-of-every-beta/">it's how you, as a community, will own the design and governance of your site</a>.</p>
+<p /></p></p></p></p></p></p></p></p></p></p>

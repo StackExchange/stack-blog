@@ -1,0 +1,80 @@
+---
+layout: post
+title: Our Amazon Advertising Experiment
+date: 2009-11-05 08:00:43.000000000 -05:00
+categories:
+- design
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>
+Do you remember when I discussed the crushing disappointment that is Google AdSense in <a href="http://blog.stackoverflow.com/2009/08/podcast-64/">Podcast 64</a>? If Stack Overflow, a site that does <a href="http://blog.stackoverflow.com/2009/09/one-million-pageviews/">a million pageviews a day</a>, can't make enough from AdSense to pay even one person half time -- and let me tell you, that's being overly generous based on the actual income it generated -- how does <i>anyone</i> make a decent living with AdSense? Seriously, how? Exclusively talking about Mesothomelia and Asbestos, or what?</p>
+<p>
+As a result, we dropped AdSense like a hot (or, rather, a particularly cold) potato. Instead, we turned to our pal Alex of <a href="http://thedailywtf.com">The Daily WTF</a>, and hooked into his curated ad network for software developers. We are firm believers in <b>responsible</b> (read: no flash, no animation) and <b>restrained</b> (read: limited to 3 ad slots, reduced ads for >200 rep) advertising. This has worked quite well for us so far. How well? On the order of <b>fifty to a hundred times better than AdSense!</b> I am not exaggerating. Those are actual numbers.</p>
+<p>
+Even though Alex does a great job, we always have a lot of left over unsold ad space. And as the site has grown over the last 6 months, this gap has widened. So then the question becomes -- if AdSense doesn't work for us (and boy, does it <i>ever</i> not work for us) -- then what can you do with that <b>remnant ad space</b>? I hate the word monetization with a passion, but surely something useful could be done here?</p>
+<p>
+That's when <a href="http://portmanwills.com/">Portman Wills</a> approached us. He's not only an old school 4 digit <a href="http://stackoverflow.com/users/1690/portman">Stack Overflow user</a> and fellow programmer -- he also has extensive experience in his previous gigs with advertising code.</p>
+<p>
+Portman is currently busy building cool stuff like <a href="http://shuffletime.com/c/codinghorror">shuffletime</a> (not to mention his hilarious parody sites <a href="http://woofertime.com/">woofer</a> and <a href="http://unluckytime.com/">feeling unlucky</a>). But he was enthused about the opportunity to help out Stack Overflow -- and maybe, just maybe, generate some ads that were actually (gasp!) <i>useful and relevant</i> to his fellow programmers at the same time. </p>
+<p>
+Thus, Portman generously offered to build a custom ad-serving site for us, which we gladly hosted at rads.stackoverflow.com.</p>
+<blockquote><p>
+Rads has three main components:</p>
+<ul>
+<li>A spider which uses the Amazon Product Advertising API to crawl the Amazon product catalog.
+</li>
+<li>A website which renders an advertisement based on Stack Overflow tags.
+</li>
+<li>Some analytics to determine which ads, books, and tags are most effective.
+</li>
+</ul>
+<p>
+The spider was fed the top 5000 tags on Stack Overflow. For each tag, it preformed a keyword search on the “Computers & Internet” node, returning the top 10 books with five-star reviews, sorted by number of reviews.</p>
+</blockquote>
+<p>
+You can read the full skinny in <a href="http://blog.stackoverflow.com/summary-of-amazon-remnant-ad-experiment/">Portman's summary</a>. We had <b>high hopes of building something that connected great programmers with quality programming books on Amazon.</b> The ads looked nice, too:</p>
+<table>
+<tr>
+<td>
+<img src="assets/so-amazon-ads.png" alt="so-amazon-ads" title="so-amazon-ads" />
+</td>
+<td>
+<img src="assets/so-amazon-ads-2.png" alt="so-amazon-ads-2" title="so-amazon-ads-2" />
+</td>
+</tr>
+</table>
+<p>
+Excellent plan, right? Smart. Clever, even!</p>
+<p>
+Well, it was a <b>complete and utter failure</b>.</p>
+<p>
+Despite our purported cleverness, it didn't work. Not even a <i>little</i>. The Amazon ad experiment was a total failure by any metric I can think of. Clicks, revenue, goodwill, newton-pounds, cuils, you name it. It was literally a waste of everyone's time. Even flipping burgers would have paid more.</p>
+<p>
+But this failure was not for lack of trying. If a guy as skilled as Portman -- who not only has a deep background in custom advertising, but is also a programmer capable of writing a solution tailored to our specific audience -- can't make this work, <b>I had to regretfully conclude that <i>nobody could make it work</i></b>. It's just not possible.</p>
+<p>
+So we scrapped the whole thing, and <a href="http://meta.stackoverflow.com/questions/23899/proposal-free-vote-based-advertising-for-open-source-projects">we're going in a different direction</a>.  More news on that soon.</p>
+<p>
+But in the meantime, since we had our fancy-shmancy Amazon Affiliates account set up, we might as well put it to good use. Even way back in the original Stack Overflow beta, people were proposing that we <a href="http://meta.stackoverflow.com/questions/10948/would-it-be-a-problem-if-all-amazon-links-were-converted-to-affiliate-links">convert any Amazon book links to Stack Overflow amazon affiliate book links</a>. I was hesitant to do this at the time, but given our failure, I was licking my wounds. I was willing to give it a try. Particularly since the community seemed totally OK with the concept.</p>
+<p>
+So, onward to plan B: we now <a href="http://meta.stackoverflow.com/questions/26964/auto-inserting-stack-overflow-affiliate-into-all-amazon-book-links">auto-insert Stack Overflow affiliate info into any amazon book links</a> posted on Stack Overflow. Oh yeah, and here's the kicker. These silly little rewritten text links work <b>200%-300% better than our custom amazon book ads!</b></p>
+<p>
+Go figure.</p>
+<p>
+All I can say is, advertising is hard, let's go shopping! And when it's not hard, <a href="http://www.techcrunch.com/2009/11/01/how-to-spam-facebook-like-a-pro-an-insiders-confession/">it's borderline scammy</a>, which is something we just don't do at Stack Overflow.</p>
+<p>
+At any rate, I'm glad Portman is here to <s>take the blame</s>help. Apparently we can add advertising to the long, long list of things that we suck at. But we do plan to <a href="http://www.codinghorror.com/blog/archives/000530.html">suck less every year!</a></p>
+<p /></p></p></p></p></p></p></p></p></p>

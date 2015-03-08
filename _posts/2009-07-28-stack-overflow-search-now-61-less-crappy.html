@@ -1,0 +1,90 @@
+---
+layout: post
+title: Stack Overflow Search - Now 61% Less Crappy
+date: 2009-07-28 23:59:11.000000000 -04:00
+categories:
+- design
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>
+Remember when <a href="http://blog.stackoverflow.com/2008/10/stack-overflow-search-now-51-less-crappy/">We Made Search 51% Less Crappy?</a></p>
+<p>
+Well, we rolled up our sleeves and increased search quality a whole ten percent to 61%. How?</p>
+<ol>
+<li>Search now <b><i>heavily</i> weights title</b> in the results, since people seemed to really like that approach. This is currently used on the /ask page, which does a title-exclusive search when you tab away (onblur) the title field.
+<p>&nbsp;</p>
+</li>
+<li>Any individual search terms which map directly to the top 40 tags will be <b>auto-converted to tag searches</b>. So if you enter
+<p>
+c++ entities</p>
+<p>
+ it will convert to</p>
+<p>
+[c++] entities</p>
+<p>
+automagically on your behalf.</p>
+</li>
+</ol>
+<p>
+This alone is a rather substantial improvement. One specific query,  cited as an example of how bad the old search was, is to search for "what is a Monad":</p>
+<p>
+<a href="http://stackoverflow.com/search?q=what+is+a+monad">http://stackoverflow.com/search?q=what+is+a+monad</a></p>
+<p>
+As you can see, pretty solid results now.</p>
+<p>
+(And don't forget to avail yourself of the <b>Votes sort tab</b> on the search results page. It defaults to relevance but sometimes votes is a better default sort IMO. There were users who almost literally fought me to the death on the choice of this default search results sort order in the Stack Overflow beta, so that's how it is.)</p>
+<p>
+I've also started implementing some <font color="red">BETA</font> advanced search operators, <a href="http://meta.stackoverflow.com/questions/1114/additional-search-features-syntax">as requested on meta</a>. </p>
+<p>
+The current advanced search operators are:</p>
+<table id="advanced-search" width="600" cellpadding="5">
+<tr>
+<td>posts from a specific user</td>
+<td><font color="red">user:1234</font> apples oranges</td>
+</tr>
+<tr>
+<td>questions with a minimum number of votes</td>
+<td><font color="red">votes:15</font> apples oranges</td>
+</tr>
+<tr>
+<td>questions that have an accepted answer</td>
+<td><font color="red">hasaccepted:1</font> apples oranges</td>
+</tr>
+<tr>
+<td>questions that have no answers</td>
+<td><font color="red">answers:0</font> apples oranges</td>
+</tr>
+<tr>
+<td>questions that have been closed</td>
+<td><font color="red">closed:1</font> apples oranges</td>
+</tr>
+<tr>
+<td>questions that are community wiki</td>
+<td><font color="red">wiki:1</font> apples oranges</td>
+</tr>
+</table>
+<p>
+Yes, these are a little buggy at the moment, but they mostly work. And they can be combined with [tags] and search terms of course. </p>
+<p>
+One thing to bear in mind: the advanced search operators will <b>sometimes kick you into a combined questions and answers search result format</b>. So don't be alarmed, when you decide to browse all posts by Jon Skeet voted up 20 or more times, that you see a mixture of questions and answers in your search results!</p>
+<p>
+All of the above is documented on our new search help page:</p>
+<p>
+<a href="http://stackoverflow.com/search">http://stackoverflow.com/search</a></p>
+<p>
+Feel free to file bugs/feedback on this on meta, and <i>please</i> tag them with [advanced-search] if you're talking about a search qualifier with a colon in it.</p>
+<p /></p></p></p></p></p></p></p>

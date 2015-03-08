@@ -1,0 +1,64 @@
+---
+layout: post
+title: WMD Editor Reverse Engineered
+date: 2009-01-09 17:36:19.000000000 -05:00
+categories:
+- community
+- design
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>
+Remember that WMD reverse engineering project we <a href="http://blog.stackoverflow.com/2008/12/reverse-engineering-the-wmd-editor/">reluctantly undertook?</a> Check out the <a href="http://github.com/cky/wmd/network">current state of the Git repository</a>:</p>
+<p>
+<a href="http://github.com/cky/wmd/network" style="border-bottom:none;"><img src="assets/git-wmd-reverse-engineering-timeline1.png" alt="git-wmd-reverse-engineering-timeline" title="git-wmd-reverse-engineering-timeline" border="0" /></a></p>
+<p>
+This is a major milestone -- we've <b>essentially de-obfuscated the WMD code</b>, which was my #1 goal!</p>
+<p>
+A few thanks are in order:</p>
+<ol>
+<li><a href="http://stackoverflow.com/users/13/chris-jester-young">Chris Jester-Young</a> for getting the ball rolling, doing quite a bit of de-obfuscation, and setting up the initial repository.
+</li>
+<li><a href="http://stackoverflow.com/users/26/shawn">Shawn</a> for contributing versions and setting up <a href="http://stackoverflow.com/questions/406132/reverse-engineering-the-wmd-editor">a stack overflow "question" on this topic</a>.
+</li>
+<li><a href="http://stackoverflow.com/users/3161/dana">Dana</a> for doing the lion's share of the de-obfuscation work and getting us to that magical 1.0, completely de-obfuscated milestone.
+</li>
+</ol>
+<p>
+Also, <a href="http://stackoverflow.com/users/2119/can-berk-g252der">cbguder</a>, <a href="http://stackoverflow.com/users/745/dbr">dbr</a>, and <a href="http://stackoverflow.com/users/2603/zacherates">zacherates</a> -- we appreciate you jumping in early as well. Hopefully you'll keep going and help us on the 1.0 stuff!</p>
+<p>
+It turns out Dana is a huge fan of <a href="http://www.fakeplasticrock.com/">fake plastic rock</a>, just like me, so I was happy to reward him for his work with one of my <a href="http://www.fakeplasticrock.com/2008/11/09/guitar-hero-world-tour-guitar-the-best-fake-plastic-axe-ever/">customized</a> Les Paul guitars:</p>
+<p>
+<img src="assets/bloodvoodooguitarjx81.jpg" alt="blood-voodoo-red-metallic-guitar" title="blood-voodoo-red-metallic-guitar" class="alignnone size-full wp-image-353" /></p>
+<p>
+(ok, it's not exactly this one, but it's very similar -- silver metallic instead of red metallic faceplate!)</p>
+<p>
+Now that we've gotten the painful de-obfuscation / un-minification out of the way, it's time to begin improving our WMD editor:</p>
+<ol>
+<li><a href="http://stackoverflow.uservoice.com/pages/general/suggestions/14681-arrow-keys-don-t-work-on-question-answers-pages">Arrow keys don't work in Firefox 3 on questions/answer pages</a>
+</li>
+<li><a href="http://stackoverflow.uservoice.com/pages/general/suggestions/16598-make-ctrl-delete-work-like-a-normal-text-editor">Make ctrl-delete work like a normal text editor</a> (WMD keyboard shortcuts should be configurable and/or disable-able)
+</li>
+<li><a href="http://stackoverflow.uservoice.com/pages/general/suggestions/19254-disabled-characters-in-editor">Several</a> <a href="http://stackoverflow.uservoice.com/pages/general/suggestions/38866-fix-the-backslash-in-the-markdown-editor">Problems</a> with international keyboards -- all related to keyboard shortcuts
+</li>
+<li><a href="http://stackoverflow.uservoice.com/pages/general/suggestions/86059-improve-performance-of-so-on-firefox3-on-windows">General WMD performance concerns</a>. We believe WMD could do with some optimization, particularly for the "idle" case.
+</li>
+<li>I'd like to see us use <a href="http://www.alistapart.com/articles/sprites">CSS image sprites</a> for the toolbar buttons rather than downloading 6-8 individual button graphics in 6-8 HTTP requests.
+</li>
+</ol>
+<p>
+Anyway, if you have JavaScript chops and want to dive in, I <b>encourage you to <a href="http://code.google.com/p/wmd-new/">grab the repository</a></b> and go for it!</p>
+<p /></p></p></p></p></p>

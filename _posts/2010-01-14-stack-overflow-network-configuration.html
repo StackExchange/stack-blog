@@ -1,0 +1,64 @@
+---
+layout: post
+title: Stack Overflow Network Configuration
+date: 2010-01-14 00:47:46.000000000 -05:00
+categories:
+- background
+- server
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>
+I think we've finally arrived at a semi-stable network layout for running Stack Overflow and <a href="http://blog.stackoverflow.com/2009/05/the-stack-overflow-trilogy/">the rest of the trilogy</a>.</p>
+<p>
+Here's a diagram of our current network layout:</p>
+<p>
+<a href="http://blog.stackoverflow.com/wp-content/uploads/stack-overflow-network-diagram.png" style="border-bottom:none"><img src="assets/stack-overflow-network-diagram-small.png" alt="" title="stack-overflow-network-diagram-small" width="600" border="0" /></a></p>
+<p>
+The most recent changes were all in the name of redundancy:</p>
+<ul>
+<li>move to dual <a href="http://haproxy.1wt.eu/">HAProxy</a> routing instances
+</li>
+<li>add a third Stack Overflow server to the HAProxy rotation to handle steadily growing site traffic
+</li>
+<li>push our static content (<a href="http://sstatic.net">sstatic.net</a>), which is shared amongst all Trilogy sites, to five different servers
+</li>
+<li>take advantage of our datacenter's ability to deliver dual switched connections to the internet
+</li>
+</ul>
+<p>
+The last part is in reference to <a href="http://blog.stackoverflow.com/2009/10/stack-overflow-outage/">an unfortunate recent switch outage at PEAK</a>, our datacenter provider. It was handled swiftly, but now there is no longer a single point of failure upstream of us at <a href="http://www.peakinternet.com/business/hosting/colocation-dedicated#">PEAK</a> -- we're being served by two different switches on two different internet connections. Kudos to PEAK for not only handling this rapidly at the time, but also more permanently fixing it in a way that makes it less likely to happen <i>next</i> time.</p>
+<p>
+What motivated a lot of this was a little scare we had about a week ago. The single server that hosted our single HAProxy instance and the sstatic.net content experienced some kind of bizarre, one-time, and still-unexplainable (edit: <a href="http://blog.stackoverflow.com/2010/01/six-whys-or-never-trust-your-network-switch/">now explained</a>) networking issue. This sounds minor, and it should have been, but it was a major bummer in actuality because <b>having that <i>one</i> server become unavailable on the network effectively took out every single site we run</b> with the exception of Careers. We sure lost the server lottery on that one.</p>
+<p>
+<a href="http://www.shipmentoffail.com/fails/2008/01/star-wars-fail/" style="border-bottom:none;"><img src="assets/star-wars-fail.jpg" width="600" border="0" /></a></p>
+<p>
+Not good, obviously.</p>
+<p>
+We redoubled our efforts to become more redundant. We recently added a sixth 1U web tier machine so <a href="http://blog.stackoverflow.com/2009/12/stack-overflow-rack-glamour-shots/">our server rack</a> is now completely full. We have <b>way, way more server power than we need</b>. That's 6 very capable web tier boxes and 2 beefy database tier boxes all told. Each ready and willing to dynamically share whatever load we want them to. We just had to figure out how to do it.</p>
+<p>
+We're big fans of <a href="http://haproxy.1wt.eu/">HAProxy</a>, which <a href="http://blog.stackoverflow.com/2008/10/podcast-27/">the guys at Reddit turned us on to</a>. It has been working flawlessly for us in <a href="http://blog.stackoverflow.com/2009/09/load-balancing-stack-overflow/">load balancing Stack Overflow</a> between two -- and now <i>three</i> -- servers. We currently use <b>IP-hash based routing</b> to determine which server visitors to stackoverflow.com end up on. This helps improve local server cache hit ratios, as users "stick" to the same server for as long as they hold the same IP address. (No, we don't use a shared server farm memory cache like Memcached or Velocity quite yet.) While this works, it does lead to some slightly imbalanced loads, particularly when single-IP whales like Google thunder through your neighborhood. We found that going from two to three servers produced a surprisingly large improvement in server load balance, even with our less-than-optimal IP hash routing choice.</p>
+<p>
+HAProxy is a proven solution for us. But we needed some way of using <i>two</i> HAProxies -- on two different servers.</p>
+<p>
+Geoff did some research and came up with <a href="http://www.linux-ha.org/wiki/Heartbeat">Heartbeat</a>, which is a part of <a href="http://www.linux-ha.org/wiki/Main_Page">Linux-HA</a>. This works by "sharing" one IP between two machines (in this case, two Linux virtual machines). It dynamically switches the IP from one server to the other when the heartbeat times out. We now have this set up and it works brilliantly; shut down one of the two VMs and within two <code>ping -t</code> cycles, that IP address is automagically and seamlessly switched to the other VM. There is a very brief interruption of service during this switchover, but it's no more than a few seconds.</p>
+<p>
+We also moved our <a href="http://sstatic.net">sstatic.net</a> shared content from living on a single webserver, to living on five different webservers. Our dual HAProxy instance is also responsible for routing sstatic.net traffic -- as visitors request sstatic.net files, those requests are served in perfect round-robin fashion by whichever of the 5 webservers HAProxy sees as alive at the moment.</p>
+<p>
+Given that these HAProxy instances are super-critical not only to Stack Overflow but every site in the trilogy (because they serve shared static content), <b>we need constant reassurance that they're healthy</b>. We already use <a href="http://www.pingdom.com/">Pingdom</a> as an external monitor and alert service for our existing websites, so we added our HAProxy instances to the mix with an aggressive ping schedule. If something bad happens to either HAProxy instance, we should know about it within a few minutes.</p>
+<p>
+There might have been some momentary interruptions in service while we set this all up, so our apologies for that. But the net result is a more resilient, more reliable Stack Overflow and friends for you!</p>
+<p /></p></p></p></p></p></p></p></p>

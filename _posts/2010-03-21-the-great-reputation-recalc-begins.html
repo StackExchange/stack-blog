@@ -1,0 +1,52 @@
+---
+layout: post
+title: The Great Reputation Recalc Begins
+date: 2010-03-21 15:18:19.000000000 -04:00
+categories:
+- background
+- community
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>
+As previously discussed in <a href="http://blog.stackoverflow.com/2010/03/important-reputation-rule-changes/">Important Reputation Rule Changes</a>, we are now beginning site-wide reputation recalculations on Stack Overflow, Server Fault, and Super User. You may see some changes in your own reputation, along with changes in other users' reputation.</p>
+<p>
+In addition to <b>rebalancing question upvotes as +5 instead of their old value of +10</b>, we also fixed the following minor bugs in the reputation system:</p>
+<ul>
+<li>accepted answers and bounties were only <i>partially</i> immune to the rep cap before depending on the time of day you earned them, but they are <i>fully</i> immune now.
+</li>
+<li>upvotes can now "replace" missing rep lost to downvotes, up to the +200 daily reputation cap.
+</li>
+</ul>
+<p>
+If you have questions about your rep you can run a report detailing exactly how it is calculated; see <a href="http://meta.stackoverflow.com/questions/43004/how-do-i-audit-my-reputation/">How do I audit my reputation?</a></p>
+<p><p>
+Do bear in mind that the reputation score is <i>denormalized</i>, meaning there are external events that happen on the trilogy sites which can affect your reputation, but some of them can't take effect (due to effects of chronology) until your reputation is recalculated from scratch:</p>
+<ul>
+<li>Questions and answers sometimes get deleted; votes on deleted posts do not count toward your reputation.
+</li>
+<li>Users sometimes get deleted. When a user is deleted, all their votes are deleted, too. Some of those votes may have been on your posts.
+</li>
+<li>Questions get migrated from one site to another, which means any votes on that question and all of its answers are effectively deleted from the source site (but will now count toward your rep on the destination site, assuming you have associated accounts between sites).
+</li>
+<li>Posts can automatically change to community wiki mode, which means any new votes added <i>after</i> the community wiki date no longer count towards your reputation score. This doesn't actually cause a problem with chronology of votes, but I am mentioning it here for completeness and to emphasize that votes on community wiki posts don't generate reputation for anyone.
+</li>
+</ul>
+<p>
+While reputation is an important concept on our sites, as documented in the <a href="http://stackoverflow.com/faq">/faq</a>, it isn't meant to be an extremely scientific and to-the-second accurate number. <b>You should always expect a small amount of normal flux and variation around your reputation score, which will be reconciled through periodic recalculations like this one.</b></p>
+<p>
+That said, we believe the rebalancing and bugfixes are necessary changes and will ultimately result in rep being a stronger, more reliable, more practically useful number than it was before.</p>
+<p /></p></p></p></p>

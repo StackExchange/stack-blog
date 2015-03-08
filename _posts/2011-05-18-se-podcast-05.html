@@ -1,0 +1,56 @@
+---
+layout: post
+title: 'SE Podcast #05'
+date: 2011-05-18 13:52:24.000000000 -04:00
+categories:
+- podcasts
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _podPressMedia: 'a:1:{i:0;a:10:{s:3:"URI";s:99:"http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/15494022-stack-exchange-sta.mp3";s:5:"title";s:14:"SE
+    Podcast #05";s:4:"type";s:9:"audio_mp3";s:4:"size";s:8:"59708394";s:8:"duration";s:7:"1:02:11";s:12:"previewImage";s:84:"http://blog.stackoverflow.com/wp-content/plugins/podpress/images/vpreview_center.png";s:10:"dimensionW";s:1:"0";s:10:"dimensionH";s:1:"0";s:3:"rss";s:2:"on";s:4:"atom";s:2:"on";}}'
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
+author:
+  login: alex
+  email: alex@stackexchange.com
+  display_name: Alex Miller
+  first_name: Alex
+  last_name: Miller
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>The podcast is on the road again this week, with Jeff and Joel coming to you live from Jeff's living room in El Cerrito, CA.  They're also joined by Josh Heyer (aka <a href="http://stackoverflow.com/users/811/shog9">Shog9</a>) who calls in from Colorado.  This is actually the second time we've done a podcast from Jeff's house, the first time being <a href="http://blog.stackoverflow.com/2009/04/podcast-51/">Episode #51</a>.</p>
+<ul>
+<li>Server Fault and Super User have recently seen a substantial hit in the amount of traffic coming from Google the last few weeks.  There's a number of possible reasons, but Joel wonders if it has to do with <a href="http://webmasters.stackexchange.com/questions/13920/google-ranking-and-bounce-rate">long clicks vs short clicks</a>.
+<ul>
+<li>Joel's theory is that Google is looking at this ratio as a signal for the quality of a site: high quality sites should have more long clicks (meaning you don't return to Google quickly) and fewer short clicks (where you click a link and then immediately return to the search page).</li>
+<li>We're also wondering if the Google algorithm change is penalizing sysadmin content - since a number of other sites focused on System Administrators / IT Professionals have also seen big drops in traffic from Google.</li>
+<li>Jeff <a href="http://www.codinghorror.com/blog/2011/01/trouble-in-the-house-of-google.html">previously blogged about Google algorithm issues</a> and the fundamental risks of any site relying on a single source for so much of their traffic.</li>
+<li>If you have any data or observations from running your sites, make sure to hop over to our <a href="http://webmasters.stackexchange.com/questions/13920/google-ranking-and-bounce-rate">webmasters.stackexchange question</a> on this topic.</li>
+</ul>
+</li>
+<li>Our guest today is <a href="http://blog.stackoverflow.com/2011/03/welcome-valued-associate-josh-heyer/">Josh Heyer, our new part-time community manager</a>.  Josh was originally on Usenet, then moved to forums and Code Project, and joined Stack Overflow right after it launched; he's been with us from the beginning.</li>
+<li>One of the first things that Josh pushed to change after joining the team was to make it more clear <a href="http://meta.stackoverflow.com/questions/23385/avoid-the-streisand-effect-be-clear-about-the-reason-when-suspending-an-account">why accounts were being suspended</a>.  Someone would get suspended and then complain about it publicly; they had a reason, but other people didn't. This sometimes led to lots of heat and noise on meta, detracting from the quality of the site.  By making the reason for a suspensions public, you remove the gossiping and public discussion.  And if you don't -- you get <a href="http://en.wikipedia.org/wiki/Streisand_effect">the Streisand effect</a>.</li>
+<li>We're now tackling the last of the low hanging fruit in making the site performance better: <a href="http://blog.stackoverflow.com/2011/05/the-speed-of-light-sucks/">serving static content using a CDN</a>.  By utilizing a CDN for lower priority/static content (like logos and other images) we can serve files faster to different areas of the world.
+<ul>
+<li>Make sure to hop over to that blog post and help us (and you!) out by telling us which CDN works best for you.</li>
+<li>We've been using our own <a href="http://blog.stackoverflow.com/2009/08/a-few-speed-improvements/">home-brew CDN-like setup</a> that offloads all of our static content off the main servers (to reduce CPU loads) and onto a side domain.  Unfortunately, these secondary servers were still located in our NY data center, so it did not do anything to reduce ping times to distant locations.</li>
+<li>In our experience, breaking your static content off onto its own server can have a huge performance benefit, even for small or medium sites.</li>
+</ul>
+</li>
+<li>It's amazing how many highly technical people don't think to clear their browser cache when they're having a problem with a website loading.  <i>Always</i> clear your browser cache and try again before contacting a site's support team. Please?</li>
+<li>We <a href="http://blog.stackoverflow.com/2011/05/sponsoring-lucene-net-logo-design-contest/">started a logo contest</a> for <a href="http://www.lucene.net">Lucene.net</a>, the open source project powering our search.  If you want to help out by trying your hand at designing a logo for this project, check out the <a href="https://99designs.com/logo-design/contests/help-lucene-net-logo-77574">99designs contest</a> we created on their behalf.
+<ul>
+<li>Because our search currently focuses on relevance (determined by keyword mentions), we recommend editing good questions to make sure a proper set of keywords appear in them; this makes it easier for others to find these questions in search.</li>
+<li>Remember that search results have several tabs, but always defaults to <i>relevance</i>. Try the votes, active, and other tabs to get a different sort of your search results.</li>
+</ul>
+</li>
+<li>Currently, there's no way for anonymous users to indicate their satisfaction with a page -- should we add something to allow drive-by visitors to contribute? There's <a href="http://blog.stackoverflow.com/2011/02/suggested-edits-and-edit-review/">always anonymous editing</a>, of course, and this is the reason we keep view counters on pages - it's the only way for people who don't ask or answer, and don't have the 15 rep "citizenship" required to vote, to make an impact on the questions they visit.</li>
+<li>How should we handle "missing semi-colon" questions -- where someone posts a chunk of code that isn't working and the only problem is that they had the name of a variable wrong, or forgot a semicolon somewhere? Since these questions will never be of benefit to anyone down the line, there's no real reason to keep them on the site.</li>
+<li>This is also why we modified the language for the Too Localized close reason to read "this question will not be helpful to future visitors".  It's a much clearer explanation of what that close reason is intended for, and we've already seen an uptick in usage.</li>
+</ul>
+<p>There's no podcast next week, but we'll be back the week after, so make sure to join us then!</p>
+<p><object height="81" width="100%"><param name="movie" value="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F15494022" /><param name="allowscriptaccess" value="always" /><embed allowscriptaccess="always" height="81" src="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F15494022" type="application/x-shockwave-flash" width="100%"></embed></object>  <span><a href="http://soundcloud.com/stack-exchange/sta">Stack Exchange Podcast - Episode #05 w/ Josh Heyer</a> by <a href="http://soundcloud.com/stack-exchange">Stack Exchange</a></span> </p>

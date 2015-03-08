@@ -1,0 +1,50 @@
+---
+layout: post
+title: 'Podcast #63'
+date: 2009-07-29 18:29:08.000000000 -04:00
+categories:
+- podcasts
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _podPressMedia: a:1:{i:0;a:10:{s:3:"URI";s:82:"http://itc.conversationsnetwork.org/audio/download/ITC.SO-Episode63-2009.07.28.mp3";s:5:"title";s:10:"Podcast
+    63";s:4:"type";s:9:"audio_mp3";s:4:"size";s:8:"35511296";s:8:"duration";s:8:"01:13:55";s:12:"previewImage";s:85:"http://blog.stackoverflow.com/wp-content/plugins/podpress//images/vpreview_center.png";s:10:"dimensionW";s:3:"320";s:10:"dimensionH";s:3:"240";s:3:"rss";s:2:"on";s:4:"atom";s:2:"on";}}
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:113:"Joel and Jeff discuss
+    the Mythical Man Month problem, keeping communication in check, Windows 7, and
+    web scaling.";s:14:"itunes:summary";s:113:"Joel and Jeff discuss the Mythical
+    Man Month problem, keeping communication in check, Windows 7, and web scaling.";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>In this episode of the podcast, Joel and Jeff discuss the Mythical Man Month problem, keeping communication in check, Windows 7, and web scaling.</p>
+<ul>
+<li>Joel is fielding his largest team ever at Fog Creek -- 9 programmers, 2 testers, and 2 program managers. They only have 10 usable weeks in the summer to build a product with their interns, so they have to parallelize their development.</li>
+<li>Contrary to popular myth, it is possible for a large team to be effective, if you mitigate<a href="http://en.wikipedia.org/wiki/Brooks%27s_law"> the Mythical Man Month problem</a>, which is really only about adding people to a late project and bringing them up to speed.</li>
+<li>How do you deal with an excess of communication (the explosion of paths) on larger teams? First, with program managers. That's what they are there to address, by becoming the conduit for communication. Second, constantly try to reduce the number of meetings and people in meetings.&nbsp;</li>
+<li>Speaking of communication excess, <a href="http://www.codinghorror.com/blog/archives/001191.html">is email = efail</a>? This is also why I believe in <a href="http://www.codinghorror.com/blog/archives/000854.html">maximizing the value of your keystrokes</a>, and <a href="http://www.codinghorror.com/blog/archives/000840.html">the value of public communication</a>. If you must email someone, keep it extremely short, a paragraph at most, with a direct question and call to action that is obvious and clear.</li>
+<li>One thought experiment: what would happen if all your email became Twitter messages? Or, as Joel proposes, is online communication itself a failed paradigm? At the very least, know the limitations of the communication medium you're using, and <a href="http://www.codinghorror.com/blog/archives/001064.html">escalate as necessary</a>.</li>
+<li>Some classes of plugins that can complement a product without competing with it: plugins that make the UI complex or dangerous, plugins that require a subscription fee, plugins that compete with the core business model of the product, and plugins that connect to a different commercial product.</li>
+<li>Products that have a vibrant plugin ecosystem and API are almost by definition successful products. It also creates a sort of weird ambient lock-in around the ecosystem, as in Lotus 1-2-3 macros, or Firefox users who won't switch browsers due to their favorite plugins.</li>
+<li>A brief discussion of Windows 7, which has much more "curb appeal" than Vista. Joel was not a fan of Vista; I was. And Windows 7 is <a href="http://www.codinghorror.com/blog/archives/001290.html">the best Vista service pack ever</a>.</li>
+<li>Stack Overflow almost reached a million pageviews per day last week, and we're consistently doing around 120 requests/sec, or 7200 requests/minute. We're starting to hit peaks of about 80% CPU usage on our single web server, so we may have to add a second webserver to the SO farm soon.</li>
+<li>Speaking of <a href="http://www.ln.go.cn/resin-doc/config/sessions.xtp">sticky sessions</a>, we were surprised to find that there are those rare few users whose IP addresses will change radically from request to request.</li>
+<li>We are a Microsoft stack so we're looking at <a href="http://msdn.microsoft.com/en-us/data/cc655792.aspx">Velocity</a> to share state across multiple webservers. It's a clone of <a href="http://www.danga.com/memcached/">memcached</a>.</li>
+<li>Scaling problems are easy to solve. Just <a href="http://www.codinghorror.com/blog/archives/001198.html">throw money at them</a>, like <a href="http://www.37signals.com/svn/posts/1819-basecamp-now-with-more-vroom">37signals recently did</a>. The "getting people to give a crap about your application" problem <a href="http://teddziuba.com/2008/04/im-going-to-scale-my-foot-up-y.html">does not respond to money in the same way</a>.</li>
+<li>We run a number of <a href="http://www.microsoft.com/DownLoads/details.aspx?FamilyID=890cd06b-abf8-4c25-91b2-f8d975cf8c07&amp;displaylang=en">LogParser</a> queries on our webserver logs to identify statistically anomalous things that are happening on our website -- what sorts of queries do you run on <i>your</i> web logs to show unusual activity? One of the weirder spiders that's hitting us a lot is <a href="http://omgili.com/">Omgili</a>, a sort of forum search tool.</li>
+</ul>
+<p>Our favorite question this week is from Server Fault:</p>
+<ul>
+<li><a href="http://serverfault.com/questions/45516/recommended-logparser-queries-for-iis-monitoring">Recommended LogParser queries for IIS monitoring?</a> This is an example of putting the sort of information out into the world that we'd like to see exist -- as well as documenting and sharing our own experience in hosting what is now a fairly large public website.</li>
+</ul>
+<p>If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to <a href="mailto:podcast@stackoverflow.com">podcast@stackoverflow.com</a>. You can <a href="http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/">record a question</a> using nothing but a telephone and a web browser. We also have a dedicated phone number you can call to leave audio questions at <strong>646-826-3879</strong>.</p>
+<p>
+The <a href="https://stackoverflow.fogbugz.com/default.asp?W29071">transcript wiki</a> for this episode is available for public editing.</p>

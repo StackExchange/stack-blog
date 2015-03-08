@@ -1,0 +1,58 @@
+---
+layout: post
+title: Re-Launching Stack Exchange Data Explorer
+date: 2010-12-13 03:11:36.000000000 -05:00
+categories:
+- cc-wiki-dump
+- community
+- stackexchange
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _wp_old_slug: ''
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>Since we <a href="http://blog.stackoverflow.com/2010/06/introducing-stack-exchange-data-explorer/">launched the Stack Exchange Data Explorer</a> in June, we've been actively maintaining it and making small improvements to it. But there is one <b>big</b> change -- as of today, the site has permanently moved from odata.stackexchange.com to</p>
+<h2><a href="http://data.stackexchange.com/">data.stackexchange.com</a></h2>
+<p><a href="http://data.stackexchange.com/"><img src="assets/data-explorer-screenshot.png" alt="" title="data-explorer-screenshot" width="600" height="366" style="border: 1px silver solid" /></a></p>
+<p>If you're wondering what the heck this thing is, do <a href="http://blog.stackoverflow.com/2010/06/introducing-stack-exchange-data-explorer/">read the introductory blog post</a>, but in summary:</p>
+<blockquote><p>
+Stack Exchange Data Explorer is <b>a web tool for sharing, querying, and analyzing the Creative Commons data from every website in the Stack Exchange network</b>. It's also useful as for learning SQL and sharing SQL queries as a 'reference database'.
+</p></blockquote>
+<p>We are redirecting all old links to the new path, so everything should work as before. Why did we make this change?</p>
+<p>Mostly because we decided to move off the <a href="http://www.microsoft.com/windowsazure/windowsazure/">Windows Azure</a> platform. While Microsoft generously offered us free Azure hosting in exchange for <a href="http://www.odata.org/">odata</a> support and a small "runs on Azure" logo in the footer, it ultimately did not offer the level of control that we needed. I'll let Sam Saffron, the principal developer of SEDE, explain:</p>
+<blockquote>
+<h2>Teething issues</h2>
+<p>When we first started working with Azure, tooling was very rough. Tooling for Visual Studio and .NET 4.0 support only appeared a month after we started development. <a href="http://msdn.microsoft.com/en-us/library/gg443832.aspx">Remote access to Azure instances</a> was only granted a few weeks ago together with the ability to run non-user processes.</p>
+<p>There are still plenty of teething issues left, for example: on the SQL Azure side we can't run cross database queries, add full-text indexes or backup our dbs using the <code>BACKUP</code> command. I am sure these will eventually be worked out. There's also the 30 minute deploy cycle. Found a typo on the website? Correcting it is going to take 30 minutes, minimum.</p>
+<p>Due to many of these teething issues, debugging problems with our Azure instances quickly became a nightmare. I spent days trying to work out why we were having uptime issues, which since have been mostly sorted.</p>
+<p>It is important to note that these issues are by no means specific to Azure; <b>similar teething issues affect other Platform-As-A-Service providers</b> such as <a href="http://aralbalkan.com/1504">Google App Engine</a> and <a href="http://heroku.com/">Heroku</a>. When you are using a PAAS you are giving up a lot of control to the service provider. The service provider chooses which applications you can run and imposes a series of restrictions.</p>
+<h2>The life cycle of a data dump</h2>
+<p>Whenever there is a new data dump, I would log on to my Rackspace instance, download the data dump, decompress it, rename a bunch of folders, run <a href="https://github.com/SamSaffron/So-Slow">my database importer</a>, and wait an hour for it to load. If there were any new sites, I would open up a SQL window and hack that into the DB. This process was time consuming and fairly tricky to automate. It could be automated, but it would require lots of work from our side.</p>
+<p>Now that we migrated to servers we control, the process is almost simple -- all we do is select a bunch of data from export views (containing public data) and insert them into a fresh DB. We are not stuck coordinating work between 4 machines across 3 different geographical locations.</p>
+<h2>Did I mention we are control freaks?</h2>
+<p>At Stack Overflow <a href="http://blog.serverfault.com/">we take pride in our servers</a>. We spend weeks tweaking our hardware and software to ensure we get the best performance and in turn you, the end user, get the most awesome experience.</p>
+<p>It was disorienting moving to a platform where we had no idea what kind of hardware was running our app. Giving up control of basic tools and processes we use to tune our environment was extremely painful.
+</p></blockquote>
+<p>We thank Microsoft for letting us try out Azure; based on our experience, we've given them a bunch of hopefully constructive feedback. In the long run, we think a self-hosted solution will be much simpler for us to maintain, tune and automate. </p>
+<p>There's also few other bits (nibbles?) of data news:</p>
+<ul>
+<li>We <b>won't be producing a data dump for the month of December 2010</b>, but you can definitely expect one just after the new year. We apologize for the delay.
+</li>
+<li>SEDE will continue to be updated monthly as a matter of policy to keep it in sync with the monthly data dumps.
+</li>
+</ul>
+<p>Remember, <a href="http://blog.stackoverflow.com/2010/06/stack-exchange-data-explorer-open-sourced/">SEDE is fully open source</a>, so if you want to help us hack on it, please do!</p>
+<h2><a href="http://code.google.com/p/stack-exchange-data-explorer/">code.google.com/p/stack-exchange-data-explorer</a></h2>
+<p>And as usual, if you have any bugs or feedback for us, leave it in <a href="http://meta.stackoverflow.com/questions/tagged/data-explorer">in the [data-explorer] tag on meta</a>, too.</p>

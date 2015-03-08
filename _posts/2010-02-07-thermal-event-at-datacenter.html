@@ -1,0 +1,61 @@
+---
+layout: post
+title: Thermal Event at Datacenter
+date: 2010-02-07 03:47:36.000000000 -05:00
+categories:
+- server
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>
+Our hosting provider, PEAK, let us know that they had a cooling compressor fail in the facility.</p>
+<p>
+The primary database server was apparently taken offline at 2:53 AM Pacific Time by this thermal event.</p>
+<p>
+The backup database server is still online and has the most recent (12 AM) backups restored to it; we're currently just waiting to hear if db1 is rebootable/alive before bringing db2 online.</p>
+<p>
+db1 came back OK, and we're resuming site service now at 3:57 AM.</p>
+<p>
+Checking the logs, db1 apparently shut down from heat at 2:44 AM:</p>
+<blockquote><p>
+The previous system shutdown at 2:44:21 AM on 2/7/2010 was unexpected.
+</p></blockquote>
+<p>
+I suspect db1 shut down because it's on top of the rack (highest = more heat) and it is the <i>only</i> server using the High Performance power plan -- which operates all CPUs at 100% speed all the time -- instead of the default Balanced power plan which allows the CPUs to reduce speed and consume less power when they are lightly loaded.</p>
+<p>
+We'll be following up with PEAK to figure out why this wasn't handled before temperatures became dangerously high.</p>
+<p>
+Obligatory video link.</p>
+<p>
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/1-mU-YSk32I&hl=en_US&fs=1&" /><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><embed src="http://www.youtube.com/v/1-mU-YSk32I&hl=en_US&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object></p>
+<p>
+Geoff went down to the datacenter, and he confirmed it really was quite hot down there -- doors were open, fans were placed blowing air in, etc.</p>
+<p>
+<font color="red">Update: PEAK official statement</font></p>
+<blockquote><p>
+The PEAK HVAC system consist of two cooling systems which both operate to provide cooling to the pressurized floor of data center. One system is a 5-ton and the second is a 10-ton unit.</p>
+<p>
+At around 2:30am on Sunday morning (2/7) the PEAK Data Center experienced a failure of one of our air conditioning units on the roof. Our monitoring systems notified the PEAK support center when the AIR temperature exceeded   80 degrees F.  At some point we measured temps of 83+ degrees F in the Data Center.</p>
+<p>
+Engineers arrived on-site around 3:00am and deployed portable fans to exhaust warm air.  This brought down the air temperature in the Data Center  to under 80 degrees.</p>
+<p>
+Our HVAC vendor was dispatched and arrived on-site by 4:00am.  The vendor located a failed heat exchanger fan motor in their in-stock inventory and performed an emergency replacement.  By 7:00am the HVAC system was operating with the repaired equipment.  At 7:30 4lbs of coolant was added to the system.  By 9:00am, the temperature in the Data Center returned to normal levels.</p>
+<p>
+PEAK Engineers are looking into why this failure caused a significant rise in the Data Center temperature.  Based on our findings, PEAK will take the necessary actions to ensure a failure of  one systems does not cause a significant change in the Data Center temperature.  We will provide this information once it becomes available.</p>
+</blockquote>
+<p>
+Scary how fast temperatures rose!</p>
+<p /></p></p></p></p></p></p></p>

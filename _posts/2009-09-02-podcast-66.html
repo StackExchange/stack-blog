@@ -1,0 +1,49 @@
+---
+layout: post
+title: 'Podcast #66'
+date: 2009-09-02 22:54:11.000000000 -04:00
+categories:
+- podcasts
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '13'
+  _podPressMedia: a:1:{i:0;a:10:{s:3:"URI";s:82:"http://itc.conversationsnetwork.org/audio/download/ITC.SO-Episode66-2009.09.01.mp3";s:5:"title";s:10:"Podcast
+    66";s:4:"type";s:9:"audio_mp3";s:4:"size";s:8:"33872475";s:8:"duration";s:8:"01:10:30";s:12:"previewImage";s:85:"http://blog.stackoverflow.com/wp-content/plugins/podpress//images/vpreview_center.png";s:10:"dimensionW";s:1:"0";s:10:"dimensionH";s:1:"0";s:3:"rss";s:2:"on";s:4:"atom";s:2:"on";}}
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>In this episode of the Stack Overflow podcast, Joel and Jeff discuss reverse proxies, the pitfalls of self-support communities, and designing for engagement.</p>
+<ul>
+<li>It is my intent to attend the London and Cambridge DevDays, if my passport comes back in time. Speaking of which, is there anything funnier than <a href="http://www.flickr.com/photos/betsyphd/3880688167/">a baby's passport picture</a>?</li>
+<li>We officially disabled the built in ASP.NET Session state, so as to set ourselves up for multiple Stack Overflow servers. Fortunately, we don't need a lot of shared state, but we were using it in a few places. We created a small database table to store the small bits of per-user state that we need.</li>
+<li>I take an inordinate amount of <a href="http://www.codinghorror.com/blog/archives/000057.html">joy in deleting code</a> from our project. Nothing is more satisfying!</li>
+<li>To switch over to multiple servers, we need some kind of load balancer. We chose <a href="http://haproxy.1wt.eu/">HAProxy</a>, but we also had to configure tproxy (transparent proxy) support so that the IP addresses arriving at the web servers are not all the same.</li>
+<li>For now we'll be load balancing using a simple hash of the incoming IP address. Depending on which hash you get, you may end up on a different server, but you'll stay on that server as long as your IP address is stable. This is a fairly crude form of balancing, but should be sufficient.</li>
+<li>It's incredible how aggressive Google's indexing of our site is; it regularly pulls down a gigabyte of compressed text from us per day, and it wants to do even more. One of the primary motivators for adding a second server is to reduce the traffic load enough so that we can "unleash" google via <a href="http://www.google.com/webmasters/tools/">webmaster tools</a>.</li>
+<li>A belated welcome to our newest and third site in the trilogy, <a href="http://superuser.com/">Super User</a> -- it's for any general computer software or hardware questions, but we've already had to disallow videogaming questions.</li>
+<li>How much overlap will there be between our public websites, and the sites launched through the <a href="http://stackexchange.com/">Stack Exchange service</a>? But remember, the software (however great it may be) is the easy part. Building a community is the truly difficult part! To succeed, that's what you should focus on.</li>
+<li>Joel discusses the shifting meaning of "Beta" -- it's been contorted into "the first five years of a product". But there is an art to the classic beta, in terms of releasing in a staggered fashion to fresh testers who haven't seen it yet.</li>
+<li>Google's self-support model is often unsatisfying because it is community driven, yet the community is powerless and has no real stake in developing the product. They're given padded rubber rooms to bounce around in harmlessly. That's not a good way to build community.</li>
+<li>Google needs a lot more evangelists out there interacting with the community and bringing messages back and forth to the mothership. This is something that Microsoft does extraordinarily well, but Google does not seem to "get it".</li>
+<li>A brief discussion of <a href="http://blog.stackoverflow.com/2009/08/new-question-asker-features/">some key changes</a> to (hopefully) increase engagement between question asker and answerers. The goal is for answerers to be able to quickly scan a question and see if they're dealing with someone who cares, or not.</li>
+<li>The default votes answer sort order had a flaw: the sub-order was relevant! We now use random as the sub-order to the votes sort, to minimize any effect of the sub-order. Answers will now appear in random order if they have the same number of votes. Answers should be voted up because they're inherently good answers, <em>not</em> because they happen to accidentally be on top at that particular moment.</li>
+</ul>
+<p>We answered the following listener questions on this podcast:</p>
+<ol>
+<li><strong>Nathan Long</strong>: "Is it valid to discuss iPhone and Blackberry questions on <a href="http://superuser.com/">Super User</a>?" This has been <a href="http://meta.stackoverflow.com/questions/16087/are-iphone-ipod-ipod-touch-questions-computer-related-superuser">discussed on meta</a>.</li>
+<li><strong>Brian Kelly</strong>: "Is there any formal organization for potential candidates to meet employers at DevDays?"</li>
+</ol>
+<p>If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to <a href="mailto:podcast@stackoverflow.com">podcast@stackoverflow.com</a>. You can <a href="http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/">record a question</a> using nothing but a telephone and a web browser. We also have a dedicated phone number you can call to leave audio questions at <strong>646-826-3879</strong>.</p>
+<p>The <a href="https://stackoverflow.fogbugz.com/default.asp?W29078">transcript wiki</a> for this episode is available for public editing.</p>
+<p>[display_podcast]</p>
+<p>&nbsp;</p>

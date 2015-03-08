@@ -1,0 +1,52 @@
+---
+layout: post
+title: 'Podcast #61'
+date: 2009-07-15 17:29:15.000000000 -04:00
+categories:
+- podcasts
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _podPressMedia: a:1:{i:0;a:10:{s:3:"URI";s:82:"http://itc.conversationsnetwork.org/audio/download/ITC.SO-Episode61-2009.07.14.mp3";s:5:"title";s:10:"Podcast
+    61";s:4:"type";s:9:"audio_mp3";s:4:"size";s:8:"33834695";s:8:"duration";s:8:"01:10:25";s:12:"previewImage";s:85:"http://blog.stackoverflow.com/wp-content/plugins/podpress//images/vpreview_center.png";s:10:"dimensionW";s:3:"320";s:10:"dimensionH";s:3:"240";s:3:"rss";s:2:"on";s:4:"atom";s:2:"on";}}
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>In this episode of the podcast, Joel and Jeff sit down with <a href="http://tirania.org/blog/">Miguel de Icaza</a> of the <a href="http://mono-project.com/Main_Page">Mono project</a> to discuss Mono, Silverlight / Moonlight, and the pros and cons of open sourcing your code.</p>
+<ul>
+<li>Miguel is one of the lead developers on the <a href="http://mono-project.com/Main_Page">Mono project</a>, which is an ongoing effort to bring the .NET framework to Linux and other non-Microsoft platforms.</li>
+<li>Miguel characterizes <a href="http://silverlight.net/">Silverlight</a> (known as <a href="http://mono-project.com/Moonlight">Moonlight on Mono</a>) as "the good parts" of <a href="http://en.wikipedia.org/wiki/Windows_Presentation_Foundation">WPF</a>. It's a newer way to build a cross-platform GUI app, an alternative to <a href="http://en.wikipedia.org/wiki/GTK%2B">GTK</a> and <a href="http://en.wikipedia.org/wiki/Windows_Forms">Windows Forms</a>.</li>
+<li>A brief discussion of the implications of cross-platform GUIs, which lack that native flair. Do you have the manpower to maintain three distinct versions of your GUI application -- one for Mac, one for Windows, and one for *nixes? Do only programmers notice the subtle differences? </li>
+<li><a href="http://particletree.com/features/visualizing-fittss-law/">Revisiting Fitt's Law</a>, and applications and operating systems that don't make good use of it. Certain areas of the screen, mostly the top and bottom and to a lesser extent the sides, are infinitely large, and should be used prominently in the UI to leverage Fitt's Law.</li>
+<li>Mono runs on the iPhone, <a href="http://unity3d.com/unity/features/iphone-publishing.html">through the Unity game engine</a>! This was challenging for the Mono team to develop, because interpreters and runtimes are <a href="http://mcdevzone.com/2008/03/07/iphone-sdk-restrictions/">explicitly disallowed in terms of the iPhone SDK</a>. Mono had to be converted from a JIT to a static compiler.</li>
+<li>Per Miguel, programmers wanted Mono because Objective-C is fairly primitive in memory management and requires a lot of repetition and boilerplate. With Mono "this is all taken care for you", as a higher level language.</li>
+<li>Due to <a href="http://www.fsf.org/news/dont-depend-on-mono">concerns within the free software community</a>, Microsoft made a legally binding promise that <a href="http://arstechnica.com/microsoft/news/2009/07/microsoft-issues-patent-promise-dispels-mono-concerns.ars">it will not enforce patents against Mono</a> -- for the core framework.</li>
+<li>It turns out that the <a href="http://www.pcworld.com/article/168383/Microsoft_vs_Google_Office_Web_Will_Kill_Google_Docs.html">Microsoft Office 2010 web component</a>, which is free for consumers, is 100% JavaScript + HTML. If Silverlight wasn't required to pull off Office-in-the-browser by Microsoft itself, is Silverlight really necessary in the bigger scheme of things?</li>
+<li>Miguel divides the world into PutPixel Programmers and printf programmers. Which type are you?</li>
+<li>Some big game projects that use Mono for scripting: <a href="http://secondlife.blogs.com/babbage/2005/08/second_life_in_.html">Second Life</a>, and <a href="http://www.thesims3.com/">The Sims 3</a>. Also, a very large social networking site I can't mention by name was recently ported to Mono.</li>
+<li>One of my long term 5 year goals is for the Stack Overflow discussion engine to become a go-to choice for public internet discussion, on par with <a href="http://www.phpbb.com/">phpBB</a> and its kin.</li>
+<li>Miguel offers his insight into the controversial discussion of <a href="http://meta.stackoverflow.com/questions/3086/will-open-sourcing-stack-overflow-destroy-our-business-model">whether open sourcing Stack Overflow would destroy our business model</a>.</li>
+<li>We actually have contributed one open-source component of Stack Overflow back to the community -- <a href="http://code.google.com/p/wmd-new/">the Javascript WMD editor</a>. Also, we <a href="http://blog.stackoverflow.com/category/cc-wiki-dump/">provide all of our question and answer content back to the community</a> licensed as cc-wiki.</li>
+<li>Our <a href="http://stackexchange.com/">Stack Exchange</a> hosted solution will offer free versions for non-profit organizations, and we're also looking at provided an ad-subsidized version of it as well.</li>
+<li><a href="http://stackoverflow.com/users/16929/miguel-de-icaza">Miguel de Icaza is also a Stack Overflow user</a> -- with 22 answers and 3,484 reputation.&nbsp;</li>
+<li>Check out the <a href="http://mono-project.com/MoMA">Mono Migration Analyzer</a>, which will tell you how easily you can (or can't) port your .NET project to Mono and run it on other platforms. Please do, because feedback from this tool is used to prioritize future Mono development!</li>
+<li>Miguel committed to speaking at the Boston <a href="http://stackoverflow.carsonified.com/">Stack Overflow DevDays</a> and presenting some of the same Mono goodness he talked about here.</li>
+<li>In other Stack Overflow news, the <a href="http://blog.stackoverflow.com/2009/07/super-user-semi-private-beta-begins/">Super User semi-public beta is now open</a>. Come join us!</li>
+</ul>
+<p>Our favorite Stack Overflow question this week:</p>
+<ul>
+<li><a href="http://stackoverflow.com/questions/18450/is-mono-ready-for-prime-time/">Is Mono ready for prime time?</a> but of course! See for yourself with a <a href="http://www.go-mono.com/visualstudio/">new Mono Visual Studio plugin</a>!</li>
+</ul>
+<p>If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to <a href="mailto:podcast@stackoverflow.com">podcast@stackoverflow.com</a>. You can <a href="http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/">record a question</a> using nothing but a telephone and a web browser. We also have a dedicated phone number you can call to leave audio questions at <strong>646-826-3879</strong>.</p>
+<p>
+The <a href="https://stackoverflow.fogbugz.com/default.asp?pg=pgWiki&amp;ixWikiPage=29068">transcript wiki</a> for this episode is available for public editing.</p>

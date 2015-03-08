@@ -1,0 +1,70 @@
+---
+layout: post
+title: 'Podcast #46'
+date: 2009-03-19 21:41:52.000000000 -04:00
+categories:
+- podcasts
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _podPressMedia: a:1:{i:0;a:10:{s:3:"URI";s:82:"http://itc.conversationsnetwork.org/audio/download/ITC.SO-Episode46-2009.03.17.mp3";s:5:"title";s:10:"Podcast
+    46";s:4:"type";s:9:"audio_mp3";s:4:"size";s:8:"33088635";s:8:"duration";s:8:"01:08:52";s:12:"previewImage";s:85:"http://blog.stackoverflow.com/wp-content/plugins/podpress//images/vpreview_center.png";s:10:"dimensionW";s:3:"320";s:10:"dimensionH";s:3:"240";s:3:"rss";s:2:"on";s:4:"atom";s:2:"on";}}
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>
+This is the 46th episode of the StackOverflow podcast, live from MIX09, where Joel and Jeff answer questions from the live audience.</p>
+<ul>
+<li>This podcast is live from the <a href="http://2009.visitmix.com/">MIX09</a> conference! Joel and I also had a small 5 minute segment in the Day 1 keynote, which you can <a href="http://live.visitmix.com/">view online</a>. It's at around the 50 minute mark or so.</li>
+</ul>
+<ul>
+<li>We had a live audience, so the focus of this podcast is on questions from our live audience.</li>
+</ul>
+<p>We answered the following live audience questions on this podcast:</p>
+<ol>
+<li><strong>"What's the point of Silverlight?"</strong> The short answer is, it's like Adobe Flash, but much more programmer oriented. <a href="http://silverlight.net/getstarted/silverlight3/default.aspx">Silverlight 3 beta</a> was just launched at MIX, with lots of new developer-y goodness.
+</li>
+<li><strong>"What's the most number of questions asked by an actual Stack Overflow user?"</strong> That would be <a href="http://stackoverflow.com/users/4639">Edward Tanguay</a> with 210 questions, closely followed by <a href="http://stackoverflow.com/users/572">Thomas Owens</a> who asked 207 questions. One reason the "ask a question" button isn't more prominent on the site is that we encourage people to read and answer a while before asking anything. Good questions take some effort!
+</li>
+<li><strong>"Have you ever considered moving Stack Overflow to the cloud?"</strong> The cloud makes more sense for experimental projects that may or may not succeed. We did the math and decided that owning the hardware was a better deal for our project. It could also make sense for hot-standby disaster recovery backup servers. It depends whether or not you prefer flexibility, or fine-grained control.
+</li>
+<li><strong>"What issues did you have with using ASP.NET MVC?"</strong> Other than the typical beta issues, not much. The big advantage, to us, is that MVC is a much more web-centric development model. It is a much closer match to our mental model of how web programming should work, and how URLs should be formed.
+</li>
+<li>"<strong>What does the new guy do on the first day?"</strong> Fix the simplest possible bug in your product. And on the next day, fix a slightly more complex bug. It helps to do this in an environment of active pairing or mentoring.
+</li>
+<li><strong>"Are there some things about the web platform (HTML, CSS, etc) that you wish worked differently?"</strong> Sure, the platform barely works. There's something inspiring about so many programmers are building great stuff on such a rickety platform. And it's creating a whole new generation of programmers. There's a certain inexplicable elegance to the madness.
+</li>
+<li><strong>"We have a lot of relatively unstructured data that we're storing in a database, is there some other way do deal with this? And what about REST vs. SOAP access to it?"&nbsp;</strong> Joel points to <a href="http://adambosworth.net/2004/11/18/iscoc04-talk/">Adam Bosworth's classic talk</a> about the flexibility of loosely structured data. Perhaps something like <a href="http://en.wikipedia.org/wiki/Lucene">Lucene</a> or <a href="http://couchdb.apache.org/">CouchDB</a> would be a better choice than a traditional rigid database. And remember that meta-tags, while worthless on the open web, are trustworthy on local data. Sometimes you don't need a perfect 100% right answer back from the data. Joel describes the advantage of REST over SOAP thusly: you can just type stuff into the browser's address bar and see the results in real time.
+</li>
+<li><strong>"Should you teach the framework, or the underlying languages?"</strong> Joel points out that maybe students shouldn't be studying programming at all. You can learn a lot about programming through related fields. Joel and I disagree a bit on this one. I think good developers are inherently curious, so they can learn the framework and dip into the lower level language as necessary to solve whatever problem is at hand. Joel says you should start with the language and scale up.
+</li>
+<li><strong>"How different is the world view of a programmer who is twenty-something and grew up with the web, versus a thirty-something who didn't? How important is historical context?"</strong> Can developers who only know JavaScript, HTML, and CSS grow into being generally great developers? I argue that there's an inherent intellectual curiosity in all great programmers, so they can start <em>anywhere</em> and get amazing results. Joel notes that some of the historical context can become a burden and possibly even incorrect over time. There's a tension between necessary mentoring between older and younger programmers, and fresh eyes questioning the status quo. It's good to continually question the programming status quo. Otherwise, how would we make any progress? We'd carry forward our old biases and decisions forever, even after they were no longer necessary.
+</li>
+<li><strong>"At what point in Stack Overflow do you see yourselves hiring specialists? How do we justify bringing in experts to management?"</strong> We already have, to some degree; we have Jeremy Kratz helping us with design and Brent Ozar helping us with advanced database stuff. You have to know your own limitations, what you're good at and not good at, and how to slice off a small piece of work that's appropriate for the specialist. If you need to sell this to management, try it on a small part of the project first and show what the difference would be on the full project.</li>
+</ol>
+<p>Our favorite Stack Overflow qustions this week are:</p>
+<ul>
+<li>
+<p><a href="http://stackoverflow.com/questions/656549">Stack Overflow on Line 25</a> -- this is one of the downsides of having the name "Stack Overflow". It's impressive how good the answers are to a question by a poor, beleaguered end user who just got a stack overflow JavaScript error in their browser</p>
+</li>
+<li>
+<p><a href="http://stackoverflow.com/questions/656226">Why does setting a stack method result in a Stack Overflow?</a> -- this is a classic example of a mind reading answer. The asker wasn't able to establish what their question really was.</p>
+</li>
+<li>
+<p><a href="http://stackoverflow.com/questions/202750/is-there-a-human-readable-programming-language">Is there a human readable programming language?</a> -- yes, until everyone decided that was a really dumb idea. Its name was COBOL.</p>
+</li>
+<li><a href="http://stackoverflow.com/questions/36707">Should a function have only one return statement?</a> -- a classic discussion question. Discussions are valid as long as they're focused. Here, the goal is to avoid writing "arrow" or "pacman" code and to keep the functions as small as possible. It's amazing to us that some developers are still dogmatic about this one. In theory, this is a good rule, but in practice, it isn't. And practice always overrules theory in my book.</li>
+</ul>
+<p>If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to <a href="mailto:podcast@stackoverflow.com">podcast@stackoverflow.com</a>. You can <a href="http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/">record a question</a> using nothing but a telephone and a web browser. We also have a dedicated phone number you can call to leave audio questions at <strong>646-826-3879</strong>.</p>
+<p>
+The <a href="https://stackoverflow.fogbugz.com/default.asp?W29036">transcript wiki</a> for this episode is available for public editing.</p>

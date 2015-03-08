@@ -1,0 +1,60 @@
+---
+layout: post
+title: 'The Horror of No Answer: Revival and Necromancer'
+date: 2010-11-03 00:56:36.000000000 -04:00
+categories:
+- community
+- design
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _wp_old_slug: ''
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>On the Stack Exchange network, <a href="http://blog.stackoverflow.com/2008/09/ok-now-define-answered/">we define an "unanswered question"</a> as a <b>question with no <i>upvoted</i> answers</b>.</p>
+<p>This is a very, <i>very</i> strict definition. The way we define it, your question could still technically be unanswered even if it has multiple answers -- so long as none of those answers have received their first upvote. Why so strict? We don't feel that any question can fairly be called "answered" until another human being has looked at those answers and deemed at least one of them worthy of an upvote.</p>
+<p>However, we have noticed a sizable uptick in the number of questions that have no answers, as in <i>zero</i> answers, on Stack Overflow.</p>
+<blockquote><p>
+Questions asked more than <b>30</b> days ago with no answers:<br />
+64k / 1m+</p>
+<p>Questions asked more than <b>120</b> days ago with no answers:<br />
+40k / 1m+
+</p></blockquote>
+<p>It's fine -- expected, even -- for there to be a "long tail" of questions that are too obscure, too narrow, or just plain unanswerable for whatever reason. Sometimes you have to be patient; it takes the time it takes. But seeing the number of zero-answer questions grow by 50% over a 3 month period is definitely concerning.</p>
+<p>Part of this is our fault for not adapting the homepage to the massive amount of question activity that Stack Overflow now enjoys. We're working on it, but it will take some time to figure out the right approach. In the meantime, we're introducing two new features to help make zero-answer questions more discoverable.</p>
+<p>First, and most importantly, there is now a <b>no answers tab</b> on the unanswered page.</p>
+<p><img src="assets/unanswered-no-answers-tab.png" alt="" title="unanswered-no-answers-tab" width="600" height="279" /></p>
+<p>It was already possible to find zero-answer questions through <a href="http://stackoverflow.com/search">the advanced search options</a>, but you had to know the syntax. Now you can just click the tab.</p>
+<p>To get to this no answers view:</p>
+<ol>
+<li>click the giant unanswered button on the homepage
+</li>
+<li>click the no answers tab
+</li>
+</ol>
+<p>Note that you can filter to all the unanswered questions in a specific tag by simply <b>clicking on any of the tags in the sidebar</b> -- and clicking repeatedly on the sidebar will combine tags. (To "uncombine", click the tags at the top of the sidebar.)</p>
+<p>We've also introduced a new bronze badge, Revival, to complement the existing silver Necromancer badge. </p>
+<table>
+<tr>
+<td><img src="assets/badge-revival.png" alt="Revival badge (bronze)" title="Revival badge (bronze)" width="72" height="32" /></td>
+<td>Answered more than 30 days later as first answer scoring 2 or more</td>
+</tr>
+<td><img src="assets/badge-necromancer.png" alt="Necromancer badge (silver)" title="Necromancer badge (silver)" width="113" height="36" /></td>
+<td>
+Answered a question more than 60 days later with score of 5 or more
+</td>
+<tr>
+</tr>
+</table>
+<p>Both badges can be awarded multiple times. The intent here is to <b>reward those intrepid adventurers who journey into the vast uncharted wilderness of the unanswered tab</b> -- and are willing to provide great answers to the questions that, for whatever reason, have eluded everyone else.</p>

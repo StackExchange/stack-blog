@@ -1,0 +1,57 @@
+---
+layout: post
+title: 'Now Showing: Email Notifications'
+date: 2009-02-13 03:18:54.000000000 -05:00
+categories:
+- design
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>
+We just implemented a <b>basic form of email notifications</b>, which (mostly) closes our <a href="http://stackoverflow.uservoice.com/pages/general/suggestions/18883-subscribe-unsubscribe-to-questions-rss-feeds">highest voted UserVoice request</a>.</p>
+<p>
+If you...</p>
+<ol>
+<li>Tick the option to allow emails on your user page preferences
+</li>
+<li>Provide us a valid email address in your user settings
+</li>
+<li>Haven't been to the Stack Overflow website in at least 7 days
+</li>
+<li>Have at least one comment/answer response to you in that time frame
+</li>
+</ol>
+<p>
+You'll get an <b>automatic weekly summary of any responses to your questions and answers</b> in your email inbox.</p>
+<p>
+<img src="assets/stackoverflow-email-summary.png" alt="stackoverflow-email-summary" title="stackoverflow-email-summary" style="border: 1px solid silver;" /></p>
+<p>
+We include the first 300 characters of every response in that timeframe. <a href="http://www.campaignmonitor.com/css/">Email HTML formatting is incredibly primitive</a>, so we tried to keep it HTML 3.0 simple. We also set up a <a href="http://aplawrence.com/Blog/B961.html">Reverse PTR record</a> with our ISP so hopefully our emails won't get flagged as spam.</p>
+<p>
+Two notes on this.</p>
+<ol>
+<li>We have taken the liberty of <b>turning on the "opt-in" email flag</b> for any users who haven't been on the site for more than 60 days, and have a valid email address and a reputation score of at least 25. We did this to reconnect with Stack Overflow users who have been gone so long they might not know they have a bunch of new answers and comment replies to their posts. (Not to mention all the <i>awesome</i> new features on the website since then.) That was about 3,000 users in total.
+</li>
+<li>We are also turning on this flag for <b>users who have a bounty question in play</b>. We want to make sure users have at least one day of email warning before their question bounty expires, so they remember to check for an answer and accept one, if they want to avoid the auto-accept that kicks in for the highest scored answer (minimum of 2 score required).
+</li>
+</ol>
+<p>
+Of course, we offer a <b>one-click instant unsubscribe link at the bottom of every single email we send</b>, so this is very easy to get out of. We don't spam, we just want to show you the answers and comments that relate to <i>your</i> stuff!</p>
+<p>
+Yes, we realize there are a dozen other ways you might want to be notified by email, and we'll get to those. But for now, this is a simple way to keep abreast of any activity on Stack Overflow when you've been away from the website.</p>
+<p>
+So if you're interested in the <b>automatic weekly email notifications</b>, be sure to visit your user page and check under the Preferences tab to turn it on (or off) -- and make sure you have a valid email set in your user profile.</p>
+<p /></p></p></p></p></p>

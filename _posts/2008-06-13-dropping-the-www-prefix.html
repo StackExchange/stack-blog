@@ -1,0 +1,75 @@
+---
+layout: post
+title: Dropping the WWW Prefix
+date: 2008-06-13 21:32:24.000000000 -04:00
+categories:
+- design
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>
+Where do you stand on <a href="http://www.codinghorror.com/blog/archives/001109.html">The Great Dub-Dub-Dub Debate</a>?</p>
+<p>
+Some people become very religious about whether URLs should have a www. prefix or not. Me, I'm a bit more sanguine: <b>I think you need to choose your allegiance early in the lifecycle of your website, and stick to it.</b></p>
+<p>
+So, for stackoverflow, we're going with plain old <b>stackoverflow.com</b>, and dropping the www prefix.</p>
+<p>
+The only downside of this choice that I can see is that setting cookies for a prefixless domain sets them across all subdomains, as noted by <a href="http://blog.stecki.de/">Stecki</a> in the comments of <a href="http://www.codinghorror.com/blog/archives/001109.html">my original blog post on this topic</a>:</p>
+<blockquote><p>
+using a non-www-version of a webpage will lead to setting cookies for the whole domain, thus making cookieless domains (for example for fast cdn-like access of static resources like css, js and images) impossible.
+</p></blockquote>
+<p>
+That's a bit of a downer, but our use of cookies should be quite minimal, so I'm OK with that tradeoff.</p>
+<p>
+Now that we've chosen, we need to enforce that choice through URL rewriting. We're using IIS7 with the brand spanking new (and wildly overdue) <a href="http://learn.iis.net/page.aspx/460/using-url-rewrite-module/">official Microsoft URL rewriting add-on</a>.</p>
+<p>
+The new rewrite GUI makes it fairly easy to set this stuff up; there's even an import option where you can pull in existing Apache format .htaccess rewrite rules, which is nice. It'd be nicer still if we could just use the .htaccess format everyone already knows, but oh well.</p>
+<p>
+Here's the IIS7 rule to remove the WWW prefix from all incoming URLs. Cut and paste this XML fragment into your web.config file under &lt;system.webServer&gt; / &lt;rewrite&gt; / &lt;rules&gt; </p>
+<p><pre>
+&lt;rule name="Remove WWW prefix" &gt;
+&lt;match url="(.*)" ignoreCase="true" /&gt;
+&lt;conditions&gt;
+&lt;add input="{HTTP_HOST}" pattern="^www\.domain\.com" /&gt;
+&lt;/conditions&gt;
+&lt;action type="Redirect" url="http://domain.com/{R:1}" 
+    redirectType="Permanent" /&gt;
+&lt;/rule&gt;
+</pre>
+<p>
+Or, if you prefer to use the www prefix, you can do that too:</p>
+<p><pre>
+&lt;rule name="Add WWW prefix" &gt;
+&lt;match url="(.*)" ignoreCase="true" /&gt;
+&lt;conditions&gt;
+&lt;add input="{HTTP_HOST}" pattern="^domain\.com" /&gt;
+&lt;/conditions&gt;
+&lt;action type="Redirect" url="http://www.domain.com/{R:1}"
+    redirectType="Permanent" /&gt;
+&lt;/rule&gt;
+</pre>
+<p>
+You can also use the GUI to build these rewrite rules; same thing either way.</p>
+<p>
+For reference, here's what the enforce-www rule looks like in .htaccess form.</p>
+<p><pre>
+# Add WWW prefix
+RewriteCond %HTTP_HOST ^domain\.com [I]
+RewriteRule ^/(.*) http://www.domain.com/$1 [RP]
+</pre>
+<p>
+Have I mentioned <a href="http://www.codinghorror.com/blog/archives/001114.html">how much I love XML?</a></p>
+<p /></p></p></p></p></p></p></p></p>

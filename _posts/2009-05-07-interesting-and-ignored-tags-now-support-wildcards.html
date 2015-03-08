@@ -1,0 +1,52 @@
+---
+layout: post
+title: Interesting and Ignored Tags Now Support Wildcards
+date: 2009-05-07 05:05:42.000000000 -04:00
+categories:
+- community
+- design
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>
+Today's new feature will be useful for those of you who happen to have a lot of <a href="http://blog.stackoverflow.com/2008/10/expressing-your-tag-preferences/">ignored and/or interesting tags</a>. You can now <b>use the asterisk to set up wildcard matches</b>, rather than having to laboriously construct a list of every single tag as before.</p>
+<p>
+<img src="assets/stackoverflow-ignored-interesting-wildcards.png" alt="stackoverflow-ignored-interesting-wildcards" title="stackoverflow-ignored-interesting-wildcards" /></p>
+<p>
+This was a <a href="http://stackoverflow.uservoice.com/pages/1722-general/suggestions/38257-allow-for-wildcards-in-ignored-and-interesting-tags">fairly highly voted request on UserVoice</a>, too.</p>
+<p>
+Simply specify <b>one or more asterisks</b> to match any number of characters, either in the middle, the beginning, or the end of a tag. So all these should work as you might expect:</p>
+<p><pre>
+*.net*
+jquery*
+*c++
+</pre>
+<p>
+While building this, we realized it would be super-duper mega convenient if we could <b>use a regular expression as a JQuery selector</b>. We did a quick web search and ended up on this <a href="http://stackoverflow.com/questions/190253/jquery-selector-regular-expressions">Stack Overflow question</a>, which was, ironically enough, the top Google search result for our search terms. Not the first time this has happened to us, but still pretty cool. We built a thing that .. <i>helps us build the thing.</i></p>
+<p>
+Unfortunately, the solution proposed there, <a href="http://docs.jquery.com/Traversing/filter#expr">JQuery filters</a>, while cool and useful, wasn't a good fit for our code. So we did some more searching and discovered James Padolsey's most excellent <a href="http://james.padolsey.com/javascript/regex-selector-for-jquery/">Regex Selector for jQuery</a>. While there, we noticed that James links to Stack Overflow on his blog under the "Got a problem?" section, and the front page of his blog features <i>another</i> Stack Overflow question.</p>
+<blockquote><p>
+A recent question on Stack Overflow posed a common question concerning DOM insertion and specifically the dire performance of IE6 when using innerHTML to parse a large amount of HTML markup. <a href="http://stackoverflow.com/questions/788614/ways-to-increase-performance-when-set-big-value-to-innerhtml">Head over there</a> to read the question for yourself. I thought it worth sharing my solution;
+</p></blockquote>
+<p>
+So, naturally, we edited the accepted answer (no offense, Xenph, but the whole "see official documentation" wasn't a great answer) to include a reference to James' regex selection filter which we felt best answered the original asker's question.</p>
+<p>
+Thus, in a beautiful kind of synchronicity, <b>we used Stack Overflow to build Stack Overflow</b>, while simultaneously constructing a web of improved links for future programmers to help find their way.</p>
+<p>
+I don't know why, but I personally find that immensely gratifying.</p>
+<p>
+Oh yes, and enjoy the new wildcard tag matching feature.</p>
+<p /></p></p></p></p></p></p>

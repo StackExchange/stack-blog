@@ -1,0 +1,78 @@
+---
+layout: post
+title: New Question Asker Features
+date: 2009-08-23 04:13:09.000000000 -04:00
+categories:
+- design
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _wp_old_slug: new-question-owner-features
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>
+In order to <b>increase engagement between the people asking questions and the rest of the community</b>, we've rolled out two new features.</p>
+<p>
+The first is a "batting average", if you will.</p>
+<p>
+<img src="assets/question-owner-accept-rate.png" width="407" height="187" /></p>
+<p>
+Below the question owner signature block, for non-community-wiki questions, we show <b>the percent of accepted answers</b> for that user. It won't always appear, though. The following rules are used in the calculation:</p>
+<ul>
+<li>Questions must <i>not</i> be community wiki.
+</li>
+<li>Questions must not be closed.
+</li>
+<li>Questions must be more than 3 days old.
+</li>
+<li>Questions must have at least 1 answer.
+</li>
+<li>There must be at least <b>four</b> eligible questions as determined by the above rules, otherwise the statistic will not appear.
+</li>
+</ul>
+<p>
+Certain visual styles will be applied to the percentage depending on how high or low it is. We show this number because it provides relevant information to anyone interested in that question:</p>
+<ul>
+<li>If the stat doesn't appear at all, it's a new user, or someone who rarely asks questions.
+</li>
+<li>If you see a low percentage, it's a user who asks a <i>lot</i> of questions but accepts almost no answers.
+</li>
+<li>If you see a high percentage, it's an engaged user, someone who frequently goes back and interacts with their questions after asking.
+</li>
+<li>If you see a middle of the road percentage, it's an experienced user who understands what accepted answers are for.
+</li>
+</ul>
+<p>
+It <i>is</i> considered good manners to accept answers on your questions, eventually, but <b>accepting answers is not required</b>. I personally consider anything at 70% or over quite good, meaning you accept answers on 7 out of 10 questions that you ask. There are certainly cases where you don't get an answer you like, or the question is inherently unanswerable. </p>
+<p>
+I think you see where this is going: the accept rate percentage is shown to encourage the behaviors we view as positive and compatible with our sites -- and to implicitly discourage those behaviors that aren't. </p>
+<p>
+Another change we made is to <b>highlight comment responses</b> from the user who asked the question.</p>
+<p>
+<img src="assets/question-owner-comment-highlighting.png" width="600" height="272" style="border: 1px solid silver" /></p>
+<p>
+Why do we highlight question owner comments?</p>
+<ul>
+<li>It's visually consistent. It carries the "highlight" from the signature block in the original post, to the comment signature block. (not to mention any owner answers, which were always highlighted in the owner color..)
+</li>
+<li>It makes it easier to scan a post for owner comments because they have highlighted signatures. This is important if you're trying to answer the question as all question owner feedback will be helpful in providing and refining your own answer.
+</li>
+<li>You can "at a glance" tell if you're dealing with an interested (comments on most answers) or disinterested (no comments at all) question owner.
+</li>
+</ul>
+<p>
+While we certainly have our share of experiments and mistakes, we try to roll out features only after discussion -- both internally and on meta -- and examining the data to see if those features are solving an actual (not theoretical) problem or meeting a real (not perceived) need.</p>
+<p>
+At any rate, hopefully these changes make it easier to ask good questions and provide good answers!</p>
+<p /></p></p></p></p></p></p></p>

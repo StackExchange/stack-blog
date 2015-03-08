@@ -1,0 +1,46 @@
+---
+layout: post
+title: Stack Overflow OpenID Case Study
+date: 2008-10-22 23:59:06.000000000 -04:00
+categories:
+- design
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>
+<a href="http://www.janrain.com">JanRain</a>, an early supporter of <a href="http://en.wikipedia.org/wiki/OpenID">OpenID</a>, just posted <b><a href="http://www.janrain.com/openid/casestudy-stackoverflow">an OpenID case study featuring Stack Overflow</a></b>.</p>
+<blockquote><p>
+Stack Overflow, much like Wikipedia, lets anyone edit anything – but unlike Wikipedia, we require users to earn a certain number of votes from other users before the system trusts them (we call this "reputation"). The concept of identity and logins is an essential part of how our site works.</p>
+<p>
+As programmers ourselves, we appreciate how challenging it is not only to write an entire authentication system, but to support one.  One small mistake and you could expose users' credentials and possibly even passwords!</p>
+<p>
+With OpenID, we didn't have to write any login code, nor do we have to store user passwords. And not only that, but we are no longer asking users to create yet another account on yet another website. Clearly a win-win scenario from our perspective.</p>
+<p>
+We were encouraged to use OpenID because our audience is fairly technical, and OpenID is quite common among technical bloggers and frequent blog participants, our early adopters. Also, there's a rich ecosystem of third party OpenID providers, not to mention Yahoo, AOL, Google, Sun, and soon MySpace.</p>
+</blockquote>
+<p>
+<a href="http://www.janrain.com/products/myopenid">JanRain runs myOpenID</a>, one of the better independent OpenID providers. I don't want to mention any names, but some OpenId providers, like one in particular whose name ends in <i>oo</i>, are .. not so great. That's the blessing and curse of choice: when there are dozens to choose from, some will be better than others.</p>
+<p>
+That said, we continue to look at ways to improve the Stack Overflow login experience. A few things in the works on the OpenID front:</p>
+<ul>
+<li><a href="http://stackoverflow.uservoice.com/pages/general/suggestions/34450">Offer OpenID registration directly through stackoverflow</a>
+</li>
+<li><a href="http://stackoverflow.uservoice.com/pages/general/suggestions/24709">allow multiple OpenIDs per account</a>
+</li>
+<li><a href="http://stackoverflow.uservoice.com/pages/general/suggestions/16685">Allow changing the associated OpenID</a>
+</li>
+</ul>
+<p /></p></p>

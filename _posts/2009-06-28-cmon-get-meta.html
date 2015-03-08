@@ -1,0 +1,107 @@
+---
+layout: post
+title: C'Mon Get Meta!
+date: 2009-06-28 01:26:03.000000000 -04:00
+categories:
+- community
+- meta
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '27'
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>
+What's the first rule of Stack Overflow Club?</p>
+<p><h2>You don't talk about Stack Overflow on Stack Overflow.</h2>
+<p>
+<a href="http://www.kropserkel.com/fightclub.htm" style="border-bottom:none;"><img src="assets/fight-club-soap.jpg" alt="fight-club-soap" title="fight-club-soap" border="0" /></a></p>
+<p>
+We have this policy not because we are jerks (or at least, not <i>just</i> because we are jerks) but because we believe meta-discussion kind of gets in the way. As the <a href="http://stackoverflow.com/faq">faq</a> explains:</p>
+<blockquote><p>
+Also, try to <b>refrain from asking questions about Stack Overflow itself unless you absolutely, positively have to</b>. Most programmers don't come here to learn about the intricacies of Stack Overflow; they come here to get answers to their programming questions. Let's try to help them out by not cluttering up the system with navelgazing meta-discussion. If you want to suggest a feature or discuss how Stack Overflow works, visit our UserVoice site.
+</p></blockquote>
+<p>
+Despite this rule, the desire for an "official" meta-discussion site has been strong. Lots of community members want to discuss Stack Overflow itself, the community as a whole, how it works, topics on the blog, the website, and so forth. It's come up many times on UserVoice, and is currently the <a href="http://stackoverflow.uservoice.com/pages/1722-general/suggestions/106921-provide-an-authorized-location-for-meta-discussion-">#3 ranked UserVoice request</a>:</p>
+<blockquote><p>
+I know this has been declined multiple times, but I really think it's time to consider the problem of meta-discussions on the site. To understand why something else is needed, let's look at what doesn't work:</p>
+<ul>
+<li>Meta-questions? Closed moments after they are asked rendering them useless.
+</li>
+<li>Meta-answers? Assuming a question is available to attach to, these questions clutter up the answer stream.
+</li>
+<li>Comments? word and formatting limitations prevent any meaningful discussion.
+</li>
+<li>Third-party site? Unlikely to be seen by a critical mass of users to be worthwhile.
+</li>
+</ul>
+<p>
+The current system completely cuts off meta-conversations to the detriment of the SO community.</p>
+</blockquote>
+<p>
+The desire for meta-discussion is <i>so</i> fervent that some enterprising members of the SO community got sick and tired of waiting for us to listen to them and <a href="http://sof.modos.org/forum/">set up their own meta-discussion site</a>. I applaud this initiative. <a href="http://www.codinghorror.com/blog/archives/000135.html">Good programmers get off their butts!</a> </p>
+<p>
+They have the right idea: create a <b>seperate area</b> for meta-discussion. That way, everyone wins: people who are interested in community building can pitch in together, and the vast hordes of programmers who just want some freakin' answers to their questions don't have to wade through a lot of extra noise to get there.</p>
+<p>
+That said, the limitations of phpBB (and their ilk) are fairly painful, and felt like stepping back 10 years in time compared to the Stack Overflow engine. So instead of an unofficial, old-and-busted forum, <b>how about an official meta-discussion outlet based on the Stack Overflow engine you've come to know and love?</b></p>
+<p><h2><a href="http://meta.stackoverflow.com/">meta.stackoverflow.com</a></h2>
+<p>
+We're a little unsure <b>how well the current SO engine will map to discussion-y topics</b>. Remember, we designed explicitly around Questions and Answers -- specifically, questions around a theme that can be (mostly) answered! Launching our own internal meta-discussion site is one way of finding out.</p>
+<p>
+I've made <a href="http://meta.stackoverflow.com/users/658/nobody">Kyle Cronin</a> and <a href="http://meta.stackoverflow.com/users/8435/tom-ritter">Tom Ritter</a> moderators on the meta.* site, as they already went to such great lengths to create their own community sites around Stack Overflow. I think they've earned it.</p>
+<p>
+It's also looking more and more like <a href="http://meta.stackoverflow.com/questions/1/should-meta-stackoverflow-com-replace-uservoice-com">meta will replace our UserVoice site</a>, so our <a href="http://blog.stackoverflow.com/2008/12/new-uservoice-moderator/">adjunct UserVoice moderators</a>, <a href="http://meta.stackoverflow.com/users/3043/joel-coehoorn">Joel Coehoorn</a> and <a href="http://meta.stackoverflow.com/users/106/endangeredmassa">Sean Massa</a>, will of course be invited to moderate meta.stackoverflow.com as well.</p>
+<table>
+<tr>
+<td>
+<iframe src="http://meta.stackoverflow.com/users/flair/658.html" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" width="210px" height="60px"></iframe>
+</td>
+<td>
+<iframe src="http://meta.stackoverflow.com/users/flair/8435.html" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" width="210px" height="60px"></iframe>
+</td>
+</tr>
+<tr>
+<td>
+<iframe src="http://meta.stackoverflow.com/users/flair/3043.html" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" width="210px" height="60px"></iframe>
+</td>
+<td>
+<iframe src="http://meta.stackoverflow.com/users/flair/106.html" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" width="210px" height="60px"></iframe>
+</td>
+</tr>
+</table>
+<p>
+Kyle had some ideas about changes to the SO engine to help it adapt from the Q&A format discussion:</p>
+<blockquote>
+<ul>
+<li>bounties make little sense on a discussion site
+</li>
+<li>wording needs to be tweaked (i.e. questions->topics, answers->replies)
+</li>
+<li>need to be able to follow questions/get notices of additional replies
+</li>
+<li>remove notion of community wiki, as discussion sites have a stronger sense of ownership, plus nothing will be off-topic
+</li>
+<li><s>ensure that chronological ordering is the default, if not the only, sort order, both for replies and comments</s>
+</li>
+<li>remove accepting an answer
+</li>
+<li>some of the close reasons will have to be removed or tweaked
+</li>
+</ul>
+</blockquote>
+<p>
+We've made a few of the easier changes already that were based on (groan) meta-data. Others will be tougher. We won't know until we try, so ...</p>
+<p><h2>C'mon <a href="http://meta.stackoverflow.com/">get meta!</a></h2>
+<p>
+... and see what happens.</p>
+<p /></p></p></p></p></p></p></p></p></p></p>

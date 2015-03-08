@@ -1,0 +1,72 @@
+---
+layout: post
+title: New Linked Posts
+date: 2010-04-25 22:45:44.000000000 -04:00
+categories:
+- community
+- design
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>
+We just added a <b>Linked</b> sidebar to the question page.</p>
+<p>
+Here's an example from the current Super User question <a href="http://superuser.com/questions/2769/now-that-ms-money-is-going-away-what-are-the-best-competitive-options">Now that MS Money is going away, what are the best competitive options?</a></p>
+<p>
+<img src="assets/superuser-linked-related-1.png" alt="" title="superuser-linked-related" width="461" height="310" /></p>
+<p>
+The <b>Linked</b> sidebar is very straightforward: it gathers up any links to this question provided by the community via comments, answers, or questions, and presents them in simple list format on the right-hand side of the question. It's important to note that these links are bi-directional -- that is, if another question links to this one, <b>the link will be listed on <i>both</i> questions.</b></p>
+<p>
+This simple mechanic addresses a slew of meta requests, including:</p>
+<ul>
+<li><a href="http://meta.stackoverflow.com/questions/40952/link-previous-questions-to-newer-duplicates">Link previous questions to newer duplicates</a>
+</li>
+<li><a href="http://meta.stackoverflow.com/questions/44643/automatically-track-referenced-questions">Automatically track referenced questions</a>
+</li>
+<li><a href="http://meta.stackoverflow.com/questions/36366/please-provide-a-table-of-duplicates">Please Provide a “Table of Duplicates”</a>
+</li>
+<li><a href="http://meta.stackoverflow.com/questions/40463/is-there-a-way-to-search-for-posts-linked-to-other-posts">Is there a way to search for posts linked to other posts?</a>
+</li>
+</ul>
+<p>
+With <a href="http://blog.stackexchange.com/post/518474918/stack-exchange-2-0">Stack Exchange 2.0</a> in mind, I want to extend this to cross-network links as well (in addition to question migrations, account association, and closing as "belongs on...", etc), but it's more important to kick the tires and get feedback on this simple V1 implementation for now.</p>
+<p>
+I think this highly manual, human-being-entered form of linking questions is complementary to the existing <b>Related</b> panel.</p>
+<p>
+<img src="assets/superuser-linked-related-2.png" alt="" title="superuser-linked-related" width="461" height="310" /></p>
+<p>
+How is the <b>Related</b> panel generated? I'm glad you asked! Related is a completely machine generated list, using the following criteria:</p>
+<ul>
+<li>full-text match to <b>tags</b> (+10 weight)
+</li>
+<li>full-text match to <b>title</b> (+5 weight)
+</li>
+<li>full-text match to <b>body</b> (+1 weight)
+</li>
+</ul>
+<p>
+I'm open to hearing any ways we can improve this algorithm, but honestly a lot of the "problems" with it are of the garbage in, garbage out variety -- poor tags, poor titles, or poor body text. Anyway, if you think the Related list on a question sucks, <i>you can do something about it!</i></p>
+<ul>
+<li><b>Retag</b> the post so it has more tags in common with questions it should naturally "group" with. This is the most important criteria, by far, and we provide some <a href="http://blog.stackoverflow.com/2010/04/new-10k-feature-inline-tagging/">very nice inline retagging tools for experienced users</a> who should (we hope) know best when it comes to the taxonomy of tags.
+</li>
+<li><b>Retitle</b> the post so it shares more words in common with the titles of other questions that it is similar to. As I've mentioned probably ad nauseam at this point, people have the <a href="http://blog.stackoverflow.com/2008/10/stack-overflow-search-now-51-less-crappy/">uncanniest knack</a> of asking multiple, nearly identical questions with almost <i>zero words in common</i>. But there's a bright side to this dark cloud: a small tweak to the words used in the titles can help "nudge" questions into more natural groupings.
+</li>
+</ul>
+<p>
+I don't think there's much value in rewriting a question body, since the Related panel is weighted so heavily towards title and tags. But if the body is extremely short or poorly constructed, that can do serious damage to the related matching algorithm as well -- particularly if the title and tags are too common/popular to narrow the field much.</p>
+<p>
+Anyway, if all else fails, now we have another option -- <b>just add link(s) in answers, comments, or edits to the question that point out other questions that <i>should</i> be in the Related sidebar and they'll automatically show up in the Linked sidebar.</b> No matter how much we tweak it, our fancy-shmancy related algorithm is no match for an army of <s>obsessive</s>knowledgable community members.</p>
+<p /></p></p></p></p></p></p></p>

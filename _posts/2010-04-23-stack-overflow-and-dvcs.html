@@ -1,0 +1,59 @@
+---
+layout: post
+title: Stack Overflow and DVCS
+date: 2010-04-23 01:33:30.000000000 -04:00
+categories:
+- background
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>
+As of today, Stack Overflow is now officially using a <b>distributed version control system</b>. Specifically, <a href="http://mercurial.selenic.com/">Mercurial</a>, as hosted through <a href="http://www.fogcreek.com/kiln/">Fog Creek's Kiln service</a>.</p>
+<p>
+<a href="http://www.fogcreek.com/kiln/" style="border-bottom:none"><img src="assets/kiln-logo.gif" alt="" title="kiln-logo" width="167" height="80" class="alignnone size-full wp-image-2959" /></a></p>
+<p>
+While we weren't <i>unhappy</i> with Subversion, we weren't married to it, and we needed to switch anyway so we can <b>easily share code with the team in NYC</b>. There's nothing quite as corrosive to worldwide programming collaboration as being on different source control systems.</p>
+<p>
+If you're new to distributed version control, first you should check out Joel's excellent Mercurial tutorial at <a href="http://hginit.com/">Hg Init</a>.</p>
+<p>
+<a href="http://hginit.com/" style="border-bottom:none"><img src="assets/hg-init-logo.png" alt="" title="hg-init-logo" width="117" height="169" /></a></p>
+<p>
+At this point, you may be wondering: <b>should you switch to a distributed version control system, too?</b></p>
+<p>
+I think you should dabble in it, absolutely, as there's no question that it represents the future of all source control. But let's not kid ourselves: the tools are still a bit .. raw. Particularly if you're a GUI-loving wussy girly man like myself. We had gotten a bit spoiled by the excellence and maturity of <a href="http://tortoisesvn.tigris.org/">TortoiseSVN</a> and <a href="http://www.visualsvn.com/">VisualSVN</a> on Windows. There are Mercurial equivalents, of course:</p>
+<ul>
+<li><a href="http://tortoisehg.bitbucket.org/">TortoiseHg</a> Windows Explorer shell extension
+</li>
+<li><a href="http://visualhg.codeplex.com/">VisualHg</a> Visual Studio plugin
+</li>
+</ul>
+<p>
+But, as I said... <i>raw</i>. Raw is definitely the operative word here. DVCS hasn't <a href="http://en.wikipedia.org/wiki/Crossing_the_Chasm" style="border-bottom:none">crossed the chasm</a> yet, so if you buy in now, you're still on the visionary edge of software development. </p>
+<p>
+<a href="http://en.wikipedia.org/wiki/Crossing_the_Chasm" style="border-bottom:none"><img src="assets/crossing-the-chasm.png" alt="" title="crossing-the-chasm" width="452" height="268" /></a></p>
+<p>
+This can be a fun place to be, as it's where all the innovation is typically happening, but there are ... tradeoffs. Painting in very, very broad strokes -- warning: massive oversimplifications ahead! -- I'd say that:</p>
+<ol>
+<li>If you are still using SourceSafe, <a href="http://www.codinghorror.com/blog/2006/08/source-control-anything-but-sourcesafe.html">get the hell off my lawn</a>.
+</li>
+<li>If you are <i>unhappy</i> with your current source control system, definitely begin researching your DVCS upgrade options. No time to get started like the present!
+</li>
+<li>If you are <i>happy</i> with your current source control system, read <a href="http://whygitisbetterthanx.com/">Why Git is Better than X</a>, substituting "my source control system" with X. (While there are differences between Mercurial and Git, the differences are not hugely significant any more; they are basically the Pepsi and Coke of DVCS.) Do you see anything on this list that you feel strongly about? Does anything in this comparison directly address any daily pain points for you and your team? If so, then you should look deeper into DVCS.
+</li>
+</ol>
+<p>
+There is one thing you do want to watch out for -- eventually, teams adapt their behavior to the software they're using. Without even realizing that they're doing so. <b>If I had to pick one word to summarize the benefits of DVCS, I'd say that word is <i>flexibility</i>.</b> DVCS is way more flexible than centralized source control. So if you learn some DVCS, you might just find that it unlocks a new, more productive way for your team to "get things done", as they say.</p>
+<p /></p></p></p></p></p></p>
