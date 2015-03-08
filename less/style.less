@@ -46,22 +46,30 @@ header {
 }
 .home-hero {
 	height: 400px;
-	background: url('https://ununsplash.imgix.net/photo-1416339306562-f3d12fefd36f?q=75&fm=jpg&s=dd8bffcffb3d622bea05c74d203121c6') no-repeat center center fixed;
-	background-size: cover;
+	background: @color-grayLight;
 }
 .featured-posts {
 	article.post {
-		height: 350px;
+		h2 {
+			font-weight: 600;
+			margin-bottom: 0;
+			.fontSize(m);
+		}
+		h6 {
+			border-bottom: 1px solid @color-grayLight;
+			padding: 0px 15px 10px 15px;
+			margin-bottom: 15px;
+			letter-spacing: 5px;
+			display: inline-block;
+			color: @color-grayMid;
+		}
 		.top {
 			padding: 50px;
 		}
-	}
-	h1 {
-		.fontSize(l);
-	}
-	h2 {
-		font-weight: 600;
-		.fontSize(m);
+		.image-container {
+			height: 250px;
+			border-radius: 0;
+		}
 	}
 }
 .post-tag, .postTag {
@@ -70,6 +78,23 @@ header {
 }
 .pagination {
 	margin-top: 50px;
+}
+.image-container {
+	width: 100%;
+	height: 150px;
+	overflow: hidden;
+	margin-bottom: 15px;
+	border-radius: 5px;
+	position: relative;
+	img {
+		position: absolute;
+		left: 50%;
+		top: 50%;
+		width: 100%;
+        -webkit-transform: translate(-50%,-50%);
+        -ms-transform: translate(-50%,-50%);
+        transform: translate(-50%,-50%);
+	}
 }
 article.post {
 	padding: 25px 0;
