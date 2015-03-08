@@ -3,6 +3,7 @@ author: alex
 comments: true
 date: 2013-03-06 19:51:14+00:00
 layout: post
+hero: /blog/images/category/podcasts.jpg
 slug: podcast-44-this-should-have-been-43
 title: 'Podcast #44 - This Should Have Been #43'
 wordpress_id: 13206

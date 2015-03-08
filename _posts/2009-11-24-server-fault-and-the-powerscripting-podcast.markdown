@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-11-24 06:59:07+00:00
 layout: post
+hero: /blog/images/category/podcasts.jpg
 slug: server-fault-and-the-powerscripting-podcast
 title: Server Fault and the PowerScripting Podcast
 wordpress_id: 2188

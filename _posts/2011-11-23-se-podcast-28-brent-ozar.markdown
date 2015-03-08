@@ -3,6 +3,7 @@ author: alex
 comments: true
 date: 2011-11-23 20:00:33+00:00
 layout: post
+hero: /blog/images/category/podcasts.jpg
 slug: se-podcast-28-brent-ozar
 title: 'SE Podcast #28 - Brent Ozar'
 wordpress_id: 10237

@@ -3,6 +3,7 @@ author: alex
 comments: true
 date: 2012-10-23 14:15:15+00:00
 layout: post
+hero: /blog/images/category/podcasts.jpg
 slug: se-podcast-34
 title: 'SE Podcast #34 - Kyle Brandt and Nick Craver'
 wordpress_id: 12420

@@ -3,6 +3,7 @@ author: alex
 comments: true
 date: 2011-10-26 19:00:50+00:00
 layout: post
+hero: /blog/images/category/podcasts.jpg
 slug: se-podcast-24
 title: 'SE Podcast #24 - Eric Ries'
 wordpress_id: 10087

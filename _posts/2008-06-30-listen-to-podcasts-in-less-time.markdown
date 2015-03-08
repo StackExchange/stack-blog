@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2008-06-30 15:54:46+00:00
 layout: post
+hero: /blog/images/category/podcasts.jpg
 slug: listen-to-podcasts-in-less-time
 title: Listen to Podcasts in Less Time
 wordpress_id: 61

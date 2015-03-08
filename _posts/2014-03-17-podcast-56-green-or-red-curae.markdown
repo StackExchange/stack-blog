@@ -3,6 +3,7 @@ author: abbytmiller
 comments: true
 date: 2014-03-17 19:00:39+00:00
 layout: post
+hero: /blog/images/category/podcasts.jpg
 slug: podcast-56-green-or-red-curae
 title: 'Podcast #56 - Green or Red Curae'
 wordpress_id: 14603

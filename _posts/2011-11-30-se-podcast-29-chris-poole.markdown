@@ -3,6 +3,7 @@ author: alex
 comments: true
 date: 2011-11-30 20:00:16+00:00
 layout: post
+hero: /blog/images/category/podcasts.jpg
 slug: se-podcast-29-chris-poole
 title: 'SE Podcast #29 - Chris Poole'
 wordpress_id: 10249

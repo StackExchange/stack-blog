@@ -3,6 +3,7 @@ author: abbytmiller
 comments: true
 date: 2014-05-29 19:00:29+00:00
 layout: post
+hero: /blog/images/category/podcasts.jpg
 slug: podcast-59-hes-one-of-those-science-ists
 title: 'Podcast #59 - The Decline and Fall of Stack Overflow'
 wordpress_id: 14722

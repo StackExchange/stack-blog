@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2008-06-26 00:41:25+00:00
 excerpt: Joel and Jeff try to avoid talking over each other while discussing data
+hero: /blog/images/category/podcasts.jpg
   generation, full text searching, cross-site scripting, Markdown, Microsoft's Silverlight,
   and how to get a job at Fog Creek software.
 layout: post

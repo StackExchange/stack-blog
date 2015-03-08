@@ -3,6 +3,7 @@ author: abbytmiller
 comments: true
 date: 2014-05-19 19:00:11+00:00
 layout: post
+hero: /blog/images/category/podcasts.jpg
 slug: podcast-58-pack-em-in-like-bees
 title: 'Podcast #58 - Pack ''Em In Like Bees'
 wordpress_id: 14709
