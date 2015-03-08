@@ -1,5 +1,5 @@
 ---
-author: dfullerton
+author: david
 comments: true
 date: 2015-01-16 15:40:14+00:00
 layout: post

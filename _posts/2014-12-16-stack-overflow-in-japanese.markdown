@@ -1,5 +1,5 @@
 ---
-author: jmac
+author: jmaciel
 comments: true
 date: 2014-12-16 00:00:28+00:00
 layout: post
