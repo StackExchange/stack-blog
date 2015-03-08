@@ -111,15 +111,15 @@ layout: default
 
 				<section>
 				<h4>Topics</h4>
-				{% for tag in site.tags %}
-				{% assign tagCount = 0 %}
-				{% assign currentTag = tag | first %}
+				{% for category in site.categories %}
+				{% assign categoryCount = 0 %}
+				{% assign currentCategory = category | first %}
 					{% for post in site.posts %}
-						{% if post.tags contains currentTag %}
-						{% assign tagCount = tagCount | plus: 1 %}
+						{% if post.categories contains currentCategory %}
+						{% assign categoryCount = categoryCount | plus: 1 %}
 						{% endif %}
 					{% endfor %}
-				<p><a href="{{ site.baseurl }}/tags/{{ tag | first }}"><span class="postTag">{{ tag | first }}</span></a> ({{ tagCount }})</p>
+				<p><a href="{{ site.baseurl }}/category/{{ category | first }}"><span class="postTag">{{ category | first }}</span></a> ({{ categoryCount }})</p>
 				{% endfor %}
 				</section>
 			</div>
