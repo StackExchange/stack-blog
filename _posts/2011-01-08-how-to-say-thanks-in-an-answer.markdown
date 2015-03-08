@@ -22,7 +22,7 @@ That's right, the humble, innocent desire to thank your fellow man (or woman) fo
 
 While there's nothing at all wrong with the sentiment, we have a firmly established convention already in place for thanking our fellow users: **vote up their post or comment!** **Every upvote is an implicit "thank you".** 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/upvote-thank-you.png)
+![](/blog/images/wordpress/upvote-thank-you.png)
 
 But, to be fair, it takes a registered account _and_ a minimum of 15 reputation before you earn the right to upvote anything. So legions of thankful drive-by anonymous users were exploiting the only avenue available to them: leaving Yet Another Thanks Answer.
 

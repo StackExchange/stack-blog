@@ -39,7 +39,7 @@ I sometimes wonder what Stack Exchange would look like in an alternate universe;
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/spock-vs-evil-spock.jpg)
+![](/blog/images/wordpress/spock-vs-evil-spock.jpg)
 
 
 
@@ -162,7 +162,7 @@ Agree or not with the technical assessment, we faced one incontrovertible fact: 
 
 It was inescapably clear that a site about "Linux" simply held no interest to a very large group of users who identify themselves as "Ubuntu users."
 
-![](http://blog.stackoverflow.com/wp-content/uploads/Linux-Motivational.png)![](http://blog.stackoverflow.com/wp-content/uploads/Ubuntu-Motivational.png)
+![](/blog/images/wordpress/Linux-Motivational.png)![](/blog/images/wordpress/Ubuntu-Motivational.png)
 
 So we now have an [Ubuntu site](http://ubuntu.stackexchange.com) and a [Unix & Linux site](http://unix.stackexchange.com), both doing well.
 

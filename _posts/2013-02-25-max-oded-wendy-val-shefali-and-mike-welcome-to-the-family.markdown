@@ -33,7 +33,7 @@ A long time Stack Overflow user and contributor (Beta badge, baby!), Oded is hig
 
 
 
-**![](http://blog.stackoverflow.com/wp-content/uploads/Paler-Wendy.jpg)Wendy Paler, Account Executive**
+**![](/blog/images/wordpress/Paler-Wendy.jpg)Wendy Paler, Account Executive**
 
 _New York_
 
@@ -43,7 +43,7 @@ Wendy grew up in Wisconsin and has been living in New York for over five years. 
 
 
 
-**![](http://blog.stackoverflow.com/wp-content/uploads/Perez-Valentina.jpg)Valentina Perez, Office Manager**
+**![](/blog/images/wordpress/Perez-Valentina.jpg)Valentina Perez, Office Manager**
 
 _London****_
 
@@ -51,7 +51,7 @@ Val was born in Argentina (won't eat beef), grew up in Ottawa, Canada (hates sno
 
 
 
-**![](http://blog.stackoverflow.com/wp-content/uploads/Shah-Shefali.jpg)****Shefali Shah, Sales Representative**
+**![](/blog/images/wordpress/Shah-Shefali.jpg)****Shefali Shah, Sales Representative**
 
 _Denver_
 
@@ -61,7 +61,7 @@ Hailing from the bustling city of Mumbai, Shefali is an interesting mix of the E
 
 
 
-**![](http://blog.stackoverflow.com/wp-content/uploads/Hardy-Mike.jpg)Michael Hardy, Account Executive**
+**![](/blog/images/wordpress/Hardy-Mike.jpg)Michael Hardy, Account Executive**
 
 _Denver_
 

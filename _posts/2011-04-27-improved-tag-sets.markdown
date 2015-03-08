@@ -44,6 +44,6 @@ There are also two new built-in, default filters available for every network use
 
 Oh, and don't forget [you have a network profile](http://blog.stackoverflow.com/2011/04/stack-exchange-network-profiles/) at stackexchange.com, too.
 
-![](http://blog.stackoverflow.com/wp-content/uploads/stack-exchange-user-page-link.png)
+![](/blog/images/wordpress/stack-exchange-user-page-link.png)
 
 Expect more news on this soon!

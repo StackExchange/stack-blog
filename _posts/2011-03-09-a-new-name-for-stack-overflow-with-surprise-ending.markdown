@@ -17,11 +17,11 @@ It's been a while since we've done something arbitrary, complicated, and confusi
 
 There's a method behind this madness, of course: we want to emphasize the importance of [the 45 sites in our network](http://stackexchange.com/sites), which has long since stopped being about programmers:
 
-![Feb 2011 Monthly Uniques](http://blog.stackoverflow.com/wp-content/uploads/FebMonthlyUniques1.png)
+![Feb 2011 Monthly Uniques](/blog/images/wordpress/FebMonthlyUniques1.png)
 
 That, plus, whenever [we told The New York Times](http://www.nytimes.com/2011/02/07/technology/07question.html) that we were "Stack Overflow," they would go to stackoverflow.com and have a heart attack. At least this way people wondering about the company understand that we're about more than just programmer questions. We have [Battlestar Galactica too!](http://scifi.stackexchange.com/questions/tagged/battlestar-galactica)
 
-Now the surprise ending. When [we first raised venture capital](http://blog.stackoverflow.com/2010/05/announcing-our-series-a/) way back in the long-ago year of 2010, we actually had quite a few great investors interested in buying our stock. And since then, the buzz hasn't abated. We were pretty sure that given the current market conditions, we could easily raise a big pile of new Unicorn-bucks without losing control of the company. ![12 million unicorn bucks](http://blog.stackoverflow.com/wp-content/uploads/12-million-unicorn-bucks.jpg) We made a few phone calls, took a few meetings, I flew to London and Boston, and hey presto, we sold another $12 million worth of the company to some great investors.
+Now the surprise ending. When [we first raised venture capital](http://blog.stackoverflow.com/2010/05/announcing-our-series-a/) way back in the long-ago year of 2010, we actually had quite a few great investors interested in buying our stock. And since then, the buzz hasn't abated. We were pretty sure that given the current market conditions, we could easily raise a big pile of new Unicorn-bucks without losing control of the company. ![12 million unicorn bucks](/blog/images/wordpress/12-million-unicorn-bucks.jpg) We made a few phone calls, took a few meetings, I flew to London and Boston, and hey presto, we sold another $12 million worth of the company to some great investors.
 
 The new investors are [Index Ventures](http://www.indexventures.com/), based in Geneva and London, and [Spark Capital](http://sparkcapital.com/), based up in Boston. Our first investor, [Union Square Ventures](http://www.usv.com/), will also put in more money so as to keep the same ownership percentage that they had before (this is called a "pro-rata").
 
@@ -29,11 +29,11 @@ Needless to say, the new investors will want to keep an eye on all that money, s
 
 Now, you may be wondering how we plan to spend all that money. First of all, of course, we need new stickers and T-shirts. And a ping pong table...
 
-![Use Of Funds -- t-shirts](http://blog.stackoverflow.com/wp-content/uploads/A11.jpg)
+![Use Of Funds -- t-shirts](/blog/images/wordpress/A11.jpg)
 
 We're also improving the employee snack room a little bit:
 
-![Use Of Funds -- snacks](http://blog.stackoverflow.com/wp-content/uploads/A31.jpg)
+![Use Of Funds -- snacks](/blog/images/wordpress/A31.jpg)
 
 If you would like to receive **your own totally free commemorative 1,000,000 Unicorn Buck Bill and a Stack Exchange sticker**, send a self-addressed stamped envelope to:
 

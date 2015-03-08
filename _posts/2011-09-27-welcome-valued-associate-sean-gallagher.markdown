@@ -13,11 +13,11 @@ categories:
 
 I'm very thrilled to announce that Sean Gallagher is joining us as an Art Director. He will be working out of our New York HQ.
 
-![Not Sean Gallagher](http://blog.stackoverflow.com/wp-content/uploads/seven-samurai-300x225.jpg)
+![Not Sean Gallagher](/blog/images/wordpress/seven-samurai-300x225.jpg)
 
 OK, that's not Sean. This is [Sean](http://dluxstudios.com/11/).
 
-![Sean Gallagher](http://blog.stackoverflow.com/wp-content/uploads/Photo-on-2011-09-13-at-22.32-2-300x225.jpg)
+![Sean Gallagher](/blog/images/wordpress/Photo-on-2011-09-13-at-22.32-2-300x225.jpg)
 
 The process of finding Sean did remind me of  the movie Seven Samurai, where the villagers were looking for aids. I've been looking for design help for a while. Besides excellent web design skills, Sean also has great experience in strategy, conceptual and communications design ranging all media from one-offs to brand campaigns. I believe he'll be a great asset, especially since we've started creating a lot more design materials to promote our Stack Exchange 2.0 sites.
 

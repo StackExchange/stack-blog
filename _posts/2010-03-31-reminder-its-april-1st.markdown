@@ -37,11 +37,11 @@ This year's April Fools' comes to us courtesy of Stack Overflow user [Benjamin D
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/unicornify-stackoverflow-eric-lippert1.png)
+![](/blog/images/wordpress/unicornify-stackoverflow-eric-lippert1.png)
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/unicornify-stackoverflow-userlist1.png)
+![](/blog/images/wordpress/unicornify-stackoverflow-userlist1.png)
 
 
 

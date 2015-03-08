@@ -52,7 +52,7 @@ To ensure that we get lots of feedback on our public API beta, and produce some 
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/api-contest-prize-monitors1.jpg)
+![](/blog/images/wordpress/api-contest-prize-monitors1.jpg)
 
 
 

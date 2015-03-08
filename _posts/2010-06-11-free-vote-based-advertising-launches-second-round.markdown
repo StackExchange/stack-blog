@@ -24,7 +24,7 @@ In the last round, the top-voted ads received over a 1/4-million impressions eac
 Now it's time for round 2.
 
 
-## ![](http://blog.stackoverflow.com/wp-content/uploads/vote-small3.jpg)
+## ![](/blog/images/wordpress/vote-small3.jpg)
 
 
 

@@ -16,7 +16,7 @@ Joel's vacation in France is going _so very swimmingly_ that he has declined to 
 
 
 
-![Le France](http://blog.stackoverflow.com/wp-content/uploads/le-france.png)
+![Le France](/blog/images/wordpress/le-france.png)
 
 
 

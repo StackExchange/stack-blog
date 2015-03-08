@@ -25,7 +25,7 @@ Just ask [Jon Skeet](http://stackoverflow.com/users/22656/jon-skeet).
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/jon-skeet-unicorn-painting.jpg)
+![](/blog/images/wordpress/jon-skeet-unicorn-painting.jpg)
 
 
 
@@ -33,7 +33,7 @@ Apparently, what happens is ... **you get a painting of unicorns, signed by us, 
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/unicorn-painting.jpg)
+![](/blog/images/wordpress/unicorn-painting.jpg)
 
 
 

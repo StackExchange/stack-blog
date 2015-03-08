@@ -13,7 +13,7 @@ categories:
 
 Did you notice anything different about [MSDN](http://msdn.microsoft.com/en-us/default.aspx) search lately?
 
-[![Stack Overflow results on MSDN](http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-on-msdn.png)](http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-on-msdn.png)
+[![Stack Overflow results on MSDN](/blog/images/wordpress/stackoverflow-on-msdn.png)](/blog/images/wordpress/stackoverflow-on-msdn.png)
 
 MSDN is Microsoft's mega huge developer information portal, and we're happy to announce that starting today, Stack Overflow search results will be incorporated into the results when you search for something on MSDN. That lets you see official Microsoft developer documentation alongside the community conversations that you need to actually make sense of the "official" developer documentation.
 

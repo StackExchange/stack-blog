@@ -21,7 +21,7 @@ Here's a diagram of our current network layout:
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/stack-overflow-network-diagram-small.png)](http://blog.stackoverflow.com/wp-content/uploads/stack-overflow-network-diagram.png)
+[![](/blog/images/wordpress/stack-overflow-network-diagram-small.png)](/blog/images/wordpress/stack-overflow-network-diagram.png)
 
 
 

@@ -40,7 +40,7 @@ I'm currently looking at the [Lenovo ThinkServer RD120](http://www.buy.com/prod/
 
 
 
-![lenovo thinkserver rd120](http://blog.stackoverflow.com/wp-content/uploads/lenovo-thinkserver-rd120.jpg)
+![lenovo thinkserver rd120](/blog/images/wordpress/lenovo-thinkserver-rd120.jpg)
 
 
 

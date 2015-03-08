@@ -13,7 +13,7 @@ categories:
 
 With [forty-three sites and counting](http://stackexchange.com/sites?sort=oldest), there's no shortage of communities needing attention. Thank goodness there's also no shortage of enthusiastic users willing to volunteer their time to help their communities. But once in awhile a user stands out as truly exceptional. That's why I am really excited to announce that [Dori Smith](http://apple.stackexchange.com/users/351/dori) has joined us as a full-time member of our community management team.
 
-![](http://blog.stackoverflow.com/wp-content/uploads/Dori-Smith.jpg)
+![](/blog/images/wordpress/Dori-Smith.jpg)
 
 You may have seen Dori in her role as moderator of [Ask Different](http://apple.stackexchange.com/), the Apple Stack Exchange, but she is also actively involved in the [Programmers Stack Exchange](http://programmers.stackexchange.com/), as well as [Super User](http://superuser.com/), [English Language & Usage](http://english.stackexchange.com/), and our own [meta Stack Overflow](http://meta.stackoverflow.com/).
 

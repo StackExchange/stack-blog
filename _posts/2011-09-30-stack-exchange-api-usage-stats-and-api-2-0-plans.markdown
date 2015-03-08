@@ -19,7 +19,7 @@ As a part of our research process leading up to 2.0, we analyzed usage statistic
 
 API usage skews heavily toward users and questions:
 
-![](http://blog.stackoverflow.com/wp-content/uploads/stack-exchange-api-1-1-usage-pie-graph.png)
+![](/blog/images/wordpress/stack-exchange-api-1-1-usage-pie-graph.png)
 
 The top API calls, by volume, are:
 
@@ -163,7 +163,7 @@ The top applications by API usage are:
 
 API usage growth is basically flat. This is not terribly surprising, since we’re read-only until API v3.0.
 
-![](http://blog.stackoverflow.com/wp-content/uploads/stack-exchange-api-1-1-usage-per-day.png)
+![](/blog/images/wordpress/stack-exchange-api-1-1-usage-per-day.png)
 
 Getting cache hit rates out of our logs is a bit difficult, but we’ve got an upper limit of 10% based on the numbers.  I’d say we can be confident in a 3-5% cache hit rate.
 

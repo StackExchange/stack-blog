@@ -15,7 +15,7 @@ for subdir, dirs, files in os.walk(rootdir):
     		if src:
     			wordpress_src = re.search('http://blog.stackoverflow.com/wp-content/uploads/(.*)', src.group(1))
     			if wordpress_src:
-	    			x = line.replace(str("/blog/images/wordpress"), "http://blog.stackoverflow.com/wp-content/uploads")
+	    			x = line.replace("http://blog.stackoverflow.com/wp-content/uploads", "/blog/images/wordpress")
 	    			contents[key] = x
 
     	f = open(filename, "w")

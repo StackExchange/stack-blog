@@ -21,7 +21,7 @@ The feature is inspired by a sentiment widely shared among developers and employ
 
 The process is easy. Head over to your [Careers 2.0 profile](http://careers.stackoverflow.com/cv), and look for the cute little GitHub guy:
 
-![octocat](http://blog.stackoverflow.com/wp-content/uploads/octocat.png)
+![octocat](/blog/images/wordpress/octocat.png)
 
  
 
@@ -29,7 +29,7 @@ The process is easy. Head over to your [Careers 2.0 profile](http://careers.stac
 
  
 
-![githubprojects](http://blog.stackoverflow.com/wp-content/uploads/githubprojects4.png)
+![githubprojects](/blog/images/wordpress/githubprojects4.png)
 
  
 

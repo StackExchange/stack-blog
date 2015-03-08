@@ -11,7 +11,7 @@ categories:
 - server
 ---
 
-As you may have noticed many of Stack Overflow's websites suffered some down time today from 6am EDT for about an hour and Stackoverflow.com is still offline ![](http://blog.stackoverflow.com/wp-content/uploads/ups12.jpg)for maintenance. Our collocation provider in Oregon experienced an unexpected UPS failure that caused us to lose power. Once they were able to restore power Geoff, who was already on site, brought up our servers. Stack Overflow itself is still offline because the database, was, well "suspect" according to SQL Server. We have recovered the database and are working to bring it live again.
+As you may have noticed many of Stack Overflow's websites suffered some down time today from 6am EDT for about an hour and Stackoverflow.com is still offline ![](/blog/images/wordpress/ups12.jpg)for maintenance. Our collocation provider in Oregon experienced an unexpected UPS failure that caused us to lose power. Once they were able to restore power Geoff, who was already on site, brought up our servers. Stack Overflow itself is still offline because the database, was, well "suspect" according to SQL Server. We have recovered the database and are working to bring it live again.
 
  We apologize for this outage but we are working hard to make sure you can always get your answers. We will keep everyone updated.
 

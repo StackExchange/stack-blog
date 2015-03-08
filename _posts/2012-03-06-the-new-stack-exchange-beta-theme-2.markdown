@@ -17,7 +17,7 @@ I wanted to give you a quick look at the **new Stack Exchange Beta theme.** Yes,
 _Raise the curtain, cue the trumpet fanfare…_
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/sethemebeforeafter3.png)
+![](/blog/images/wordpress/sethemebeforeafter3.png)
 
 
 Alas, poor Sketchy…
@@ -32,7 +32,7 @@ At first glance, the new beta theme looks like an unembellished version of any g
 
 The crux of this change is that it's high time we stopped equating beta sites with being somehow _unfinished_. Sure, in their earliest days — when a community is defining their scope, building a FAQ, and finding its community leaders — a site might be considered _unfinished_ (i.e. "under construction"). But once you are past those earliest wild-west days of figuring out why your site exists, a site should no longer be considered unfinished. Right out of the gate, the Stack Exchange engines gives you a world-class Q&A suite worth recommending on its own merits. If you've been holding back, go ahead; share, promote, and enjoy!
 
-![](http://blog.stackoverflow.com/wp-content/uploads/Area-51-rising-traffic-cropped-300x134.png)
+![](/blog/images/wordpress/Area-51-rising-traffic-cropped-300x134.png)
 
 There was a time when we thought the average beta period would last, oh… about 90 days. The site would begin and build up enough content and users to reach critical mass. Reaching that tipping point of unstoppable growth defines "graduation." But getting to that point is hard work, and it usually take longer than 90 days… much longer. So we're left with this big gap between the time when a site is truly "under construction" to when it finally reaches graduation and gets its own custom design.
 
@@ -40,18 +40,18 @@ There was a time when we thought the average beta period would last, oh… about
 
 The idea of Sketchy started out as a whimsical nod to the early days of web development when just about every website started out with a definitive "under construction" theme.
 
-![](http://blog.stackoverflow.com/wp-content/uploads/under-construction.png)
+![](/blog/images/wordpress/under-construction.png)
 
 In the mid-90's, webmasters often labeled their sites "under construction" as if to warn hapless Internet travelers that, perchance, something might be added to the site. A funny thing happened along the way: Even as those websites grew, the _"pardon our dust"_ monikers remained as a warning of still more stuff to come — there's _always_ new pages, new articles, and new features to add. Websites are never "done," and thus the _perpetual_ under-construction themes endured.
 
-![](http://blog.stackoverflow.com/wp-content/uploads/Under-Construction-1.png)    ![](http://blog.stackoverflow.com/wp-content/uploads/Under-Construction-2.png)     ![](http://blog.stackoverflow.com/wp-content/uploads/Under-Construction-3.png)     ![](http://blog.stackoverflow.com/wp-content/uploads/Under-Construction-5.png)
+![](/blog/images/wordpress/Under-Construction-1.png)    ![](/blog/images/wordpress/Under-Construction-2.png)     ![](/blog/images/wordpress/Under-Construction-3.png)     ![](/blog/images/wordpress/Under-Construction-5.png)
 
 So maybe we carried on that "under construction" meme a bit too long. Giving our beta sites a decidedly unfinished look seemed topical for a 90-day beta. But when a beta goes on, sometimes for hundreds of days, folks start to wonder if the site would _ever_ be — quote, unquote — "finished."
 
 A lot of folks like Sketchy. **We** like Sketchy, and he will be missed. But most communities don't want to look like they're still on the drawing board when they've been working tirelessly on their site for months or even years. Every Stack Exchange site will still get their own custom design when they graduate. This new Beta Theme doesn't change that. But this new design gives your beta site a nice, clean, finished look that you can work with and display proudly for as long as necessary.
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/Beta-theme-coming-soon.png)
+![](/blog/images/wordpress/Beta-theme-coming-soon.png)
 
 
 

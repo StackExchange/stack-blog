@@ -17,7 +17,7 @@ I was amused to see this pop up on the [Stack Overflow](http://stackoverflow.com
 
 
 
-![stackoverflow-badges-alan-kay](http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-badges-alan-kay.png)
+![stackoverflow-badges-alan-kay](/blog/images/wordpress/stackoverflow-badges-alan-kay.png)
 
 
 

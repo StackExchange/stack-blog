@@ -33,7 +33,7 @@ And even earlier:
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/original-so-design-jeremy-kratz.png)
+![](/blog/images/wordpress/original-so-design-jeremy-kratz.png)
 
 
 

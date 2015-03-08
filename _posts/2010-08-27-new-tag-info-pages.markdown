@@ -30,7 +30,7 @@ Clicking on a given tag …
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/question-tags-highlighted2.png)
+![](/blog/images/wordpress/question-tags-highlighted2.png)
 
 
 
@@ -38,7 +38,7 @@ Clicking on a given tag …
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/tag-page-house-ad1.png)
+![](/blog/images/wordpress/tag-page-house-ad1.png)
 
 
 
@@ -93,7 +93,7 @@ Answers are considered hot for a tag when they are top-voted, not community wiki
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/tag-hot-answers.png)
+![](/blog/images/wordpress/tag-hot-answers.png)
 
 
 
@@ -109,7 +109,7 @@ It's exactly what you might think -- a simple chronological list of new answers 
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/tag-new-answers.png)
+![](/blog/images/wordpress/tag-new-answers.png)
 
 
 

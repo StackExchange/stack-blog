@@ -63,7 +63,7 @@ Assuming you have the minimum reputation required to award a bounty (currently 1
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/bounty-start-bounty.png)
+![](/blog/images/wordpress/bounty-start-bounty.png)
 
 
 
@@ -71,7 +71,7 @@ Here, you can slice off a (non-refundable) piece of your own reputation -- from 
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/bounty-award-question-text.png)
+![](/blog/images/wordpress/bounty-award-question-text.png)
 
 
 
@@ -83,7 +83,7 @@ If you're the bounty owner, you can award the bounty to a particular answer by s
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/bounty-award-indicators.png)
+![](/blog/images/wordpress/bounty-award-indicators.png)
 
 
 
@@ -114,7 +114,7 @@ Once awarded, you'll see the bounty amount icon permanently affixed to the answe
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/bounty-answer-awarded.png)
+![](/blog/images/wordpress/bounty-answer-awarded.png)
 
 
 

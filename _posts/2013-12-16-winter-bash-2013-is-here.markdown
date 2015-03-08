@@ -27,7 +27,7 @@ Here at Stack Exchange, we wanted to get each of you an awesome, personal gift, 
 
 
 
-[![header](http://blog.stackoverflow.com/wp-content/uploads/header.png)](http://blog.stackoverflow.com/wp-content/uploads/header.png)
+[![header](/blog/images/wordpress/header.png)](/blog/images/wordpress/header.png)
 
 
 
@@ -45,7 +45,7 @@ That's right: Winter Bash is back for another three weeks of millinery-related 
 **New hats:  **There are over 30 new hats to earn this year (with many thanks to contract designer [Elias Stein](http://www.eliasstein.com/)). And by "hats," we of course mean, "things you can stick on your avatar's face."
 
 
-[![6 hats](http://blog.stackoverflow.com/wp-content/uploads/6-hats.png)](http://blog.stackoverflow.com/wp-content/uploads/6-hats.png)
+[![6 hats](/blog/images/wordpress/6-hats.png)](/blog/images/wordpress/6-hats.png)
 
 
 And it's _possible_ that there just might be a couple of secret ones, too. (By "it's possible," we mean  "there definitely are, because we made them, like with computer code and everything, so there's not really much doubt whatsoever.")
@@ -55,7 +55,7 @@ And it's _possible_ that there just might be a couple of secret ones, too. (By
 **Hat position is adjustable on your face: **You remember how crushed you were after finally earning a mustache "hat," only to discover that on _your_ avatar, it was basically an _extremely_ dapper unibrow? NEVER AGAIN.
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/don-draper-position.png)](http://blog.stackoverflow.com/wp-content/uploads/don-draper-position.png)
+[![](/blog/images/wordpress/don-draper-position.png)](/blog/images/wordpress/don-draper-position.png)
 
 
 

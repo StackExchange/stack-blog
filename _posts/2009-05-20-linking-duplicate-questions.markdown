@@ -21,7 +21,7 @@ There are lots of small improvements that go with this build. We now **show the 
 
 
 
-![question-close-votes-shown](http://blog.stackoverflow.com/wp-content/uploads/question-close-votes-shown.png)
+![question-close-votes-shown](/blog/images/wordpress/question-close-votes-shown.png)
 
 
 
@@ -33,7 +33,7 @@ If you select "exact duplicate" as a reason, you'll get **a dynamic as-you-type 
 
 
 
-![question-close-duplicate-selector](http://blog.stackoverflow.com/wp-content/uploads/question-close-duplicate-selector.png)
+![question-close-duplicate-selector](/blog/images/wordpress/question-close-duplicate-selector.png)
 
 
 
@@ -41,7 +41,7 @@ If the question reaches the 5 vote close threshold, and has enough duplicate vot
 
 
 
-![question-close-duplicate-summary](http://blog.stackoverflow.com/wp-content/uploads/question-close-duplicate-summary.png)
+![question-close-duplicate-summary](/blog/images/wordpress/question-close-duplicate-summary.png)
 
 
 

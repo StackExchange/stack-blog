@@ -15,10 +15,10 @@ New Jersey born-and-bred, [Jamie Gingerelli](http://stackoverflow.com/users/6006
 
 Jamie loves **is obsessed with** **snowboarding**, and recently returned from an awesome snowboarding trip to Park City, Utah.
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/killington1.jpg)](http://blog.stackoverflow.com/wp-content/uploads/killington1.jpg) [![](http://blog.stackoverflow.com/wp-content/uploads/big-air2.jpg)](http://blog.stackoverflow.com/wp-content/uploads/big-air2.jpg)
+[![](/blog/images/wordpress/killington1.jpg)](/blog/images/wordpress/killington1.jpg) [![](/blog/images/wordpress/big-air2.jpg)](/blog/images/wordpress/big-air2.jpg)
 
 During the warmer months, she enjoys reading (especially about [vampires](http://www.chrismoore.com/index.html)), running on the pier in Hoboken, going to [concerts](http://www.blacktaxi.com/),  and spending time with her fat bulldog Holly.
 
 Welcome Jamie!
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/23425_954195367759_8810359_52053975_404722_n1-e1298303661879.jpg)](http://blog.stackoverflow.com/wp-content/uploads/23425_954195367759_8810359_52053975_404722_n1.jpg)
+[![](/blog/images/wordpress/23425_954195367759_8810359_52053975_404722_n1-e1298303661879.jpg)](/blog/images/wordpress/23425_954195367759_8810359_52053975_404722_n1.jpg)

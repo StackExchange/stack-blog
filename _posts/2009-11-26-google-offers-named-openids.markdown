@@ -64,7 +64,7 @@ First, **log in as yourself**. Go to your user page and look for the "add openid
 
 
 
-![so-openid-google-1](http://blog.stackoverflow.com/wp-content/uploads/so-openid-google-1.png)
+![so-openid-google-1](/blog/images/wordpress/so-openid-google-1.png)
 
 
 
@@ -72,7 +72,7 @@ Since you're **already logged in** you are adding a new openid. Enter your [Goog
 
 
 
-![so-openid-google-2](http://blog.stackoverflow.com/wp-content/uploads/so-openid-google-2.png)
+![so-openid-google-2](/blog/images/wordpress/so-openid-google-2.png)
 
 
 
@@ -80,7 +80,7 @@ You'll get redirected to Google where you can OK the use of your OpenID by our w
 
 
 
-![so-openid-google-3](http://blog.stackoverflow.com/wp-content/uploads/so-openid-google-3.png)
+![so-openid-google-3](/blog/images/wordpress/so-openid-google-3.png)
 
 
 
@@ -88,7 +88,7 @@ You'll get redirected back to us, and we confirm that yes, indeed, you _do_ want
 
 
 
-![so-openid-google-4](http://blog.stackoverflow.com/wp-content/uploads/so-openid-google-4.png)
+![so-openid-google-4](/blog/images/wordpress/so-openid-google-4.png)
 
 
 
@@ -96,7 +96,7 @@ Now you're back on your user page -- note the newly added OpenID on my account. 
 
 
 
-![so-openid-google-5](http://blog.stackoverflow.com/wp-content/uploads/so-openid-google-5.png)
+![so-openid-google-5](/blog/images/wordpress/so-openid-google-5.png)
 
 
 

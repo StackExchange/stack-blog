@@ -18,19 +18,19 @@ The first public [Stack Exchange](http://stackexchange.com) sites have surfaced.
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/stackexchange-1.png)
+![](/blog/images/wordpress/stackexchange-1.png)
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/stackexchange-2.png)
+![](/blog/images/wordpress/stackexchange-2.png)
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/stackexchange-3.png)
+![](/blog/images/wordpress/stackexchange-3.png)
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/stackexchange-4.png)
+![](/blog/images/wordpress/stackexchange-4.png)
 
 
 
@@ -69,7 +69,7 @@ Now, I'm not saying that our trilogy color schemes are perfect -- far from it. D
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/stackexchange-questions-page.png)
+![](/blog/images/wordpress/stackexchange-questions-page.png)
 
 
 

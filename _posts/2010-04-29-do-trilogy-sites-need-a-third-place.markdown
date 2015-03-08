@@ -48,7 +48,7 @@ It's clear that having two sites is a proven, workable, and necessary arrangemen
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/angry_unicorn.png)
+![](/blog/images/wordpress/angry_unicorn.png)
 
 
 

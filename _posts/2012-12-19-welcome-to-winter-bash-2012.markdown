@@ -48,8 +48,8 @@ Each hat has different criteria to unlock it, and there are even some _secret ha
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/watson.png)
-![](http://blog.stackoverflow.com/wp-content/uploads/leaderboard.png)
+![](/blog/images/wordpress/watson.png)
+![](/blog/images/wordpress/leaderboard.png)
 
 
 
@@ -57,7 +57,7 @@ Hats show up all over the site, wherever your gravatar is shown (well, except fo
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/hats202.png)
+![](/blog/images/wordpress/hats202.png)
 
 
 
@@ -65,7 +65,7 @@ You'll also get a notification when you earn a new item:
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/notice2.png)
+![](/blog/images/wordpress/notice2.png)
 
 
 
@@ -73,7 +73,7 @@ For all those of you who [really hate hats](http://blog.stackoverflow.com/wp-con
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/popup4.png)
+![](/blog/images/wordpress/popup4.png)
 
 
 

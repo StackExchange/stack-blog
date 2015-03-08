@@ -17,7 +17,7 @@ Remember [this old picture](http://stackoverflow.com/about)?
 
 
 
-![Wiki Blog Digg Reddit Forum Venn Diagram](http://blog.stackoverflow.com/wp-content/uploads/VennDiagramSmall.png)
+![Wiki Blog Digg Reddit Forum Venn Diagram](/blog/images/wordpress/VennDiagramSmall.png)
 
 
 
@@ -55,7 +55,7 @@ For a long time we've been pleading for people to write [more canonical answers]
 
 
 
-How can we make this any clearer? Maybe a big bold checkbox will help.![Answer Your Own Question Checkbox](http://blog.stackoverflow.com/wp-content/uploads/AnswerYourOwnQuestion.png)
+How can we make this any clearer? Maybe a big bold checkbox will help.![Answer Your Own Question Checkbox](/blog/images/wordpress/AnswerYourOwnQuestion.png)
 
 
 

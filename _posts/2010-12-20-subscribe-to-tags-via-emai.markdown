@@ -19,11 +19,11 @@ To begin, visit the [Tag Sets page on stackexchange.com](http://stackexchange.co
 
 Click on a tag set to browse the questions, then look on the **sidebar** for the email option:
 
-![](http://blog.stackoverflow.com/wp-content/uploads/tag-set-subscribe.png)
+![](/blog/images/wordpress/tag-set-subscribe.png)
 
 Once you click **subscribe**, you can indicate which email address you want to use, and how often you want questions to be emailed to you -- every 15 minutes, every 3 hours, or every day.
 
-![](http://blog.stackoverflow.com/wp-content/uploads/tag-set-subscribe-options.png)
+![](/blog/images/wordpress/tag-set-subscribe-options.png)
 
 Once you click subscribe, **you'll automatically get emailed when new questions with those tags appear on _any_ of [our sites](http://stackexchange.com/sites)**.
 

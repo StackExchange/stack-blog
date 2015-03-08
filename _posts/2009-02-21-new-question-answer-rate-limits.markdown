@@ -33,7 +33,7 @@ That is, until tonight, when we were hit by a malicious user of a type we haven'
 
 
 
-![stack-overflow-malicious-user](http://blog.stackoverflow.com/wp-content/uploads/stack-overflow-malicious-user.png)
+![stack-overflow-malicious-user](/blog/images/wordpress/stack-overflow-malicious-user.png)
 
 
 
@@ -41,7 +41,7 @@ In a way, I suppose I should thank this user for doing this on a Friday night wh
 
 
 
-![vandalized-2pac](http://blog.stackoverflow.com/wp-content/uploads/vandalized-2pac.jpg)
+![vandalized-2pac](/blog/images/wordpress/vandalized-2pac.jpg)
 
 
 
@@ -57,7 +57,7 @@ Wow. How bored is _this_ guy? (And yeah, it's always a guy, who are we kidding.)
 
 
 
-![the-country-which-shall-not-be-named](http://blog.stackoverflow.com/wp-content/uploads/the-country-which-shall-not-be-named.jpg)
+![the-country-which-shall-not-be-named](/blog/images/wordpress/the-country-which-shall-not-be-named.jpg)
 
 
 

@@ -33,7 +33,7 @@ I just tried it, and it really works! I called 646-200-0000 from my cell phone, 
 
 
 
-![Cinch result rss feed screenshot](http://blog.stackoverflow.com/wp-content/uploads/cinch-result-rss-feed-screenshot.png)
+![Cinch result rss feed screenshot](/blog/images/wordpress/cinch-result-rss-feed-screenshot.png)
 
 
 

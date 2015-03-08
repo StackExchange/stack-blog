@@ -24,7 +24,7 @@ I've been remiss in not celebrating an important Stack Overflow milestone. Somet
 
 
 
-![birthday-cake-animated](http://blog.stackoverflow.com/wp-content/uploads/birthday-cake-animated.gif)
+![birthday-cake-animated](/blog/images/wordpress/birthday-cake-animated.gif)
 
 
 
@@ -81,7 +81,7 @@ We are pretty regularly doing **500k pageviews per day now**. Geoff has also bee
 
 
 
-![soweb1-traffic-daily-cacti-graph](http://blog.stackoverflow.com/wp-content/uploads/soweb1-traffic-daily-cacti-graph.png)
+![soweb1-traffic-daily-cacti-graph](/blog/images/wordpress/soweb1-traffic-daily-cacti-graph.png)
 
 
 

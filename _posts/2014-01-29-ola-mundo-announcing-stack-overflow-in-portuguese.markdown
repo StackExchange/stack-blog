@@ -15,7 +15,7 @@ categories:
 
 If you can't read the rest of this post, it's because I'm not talking to you.  Which is a little weird, since _I_ can't even read this without help from our Brazilian Community Manager, Gabe, who's been kind enough to help me write this in Portuguese.
 
-[![hola-mundo-cedilla](http://blog.stackoverflow.com/wp-content/uploads/hola-mundo-cedilla.png)](http://blog.stackoverflow.com/wp-content/uploads/hola-mundo-cedilla.png)
+[![hola-mundo-cedilla](/blog/images/wordpress/hola-mundo-cedilla.png)](/blog/images/wordpress/hola-mundo-cedilla.png)
 
 Depois de semanas em beta privado, nós temos o prazer de anunciar que hoje vai ao ar o [nosso primeiro Stack Overflow internacional](http://pt.stackoverflow.com?utm_source=se-blog&utm_medium=blog&utm_campaign=pt-so-launch&utm_content=pt-so-launch-blog-announcement). E não se trata de um clone em português do site original, mas sim de uma comunidade completamente nova. Uma comunidade que vai poder decidir como ela quer ser, e como vai poder ajudar os desenvolvedores de língua portuguesa.
 
@@ -86,7 +86,7 @@ Queríamos começar com uma comunidade que atendesse a dois requisitos:
 
 
 
-[![2014-01-28_11-08-04](http://blog.stackoverflow.com/wp-content/uploads/2014-01-28_11-08-04-1024x505.jpg)](http://blog.stackoverflow.com/wp-content/uploads/2014-01-28_11-08-04.jpg)
+[![2014-01-28_11-08-04](/blog/images/wordpress/2014-01-28_11-08-04-1024x505.jpg)](/blog/images/wordpress/2014-01-28_11-08-04.jpg)
 
 Então a escolha foi muito simples. O Brasil conta com uma das maiores e mais fortes comunidades de programação do mundo, e isso sem contar Portugal, Moçambique, Angola e outros países menores que acrescentam ainda mais desenvolvedores talentos a esse grupo.
 

@@ -13,7 +13,7 @@ categories:
 
 I'm pleased to announce that we're kicking off 2011 with some new blood on the team, starting with [Nick Craver](http://stackoverflow.com/users/13249/nick-craver).
 
-![](http://blog.stackoverflow.com/wp-content/uploads/nick-craver-photo.jpg)
+![](/blog/images/wordpress/nick-craver-photo.jpg)
 
 Nick will be working remotely for us from North Carolina.
 

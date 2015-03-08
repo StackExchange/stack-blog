@@ -13,7 +13,7 @@ categories:
 
 It seems like just two months ago (OK, it was exactly two months ago) that I announced our [last batch](http://blog.stackoverflow.com/2013/02/max-oded-wendy-val-shefali-and-mike-welcome-to-the-family/) of new hires.  Today I'm pleased to introduce our newest employees.  There are TEN of them ... so get comfy and prepare to learn all about our latest hires, who seem to have an overall fondness for food, sports, music, and the great outdoors.
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/Brady-Jessica.jpg)](http://blog.stackoverflow.com/wp-content/uploads/Brady-Jessica.jpg)**Jessica Brady, Associate Sales Representative (Careers 2.0)**
+[![](/blog/images/wordpress/Brady-Jessica.jpg)](/blog/images/wordpress/Brady-Jessica.jpg)**Jessica Brady, Associate Sales Representative (Careers 2.0)**
 
 _New York_
 
@@ -29,7 +29,7 @@ Marco is from Milan, Italy, and he has been traveling around the world for some 
 
 
 
-**[![](http://blog.stackoverflow.com/wp-content/uploads/Depree-Pieter1.jpg)](http://blog.stackoverflow.com/wp-content/uploads/Depree-Pieter1.jpg)**
+**[![](/blog/images/wordpress/Depree-Pieter1.jpg)](/blog/images/wordpress/Depree-Pieter1.jpg)**
 
 **Pieter DePree, Recruiter**
 
@@ -37,7 +37,7 @@ _New York_
 
 Native to sunny Florida, Pieter decided to trade in his flip flops and board shorts for a piece of the good life here in the Big Apple.  Pieter has a passion for travel and has, at last count, traveled to 27 countries including a year spent living abroad in China. Previously, Pieter has been responsible for high volume regional sales recruitment at ADP, as well as the national sales recruitment at Seamless! Outside of work, you might find Pieter hiking, sailing, or playing volleyball.  Pieter is very excited to be helping Stack Exchange grow its global sales teams!
 
-**[![](http://blog.stackoverflow.com/wp-content/uploads/Egan-Jim.jpg)](http://blog.stackoverflow.com/wp-content/uploads/Egan-Jim.jpg)**
+**[![](/blog/images/wordpress/Egan-Jim.jpg)](/blog/images/wordpress/Egan-Jim.jpg)**
 
 **Jim Egan, Sales Representative (Careers 2.0)**
 
@@ -45,19 +45,19 @@ _Denver****_
 
 Originally from the south side of Chicago, Jim now feels the need to argue with people in bars that Chicago is the greatest city in the world. He's passionate about the Bears, Bulls, Blackhawks, and White Sox, so Jim couldn't imagine a better sports town. Leaving that behind and moving to the Rockies was tough but needed.  Armed with his trusty sidekick Loomis (pictured here, left), Jim plans to conquer the mountains and everything Denver has to offer. An avid crock-potter and terrible at accents, Jim hopes to fit in nicely.
 
-******[![](http://blog.stackoverflow.com/wp-content/uploads/Frey-Paul.jpg)](http://blog.stackoverflow.com/wp-content/uploads/Frey-Paul.jpg)Paul Frey, Account Executive (Careers 2.0)**
+******[![](/blog/images/wordpress/Frey-Paul.jpg)](/blog/images/wordpress/Frey-Paul.jpg)Paul Frey, Account Executive (Careers 2.0)**
 
 _London_
 
 Paul has lived in London since May 2010 and he loves it!  He was born and grew up in Cologne, Germany. Due to this fact he’s a big supporter of his local football club, FC Koeln. But he doesn’t just watch sports; he also loves to be very active, playing European handball up the third German division, and also squash and football. But his biggest passion is cooking and eating! His cooking style is experimental and cross culture…he never uses recipes, he just combines the things he knows and likes. Most of the time his cooking tastes good. ;-)
 
-**[![](http://blog.stackoverflow.com/wp-content/uploads/Jenkins-Todd.png)](http://blog.stackoverflow.com/wp-content/uploads/Jenkins-Todd.png)Todd Jenkins, Sales Representative (Careers 2.0)**
+**[![](/blog/images/wordpress/Jenkins-Todd.png)](/blog/images/wordpress/Jenkins-Todd.png)Todd Jenkins, Sales Representative (Careers 2.0)**
 
 _London_
 
 Todd originally hails from Boston (UK not US!) but now lives in London. He’s looking forward to transferring his sales skills to Stack Exchange! He really enjoys trying new foods and new restaurants, and he has a great love of the outdoors and adventurous walks. Apart from enjoying friends’ company in London's nightlife, he does try to keep very sporty, although he admits shamefully that his two favourite sports are the two he’s the worst at (tennis and swimming). Todd is also a huge fan of Liverpool Football Club!!
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/Malhotra-Shikha.jpg)](http://blog.stackoverflow.com/wp-content/uploads/Malhotra-Shikha.jpg)
+[![](/blog/images/wordpress/Malhotra-Shikha.jpg)](/blog/images/wordpress/Malhotra-Shikha.jpg)
 
 **Shikha Malhotra, Account Executive (Careers 2.0)**
 
@@ -67,7 +67,7 @@ Shikha grew up in Brussels / Belgium and has an Indian background. She has been 
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/Michalak-Pawel.jpg)](http://blog.stackoverflow.com/wp-content/uploads/Michalak-Pawel.jpg)
+[![](/blog/images/wordpress/Michalak-Pawel.jpg)](/blog/images/wordpress/Michalak-Pawel.jpg)
 
 **Pawel Michalak, Sales Representative (Careers 2.0)**
 
@@ -85,7 +85,7 @@ An LA native, Bryan Ross (everybody just calls him "Ross") moved to Denver in 2
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/Still-Derek.jpg)](http://blog.stackoverflow.com/wp-content/uploads/Still-Derek.jpg)
+[![](/blog/images/wordpress/Still-Derek.jpg)](/blog/images/wordpress/Still-Derek.jpg)
 
 **Derek Still, Sales Representative (Careers 2.0)**
 

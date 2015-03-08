@@ -52,7 +52,7 @@ You'll see the "start a bounty" link at the bottom of the question.
 
 
 
-![bounty-collapsed](http://blog.stackoverflow.com/wp-content/uploads/bounty-collapsed.png)
+![bounty-collapsed](/blog/images/wordpress/bounty-collapsed.png)
 
 
 
@@ -60,7 +60,7 @@ Clicking on it expands the bounty panel. Use the slider to establish a reputatio
 
 
 
-![bounty-expanded](http://blog.stackoverflow.com/wp-content/uploads/bounty-expanded.png)
+![bounty-expanded](/blog/images/wordpress/bounty-expanded.png)
 
 
 
@@ -68,7 +68,7 @@ Everyone who visits the question will see the active bounty details posted direc
 
 
 
-![bounty-question-countdown](http://blog.stackoverflow.com/wp-content/uploads/bounty-question-countdown.png)
+![bounty-question-countdown](/blog/images/wordpress/bounty-question-countdown.png)
 
 
 
@@ -80,7 +80,7 @@ There are some definite perks to being a bountied question:
 
 
 
-![bounty-tab-and-markers](http://blog.stackoverflow.com/wp-content/uploads/bounty-tab-and-markers.png)
+![bounty-tab-and-markers](/blog/images/wordpress/bounty-tab-and-markers.png)
 
 
 
@@ -124,7 +124,7 @@ Note that all bounty awards are immune to the daily reputation cap, of course. A
 
 
 
-![bounty-accepted](http://blog.stackoverflow.com/wp-content/uploads/bounty-accepted.png)
+![bounty-accepted](/blog/images/wordpress/bounty-accepted.png)
 
 
 

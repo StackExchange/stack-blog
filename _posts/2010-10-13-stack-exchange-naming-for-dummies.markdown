@@ -57,7 +57,7 @@ What is an elevator pitch? I only have a moment, so here's an "elevator pitch" f
 
 This isn't as easy as it sounds. Imagine a user who will never read your FAQ and you have fifteen seconds to grab their attention. It should be catchy but descriptive. It should be thoroughly clear but painfully concise. **Make every... word... count.**
 
-![](http://blog.stackoverflow.com/wp-content/uploads/superman-elevator.jpg)
+![](/blog/images/wordpress/superman-elevator.jpg)
 
 Here are some creative examples:
 

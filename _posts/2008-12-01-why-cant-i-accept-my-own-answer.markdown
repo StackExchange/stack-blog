@@ -47,7 +47,7 @@ When viewing your question, you'll see something nobody else does in the answers
 
 
 
-![stackoverflow-answers-not-accepted](http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-answers-not-accepted1.png)
+![stackoverflow-answers-not-accepted](/blog/images/wordpress/stackoverflow-answers-not-accepted1.png)
 
 
 
@@ -55,7 +55,7 @@ Mousing over the accept icon shows a tooltip that explains what it does. **Click
 
 
 
-![stackoverflow-answers-accepted](http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-answers-accepted1.png)
+![stackoverflow-answers-accepted](/blog/images/wordpress/stackoverflow-answers-accepted1.png)
 
 
 

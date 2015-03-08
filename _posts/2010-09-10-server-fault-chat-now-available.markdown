@@ -16,7 +16,7 @@ As promised, we are slowly rolling out the [third place](http://blog.stackoverfl
 
 We [started](http://blog.stackoverflow.com/2010/08/chat-now-in-public-beta/) with chat.meta.stackoverflow, and as [previously announced on the Server Fault blog](http://blog.serverfault.com/post/1097124976/live-chat-for-server-fault), we now have **[chat.serverfault.com](http://chat.serverfault.com)**.
 
-![](http://blog.stackoverflow.com/wp-content/uploads/chat-rooms-sf-and-meta1.png)
+![](/blog/images/wordpress/chat-rooms-sf-and-meta1.png)
 
 You may remember we [rolled out per-site metas](http://blog.stackoverflow.com/2010/07/new-per-site-metas/) across the entire Stack Exchange network, as well as for Server Fault and Super User, back in July. So from our perspective, we're completing the experience:
 

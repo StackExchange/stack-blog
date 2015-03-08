@@ -18,7 +18,7 @@ One unwanted side effect of launching so many [awesome new Stack Exchange networ
 
 Well, I'm pleased to announce we've added a new global inbox to every site in our network. On **the genuinetm Stack Exchange logo in the upper left hand corner**, the one you already [know and love](http://blog.stackoverflow.com/2010/08/network-central-stackexchange-com/) -- you may see a new, small red numeric indicator light up:
 
-![](http://blog.stackoverflow.com/wp-content/uploads/global-inbox-notify.png)
+![](/blog/images/wordpress/global-inbox-notify.png)
 
 That small red number tells you **how many new replies you have across the entire [Stack Exchange network](http://stackexchange.com/sites)** of websites. And by replies, I mean:
 
@@ -35,7 +35,7 @@ That small red number tells you **how many new replies you have across the entir
 
 Click the number to go directly to the global inbox.
 
-![](http://blog.stackoverflow.com/wp-content/uploads/global-inbox-expanded.png)
+![](/blog/images/wordpress/global-inbox-expanded.png)
 
 At any given time, the inbox will contain a list of the last 30 global messages for your account, along with:
 
