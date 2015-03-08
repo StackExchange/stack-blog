@@ -7,6 +7,7 @@ slug: stack-exchange-takes-on-denver-welcome-to-our-new-colleagues
 title: Stack Exchange takes on Denver! Welcome to our new colleagues!
 wordpress_id: 12132
 categories:
+- company
 - background
 - denver
 ---

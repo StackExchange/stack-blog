@@ -7,6 +7,7 @@ slug: server-fault-hiring-from-the-community-agai
 title: 'Server Fault: Hiring From The Community Again'
 wordpress_id: 5211
 categories:
+- company
 - serverfault.com
 ---
 

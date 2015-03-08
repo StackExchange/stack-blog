@@ -7,6 +7,7 @@ slug: stack-overflow-world-wide-meetups-success
 title: Stack Overflow World-Wide MeetUps - Success!
 wordpress_id: 7737
 categories:
+- company
 - community
 ---
 

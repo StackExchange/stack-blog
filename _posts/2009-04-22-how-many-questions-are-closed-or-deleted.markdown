@@ -7,6 +7,7 @@ slug: how-many-questions-are-closed-or-deleted
 title: How Many Questions are Closed or Deleted?
 wordpress_id: 1091
 categories:
+- company
 - community
 - design
 ---

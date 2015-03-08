@@ -7,6 +7,7 @@ slug: flair-now-even-flairier
 title: 'Flair: Now Even Flairier'
 wordpress_id: 5177
 categories:
+- company
 - community
 - serverfault.com
 - stackexchange

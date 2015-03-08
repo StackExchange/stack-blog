@@ -7,6 +7,7 @@ slug: stack-exchange-api-usage-stats-and-api-2-0-plans
 title: Stack Exchange API Usage Stats and API 2.0 Plans
 wordpress_id: 9955
 categories:
+- company
 - API
 ---
 

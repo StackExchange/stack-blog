@@ -7,6 +7,7 @@ slug: a-stack-overflow-holiday
 title: A Stack Overflow Holiday
 wordpress_id: 185
 categories:
+- company
 - background
 ---
 

@@ -7,6 +7,7 @@ slug: does-this-site-have-a-chance-of-succeeding
 title: Does this site have a chance of succeeding?
 wordpress_id: 8781
 categories:
+- company
 - Area51
 - reference
 - stackexchange

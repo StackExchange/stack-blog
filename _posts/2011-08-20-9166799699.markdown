@@ -8,6 +8,7 @@ slug: '9166799699'
 title: We like our users and want to help them.
 wordpress_id: 10551
 categories:
+- company
 - chaos
 post_format:
 - Aside

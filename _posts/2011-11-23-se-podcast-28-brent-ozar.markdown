@@ -7,6 +7,7 @@ slug: se-podcast-28-brent-ozar
 title: 'SE Podcast #28 - Brent Ozar'
 wordpress_id: 10237
 categories:
+- company
 - podcasts
 ---
 

@@ -7,6 +7,7 @@ slug: who-are-you-take-the-2013-survey
 title: Who are you? Take the 2013 survey!
 wordpress_id: 14313
 categories:
+- company
 - stackoverflow
 - survey
 ---

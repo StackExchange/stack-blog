@@ -7,6 +7,7 @@ slug: a-few-speed-improvements
 title: A Few Speed Improvements
 wordpress_id: 1803
 categories:
+- company
 - background
 ---
 

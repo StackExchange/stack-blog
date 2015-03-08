@@ -7,6 +7,7 @@ slug: protect-intellectual-property-but-not-like-this
 title: Protect intellectual property - but not like this
 wordpress_id: 10305
 categories:
+- company
 - announcement
 ---
 

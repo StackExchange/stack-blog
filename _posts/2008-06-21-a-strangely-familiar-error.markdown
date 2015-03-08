@@ -7,6 +7,7 @@ slug: a-strangely-familiar-error
 title: A Strangely Familiar Error
 wordpress_id: 57
 categories:
+- company
 - background
 ---
 

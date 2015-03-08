@@ -7,6 +7,7 @@ slug: new-hires-in-new-york
 title: New Hires in New York
 wordpress_id: 3694
 categories:
+- company
 - background
 ---
 

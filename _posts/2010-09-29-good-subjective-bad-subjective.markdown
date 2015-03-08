@@ -7,6 +7,7 @@ slug: good-subjective-bad-subjective
 title: Good Subjective, Bad Subjective
 wordpress_id: 5236
 categories:
+- company
 - community
 - reference
 - stackexchange

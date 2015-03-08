@@ -7,6 +7,7 @@ slug: dont-be-afraid-to-use-the-science
 title: Don't Be Afraid to Use The Science
 wordpress_id: 10322
 categories:
+- company
 - community
 - design
 - reference

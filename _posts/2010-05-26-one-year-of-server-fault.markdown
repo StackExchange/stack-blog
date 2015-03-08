@@ -7,6 +7,7 @@ slug: one-year-of-server-fault
 title: One Year of Server Fault
 wordpress_id: 3173
 categories:
+- company
 - serverfault.com
 ---
 

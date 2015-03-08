@@ -7,6 +7,7 @@ slug: merging-season
 title: Merging Season
 wordpress_id: 5144
 categories:
+- company
 - Area51
 - community
 - stackexchange

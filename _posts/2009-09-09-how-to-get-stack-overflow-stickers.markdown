@@ -7,6 +7,7 @@ slug: how-to-get-stack-overflow-stickers
 title: How to Get Stack Overflow Stickers
 wordpress_id: 1934
 categories:
+- company
 - community
 - serverfault.com
 - superuser.com

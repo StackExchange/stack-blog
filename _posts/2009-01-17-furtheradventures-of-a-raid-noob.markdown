@@ -7,6 +7,7 @@ slug: furtheradventures-of-a-raid-noob
 title: Further Adventures of a RAID Noob
 wordpress_id: 453
 categories:
+- company
 - server
 ---
 

@@ -7,6 +7,7 @@ slug: help-stackexchange-with-colors
 title: Help StackExchange With Colors
 wordpress_id: 1967
 categories:
+- company
 - community
 - design
 - stackexchange

@@ -7,6 +7,7 @@ slug: interesting-and-ignored-tags-now-support-wildcards
 title: Interesting and Ignored Tags Now Support Wildcards
 wordpress_id: 1225
 categories:
+- company
 - community
 - design
 ---

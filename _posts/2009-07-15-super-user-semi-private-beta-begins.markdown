@@ -7,6 +7,7 @@ slug: super-user-semi-private-beta-begins
 title: Super User Semi-Private Beta Begins
 wordpress_id: 1662
 categories:
+- company
 - Beta
 - superuser.com
 ---

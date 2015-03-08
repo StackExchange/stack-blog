@@ -7,6 +7,7 @@ slug: see-you-at-pdc-2008
 title: See You At PDC 2008
 wordpress_id: 141
 categories:
+- company
 - background
 ---
 

@@ -7,6 +7,7 @@ slug: podcast-28
 title: 'Podcast #28'
 wordpress_id: 146
 categories:
+- company
 - podcasts
 ---
 

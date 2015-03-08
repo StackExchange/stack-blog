@@ -7,6 +7,7 @@ slug: welcome-valued-associate-rebecca-chernoff
 title: Welcome Valued Associate Rebecca Chernoff
 wordpress_id: 6572
 categories:
+- company
 - background
 ---
 

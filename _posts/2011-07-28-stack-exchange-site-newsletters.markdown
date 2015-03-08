@@ -7,6 +7,7 @@ slug: stack-exchange-site-newsletters
 title: Stack Exchange Site Newsletters
 wordpress_id: 9080
 categories:
+- company
 - stackexchange
 ---
 

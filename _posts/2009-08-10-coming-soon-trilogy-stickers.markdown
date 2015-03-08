@@ -7,6 +7,7 @@ slug: coming-soon-trilogy-stickers
 title: 'Coming Soon: Trilogy Stickers'
 wordpress_id: 1821
 categories:
+- company
 - background
 - community
 - serverfault.com

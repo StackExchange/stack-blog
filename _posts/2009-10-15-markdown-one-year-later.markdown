@@ -7,6 +7,7 @@ slug: markdown-one-year-later
 title: Markdown, One Year Later
 wordpress_id: 2053
 categories:
+- company
 - background
 - design
 ---

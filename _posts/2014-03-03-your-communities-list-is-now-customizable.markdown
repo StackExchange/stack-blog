@@ -7,6 +7,7 @@ slug: your-communities-list-is-now-customizable
 title: Your communities list is now customizable
 wordpress_id: 14593
 categories:
+- company
 - announcement
 - design
 ---

@@ -7,6 +7,7 @@ slug: welcome-valued-associate-sean-gallagher
 title: Welcome Valued Associate Sean Gallagher
 wordpress_id: 9927
 categories:
+- company
 - announcement
 ---
 

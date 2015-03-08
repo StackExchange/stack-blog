@@ -7,6 +7,7 @@ slug: podcast-44-this-should-have-been-43
 title: 'Podcast #44 - This Should Have Been #43'
 wordpress_id: 13206
 categories:
+- company
 - podcasts
 ---
 

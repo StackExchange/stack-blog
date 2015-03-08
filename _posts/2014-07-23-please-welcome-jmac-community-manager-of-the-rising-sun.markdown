@@ -7,6 +7,7 @@ slug: please-welcome-jmac-community-manager-of-the-rising-sun
 title: Please welcome jmac, Community Manager of the Rising Sun
 wordpress_id: 14754
 categories:
+- company
 - background
 - community
 ---

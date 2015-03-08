@@ -7,6 +7,7 @@ slug: a-day-in-the-penalty-box
 title: A Day in the Penalty Box
 wordpress_id: 970
 categories:
+- company
 - community
 ---
 

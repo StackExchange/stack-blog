@@ -7,6 +7,7 @@ slug: new-editing-badges-and-enhancements-to-suggested-edits
 title: 'Editing is essential: new badges and review enhancements '
 wordpress_id: 14817
 categories:
+- company
 - announcement
 - community
 - design

@@ -7,6 +7,7 @@ slug: stack-overflow-trilogy-lego-minifigs
 title: Stack Overflow Trilogy Lego Minifigs
 wordpress_id: 2260
 categories:
+- company
 - background
 - community
 ---

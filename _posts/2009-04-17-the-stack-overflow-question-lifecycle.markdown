@@ -7,6 +7,7 @@ slug: the-stack-overflow-question-lifecycle
 title: The Stack Overflow Question Lifecycle
 wordpress_id: 1074
 categories:
+- company
 - community
 - design
 ---

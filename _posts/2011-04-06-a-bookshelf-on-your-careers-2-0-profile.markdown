@@ -7,6 +7,7 @@ slug: a-bookshelf-on-your-careers-2-0-profile
 title: A bookshelf on your Careers 2.0 profile
 wordpress_id: 7651
 categories:
+- company
 - careers
 ---
 

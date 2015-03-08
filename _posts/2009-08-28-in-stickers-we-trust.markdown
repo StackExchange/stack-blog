@@ -7,6 +7,7 @@ slug: in-stickers-we-trust
 title: In Stickers We Trust
 wordpress_id: 1902
 categories:
+- company
 - background
 - community
 - serverfault.com

@@ -7,6 +7,7 @@ slug: stack-overflow-homepage-changes
 title: Stack Overflow Homepage Changes
 wordpress_id: 6071
 categories:
+- company
 - community
 - design
 ---

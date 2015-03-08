@@ -7,6 +7,7 @@ slug: facebook-stackoverflow
 title: Announcing facebook.stackoverflow.com
 wordpress_id: 9530
 categories:
+- company
 - announcement
 ---
 

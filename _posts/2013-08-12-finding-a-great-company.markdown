@@ -7,6 +7,7 @@ slug: finding-a-great-company
 title: Finding a Great Company
 wordpress_id: 13933
 categories:
+- company
 - careers
 ---
 

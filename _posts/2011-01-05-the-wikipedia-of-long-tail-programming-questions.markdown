@@ -7,6 +7,7 @@ slug: the-wikipedia-of-long-tail-programming-questions
 title: The Wikipedia of Long Tail Programming Questions
 wordpress_id: 6545
 categories:
+- company
 - community
 - design
 - reference

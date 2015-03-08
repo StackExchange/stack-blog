@@ -7,6 +7,7 @@ slug: 2013-stack-overflow-user-survey-results
 title: 2013 Stack Overflow User Survey Results
 wordpress_id: 14574
 categories:
+- company
 - background
 - community
 - stackoverflow

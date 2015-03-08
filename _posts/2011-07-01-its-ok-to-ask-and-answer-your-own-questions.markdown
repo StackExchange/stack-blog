@@ -7,6 +7,7 @@ slug: its-ok-to-ask-and-answer-your-own-questions
 title: It's OK to Ask and Answer Your Own Questions
 wordpress_id: 8636
 categories:
+- company
 - community
 - reference
 - stackexchange

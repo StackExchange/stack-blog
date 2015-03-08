@@ -7,6 +7,7 @@ slug: what-was-stack-overflow-built-with
 title: What Was Stack Overflow Built With?
 wordpress_id: 102
 categories:
+- company
 - server
 ---
 

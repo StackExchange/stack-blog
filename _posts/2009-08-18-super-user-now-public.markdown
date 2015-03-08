@@ -7,6 +7,7 @@ slug: super-user-now-public
 title: Super User Now Public
 wordpress_id: 1848
 categories:
+- company
 - superuser.com
 ---
 

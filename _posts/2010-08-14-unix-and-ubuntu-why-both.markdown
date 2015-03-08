@@ -7,6 +7,7 @@ slug: unix-and-ubuntu-why-both
 title: 'Unix and Ubuntu: Why Both?'
 wordpress_id: 4542
 categories:
+- company
 - Area51
 - stackexchange
 ---

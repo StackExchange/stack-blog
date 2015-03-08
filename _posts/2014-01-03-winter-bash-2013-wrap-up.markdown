@@ -7,6 +7,7 @@ slug: winter-bash-2013-wrap-up
 title: Winter Bash 2013 Wrap-Up
 wordpress_id: 14346
 categories:
+- company
 - announcement
 - stackexchange
 ---

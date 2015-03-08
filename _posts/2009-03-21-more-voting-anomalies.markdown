@@ -7,6 +7,7 @@ slug: more-voting-anomalies
 title: More Voting Anomalies
 wordpress_id: 897
 categories:
+- company
 - community
 - design
 ---

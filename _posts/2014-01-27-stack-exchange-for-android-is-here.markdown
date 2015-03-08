@@ -7,6 +7,7 @@ slug: stack-exchange-for-android-is-here
 title: Stack Exchange for Android is here!
 wordpress_id: 14395
 categories:
+- company
 - announcement
 - mobile
 ---

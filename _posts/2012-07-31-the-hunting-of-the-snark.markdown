@@ -7,6 +7,7 @@ slug: the-hunting-of-the-snark
 title: The Hunting of the Snark
 wordpress_id: 12029
 categories:
+- company
 - community
 - stackexchange
 ---

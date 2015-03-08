@@ -7,6 +7,7 @@ slug: what-happens-when-you-reach-200k-reputation
 title: What Happens When You Reach 200k Reputation?
 wordpress_id: 4938
 categories:
+- company
 - background
 - community
 ---

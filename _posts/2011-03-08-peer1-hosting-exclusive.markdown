@@ -7,6 +7,7 @@ slug: peer1-hosting-exclusive
 title: PEER 1 Hosting – Making your data center more awesome!
 wordpress_id: 7305
 categories:
+- company
 - announcement
 - server
 ---

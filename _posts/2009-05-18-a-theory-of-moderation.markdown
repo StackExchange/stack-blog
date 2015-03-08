@@ -7,6 +7,7 @@ slug: a-theory-of-moderation
 title: A Theory of Moderation
 wordpress_id: 1297
 categories:
+- company
 - community
 - design
 - reference

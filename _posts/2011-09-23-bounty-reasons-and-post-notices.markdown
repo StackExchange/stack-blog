@@ -7,6 +7,7 @@ slug: bounty-reasons-and-post-notices
 title: Bounty Reasons and Post Notices
 wordpress_id: 9899
 categories:
+- company
 - community
 - design
 ---

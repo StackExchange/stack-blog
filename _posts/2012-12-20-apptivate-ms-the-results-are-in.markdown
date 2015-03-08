@@ -7,6 +7,7 @@ slug: apptivate-ms-the-results-are-in
 title: 'Apptivate.MS: the results are in!'
 wordpress_id: 12827
 categories:
+- company
 - announcement
 - promotion
 - stackoverflow

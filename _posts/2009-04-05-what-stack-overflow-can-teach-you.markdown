@@ -7,6 +7,7 @@ slug: what-stack-overflow-can-teach-you
 title: What Stack Overflow Can Teach You
 wordpress_id: 961
 categories:
+- company
 - community
 ---
 

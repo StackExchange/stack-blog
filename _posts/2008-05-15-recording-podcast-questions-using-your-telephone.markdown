@@ -7,6 +7,7 @@ slug: recording-podcast-questions-using-your-telephone
 title: Recording Podcast Questions Using Your Telephone
 wordpress_id: 39
 categories:
+- company
 - podcasts
 ---
 

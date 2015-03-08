@@ -7,6 +7,7 @@ slug: youre-my-favorite
 title: You're My Favorite
 wordpress_id: 110
 categories:
+- company
 - design
 ---
 

@@ -7,6 +7,7 @@ slug: alternate-sorting-orders
 title: Alternate Sorting Orders
 wordpress_id: 2082
 categories:
+- company
 - background
 - community
 ---

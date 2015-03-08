@@ -7,6 +7,7 @@ slug: se-podcast-30-robert-cartaino-rebecca-chernoff
 title: 'SE Podcast #30 - Robert Cartaino & Rebecca Chernoff'
 wordpress_id: 10303
 categories:
+- company
 - podcasts
 ---
 

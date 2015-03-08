@@ -7,6 +7,7 @@ slug: whatever-were-doing-together-apparently-its-working
 title: Whatever We're Doing Together, Apparently It's Working
 wordpress_id: 2737
 categories:
+- company
 - community
 ---
 

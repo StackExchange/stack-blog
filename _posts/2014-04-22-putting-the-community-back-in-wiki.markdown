@@ -7,6 +7,7 @@ slug: putting-the-community-back-in-wiki
 title: Putting the Community back in Wiki
 wordpress_id: 14660
 categories:
+- company
 - announcement
 - background
 - community

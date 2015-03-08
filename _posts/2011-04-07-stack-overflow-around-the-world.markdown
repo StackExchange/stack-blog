@@ -7,6 +7,7 @@ slug: stack-overflow-around-the-world
 title: Stack Overflow Around the World
 wordpress_id: 7670
 categories:
+- company
 - reference
 - stackexchange
 ---

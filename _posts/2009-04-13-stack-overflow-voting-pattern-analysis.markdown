@@ -7,6 +7,7 @@ slug: stack-overflow-voting-pattern-analysis
 title: Stack Overflow Voting Pattern Analysis
 wordpress_id: 1025
 categories:
+- company
 - community
 ---
 

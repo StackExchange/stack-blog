@@ -7,6 +7,7 @@ slug: a-new-top-bar-for-stack-exchange
 title: A New Top Bar for Stack Exchange
 wordpress_id: 14223
 categories:
+- company
 - announcement
 - design
 ---

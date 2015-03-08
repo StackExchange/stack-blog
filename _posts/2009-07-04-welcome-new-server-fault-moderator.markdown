@@ -7,6 +7,7 @@ slug: welcome-new-server-fault-moderator
 title: Welcome New Server Fault Moderator
 wordpress_id: 1580
 categories:
+- company
 - community
 - moderators
 - serverfault.com

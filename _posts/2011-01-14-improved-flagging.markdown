@@ -7,6 +7,7 @@ slug: improved-flagging
 title: Improved Flagging
 wordpress_id: 6779
 categories:
+- company
 - community
 - design
 ---

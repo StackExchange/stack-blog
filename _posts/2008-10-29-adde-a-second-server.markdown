@@ -7,6 +7,7 @@ slug: adde-a-second-server
 title: Added a Second Server
 wordpress_id: 143
 categories:
+- company
 - server
 ---
 

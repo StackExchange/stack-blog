@@ -7,6 +7,7 @@ slug: how-much-should-you-pay-developers
 title: How much should you pay developers?
 wordpress_id: 8737
 categories:
+- company
 - background
 - stackexchange
 ---

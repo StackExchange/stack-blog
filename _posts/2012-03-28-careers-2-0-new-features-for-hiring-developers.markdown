@@ -7,6 +7,7 @@ slug: careers-2-0-new-features-for-hiring-developers
 title: Careers 2.0 New Features for Hiring Developers
 wordpress_id: 11468
 categories:
+- company
 - careers
 ---
 

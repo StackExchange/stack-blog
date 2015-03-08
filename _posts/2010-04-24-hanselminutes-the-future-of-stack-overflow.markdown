@@ -7,6 +7,7 @@ slug: hanselminutes-the-future-of-stack-overflow
 title: 'Hanselminutes: The Future of Stack Overflow'
 wordpress_id: 2974
 categories:
+- company
 - background
 - stackexchange
 ---

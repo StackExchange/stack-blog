@@ -7,6 +7,7 @@ slug: stack-exchange-is-an-openid-provider
 title: Stack Exchange is an OpenID Provider
 wordpress_id: 8228
 categories:
+- company
 - community
 - design
 ---

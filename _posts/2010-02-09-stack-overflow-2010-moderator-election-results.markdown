@@ -7,6 +7,7 @@ slug: stack-overflow-2010-moderator-election-results
 title: Stack Overflow 2010 Moderator Election Results
 wordpress_id: 2717
 categories:
+- company
 - community
 - moderators
 ---

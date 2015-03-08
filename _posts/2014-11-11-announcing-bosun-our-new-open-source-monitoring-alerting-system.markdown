@@ -7,6 +7,7 @@ slug: announcing-bosun-our-new-open-source-monitoring-alerting-system
 title: Announcing Bosun, our new open source monitoring & alerting system
 wordpress_id: 14872
 categories:
+- company
 - engineering
 ---
 

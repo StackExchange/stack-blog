@@ -7,6 +7,7 @@ slug: new-dns-provider
 title: New DNS Provider
 wordpress_id: 1954
 categories:
+- company
 - background
 - server
 ---

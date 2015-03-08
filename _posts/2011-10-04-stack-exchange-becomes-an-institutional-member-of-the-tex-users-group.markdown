@@ -7,6 +7,7 @@ slug: stack-exchange-becomes-an-institutional-member-of-the-tex-users-group
 title: Stack Exchange becomes an institutional member of the TeX Users Group
 wordpress_id: 9989
 categories:
+- company
 - community
 - stackexchange
 ---

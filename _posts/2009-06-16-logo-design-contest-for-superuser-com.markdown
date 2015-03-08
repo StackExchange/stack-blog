@@ -7,6 +7,7 @@ slug: logo-design-contest-for-superuser-com
 title: Logo Design Contest for superuser.com
 wordpress_id: 1489
 categories:
+- company
 - community
 - design
 - superuser.com

@@ -7,6 +7,7 @@ slug: se-podcast-13
 title: 'SE Podcast #13 - Jin Yang'
 wordpress_id: 9033
 categories:
+- company
 - podcasts
 ---
 

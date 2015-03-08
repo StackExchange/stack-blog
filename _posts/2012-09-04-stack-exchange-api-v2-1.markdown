@@ -7,6 +7,7 @@ slug: stack-exchange-api-v2-1
 title: Stack Exchange API V2.1
 wordpress_id: 12190
 categories:
+- company
 - API
 ---
 

@@ -7,6 +7,7 @@ slug: twitter-question-feeds-for-stack-exchange
 title: Twitter Question Feeds for Stack Exchange
 wordpress_id: 6704
 categories:
+- company
 - community
 - stackexchange
 ---

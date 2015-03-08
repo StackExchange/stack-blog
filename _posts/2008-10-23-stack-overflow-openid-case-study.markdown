@@ -7,6 +7,7 @@ slug: stack-overflow-openid-case-study
 title: Stack Overflow OpenID Case Study
 wordpress_id: 137
 categories:
+- company
 - design
 ---
 

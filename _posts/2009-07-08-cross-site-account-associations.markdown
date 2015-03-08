@@ -7,6 +7,7 @@ slug: cross-site-account-associations
 title: Cross-Site Account Associations
 wordpress_id: 1620
 categories:
+- company
 - community
 - serverfault.com
 - superuser.com

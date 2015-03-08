@@ -7,6 +7,7 @@ slug: careers-now-open-for-businesses
 title: 'Careers: Now Open for Business(es)'
 wordpress_id: 2233
 categories:
+- company
 - careers
 ---
 

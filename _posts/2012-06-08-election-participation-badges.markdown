@@ -7,6 +7,7 @@ slug: election-participation-badges
 title: Election participation badges
 wordpress_id: 11860
 categories:
+- company
 - announcement
 - stackexchange
 - stackoverflow

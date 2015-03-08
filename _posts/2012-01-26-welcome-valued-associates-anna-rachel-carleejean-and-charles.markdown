@@ -7,6 +7,7 @@ slug: welcome-valued-associates-anna-rachel-carleejean-and-charles
 title: Welcome Valued Associates Anna, Rachel, CarleeJean and Charles!
 wordpress_id: 10858
 categories:
+- company
 - background
 ---
 

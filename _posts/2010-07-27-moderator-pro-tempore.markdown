@@ -7,6 +7,7 @@ slug: moderator-pro-tempore
 title: Moderator Pro Tempore
 wordpress_id: 4248
 categories:
+- company
 - stackexchange
 ---
 

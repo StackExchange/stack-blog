@@ -7,6 +7,7 @@ slug: stack-exchange-api-v2-0-public-beta
 title: Stack Exchange API V2.0 Public Beta
 wordpress_id: 10472
 categories:
+- company
 - API
 - Beta
 - community

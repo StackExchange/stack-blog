@@ -7,6 +7,7 @@ slug: introducing-markdownsharp
 title: Introducing MarkdownSharp
 wordpress_id: 2388
 categories:
+- company
 - community
 ---
 

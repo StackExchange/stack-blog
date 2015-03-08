@@ -7,6 +7,7 @@ slug: reversal-and-pundit-badges
 title: Reversal and Pundit Badges
 wordpress_id: 1642
 categories:
+- company
 - community
 - design
 ---

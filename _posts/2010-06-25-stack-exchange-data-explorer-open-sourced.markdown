@@ -7,6 +7,7 @@ slug: stack-exchange-data-explorer-open-sourced
 title: Stack Exchange Data Explorer Open Sourced
 wordpress_id: 3851
 categories:
+- company
 - announcement
 - cc-wiki-dump
 - community

@@ -7,6 +7,7 @@ slug: logo-contest-winner-for-serverfaultcom
 title: Logo Contest Winner for serverfault.com
 wordpress_id: 1039
 categories:
+- company
 - serverfault.com
 ---
 

@@ -7,6 +7,7 @@ slug: logo-design-contest-winner
 title: Logo Design Contest Winner
 wordpress_id: 16
 categories:
+- company
 - design
 ---
 

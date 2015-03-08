@@ -7,6 +7,7 @@ slug: the-stack-big-board
 title: The Stack Big Board (with Video!)
 wordpress_id: 10366
 categories:
+- company
 - stackexchange
 ---
 

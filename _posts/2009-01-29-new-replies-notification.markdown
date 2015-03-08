@@ -7,6 +7,7 @@ slug: new-replies-notification
 title: New Replies Notification
 wordpress_id: 557
 categories:
+- company
 - design
 ---
 

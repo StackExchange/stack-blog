@@ -7,6 +7,7 @@ slug: are-some-questions-too-simple
 title: Are Some Questions Too Simple?
 wordpress_id: 7273
 categories:
+- company
 - community
 - reference
 - stackexchange

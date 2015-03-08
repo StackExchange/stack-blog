@@ -7,6 +7,7 @@ slug: redesigned-tags-page
 title: Redesigned Tags Page
 wordpress_id: 7500
 categories:
+- company
 - community
 - design
 - stackexchange

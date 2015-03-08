@@ -7,6 +7,7 @@ slug: asking-better-questions
 title: Asking Better Questions
 wordpress_id: 5356
 categories:
+- company
 - community
 - design
 - reference

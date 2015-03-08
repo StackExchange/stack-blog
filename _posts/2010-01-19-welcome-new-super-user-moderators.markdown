@@ -7,6 +7,7 @@ slug: welcome-new-super-user-moderators
 title: Welcome New Super User Moderators
 wordpress_id: 2614
 categories:
+- company
 - community
 - moderators
 - superuser.com

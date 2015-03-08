@@ -7,6 +7,7 @@ slug: i-dont-give-a-damn-about-my-reputation
 title: I Don't Give a Damn About My Reputation
 wordpress_id: 104
 categories:
+- company
 - design
 ---
 

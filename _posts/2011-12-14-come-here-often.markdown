@@ -7,6 +7,7 @@ slug: come-here-often
 title: Come Here Often?
 wordpress_id: 10450
 categories:
+- company
 - background
 - community
 - survey

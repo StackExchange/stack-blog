@@ -7,6 +7,7 @@ slug: stack-overflow-2010-moderator-election-begins
 title: Stack Overflow 2010 Moderator Election Begins
 wordpress_id: 2675
 categories:
+- company
 - community
 - moderators
 ---

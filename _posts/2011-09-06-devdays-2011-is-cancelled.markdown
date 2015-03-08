@@ -7,6 +7,7 @@ slug: devdays-2011-is-cancelled
 title: DevDays 2011 is Cancelled
 wordpress_id: 9768
 categories:
+- company
 - announcement
 - devdays
 ---

@@ -7,6 +7,7 @@ slug: new-question-asker-features
 title: New Question Asker Features
 wordpress_id: 1875
 categories:
+- company
 - design
 ---
 

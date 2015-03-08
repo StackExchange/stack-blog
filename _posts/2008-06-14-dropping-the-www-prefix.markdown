@@ -7,6 +7,7 @@ slug: dropping-the-www-prefix
 title: Dropping the WWW Prefix
 wordpress_id: 52
 categories:
+- company
 - design
 ---
 

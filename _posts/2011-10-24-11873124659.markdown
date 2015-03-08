@@ -8,6 +8,7 @@ slug: '11873124659'
 title: Lessons from Event Sponsorships
 wordpress_id: 10547
 categories:
+- company
 - chaos
 post_format:
 - Aside

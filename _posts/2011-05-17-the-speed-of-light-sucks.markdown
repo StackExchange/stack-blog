@@ -7,6 +7,7 @@ slug: the-speed-of-light-sucks
 title: The Speed of Light Sucks
 wordpress_id: 8158
 categories:
+- company
 - community
 - server
 - stackexchange

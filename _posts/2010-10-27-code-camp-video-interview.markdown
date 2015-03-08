@@ -7,6 +7,7 @@ slug: code-camp-video-interview
 title: Code Camp Video Interview
 wordpress_id: 5886
 categories:
+- company
 - community
 - design
 ---

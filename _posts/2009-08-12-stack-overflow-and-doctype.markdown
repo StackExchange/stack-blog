@@ -7,6 +7,7 @@ slug: stack-overflow-and-doctype
 title: Stack Overflow and Doctype
 wordpress_id: 1832
 categories:
+- company
 - background
 - community
 ---

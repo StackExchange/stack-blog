@@ -7,6 +7,7 @@ slug: podcast-56-green-or-red-curae
 title: 'Podcast #56 - Green or Red Curae'
 wordpress_id: 14603
 categories:
+- company
 - podcasts
 ---
 

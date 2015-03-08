@@ -7,6 +7,7 @@ slug: the-trouble-with-popularity
 title: The Trouble With Popularity
 wordpress_id: 10875
 categories:
+- company
 - community
 - design
 - reference

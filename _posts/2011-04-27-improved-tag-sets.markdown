@@ -7,6 +7,7 @@ slug: improved-tag-sets
 title: Improved Tag Sets
 wordpress_id: 7875
 categories:
+- company
 - stackexchange
 ---
 

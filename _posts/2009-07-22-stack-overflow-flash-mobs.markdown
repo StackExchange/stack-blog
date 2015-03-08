@@ -7,6 +7,7 @@ slug: stack-overflow-flash-mobs
 title: Stack Overflow Flash Mobs
 wordpress_id: 1682
 categories:
+- company
 - background
 - community
 ---

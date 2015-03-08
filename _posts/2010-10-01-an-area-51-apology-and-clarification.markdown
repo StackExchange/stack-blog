@@ -7,6 +7,7 @@ slug: an-area-51-apology-and-clarification
 title: An Area 51 Apology -- and Clarification
 wordpress_id: 5325
 categories:
+- company
 - Area51
 - community
 ---

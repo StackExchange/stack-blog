@@ -7,6 +7,7 @@ slug: logo-design-contest-for-serverfaultcom
 title: Logo Design Contest for serverfault.com
 wordpress_id: 952
 categories:
+- company
 - design
 - serverfault.com
 ---

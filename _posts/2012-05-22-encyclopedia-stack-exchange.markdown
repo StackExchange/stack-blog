@@ -7,6 +7,7 @@ slug: encyclopedia-stack-exchange
 title: Encyclopedia Stack Exchange
 wordpress_id: 11760
 categories:
+- company
 - announcement
 - stackexchange
 ---

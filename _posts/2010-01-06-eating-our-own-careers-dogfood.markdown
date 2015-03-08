@@ -7,6 +7,7 @@ slug: eating-our-own-careers-dogfood
 title: Eating Our Own Careers Dogfood
 wordpress_id: 2454
 categories:
+- company
 - careers
 - community
 ---

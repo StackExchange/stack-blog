@@ -7,6 +7,7 @@ slug: logo-design-contest
 title: Logo Design Contest
 wordpress_id: 10
 categories:
+- company
 - design
 ---
 

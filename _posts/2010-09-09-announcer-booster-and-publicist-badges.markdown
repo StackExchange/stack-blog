@@ -7,6 +7,7 @@ slug: announcer-booster-and-publicist-badges
 title: Announcer, Booster, and Publicist Badges
 wordpress_id: 5036
 categories:
+- company
 - community
 - stackexchange
 ---

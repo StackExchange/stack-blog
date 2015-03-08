@@ -7,6 +7,7 @@ slug: a-recipe-to-promote-your-site
 title: A Recipe to Promote your Site
 wordpress_id: 4771
 categories:
+- company
 - promotion
 - reference
 - stackexchange

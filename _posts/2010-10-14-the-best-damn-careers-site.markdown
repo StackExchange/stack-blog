@@ -7,6 +7,7 @@ slug: the-best-damn-careers-site
 title: The Best Damn Careers Site
 wordpress_id: 5591
 categories:
+- company
 - careers
 ---
 

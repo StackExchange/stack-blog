@@ -7,6 +7,7 @@ slug: new-per-site-metas
 title: New Per-Site Metas
 wordpress_id: 4198
 categories:
+- company
 - meta
 - serverfault.com
 - stackexchange

@@ -7,6 +7,7 @@ slug: nominate-a-new-stack-overflow-moderator
 title: Nominate a New Stack Overflow Moderator
 wordpress_id: 890
 categories:
+- company
 - community
 ---
 

@@ -7,6 +7,7 @@ slug: stack-exchange-gives-back-2011
 title: Stack Exchange Gives Back 2011
 wordpress_id: 10586
 categories:
+- company
 - background
 ---
 

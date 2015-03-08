@@ -7,6 +7,7 @@ slug: bad-news-good-news
 title: Bad News, Good News
 wordpress_id: 83
 categories:
+- company
 - Beta
 - podcasts
 ---

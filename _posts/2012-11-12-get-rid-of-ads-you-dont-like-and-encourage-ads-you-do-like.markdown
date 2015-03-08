@@ -7,6 +7,7 @@ slug: get-rid-of-ads-you-dont-like-and-encourage-ads-you-do-like
 title: Get rid of ads you don’t like (and encourage ads you do like)
 wordpress_id: 12480
 categories:
+- company
 - announcement
 ---
 

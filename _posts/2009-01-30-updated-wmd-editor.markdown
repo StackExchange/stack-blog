@@ -7,6 +7,7 @@ slug: updated-wmd-editor
 title: Updated WMD Editor
 wordpress_id: 580
 categories:
+- company
 - design
 ---
 

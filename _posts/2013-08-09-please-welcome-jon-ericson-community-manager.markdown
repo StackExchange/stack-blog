@@ -7,6 +7,7 @@ slug: please-welcome-jon-ericson-community-manager
 title: Please welcome Jon Ericson, Community Manager
 wordpress_id: 13902
 categories:
+- company
 - background
 - community
 ---

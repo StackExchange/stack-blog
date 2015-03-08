@@ -7,6 +7,7 @@ slug: area-51-trusting-the-community
 title: 'Area 51: Trusting the Community'
 wordpress_id: 3866
 categories:
+- company
 - Area51
 - community
 ---

@@ -7,6 +7,7 @@ slug: congratulations-super-user-moderators
 title: Congratulations Super User Moderators!
 wordpress_id: 1843
 categories:
+- company
 - community
 - moderators
 - superuser.com

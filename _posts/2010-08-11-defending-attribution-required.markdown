@@ -7,6 +7,7 @@ slug: defending-attribution-required
 title: Defending Attribution Required
 wordpress_id: 4456
 categories:
+- company
 - cc-wiki-dump
 - community
 - legal

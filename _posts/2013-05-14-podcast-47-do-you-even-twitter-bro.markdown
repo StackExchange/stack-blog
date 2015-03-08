@@ -7,6 +7,7 @@ slug: podcast-47-do-you-even-twitter-bro
 title: 'Podcast #47 - Do You Even Twitter Bro?'
 wordpress_id: 13381
 categories:
+- company
 - podcasts
 ---
 

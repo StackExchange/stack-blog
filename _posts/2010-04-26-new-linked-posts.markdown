@@ -7,6 +7,7 @@ slug: new-linked-posts
 title: New Linked Posts
 wordpress_id: 2982
 categories:
+- company
 - community
 - design
 ---

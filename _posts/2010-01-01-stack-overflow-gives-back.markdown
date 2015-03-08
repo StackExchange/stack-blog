@@ -7,6 +7,7 @@ slug: stack-overflow-gives-back
 title: Stack Overflow Gives Back
 wordpress_id: 2267
 categories:
+- company
 - background
 ---
 

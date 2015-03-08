@@ -7,6 +7,7 @@ slug: welcome-valued-associate-nick-larsen
 title: Welcome Valued Associate Nick Larsen
 wordpress_id: 6859
 categories:
+- company
 - background
 ---
 

@@ -7,6 +7,7 @@ slug: rovio-or-how-to-annoy-your-coworkers-from-200-miles-away
 title: 'Rovio: Or, How to Annoy Your Coworkers From 2,800 Miles Away'
 wordpress_id: 5952
 categories:
+- company
 - background
 ---
 

@@ -7,6 +7,7 @@ slug: three-markdown-gotcha
 title: Three Markdown Gotchas
 wordpress_id: 60
 categories:
+- company
 - design
 ---
 

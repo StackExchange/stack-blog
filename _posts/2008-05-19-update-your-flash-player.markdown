@@ -7,6 +7,7 @@ slug: update-your-flash-player
 title: Update Your Flash Player
 wordpress_id: 42
 categories:
+- company
 - podcasts
 ---
 

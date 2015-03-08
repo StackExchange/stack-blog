@@ -7,6 +7,7 @@ slug: chat-now-in-public-beta
 title: Chat Now In Public Beta
 wordpress_id: 4417
 categories:
+- company
 - Beta
 ---
 

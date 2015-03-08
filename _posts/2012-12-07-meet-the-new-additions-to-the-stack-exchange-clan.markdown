@@ -7,6 +7,7 @@ slug: meet-the-new-additions-to-the-stack-exchange-clan
 title: Meet the new additions to the Stack Exchange clan
 wordpress_id: 12613
 categories:
+- company
 - background
 ---
 

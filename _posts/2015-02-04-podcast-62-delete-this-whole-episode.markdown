@@ -7,6 +7,7 @@ slug: podcast-62-delete-this-whole-episode
 title: 'Podcast #62 - Delete This Whole Episode'
 wordpress_id: 15339
 categories:
+- company
 - podcasts
 ---
 

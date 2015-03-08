@@ -7,6 +7,7 @@ slug: welcome-tim-post-our-latest-community-manager
 title: Welcome Tim Post, our latest Community Manager
 wordpress_id: 13402
 categories:
+- company
 - background
 - community
 ---

@@ -7,6 +7,7 @@ slug: stack-overflow-developer-days-conference
 title: Stack Overflow Developer Days Conference
 wordpress_id: 1239
 categories:
+- company
 - community
 ---
 

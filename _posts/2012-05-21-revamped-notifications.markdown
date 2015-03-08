@@ -7,6 +7,7 @@ slug: revamped-notifications
 title: Revamped Notifications
 wordpress_id: 11718
 categories:
+- company
 - announcement
 - stackexchange
 ---

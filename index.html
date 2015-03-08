@@ -2,6 +2,32 @@
 layout: default
 ---
 
+<div class="padded">
+	<div class="home-hero">
+	</div>
+	<div class="featured-posts">
+		<div class="-row">
+			<div class="-col6">
+				<article class="featured-post post _textCenter">
+					<div class="top">
+						<h4>Company News</h4>
+						{% assign company_post = site.categories.company | first %}
+						<h2>{{ company_post.title }}</h2>
+					</div>
+				</article>
+			</div>
+			<div class="-col6">
+				<article class="featured-post post _textCenter">
+					<div class="top">
+						<h4>Engineering</h4>
+						{% assign company_post = site.categories.engineering | first %}
+						<h2>{{ company_post.title }}</h2>
+					</div>
+				</article>
+			</div>
+		</div>
+	</div>
+</div>
 <div class="inner-container padded">
 	<div class="-row">
 		<div class="-col8">

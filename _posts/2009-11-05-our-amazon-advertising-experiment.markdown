@@ -7,6 +7,7 @@ slug: our-amazon-advertising-experiment
 title: Our Amazon Advertising Experiment
 wordpress_id: 2122
 categories:
+- company
 - design
 ---
 

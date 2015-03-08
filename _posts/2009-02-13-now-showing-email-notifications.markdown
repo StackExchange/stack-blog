@@ -7,6 +7,7 @@ slug: now-showing-email-notifications
 title: 'Now Showing: Email Notifications'
 wordpress_id: 654
 categories:
+- company
 - design
 ---
 

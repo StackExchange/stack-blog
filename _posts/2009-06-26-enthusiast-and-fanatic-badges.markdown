@@ -7,6 +7,7 @@ slug: enthusiast-and-fanatic-badges
 title: Enthusiast and Fanatic Badges
 wordpress_id: 1528
 categories:
+- company
 - community
 ---
 

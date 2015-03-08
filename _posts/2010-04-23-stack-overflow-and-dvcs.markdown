@@ -7,6 +7,7 @@ slug: stack-overflow-and-dvcs
 title: Stack Overflow and DVCS
 wordpress_id: 2958
 categories:
+- company
 - background
 ---
 

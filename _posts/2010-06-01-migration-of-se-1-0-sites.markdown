@@ -7,6 +7,7 @@ slug: migration-of-se-1-0-sites
 title: Migration of SE 1.0 Sites
 wordpress_id: 3357
 categories:
+- company
 - stackexchange
 ---
 

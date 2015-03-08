@@ -7,6 +7,7 @@ slug: new-top-bugs-and-top-requests-on-meta
 title: New Top Bugs and Top Requests on Meta
 wordpress_id: 3205
 categories:
+- company
 - community
 ---
 

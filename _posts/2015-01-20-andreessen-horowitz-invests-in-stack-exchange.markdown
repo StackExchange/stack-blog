@@ -8,6 +8,7 @@ title: Andreessen Horowitz Invests in Stack Exchange
 source: http://joelonsoftware.com/items/2015/01/20.html
 wordpress_id: 15287
 categories:
+- company
 - announcement
 - stackexchange
 ---

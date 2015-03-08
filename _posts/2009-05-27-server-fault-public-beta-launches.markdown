@@ -7,6 +7,7 @@ slug: server-fault-public-beta-launches
 title: Server Fault Public Beta Launches
 wordpress_id: 1349
 categories:
+- company
 - Beta
 - serverfault.com
 ---

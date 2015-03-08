@@ -7,6 +7,7 @@ slug: server-fault-and-the-powerscripting-podcast
 title: Server Fault and the PowerScripting Podcast
 wordpress_id: 2188
 categories:
+- company
 - background
 - community
 - serverfault.com

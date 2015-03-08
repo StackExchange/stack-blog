@@ -7,6 +7,7 @@ slug: stack-exchange-keyboard-shortcuts
 title: Stack Exchange Keyboard Shortcuts
 wordpress_id: 10985
 categories:
+- company
 - stackexchange
 ---
 

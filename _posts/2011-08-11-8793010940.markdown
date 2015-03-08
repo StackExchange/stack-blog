@@ -8,6 +8,7 @@ slug: '8793010940'
 title: Winning People and Influencing Friends
 wordpress_id: 10553
 categories:
+- company
 - chaos
 post_format:
 - Aside

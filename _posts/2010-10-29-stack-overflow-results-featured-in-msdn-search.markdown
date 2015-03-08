@@ -7,6 +7,7 @@ slug: stack-overflow-results-featured-in-msdn-search
 title: Stack Overflow results featured in MSDN Search
 wordpress_id: 5895
 categories:
+- company
 - community
 ---
 

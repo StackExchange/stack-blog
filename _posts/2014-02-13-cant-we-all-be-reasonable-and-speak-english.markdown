@@ -7,6 +7,7 @@ slug: cant-we-all-be-reasonable-and-speak-english
 title: Can't We All be Reasonable and Speak English?
 wordpress_id: 14473
 categories:
+- company
 - announcement
 - internationalization
 - stackoverflow

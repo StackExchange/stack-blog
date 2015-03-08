@@ -7,6 +7,7 @@ slug: welcome-valued-associate-nick-craver
 title: Welcome Valued Associate Nick Craver
 wordpress_id: 6553
 categories:
+- company
 - background
 ---
 

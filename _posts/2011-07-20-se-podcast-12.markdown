@@ -7,6 +7,7 @@ slug: se-podcast-12
 title: 'SE Podcast #12 - Patrick McKenzie'
 wordpress_id: 8771
 categories:
+- company
 - podcasts
 ---
 

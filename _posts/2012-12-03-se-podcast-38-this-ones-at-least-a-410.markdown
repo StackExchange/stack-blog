@@ -7,6 +7,7 @@ slug: se-podcast-38-this-ones-at-least-a-410
 title: 'SE Podcast #38 - This One''s At Least a 4/10'
 wordpress_id: 12554
 categories:
+- company
 - podcasts
 ---
 

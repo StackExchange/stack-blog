@@ -7,6 +7,7 @@ slug: superuser-com-logo-vote
 title: superuser.com Logo Vote
 wordpress_id: 1558
 categories:
+- company
 - community
 - design
 - superuser.com

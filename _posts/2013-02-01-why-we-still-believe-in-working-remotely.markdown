@@ -7,6 +7,7 @@ slug: why-we-still-believe-in-working-remotely
 title: Why We (Still) Believe in Working Remotely
 wordpress_id: 13121
 categories:
+- company
 - background
 ---
 

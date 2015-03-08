@@ -7,6 +7,7 @@ slug: browsers-and-screen-size-on-stack-overflow
 title: Browsers and Screen Size on Stack Overflow
 wordpress_id: 1852
 categories:
+- company
 - background
 ---
 

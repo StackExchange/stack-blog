@@ -7,6 +7,7 @@ slug: attribution-required
 title: Attribution Required
 wordpress_id: 1519
 categories:
+- company
 - cc-wiki-dump
 - community
 - legal

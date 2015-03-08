@@ -7,6 +7,7 @@ slug: the-value-of-downvoting-or-how-hacker-news-gets-it-wrong
 title: The Value of Downvoting, or, How Hacker News Gets It Wrong
 wordpress_id: 802
 categories:
+- company
 - community
 ---
 

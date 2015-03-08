@@ -7,6 +7,7 @@ slug: 1000000th-user
 title: 1,000,000th user!
 wordpress_id: 8416
 categories:
+- company
 - community
 - stackexchange
 ---

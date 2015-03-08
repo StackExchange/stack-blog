@@ -7,6 +7,7 @@ slug: welcome-new-community-moderators
 title: Welcome New Community Moderators
 wordpress_id: 1311
 categories:
+- company
 - community
 - moderators
 ---

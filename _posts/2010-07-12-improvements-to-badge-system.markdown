@@ -7,6 +7,7 @@ slug: improvements-to-badge-system
 title: Improvements to Badge System
 wordpress_id: 4135
 categories:
+- company
 - community
 - design
 ---

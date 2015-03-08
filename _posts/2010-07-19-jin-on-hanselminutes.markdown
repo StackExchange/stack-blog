@@ -7,6 +7,7 @@ slug: jin-on-hanselminutes
 title: Jin on Hanselminutes
 wordpress_id: 4191
 categories:
+- company
 - design
 - podcasts
 ---

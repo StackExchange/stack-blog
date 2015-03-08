@@ -7,6 +7,7 @@ slug: the-art-of-organizing-chaos
 title: The Art of Organizing CHAOS
 wordpress_id: 10135
 categories:
+- company
 - stackexchange
 ---
 

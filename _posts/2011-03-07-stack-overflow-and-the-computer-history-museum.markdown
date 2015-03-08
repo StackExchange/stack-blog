@@ -7,6 +7,7 @@ slug: stack-overflow-and-the-computer-history-museum
 title: Stack Overflow and the Computer History Museum
 wordpress_id: 7400
 categories:
+- company
 - background
 - community
 ---

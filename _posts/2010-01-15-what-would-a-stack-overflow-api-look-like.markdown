@@ -7,6 +7,7 @@ slug: what-would-a-stack-overflow-api-look-like
 title: What Would a Stack Overflow API Look Like?
 wordpress_id: 2544
 categories:
+- company
 - API
 - background
 - community

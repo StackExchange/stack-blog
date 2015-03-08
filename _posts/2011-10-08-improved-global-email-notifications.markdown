@@ -7,6 +7,7 @@ slug: improved-global-email-notifications
 title: Improved Global Email Notifications
 wordpress_id: 10021
 categories:
+- company
 - community
 - design
 ---

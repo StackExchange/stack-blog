@@ -7,6 +7,7 @@ slug: new-protected-question-status
 title: New Protected Question Status
 wordpress_id: 3417
 categories:
+- company
 - community
 - design
 - superuser.com

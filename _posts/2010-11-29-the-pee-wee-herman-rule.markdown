@@ -7,6 +7,7 @@ slug: the-pee-wee-herman-rule
 title: The Pee-Wee Herman Rule
 wordpress_id: 6182
 categories:
+- company
 - community
 - design
 - reference

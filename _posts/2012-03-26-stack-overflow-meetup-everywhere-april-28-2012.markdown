@@ -7,6 +7,7 @@ slug: stack-overflow-meetup-everywhere-april-28-2012
 title: 'Stack Overflow Meetup Everywhere: April 28, 2012'
 wordpress_id: 11415
 categories:
+- company
 - announcement
 - community
 - meetups

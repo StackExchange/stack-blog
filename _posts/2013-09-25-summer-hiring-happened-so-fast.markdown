@@ -7,6 +7,7 @@ slug: summer-hiring-happened-so-fast
 title: Summer Hiring, Happened So Fast
 wordpress_id: 14123
 categories:
+- company
 - announcement
 ---
 

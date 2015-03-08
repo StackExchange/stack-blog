@@ -7,6 +7,7 @@ slug: careers-now-more-awesomer
 title: 'Careers: Now More Awesome(r)'
 wordpress_id: 3819
 categories:
+- company
 - careers
 ---
 

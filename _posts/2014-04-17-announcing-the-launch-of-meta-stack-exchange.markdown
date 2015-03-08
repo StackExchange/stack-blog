@@ -7,6 +7,7 @@ slug: announcing-the-launch-of-meta-stack-exchange
 title: Announcing The Launch Of Meta Stack Exchange
 wordpress_id: 14633
 categories:
+- company
 - announcement
 - background
 - meta

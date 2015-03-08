@@ -7,6 +7,7 @@ slug: intro-to-chaos-promotion-seminar
 title: 'Intro to CHAOS Promotion Seminar '
 wordpress_id: 10407
 categories:
+- company
 - promotion
 ---
 

@@ -7,6 +7,7 @@ slug: openid-one-year-later
 title: OpenID, One Year Later
 wordpress_id: 2914
 categories:
+- company
 - background
 ---
 

@@ -9,6 +9,7 @@ title: So you work at a startup and want to get noticed by a lot of people. How 
   you do that?
 wordpress_id: 10552
 categories:
+- company
 - chaos
 post_format:
 - Link

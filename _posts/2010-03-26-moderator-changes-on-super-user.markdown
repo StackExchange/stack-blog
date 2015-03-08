@@ -7,6 +7,7 @@ slug: moderator-changes-on-super-user
 title: Moderator Changes on Super User
 wordpress_id: 2853
 categories:
+- company
 - community
 - superuser.com
 ---

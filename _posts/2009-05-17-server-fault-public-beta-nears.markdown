@@ -7,6 +7,7 @@ slug: server-fault-public-beta-nears
 title: Server Fault Public Beta Nears
 wordpress_id: 1280
 categories:
+- company
 - community
 - serverfault.com
 ---

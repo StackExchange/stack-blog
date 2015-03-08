@@ -7,6 +7,7 @@ slug: meet-bubbles
 title: Meet Bubbles (The Stack Exchange Mascot)
 wordpress_id: 10064
 categories:
+- company
 - stackexchange
 ---
 

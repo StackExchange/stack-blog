@@ -7,6 +7,7 @@ slug: new-question-answer-rate-limits
 title: New Question / Answer Rate Limits
 wordpress_id: 731
 categories:
+- company
 - community
 - design
 ---

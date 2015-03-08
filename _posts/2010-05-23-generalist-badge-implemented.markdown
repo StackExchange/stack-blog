@@ -7,6 +7,7 @@ slug: generalist-badge-implemented
 title: Generalist Badge Implemented
 wordpress_id: 3268
 categories:
+- company
 - community
 - design
 ---

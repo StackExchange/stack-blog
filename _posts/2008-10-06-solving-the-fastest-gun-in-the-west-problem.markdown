@@ -7,6 +7,7 @@ slug: solving-the-fastest-gun-in-the-west-problem
 title: Solving the "Fastest Gun in the West" problem
 wordpress_id: 113
 categories:
+- company
 - design
 ---
 

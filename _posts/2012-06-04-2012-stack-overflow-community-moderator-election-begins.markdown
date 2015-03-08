@@ -7,6 +7,7 @@ slug: 2012-stack-overflow-community-moderator-election-begins
 title: 2012 Stack Overflow Community Moderator Election Begins
 wordpress_id: 11850
 categories:
+- company
 - announcement
 - community
 - moderators

@@ -7,6 +7,7 @@ slug: cmon-get-meta
 title: C'Mon Get Meta!
 wordpress_id: 1540
 categories:
+- company
 - community
 - meta
 ---

@@ -7,6 +7,7 @@ slug: stack-overflow-and-bizspark
 title: Stack Overflow and BizSpark
 wordpress_id: 846
 categories:
+- company
 - background
 - legal
 ---

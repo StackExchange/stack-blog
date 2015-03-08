@@ -7,6 +7,7 @@ slug: datacenter-migration-oct-23
 title: Datacenter Migration Oct. 23
 wordpress_id: 5869
 categories:
+- company
 - server
 ---
 

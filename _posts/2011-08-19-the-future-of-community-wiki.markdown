@@ -7,6 +7,7 @@ slug: the-future-of-community-wiki
 title: The Future of Community Wiki
 wordpress_id: 9312
 categories:
+- company
 - community
 - design
 - reference

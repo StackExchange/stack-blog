@@ -7,6 +7,7 @@ slug: introducing-programmers-stackexchange-com
 title: Introducing programmers.stackexchange.com
 wordpress_id: 6383
 categories:
+- company
 - stackexchange
 ---
 

@@ -7,6 +7,7 @@ slug: highlights-from-stack-overflow-worldwide-meetups
 title: Highlights from Stack Overflow Worldwide Meetups
 wordpress_id: 11631
 categories:
+- company
 - meetups
 ---
 

@@ -7,6 +7,7 @@ slug: important-reputation-rule-changes
 title: Important Reputation Rule Changes
 wordpress_id: 2819
 categories:
+- company
 - background
 - community
 ---

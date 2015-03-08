@@ -7,6 +7,7 @@ slug: changes-and-guidelines-for-the-protected-question-status
 title: Changes and guidelines for the Protected Question status
 wordpress_id: 14616
 categories:
+- company
 - announcement
 - background
 ---

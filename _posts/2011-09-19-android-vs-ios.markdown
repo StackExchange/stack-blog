@@ -7,6 +7,7 @@ slug: android-vs-ios
 title: Android > iOS (And Other Statistics)
 wordpress_id: 9828
 categories:
+- company
 - background
 ---
 

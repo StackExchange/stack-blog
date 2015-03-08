@@ -7,6 +7,7 @@ slug: podcast-56
 title: 'Podcast #56'
 wordpress_id: 1425
 categories:
+- company
 - podcasts
 ---
 

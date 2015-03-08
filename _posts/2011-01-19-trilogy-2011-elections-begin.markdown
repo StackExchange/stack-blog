@@ -7,6 +7,7 @@ slug: trilogy-2011-elections-begin
 title: Trilogy 2011 Elections Begin
 wordpress_id: 6875
 categories:
+- company
 - moderators
 - serverfault.com
 - superuser.com

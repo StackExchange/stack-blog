@@ -7,6 +7,7 @@ slug: free-trilogy-stickers-for-top-users
 title: Free Trilogy Stickers for Top Users
 wordpress_id: 1979
 categories:
+- company
 - community
 - serverfault.com
 - superuser.com

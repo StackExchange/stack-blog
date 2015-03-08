@@ -7,6 +7,7 @@ slug: stack-overflow-sponsors-haproxy
 title: Stack Overflow Sponsors HAProxy
 wordpress_id: 4929
 categories:
+- company
 - announcement
 - server
 ---

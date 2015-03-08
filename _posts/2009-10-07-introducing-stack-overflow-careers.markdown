@@ -7,6 +7,7 @@ slug: introducing-stack-overflow-careers
 title: Introducing Stack Overflow Careers
 wordpress_id: 2021
 categories:
+- company
 - Beta
 - careers
 ---

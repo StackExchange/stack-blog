@@ -7,6 +7,7 @@ slug: new-datacenter-migration
 title: New Datacenter Migration
 wordpress_id: 615
 categories:
+- company
 - server
 ---
 

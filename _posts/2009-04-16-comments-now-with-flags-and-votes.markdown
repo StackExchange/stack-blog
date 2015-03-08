@@ -7,6 +7,7 @@ slug: comments-now-with-flags-and-votes
 title: 'Comments: Now with Flags and Votes'
 wordpress_id: 1066
 categories:
+- company
 - community
 - design
 ---

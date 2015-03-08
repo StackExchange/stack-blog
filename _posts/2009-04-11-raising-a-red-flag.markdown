@@ -7,6 +7,7 @@ slug: raising-a-red-flag
 title: Raising a Red Flag
 wordpress_id: 1011
 categories:
+- company
 - community
 - design
 ---

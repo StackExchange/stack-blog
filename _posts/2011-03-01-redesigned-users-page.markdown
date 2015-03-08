@@ -7,6 +7,7 @@ slug: redesigned-users-page
 title: Redesigned Users Page
 wordpress_id: 7369
 categories:
+- company
 - community
 - design
 - stackexchange

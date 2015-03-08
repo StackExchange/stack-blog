@@ -7,6 +7,7 @@ slug: whats-a-cv-anyway
 title: What's a CV Anyway?
 wordpress_id: 6064
 categories:
+- company
 - careers
 ---
 

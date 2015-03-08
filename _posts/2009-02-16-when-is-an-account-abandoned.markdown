@@ -7,6 +7,7 @@ slug: when-is-an-account-abandoned
 title: When Is An Account "Abandoned"?
 wordpress_id: 666
 categories:
+- company
 - design
 ---
 

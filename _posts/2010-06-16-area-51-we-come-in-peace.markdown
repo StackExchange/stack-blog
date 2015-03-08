@@ -7,6 +7,7 @@ slug: area-51-we-come-in-peace
 title: 'Area 51: We Come in Peace'
 wordpress_id: 3611
 categories:
+- company
 - Area51
 - stackexchange
 ---

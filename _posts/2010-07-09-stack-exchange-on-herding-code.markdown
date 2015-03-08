@@ -7,6 +7,7 @@ slug: stack-exchange-on-herding-code
 title: Stack Exchange on Herding Code
 wordpress_id: 4030
 categories:
+- company
 - podcasts
 ---
 

@@ -7,6 +7,7 @@ slug: badges-positive-only
 title: 'Badges: Positive Only'
 wordpress_id: 2324
 categories:
+- company
 - background
 - design
 ---

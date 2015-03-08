@@ -7,6 +7,7 @@ slug: welcome-our-new-trilogy-moderators-for-2011
 title: Welcome Our New Trilogy Moderators for 2011!
 wordpress_id: 7093
 categories:
+- company
 - moderators
 - serverfault.com
 - superuser.com

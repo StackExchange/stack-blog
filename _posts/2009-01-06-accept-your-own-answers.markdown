@@ -7,6 +7,7 @@ slug: accept-your-own-answers
 title: Accept Your Own Answers
 wordpress_id: 328
 categories:
+- company
 - community
 - design
 ---

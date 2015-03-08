@@ -7,6 +7,7 @@ slug: se-podcast-34
 title: 'SE Podcast #34 - Kyle Brandt and Nick Craver'
 wordpress_id: 12420
 categories:
+- company
 - podcasts
 ---
 

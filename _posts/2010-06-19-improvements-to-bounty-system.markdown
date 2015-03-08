@@ -7,6 +7,7 @@ slug: improvements-to-bounty-system
 title: Improvements to Bounty System
 wordpress_id: 3746
 categories:
+- company
 - community
 - design
 ---

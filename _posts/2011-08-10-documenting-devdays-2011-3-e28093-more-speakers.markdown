@@ -7,6 +7,7 @@ slug: documenting-devdays-2011-3-%e2%80%93-more-speakers
 title: 'Documenting DevDays 2011: #3 – More Speakers!'
 wordpress_id: 9279
 categories:
+- company
 - devdays
 ---
 

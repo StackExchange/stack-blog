@@ -7,6 +7,7 @@ slug: scheduled-site-maintenance-saturday
 title: Scheduled Site Maintenance - Saturday
 wordpress_id: 2351
 categories:
+- company
 - server
 ---
 

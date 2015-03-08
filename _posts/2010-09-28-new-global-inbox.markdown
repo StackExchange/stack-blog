@@ -7,6 +7,7 @@ slug: new-global-inbox
 title: New Global Inbox
 wordpress_id: 5251
 categories:
+- company
 - announcement
 - serverfault.com
 - stackexchange

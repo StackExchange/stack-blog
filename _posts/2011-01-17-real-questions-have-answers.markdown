@@ -7,6 +7,7 @@ slug: real-questions-have-answers
 title: Real Questions Have Answers
 wordpress_id: 6835
 categories:
+- company
 - community
 - design
 - reference
