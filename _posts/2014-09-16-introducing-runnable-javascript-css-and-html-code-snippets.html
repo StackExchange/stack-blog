@@ -31,22 +31,22 @@ author:
 <p>So we’ve created our own way to embed runnable JavaScript, CSS, and HTML code blocks right in the body of a post. As of today, we're launching “Stack Snippets,” a fully integrated feature available on Stack Overflow and any other code-related Stack Exchange sites.</p>
 <h2>How Do Stack Snippets Work?</h2>
 <p>With Stack Snippets, a code block:</p>
-<div style="text-align: center"><a href="//i.stack.imgur.com/kZPXw.png"><img src="assets/kZPXw.png" alt="Code block" /></a></div>
+<div style="text-align: center"><a href="//i.stack.imgur.com/kZPXw.png"><img src="{{ site.baseurl }}/assets/kZPXw.png" alt="Code block" /></a></div>
 <p>Can become a <i>runnable</i> code block:</p>
-<div style="text-align: center"><a href="//i.stack.imgur.com/YMvu1.png"><img src="assets/YMvu1.png" alt="Runnable code block" /></a></div>
+<div style="text-align: center"><a href="//i.stack.imgur.com/YMvu1.png"><img src="{{ site.baseurl }}/assets/YMvu1.png" alt="Runnable code block" /></a></div>
 <p>The code will not run until you press the “Run code snippet<b>”</b> button:</p>
-<div style="text-align: center"><a href="//i.stack.imgur.com/b9ukx.png"><img src="assets/b9ukx.png" alt="Runnable code block that has been executed" /></a></div>
+<div style="text-align: center"><a href="//i.stack.imgur.com/b9ukx.png"><img src="{{ site.baseurl }}/assets/b9ukx.png" alt="Runnable code block that has been executed" /></a></div>
 <h2>How Do I Make A Stack Snippet?</h2>
 <p>Stack Snippets work for both questions and answers. In the Markdown editor window, there’s a new button that you can click to launch the Stack Snippets editor.</p>
-<div style="text-align: center"><a href="//i.stack.imgur.com/h6BFu.png"><img src="assets/h6BFu.png" alt="The Markdown toolbar with the new Stack Snippet button" /></a></div>
+<div style="text-align: center"><a href="//i.stack.imgur.com/h6BFu.png"><img src="{{ site.baseurl }}/assets/h6BFu.png" alt="The Markdown toolbar with the new Stack Snippet button" /></a></div>
 <p>The editor appears and allows you to enter HTML, CSS, and JavaScript (or any combination of them):</p>
-<div style="text-align: center"><a href="//i.stack.imgur.com/wx8jF.png"><img src="assets/wx8jF.png" alt="The Stack Snippet editor" /></a></div>
+<div style="text-align: center"><a href="//i.stack.imgur.com/wx8jF.png"><img src="{{ site.baseurl }}/assets/wx8jF.png" alt="The Stack Snippet editor" /></a></div>
 <p>Once you’ve got your code working, press "Insert into Post" at the bottom and you’re done! You can test your snippet, or load it back into the Snippets editor from right in the Preview screen:</p>
-<div style="text-align: center"><a href="//i.stack.imgur.com/KO2TC.png"><img src="assets/KO2TC.png" alt="The run and edit options of Stack Snippets in the editor preview" /></a></div>
+<div style="text-align: center"><a href="//i.stack.imgur.com/KO2TC.png"><img src="{{ site.baseurl }}/assets/KO2TC.png" alt="The run and edit options of Stack Snippets in the editor preview" /></a></div>
 <p>When answering a post containing a snippet, you can easily include a modified version of the original in your answer - just click the "Copy snippet to answer" button.</p>
 <h2>Under the Hood</h2>
 <p>A great feature of Stack Snippets is that they are inserted as <b>regular Markdown code blocks</b>:</p>
-<div style="text-align: center"><a href="//i.stack.imgur.com/zXjtQ.png"><img src="assets/zXjtQ.png" alt="The actual Markdown of a Stack Snippet" /></a></div>
+<div style="text-align: center"><a href="//i.stack.imgur.com/zXjtQ.png"><img src="{{ site.baseurl }}/assets/zXjtQ.png" alt="The actual Markdown of a Stack Snippet" /></a></div>
 <p>This makes them instantly backwards-compatible with our normal revision history and diffs, and also any API clients including our own <a href="http://blog.stackoverflow.com/2014/05/stack-exchange-for-iphone-is-here">mobile</a> <a href="http://blog.stackoverflow.com/2014/01/stack-exchange-for-android-is-here">apps</a>.</p>
 <p>The runnable snippets behavior is triggered by a few new HTML comments that are not rendered by Markdown. You can even edit the code right from the Markdown editor and the snippet will still be runnable.</p>
 <h2>Are Stack Snippets Safe?</h2>

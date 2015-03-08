@@ -34,7 +34,7 @@ author:
 </ul>
 <p>Although our de-crapifying efforts have been noble and heroic (well, in my mind, anyway), we've clearly begun to exceed the scope and scale of what SQL Server search can do for us. </p>
 <p>That's why I'm pleased to announce that as of today, we have switched all of our search functionality network wide from SQL Server to <a href="http://lucene.apache.org/java/docs/index.html">Lucene</a>, or more specifically, the <a href="http://lucene.apache.org/lucene.net/">Lucene.NET</a> flavor.</p>
-<p><a href="http://lucene.apache.org/java/docs/index.html"><img src="assets/lucene-logo.png" alt="" title="lucene-logo" width="330" height="60" /></a></p>
+<p><a href="http://lucene.apache.org/java/docs/index.html"><img src="{{ site.baseurl }}/assets/lucene-logo.png" alt="" title="lucene-logo" width="330" height="60" /></a></p>
 <p>(We are, however, a little concerned that <a href="http://search-lucene.com/m/nMTuR1pPJbq">Lucene.NET was dropped by the Apache Incubator</a>. We'd like to see what we can do to help the project stay vital and in sync with the master Lucene project. Let us know how we can best do that!)</p>
 <p>There were a couple factors motivating this change:</p>
 <ol>
@@ -49,7 +49,7 @@ author:
 </ol>
 <p>Kudos to <a href="http://blog.stackoverflow.com/2011/01/welcome-valued-associate-nick-craver/">Nick Craver</a>, one of our newest Valued Associates<sup>tm</sup>, for getting this major improvement rolled out. While we're still tweaking a bit, we are very pleased with the <b>improved relevancy</b> and <b>greater search speed</b> across the network. Our internal page benchmarks show us that search times went down from a highly variable average of 3 seconds to a fairly consistent 600 milliseconds.</p>
 <p><span style="background-color:#FFFBCC">Please try out our new, improved search on your favorite <a href="http://stackexchange.com/sites">Stack Exchange site</a> and let us know what you think</span>. Just look for the ubiquitous search box in the upper right hand corner of every site; type what you want to find and press Enter.</p>
-<p><img src="assets/unix-linux-search-box.png" alt="" title="unix-linux-search-box" width="600" height="221" style="border:1px solid silver" /></p>
+<p><img src="{{ site.baseurl }}/assets/unix-linux-search-box.png" alt="" title="unix-linux-search-box" width="600" height="221" style="border:1px solid silver" /></p>
 <p>Remember that search drives three areas of the site:</p>
 <ul>
 <li>The search results (obviously)
@@ -60,5 +60,5 @@ author:
 </li>
 </ul>
 <p>Oh, and if you want to <b>search all <a href="http://stackexchange.com/sites">Stack Exchange sites</a> at once</b> -- well, that's not something Lucene can do for us quite yet, but it's easy.</p>
-<p><a href="http://stackexchange.com"><img src="assets/stack-exchange-all-site-search.png" alt="stack exchange search all sites" title="stack exchange search all sites" width="499" height="131" /></a></p>
+<p><a href="http://stackexchange.com"><img src="{{ site.baseurl }}/assets/stack-exchange-all-site-search.png" alt="stack exchange search all sites" title="stack exchange search all sites" width="499" height="131" /></a></p>
 <p>Just visit <a href="http://stackexchange.com/">stackexchange.com</a> and take advantage of the search box there.</p>

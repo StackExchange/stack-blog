@@ -22,7 +22,7 @@ author:
 <p>
 I mentioned in the last podcast that I wasn't sure how the <b>two-drive RAID mirroring</b> was supposed to work in the <a href="http://www.google.com/search?q=lenovo+rs110">Lenovo RS110</a> 1U servers <a href="http://blog.stackoverflow.com/2009/01/new-stack-overflow-server-glamour-shots/">we bought</a>.</p>
 <p>
-<img src="assets/lenovo-rs110-server.jpg" alt="lenovo-rs110-server" title="lenovo-rs110-server" class="alignnone size-full wp-image-454" /></p>
+<img src="{{ site.baseurl }}/assets/lenovo-rs110-server.jpg" alt="lenovo-rs110-server" title="lenovo-rs110-server" class="alignnone size-full wp-image-454" /></p>
 <p>
 This server comes with a mini-PCI RAID card as standard equipment, the <a href="http://www.lsi.com/storage_home/products_home/standard_product_ics/sas_ics/lsisas1064e/index.html">LSI 1064E</a>.  To set it up, I did the following:</p>
 <ul>
@@ -48,7 +48,7 @@ Well, <i>this</i> time I decided to reboot the system as-is after the eject, ok,
 <p>
 The server booted the OS fine. I entered the MegaRAID manager, and lo and behold: <b>the array was indeed rebuilding, all on its own!</b> Very very slowly, but still!</p>
 <p>
-<img src="assets/megaraid-mirror-live-rebuild.png" alt="megaraid-mirror-live-rebuild" title="megaraid-mirror-live-rebuild" class="alignnone size-full wp-image-455" /></p>
+<img src="{{ site.baseurl }}/assets/megaraid-mirror-live-rebuild.png" alt="megaraid-mirror-live-rebuild" title="megaraid-mirror-live-rebuild" class="alignnone size-full wp-image-455" /></p>
 <p>
 I had jumped to the conclusion that live rebuilds were impossible when I inserted the new drive and it bluescreened. Looks like the <i>real</i> restriction is that you can't hot swap a failed drive -- you must shut down, swap out the drive, and then reboot. </p>
 <p>

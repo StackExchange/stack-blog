@@ -33,7 +33,7 @@ The original article, <a href="http://www.evanmiller.org/how-not-to-sort-by-aver
 We need to balance the proportion of positive ratings with the uncertainty of a small number of observations. Fortunately, the math for this was worked out in 1927 by Edwin B. Wilson. What we want to ask is: <i>Given the ratings I have, there is a 95% chance that the "real" fraction of positive ratings is at least what?</i> Wilson gives the answer. Considering only positive and negative ratings (i.e. not a 5-star scale), the lower bound on the proportion of positive ratings is given by:
 </p></blockquote>
 <p>
-<img src="assets/new-scoring-math-formula1.png" alt="new-scoring-math-formula" title="new-scoring-math-formula" width="600" height="77" /></p>
+<img src="{{ site.baseurl }}/assets/new-scoring-math-formula1.png" alt="new-scoring-math-formula" title="new-scoring-math-formula" width="600" height="77" /></p>
 <p>
 He also provided some sample Ruby code that implements the above formula:</p>
 <pre>

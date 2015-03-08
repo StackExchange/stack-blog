@@ -24,7 +24,7 @@ Believe it or not, the search function on Stack Overflow may just actually.. wor
 <p>
 I started to feel really bad when I'd see people post duplicate questions, even after they said they "searched first". Now, to be clear, we do a <b>fuzzy title-based search</b> when you tab off the title field on the Ask page:</p>
 <p>
-<img src="assets/stackoverflow-ask-title-related.png" alt="stackoverflow-ask-title-related" width="315" /></p>
+<img src="{{ site.baseurl }}/assets/stackoverflow-ask-title-related.png" alt="stackoverflow-ask-title-related" width="315" /></p>
 <p>
 This works reasonably well, but it's limited to questions that have similar titles. It's entirely possible to ask the same exact question using completely different words in the title. In fact, I've found that people have an almost <i>uncanny</i> ability to ask questions using completely different words. </p>
 <p>
@@ -34,7 +34,7 @@ But for now my goal was to <b>enhance the search page</b>, which has languished 
 <p>
 I made a special effort to improve the "no search results found" page. It shows a number of easy ways to immediately improve your search results based on my experience searching for stuff on SO:</p>
 <p>
-<img src="assets/stackoverflow-enhanced-search-no-matches.png" alt="stackoverflow-enhanced-search-no-matches" title="stackoverflow-enhanced-search-no-matches" width="527" /></p>
+<img src="{{ site.baseurl }}/assets/stackoverflow-enhanced-search-no-matches.png" alt="stackoverflow-enhanced-search-no-matches" title="stackoverflow-enhanced-search-no-matches" width="527" /></p>
 <p>
 Of course, there's always Google. As you can see, we pre-emptively build a Google search link for you at the bottom of this page. You can <b>always search Stack Overflow through good old reliable Google</b>. Constructing a Google search for Stack Overflow manually is easy; just add the <code>site:stackoverflow.com/questions</code> command to the beginning of your search to scope it to SO questions, then plug in as many search terms as you want after that. Like so:</p>
 <p>
@@ -42,7 +42,7 @@ Of course, there's always Google. As you can see, we pre-emptively build a Googl
 <p>
 That said, there are things our search can do better than Google. In particular, I'd urge you to take the advice to <b>search within tags</b> to heart. Google kind of sucks at this; you will generally get much better results if you scope your search to one or more likely tags such as <code>[ruby]</code> or <code>[perl]</code>. Just add the tags in brackets to your regular search terms, in any order, as many as you like (note that you cannot yet specify negation for tags in search).</p>
 <p>
-<img src="assets/stackoverflow-search-with-tags.png" alt="stackoverflow-search-with-tags" title="stackoverflow-search-with-tags" class="alignnone size-full wp-image-132" /></p>
+<img src="{{ site.baseurl }}/assets/stackoverflow-search-with-tags.png" alt="stackoverflow-search-with-tags" title="stackoverflow-search-with-tags" class="alignnone size-full wp-image-132" /></p>
 <p>
 I also found that a lot of users were inexplicably searching for things like "c#" and "c++". If we see you enter a single search term that happens to map to a (reasonably) popular tag, <b>we will assume you wanted that tag</b> and whisk you away to all questions in the tag, instead. There's just no way a general search for the string "c++" is ever going to produce good results, anyhow, so this felt like a no-brainer to me.</p>
 <p>

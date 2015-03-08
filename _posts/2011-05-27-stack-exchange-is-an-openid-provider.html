@@ -22,10 +22,10 @@ author:
 
 ---
 <p>If you've logged in to a Stack Exchange site recently you may have noticed a new button on the login page:</p>
-<p><img src="assets/stack-exchange-openid-button.png" alt="" title="stack-exchange-openid-button" width="596" height="201" /></p>
+<p><img src="{{ site.baseurl }}/assets/stack-exchange-openid-button.png" alt="" title="stack-exchange-openid-button" width="596" height="201" /></p>
 <p>That's right -- <b>Stack Exchange is now officially an OpenID <i>provider</i> as well as an OpenID (and OAuth 2.0) consumer!</b></p>
 <p>As a provider, we can now offer a totally seamless signup experience for new users. That is, you can create a new account entirely on our site without ever once being redirected to another website in the process.</p>
-<p><img src="assets/stack-exchange-openid-create-account.png" alt="" title="stack-exchange-openid-create-account" width="476" height="427" /></p>
+<p><img src="{{ site.baseurl }}/assets/stack-exchange-openid-create-account.png" alt="" title="stack-exchange-openid-create-account" width="476" height="427" /></p>
 <p>Those users who were uncomfortable with Google, Facebook, MyOpenID, AOL, or any other form of OpenID credentials can now create "local" accounts.</p>
 <p>And best of all, it's a valid <a href="http://www.codinghorror.com/blog/2010/11/your-internet-drivers-license.html">Internet Driver's License</a> -- that is, <b>you can use your newly minted Stack Exchange account to log in anywhere on the internet that accepts OpenID!</b> The confirmation email you get upon creating a new account explains how:</p>
 <blockquote><p>
@@ -41,7 +41,7 @@ author:
 </blockquote>
 <p><span style="background-color:#FFFBCC">Because we kept getting asked: <b>openid.stackexchange.com is a permanent service</b> we will fully support for as long as we are solvent as a company. Feel free to host some part of your identity with us forever, and we promise to ... well, hopefully not suck in the manner to which you have become accustomed.</span></p>
 <p>In all honesty, I resisted becoming an OpenID provider for a long time. What the world needs so desperately is more websites that <i>consume</i> public forms of identity. Yet Another Producer stamping out logins and passwords is not making the internet better -- it's making things worse. But then something happened.</p>
-<p><img src="assets/Website-Billboard-R_jpg_600x345_crop-smart_upscale_q85.jpg" alt="World's Largest Website" title="World's Largest Website" width="600" height="345" /></p>
+<p><img src="{{ site.baseurl }}/assets/Website-Billboard-R_jpg_600x345_crop-smart_upscale_q85.jpg" alt="World's Largest Website" title="World's Largest Website" width="600" height="345" /></p>
 <p>We got big. <i>Really</i> big. I believe Stack Exchange is now large enough to be a reasonably valid form of public identity on the internet. And like everything else we (attempt) to do, <b>we endeavor mightily to do identity in a way that makes the internet better, not worse.</b></p>
 <p>That's why our login implementation is already built on two excellent open source projects &hellip;</p>
 <ul>
