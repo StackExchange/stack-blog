@@ -8,28 +8,28 @@ layout: default
 	<div class="featured-posts">
 		<div class="-row">
 			<div class="-col6">
-				<article class="featured-post post _textCenter">
+				<a class="featured-post post _textCenter" href="{{ site.baseurl }}/company">
 					<div class="top">
-						<h6>Company News</h6>
+						<p class="_h6">Company News</p>
 						{% assign company_post = site.categories.company | first %}
-						<h2><a href="{{ company_post.url }}">{{ company_post.title }}</a></h2>
+						<p class="_h2">{{ company_post.title }}</p>
 					</div>
 					<div class="image-container">
 						<img src="{{ company_post.hero }}">
 					</div>
-				</article>
+				</a>
 			</div>
 			<div class="-col6">
-				<article class="featured-post post _textCenter">
+				<a class="featured-post post _textCenter" href="{{ site.baseurl }}/engineering">
 					<div class="top">
-						<h6>Engineering</h6>
+						<p class="_h6">Engineering</p>
 						{% assign engineering_post = site.categories.engineering | first %}
-						<h2><a href="{{ engineering_post.url }}">{{ engineering_post.title }}</a></h2>
+						<p class="_h2">{{ engineering_post.title }}</p>
 					</div>
 					<div class="image-container">
 						<img src="{{ engineering_post.hero }}">
 					</div>
-				</article>
+				</a>
 			</div>
 		</div>
 	</div>
