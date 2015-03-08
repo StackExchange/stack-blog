@@ -11,15 +11,18 @@ for subdir, dirs, files in os.walk(rootdir):
 
     	# Find first image
     	for key, line in enumerate(contents):
-    		src = re.search('\!\[.*\]\((.*?)\)', line)
+    		src = re.search('\!\[.*?\]\((.*?)\)', line)
     		if src:
     			wordpress_src = re.search('/blog/images/wordpress/(.*)', src.group(1))
     			if wordpress_src:
-    				print 'Retrieving ' + src.group(1) + '...'
 	    			image_src = wordpress_src.group(1)
-	    			f = open('images/wordpress/'+image_src, "w")
-	    			f.write(requests.get("http://blog.stackoverflow.com/wp-content/uploads/" + wordpress_src.group(1)).content)
-	    			f.close()
+	    			path = 'images/wordpress/'+image_src
+	    			print 'Retrieving ' + path + '...'
+	    			if not os.path.isfile(path):
+	    				print path
+		    			f = open(path, "w")
+		    			f.write(requests.get("http://blog.stackoverflow.com/wp-content/uploads/" + wordpress_src.group(1)).content)
+		    			f.close()
 
     	continue
     	f = open(filename, "w")
