@@ -1,5 +1,5 @@
 ---
-author: Bethany
+author: bethanymarz
 comments: true
 date: 2013-01-25 15:00:40+00:00
 layout: post
