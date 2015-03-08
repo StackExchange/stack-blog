@@ -9,7 +9,7 @@ layout: default
 	  {% for post in site.posts %}
 	  	{% for tag in post.tags %}
 			{% if tag == page.slug %}
-			    <article class="preview-post post">   
+			    <article class="preview-post post {{ post.categories | join: ' ' }}">   
 			    	<div class="-row post-header">
 			    		<div class="-col6"> 
 					  	{% for author in site.authors %}

@@ -39,7 +39,7 @@ layout: default
 			<div class="posts">
 				<h3>Recent Posts</h3>
 			  {% for post in paginator.posts %}
-			    <article class="preview-post post">   
+			    <article class="preview-post post {{ post.categories | join: ' ' }}">
 			    	<div class="-row post-header">
 			    		<div class="-col6"> 
 				  {% for author in site.authors %}
