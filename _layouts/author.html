@@ -20,7 +20,7 @@ layout: default
 				<div class="posts">
 				  {% for post in site.posts %}
 					  {% if page.id == post.author %}
-					    <article class="preview-post post">
+					    <article class="preview-post post {{ post.categories | join: ' ' }}">
 					    <div class="-row post-header no-author">
 					    	<div class="-col6">
 					    		<div class="date media-padded"><p>{{ post.date | date: "%B %e, %Y" }}</p></div>
