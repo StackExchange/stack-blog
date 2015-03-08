@@ -3,6 +3,7 @@ author: alex
 comments: true
 date: 2011-09-21 19:00:13+00:00
 layout: post
+hero: /blog/images/category/podcasts.jpg
 slug: se-podcast-19
 title: 'SE Podcast #19 - John Sheehan'
 wordpress_id: 9888

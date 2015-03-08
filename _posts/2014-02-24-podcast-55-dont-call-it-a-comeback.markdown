@@ -3,6 +3,7 @@ author: abbytmiller
 comments: true
 date: 2014-02-24 20:00:27+00:00
 layout: post
+hero: /blog/images/category/podcasts.jpg
 slug: podcast-55-dont-call-it-a-comeback
 title: 'Podcast #55 - Don''t Call It A Comeback'
 wordpress_id: 14579

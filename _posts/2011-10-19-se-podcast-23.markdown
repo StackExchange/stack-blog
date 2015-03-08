@@ -3,6 +3,7 @@ author: alex
 comments: true
 date: 2011-10-19 19:00:36+00:00
 layout: post
+hero: /blog/images/category/podcasts.jpg
 slug: se-podcast-23
 title: 'SE Podcast #23 - James Portnow'
 wordpress_id: 10072
