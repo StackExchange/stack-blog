@@ -1,0 +1,4 @@
+---
+layout: category
+slug: design
+---
