@@ -68,7 +68,7 @@ There's also a bright yellow sidebar for new users which explains what Stack Ove
 
 
 
-![stack-overflow-welcome-sidebar](http://blog.stackoverflow.com/wp-content/uploads/stack-overflow-welcome-sidebar.png)
+![stack-overflow-welcome-sidebar](/blog/images/wordpress/stack-overflow-welcome-sidebar.png)
 
 
 

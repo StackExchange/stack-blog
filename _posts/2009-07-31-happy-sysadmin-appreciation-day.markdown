@@ -59,7 +59,7 @@ So unless you want your servers to end up looking like this ...
 
 
 
-![burned-server](http://blog.stackoverflow.com/wp-content/uploads/burned-server.jpg)
+![burned-server](/blog/images/wordpress/burned-server.jpg)
 
 
 

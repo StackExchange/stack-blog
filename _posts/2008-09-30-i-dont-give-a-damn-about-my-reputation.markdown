@@ -16,7 +16,7 @@ Geoff Dalgas did a bang-up job implementing [the #1 UserVoice requested item](ht
 
 
 
-![reputation-graph](http://blog.stackoverflow.com/wp-content/uploads/reputation-graph.png)
+![reputation-graph](/blog/images/wordpress/reputation-graph.png)
 
 
 

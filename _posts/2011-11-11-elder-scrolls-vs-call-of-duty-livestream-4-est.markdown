@@ -17,7 +17,7 @@ As you may have noticed, we’re throwing a party over on [the Gaming site](http
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/SkyrimVsMW3.jpg)
+![](/blog/images/wordpress/SkyrimVsMW3.jpg)
 
 
 

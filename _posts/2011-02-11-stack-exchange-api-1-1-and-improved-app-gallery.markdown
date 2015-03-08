@@ -42,7 +42,7 @@ Do bear in mind that **we heavily promote stackapps.com both with house ads, and
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/api-house-ads-links.png)
+![](/blog/images/wordpress/api-house-ads-links.png)
 
 
 

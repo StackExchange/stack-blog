@@ -15,7 +15,7 @@ categories:
 
 Have you ever wondered why the vote buttons and score are so prominent on every [Stack Exchange](http://stackexchange.com/sites) question?
 
-![](http://blog.stackoverflow.com/wp-content/uploads/voting-controls.png)
+![](/blog/images/wordpress/voting-controls.png)
 
 Putting voting front and center is very much intentional; it is how ...
 
@@ -46,7 +46,7 @@ Our sites are all intended to be **a sort of representative democracy**. While [
 
 Voting is _so_ important that we belatedly realized we may not be doing enough to encourage new users to vote. But we're trying to change that.
 
-![](http://blog.stackoverflow.com/wp-content/uploads/vote-here.jpg)
+![](/blog/images/wordpress/vote-here.jpg)
 
 First, the new [privilege wikis and notifications](http://blog.stackoverflow.com/2010/10/membership-has-its-privileges/) now explain the importance of upvoting and downvoting "just in time", when users receive those privileges.
 

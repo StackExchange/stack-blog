@@ -35,7 +35,7 @@ In a nutshell, **Stack Overflow is for when you're front of your compiler or edi
 
 Stated another way, Stack Overflow questions almost all have **actual source code in the questions or answers**. It's much rarer (though certainly OK) for a Programmers question to contain source code.
 
-![](http://blog.stackoverflow.com/wp-content/uploads/whiteboard-code.jpg)
+![](/blog/images/wordpress/whiteboard-code.jpg)
 
 
 Remember, these are just guidelines, not hard and fast arbitrary rules; refer to the [first few paragraphs of the FAQ](http://programmers.stackexchange.com/help/on-topic) if you want specifics about what Programmers is for:

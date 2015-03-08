@@ -24,7 +24,7 @@ Since then, [Dana Robinson](http://stackoverflow.com/users/3161/dana) has been t
 
 
 
-![wmd-toolbar-http-request-count-before](http://blog.stackoverflow.com/wp-content/uploads/wmd-toolbar-http-request-count-before.png)
+![wmd-toolbar-http-request-count-before](/blog/images/wordpress/wmd-toolbar-http-request-count-before.png)
 
 
 
@@ -32,7 +32,7 @@ To **one!**
 
 
 
-![wmd-buttons-sprites-large](http://blog.stackoverflow.com/wp-content/uploads/wmd-buttons-sprites-large.png)
+![wmd-buttons-sprites-large](/blog/images/wordpress/wmd-buttons-sprites-large.png)
 
 
 

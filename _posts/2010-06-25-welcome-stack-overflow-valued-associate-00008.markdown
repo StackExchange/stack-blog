@@ -16,7 +16,7 @@ I'd like to introduce Stack Overflow Valued Associate #00008 -- [Sam Saffron](ht
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/sam-saffron-blog.jpg)
+![](/blog/images/wordpress/sam-saffron-blog.jpg)
 
 
 

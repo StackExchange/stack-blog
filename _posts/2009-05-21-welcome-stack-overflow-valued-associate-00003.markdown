@@ -16,7 +16,7 @@ I am pleased to announce that **Stack Overflow just added another team member in
 
 
 
-![geoff-dalgas-and-jeff-atwood-in-nyc](http://blog.stackoverflow.com/wp-content/uploads/geoff-dalgas-and-jeff-atwood-in-nyc.jpg)
+![geoff-dalgas-and-jeff-atwood-in-nyc](/blog/images/wordpress/geoff-dalgas-and-jeff-atwood-in-nyc.jpg)
 
 
 

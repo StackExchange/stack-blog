@@ -17,7 +17,7 @@ I'm proud to announce that [stackexchange.com](http://stackexchange.com) is now 
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/stackexchange-new-homepage.png)
+[![](/blog/images/wordpress/stackexchange-new-homepage.png)
 ](http://stackexchange.com)
 
 
@@ -51,11 +51,11 @@ Just check for **the genuinetm Stack Exchange logo in the upper left hand corner
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/genuwine-stack-exchange-questions.png)
+![](/blog/images/wordpress/genuwine-stack-exchange-questions.png)
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/genuwine-stack-exchange-sites.png)
+![](/blog/images/wordpress/genuwine-stack-exchange-sites.png)
 
 
 

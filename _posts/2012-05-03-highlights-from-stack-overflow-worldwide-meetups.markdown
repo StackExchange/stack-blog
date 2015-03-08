@@ -33,7 +33,7 @@ The [Milan meetup group](http://www.meetup.com/stackoverflow/Milano-IT/) was our
 
 [caption id="" align="aligncenter" width="310" caption="Live video stream setup for #SOMeetup in Milan."][![](http://farm9.staticflickr.com/8160/6974917970_c297232a1e_n.jpg)](http://www.flickr.com/photos/86789344@N00/6974917970/)[/caption]
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/SOmeetup_Milan.png)](http://blog.stackoverflow.com/wp-content/uploads/SOmeetup_Milan.png)
+[![](/blog/images/wordpress/SOmeetup_Milan.png)](/blog/images/wordpress/SOmeetup_Milan.png)
 
 
 

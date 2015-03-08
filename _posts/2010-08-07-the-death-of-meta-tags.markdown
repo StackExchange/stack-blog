@@ -113,7 +113,7 @@ I'm pleased to announce that, as of tonight, we have stormed the castle gates an
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/villagers-with-pitchforks.jpg)
+![](/blog/images/wordpress/villagers-with-pitchforks.jpg)
 
 
 

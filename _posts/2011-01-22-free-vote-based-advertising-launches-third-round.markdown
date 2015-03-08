@@ -17,7 +17,7 @@ This is the third round of our program.  For the past year, Stack Overflow has b
 
 The top-voted projects from the second half of 2010 each received approximately one million impressions.
 
-![2H 2010 Top Ads](http://blog.stackoverflow.com/wp-content/uploads/2h2010_ads.png)
+![2H 2010 Top Ads](/blog/images/wordpress/2h2010_ads.png)
 
 Stack Overflow is now regularly getting well over two million page views a day.  This community driven program is a simple way to get your project some publicity.
 

@@ -37,17 +37,17 @@ We've had the mobile design in private and public beta for a while to polish up 
 <table >
 <tr >
 
-<td valign="top" >![](http://blog.stackoverflow.com/wp-content/uploads/iphone-mobile-stack-exchange.png)
+<td valign="top" >![](/blog/images/wordpress/iphone-mobile-stack-exchange.png)
 </td>
 
-<td valign="top" >![](http://blog.stackoverflow.com/wp-content/uploads/android-mobile-stack-exchange.png)
+<td valign="top" >![](/blog/images/wordpress/android-mobile-stack-exchange.png)
 </td>
 </tr>
 </table>
 
 Mobile Stack Exchange is intended to be a _fully functional version of Stack Exchange_ -- that is, you can ask questions, answer questions, vote, favorite, comment and all the other essential things you would expect.
 
-![](http://blog.stackoverflow.com/wp-content/uploads/windows-7-mobile-stack-exchange.png)
+![](/blog/images/wordpress/windows-7-mobile-stack-exchange.png)
 
 Please note, however, that if you do find anything you can't do on mobile, there are **links at the bottom of the page to switch from mobile to desktop view** at will. We also remember this setting on a per-user basis.
 

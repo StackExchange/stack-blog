@@ -47,7 +47,7 @@ It's amazing [how cheap server hardware has gotten](http://www.codinghorror.com/
 
 
 
-![Stackoverflow server task manager](http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-server-task-manager.png)
+![Stackoverflow server task manager](/blog/images/wordpress/stackoverflow-server-task-manager.png)
 
 
 

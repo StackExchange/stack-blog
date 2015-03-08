@@ -29,7 +29,7 @@ But there _is_ a workaround of sorts. [As of summer 2009](http://blog.stackoverf
 
 A good CDN has a network of fast nodes all over the world.
 
-![](http://blog.stackoverflow.com/wp-content/uploads/cdn-world-map.png)
+![](/blog/images/wordpress/cdn-world-map.png)
 
 With a CDN, when you make a request for, say, `favicon.ico` -- that particular file doesn't have to be delivered from our NYC datacenter. It can come from a server in the CDN closer to _you_. Yes, these files are usually cached, but you do have to retrieve them at least once and sometimes a few times a day. The resulting performance improvement can be quite dramatic, particularly for that first click!
 
@@ -64,11 +64,11 @@ Make a few requests to each of these links, using Ctrl-F5 / Command-Shift-R to f
 
 In Chrome, you can see detailed download times via the "Network" tab of the Developer Tools, which can be invoked via Ctrl-Shift-I.
 
-![](http://blog.stackoverflow.com/wp-content/uploads/chrome-dev-tools-network.png)
+![](/blog/images/wordpress/chrome-dev-tools-network.png)
 
 In Firefox with [Firebug](http://getfirebug.com/), download timing is on the "Network" tab, too:
 
-![](http://blog.stackoverflow.com/wp-content/uploads/firefox-firebug-network.png)
+![](/blog/images/wordpress/firefox-firebug-network.png)
 
 The result in the Chrome screenshot is **576ms**; in the Firefox screenshot it's **490ms**.
 
@@ -83,7 +83,7 @@ With your data in hand, we hope to choose a killer CDN that makes Stack Exchange
 
 
 update: now with results! The percentages here mean _percent better than sstatic.net_ which is our default CDN in NYC.
-![](http://blog.stackoverflow.com/wp-content/uploads/cdn-performance-test-world-map.png)
+![](/blog/images/wordpress/cdn-performance-test-world-map.png)
 
 
 

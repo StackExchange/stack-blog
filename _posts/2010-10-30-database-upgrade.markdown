@@ -80,7 +80,7 @@ Kyle [asked why our CPUs weren't clocking up on Server Fault](http://serverfault
 
 ... kind of the worst of all worlds. But Kyle quickly flipped a few BIOS settings so that the machine was set to "hyperspeed mode", and performance suddenly got a lot better. How much better? 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/nydb11.png)
+![](/blog/images/wordpress/nydb11.png)
 
 My benchmarks, let me show you them! This is **an average of 10 SQL query runs on a copy of the Stack Overflow database**, under no (or very little) real world load.
 

@@ -44,7 +44,7 @@ I guess I was inspired by [the old Amiga A1000 I used to own](http://en.wikipedi
 
 
 
-[![amiga-a1000-signatures](http://blog.stackoverflow.com/wp-content/uploads/amiga-a1000-signatures.jpg)](http://blog.stackoverflow.com/wp-content/uploads/amiga-a1000-signatures-large.jpg)
+[![amiga-a1000-signatures](/blog/images/wordpress/amiga-a1000-signatures.jpg)](/blog/images/wordpress/amiga-a1000-signatures-large.jpg)
 
 
 
@@ -106,7 +106,7 @@ I've done a fair bit of burn-in testing on all the servers, typical stuff like m
 
 
 
-![so-db-config-serveraid-manager](http://blog.stackoverflow.com/wp-content/uploads/so-db-config-serveraid-manager.png)
+![so-db-config-serveraid-manager](/blog/images/wordpress/so-db-config-serveraid-manager.png)
 
 
 

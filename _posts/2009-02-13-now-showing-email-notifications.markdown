@@ -39,7 +39,7 @@ You'll get an **automatic weekly summary of any responses to your questions and 
 
 
 
-![stackoverflow-email-summary](http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-email-summary.png)
+![stackoverflow-email-summary](/blog/images/wordpress/stackoverflow-email-summary.png)
 
 
 

@@ -45,7 +45,7 @@ As Joel explained in [Merging Season](http://blog.stackoverflow.com/2010/09/merg
 
 ... then your proposal should be **closed as a duplicate** on Area 51, which has a close reason _precisely for this purpose!_
 
-![](http://blog.stackoverflow.com/wp-content/uploads/area-51-close-duplicate1.png)
+![](/blog/images/wordpress/area-51-close-duplicate1.png)
 
 Area 51 was always envisioned as a tool for broadening our scope -- for creating new sites serving _new topics_ and answering questions that were _previously considered off-topic_ on [our existing sites](http://stackexchange.com/sites). Area 51 was _never_ intended as a tool for creating overlapping sub-sites that would **cannibalize users** from our existing sites!
 

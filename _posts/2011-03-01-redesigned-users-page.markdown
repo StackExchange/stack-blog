@@ -19,7 +19,7 @@ The old user page was fine, in a late 2008 sort of way, but it ultimately became
 
 The new user page is much more ... _dynamic_. And hopefully more useful and interesting as a destination.
 
-![](http://blog.stackoverflow.com/wp-content/uploads/new-user-page.png)
+![](/blog/images/wordpress/new-user-page.png)
 
 I opened [a post on meta asking for design feedback](http://meta.stackoverflow.com/questions/80690/redesigning-the-users-page) and we incorporated a lot of that feedback into the revised Users directory page:
 
@@ -42,7 +42,7 @@ This is partially inspired by the still-awesome [Stack Exchange reputation leagu
 
 We also added a link to the leagues on your individual user page -- a dynamic link that indicates **your current percentile ranking relative to your peers** within the current week, month, quarter, or year.
 
-![](http://blog.stackoverflow.com/wp-content/uploads/rep-percentiles-user-page.png)
+![](/blog/images/wordpress/rep-percentiles-user-page.png)
 
 Clicking through on this link will permalink you to your _best_ current Stack Exchange reputation league rank.
 

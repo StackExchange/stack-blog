@@ -31,6 +31,6 @@ If you missed [the old reputation graph](http://blog.stackoverflow.com/2011/03/r
 
 If you are logged in to stackexchange.com, there's also a private inbox tab that will let you **access old messages in your [global inbox](http://blog.stackoverflow.com/2010/09/new-global-inbox/)** that may have scrolled off. Just look for the "see all" link at the bottom of your beloved global inbox tab.
 
-![](http://blog.stackoverflow.com/wp-content/uploads/stack-exchange-global-profile-page-5.png)
+![](/blog/images/wordpress/stack-exchange-global-profile-page-5.png)
 
 If you only participate on one site in the network, you may not need this stuff -- but why stop at one? We hope the new network profiles make it easier and more fun to participate in [even more of our Stack Exchange Q&A; sites](http://stackexchange.com/sites)!

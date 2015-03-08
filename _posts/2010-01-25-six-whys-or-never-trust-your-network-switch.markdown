@@ -31,7 +31,7 @@ Guess what we woke up this morning (well, you don't really "wake up" at 3 AM, un
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/switch-autodetect-fail.png)](http://blog.stackoverflow.com/wp-content/uploads/switch-autodetect-fail-large.png)
+[![](/blog/images/wordpress/switch-autodetect-fail.png)](/blog/images/wordpress/switch-autodetect-fail-large.png)
 
 
 

@@ -39,7 +39,7 @@ The new pipeline works just like [Gist](https://gist.github.com/), you can track
 
 
 [![](http://blog.stackoverflow.com/wp-content/uploads/fork11.png)](http://data.stackexchange.com/stackoverflow/query/6772/stackoverflow-rank-and-percentile)
-![](http://blog.stackoverflow.com/wp-content/uploads/fork2.png)
+![](/blog/images/wordpress/fork2.png)
 
 
 
@@ -57,7 +57,7 @@ The first type is a simple graph, where the first column represents the X-axis a
 
 The second type is a bit trickier, it unpivots the second column in the result set. For example: [a graph of questions per tag for top 10 tags](http://data.stackexchange.com/stackoverflow/query/59301/questions-per-month-top-10-tags-compared).
 
-![](http://blog.stackoverflow.com/wp-content/uploads/graph-300x168.png)
+![](/blog/images/wordpress/graph-300x168.png)
 
 
 

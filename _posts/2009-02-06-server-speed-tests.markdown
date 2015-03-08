@@ -61,7 +61,7 @@ Existing site:
 
 
 
-![stackoverflow-firebug-old-server](http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-firebug-old-server.png)
+![stackoverflow-firebug-old-server](/blog/images/wordpress/stackoverflow-firebug-old-server.png)
 
 
 
@@ -69,7 +69,7 @@ New site:
 
 
 
-![stackoverflow-firebug-new-server](http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-firebug-new-server.png)
+![stackoverflow-firebug-new-server](/blog/images/wordpress/stackoverflow-firebug-new-server.png)
 
 
 

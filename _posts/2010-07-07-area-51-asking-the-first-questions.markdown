@@ -27,7 +27,7 @@ I was a bit put off by the context implied by "seeding the site." The word _seed
 
 But it's a popular way to avoid the classic "[empty restaurant syndrome](http://mikepascucci.com/2009/03/30/the-empty-restaurant-syndrome/)."
 
-![](http://blog.stackoverflow.com/wp-content/uploads/Empty-Restaurant.jpg)
+![](/blog/images/wordpress/Empty-Restaurant.jpg)
 
 Back when Stack Exchange 1.0 sites were struggling, administrators had the problem of jump-starting their communities. The best way to overcome this classic chicken-or-the-egg problem was for the administrators to proactively seed the site with content. The downside is that those hypothetical questions tend to be somewhat pedestrian for an expert Q&A site. When put on the spot to post content, we're likely come up with uninspired questions that anyone would ask. And they've all been asked 100 times before on every other site on that subject.
 

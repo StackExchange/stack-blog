@@ -16,7 +16,7 @@ We've had **inline tagging** as a moderator-only feature for quite a while, and 
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/inline-tagging.png)
+![](/blog/images/wordpress/inline-tagging.png)
 
 
 
@@ -24,7 +24,7 @@ If you have the requisite 10k reputation, just mouse over the tags on any questi
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/inline-tagging-2.png)
+![](/blog/images/wordpress/inline-tagging-2.png)
 
 
 

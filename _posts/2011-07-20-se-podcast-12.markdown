@@ -57,7 +57,7 @@ This week, Jeff and Joel are joined by [Patrick McKenzie](http://www.kalzumeus.c
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/index.png)](http://blog.stackoverflow.com/wp-content/uploads/index.png)
+[![](/blog/images/wordpress/index.png)](/blog/images/wordpress/index.png)
 
 
 

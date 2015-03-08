@@ -26,7 +26,7 @@ When you mark a post **community wiki** on a Stack Exchange site, that means …
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/community-wiki-checkbox.png)
+![](/blog/images/wordpress/community-wiki-checkbox.png)
 
 The main _advantage_ of community wiki -- more editing -- was nerfed [when we introduced suggested edits](http://blog.stackoverflow.com/2011/02/suggested-edits-and-edit-review/). With suggested edits, anyone, even an anonymous user, can edit anything -- so long as another experienced user reviews and approves their edit.
 
@@ -40,7 +40,7 @@ With suggested edits now in place, you could argue that the removal of reputatio
 
 One of the first feature requests I saw on Meta Stack Overflow was [Moderator Filtering of Highest Voted Questions](//meta.stackoverflow.com/questions/51557/moderator-filtering-of-highest-voted-questions), which was deemed necessary because questions like [Coolest Server Names](http://serverfault.com/questions/45734/the-coolest-server-names) show the wrong side of the site. The actual problem-solving nature of sites is too easily buried under the weight of all these "fun" community wiki questions. At one point, "Our top voted post is an actual _question!_" was a point of pride. That's … not a positive sign for a Q&A network.
 
-![](http://blog.stackoverflow.com/wp-content/uploads/get-out-of-jail-free-card.png)
+![](/blog/images/wordpress/get-out-of-jail-free-card.png)
 
 Even when divorced from reputation, votes are hugely important. Something with a lot of votes means "this is what we deem quality content", and votes are how we differentiate between answers when there is no single definitive answer. Community wiki should never be used as a get out of jail free pass for [joke and fun questions](http://blog.stackoverflow.com/2010/01/stack-overflow-where-we-hate-fun/). It may succeed in preventing any single individual from gaining reputation for posting a cartoon or joke, but the _question_ will remain on the site. And it will now and forever be one of the top questions by votes, advertised to the world as one of the top rated things on your site.
 
@@ -82,6 +82,6 @@ Yet even in answers, true collaboration is scarce. Most of the time, a single in
 
 Most of the time, you should be asking yourself "How can I improve this post so that community wiki isn't needed?" Community wiki is like a cheese knife: it is a specialized tool to be used sparingly.
 
-![](http://blog.stackoverflow.com/wp-content/uploads/cheese-knife.jpg)
+![](/blog/images/wordpress/cheese-knife.jpg)
 
 Community wiki is for that rare gem of a post that needs true community collaboration. That's when community wiki shines. If your site is teeming with community wiki posts -- particularly in questions -- you should consider the above points carefully.

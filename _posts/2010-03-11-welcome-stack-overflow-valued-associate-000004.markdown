@@ -16,7 +16,7 @@ I am pleased to announce that **Stack Overflow just added another team member in
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/kevin-montrose-big.jpg)
+![](/blog/images/wordpress/kevin-montrose-big.jpg)
 
 
 

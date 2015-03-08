@@ -37,7 +37,7 @@ But not any more. As [OpenID has matured](http://blog.stackoverflow.com/2010/04/
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/auto-association.png)
+![](/blog/images/wordpress/auto-association.png)
 
 
 

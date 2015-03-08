@@ -20,7 +20,7 @@ But I'm happy to answer here on the blog, with a breakdown of Stack Overflow tra
 
 
 
-![stackoverflow-world-user-graph](http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-world-user-graph1.png)
+![stackoverflow-world-user-graph](/blog/images/wordpress/stackoverflow-world-user-graph1.png)
 
 
 

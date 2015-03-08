@@ -19,7 +19,7 @@ Thanks to our good friends at [imgur.com](http://imgur.com/), **we now support n
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/native-image-uploads-imgur.png)
+![](/blog/images/wordpress/native-image-uploads-imgur.png)
 
 
 
@@ -31,7 +31,7 @@ Yes, that means adding a picture to a question or answer is now as easy as ...
 
 
 
-  1. clicking the **Insert Image** ![](http://blog.stackoverflow.com/wp-content/uploads/insert-image-button.png) toolbar button 
+  1. clicking the **Insert Image** ![](/blog/images/wordpress/insert-image-button.png) toolbar button 
 
   2. selecting an image from your computer, or the web
 

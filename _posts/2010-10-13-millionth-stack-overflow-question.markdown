@@ -13,7 +13,7 @@ categories:
 
 At about 9:26 PM Pacific time, on October 12th, 2010, **the millionth question was asked on Stack Overflow**. And then [promptly closed](http://stackoverflow.com/questions/3920757/question-1-million-closed).
 
-![](http://blog.stackoverflow.com/wp-content/uploads/one-million-questions.png)
+![](/blog/images/wordpress/one-million-questions.png)
 
 This of course calls for a [celebration](http://blog.stackoverflow.com/2010/03/reminder-its-april-1st/).
 

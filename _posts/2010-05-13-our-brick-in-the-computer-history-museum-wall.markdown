@@ -32,7 +32,7 @@ I assume the sponsors wall will go up around the same time, and if you can make 
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/computer-history-museum-map-wall.png)
+![](/blog/images/wordpress/computer-history-museum-map-wall.png)
 
 
 
@@ -40,7 +40,7 @@ We weren't sure what we wanted the brick to say, so in true Stack Overflow spiri
 
 
 
-![stackoverflow.com Dedicated to the expert programmers whose tireless work made this brick possible.](http://blog.stackoverflow.com/wp-content/uploads/so-brick-crop1.jpg)
+![stackoverflow.com Dedicated to the expert programmers whose tireless work made this brick possible.](/blog/images/wordpress/so-brick-crop1.jpg)
 
 
 

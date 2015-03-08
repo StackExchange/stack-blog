@@ -15,7 +15,7 @@ categories:
 
 If you've used any Stack Exchange site over the last year, you're probably familiar with "the envelope".
 
-![](http://blog.stackoverflow.com/wp-content/uploads/envelope-i-hate-you.png)
+![](/blog/images/wordpress/envelope-i-hate-you.png)
 
 The envelope was a notification system that … sort of … let you know when things happened on the site. As time went on, it became clear that **the envelope was a deeply flawed design**. I began thinking of it as a curse, as our Windows Vista. Yep. That bad.
 
@@ -51,19 +51,19 @@ We decided to refocus on two things:
 
 That's why there is a **new hover menu on your username**. It contains a quick overview of where your reputation (and badges) are coming from, _right now_. And a handy **live UTC clock**, too, since all our days are measured in UTC.
 
-![](http://blog.stackoverflow.com/wp-content/uploads/user-drop-down.png)
+![](/blog/images/wordpress/user-drop-down.png)
 
 It also contains deep links to **new, improved top-level tabs in your user profile** -- tabs that now have numbers on them indicating how many new things there are since you last checked. 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/user-page-new-rep-graph.png)
+![](/blog/images/wordpress/user-page-new-rep-graph.png)
 
 The old reputation graph was boring and honestly kind of useless. It mostly went monotonously up and to the right, with some occasional flat areas if you stopped participating. The **redesigned reputation graph** is far more practical. You don't need to rely on the graph, either; you can view reputation breakdowns **by post** or **by time** in great detail by clicking the appropriate sub-tab.
 
-![](http://blog.stackoverflow.com/wp-content/uploads/user-page-rep-by-post.png)
+![](/blog/images/wordpress/user-page-rep-by-post.png)
 
 In addition to the counter on the tab, the responses tab and the reputation tab will actively highlight things that are new since the last time you visited that tab.
 
-![](http://blog.stackoverflow.com/wp-content/uploads/new-responses-tab.png)
+![](/blog/images/wordpress/new-responses-tab.png)
 
 You may notice that the accounts tab on your user page has improved substantially as well, and is in "natural" order of reputation.
 
