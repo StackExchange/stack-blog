@@ -13,12 +13,10 @@ for subdir, dirs, files in os.walk(rootdir):
     	for key, line in enumerate(contents):
     		src = re.search('\!\[.*\]\((.*?)\)', line)
     		if src:
-    			wordpress_src = re.search('http://blog.stackoverflow.com/wp-content/uploads/(.*)', src.group(1))
-    			if wordpress_src:
-	    			x = line.replace("http://blog.stackoverflow.com/wp-content/uploads", "/blog/images/wordpress")
-	    			contents[key] = x
-
-    	f = open(filename, "w")
-    	contents = "".join(contents)
-    	f.write(contents)
-    	f.close()
+    			image = "hero: " + src.group(1) + "\n"
+    			contents.insert(5, "hero: " + src.group(1) + "\n")
+    			f = open(filename, "w")
+		    	contents = "".join(contents)
+		    	f.write(contents)
+		    	f.close()
+		    	break
