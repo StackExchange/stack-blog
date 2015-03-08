@@ -29,14 +29,14 @@ author:
 <h3>Query revisions</h3>
 <p>When we created Data Explorer there was no way to track a query's "lineage". This was particularly problematic because we had no way of updating featured queries or shared queries. Even I <a href="http://meta.stackoverflow.com/questions/108623/saving-and-editing-queries-on-data-explorer-is-giving-me-a-headache">complained about this</a> on meta.</p>
 <p>The new pipeline works just like <a href="https://gist.github.com/">Gist</a>, you can track the history of your query as you are editing (attributing the various editors along the way):</p>
-<p><a href="http://data.stackexchange.com/stackoverflow/query/6772/stackoverflow-rank-and-percentile"><img src="assets/fork11.png" alt="" title="query" width="494" height="256" class="alignnone size-full wp-image-10819" /></a><br />
-<img src="assets/fork2.png" alt="" title="click fork" width="503" height="304" class="alignnone size-full wp-image-10818" /></p>
+<p><a href="http://data.stackexchange.com/stackoverflow/query/6772/stackoverflow-rank-and-percentile"><img src="{{ site.baseurl }}/assets/fork11.png" alt="" title="query" width="494" height="256" class="alignnone size-full wp-image-10819" /></a><br />
+<img src="{{ site.baseurl }}/assets/fork2.png" alt="" title="click fork" width="503" height="304" class="alignnone size-full wp-image-10818" /></p>
 <p>You can link to a specific revision, or simply share a "query set" by using the permalink. By sharing a "query set" you can later on fix up any issues the query has, without needing to update <a href="http://data.stackexchange.com/stackoverflow/query/6772/stackoverflow-rank-and-percentile">the link</a>. The new pipeline allows you to "fork" any query created by other users and tracks attribution along the way.</p>
 <h3>Graphs</h3>
 <p>We added some basic graphing facilities, supporting 2 types of line graphs:</p>
 <p>The first type is a simple graph, where the first column represents the X-axis and the other columns the data points. For example: <a href="http://data.stackexchange.com/stackoverflow/query/59302/questions-and-answers-per-month">a graph of questions and answers per month</a>.</p>
 <p>The second type is a bit trickier, it unpivots the second column in the result set. For example: <a href="http://data.stackexchange.com/stackoverflow/query/59301/questions-per-month-top-10-tags-compared">a graph of questions per tag for top 10 tags</a>.</p>
-<p><img src="assets/graph-300x168.png" alt="" title="graph" width="300" height="168" class="alignnone size-medium wp-image-10787" /></p>
+<p><img src="{{ site.baseurl }}/assets/graph-300x168.png" alt="" title="graph" width="300" height="168" class="alignnone size-medium wp-image-10787" /></p>
 <h3>Huge open source upgrade</h3>
 <p>Data Explorer consumes a fair amount of open source libraries. In the past year and a half many have evolved. We took the time to upgrade them all.</p>
 <p>The excellent <a href="http://codemirror.net/">Code Mirror</a> was updated to the 2.0 version, the new version no longer uses messy iframes. Marjin wrote a <a href="http://codemirror.net/doc/internals.html">great post</a> explaining the changes, a fantastic read for any JavaScript developers.</p>

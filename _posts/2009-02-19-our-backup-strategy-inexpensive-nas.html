@@ -23,7 +23,7 @@ author:
 <p>
 As part of our new backup strategy, I decided to invest in an inexpensive Network Attached Storage (NAS) unit -- the <a href="http://www.qnap.com/pro_detail_feature.asp?p_id=103">QNAP TS-409U</a>.</p>
 <p>
-<a href="http://www.amazon.com/dp/B001AXCJVE/?tag=codinghorror-20" style="border-bottom:none;"><img src="assets/qnap-409u.jpg" border="0" alt="qnap 409u" title="qnap-409u" /></a></p>
+<a href="http://www.amazon.com/dp/B001AXCJVE/?tag=codinghorror-20" style="border-bottom:none;"><img src="{{ site.baseurl }}/assets/qnap-409u.jpg" border="0" alt="qnap 409u" title="qnap-409u" /></a></p>
 <p>
 The TS-409U has the following specs:</p>
 <ul>
@@ -43,7 +43,7 @@ The TS-409U has the following specs:</p>
 <p>
 Being Linux, you can also do <a href="http://www.qnap.com/pro_features.asp">lots of other cool stuff</a> on it, like run Apache+PHP, MySQL server, FTP server, BitTorrent server, Multimedia Server (whatever the heck <a href="http://www.twonkymedia.com/learn.html">Twonky</a> is), and iTunes compatible media sharing. But for our purposes, it's an inexpensive RAID-based filesystem. It's a minimalistic set of hardware, as you can see in <a href="http://www.techwarelabs.com/reviews/servers/qnap_ts_409u_turbo_nas/index_2.shtml">this Techware Labs review</a>:</p>
 <p>
-<a href="http://www.techwarelabs.com/reviews/servers/qnap_ts_409u_turbo_nas/index_2.shtml" style="border-bottom:none;"><img src="assets/ts409u-internals.jpg" alt="ts409u-internals" title="ts409u-internals" border="0" /></a></p>
+<a href="http://www.techwarelabs.com/reviews/servers/qnap_ts_409u_turbo_nas/index_2.shtml" style="border-bottom:none;"><img src="{{ site.baseurl }}/assets/ts409u-internals.jpg" alt="ts409u-internals" title="ts409u-internals" border="0" /></a></p>
 <p>
 I populated our TS-409U with four of the best price/capacity hard drives I could source. As of today, at least, the sweet spot is <b>640 GB drives</b>. Total price was $799 for the device, and $60 each for the drives, so around $1,200 total with tax and shipping. </p>
 <p>
@@ -51,11 +51,11 @@ Our Database Ninja<sup>tm</sup>, <a href="http://www.brentozar.com/">Brent Ozar<
 <p>
 As for setting up the QNAP TS-409U, I was a little annoyed that you have to run a Windows or Mac executable for the initial setup, instead of just booting it and configuring everything through the comprehensive (and very nice) web UI. But it detected my drives and configured OK, at which point I could use the web UI for everything else: </p>
 <p>
-<img src="assets/ts409u-sata-config.png" alt="ts409u-sata-config" title="ts409u-sata-config" /></p>
+<img src="{{ site.baseurl }}/assets/ts409u-sata-config.png" alt="ts409u-sata-config" title="ts409u-sata-config" /></p>
 <p>
 Seventeen (!) hours later, the array was fully synced and ready for benchmarking. <a href="http://en.wikipedia.org/wiki/Standard_RAID_levels#RAID_6">RAID 6</a> is just like RAID 5, but with one more parity block, so it can <b>survive two drive failures instead of just one</b>.</p>
 <p>
-<a href="http://en.wikipedia.org/wiki/Standard_RAID_levels#RAID_6" style="border-bottom:none;"><img src="assets/raid-6-diagram.png" border="0" alt="raid-6-diagram" title="raid-6-diagram" class="alignnone size-full wp-image-702" /></a></p>
+<a href="http://en.wikipedia.org/wiki/Standard_RAID_levels#RAID_6" style="border-bottom:none;"><img src="{{ site.baseurl }}/assets/raid-6-diagram.png" border="0" alt="raid-6-diagram" title="raid-6-diagram" class="alignnone size-full wp-image-702" /></a></p>
 <p>
 The downside of picking a low end NAS is speed. The relatively anemic 500 MHz embedded CPU, combined with software-only RAID and the inherent write penalty of RAID 6's dual parity calculation, means ... <b>well, this is not what I would call a "fast device"</b>. Here are some quick benchmarks I ran:</p>
 <table width="400">

@@ -35,7 +35,7 @@ author:
 </li>
 </ol>
 <p>... the site you're navigating to will <b>automagically log you in!</b> You'll see a notification bar at the top to let you know when you've automatically logged into a site.</p>
-<p><img src="assets/global-auth-in-action.png" alt="" title="global-auth-in-action" width="600" height="349" style="border:1px solid black" /></p>
+<p><img src="{{ site.baseurl }}/assets/global-auth-in-action.png" alt="" title="global-auth-in-action" width="600" height="349" style="border:1px solid black" /></p>
 <p><small>(We just forced every registered account in the entire network to log off and log back in to ensure that everyone has logged in under this new regime -- so everyone should meet criteria #1 by definition.)</small></p>
 <p>Global logins are tricky for us because we need <b>cross-domain identity</b>. That is, each of the following sites should, somehow, just magically <i>know</i> who you are:</p>
 <ul>
@@ -65,5 +65,5 @@ author:
 </ul>
 <p><small>(And if you're looking for excruciating technical detail on how this all works, Kevin has <a href="http://meta.stackoverflow.com/questions/64260/how-does-sos-new-auto-login-feature-work/64274#64274">documented that here on meta</a>.)</small></p>
 <p>If you have issues with global auth and need to troubleshoot, I suggest starting by <b>forcing a global logout</b> -- you can do this by clicking "log out", then clicking the big "log out everywhere" button.</p>
-<p><img src="assets/log-out-everywhere-button.png" alt="" title="log-out-everywhere-button" width="372" height="92" /></p>
+<p><img src="{{ site.baseurl }}/assets/log-out-everywhere-button.png" alt="" title="log-out-everywhere-button" width="372" height="92" /></p>
 <p>Bear in mind that you must hold accounts on the sites  -- global authentication will not automatically create accounts for you (with the lone exception of http://stackexchange.com itself). That said, as long as you're logged into one account in our network, you should now be automatically logged into <i>all</i> your accounts.</p>

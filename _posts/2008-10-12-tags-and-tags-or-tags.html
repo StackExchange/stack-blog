@@ -22,11 +22,11 @@ author:
 <p>
 Until recently, <b>we hadn't done a good job of providing a user interface for combining tags</b>. You'll notice that all the question browsers now show "related tags", with a count of how many tags are shown for whatever view you happen to be in (with the exception of search):</p>
 <p>
-<img src="assets/stackoverflow-related-tags1.png" alt="stackoverflow-related-tags" title="stackoverflow-related-tags" width="264" /></p>
+<img src="{{ site.baseurl }}/assets/stackoverflow-related-tags1.png" alt="stackoverflow-related-tags" title="stackoverflow-related-tags" width="264" /></p>
 <p>
 Let's say I clicked on the <a href="http://stackoverflow.com/questions/tagged/python">Python</a> tag, anywhere on the Stack Overflow site. <b>Clicking on a tag zips you away to a view of all the questions within that particular tag.</b> Within the tag view, you can sort and browse as expected, but you can also click the related tags in the right sidebar to <i>combine</i> tags, like so:</p>
 <p>
-<img src="assets/stackoverflow-tagged-related-series.png" alt="stackoverflow-tagged-related-series" title="stackoverflow-tagged-related-series" width="537" /></p>
+<img src="{{ site.baseurl }}/assets/stackoverflow-tagged-related-series.png" alt="stackoverflow-tagged-related-series" title="stackoverflow-tagged-related-series" width="537" /></p>
 <p>
 This isn't exactly new; you could always do this manually in the URL by space delimiting the tags. However, these were always implicit <b>ands</b>, as in:</p>
 <blockquote><p>
@@ -46,7 +46,7 @@ Show me all the questions tagged <i>either</i> "python" <b>OR</b> "django"</p>
 <a href="http://stackoverflow.com/questions/tagged/python or django">http://stackoverflow.com/questions/tagged/python or django</a></p>
 </blockquote>
 <p>
-<img src="assets/stackoverflow-tagged-or-clause1.png" alt="stackoverflow-tagged-or-clause" title="stackoverflow-tagged-or-clause" width="264" /></p>
+<img src="{{ site.baseurl }}/assets/stackoverflow-tagged-or-clause1.png" alt="stackoverflow-tagged-or-clause" title="stackoverflow-tagged-or-clause" width="264" /></p>
 <p>
 We also support <b>NOT</b> if you prefix the tag with a dash, like so:</p>
 <blockquote><p>
@@ -55,7 +55,7 @@ Show me all the questions tagged "python" <b>BUT NOT</b> tagged "django"</p>
 <a href="http://stackoverflow.com/questions/tagged/python -django">http://stackoverflow.com/questions/tagged/python -django</a></p>
 </blockquote>
 <p>
-<img src="assets/stackoverflow-tagged-not-clause.png" alt="stackoverflow-tagged-not-clause" title="stackoverflow-tagged-not-clause" width="264" /></p>
+<img src="{{ site.baseurl }}/assets/stackoverflow-tagged-not-clause.png" alt="stackoverflow-tagged-not-clause" title="stackoverflow-tagged-not-clause" width="264" /></p>
 <p>
 This works throughout the site, including questions, unanswered questions, and all tag based RSS feeds. <b>Anywhere on Stack Overflow you can specify a tag, you now specify multiple tags with or without the or clause.</b></p>
 <p>

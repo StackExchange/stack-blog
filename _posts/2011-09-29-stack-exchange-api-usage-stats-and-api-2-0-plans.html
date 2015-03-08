@@ -23,7 +23,7 @@ author:
 <p>We're currently in the planning stages for <b>Stack Exchange API 2.0.</b> There's <a href="http://stackapps.com/questions/2588/draft-specification-for-api-v2-0">a draft API 2.0 specification on Stack Apps</a>, so head on over there and take a look if you want a voice in that process.</p>
 <p>As a part of our research process leading up to 2.0, we analyzed usage statistics of the API to date. For the period from <b>8/21/2011</b> to <b>9/21/2011</b> inclusive, there were <b>34.2 million</b> requests against the API. That's about 12 requests per second. </p>
 <p>API usage skews heavily toward users and questions:</p>
-<p><img src="assets/stack-exchange-api-1-1-usage-pie-graph.png" alt="" title="stack-exchange-api-1-1-usage-pie-graph" width="490" height="360" /></p>
+<p><img src="{{ site.baseurl }}/assets/stack-exchange-api-1-1-usage-pie-graph.png" alt="" title="stack-exchange-api-1-1-usage-pie-graph" width="490" height="360" /></p>
 <p>The top API calls, by volume, are:</p>
 <table width="300px">
 <tr>
@@ -187,7 +187,7 @@ author:
 </table>
 <p><b>Roughly 59% of all API requests are from non-web applications.</b> Of the top 20 applications, 8 are non-web applications.  This is of some interest with regards to the debate around HTML encoding all output by default, to ensure it is HTML safe. This suggests that there are many opportunities for script injection, although the reach of the attack is somewhat mitigated.</p>
 <p>API usage growth is basically flat. This is not terribly surprising, since we’re read-only until API v3.0.</p>
-<p><img src="assets/stack-exchange-api-1-1-usage-per-day.png" alt="" title="stack-exchange-api-1-1-usage-per-day" width="584" height="378" /></p>
+<p><img src="{{ site.baseurl }}/assets/stack-exchange-api-1-1-usage-per-day.png" alt="" title="stack-exchange-api-1-1-usage-per-day" width="584" height="378" /></p>
 <p>Getting cache hit rates out of our logs is a bit difficult, but we’ve got an upper limit of 10% based on the numbers.  I’d say we can be confident in a 3-5% cache hit rate.</p>
 <p>We hope these statistics are interesting, if for nothing else than learning about some useful apps that work with the Stack Exchange API that you might not have heard of. You can find out more about these apps, and discover a bunch more, at <b><a href="http://stackapps.com">Stack Apps</a>!</b> </p>
 <p>Stack Apps is more than an app (<a href="http://blog.stackoverflow.com/2011/02/stack-apps-and-scripts/">and script</a>) directory -- there's also a comprehensive set of documentation, support, and examples for the Stack Exchange API over at Stack Apps -- and the entire API is self-documented at ...</p>

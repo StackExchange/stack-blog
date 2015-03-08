@@ -24,7 +24,7 @@ author:
 
 ---
 <p>Several <a href="http://area51.stackexchange.com/">Area 51 sites</a> have made it from being mere proposals to vibrant, thriving websites.</p>
-<p><img src="assets/new-public-sites.png" alt="" title="new-public-sites" width="593" height="93" /></p>
+<p><img src="{{ site.baseurl }}/assets/new-public-sites.png" alt="" title="new-public-sites" width="593" height="93" /></p>
 <p>Namely, <a href="http://webapps.stackexchange.com">webapps</a>, <a href="http://gaming.stackexchange.com">gaming</a>, <a href="http://askubuntu.com">ubuntu</a>, <a href="http://webmasters.stackexchange.com">webmasters</a>, and very soon, <a href="http://cooking.stackexchange.com">cooking</a>.</p>
 <p>And we're about to have a heck of a lot more sites come out of beta. Thus, we need to handle migration of questions from site to site in a more elegant way than we do now.</p>
 <p>Why? Well, <b>sometimes questions are asked that <i>just don't belong</i></b>. In the spirit of preventing broken windows, we like to vote to close these questions so sites can stay tidy, useful, and on topic. We've more or less settled on the following standard close reasons:</p>
@@ -42,7 +42,7 @@ This question would only be relevant to a small geographic area, a specific mome
 </p></blockquote>
 <p>We realized that <b>off-topic</b> is the launching point for deciding "if this question doesn't belong here .. where <i>does</i> it belong?" </p>
 <p>We've consolidated and enhanced off-topic to better cover this scenario. Now, when you click off-topic as a close reason, we also present possible migration paths -- that is, other sites in our network that might work for these wayward off-topic questions.</p>
-<p><img src="assets/new-offtopic-dialog.png" alt="" title="new-offtopic-dialog" width="600" height="376" style="border:1px solid silver" /></p>
+<p><img src="{{ site.baseurl }}/assets/new-offtopic-dialog.png" alt="" title="new-offtopic-dialog" width="600" height="376" style="border:1px solid silver" /></p>
 <p>Now, we are only "unlocking" migration paths that have some history of actually happening on the site. In other words, the odds of a <a href="http://bicycles.stackexchange.com">bicycles</a> or <a href="http://cooking.stackexchange.com">cooking</a> question being accidentally asked on Stack Overflow is so vanishingly slim that we don't need to put it in the dialog or even allow it to happen at all. Whereas I constantly regretted the fact that we had amazingly good webmaster questions asked ALL THE TIME on Stack Overflow that simply had <i>nothing to do with programming</i>, and had to be closed as off-topic. This pained me.</p>
 <p>No longer. I can now begin migrating questions tagged [seo] on Stack Overflow -- many of them closed, and rightly so -- to Webmasters, where they are totally <i>on</i>-topic! And of course, once the migration stubs are deleted, the question will properly 301 redirect to the destination site.</p>
 <p>We're still working out all the "which sites can migrate questions to where" path definitions, and we are open to suggestions. But before you do, there are a few ground rules:</p>

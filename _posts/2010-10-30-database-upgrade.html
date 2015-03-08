@@ -32,7 +32,7 @@ author:
 </tr>
 </table>
 <p>However, a few things didn't go quite to plan in the migration. Much to our chagrin, <b>the database server ended up being barely faster</b> -- and maybe even a bit slower than our old database! This was deeply troubling.</p>
-<p><a href="http://d116.com/spud/"><img src="assets/spud-server.jpg" alt="" title="spud-server" width="546" height="283" /></a></p>
+<p><a href="http://d116.com/spud/"><img src="{{ site.baseurl }}/assets/spud-server.jpg" alt="" title="spud-server" width="546" height="283" /></a></p>
 <p>The new Nehalem CPUs (what you may know as Core i7) are sort of <i>meh</i> on the desktop, but they are <b>monsters on the server</b>. It's not unusual to see 200% performance increases going from Core 2 class server CPUs, like the ones we have in Oregeon, to these newer Core i7 class server CPUs. Just <a href="http://www.anandtech.com/show/2743/17">ask AnandTech's Johan De Gelas</a>:</p>
 <blockquote><p>
 The Nehalem architecture only caused a small ripple in the desktop world, mostly due to high pricing and performance that only shines in high-end applications. However, it has created a giant tsunami in the server world. The Xeon 5570 doubles the performance of its predecessor in applications that matter to more than 80% of the server market. Pulling this off without any process technology or clock speed advantage, without any significant increase in power consumption, is nothing but a historic achievement for the ambitious and talented team of Ronak Singhal.
@@ -57,7 +57,7 @@ The Nehalem architecture only caused a small ripple in the desktop world, mostly
 </li>
 </ul>
 <p>... kind of the worst of all worlds. But Kyle quickly flipped a few BIOS settings so that the machine was set to "hyperspeed mode", and performance suddenly got a lot better. How much better? </p>
-<p><img src="assets/nydb11.png" alt="" title="nydb1" width="579" height="256" /></p>
+<p><img src="{{ site.baseurl }}/assets/nydb11.png" alt="" title="nydb1" width="579" height="256" /></p>
 <p>My benchmarks, let me show you them! This is <b>an average of 10 SQL query runs on a copy of the Stack Overflow database</b>, under no (or very little) real world load.</p>
 <table cellpadding="4" cellspacing="4">
 <tr>
