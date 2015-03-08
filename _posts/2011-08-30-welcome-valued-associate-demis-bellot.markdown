@@ -15,10 +15,10 @@ The NYC Headquarters of Stack Exchange welcomes [Demis Bellot](http://stackoverf
 
 An avid traveler, Demis enjoys taking photos in lovely locations, which often look photoshopped (like these).
 
-[![](/blog/images/2011-08-30-welcome-valued-associate-demis-bellot/demis-tenerife.jpg)](http://blog.stackoverflow.com/2011/08/welcome-valued-associate-demis-bellot/demis-tenerife/)       [![](/blog/images/2011-08-30-welcome-valued-associate-demis-bellot/IMG_5223-e1314732781606.jpg)](http://blog.stackoverflow.com/2011/08/welcome-valued-associate-demis-bellot/img_5223/)
+[![](http://blog.stackoverflow.com/wp-content/uploads/demis-tenerife.jpg)](http://blog.stackoverflow.com/2011/08/welcome-valued-associate-demis-bellot/demis-tenerife/)       [![](http://blog.stackoverflow.com/wp-content/uploads/IMG_5223-e1314732781606.jpg)](http://blog.stackoverflow.com/2011/08/welcome-valued-associate-demis-bellot/img_5223/)
 
 While he isn’t a hobbyist per se, Demis can be easily convinced into a game of tennis or golf.  With his multitude of skills, Demis is sure to be a strong contributor to the Dev Team.  Welcome Demis!
 
-[![](/blog/images/2011-08-30-welcome-valued-associate-demis-bellot/IMG_0504-e1314732861459.jpg)](http://blog.stackoverflow.com/2011/08/welcome-valued-associate-demis-bellot/img_0504/)
+[![](http://blog.stackoverflow.com/wp-content/uploads/IMG_0504-e1314732861459.jpg)](http://blog.stackoverflow.com/2011/08/welcome-valued-associate-demis-bellot/img_0504/)
 
 

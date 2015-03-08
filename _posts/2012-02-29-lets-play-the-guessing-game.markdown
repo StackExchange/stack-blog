@@ -14,7 +14,7 @@ categories:
 
 We've observed a particular pattern of questions emerging on several Stack Exchange sites.
 
-![](/blog/images/2012-02-29-lets-play-the-guessing-game/the-guessing-game.png)
+![](http://blog.stackoverflow.com/wp-content/uploads/the-guessing-game.png)
 
 All these questions are effectively **guessing games**.
 

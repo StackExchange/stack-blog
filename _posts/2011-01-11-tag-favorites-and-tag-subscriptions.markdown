@@ -17,7 +17,7 @@ There is now a small, informative tooltip that appears when you **hover your mou
 
 
 
-![favorite or subscribe a tag via the tag info box](/blog/images/2011-01-11-tag-favorites-and-tag-subscriptions/tag-favorites-subscribe2.png)
+![favorite or subscribe a tag via the tag info box](http://blog.stackoverflow.com/wp-content/uploads/tag-favorites-subscribe2.png)
 
 
 

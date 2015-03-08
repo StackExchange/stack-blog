@@ -13,7 +13,7 @@ categories:
 
 Remember the awesomeness that was Stack Overflow DevDays?
 
-[![DevDays Countdown Screen](/blog/images/2010-06-24-devdays/devdays-v21.png)](/blog/images/2010-06-24-devdays/devdays-v21.png)
+[![DevDays Countdown Screen](http://blog.stackoverflow.com/wp-content/uploads/devdays-v21.png)](http://blog.stackoverflow.com/wp-content/uploads/devdays-v21.png)
 
 If you're coming in late... last fall, we took Stack Overflow on the road to ten (10!) cities with awesome one-day conferences. Over 4000 people attended to hear tutorials on  jQuery, ASP.NET MVC, Python, iPhone development, and some other topics which varied from city to city. It was tiring, but a lot of fun.
 

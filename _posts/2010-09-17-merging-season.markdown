@@ -60,7 +60,7 @@ Imagine that one day, due to a monumental lapse in judgement, you find yourself 
 
 When you get home, though, you marry your high-school sweetheart, and settle down in the suburbs, and you can barely stand those icky people who send their brats to the filthy Newton South High School instead of Newton North. Hooligans!
 
-![TACO HAS A BUCKET](/blog/images/2010-09-17-merging-season/IMG_0329.jpg)
+![TACO HAS A BUCKET](http://blog.stackoverflow.com/wp-content/uploads/IMG_0329.jpg)
 
 (Jeff wants me to put pictures in my blog posts. This is my dog Taco. Taco has a bucket!)
  
@@ -154,7 +154,7 @@ Here's the best we could come up with for deciding whether site X should be subs
 
 So. Should [Guitars](http://area51.stackexchange.com/proposals/6320/guitars) just be a part of [Musical Practice and Performance?](http://area51.stackexchange.com/proposals/4059/musical-practice-and-performance) Yes... I think all four conditions are met. Should everything be rolled up into a mega [Music](http://area51.stackexchange.com/proposals/17796/music) site? In principle, we could, but I think that you would end up with people asking questions about obscure Grateful Dead bootleg tapes that we just don't have a large enough community to answer, so condition 3 does not apply. How about a big generic "Entertainment" site? Here condition 3 and 4 definitely are not met.
 
-![IMG_0331.JPG](/blog/images/2010-09-17-merging-season/IMG_0331.jpg)
+![IMG_0331.JPG](http://blog.stackoverflow.com/wp-content/uploads/IMG_0331.jpg)
 
 
 

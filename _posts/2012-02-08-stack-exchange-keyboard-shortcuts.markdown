@@ -13,7 +13,7 @@ categories:
 
 Scott Hanselman's [article about keyboard shortcuts and web sites](http://www.hanselman.com/blog/TheWebIsTheNewTerminalAreYouUsingTheWebsKeyboardShortcutsAndHotkeys.aspx) reminded me that I inexplicably forgot to blog about **our very own [totally awesome set of keyboard shortcuts for Stack Exchange!](http://stackapps.com/questions/2567/official-keyboard-shortcuts)**
 
-[![](/blog/images/2012-02-08-stack-exchange-keyboard-shortcuts/stack-exchange-keyboard-shortcuts.png)](http://stackapps.com/questions/2567/official-keyboard-shortcuts)
+[![](http://blog.stackoverflow.com/wp-content/uploads/stack-exchange-keyboard-shortcuts.png)](http://stackapps.com/questions/2567/official-keyboard-shortcuts)
 
 While we haven't yet integrated keyboard shortcuts into the core site, the [Stack Exchange Official Keyboard Shortcuts](http://stackapps.com/questions/2567/official-keyboard-shortcuts) browser script _is_ explicitly supported and actively maintained by us (mostly through the hard work of [Ben](http://stackexchange.com/users/40051/balpha) and [Rebecca](http://stackexchange.com/users/60791/rebecca-chernoff)).
 

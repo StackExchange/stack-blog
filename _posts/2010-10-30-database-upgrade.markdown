@@ -36,7 +36,7 @@ As part of our [datacenter migration](http://blog.stackoverflow.com/2010/10/data
 
 However, a few things didn't go quite to plan in the migration. Much to our chagrin, **the database server ended up being barely faster** -- and maybe even a bit slower than our old database! This was deeply troubling.
 
-[![](/blog/images/2010-10-30-database-upgrade/spud-server.jpg)](http://d116.com/spud/)
+[![](http://blog.stackoverflow.com/wp-content/uploads/spud-server.jpg)](http://d116.com/spud/)
 
 The new Nehalem CPUs (what you may know as Core i7) are sort of _meh_ on the desktop, but they are **monsters on the server**. It's not unusual to see 200% performance increases going from Core 2 class server CPUs, like the ones we have in Oregeon, to these newer Core i7 class server CPUs. Just [ask AnandTech's Johan De Gelas](http://www.anandtech.com/show/2743/17):
 
@@ -80,7 +80,7 @@ Kyle [asked why our CPUs weren't clocking up on Server Fault](http://serverfault
 
 ... kind of the worst of all worlds. But Kyle quickly flipped a few BIOS settings so that the machine was set to "hyperspeed mode", and performance suddenly got a lot better. How much better? 
 
-![](/blog/images/2010-10-30-database-upgrade/nydb11.png)
+![](http://blog.stackoverflow.com/wp-content/uploads/nydb11.png)
 
 My benchmarks, let me show you them! This is **an average of 10 SQL query runs on a copy of the Stack Overflow database**, under no (or very little) real world load.
 

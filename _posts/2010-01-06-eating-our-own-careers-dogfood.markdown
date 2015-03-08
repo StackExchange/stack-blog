@@ -21,7 +21,7 @@ I was ecstatic the first time I used Stack Overflow to ask a programming questio
 
 
 
-![](/blog/images/2010-01-06-eating-our-own-careers-dogfood/dogfood.jpg)
+![](http://blog.stackoverflow.com/wp-content/uploads/dogfood.jpg)
 
 
 

@@ -32,7 +32,7 @@ Since 2010, we’ve seen a 2.2% uptick in workplace satisfaction, so 70% of you 
 
 Since we now have three years’ worth of data, we wanted to put together something a little special for this year’s overview, so check out the infographic below that our designer created to highlight some of our key findings.
 
-[![](/blog/images/2013-01-25-2012-stack-overflow-user-survey-results/survey-final-3.png)](http://blog.stackoverflow.com/2013/01/2012-stack-overflow-user-survey-results/survey-final-3/)
+[![](http://blog.stackoverflow.com/wp-content/uploads/survey-final-3.png)](http://blog.stackoverflow.com/2013/01/2012-stack-overflow-user-survey-results/survey-final-3/)
 
 In our effort to make all information publicly available, here is [a basic report of the results](https://www.surveymonkey.com/sr.aspx?sm=vU4rF_2bPVQaftSo1s69bGGbvMPXp7ktcfSHiDFP_2bM5qw_3d) or if you'd prefer to play around with the data yourself, [download the survey results](https://drive.google.com/a/stackoverflow.com/#folders/0BwIexitMAu8ceG95UUkyUGlRM0U).
 

@@ -63,7 +63,7 @@ This week, the Stack Exchange podcast travels to England, where Jeff and Joel ar
 
 Jon needs your help!  If he is chosen to speak at DevDays 2011, what do you  want to hear him speak about?  Enter your suggestions in the comments to this post. Sadly, Jon was having so much fun with the podcast that he forgot to put dinner in the oven halfway through the taping - hence we are left with this picture of the three sitting on their laptops, waiting for dinner to cook while accompanied by a papier-mâché dragon left over from a recent birthday party for Jon's children.
 
-![](/blog/images/2011-05-11-se-podcast-04/photo1.jpg)
+![](http://blog.stackoverflow.com/wp-content/uploads/photo1.jpg)
 
 See you next week!
 

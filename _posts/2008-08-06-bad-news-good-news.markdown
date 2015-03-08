@@ -29,7 +29,7 @@ Joel is on an extended vacation. Our apologies, but the logistics of recording r
 
 
 
-![beary-sorry](/blog/images/2008-08-06-bad-news-good-news/beary-sorry.gif)
+![beary-sorry](http://blog.stackoverflow.com/wp-content/uploads/beary-sorry.gif)
 
 
 

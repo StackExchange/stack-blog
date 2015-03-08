@@ -18,7 +18,7 @@ I was invited on as a guest of the [PowerScripting Podcast](http://powerscriptin
 
 
 
-[![powerscripting-podcast](/blog/images/2009-11-24-server-fault-and-the-powerscripting-podcast/powerscripting-podcast.jpg)](http://powerscripting.wordpress.com/2009/11/22/episode-93-jeff-atwood-tells-us-rock-hard-awesome-will-create-teleportation-and-we-talk-about-serverfault/)
+[![powerscripting-podcast](http://blog.stackoverflow.com/wp-content/uploads/powerscripting-podcast.jpg)](http://powerscripting.wordpress.com/2009/11/22/episode-93-jeff-atwood-tells-us-rock-hard-awesome-will-create-teleportation-and-we-talk-about-serverfault/)
 
 
 

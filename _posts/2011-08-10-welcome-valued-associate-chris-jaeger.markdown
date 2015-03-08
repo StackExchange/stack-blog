@@ -24,7 +24,7 @@ I jumped on the chance.
 
 Chris is a bit private in nature, but that's okay; We hire community managers for their _online_ persona, and not their real-world one. Chris's work with Stack Exchange pretty much speaks for itself; but nevertheless, Chris indulged me with a bit of a bio to include in this announcement, and a picture that really exemplifies what Chris is all about:
 
-![](/blog/images/2011-08-10-welcome-valued-associate-chris-jaeger/Chris-Jaeger-duck.jpg)
+![](http://blog.stackoverflow.com/wp-content/uploads/Chris-Jaeger-duck.jpg)
 
 
 <blockquote>Chris is a gamer by heart and heritage, and thus a lot of her life comes from his love for video games. Learning artistic skills, practicing creative writing, coding small tests, and a fair amount of documentation occupies the majority of her time. The one thing more he cherishes more is her family, and he greatly enjoys that her new job lets him keep their new Southwick home from being a lonely place during the day, even if she can't keep his mother company during the day proper. It may seem like a quiet boring life, but she manages to keep it interesting enough for stories, whether it's setting his hair on fire during Biology class or being hounded by a white wasp for the entire length of a highway drive.

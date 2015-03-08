@@ -20,7 +20,7 @@ But I do have a bit of good news -- I am planning a little holiday present for t
 
 
 
-![tempest_holiday](/blog/images/2008-12-24-a-stack-overflow-holiday/tempest_holiday.jpg)
+![tempest_holiday](http://blog.stackoverflow.com/wp-content/uploads/tempest_holiday.jpg)
 
 
 

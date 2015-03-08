@@ -15,7 +15,7 @@ categories:
 
 Hello. [Sam Brand](http://stackexchange.com/users/482412/samthebrand) here. For those of you who don’t know me, I’m part of [the CHAOS at Stack Exchange](http://blog.stackoverflow.com/2011/11/the-art-of-organizing-chaos/). I handle certain “special projects” across the network, oversee syndication, and occasionally poke my head into our communities to make sure our platform works to deliver killer content to the outside world. A couple weeks ago, I embarked upon one of these experiments.
 
-![](/blog/images/2012-06-04-can-stack-exchange-capitalize-on-hot-trends/teh-hawtness-300x293.png)
+![](http://blog.stackoverflow.com/wp-content/uploads/teh-hawtness-300x293.png)
 
 
 ## What I did
@@ -52,7 +52,7 @@ Here’s what resulted when I asked six “hot” questions across six sites ove
 
 Click through, or take my word for it when I tell you : **Creating high-quality content **(based around hot keywords or not)** is a challenge**.
 
-[![](/blog/images/2012-06-04-can-stack-exchange-capitalize-on-hot-trends/seths-drawing-bigger-1024x665.jpg)](http://blog.stackoverflow.com/2012/06/can-stack-exchange-capitalize-on-hot-trends/seths-drawing-bigger/)Asking is a challenge. (Quick! Come up with a clever question about [Chagas Disease](http://www.google.com/trends/hottrends?q=chagas+disease). Go!) Answering is a challenge. (We are very aware how much work our users put into helping others.) There is no silver bullet when it comes creating smart niche content or newsstand-quality content that your aunt wants to read while she gets a perm in a hair chair.
+[![](http://blog.stackoverflow.com/wp-content/uploads/seths-drawing-bigger-1024x665.jpg)](http://blog.stackoverflow.com/2012/06/can-stack-exchange-capitalize-on-hot-trends/seths-drawing-bigger/)Asking is a challenge. (Quick! Come up with a clever question about [Chagas Disease](http://www.google.com/trends/hottrends?q=chagas+disease). Go!) Answering is a challenge. (We are very aware how much work our users put into helping others.) There is no silver bullet when it comes creating smart niche content or newsstand-quality content that your aunt wants to read while she gets a perm in a hair chair.
 
 
 ### However...

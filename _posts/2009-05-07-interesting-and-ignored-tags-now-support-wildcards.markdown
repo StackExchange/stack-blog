@@ -17,7 +17,7 @@ Today's new feature will be useful for those of you who happen to have a lot of 
 
 
 
-![stackoverflow-ignored-interesting-wildcards](/blog/images/2009-05-07-interesting-and-ignored-tags-now-support-wildcards/stackoverflow-ignored-interesting-wildcards.png)
+![stackoverflow-ignored-interesting-wildcards](http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-ignored-interesting-wildcards.png)
 
 
 

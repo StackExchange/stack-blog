@@ -25,17 +25,17 @@ Did you know that real time web chat is a standard "out of the box" feature on e
 
 To visit chat, simply click on the chat link in the header:
 
-![](/blog/images/2010-12-09-talkative-and-precognitive-badges/chat-header.png)
+![](http://blog.stackoverflow.com/wp-content/uploads/chat-header.png)
 
 Or, on some sites, we have a live preview of two chat rooms in the sidebar; click through to visit and start chatting.
 
-![](/blog/images/2010-12-09-talkative-and-precognitive-badges/chat-sidebar1.png)
+![](http://blog.stackoverflow.com/wp-content/uploads/chat-sidebar1.png)
 
 But it doesn't matter what _I_ think. Everyone should check chat out for themselves and decide if it's worthy or not. That's why we introduced the **Talkative** badge.
 
 <table >
 <tr >
-<td >![talkative badge](/blog/images/2010-12-09-talkative-and-precognitive-badges/badge-talkative.png)
+<td >![talkative badge](http://blog.stackoverflow.com/wp-content/uploads/badge-talkative.png)
 <td >Posted 10 messages, with 1 or more starred, in [chat](http://chat.stackexchange.com)</tr>
 </table>
 
@@ -49,13 +49,13 @@ To earn this badge, you'll need to post 10 chat messages in a room -- and one of
 
 Did you know that the reputation you earn on a Stack Exchange site is good for more than [additional privileges](http://blog.stackoverflow.com/2010/10/membership-has-its-privileges/) on the site? That's right. The more reputation you have in our network, the more weight you _also_ carry on [Area 51](http://area51.stackexchange.com) -- our **new Q&A; site creation zone**. The democratic, open community process defined at Area 51 is the only way to create new sites on our engine -- just like it says [in the FAQ](http://area51.stackexchange.com/faq). 
 
-[![](/blog/images/2010-12-09-talkative-and-precognitive-badges/Area-51-Banner1.png)](http://area51.stackexchange.com)
+[![](http://blog.stackoverflow.com/wp-content/uploads/Area-51-Banner1.png)](http://area51.stackexchange.com)
 
 The success of this community process depends, as they all do, on participation. We've also found that our Q&A; sites work best when they are led by experienced users with reputation in one or more existing Stack Exchange sites. That's why commitments by experienced users are weighted so heavily on Area 51, and why we introduced the **Precognitive** badge.
 
 <table >
 <tr >
-<td >![precognitive badge](/blog/images/2010-12-09-talkative-and-precognitive-badges/badge-precognitive.png)
+<td >![precognitive badge](http://blog.stackoverflow.com/wp-content/uploads/badge-precognitive.png)
 <td >Followed the [Area 51](http://area51.stackexchange.com) proposal for this site before it entered the commitment phase</tr>
 </table>
 

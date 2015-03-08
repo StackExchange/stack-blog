@@ -61,7 +61,7 @@ Like so:
 
 
 
-![](/blog/images/2010-01-16-new-improved-comments-with-reply/comments-mini-markdown.png)
+![](http://blog.stackoverflow.com/wp-content/uploads/comments-mini-markdown.png)
 
 
 
@@ -81,7 +81,7 @@ As frequently requested, **we now allow editing of your comments** for a 5 minut
 
 
 
-![](/blog/images/2010-01-16-new-improved-comments-with-reply/comment-editing.png)
+![](http://blog.stackoverflow.com/wp-content/uploads/comment-editing.png)
 
 
 
@@ -101,7 +101,7 @@ Normally, you only get notified of comments when you own the post that is being 
 
 
 
-![](/blog/images/2010-01-16-new-improved-comments-with-reply/comments-replies-formatting.png)
+![](http://blog.stackoverflow.com/wp-content/uploads/comments-replies-formatting.png)
 
 
 

@@ -30,7 +30,7 @@ But this time, in the interests of mixing things up and keeping it fresh, we're 
 
 
 
-[![crowdspring-logo](/blog/images/2009-06-16-logo-design-contest-for-superuser-com/crowdspring-logo.png)](http://www.crowdspring.com/)
+[![crowdspring-logo](http://blog.stackoverflow.com/wp-content/uploads/crowdspring-logo.png)](http://www.crowdspring.com/)
 
 
 

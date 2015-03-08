@@ -19,7 +19,7 @@ Among other things, [we sell job listings](http://careers.stackoverflow.com/jobs
 
 
 
-[![](/blog/images/2011-08-01-how-to-write-a-great-developer-job-listing/careers-tall-ad.png)](http://careers.stackoverflow.com)
+[![](http://blog.stackoverflow.com/wp-content/uploads/careers-tall-ad.png)](http://careers.stackoverflow.com)
 
 In order to get people to apply for your job, you will have to get them to your listing first. There are a few places that will help with that: our text ads on [Stack Overflow](http://stackoverflow.com) (see image), various places on our [web site](http://careers.stackoverflow.com/?bmid=BP1) and our [tweets](http://twitter.com/#!/StackCareers). Due to space considerations there isn’t a whole lot for people to base their decision on (to click or not to click?). They’ll see:
 
@@ -86,7 +86,7 @@ The three biggest factors associated with a high apply rate are:
 
 With regards to culture description, we should note that where the culture was mentioned it always was a good one, which may be the real reason this has a positive effect (we’re fairly certain that describing an average or downright sucky culture would not do much to help). So the Do should really read: If you have a great culture, list it. If you don’t, create one, then list it.
 
-![](/blog/images/2011-08-01-how-to-write-a-great-developer-job-listing/warning-rugs-frequently-pulled-out.png)
+![](http://blog.stackoverflow.com/wp-content/uploads/warning-rugs-frequently-pulled-out.png)
 
 Not all work is inherently cool. But even then, the way it is described matters. Do you give an example of the type of problems candidates will be working on? Of what their work might mean to others? In short, do you tell potential candidates why they should care? (Wrong answer: to make us more money and keep the shareholders happy – we’re paying you a salary after all)
 
@@ -113,7 +113,7 @@ We also looked at some potentially negative influencers:
 
 We are talking _lots_ of bullets, 10-15+. There were a even few listings with over 25 bullets between the various sections. The worst offenders had multilevel bullets with no descriptive text.
 
-![tldr](/blog/images/2011-08-01-how-to-write-a-great-developer-job-listing/tldr-3-238x300.jpg)
+![tldr](http://blog.stackoverflow.com/wp-content/uploads/tldr-3-238x300.jpg)
 
 TL;DR really indicated our inability to finish reading the listing, either because of excessive length, dryness or marketing speak.  Clear, to the point descriptions of your company and the work the candidate will be doing are good, copying your PR department’s latest press release, not so much. You’re courting here, save your life story for the 3rd date.
 

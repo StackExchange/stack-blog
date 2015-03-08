@@ -15,21 +15,21 @@ categories:
 
 The sales team has been busy. As of this writing we have **351** jobs listed:
 
-[![](/blog/images/2010-06-23-careers-now-more-awesomer/careers-11-update-job-count.png)](http://careers.stackoverflow.com/)
+[![](http://blog.stackoverflow.com/wp-content/uploads/careers-11-update-job-count.png)](http://careers.stackoverflow.com/)
 
 Earlier today it was 347 and by the time you read this it may well be more. Contrast that with only 74 jobs back in January!
 
 The dev team has been busy too. We rolled out some changes yesterday:
 
-[![](/blog/images/2010-06-23-careers-now-more-awesomer/careers-11-update-new-homepage.png)](http://careers.stackoverflow.com/)
+[![](http://blog.stackoverflow.com/wp-content/uploads/careers-11-update-new-homepage.png)](http://careers.stackoverflow.com/)
 
 We consolidated jobs.stackoverflow.com and careers.stackoverflow.com under one domain -- [http://careers.stackoverflow.com/](http://careers.stackoverflow.com/) -- gave Careers a brand new look, and added search controls to the home page so you can quickly find the jobs you're looking for.
 
-[![](/blog/images/2010-06-23-careers-now-more-awesomer/careers-11-update-home-page-search.png)](http://careers.stackoverflow.com/)
+[![](http://blog.stackoverflow.com/wp-content/uploads/careers-11-update-home-page-search.png)](http://careers.stackoverflow.com/)
 
 We added keyword search, improved location based searching and integrated the search controls into the page so you can search and scan in the same place. We also added a preview line to the listings so it's easier to decide what jobs you'd want to look at.
 
-[![](/blog/images/2010-06-23-careers-now-more-awesomer/careers-11-update-preview.png)](http://careers.stackoverflow.com/)
+[![](http://blog.stackoverflow.com/wp-content/uploads/careers-11-update-preview.png)](http://careers.stackoverflow.com/)
 
 And finally, we added some controls to the job detail page to make it easier to navigate between jobs.
 

@@ -16,7 +16,7 @@ Geoff Dalgas did a bang-up job implementing [the #1 UserVoice requested item](ht
 
 
 
-![reputation-graph](/blog/images/2008-09-30-i-dont-give-a-damn-about-my-reputation/reputation-graph.png)
+![reputation-graph](http://blog.stackoverflow.com/wp-content/uploads/reputation-graph.png)
 
 
 

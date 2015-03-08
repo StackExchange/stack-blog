@@ -48,7 +48,7 @@ We eventually decided to go with [Dynamic Network Services](http://dynamicnetwor
 
 
 
-[![dynect-uptime](/blog/images/2009-09-11-new-dns-provider/dynect-uptime.png)](http://dynamicnetworkservices.com/)
+[![dynect-uptime](http://blog.stackoverflow.com/wp-content/uploads/dynect-uptime.png)](http://dynamicnetworkservices.com/)
 
 
 

@@ -35,7 +35,7 @@ The top 40 tag list is surprisingly diverse across the entire Trilogy. Just chec
 
 
 
-![](/blog/images/2010-05-23-generalist-badge-implemented/top-40-tags.png)
+![](http://blog.stackoverflow.com/wp-content/uploads/top-40-tags.png)
 
 
 

@@ -17,24 +17,24 @@ New York, in addition to being the official corporate headquarters and the locat
 
 Working on Stack Exchange 2.0, we've got [David Fullerton](http://stackoverflow.com/users/91687/david):
 
-[![](/blog/images/2010-06-14-new-hires-in-new-york/bio-david-fullerton.jpg)](/blog/images/2010-06-14-new-hires-in-new-york/bio-david-fullerton.jpg)
+[![](http://blog.stackoverflow.com/wp-content/uploads/bio-david-fullerton.jpg)](http://blog.stackoverflow.com/wp-content/uploads/bio-david-fullerton.jpg)
 
 and [Emmett Nicholas](http://stackoverflow.com/users/2749/emmett):
 
-[![](/blog/images/2010-06-14-new-hires-in-new-york/bio-emmett-nicholas.jpg)](/blog/images/2010-06-14-new-hires-in-new-york/bio-emmett-nicholas.jpg)
+[![](http://blog.stackoverflow.com/wp-content/uploads/bio-emmett-nicholas.jpg)](http://blog.stackoverflow.com/wp-content/uploads/bio-emmett-nicholas.jpg)
 
 Both David and Emmett are veterans of Stack Exchange 1.0.
 
 Working on [Stack Overflow Careers](http://careers.stackoverflow.com/), we'd like to welcome new associates [Matt Sherman](http://stackoverflow.com/users/70613/matt-sherman):
 
-[![](/blog/images/2010-06-14-new-hires-in-new-york/bio-matt-sherman.jpg)](/blog/images/2010-06-14-new-hires-in-new-york/bio-matt-sherman.jpg)
+[![](http://blog.stackoverflow.com/wp-content/uploads/bio-matt-sherman.jpg)](http://blog.stackoverflow.com/wp-content/uploads/bio-matt-sherman.jpg)
 
 [Jason Punyon](http://stackoverflow.com/users/6212/jason-punyon):
 
-[![](/blog/images/2010-06-14-new-hires-in-new-york/bio-jason-punyon.jpg)](/blog/images/2010-06-14-new-hires-in-new-york/bio-jason-punyon.jpg)
+[![](http://blog.stackoverflow.com/wp-content/uploads/bio-jason-punyon.jpg)](http://blog.stackoverflow.com/wp-content/uploads/bio-jason-punyon.jpg)
 
 and product manager [Korneel Bouman](http://stackoverflow.com/users/220619/korneel-bouman):
 
-[![](/blog/images/2010-06-14-new-hires-in-new-york/bio-korneel-bouman.jpg)](/blog/images/2010-06-14-new-hires-in-new-york/bio-korneel-bouman.jpg)
+[![](http://blog.stackoverflow.com/wp-content/uploads/bio-korneel-bouman.jpg)](http://blog.stackoverflow.com/wp-content/uploads/bio-korneel-bouman.jpg)
 
 You'll probably see David, Emmett, Matt, Jason, and Korneel hanging out on [meta](http://meta.stackoverflow.com/) and, more importantly, you'll see the great software they ship. Welcome aboard!

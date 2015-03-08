@@ -48,7 +48,7 @@ http://diy.stackexchange.com/q/970
 
 A shortened URL can be copied from the "share" link underneath each question:
 
-[![short permalink to this question](/blog/images/2010-08-23-a-recipe-to-promote-your-site/Share-link.png)](http://diy.stackexchange.com/q/970)
+[![short permalink to this question](http://blog.stackoverflow.com/wp-content/uploads/Share-link.png)](http://diy.stackexchange.com/q/970)
 
 As you can see, clicking "share" also gives you the option to share on Google+, Facebook, or Twitter.  
 

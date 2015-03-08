@@ -15,7 +15,7 @@ The fun continues -- in the past month and a half we've welcomed seven new hires
 
 
 
-** ![](/blog/images/2012-12-07-meet-the-new-additions-to-the-stack-exchange-clan/Bradley-Maura3-e1354826980270.jpg)Maura Bradley, Sales Representative**
+** ![](http://blog.stackoverflow.com/wp-content/uploads/Bradley-Maura3-e1354826980270.jpg)Maura Bradley, Sales Representative**
 
 _New York_
 
@@ -23,7 +23,7 @@ __Originally from the City of Brotherly Love, Maura graduated from the Universit
 
 
 
-**![](/blog/images/2012-12-07-meet-the-new-additions-to-the-stack-exchange-clan/Eisen-Natalie2-e1354827175469.jpg)Natalie Eisen, Sales Representative**
+**![](http://blog.stackoverflow.com/wp-content/uploads/Eisen-Natalie2-e1354827175469.jpg)Natalie Eisen, Sales Representative**
 
 _New York_
 
@@ -31,7 +31,7 @@ A recent graduate of Barnard College, where she majored in Urban Studies and Soc
 
 
 
-**![](/blog/images/2012-12-07-meet-the-new-additions-to-the-stack-exchange-clan/Humphries-Joe2-e1354827364802.jpg)Joe Humphries, Recruiter**
+**![](http://blog.stackoverflow.com/wp-content/uploads/Humphries-Joe2-e1354827364802.jpg)Joe Humphries, Recruiter**
 
 _New York_
 
@@ -39,7 +39,7 @@ Joe is a native of Cleveland, OH who relocated to Brooklyn just over two years a
 
 
 
-**![](/blog/images/2012-12-07-meet-the-new-additions-to-the-stack-exchange-clan/Murawski-Steve1-e1354827547550.jpg)[Steven Murawski](http://stackoverflow.com/users/1233/steven-murawski), System Administrator**
+**![](http://blog.stackoverflow.com/wp-content/uploads/Murawski-Steve1-e1354827547550.jpg)[Steven Murawski](http://stackoverflow.com/users/1233/steven-murawski), System Administrator**
 
 _Milwaukee****_
 
@@ -47,7 +47,7 @@ Steven joins the crack sysadmin team at Stack Exchange, bringing his humble skil
 
 
 
-**![](/blog/images/2012-12-07-meet-the-new-additions-to-the-stack-exchange-clan/Schnelle-Peter1-e1354827743767.jpg)****Peter Schnelle, Sales Representative**
+**![](http://blog.stackoverflow.com/wp-content/uploads/Schnelle-Peter1-e1354827743767.jpg)****Peter Schnelle, Sales Representative**
 
 _Denver_
 
@@ -57,7 +57,7 @@ Hailing from the great Northern state of Michigan, Peter is a Michigan State gra
 
 
 
-**![](/blog/images/2012-12-07-meet-the-new-additions-to-the-stack-exchange-clan/Tunnell-Jeremy1-e1354827948513.jpg)[Jeremy Tunnell](http://ux.stackexchange.com/users/20755/jeremy-tunnell), Product Manager**
+**![](http://blog.stackoverflow.com/wp-content/uploads/Tunnell-Jeremy1-e1354827948513.jpg)[Jeremy Tunnell](http://ux.stackexchange.com/users/20755/jeremy-tunnell), Product Manager**
 
 _Nashville_
 
@@ -67,7 +67,7 @@ Jeremy is originally from Tennessee. After getting his engineering degree, he pr
 
 
 
-**![](/blog/images/2012-12-07-meet-the-new-additions-to-the-stack-exchange-clan/Martin-Chris5-e1354829567911.jpg)Chris Martin, Sales Representative**
+**![](http://blog.stackoverflow.com/wp-content/uploads/Martin-Chris5-e1354829567911.jpg)Chris Martin, Sales Representative**
 
 _London_
 

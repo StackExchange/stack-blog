@@ -17,7 +17,7 @@ We've added a **new stats tab to the tag view** that shows some basic statistics
 
 
 
-![tag-stats](/blog/images/2009-06-01-new-tag-statistics/tag-stats.png)
+![tag-stats](http://blog.stackoverflow.com/wp-content/uploads/tag-stats.png)
 
 
 

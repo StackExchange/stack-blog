@@ -13,7 +13,7 @@ categories:
 
 
 Stack Overflow user [John Cook](http://stackoverflow.com/users/25188/john-d-cook) recently [wrote a blog entry analyzing Stack Overflow reputation scores](http://www.johndcook.com/blog/2009/03/02/stackoverflow-reputation-statistics/):
-[![Stack Overflow reputation graph](/blog/images/2009-04-13-stack-overflow-voting-pattern-analysis/so_graph1.png)](http://www.johndcook.com/blog/2009/03/02/stackoverflow-reputation-statistics/)
+[![Stack Overflow reputation graph](http://blog.stackoverflow.com/wp-content/uploads/so_graph1.png)](http://www.johndcook.com/blog/2009/03/02/stackoverflow-reputation-statistics/)
 The reputation scores follow the expected power law distribution. No surprise there, of course. John explains:
 
 
@@ -33,7 +33,7 @@ The test for whether the reputation scores follow a power law is to plot the log
 
 
 This is all based on public information from Stack Overflow user profiles. Based on a request by John which was seconded by [Bill the Lizard](http://stackoverflow.com/users/1288/bill-the-lizard), I elected to provide **anonymized Stack Overflow voting data** for further analysis. The [preliminary results](http://www.johndcook.com/blog/2009/04/12/civic-duty-on-stackoverflow/) of that analysis just went up.
-[![Stack Overflow reputation vs votes](/blog/images/2009-04-13-stack-overflow-voting-pattern-analysis/so_repvotes.png)](http://www.johndcook.com/blog/2009/04/12/civic-duty-on-stackoverflow/)
+[![Stack Overflow reputation vs votes](http://blog.stackoverflow.com/wp-content/uploads/so_repvotes.png)](http://www.johndcook.com/blog/2009/04/12/civic-duty-on-stackoverflow/)
 John's summary:
 
 

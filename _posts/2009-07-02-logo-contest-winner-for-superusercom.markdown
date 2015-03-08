@@ -21,7 +21,7 @@ The [voting results](http://blog.stackoverflow.com/2009/06/superuser-com-logo-vo
 
 
 
-[![superuser-voting-results](/blog/images/2009-07-02-logo-contest-winner-for-superusercom/superuser-voting-results.png)](http://www.pollsb.com/polls/p2131264-logo_works_best_superuser_com#results)
+[![superuser-voting-results](http://blog.stackoverflow.com/wp-content/uploads/superuser-voting-results.png)](http://www.pollsb.com/polls/p2131264-logo_works_best_superuser_com#results)
 
 
 
@@ -33,7 +33,7 @@ The final winner we decided on was [Mogeek](http://www.crowdspring.com/myspring/
 
 
 
-![superuser-logo-winner](/blog/images/2009-07-02-logo-contest-winner-for-superusercom/superuser-logo-winner.png)
+![superuser-logo-winner](http://blog.stackoverflow.com/wp-content/uploads/superuser-logo-winner.png)
 
 
 
@@ -41,7 +41,7 @@ First runner up is [entry #214](http://www.crowdspring.com/projects/graphic_desi
 
 
 
-![superuser-logo-runner-up-1](/blog/images/2009-07-02-logo-contest-winner-for-superusercom/superuser-logo-runner-up-1.png)
+![superuser-logo-runner-up-1](http://blog.stackoverflow.com/wp-content/uploads/superuser-logo-runner-up-1.png)
 
 
 
@@ -49,7 +49,7 @@ Second runner up is [entry #362](http://www.crowdspring.com/projects/graphic_des
 
 
 
-![superuser-logo-runner-up-2](/blog/images/2009-07-02-logo-contest-winner-for-superusercom/superuser-logo-runner-up-2.png)
+![superuser-logo-runner-up-2](http://blog.stackoverflow.com/wp-content/uploads/superuser-logo-runner-up-2.png)
 
 
 

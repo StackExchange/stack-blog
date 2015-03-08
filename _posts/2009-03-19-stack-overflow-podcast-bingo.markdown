@@ -16,7 +16,7 @@ At [our first "live" podcast for MIX09](http://blog.stackoverflow.com/2009/03/je
 
 
 
-[![stackoverflow-podcast-bingo-small](/blog/images/2009-03-19-stack-overflow-podcast-bingo/stackoverflow-podcast-bingo-small.png)](/blog/images/2009-03-19-stack-overflow-podcast-bingo/stackoverflow-podcast-bingo-large.png)
+[![stackoverflow-podcast-bingo-small](http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-podcast-bingo-small.png)](http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-podcast-bingo-large.png)
 
 
 

@@ -14,7 +14,7 @@ for subdir, dirs, files in os.walk(rootdir):
     		src = re.search('\!\[.*\]\((.*)\)', line)
     		if src:
     			folder = file.replace(".markdown", "")
-    			x = line.replace("http://blog.stackoverflow.com/wp-content/uploads", str("/blog/images/" + folder))
+    			x = line.replace(str("/blog/images/" + folder), "http://blog.stackoverflow.com/wp-content/uploads")
     			contents[key] = x
 
     	f = open(filename, "w")

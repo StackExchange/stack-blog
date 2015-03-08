@@ -17,7 +17,7 @@ Joel and I will be at the upcoming [MIX 09](http://2009.visitmix.com/) conferenc
 
 
 
-[![mix 09 logo](/blog/images/2009-03-13-jeff-and-joel-at-mix-09-live-podcast/mixlogodownload1.png)](http://2009.visitmix.com/)
+[![mix 09 logo](http://blog.stackoverflow.com/wp-content/uploads/mixlogodownload1.png)](http://2009.visitmix.com/)
 
 
 

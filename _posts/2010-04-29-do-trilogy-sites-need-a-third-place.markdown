@@ -48,7 +48,7 @@ It's clear that having two sites is a proven, workable, and necessary arrangemen
 
 
 
-![](/blog/images/2010-04-29-do-trilogy-sites-need-a-third-place/angry_unicorn.png)
+![](http://blog.stackoverflow.com/wp-content/uploads/angry_unicorn.png)
 
 
 

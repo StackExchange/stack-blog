@@ -137,7 +137,7 @@ One of the most common requests we got was to provide more details on who exactl
 
 
 
-![](/blog/images/2010-01-22-careers-success-stories/stack-overflow-careers-search-stats.png)
+![](http://blog.stackoverflow.com/wp-content/uploads/stack-overflow-careers-search-stats.png)
 
 
 
@@ -149,7 +149,7 @@ We haven't forgotten employers, either. Employers who subscribe to careers for l
 
 
 
-![](/blog/images/2010-01-22-careers-success-stories/stack-overflow-careers-saved-employer-searches1.png)
+![](http://blog.stackoverflow.com/wp-content/uploads/stack-overflow-careers-saved-employer-searches1.png)
 
 
 

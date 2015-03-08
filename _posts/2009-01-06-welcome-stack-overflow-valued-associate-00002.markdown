@@ -16,7 +16,7 @@ I am pleased to announce that **Stack Overflow just added another team member in
 
 
 
-![welcome-jarrod-dixon-stackoverflow-valued-associate-002](/blog/images/2009-01-06-welcome-stack-overflow-valued-associate-00002/welcome-jarrod-dixon-stackoverflow-employee-002.jpg)
+![welcome-jarrod-dixon-stackoverflow-valued-associate-002](http://blog.stackoverflow.com/wp-content/uploads/welcome-jarrod-dixon-stackoverflow-employee-002.jpg)
 
 
 

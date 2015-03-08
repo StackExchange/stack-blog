@@ -21,7 +21,7 @@ If you've been following our new Stack Exchange 2.0 private and public betas, yo
 
 
 
-[![](/blog/images/2010-07-22-new-per-site-metas/beta-child-meta-logos.png)](http://area51.stackexchange.com/proposals/1288/food-and-cooking)
+[![](http://blog.stackoverflow.com/wp-content/uploads/beta-child-meta-logos.png)](http://area51.stackexchange.com/proposals/1288/food-and-cooking)
 
 
 
@@ -49,7 +49,7 @@ got a question about the site itself? meta.topic is the place to talk about thin
 
 
 
-![](/blog/images/2010-07-22-new-per-site-metas/meta-switch-link.png)
+![](http://blog.stackoverflow.com/wp-content/uploads/meta-switch-link.png)
 
 
 
@@ -57,7 +57,7 @@ got a question about the site itself? meta.topic is the place to talk about thin
 
 
 
-![](/blog/images/2010-07-22-new-per-site-metas/meta-links.png)
+![](http://blog.stackoverflow.com/wp-content/uploads/meta-links.png)
 
 
 
@@ -99,7 +99,7 @@ In fact, we're so happy with the way these per-site metas are working on the Sta
 
 
 
-[![](/blog/images/2010-07-22-new-per-site-metas/meta-su-crop1.png)](http://meta.superuser.com)
+[![](http://blog.stackoverflow.com/wp-content/uploads/meta-su-crop1.png)](http://meta.superuser.com)
 
 
 
@@ -111,7 +111,7 @@ In fact, we're so happy with the way these per-site metas are working on the Sta
 
 
 
-[![](/blog/images/2010-07-22-new-per-site-metas/meta-sf-crop1.png)](http://meta.serverfault.com)
+[![](http://blog.stackoverflow.com/wp-content/uploads/meta-sf-crop1.png)](http://meta.serverfault.com)
 
 
 

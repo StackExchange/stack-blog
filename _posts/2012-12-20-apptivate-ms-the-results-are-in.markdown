@@ -17,7 +17,7 @@ After almost three months, Apptivate - [the application development contest coll
 
 Let's get to the big news right off the bat. Congratulations to our two Apptivate.MS Grand Prize Winners: [Piano Time](http://apptivate.ms/apps/130/piano-time) and [Layout](http://apptivate.ms/apps/111/layout)!
 
-![](/blog/images/2012-12-20-apptivate-ms-the-results-are-in/blog-winners.png)
+![](http://blog.stackoverflow.com/wp-content/uploads/blog-winners.png)
 
 Congratulations to Piano Time and Layout!
 

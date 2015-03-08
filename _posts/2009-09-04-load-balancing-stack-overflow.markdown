@@ -20,7 +20,7 @@ This _shouldn't_ cause any problems, but ...
 
 
 
-![Failure is always an option](/blog/images/2009-09-04-load-balancing-stack-overflow/il_fullxfull.73753810.jpg)
+![Failure is always an option](http://blog.stackoverflow.com/wp-content/uploads/il_fullxfull.73753810.jpg)
 
 
 

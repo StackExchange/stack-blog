@@ -15,7 +15,7 @@ The current top ranked feature request is to **Allow Changing the Associated Ope
 
 Just how much would _you_ pay for a feature like this? 50 gp? 740 [flooz](http://en.wikipedia.org/wiki/Flooz.com)? 13 plat? 6,999 linden dollars?
 
-![popeil-infomercial-pricing](/blog/images/2009-01-03-we-now-support-multiple-openids/popeil-infomercial-pricing.jpg)
+![popeil-infomercial-pricing](http://blog.stackoverflow.com/wp-content/uploads/popeil-infomercial-pricing.jpg)
 
 We're giving this _fabulous_ feature to you -- for today only -- ABSOLUTELY FREE! That's right! FREE!
 
@@ -33,7 +33,7 @@ Once you log in (again), **that new login will be associated with your Stack Exc
 
 We want you to have the freedom to log in with whatever credentials you happen to have in your wallet -- and to have at a minimum an alternate login as an "in case of emergency break glass" backup.
 
-![in case of zombies, break glass](/blog/images/2009-01-03-we-now-support-multiple-openids/in-case-of-zombies-break-glass.jpg)
+![in case of zombies, break glass](http://blog.stackoverflow.com/wp-content/uploads/in-case-of-zombies-break-glass.jpg)
 
 What an incredible deal!
 

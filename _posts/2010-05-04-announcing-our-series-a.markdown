@@ -17,7 +17,7 @@ We've been growing quite a bit lately:
 
 
 
-[![Quantcast visits chart for Stack Overflow Network](/blog/images/2010-05-04-announcing-our-series-a/sonetwork1.png)](http://www.quantcast.com/p-c1rF4kxgLUzNc)
+[![Quantcast visits chart for Stack Overflow Network](http://blog.stackoverflow.com/wp-content/uploads/sonetwork1.png)](http://www.quantcast.com/p-c1rF4kxgLUzNc)
 
 
 
@@ -28,29 +28,21 @@ This growth makes us happy, because it means millions of people are getting qual
 
 
 
-[![Stackoverflow is such a valuable service. Lately I have observed developers don't search Google, they go directly to Stackoverflow!](/blog/images/2010-05-04-announcing-our-series-a/11.png)](http://twitter.com/brij/status/13135372978)
+[![Stackoverflow is such a valuable service. Lately I have observed developers don't search Google, they go directly to Stackoverflow!](http://blog.stackoverflow.com/wp-content/uploads/11.png)](http://twitter.com/brij/status/13135372978)
 
 
 
 
 
 
-[![has nuttin but love for stackoverflow.com these people rock ;-) quick answers fast ...](/blog/images/2010-05-04-announcing-our-series-a/21.png)](http://twitter.com/bonafide13/status/12155406029)
+[![has nuttin but love for stackoverflow.com these people rock ;-) quick answers fast ...](http://blog.stackoverflow.com/wp-content/uploads/21.png)](http://twitter.com/bonafide13/status/12155406029)
 
 
 
 
 
 
-[![Stackoverflow is dangerous as its faster than thinking](/blog/images/2010-05-04-announcing-our-series-a/31.png)](http://twitter.com/wesbos/status/12921506634)
-
-
-
-
-
-
-
-[![StackOverflow is totally delivering for me today...](/blog/images/2010-05-04-announcing-our-series-a/41.png)](http://twitter.com/timpoindexter/statuses/13330289112)
+[![Stackoverflow is dangerous as its faster than thinking](http://blog.stackoverflow.com/wp-content/uploads/31.png)](http://twitter.com/wesbos/status/12921506634)
 
 
 
@@ -58,7 +50,7 @@ This growth makes us happy, because it means millions of people are getting qual
 
 
 
-[![In Jon Stewart voice... Oh Stackoverflow, how I love thee... Lots of good questions and answers.](/blog/images/2010-05-04-announcing-our-series-a/51.png)](http://twitter.com/menevets/statuses/13322141887)
+[![StackOverflow is totally delivering for me today...](http://blog.stackoverflow.com/wp-content/uploads/41.png)](http://twitter.com/timpoindexter/statuses/13330289112)
 
 
 
@@ -66,7 +58,7 @@ This growth makes us happy, because it means millions of people are getting qual
 
 
 
-[![The more I do with javascript the more I find the most useful google search results are on stackoverflow.com](/blog/images/2010-05-04-announcing-our-series-a/61.png)](http://twitter.com/waiting4thebeat/statuses/13315532193)
+[![In Jon Stewart voice... Oh Stackoverflow, how I love thee... Lots of good questions and answers.](http://blog.stackoverflow.com/wp-content/uploads/51.png)](http://twitter.com/menevets/statuses/13322141887)
 
 
 
@@ -74,7 +66,15 @@ This growth makes us happy, because it means millions of people are getting qual
 
 
 
-[![stackoverflow.com is replacing google for me as the goto for nerd questions: much higher signal to noise ratio.](/blog/images/2010-05-04-announcing-our-series-a/71.png)](http://twitter.com/angilly/status/12105183446)
+[![The more I do with javascript the more I find the most useful google search results are on stackoverflow.com](http://blog.stackoverflow.com/wp-content/uploads/61.png)](http://twitter.com/waiting4thebeat/statuses/13315532193)
+
+
+
+
+
+
+
+[![stackoverflow.com is replacing google for me as the goto for nerd questions: much higher signal to noise ratio.](http://blog.stackoverflow.com/wp-content/uploads/71.png)](http://twitter.com/angilly/status/12105183446)
 
 
 

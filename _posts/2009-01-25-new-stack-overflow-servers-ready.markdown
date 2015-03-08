@@ -16,7 +16,7 @@ After many trials and tribulations, the [new Stack Overflow servers](http://blog
 
 
 
-[![stackoverflow-servers-shipping-ready](/blog/images/2009-01-25-new-stack-overflow-servers-ready/stackoverflow-servers-shipping-ready.jpg)](http://blog.stackoverflow.com/2009/01/new-stack-overflow-server-glamour-shots/)
+[![stackoverflow-servers-shipping-ready](http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-servers-shipping-ready.jpg)](http://blog.stackoverflow.com/2009/01/new-stack-overflow-server-glamour-shots/)
 
 
 
@@ -32,7 +32,7 @@ I learned quite a bit in building up these servers, and I certainly paid my dues
 
 
 
-[![stackoverflow-lenovo-rd120-shipping-ready](/blog/images/2009-01-25-new-stack-overflow-servers-ready/stackoverflow-lenovo-rd120-shipping-ready.jpg)](http://blog.stackoverflow.com/2009/01/new-stack-overflow-server-glamour-shots/)
+[![stackoverflow-lenovo-rd120-shipping-ready](http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-lenovo-rd120-shipping-ready.jpg)](http://blog.stackoverflow.com/2009/01/new-stack-overflow-server-glamour-shots/)
 
 
 
@@ -44,7 +44,7 @@ I guess I was inspired by [the old Amiga A1000 I used to own](http://en.wikipedi
 
 
 
-[![amiga-a1000-signatures](/blog/images/2009-01-25-new-stack-overflow-servers-ready/amiga-a1000-signatures.jpg)](/blog/images/2009-01-25-new-stack-overflow-servers-ready/amiga-a1000-signatures-large.jpg)
+[![amiga-a1000-signatures](http://blog.stackoverflow.com/wp-content/uploads/amiga-a1000-signatures.jpg)](http://blog.stackoverflow.com/wp-content/uploads/amiga-a1000-signatures-large.jpg)
 
 
 
@@ -106,7 +106,7 @@ I've done a fair bit of burn-in testing on all the servers, typical stuff like m
 
 
 
-![so-db-config-serveraid-manager](/blog/images/2009-01-25-new-stack-overflow-servers-ready/so-db-config-serveraid-manager.png)
+![so-db-config-serveraid-manager](http://blog.stackoverflow.com/wp-content/uploads/so-db-config-serveraid-manager.png)
 
 
 

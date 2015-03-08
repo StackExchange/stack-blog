@@ -17,7 +17,7 @@ Remember that WMD reverse engineering project we [reluctantly undertook?](http:/
 
 
 
-[![git-wmd-reverse-engineering-timeline](/blog/images/2009-01-10-wmd-editor-reverse-engineered/git-wmd-reverse-engineering-timeline1.png)](http://github.com/cky/wmd/network)
+[![git-wmd-reverse-engineering-timeline](http://blog.stackoverflow.com/wp-content/uploads/git-wmd-reverse-engineering-timeline1.png)](http://github.com/cky/wmd/network)
 
 
 
@@ -50,7 +50,7 @@ It turns out Dana is a huge fan of [fake plastic rock](http://www.fakeplasticroc
 
 
 
-![blood-voodoo-red-metallic-guitar](/blog/images/2009-01-10-wmd-editor-reverse-engineered/bloodvoodooguitarjx81.jpg)
+![blood-voodoo-red-metallic-guitar](http://blog.stackoverflow.com/wp-content/uploads/bloodvoodooguitarjx81.jpg)
 
 
 

@@ -17,7 +17,7 @@ In tonight's code push, we added the ability to **vote for comments**, and **fla
 
 
 
-![stackoverflow-comment-flags-votes](/blog/images/2009-04-16-comments-now-with-flags-and-votes/stackoverflow-comment-flags-votes.png)
+![stackoverflow-comment-flags-votes](http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-comment-flags-votes.png)
 
 
 

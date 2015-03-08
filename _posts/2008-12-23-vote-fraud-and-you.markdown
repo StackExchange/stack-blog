@@ -32,7 +32,7 @@ Still, it's unacceptable behavior, and I've been getting several reports of this
 
 
 
-[![Poll Faults](/blog/images/2008-12-23-vote-fraud-and-you/061107pollfaults-x.png)](http://www.coxandforkum.com/archives/000973.html)
+[![Poll Faults](http://blog.stackoverflow.com/wp-content/uploads/061107pollfaults-x.png)](http://www.coxandforkum.com/archives/000973.html)
 
 
 

@@ -13,7 +13,7 @@ categories:
 
 At about 9:26 PM Pacific time, on October 12th, 2010, **the millionth question was asked on Stack Overflow**. And then [promptly closed](http://stackoverflow.com/questions/3920757/question-1-million-closed).
 
-![](/blog/images/2010-10-13-millionth-stack-overflow-question/one-million-questions.png)
+![](http://blog.stackoverflow.com/wp-content/uploads/one-million-questions.png)
 
 This of course calls for a [celebration](http://blog.stackoverflow.com/2010/03/reminder-its-april-1st/).
 
@@ -21,7 +21,7 @@ This of course calls for a [celebration](http://blog.stackoverflow.com/2010/03/r
 
 There was an informal meta [Contest to predict date and time that stackoverflow will eclipse 1,000,000 questions](http://meta.stackoverflow.com/questions/54249/contest-to-predict-date-and-time-that-stackoverflow-will-eclipse-1-000-000-questi) -- once the community decides who the winner is, I think they should certainly be the proud recipient of a Stack Overflow t-shirt, stickers, and of course **the million unicorn bill.**
 
-[![](/blog/images/2010-10-13-millionth-stack-overflow-question/one-million-unicorn-bill-both-small.jpg)](http://fakemillions.com/catalog_new/product_info.php?products_id=58)
+[![](http://blog.stackoverflow.com/wp-content/uploads/one-million-unicorn-bill-both-small.jpg)](http://fakemillions.com/catalog_new/product_info.php?products_id=58)
 
 Since our [100,000th question](http://blog.stackoverflow.com/2009/02/happy-100000th-question/) and [first birthday](http://blog.stackoverflow.com/2009/08/one-year-of-stack-overflow/), we've skipped celebrating these things -- but the millionth question is a major milestone.
 

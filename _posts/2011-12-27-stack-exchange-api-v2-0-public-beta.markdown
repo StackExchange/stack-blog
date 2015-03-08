@@ -33,7 +33,7 @@ If you want to hop right in, go take a [look at the documentation](https://api.s
 ## First Prize
 
 
-[![](/blog/images/2011-12-27-stack-exchange-api-v2-0-public-beta/ipad.png)](http://blog.stackoverflow.com/2011/12/stack-exchange-api-v2-0-public-beta/ipad/)
+[![](http://blog.stackoverflow.com/wp-content/uploads/ipad.png)](http://blog.stackoverflow.com/2011/12/stack-exchange-api-v2-0-public-beta/ipad/)
 
 For the _most awesome_ application, you'll get an [iPad 2](http://store.apple.com/us/browse/home/shop_ipad/family/ipad).
 
@@ -41,7 +41,7 @@ For the _most awesome_ application, you'll get an [iPad 2](http://store.apple.c
 ## Second Prize
 
 
-[![](/blog/images/2011-12-27-stack-exchange-api-v2-0-public-beta/acer.jpg)](http://blog.stackoverflow.com/2011/12/stack-exchange-api-v2-0-public-beta/acer/)
+[![](http://blog.stackoverflow.com/wp-content/uploads/acer.jpg)](http://blog.stackoverflow.com/2011/12/stack-exchange-api-v2-0-public-beta/acer/)
 
 Second place will get an [Acer Aspire One](http://www.amazon.com/Acer-AO722-0473-11-6-Inch-Netbook-Espresso/dp/B005J2E2US/ref=zg_bs_1232596011_2).
 
@@ -49,7 +49,7 @@ Second place will get an [Acer Aspire One](http://www.amazon.com/Acer-AO722-0473
 ## Third Prize
 
 
-[![](/blog/images/2011-12-27-stack-exchange-api-v2-0-public-beta/ssd.jpg)](http://blog.stackoverflow.com/2011/12/stack-exchange-api-v2-0-public-beta/ssd/)
+[![](http://blog.stackoverflow.com/wp-content/uploads/ssd.jpg)](http://blog.stackoverflow.com/2011/12/stack-exchange-api-v2-0-public-beta/ssd/)
 
 For third place, a [160 GB Intel SSD](http://www.amazon.com/Intel-SATA-2-5-Inch-Solid-State-Drive/dp/B004UG3YU8/ref=sr_1_2?ie=UTF8&qid=1324665809&sr=8-2).
 
@@ -61,7 +61,7 @@ We've tried to make the API easy to understand and use, we're aware of the great
 
 The author of the best library will get a [Kindle Fire](http://www.amazon.com/gp/product/B0051VVOB2/ref=famstripe_kf).
 
-[![](/blog/images/2011-12-27-stack-exchange-api-v2-0-public-beta/fire.jpg)](http://blog.stackoverflow.com/2011/12/stack-exchange-api-v2-0-public-beta/fire/)
+[![](http://blog.stackoverflow.com/wp-content/uploads/fire.jpg)](http://blog.stackoverflow.com/2011/12/stack-exchange-api-v2-0-public-beta/fire/)
 
 
 ## Bug Reports
@@ -71,7 +71,7 @@ Even if you don't have any app ideas, and can't afford to invest the time needed
 
 Those who we feel have contributed substantially to the quality of the API with their bug reports will get to choose between a [Kindle Touch 3G](http://www.amazon.com/Kindle-Touch-e-Reader-Touch-Screen-3G-Special-Offers/dp/B005890G8O/ref=amb_link_359250342_5?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=center-1&pf_rd_r=15X63RTEZP8M741B0NBK&pf_rd_t=101&pf_rd_p=1340226422&pf_rd_i=507846), or a [Lilliput Mini USB Monitor](http://www.thinkgeek.com/computing/usb-gadgets/c609/).
 
-[![](/blog/images/2011-12-27-stack-exchange-api-v2-0-public-beta/bug-prizes1.jpg)](http://blog.stackoverflow.com/2011/12/stack-exchange-api-v2-0-public-beta/bug-prizes-2/)
+[![](http://blog.stackoverflow.com/wp-content/uploads/bug-prizes1.jpg)](http://blog.stackoverflow.com/2011/12/stack-exchange-api-v2-0-public-beta/bug-prizes-2/)
 
 
 

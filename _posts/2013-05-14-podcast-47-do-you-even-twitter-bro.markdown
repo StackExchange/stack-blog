@@ -19,7 +19,7 @@ We're Back!  It's been a while since our last podcast (why you ask - listen to 
   * News of the day: we're finally in our new office (and podcast studio). We've got hexagonal offices (and therefore crooked hallways), and a cool café area. AND HEATED TOILET SEATS. And a kitchen with a giant walk-in refrigerator, for our interns (which we don't have).
 
 
-[caption id="attachment_13382" align="aligncenter" width="574"][![Taping podcasts in our new "studio"!](/blog/images/2013-05-14-podcast-47-do-you-even-twitter-bro/Screen-Shot-2013-05-14-at-4.40.15-PM-1024x577.jpg)](/blog/images/2013-05-14-podcast-47-do-you-even-twitter-bro/Screen-Shot-2013-05-14-at-4.40.15-PM.jpg) Taping podcasts in our new "studio"![/caption]
+[caption id="attachment_13382" align="aligncenter" width="574"][![Taping podcasts in our new "studio"!](http://blog.stackoverflow.com/wp-content/uploads/Screen-Shot-2013-05-14-at-4.40.15-PM-1024x577.jpg)](http://blog.stackoverflow.com/wp-content/uploads/Screen-Shot-2013-05-14-at-4.40.15-PM.jpg) Taping podcasts in our new "studio"![/caption]
 
 
 

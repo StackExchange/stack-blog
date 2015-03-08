@@ -16,7 +16,7 @@ The long-awaited Specialist badges are now working; you can browse them on [the 
 
 
 
-![stackoverflow-tag-based-badges](/blog/images/2009-02-17-specialist-badge-implemented/stackoverflow-tag-based-badges.png)
+![stackoverflow-tag-based-badges](http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-tag-based-badges.png)
 
 
 

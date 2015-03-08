@@ -49,7 +49,7 @@ Here's our current alpha list of badges:
 
 
 
-![stackoverflow-badges-alpha](/blog/images/2008-07-12-stack-overflow-badge-feedbac/stackoverflow-badges-alpha.png)
+![stackoverflow-badges-alpha](http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-badges-alpha.png)
 
 
 
