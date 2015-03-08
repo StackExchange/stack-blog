@@ -1,5 +1,5 @@
 ---
-author: Matt Sherman
+author: matt
 comments: true
 date: 2011-04-06 19:31:00+00:00
 layout: post
