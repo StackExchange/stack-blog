@@ -1,5 +1,5 @@
 ---
-author: admin
+author: jeffatwood
 comments: true
 date: 2009-01-06 10:25:13+00:00
 layout: post

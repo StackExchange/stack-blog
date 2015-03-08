@@ -1,5 +1,5 @@
 ---
-author: admin
+author: jeffatwood
 comments: true
 date: 2008-07-02 20:50:28+00:00
 excerpt: Joel and Jeff discuss Macbook Air overheating and undervolting, constructive
