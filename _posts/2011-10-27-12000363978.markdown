@@ -1,5 +1,5 @@
 ---
-author: Brett White
+author: brett
 comments: false
 date: 2011-10-27 20:02:00+00:00
 layout: post

@@ -1,5 +1,5 @@
 ---
-author: Sam Saffron
+author: sam
 comments: true
 date: 2011-11-21 01:42:55+00:00
 layout: post
