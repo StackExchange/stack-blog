@@ -3,7 +3,6 @@ author: alex
 comments: true
 date: 2013-02-05 19:45:51+00:00
 layout: post
-hero: /blog/images/category/podcasts.jpg
 slug: podcast-42-2
 title: 'Podcast #42 - It''s The Exception That Proves The Rule'
 wordpress_id: 13150

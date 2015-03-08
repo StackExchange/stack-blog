@@ -21,7 +21,7 @@ As December rolls around, the buzz and anticipation for this event gets **_stron
 
 So on behalf of the **132 communities and the 433 Moderators of Stack Exchange,** we were able to make the following donations to charity this year:
 
-![SE Gives Back 2014 results](http://blog.stackoverflow.com/wp-content/uploads/SE-Gives-Back-2014-results.png)
+![SE Gives Back 2014 results](/blog/images/2014-12-24-stack-exchange-gives-back-2014/SE-Gives-Back-2014-results.png)
 
 And from our engineering team, let's not forget the tools and organizations that make what we do possible:
 
@@ -40,7 +40,7 @@ And from our engineering team, let's not forget the tools and organizations that
   * **OpenBSD — $1,000**
 
 
-![lonely red ball](http://blog.stackoverflow.com/wp-content/uploads/lonely-red-ball.png)
+![lonely red ball](/blog/images/2014-12-24-stack-exchange-gives-back-2014/lonely-red-ball.png)
 
 Charities embody some of the best qualities in all of us. Whether you're fighting for a cause that is important to you, or helping someone whose life may be falling apart, there's an almost indescribable bond that forms when neighbor embraces neighbor to overcome whatever difficulties you face.
 
@@ -49,4 +49,4 @@ We may have not had our own [Hurricane Sandy event](http://blog.stackoverflow.co
 I would like to end this year with glasses held high — to thank all of you, the community of Stack Exchange, for helping us make all of this possible. It's times like these that I will reflect back on and cherish always.
 
 Cheers!
-![SE Gives Back 2014](http://blog.stackoverflow.com/wp-content/uploads/SE-Gives-Back-2014.png)
+![SE Gives Back 2014](/blog/images/2014-12-24-stack-exchange-gives-back-2014/SE-Gives-Back-2014.png)

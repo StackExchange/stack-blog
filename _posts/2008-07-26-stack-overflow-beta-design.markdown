@@ -25,7 +25,7 @@ We're currently at the stage where we need to implement an actual design -- for 
 
 
 
-[![stackoverflow-beta-design-small](http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-beta-design-small2.png)](/wp-content/uploads/stackoverflow-beta-design-large2.png)
+[![stackoverflow-beta-design-small](/blog/images/2008-07-26-stack-overflow-beta-design/stackoverflow-beta-design-small2.png)](/wp-content/uploads/stackoverflow-beta-design-large2.png)
 
 
 
@@ -33,7 +33,7 @@ And even earlier:
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/original-so-design-jeremy-kratz.png)
+![](/blog/images/2008-07-26-stack-overflow-beta-design/original-so-design-jeremy-kratz.png)
 
 
 

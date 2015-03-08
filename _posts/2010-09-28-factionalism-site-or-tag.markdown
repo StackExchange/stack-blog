@@ -36,7 +36,7 @@ Just replace the word **Java**, above, with **Developer Testing**, and [this is 
 
 Joel and I are deeply opposed to letting the community split itself into factions in this way. We would rather have **a few large sites on _reasonably_ broad topics that use tags to differentiate subtopics**, instead of two dozen tiny ultra-niche subsites that only a fraction of people interested in that broader topic will ever see.
 
-![](http://blog.stackoverflow.com/wp-content/uploads/join-or-die.jpg)
+![](/blog/images/2010-09-28-factionalism-site-or-tag/join-or-die.jpg)
 
 While the Stack Overflow community has historically come down quite hard -- [honestly a lot harder than either Joel or I originally intended](http://blog.stackoverflow.com/2008/10/a-question-about-questions/) -- on the side of the non-subjective question, we believe that [programmers.stackexchange.com](http://programmers.stackexchange.com) site is the place where **the more subjective "there's no right answer, but let me share my professional experiences with you" questions can live and prosper**.
 

@@ -3,7 +3,6 @@ author: jeffatwood
 comments: true
 date: 2008-07-02 20:50:28+00:00
 excerpt: Joel and Jeff discuss Macbook Air overheating and undervolting, constructive
-hero: /blog/images/category/podcasts.jpg
   criticism, and engage in an extended discussion of Joel's management training program
   reading list. If you love classic books, this is the podcast you're looking for.
 layout: post

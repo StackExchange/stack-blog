@@ -21,7 +21,7 @@ As of now, every new badge award -- and most historically awarded badges -- will
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/necromancer-badge-awards.png)
+![](/blog/images/2010-07-12-improvements-to-badge-system/necromancer-badge-awards.png)
 
 
 
@@ -35,22 +35,22 @@ As part of this major overhaul, we also added some bronze badges for our [improv
 
 <table cellpadding="2" cellspacing="2" >
 <tr >
-<td >![promoter](http://blog.stackoverflow.com/wp-content/uploads/promoter.png)
+<td >![promoter](/blog/images/2010-07-12-improvements-to-badge-system/promoter.png)
 </td>
 <td >First bounty you offered on your own question
 </td></tr>
 <tr >
-<td >![benefactor](http://blog.stackoverflow.com/wp-content/uploads/benefactor.png)
+<td >![benefactor](/blog/images/2010-07-12-improvements-to-badge-system/benefactor.png)
 </td>
 <td >First bounty you manually awarded on your own question
 </td></tr>
 <tr >
-<td >![investor](http://blog.stackoverflow.com/wp-content/uploads/investor.png)
+<td >![investor](/blog/images/2010-07-12-improvements-to-badge-system/investor.png)
 </td>
 <td >First bounty you offered on another person's question
 </td></tr>
 <tr >
-<td >![altruist](http://blog.stackoverflow.com/wp-content/uploads/altruist.png)
+<td >![altruist](/blog/images/2010-07-12-improvements-to-badge-system/altruist.png)
 </td>
 <td >First bounty accepted on another person's question (not by the system)
 </td></tr>
@@ -72,7 +72,7 @@ We've also added a gold badge to reward the master editors, in tandem with the e
 
 <table cellpadding="2" cellspacing="2" >
 <tr >
-<td >![copy-editor](http://blog.stackoverflow.com/wp-content/uploads/copy-editor.png)
+<td >![copy-editor](/blog/images/2010-07-12-improvements-to-badge-system/copy-editor.png)
 </td>
 <td >Edited 600 entries
 </td></tr>
@@ -86,12 +86,12 @@ Finally, we introduced another set of badges based on accepted answers to specif
 
 <table cellpadding="2" cellspacing="2" >
 <tr >
-<td >![tenacious](http://blog.stackoverflow.com/wp-content/uploads/tireless.png)
+<td >![tenacious](/blog/images/2010-07-12-improvements-to-badge-system/tireless.png)
 </td>
 <td >Zero score accepted answers: more than 5 and 20% of total
 </td></tr>
 <tr >
-<td >![unsung hero](http://blog.stackoverflow.com/wp-content/uploads/unsung-hero.png)
+<td >![unsung hero](/blog/images/2010-07-12-improvements-to-badge-system/unsung-hero.png)
 </td>
 <td >Zero score accepted answers: more than 10 and 25% of total
 </td></tr>

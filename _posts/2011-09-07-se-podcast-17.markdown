@@ -3,7 +3,6 @@ author: alex
 comments: true
 date: 2011-09-07 19:00:27+00:00
 layout: post
-hero: /blog/images/category/podcasts.jpg
 slug: se-podcast-17
 title: 'SE Podcast #17 - Kyle Brandt & George Beech'
 wordpress_id: 9773

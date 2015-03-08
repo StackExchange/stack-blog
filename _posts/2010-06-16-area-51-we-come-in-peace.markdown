@@ -12,7 +12,7 @@ categories:
 - stackexchange
 ---
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/Area-51-Banner1.png)](http://area51.stackexchange.com)
+[![](/blog/images/2010-06-16-area-51-we-come-in-peace/Area-51-Banner1.png)](http://area51.stackexchange.com)
 
 You guys remember when the Interweb was full of information you couldn't vote on? And blog posts you couldn't fix when they were wrong? Early humans used message forums that were sinister, scary places just teeming with "threads" and "conversations" that intermingled willy-nilly and -- I swear on my children I am not making this up -- the best information WASN'T automatically sorted to the top. Ha!, imagine. The very _thought_ that we once tolerated an Internet where anyone couldn't just start a world-class Q&A site on virtually any subject sends shivers down my spine. I mean, really, that's so 2009.
 
@@ -20,13 +20,13 @@ The modern Internet isn't the closed, read-only place it was back in April. We h
 
 **Area 51 **is the new staging area for the Stack Exchange Network where users can create Stack Overflow-like sites on every imaginable topic. It's the answer to everyone who has come to us and asked **"can we use your engine to build a Q&A site about {topic}?"**
 
-![](http://blog.stackoverflow.com/wp-content/uploads/screen1.png)
+![](/blog/images/2010-06-16-area-51-we-come-in-peace/screen1.png)
 
 After a short-lived, paid hosting model, Stack Exchange sites are now created for free through a democratic, community-driven process. If you want to create a Q&A community, propose it! If your idea gets sufficient support from a group of dedicated users, then it gets created. It’s that simple.
 
 The early results are inspiring. Thousands of people are already giving voice to hundreds of proposals, even before Area 51 was widely announced.  Who knew that programmers liked to talk about something besides programming and unicorns?
 
-![](http://blog.stackoverflow.com/wp-content/uploads/art-vote.png)
+![](/blog/images/2010-06-16-area-51-we-come-in-peace/art-vote.png)
 
 If you've got a great idea for a site, [visit Area 51](http://area51.stackexchange.com/). We've got [7.5 million people](http://www.quantcast.com/p-c1rF4kxgLUzNc) visiting us each month, so we've got the audience. We've raised enough money to make Stack Exchange absolutely free, so all we need is ideas. Or better yet, **browse through our proposals to help get the site ideas you love off to a strong start.**
 
@@ -41,7 +41,7 @@ Z@rpqf says, "Build awesome sites!"
     <a href="http://area51.stackexchange.com">http://area51.stackexchange.com</a>
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/faq-header1.png)
+![](/blog/images/2010-06-16-area-51-we-come-in-peace/faq-header1.png)
 
 
 

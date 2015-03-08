@@ -16,7 +16,7 @@ Remember [Stack Overflow Valued Associate #00002](http://blog.stackoverflow.com/
 
 
 
-![jarrod-lair-1](http://blog.stackoverflow.com/wp-content/uploads/jarrod-lair-1.jpg)
+![jarrod-lair-1](/blog/images/2009-06-21-stack-overflow-developer-lair/jarrod-lair-1.jpg)
 
 
 
@@ -51,7 +51,7 @@ And of course a fast internet connection. All part of the [programmer's Bill of 
 
 
 
-![jarrod-lair-2](http://blog.stackoverflow.com/wp-content/uploads/jarrod-lair-2.jpg)
+![jarrod-lair-2](/blog/images/2009-06-21-stack-overflow-developer-lair/jarrod-lair-2.jpg)
 
 
 

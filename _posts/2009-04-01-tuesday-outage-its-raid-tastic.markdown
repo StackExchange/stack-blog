@@ -16,7 +16,7 @@ We had a brief outage early Tuesday morning from 3 AM - 5 AM PST, because the da
 
 
 
-![serveraid-8k-error-memory-retention-failure](http://blog.stackoverflow.com/wp-content/uploads/serveraid-8k-error-memory-retention-failure.jpg)
+![serveraid-8k-error-memory-retention-failure](/blog/images/2009-04-01-tuesday-outage-its-raid-tastic/serveraid-8k-error-memory-retention-failure.jpg)
 
 
 

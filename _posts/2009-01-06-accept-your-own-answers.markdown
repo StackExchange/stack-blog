@@ -30,7 +30,7 @@ As they say, a picture is worth a thousand words; here's what I just did to one 
 
 
 
-![accept-own-answer-before](http://blog.stackoverflow.com/wp-content/uploads/accept-own-answer-before.png)
+![accept-own-answer-before](/blog/images/2009-01-06-accept-your-own-answers/accept-own-answer-before.png)
 
 
 
@@ -43,7 +43,7 @@ As they say, a picture is worth a thousand words; here's what I just did to one 
 
 
 
-![accept-own-answer-after](http://blog.stackoverflow.com/wp-content/uploads/accept-own-answer-after.png)
+![accept-own-answer-after](/blog/images/2009-01-06-accept-your-own-answers/accept-own-answer-after.png)
 
 
 

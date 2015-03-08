@@ -52,7 +52,7 @@ To ensure that we get lots of feedback on our public API beta, and produce some 
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/api-contest-prize-monitors1.jpg)
+![](/blog/images/2010-05-24-stack-exchange-api-contest/api-contest-prize-monitors1.jpg)
 
 
 
@@ -71,7 +71,7 @@ top of the line 30" LCD monitor (either [Dell 3008WFP](http://accessories.us.del
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/api-contest-prize-chair.jpg)](http://www.hermanmiller.com/Products/Mirra-Chairs)
+[![](/blog/images/2010-05-24-stack-exchange-api-contest/api-contest-prize-chair.jpg)](http://www.hermanmiller.com/Products/Mirra-Chairs)
 
 
 
@@ -84,7 +84,7 @@ top of the line 30" LCD monitor (either [Dell 3008WFP](http://accessories.us.del
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/api-contest-prize-netbook.jpg)](http://www.amazon.com/s?ie=UTF8&keywords=Acer%20AS1410&tag=codinghorror-20&index=blended&link_code=qs)
+[![](/blog/images/2010-05-24-stack-exchange-api-contest/api-contest-prize-netbook.jpg)](http://www.amazon.com/s?ie=UTF8&keywords=Acer%20AS1410&tag=codinghorror-20&index=blended&link_code=qs)
 
 
 
@@ -103,7 +103,7 @@ Intel CULV Netbook, similar to [Acer Aspire 1410](http://www.amazon.com/s?ie=UTF
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/api-contest-prize-desk.jpg)](http://www.geekdesk.com/)
+[![](/blog/images/2010-05-24-stack-exchange-api-contest/api-contest-prize-desk.jpg)](http://www.geekdesk.com/)
 
 
 

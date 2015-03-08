@@ -16,7 +16,7 @@ As of today, Stack Overflow is now officially using a **distributed version cont
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/kiln-logo.gif)](http://www.fogcreek.com/kiln/)
+[![](/blog/images/2010-04-23-stack-overflow-and-dvcs/kiln-logo.gif)](http://www.fogcreek.com/kiln/)
 
 
 
@@ -28,7 +28,7 @@ If you're new to distributed version control, first you should check out Joel's 
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/hg-init-logo.png)](http://hginit.com/)
+[![](/blog/images/2010-04-23-stack-overflow-and-dvcs/hg-init-logo.png)](http://hginit.com/)
 
 
 
@@ -55,7 +55,7 @@ But, as I said... _raw_. Raw is definitely the operative word here. DVCS hasn't 
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/crossing-the-chasm.png)](http://en.wikipedia.org/wiki/Crossing_the_Chasm)
+[![](/blog/images/2010-04-23-stack-overflow-and-dvcs/crossing-the-chasm.png)](http://en.wikipedia.org/wiki/Crossing_the_Chasm)
 
 
 

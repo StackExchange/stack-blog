@@ -3,7 +3,6 @@ author: alex
 comments: true
 date: 2011-11-02 19:00:15+00:00
 layout: post
-hero: /blog/images/category/podcasts.jpg
 slug: se-podcast-25-mark-russinovich
 title: 'SE Podcast #25 - Mark Russinovich'
 wordpress_id: 10095

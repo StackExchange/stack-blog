@@ -14,7 +14,7 @@ categories:
 
 It's really inspiring to see Stack Overflow meetup events being held in almost 100 cities around the world. Here's where the meetup groups are:
 
-[![Map of Stack Overflow Meetup Communities](http://blog.stackoverflow.com/wp-content/uploads/2011-04-06_14-48-14.png)](http://meetup.com/stackoverflow)
+[![Map of Stack Overflow Meetup Communities](/blog/images/2011-04-07-stack-overflow-around-the-world/2011-04-06_14-48-14.png)](http://meetup.com/stackoverflow)
 
 That made me think again about Stack Exchange in other languages. Now, Stack Exchange isn't just software. Localizing it isn't just a matter of translating the strings. It's a community, so when we have a Stack Exchange site conducting Q&A in, say, Japanese, we'll need moderators and community coordinators to liaise between that community and the company who speak Japanese.
 

@@ -34,4 +34,4 @@ As our Stack Exchange team is growing and [we have more employees working remote
 
 Here’s a special infographic to sum up our survey findings. If you’d like to do your own analysis you can [download the survey results](https://docs.google.com/spreadsheets/d/16C6ZeNSvd-qIg45J9E-vx2YCsD8w5oZaSTUtJ-52e-w/edit?usp=sharing).
 
-[![developers_final](http://blog.stackoverflow.com/wp-content/uploads/developers_final.png)](http://blog.stackoverflow.com/wp-content/uploads/developers_final.png)
+[![developers_final](/blog/images/2014-02-19-2013-stack-overflow-user-survey-results/developers_final.png)](/blog/images/2014-02-19-2013-stack-overflow-user-survey-results/developers_final.png)

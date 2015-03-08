@@ -39,7 +39,7 @@ Because we believe so deeply in _learning_, we are willing to go to great length
 
 Insisting on objectivity is fine for computing and mathematics. But once you get past the hard(ish) sciences, you veer towards the much softer social sciences. There are experts in these fields, but they are by definition, not exact. In fact, _most_ academic fields don't have objective answers. Topics like economics, engineering, the arts, literature, and social sciences don't exactly have correct and incorrect answers. There is a [growing list of proposals](http://area51.stackexchange.com/?tab=hot) about increasingly subjective topics, and we believe many of them are going to make great Stack Exchange sites!
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/fields-arranged-by-purity.png)](http://xkcd.com/435/)
+[![](/blog/images/2010-09-29-good-subjective-bad-subjective/fields-arranged-by-purity.png)](http://xkcd.com/435/)
 
 That's where the problem starts.
 
@@ -48,7 +48,7 @@ That's where the problem starts.
 But software and programming isn't always a hard science, either. Once you get past the _does this code compile or not_ questions, you're dealing with issues of best practices, experiences, and behaviors. Perhaps because our communities have become so accustomed to getting quick, accurate, and timely answers, they feel that even a subjective Stack Overflow is better than the alternatives. So much so, that our fellow programmers created [a sister site specifically for their pent up subjective questions](http://programmers.stackexchange.com). Take one heaping pile of subjective questions, bottle it up for over two years and… _kablooey!_
 
 [
-![](http://blog.stackoverflow.com/wp-content/uploads/programmers-se.png)
+![](/blog/images/2010-09-29-good-subjective-bad-subjective/programmers-se.png)
 ](http://programmers.stackexchange.com)
 
 The [programmers.stackexchange.com](http://programmers.stackexchange.com/) site exploded overnight, hosting some of the best (and worst) questions on the Stack Exchange network. 
@@ -72,7 +72,7 @@ The folks at Moms4mom owned up to the subjective issue and came up with a set of
 
 They talk about how "opinion, by itself, is noise." They're not saying that subjective opinions are to be avoided; they're attempting to mold  and shape their inherently subjective Q&A; into something constructive, informative and helpful. As it turns out, there is an entire field of subjective "expertise" that has the hallmarks of making **great Q&A sites**:
 
-![](http://blog.stackoverflow.com/wp-content/uploads/screenshot-0.png)
+![](/blog/images/2010-09-29-good-subjective-bad-subjective/screenshot-0.png)
 
 If we can avoid conversations that are -- and this is the really tricky part -- _too subjective_, we can maintain the ideals of great Q&A in the face of completely subjective topics. We can _avoid_ falling into the predictable destructive patterns of random discussion, debate, and opinion that turn a site from a learning experience into a glorified cheap-thrills gossip rag.
 

@@ -49,7 +49,7 @@ If you're a Stack Overflow user, you have _lots_ of [soul-searching to do](http:
 
 
 
-![stack overflow recaptcha: reportedly geekiest](http://blog.stackoverflow.com/wp-content/uploads/stack-overflow-captcha-reportedly-geekiest.jpg)
+![stack overflow recaptcha: reportedly geekiest](/blog/images/2009-07-06-are-you-a-human-being/stack-overflow-captcha-reportedly-geekiest.jpg)
 
 
 
@@ -61,7 +61,7 @@ Other times, they might be uncomfortably accurate:
 
 
 
-![stack overflow recaptcha: climax received](http://blog.stackoverflow.com/wp-content/uploads/stack-overflow-captcha-climax-received.jpg)
+![stack overflow recaptcha: climax received](/blog/images/2009-07-06-are-you-a-human-being/stack-overflow-captcha-climax-received.jpg)
 
 
 

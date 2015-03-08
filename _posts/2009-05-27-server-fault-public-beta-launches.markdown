@@ -35,7 +35,7 @@ Hopefully everyone had a very pleasant Memorial Day holiday, and came back ready
 
 
 
-[![sysadminday](http://blog.stackoverflow.com/wp-content/uploads/sysadminday.jpg)](http://www.sysadminday.com/)
+[![sysadminday](/blog/images/2009-05-27-server-fault-public-beta-launches/sysadminday.jpg)](http://www.sysadminday.com/)
 
 
 

@@ -21,7 +21,7 @@ Here's a diagram of our current network layout:
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/stack-overflow-network-diagram-small.png)](http://blog.stackoverflow.com/wp-content/uploads/stack-overflow-network-diagram.png)
+[![](/blog/images/2010-01-14-stack-overflow-network-configuration/stack-overflow-network-diagram-small.png)](/blog/images/2010-01-14-stack-overflow-network-configuration/stack-overflow-network-diagram.png)
 
 
 
@@ -52,7 +52,7 @@ What motivated a lot of this was a little scare we had about a week ago. The sin
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/star-wars-fail.jpg)](http://www.shipmentoffail.com/fails/2008/01/star-wars-fail/)
+[![](/blog/images/2010-01-14-stack-overflow-network-configuration/star-wars-fail.jpg)](http://www.shipmentoffail.com/fails/2008/01/star-wars-fail/)
 
 
 

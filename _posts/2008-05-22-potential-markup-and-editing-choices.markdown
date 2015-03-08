@@ -33,7 +33,7 @@ Good programmers never write what they can steal or borrow. With that in mind, I
 
 
 
-[![wmd-advanced-demo1](http://blog.stackoverflow.com/wp-content/uploads/wmd-advanced-demo1.png) ](http://wmd-editor.com/examples/splitscreen)
+[![wmd-advanced-demo1](/blog/images/2008-05-22-potential-markup-and-editing-choices/wmd-advanced-demo1.png) ](http://wmd-editor.com/examples/splitscreen)
 
 
 
@@ -41,7 +41,7 @@ I emailed [AttackLab](http://attacklab.net/) and John Fraser was kind enough to 
 
 
 
-[![showdown-demo](http://blog.stackoverflow.com/wp-content/uploads/showdown-demo.png)](http://softwaremaniacs.org/playground/showdown-highlight/)
+[![showdown-demo](/blog/images/2008-05-22-potential-markup-and-editing-choices/showdown-demo.png)](http://softwaremaniacs.org/playground/showdown-highlight/)
 
 
 

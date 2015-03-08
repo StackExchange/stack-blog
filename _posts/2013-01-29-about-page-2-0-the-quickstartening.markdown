@@ -14,7 +14,7 @@ categories:
 We've just rolled out a new Quick Start guide to help new users learn the basics. Here’s [one example](http://askdifferent.com/about), but you can find any site's version by going to sitename.com**/about**.
 
 
-[![2013-01-28_20-36-00](http://blog.stackoverflow.com/wp-content/uploads/2013-01-28_20-36-00.jpeg)](http://blog.stackoverflow.com/wp-content/uploads/2013-01-28_20-36-00.jpeg)
+[![2013-01-28_20-36-00](/blog/images/2013-01-29-about-page-2-0-the-quickstartening/2013-01-28_20-36-00.jpeg)](/blog/images/2013-01-29-about-page-2-0-the-quickstartening/2013-01-28_20-36-00.jpeg)
 
 
 
@@ -36,7 +36,7 @@ When you're surrounded by familiar things, but using them the way you normally d
 
 Our sites are different. And that difference is deliberate. The things that confuse folks who are used to forums, or those [broad, “ask anything” sites](http://answers.yahoo.com) are the very things that we believe make us work _better_.
 
-[caption id="attachment_13037" align="alignright" width="300"][![I'm a little embarrassed I couldn't turn this up sooner.](http://blog.stackoverflow.com/wp-content/uploads/2013-01-29_09-53-17-300x154.png)](http://blog.stackoverflow.com/wp-content/uploads/2013-01-29_09-53-17.png) I'm a little embarrassed I couldn't turn this up sooner.[/caption]
+[caption id="attachment_13037" align="alignright" width="300"][![I'm a little embarrassed I couldn't turn this up sooner.](/blog/images/2013-01-29-about-page-2-0-the-quickstartening/2013-01-29_09-53-17-300x154.png)](/blog/images/2013-01-29-about-page-2-0-the-quickstartening/2013-01-29_09-53-17.png) I'm a little embarrassed I couldn't turn this up sooner.[/caption]
 
 For us, different is good. Just like my mommy always told me. But it's still jarring. And when it's too jarring, potentially valuable contributors are put off and leave. They didn’t get help, and we lost an expert. Being jarring came at a high cost.
 
@@ -64,7 +64,7 @@ We don't bother telling users about the things that are similar to the other sit
 
 
 
-[![2013-01-30_10-57-54](http://blog.stackoverflow.com/wp-content/uploads/2013-01-30_10-57-541.png)](http://blog.stackoverflow.com/wp-content/uploads/2013-01-30_10-57-541.png)
+[![2013-01-30_10-57-54](/blog/images/2013-01-29-about-page-2-0-the-quickstartening/2013-01-30_10-57-541.png)](/blog/images/2013-01-29-about-page-2-0-the-quickstartening/2013-01-30_10-57-541.png)
 
 
 Now, obviously, users could just discover these things as they use the site, but however much you do or don’t grok our system, [surprises suck](http://www.joelonsoftware.com/uibook/chapters/fog0000000058.html). Most of life's surprises fall closer to the kind involving gum discoveries in improbable locations than the ones that come in pony-shaped boxes. Whatever you think about a rule's merit, learning about it _after you’ve broken it_ tends to adversely impact your view of it. There’s a big difference between giving your wife a poem you wrote her, only to recieve a red-lined markup, complete with suggestions as to how to be less derivative, and having her edit one that you’re hoping to submit to a journal after she offered to give you feedback.
@@ -92,7 +92,7 @@ Research tells us that pages like this are _significantly_ less effective if no 
 <blockquote>**_“I wonder if they have any detailed, hopefully exhaustive documentation that covers their rules, best practices and societal mores. I'd just love to read it in its entirety before trying to get help with my problem!"_**</blockquote>
 
 
-[caption id="attachment_13026" align="alignright" width="182"][![Does it cover typing in boxes on websites?  That's what I need to learn about.](http://blog.stackoverflow.com/wp-content/uploads/ShowCover.aspx_1.jpeg)](http://blog.stackoverflow.com/wp-content/uploads/ShowCover.aspx_1.jpeg) Does it cover typing in boxes on websites? That's what I need to learn about.[/caption]
+[caption id="attachment_13026" align="alignright" width="182"][![Does it cover typing in boxes on websites?  That's what I need to learn about.](/blog/images/2013-01-29-about-page-2-0-the-quickstartening/ShowCover.aspx_1.jpeg)](/blog/images/2013-01-29-about-page-2-0-the-quickstartening/ShowCover.aspx_1.jpeg) Does it cover typing in boxes on websites? That's what I need to learn about.[/caption]
 
 Now, I do realize that some non-trivial portion of _this_ blog's audience is like us, and is thinking that that's actually exactly what we might do. Which is why we love you so much. But, most people, even most experts, are not like us. Please trust me when I tell you this:
 

@@ -3,7 +3,6 @@ author: alex
 comments: true
 date: 2011-12-08 19:00:57+00:00
 layout: post
-hero: /blog/images/category/podcasts.jpg
 slug: se-podcast-30-robert-cartaino-rebecca-chernoff
 title: 'SE Podcast #30 - Robert Cartaino & Rebecca Chernoff'
 wordpress_id: 10303

@@ -26,13 +26,13 @@ There is one **big problem** though. Janitorial work can be boring. To make it m
 
 When you gain the [privilege to downvote](http://stackoverflow.com/privileges/vote-down) a new `review` link appears in the header.
 
-![](http://blog.stackoverflow.com/wp-content/uploads/review1.png)
+![](/blog/images/2011-11-21-improved-reviewing/review1.png)
 
 This new section will allow you to track your review progress, but first you will need to unlock the right to review by gaining the Strunk & White badge.
 
 As your [suggested edits](http://blog.stackoverflow.com/2011/02/suggested-edits-and-edit-review/) get approved or you edit posts, we will track your progress towards Strunk & White.
 
-![](http://blog.stackoverflow.com/wp-content/uploads/progress1.png)
+![](/blog/images/2011-11-21-improved-reviewing/progress1.png)
 
 Once you have this badge you will be allowed to track your review progress and be a candidate for the new [Reviewer](http://stackoverflow.com/badges/1478/reviewer) badge.
 
@@ -40,7 +40,7 @@ You will also be able to track progress towards the 2 voting badges, Civic Duty 
 
 The reason we unlock this section is to ensure all **questions** and **answers** are viewed by at least **2 users** who are good at editing. This means that we are less likely to get flags stating "please sir, edit this for me" and gives new users a better chance. Once two users with the Strunk & White badge review a post the post will "vanish" from the list.
 
-![](http://blog.stackoverflow.com/wp-content/uploads/reviewprogress.png)
+![](/blog/images/2011-11-21-improved-reviewing/reviewprogress.png)
 
 The review section focuses on 3 areas.
 

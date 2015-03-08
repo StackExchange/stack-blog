@@ -71,7 +71,7 @@ So how _do_ we encourage people to remember the questions when voting? Perhaps w
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/or-this-kitten-gets-it.jpg)
+![](/blog/images/2011-05-06-vote-for-this-question-or-the-kitten-gets-it/or-this-kitten-gets-it.jpg)
 
 
 
@@ -83,7 +83,7 @@ Because we love kittens, we decided to make basic voting statistics a bit more v
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/user-drop-down-voting-stats.png)
+![](/blog/images/2011-05-06-vote-for-this-question-or-the-kitten-gets-it/user-drop-down-voting-stats.png)
 
 
 
@@ -91,7 +91,7 @@ Second, on your user page, where we've broken out your voting in a similar publi
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/user-page-voting-stats.png)
+![](/blog/images/2011-05-06-vote-for-this-question-or-the-kitten-gets-it/user-page-voting-stats.png)
 
 
 
@@ -103,7 +103,7 @@ Most importantly, we have added a gentle reminder to the voting process itself.
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/question-voting-reminder.png)
+![](/blog/images/2011-05-06-vote-for-this-question-or-the-kitten-gets-it/question-voting-reminder.png)
 
 
 
@@ -115,7 +115,7 @@ We also added a **voters tab to the users page**, so you can get an idea which o
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/users-voters-tab.png)
+![](/blog/images/2011-05-06-vote-for-this-question-or-the-kitten-gets-it/users-voters-tab.png)
 
 
 

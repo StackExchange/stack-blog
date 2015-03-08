@@ -46,7 +46,7 @@ There are likely _other_ activities of interest to your community beyond asking 
 
 The goal is to help visitors find out about the cool stuff your community is doing and help promote activities they find important. And it's all visible right there on the sidebar next to every question, and the homepage.
 
-![](http://blog.stackoverflow.com/wp-content/uploads/promotion-ad-in-situ1.png)
+![](/blog/images/2011-05-31-community-promotion-ads/promotion-ad-in-situ1.png)
 
 
 
@@ -55,7 +55,7 @@ The goal is to help visitors find out about the cool stuff your community is do
 
 Start by creating an original 220 x 250 image ad for a product, service, or event of interest to your community. Then head on over to the [meta site](http://blog.stackoverflow.com/2010/07/new-per-site-metas/) for that community and find the latest post tagged **community-ads** to post your submission.
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/community-promotion-ad-meta-post.png)](http://meta.gaming.stackexchange.com/questions/1892/community-promotion-ads-1h-2011)
+[![](/blog/images/2011-05-31-community-promotion-ads/community-promotion-ad-meta-post.png)](http://meta.gaming.stackexchange.com/questions/1892/community-promotion-ads-1h-2011)
 
 (If your site does not yet have a community promotion post on its meta, [contact me to request one](http://stackexchange.com/users/92c1c9da-2a26-4604-a58b-ff3795af4920), or simply post a meta request asking for it to be created.)
 
@@ -65,7 +65,7 @@ Here are a few examples:
 <tr >
 
 <td >
-![AskUbuntu](http://blog.stackoverflow.com/wp-content/uploads/askubuntu.com_.png)
+![AskUbuntu](/blog/images/2011-05-31-community-promotion-ads/askubuntu.com_.png)
 
 </td>
 
@@ -83,7 +83,7 @@ Here are a few examples:
 <tr >
 
 <td >
-![WordPress](http://blog.stackoverflow.com/wp-content/uploads/wordpress.stackexchange.com_.png)
+![WordPress](/blog/images/2011-05-31-community-promotion-ads/wordpress.stackexchange.com_.png)
 
 </td>
 
@@ -101,7 +101,7 @@ Here are a few examples:
 <tr >
 
 <td >
-![TeX](http://blog.stackoverflow.com/wp-content/uploads/tex.stackexchange.com_.png)
+![TeX](/blog/images/2011-05-31-community-promotion-ads/tex.stackexchange.com_.png)
 
 </td>
 

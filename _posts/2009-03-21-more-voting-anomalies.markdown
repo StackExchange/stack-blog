@@ -21,7 +21,7 @@ I've been getting a few reports of further voting issues via the email link prov
 
 
 
-![examining-vote-chad](http://blog.stackoverflow.com/wp-content/uploads/examining-vote-chad.jpg)
+![examining-vote-chad](/blog/images/2009-03-21-more-voting-anomalies/examining-vote-chad.jpg)
 
 
 

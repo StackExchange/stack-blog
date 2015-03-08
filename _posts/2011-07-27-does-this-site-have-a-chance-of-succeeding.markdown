@@ -46,7 +46,7 @@ Communities should generally know when the site is failing. Questions don't get 
 
 When users seek out a report on their performance, they turn to the analytics of [Area 51](http://area51.stackexchange.com).
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/Area-51-analytics-sample1.png)](http://area51.stackexchange.com/proposals/4059/musical-practice-and-performance)
+[![](/blog/images/2011-07-27-does-this-site-have-a-chance-of-succeeding/Area-51-analytics-sample1.png)](http://area51.stackexchange.com/proposals/4059/musical-practice-and-performance)
 
 Wow, pretty scary. Right? With big, red letters and "Worrying" stamped all over the place, the angst is understandable.
 
@@ -102,7 +102,7 @@ All those other statistics will come in time. Don't worry about the actual numbe
 
 As far as the "worrying" statistics above, it's not really all that unexpected. Most Stack Exchange sites are not _expected_ to be an overnight success. Most go through a steady period of building up content before reaching critical mass.
 
-![](http://blog.stackoverflow.com/wp-content/uploads/number-of-visits-graph.png)
+![](/blog/images/2011-07-27-does-this-site-have-a-chance-of-succeeding/number-of-visits-graph.png)
 
 What we generally see with Stack Exchange sites is nice, steady traffic going kind of horizontally for a while; then, at some unpredictable point, we hit critical mass and POW all the indicators start climbing inexorably. This is the right point for a site to come out of public beta.
 

@@ -27,11 +27,11 @@ Over the last few months, we've been continually improving our central network h
 
 After a two week public beta test, we're adding yet another ability -- [**tag sets**](http://stackexchange.com/tagsets). A tag set is exactly what it sounds like: all questions matching a set of tags across one or more sites in the Stack Exchange network.
 
-![](http://blog.stackoverflow.com/wp-content/uploads/stackexchange-tagset-example-1.png)
+![](/blog/images/2010-11-04-tag-sets-on-stack-exchange/stackexchange-tagset-example-1.png)
 
-![](http://blog.stackoverflow.com/wp-content/uploads/stackexchange-tagset-example-2.png)
+![](/blog/images/2010-11-04-tag-sets-on-stack-exchange/stackexchange-tagset-example-2.png)
 
-![](http://blog.stackoverflow.com/wp-content/uploads/stackexchange-tagset-example-3.png)
+![](/blog/images/2010-11-04-tag-sets-on-stack-exchange/stackexchange-tagset-example-3.png)
 
 We got a lot of feedback that community members also wanted to view:
 
@@ -48,22 +48,22 @@ That's what tag sets are for. You can freely browse tag sets other users have se
 
 Click on the **tagged questions** navigation link, then select **my tag sets** to construct your own.
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/stackexchange-tagged-question-nav.png)](http://stackexchange.com/tagsets)
+[![](/blog/images/2010-11-04-tag-sets-on-stack-exchange/stackexchange-tagged-question-nav.png)](http://stackexchange.com/tagsets)
 
 Look in the sidebar on the right for a tag-centric autocomplete area.
 
-![](http://blog.stackoverflow.com/wp-content/uploads/stackexchange-tagset-ui-0.png)
+![](/blog/images/2010-11-04-tag-sets-on-stack-exchange/stackexchange-tagset-ui-0.png)
 
 You can enter any tag (or wildcard tag, yep, it supports wildcards) that exists on any site in our network. And once you do, you can choose which site(s) you want to see it on.
 
-![](http://blog.stackoverflow.com/wp-content/uploads/stackexchange-tagset-ui-1.png)
+![](/blog/images/2010-11-04-tag-sets-on-stack-exchange/stackexchange-tagset-ui-1.png)
 
 You can also create multiple tag sets and toggle between them.  Just click **name this tag set** to give it a name.
 
-![](http://blog.stackoverflow.com/wp-content/uploads/name-this-tagset.png)
+![](/blog/images/2010-11-04-tag-sets-on-stack-exchange/name-this-tagset.png)
 
 You can then quickly toggle between your tag sets to keep track of multiple topics.  To start a new tag set just click **New tag set**.
 
-![](http://blog.stackoverflow.com/wp-content/uploads/tag-sets.png)
+![](/blog/images/2010-11-04-tag-sets-on-stack-exchange/tag-sets.png)
 
 If you've ever wanted to narrow down your interests on a site to a few specific topics, or follow a topic across multiple Stack Exchange sites -- now you can. Just set up your own tag set, or discover a tag set someone else has already set up!

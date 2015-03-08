@@ -13,7 +13,7 @@ categories:
 
 We've been busy! So busy, in fact, that this post only takes us through the hires we made in June and July. More announcements are coming soon ... in the meantime, get to know these 13 wonderful people who now call Stack Exchange home.
 
-**![Ericson, Jon](http://blog.stackoverflow.com/wp-content/uploads/Ericson-Jon.png)**
+**![Ericson, Jon](/blog/images/2013-09-25-summer-hiring-happened-so-fast/Ericson-Jon.png)**
 
 **Jon Ericson, Community Manager, **_Burbank, CA_
 
@@ -21,7 +21,7 @@ As an Air Force brat, Jon grew up all over the world but has lived in the Los A
 
 
 
-**![Grant, Dean](http://blog.stackoverflow.com/wp-content/uploads/Grant-Dean.jpg)**
+**![Grant, Dean](/blog/images/2013-09-25-summer-hiring-happened-so-fast/Grant-Dean.jpg)**
 
 
 
@@ -33,7 +33,7 @@ Dean joined Stack Exchange this summer after spending 10 years in the _Wall Stre
 
 
 
-**![Holley, Max](http://blog.stackoverflow.com/wp-content/uploads/Holley-Max.jpg)**
+**![Holley, Max](/blog/images/2013-09-25-summer-hiring-happened-so-fast/Holley-Max.jpg)**
 
 
 
@@ -43,7 +43,7 @@ Max grew up in Austin, TX and survived on live music, breakfast tacos, and Tex-M
 
   
 
-**![Hynes, Joshua](http://blog.stackoverflow.com/wp-content/uploads/Hynes-Joshua.png)**
+**![Hynes, Joshua](/blog/images/2013-09-25-summer-hiring-happened-so-fast/Hynes-Joshua.png)**
 
 
 
@@ -53,7 +53,7 @@ After growing up with a love for art and problem-solving, Josh has been designin
 
 
 
-******![Medrano, Marvin](http://blog.stackoverflow.com/wp-content/uploads/Medrano-Marvin.jpg)**
+******![Medrano, Marvin](/blog/images/2013-09-25-summer-hiring-happened-so-fast/Medrano-Marvin.jpg)**
 
 
 
@@ -65,7 +65,7 @@ Marvin graduated from John Jay College. His past employers include East End Kitc
 
 
 
-**![Nothnagle, Jessica](http://blog.stackoverflow.com/wp-content/uploads/Nothnagle-Jessica.jpg)**
+**![Nothnagle, Jessica](/blog/images/2013-09-25-summer-hiring-happened-so-fast/Nothnagle-Jessica.jpg)**
 
 **Jessica Nothnagle, Sales Representative (Careers 2.0), **_Denver_
 
@@ -75,13 +75,13 @@ Jessica was born and raised in Rochester, NY and just recently made the move to 
 
 
 
-**![Nyman, Angela](http://blog.stackoverflow.com/wp-content/uploads/Nyman-Angela.jpg)Angela Nyman, EMEA Marketing Manager, **_London_
+**![Nyman, Angela](/blog/images/2013-09-25-summer-hiring-happened-so-fast/Nyman-Angela.jpg)Angela Nyman, EMEA Marketing Manager, **_London_
 
 Angela was born and raised in Sweden but decided to leave it all behind at the age of 18. She lived in the US for a year before heading off to a private university in Italy. She worked as a marketing manager in Spain, France, and the UK, fitting in a couple of ski seasons in between, before deciding to travel the world. In 2009 she settled down in what is now properly her home: London!  Angela has a background in marketing for the gaming industry, having run one of Europe's largest poker tours, The WPT, for years. She is super excited about taking on another challenge in a new industry doing what she loves. Outside of work, Angela loves exploring new places and doing everything yoga, fitness, mind & health related.
 
 
 
-**![Prelog, Samo](http://blog.stackoverflow.com/wp-content/uploads/Prelog-Samo.jpg)**
+**![Prelog, Samo](/blog/images/2013-09-25-summer-hiring-happened-so-fast/Prelog-Samo.jpg)**
 
 **Samo Prelog, Web Developer (Core), **_Ljutomer, Slovenia_
 
@@ -89,13 +89,13 @@ Samo (left) grew up in Ljutomer, studied in Maribor, and now lives in Lenart - a
 
 
 
-**![Rahman, Tania](http://blog.stackoverflow.com/wp-content/uploads/Rahman-Tania.jpg)Tania Rahman, Sales Representative (Careers 2.0), **_London_
+**![Rahman, Tania](/blog/images/2013-09-25-summer-hiring-happened-so-fast/Rahman-Tania.jpg)Tania Rahman, Sales Representative (Careers 2.0), **_London_
 
 Born and raised in a tiny village in Hampshire complete with thatched-roofed cottages, Tania has been living in London in the heart of the Olympic Village for over 4 years. Tania designed an award winning doughnut aptly named 'Death By Chocolate' which was available in petrol (gas) stations across the UK for a limited period. Due to the over consumption of doughnuts, Tania decided the best way to work the extra calories off was by running the London Marathon, which she did in 2013. When she's not busy checking out the latest pop up restaurant she can be found with her nose in a good book or learning to swim...sometimes both!
 
 
 
-![Sireci, Phil](http://blog.stackoverflow.com/wp-content/uploads/Sireci-Phil.jpg)
+![Sireci, Phil](/blog/images/2013-09-25-summer-hiring-happened-so-fast/Sireci-Phil.jpg)
 
 
 
@@ -107,7 +107,7 @@ Phil graduated from the French Culinary Institute. His impressive career include
 
 
 
-![Sobel, Shanna](http://blog.stackoverflow.com/wp-content/uploads/Sobel-Shanna.jpg)
+![Sobel, Shanna](/blog/images/2013-09-25-summer-hiring-happened-so-fast/Sobel-Shanna.jpg)
 
 
 
@@ -117,7 +117,7 @@ Shanna graduated from FIT with Bachelor in Fine Arts. She went on to receive a d
 
 
 
-![Toney, Angela](http://blog.stackoverflow.com/wp-content/uploads/Toney-Angela.jpg)
+![Toney, Angela](/blog/images/2013-09-25-summer-hiring-happened-so-fast/Toney-Angela.jpg)
 
 
 
@@ -127,7 +127,7 @@ Angela grew up in the American Southwest, attended college in rural Virginia, an
 
 
 
-![Zizzo, Jonathan](http://blog.stackoverflow.com/wp-content/uploads/Zizzo-Jonathan.jpg)
+![Zizzo, Jonathan](/blog/images/2013-09-25-summer-hiring-happened-so-fast/Zizzo-Jonathan.jpg)
 
 
 

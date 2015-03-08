@@ -24,7 +24,7 @@ OK, this is complete. Our database server not only has 48 GB of memory installed
 
 
 
-![stackoverflow-db-memory-os-upgrade-complete](http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-db-memory-os-upgrade-complete.png)
+![stackoverflow-db-memory-os-upgrade-complete](/blog/images/2009-07-05-database-server-upgrade-48-gb/stackoverflow-db-memory-os-upgrade-complete.png)
 
 
 
@@ -32,5 +32,5 @@ And just for fun, here's a picture of our fourth server, which will be used to r
 
 
 
-![so-web-4-server-dedication](http://blog.stackoverflow.com/wp-content/uploads/so-web-4-server-dedication.jpg)
+![so-web-4-server-dedication](/blog/images/2009-07-05-database-server-upgrade-48-gb/so-web-4-server-dedication.jpg)
 

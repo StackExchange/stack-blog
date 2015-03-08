@@ -29,7 +29,7 @@ This [Stack Overflow DevDays](http://devdays.stackoverflow.com/) will be the bes
 ****Speaker: Paul Biggar
 **Paul works on the Javascript team at Mozilla. Before joining Mozilla, Paul completed a PhD in compiler optimizations, static analyses and dynamic languages, and started a YCombinator startup.
 
-[![Paul Biggar Speaking at DevDays 2009](http://blog.stackoverflow.com/wp-content/uploads/PaulBiggar.jpg)](http://www.flickr.com/photos/pepez/4054502960/in/pool-1256992@N21/)
+[![Paul Biggar Speaking at DevDays 2009](/blog/images/2011-08-10-documenting-devdays-2011-3-e28093-more-speakers/PaulBiggar.jpg)](http://www.flickr.com/photos/pepez/4054502960/in/pool-1256992@N21/)
 
 
 ### [Sydney, 25-26 October:](http://devdays.stackoverflow.com/sydney/)
@@ -47,7 +47,7 @@ This [Stack Overflow DevDays](http://devdays.stackoverflow.com/) will be the bes
 ****Speaker: Dmitry Baranovskiy
 ****Dmitry has over 10 years experience in creating web applications. Having started as a back end developer, more recently he has changed his orientation to front end development and even pure design. He is most notably known as a creator of Raphaël (http://raphaeljs.com) JavaScript vector library.
 
-**[![Joel Spolsky speaking at DevDays 2009](http://blog.stackoverflow.com/wp-content/uploads/JoelSpolsky.jpg)](http://www.flickr.com/photos/hyfen/4046014244/sizes/m/in/photostream/)
+**[![Joel Spolsky speaking at DevDays 2009](/blog/images/2011-08-10-documenting-devdays-2011-3-e28093-more-speakers/JoelSpolsky.jpg)](http://www.flickr.com/photos/hyfen/4046014244/sizes/m/in/photostream/)
 **
 
 
@@ -67,7 +67,7 @@ Julian is Chief Architect at Equal Experts, a convivial services and consulting 
 ****Speaker: Robert Pickering
 **Robert is a fun loving programmer who claims that he is Falling Outside The Normal Moral Constraints. He enjoys travelling round Europe in a big shirt trying to teach people that real programmers use the stack. Robert is a big fan of functional programming and F#. He works for the ultra cool French consultancy Infinite Square and he lives in a quaint French village near Paris with his wife and their three cats. He considering writing a book about life in France as a programmer, as given the success of “Year in Provence”, it would probably sell a lot more that his last effort, “Beginning F#”.
 
-[![Jon Skeet speaking at DevDays 2009](http://blog.stackoverflow.com/wp-content/uploads/JonSkeet.jpg)](http://www.flickr.com/photos/adewale_oshineye/4055530942/in/pool-1256992@N21/)
+[![Jon Skeet speaking at DevDays 2009](/blog/images/2011-08-10-documenting-devdays-2011-3-e28093-more-speakers/JonSkeet.jpg)](http://www.flickr.com/photos/adewale_oshineye/4055530942/in/pool-1256992@N21/)
 
 
 ### [Washington DC, December 15 & 16:](http://devdays.stackoverflow.com/washington-dc/)

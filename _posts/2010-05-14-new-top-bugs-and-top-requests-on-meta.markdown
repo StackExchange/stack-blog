@@ -41,7 +41,7 @@ While it is possible to manually replicate the UserVoice feature/bug leaderboard
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/meta-bugs-reqs-tabs.png)](http://meta.stackoverflow.com)
+[![](/blog/images/2010-05-14-new-top-bugs-and-top-requests-on-meta/meta-bugs-reqs-tabs.png)](http://meta.stackoverflow.com)
 
 
 

@@ -18,7 +18,7 @@ categories:
 ### [Extra Credits: So You Want To Be a Developer (Part 1)](http://penny-arcade.com/patv/episode/so-you-want-to-be-a-developer-part-1)
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/developer-at-work-png.png)
+![](/blog/images/2012-02-15-so-you-want-to-be-a-developer-part-1/developer-at-work-png.png)
 
 If you've never heard of Extra Credits, it's a weekly show about the video game industry from the perspective of people who actually work in it.  It's a fascinating look into game craftsmanship -- not just how video games are made, but what makes them work, what games do well and not so well, and the effects that they have on people.  They talk a lot about about game elements and using them for good and not evil, which is something that we think a lot about with Stack Exchange.
 

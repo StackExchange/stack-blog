@@ -19,7 +19,7 @@ While we still believe in editing and improving low-quality questions to make th
 
 Every new Stack Overflow user with <= 10 reputation is now presented with [a mandatory "How To Ask" page](http://stackoverflow.com/questions/how-to-ask) that they must click through before asking their first question. The text on this page is a heavily edited subset of Google's excellent [Tips for Getting Help](http://googlewebmastercentral.blogspot.com/2010/09/tips-for-getting-help-with-your-site.html).
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/how-to-ask-screenshot1.png)](http://stackoverflow.com/questions/how-to-ask)
+[![](/blog/images/2010-10-04-asking-better-questions/how-to-ask-screenshot1.png)](http://stackoverflow.com/questions/how-to-ask)
 
 At this point, you're probably wondering -- did Jeff _really_ just tell me that Stack Overflow **now requires every new user to [agree to a EULA](http://www.codinghorror.com/blog/2007/06/does-anyone-actually-read-software-eulas.html) before asking their first question?** Why, yes. Yes I did. Do let me explain the apparent madness.
 
@@ -38,7 +38,7 @@ Unlike a EULA, our [How to Ask](http://stackoverflow.com/questions/how-to-ask) p
 
 Now, whether or not new users will actually _read_ this, I cannot say. 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/what-we-say-to-dogs.jpg)
+![](/blog/images/2010-10-04-asking-better-questions/what-we-say-to-dogs.jpg)
 
 From my perspective, if at least one in ten new users read it and think, "hey, I should at least _try_ to form a decent question" -- it's a win. If some very poor questions are discarded based on seeing this page -- it's a win. And honestly, when you have 2k+ new questions per day, you can _afford_ to throw a few away in the name of increased overall quality. 
 

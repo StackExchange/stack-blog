@@ -30,7 +30,7 @@ We just rolled out **version 1.1 of the Stack Exchange API**. To see what's new,
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/stackapps-new-homepage.png)](http://stackapps.com/)
+[![](/blog/images/2011-02-11-stack-exchange-api-1-1-and-improved-app-gallery/stackapps-new-homepage.png)](http://stackapps.com/)
 
 
 
@@ -42,7 +42,7 @@ Do bear in mind that **we heavily promote stackapps.com both with house ads, and
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/api-house-ads-links.png)
+![](/blog/images/2011-02-11-stack-exchange-api-1-1-and-improved-app-gallery/api-house-ads-links.png)
 
 
 

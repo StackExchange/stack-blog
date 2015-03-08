@@ -16,7 +16,7 @@ It pains me when I hear people say that our sites are unfriendly, or that we cha
 But we have been working hard to make our sites more welcoming, reminding users that [feedback can be clear _and_ nice](http://blog.stackoverflow.com/2012/07/kicking-off-the-summer-of-love/), and helping new users [learn the ropes](http://blog.stackoverflow.com/2013/01/about-page-2-0-the-quickstartening/) _before_ they get frustrated.  **And, as of today, we've completely overhauled closing. **
 
 
-# Closing, we just can't quit you.![game-of-thrones-recap-jon-snow-ygritte-600x337 2](http://blog.stackoverflow.com/wp-content/uploads/game-of-thrones-recap-jon-snow-ygritte-600x337-2.jpg)
+# Closing, we just can't quit you.![game-of-thrones-recap-jon-snow-ygritte-600x337 2](/blog/images/2013-06-25-the-war-of-the-closes/game-of-thrones-recap-jon-snow-ygritte-600x337-2.jpg)
 
 
 Oh, closing.  You are the watcher on the walls. You are the shield that guards the realms of men. Okay, so it's possible that I _may_ be thinking of the [Night's Watch](http://en.wikipedia.org/w/index.php?search=nights+watch&title=Special%3ASearch). No matter.
@@ -42,7 +42,7 @@ Now, it's not that we want those questions, but we need to convey exactly _why 
 **Having your question closed _feels_ like a personal attack.**
 
 
-[![2013-06-16_15-31-27](http://blog.stackoverflow.com/wp-content/uploads/2013-06-16_15-31-27-1024x717.jpg)](http://blog.stackoverflow.com/wp-content/uploads/2013-06-16_15-31-27.jpg)
+[![2013-06-16_15-31-27](/blog/images/2013-06-25-the-war-of-the-closes/2013-06-16_15-31-27-1024x717.jpg)](/blog/images/2013-06-25-the-war-of-the-closes/2013-06-16_15-31-27.jpg)
 
 
 It _is_ off-putting to be told that your question is "not constructive".  To _the poster, _"not constructive" doesn't sound like polite feedback; it sounds like something a slightly detached guidance counselor might say to a child.  And,"not a real question"?  Does that make _the listener_ want to get "realer" or to snarkily link to a definition of the word "question"?
@@ -90,7 +90,7 @@ We're not going to lower our standards.  But if we want to _educate_ new users,
 
 	
   1. "On hold" will replace "closed" on newly closed posts
-**![zq0SL 2](http://blog.stackoverflow.com/wp-content/uploads/zq0SL-2-1024x651.jpg)The word "closed" sounded final. **Think about "closed" discussions, real estate deals, or job applications. In each case,"closed" means,
+**![zq0SL 2](/blog/images/2013-06-25-the-war-of-the-closes/zq0SL-2-1024x651.jpg)The word "closed" sounded final. **Think about "closed" discussions, real estate deals, or job applications. In each case,"closed" means,
 a) additional revisions are **not** welcome, and b) the matter **won't** be further considered.We led with a word that sounded final, so when we eventually told users they could edit their post, they weren't _listening_; they were dusting off the old debate uniform to _argue their case_.**"on hold" better conveys what we always meant:**
 
 

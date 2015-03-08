@@ -34,7 +34,7 @@ Although our de-crapifying efforts have been noble and heroic (well, in my mind,
 
 That's why I'm pleased to announce that as of today, we have switched all of our search functionality network wide from SQL Server to [Lucene](http://lucene.apache.org/java/docs/index.html), or more specifically, the [Lucene.NET](http://lucene.apache.org/lucene.net/) flavor.
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/lucene-logo.png)](http://lucene.apache.org/java/docs/index.html)
+[![](/blog/images/2011-01-28-stack-overflow-search-now-81-less-crappy/lucene-logo.png)](http://lucene.apache.org/java/docs/index.html)
 
 (We are, however, a little concerned that [Lucene.NET was dropped by the Apache Incubator](http://search-lucene.com/m/nMTuR1pPJbq). We'd like to see what we can do to help the project stay vital and in sync with the master Lucene project. Let us know how we can best do that!)
 
@@ -61,7 +61,7 @@ Kudos to [Nick Craver](http://blog.stackoverflow.com/2011/01/welcome-valued-asso
 
 Please try out our new, improved search on your favorite [Stack Exchange site](http://stackexchange.com/sites) and let us know what you think. Just look for the ubiquitous search box in the upper right hand corner of every site; type what you want to find and press Enter.
 
-![](http://blog.stackoverflow.com/wp-content/uploads/unix-linux-search-box.png)
+![](/blog/images/2011-01-28-stack-overflow-search-now-81-less-crappy/unix-linux-search-box.png)
 
 Remember that search drives three areas of the site:
 
@@ -80,7 +80,7 @@ Oh, and if you want to **search all [Stack Exchange sites](http://stackexchange.
 
 
 
-[![stack exchange search all sites](http://blog.stackoverflow.com/wp-content/uploads/stack-exchange-all-site-search.png)](http://stackexchange.com)
+[![stack exchange search all sites](/blog/images/2011-01-28-stack-overflow-search-now-81-less-crappy/stack-exchange-all-site-search.png)](http://stackexchange.com)
 
 
 

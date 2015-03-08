@@ -24,7 +24,7 @@ Rather than try out my anemic design skills -- it's always dangerous when progra
 
 
 
-[![99 designs logo](http://blog.stackoverflow.com/wp-content/uploads/99-designs-logo.png)](http://99designs.com/contests/6774)
+[![99 designs logo](/blog/images/2008-04-24-logo-design-contest/99-designs-logo.png)](http://99designs.com/contests/6774)
 
 
 

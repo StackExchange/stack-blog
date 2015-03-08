@@ -20,7 +20,7 @@ So when we needed a beefy dedicated server to host stackoverflow.com, I naturall
 
 
 
-[![Powered By CrystalTech Web Hosting](http://blog.stackoverflow.com/wp-content/uploads/powered-by-crystaltech.png)](http://crystaltech.com/dedicated-windows.aspx?uid=101)
+[![Powered By CrystalTech Web Hosting](/blog/images/2008-04-28-our-dedicated-server/powered-by-crystaltech.png)](http://crystaltech.com/dedicated-windows.aspx?uid=101)
 
 
 
@@ -47,7 +47,7 @@ It's amazing [how cheap server hardware has gotten](http://www.codinghorror.com/
 
 
 
-![Stackoverflow server task manager](http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-server-task-manager.png)
+![Stackoverflow server task manager](/blog/images/2008-04-28-our-dedicated-server/stackoverflow-server-task-manager.png)
 
 
 

@@ -3,7 +3,6 @@ author: alex
 comments: true
 date: 2011-04-20 15:32:37+00:00
 layout: post
-hero: /blog/images/category/podcasts.jpg
 slug: podcast-88
 title: 'SE Podcast #01'
 wordpress_id: 7822
@@ -31,13 +30,13 @@ Welcome back to the first episode of the new Stack Exchange Podcast redux!  Jum
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/SNAG-0001-300x211.png)](http://blog.stackoverflow.com/wp-content/uploads/SNAG-0001.png)
+[![](/blog/images/2011-04-20-podcast-88/SNAG-0001-300x211.png)](/blog/images/2011-04-20-podcast-88/SNAG-0001.png)
 
 	
     * However, the recent stasis of the ratio not changing isn't due to civilian growth stopping, its that programmers are growing just as quickly.
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/SNAG-0002-300x208.png)](http://blog.stackoverflow.com/wp-content/uploads/SNAG-0002.png)
+[![](/blog/images/2011-04-20-podcast-88/SNAG-0002-300x208.png)](/blog/images/2011-04-20-podcast-88/SNAG-0002.png)
 
 	
     * Most interestingly, some of the "geekiest" sites (like Ubuntu, Math, Stats, Physics, TeX) have the highest percentage of "civilian" users.

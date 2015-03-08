@@ -16,11 +16,11 @@ We've had a [Craigslist-inspired post flagging system](http://blog.stackoverflow
 
 The concept is simple: if you are a registered user with at least 15 reputation, **when you see something bad happening on the site -- _flag it!_** That's why every post has a small flag link underneath it.
 
-![flag this post for serious problems or moderator attention](http://blog.stackoverflow.com/wp-content/uploads/flag-post-link.png)
+![flag this post for serious problems or moderator attention](/blog/images/2011-01-14-improved-flagging/flag-post-link.png)
 
 We felt the old flagging dialog was a bit too … intimidating. Flags are not to be taken lightly, yes, but they shouldn't be scary, either. So in our redesign, we tried to create **a kinder, gentler moderator flag dialog** -- one that explains typical flag scenarios in a bit more detail.
 
-![I am flagging this because...](http://blog.stackoverflow.com/wp-content/uploads/i-am-flagging-this-because1.png)
+![I am flagging this because...](/blog/images/2011-01-14-improved-flagging/i-am-flagging-this-because1.png)
 
 (the appearance of the flag dialog is highly context sensitive, and varies both based on the post and the reputation level of the user who clicked the flag link. So what you see when you click flag may differ slightly from what's pictured above.)
 

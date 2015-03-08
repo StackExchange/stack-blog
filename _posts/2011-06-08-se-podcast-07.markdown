@@ -3,7 +3,6 @@ author: alex
 comments: true
 date: 2011-06-08 23:10:48+00:00
 layout: post
-hero: /blog/images/category/podcasts.jpg
 slug: se-podcast-07
 title: 'SE Podcast #07'
 wordpress_id: 8375

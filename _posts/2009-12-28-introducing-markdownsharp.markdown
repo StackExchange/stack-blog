@@ -48,7 +48,7 @@ So, **I've released our C# implementation of Markdown under a proper open source
 
 
 
-[![markdown-sharp-logo](http://blog.stackoverflow.com/wp-content/uploads/markdown-sharp-logo.png)](http://code.google.com/p/markdownsharp/)
+[![markdown-sharp-logo](/blog/images/2009-12-28-introducing-markdownsharp/markdown-sharp-logo.png)](http://code.google.com/p/markdownsharp/)
 
 
 

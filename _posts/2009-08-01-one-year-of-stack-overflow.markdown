@@ -22,7 +22,7 @@ Which means we've been doing this thing _in public_ for a full year now -- it's 
 
 
 
-![i-hope-you-enjoy-your-birthday-infinitely](http://blog.stackoverflow.com/wp-content/uploads/i-hope-you-enjoy-your-birthday-infinitely.png)
+![i-hope-you-enjoy-your-birthday-infinitely](/blog/images/2009-08-01-one-year-of-stack-overflow/i-hope-you-enjoy-your-birthday-infinitely.png)
 
 
 

@@ -36,7 +36,7 @@ Part of this is our fault for not adapting the homepage to the massive amount of
 
 First, and most importantly, there is now a **no answers tab** on the unanswered page.
 
-![](http://blog.stackoverflow.com/wp-content/uploads/unanswered-no-answers-tab.png)
+![](/blog/images/2010-11-03-the-horror-of-no-answer-revival-and-necromancer/unanswered-no-answers-tab.png)
 
 It was already possible to find zero-answer questions through [the advanced search options](http://stackoverflow.com/search), but you had to know the syntax. Now you can just click the tab.
 
@@ -58,14 +58,14 @@ We've also introduced a new bronze badge, Revival, to complement the existing si
 <table >
 <tr >
 
-<td >![Revival badge (bronze)](http://blog.stackoverflow.com/wp-content/uploads/badge-revival.png)
+<td >![Revival badge (bronze)](/blog/images/2010-11-03-the-horror-of-no-answer-revival-and-necromancer/badge-revival.png)
 </td>
 
 <td >Answered more than 30 days later as first answer scoring 2 or more
 </td>
 </tr>
 
-<td >![Necromancer badge (silver)](http://blog.stackoverflow.com/wp-content/uploads/badge-necromancer.png)
+<td >![Necromancer badge (silver)](/blog/images/2010-11-03-the-horror-of-no-answer-revival-and-necromancer/badge-necromancer.png)
 </td>
 
 <td >

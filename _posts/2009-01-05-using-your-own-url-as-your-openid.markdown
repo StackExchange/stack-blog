@@ -46,7 +46,7 @@ First, [sign up for an OpenID](http://openid.net/get/) with the provider of your
 
 To enable your domain to act as a _delegate_ to the OpenID provider, you'll need to figure out what your OpenID identifier is. This is always an URL. To determine your Stack Exchange identifier, visit your profile page on [openid.stackexchange.com](http://openid.stackexchange.com) and look for the **Use your own URL to log in** link. Then click it!
 
-![](http://blog.stackoverflow.com/wp-content/uploads/stack-exchange-openid-delegation.png)
+![](/blog/images/2009-01-05-using-your-own-url-as-your-openid/stack-exchange-openid-delegation.png)
 
 This explains what you need to do. It's simple; just add two HTML header tags to your web page, like so:
 

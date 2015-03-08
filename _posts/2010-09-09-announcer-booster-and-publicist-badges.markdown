@@ -16,17 +16,17 @@ We just rolled out three new badges to encourage **sharing worthy questions**:
 
 <table >
 <tr >
-<td valign="top" >![announcer badge (bronze)](http://blog.stackoverflow.com/wp-content/uploads/announcer-badge.png)
+<td valign="top" >![announcer badge (bronze)](/blog/images/2010-09-09-announcer-booster-and-publicist-badges/announcer-badge.png)
 </td>
 <td valign="top" >Shared a link to a question that was visited by **25** unique IP addresses in **3** days
 </td></tr>
 <tr >
-<td valign="top" >![booster badge (silver)](http://blog.stackoverflow.com/wp-content/uploads/booster-badge.png)
+<td valign="top" >![booster badge (silver)](/blog/images/2010-09-09-announcer-booster-and-publicist-badges/booster-badge.png)
 </td>
 <td valign="top" >Shared a link to a question that was visited by **300** unique IP addresses in **4** days
 </td></tr>
 <tr >
-<td valign="top" >![publicist badge (gold)](http://blog.stackoverflow.com/wp-content/uploads/publicist-badge.png)
+<td valign="top" >![publicist badge (gold)](/blog/images/2010-09-09-announcer-booster-and-publicist-badges/publicist-badge.png)
 </td>
 <td valign="top" >Shared a link to a question that was visited by **1,000** unique IP addresses in **5** days
 </td></tr>
@@ -40,11 +40,11 @@ So how do you share questions? I mentioned [in an earlier post](http://blog.stac
 
 You can access the shorter URL form using the **twitter** and **facebook** sharing icons on public beta sites, or by right-clicking and copying the **link** conveniently provided under each question, on any site:
 
-![](http://blog.stackoverflow.com/wp-content/uploads/short-permalink-to-this-question.png)
+![](/blog/images/2010-09-09-announcer-booster-and-publicist-badges/short-permalink-to-this-question.png)
 
 To encourage this sort of sharing, there's a certain tiny percent chance a little reminder will appear on recent hot questions, or when upvoting questions that have reached a certain vote threshold:
 
-![](http://blog.stackoverflow.com/wp-content/uploads/share-a-link-to-this-hot-question.png)
+![](/blog/images/2010-09-09-announcer-booster-and-publicist-badges/share-a-link-to-this-hot-question.png)
 
 Don't worry -- these reminders are _very_ infrequent by design, and limited to public betas only. They also go away forever if you hold one of the badges.
 

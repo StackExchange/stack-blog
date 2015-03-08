@@ -20,7 +20,7 @@ We currently rent [two identical dedicated servers from CrystalTech](http://blog
 
 
 
-[![Powered By CrystalTech Web Hosting](http://blog.stackoverflow.com/wp-content/uploads/powered-by-crystaltech.png)](http://crystaltech.com/dedicated-windows.aspx?uid=101)
+[![Powered By CrystalTech Web Hosting](/blog/images/2008-12-10-server-hosting-rent-vs-buy/powered-by-crystaltech.png)](http://crystaltech.com/dedicated-windows.aspx?uid=101)
 
 
 
@@ -40,7 +40,7 @@ I'm currently looking at the [Lenovo ThinkServer RD120](http://www.buy.com/prod/
 
 
 
-![lenovo thinkserver rd120](http://blog.stackoverflow.com/wp-content/uploads/lenovo-thinkserver-rd120.jpg)
+![lenovo thinkserver rd120](/blog/images/2008-12-10-server-hosting-rent-vs-buy/lenovo-thinkserver-rd120.jpg)
 
 
 

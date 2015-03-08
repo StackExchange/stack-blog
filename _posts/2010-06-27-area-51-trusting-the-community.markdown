@@ -20,7 +20,7 @@ Creating an environment where people want to create great Q&A sites is much hard
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/Area-51-Banner1.png)](http://area51.stackexchange.com)
+[![](/blog/images/2010-06-27-area-51-trusting-the-community/Area-51-Banner1.png)](http://area51.stackexchange.com)
 
 
 

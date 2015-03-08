@@ -82,7 +82,7 @@ If you're unfamiliar, the [legalese hall of shame](http://www.partyofthefirstpar
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/legalese.jpg)](http://www.partyofthefirstpart.com/hallOfShame.html)
+[![](/blog/images/2010-06-08-guidelines-for-use-of-our-logo-and-name/legalese.jpg)](http://www.partyofthefirstpart.com/hallOfShame.html)
 
 
 

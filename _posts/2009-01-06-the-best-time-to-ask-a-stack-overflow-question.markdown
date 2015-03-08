@@ -30,7 +30,7 @@ I did a quick query on non-deleted revisions, grouped by hour of day GMT time. H
 
 
 
-![stack-overflow-revision-dates-by-hour](http://blog.stackoverflow.com/wp-content/uploads/stack-overflow-revision-dates-by-hour.png)
+![stack-overflow-revision-dates-by-hour](/blog/images/2009-01-06-the-best-time-to-ask-a-stack-overflow-question/stack-overflow-revision-dates-by-hour.png)
 
 
 

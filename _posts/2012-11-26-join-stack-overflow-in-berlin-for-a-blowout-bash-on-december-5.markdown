@@ -38,4 +38,4 @@ Hope to see you there!
 
 **Let us know you're coming - [RSVP by December 1](http://careers.stackoverflow.com/launch)**
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/de-Stack-Overflow-Careers-728x902.png)](http://careers.stackoverflow.com/launch)
+[![](/blog/images/2012-11-26-join-stack-overflow-in-berlin-for-a-blowout-bash-on-december-5/de-Stack-Overflow-Careers-728x902.png)](http://careers.stackoverflow.com/launch)

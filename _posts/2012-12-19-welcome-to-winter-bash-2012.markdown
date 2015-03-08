@@ -28,7 +28,7 @@ The response from that event was so positive, we decided to extend that to the _
 ## [Welcome to _Winter Bash 2012_!](http://winterba.sh/)
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/blog-image-1.png)](http://winterba.sh/)
+[![](/blog/images/2012-12-19-welcome-to-winter-bash-2012/blog-image-1.png)](http://winterba.sh/)
 
 
 
@@ -48,8 +48,8 @@ Each hat has different criteria to unlock it, and there are even some _secret ha
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/watson.png)
-![](http://blog.stackoverflow.com/wp-content/uploads/leaderboard.png)
+![](/blog/images/2012-12-19-welcome-to-winter-bash-2012/watson.png)
+![](/blog/images/2012-12-19-welcome-to-winter-bash-2012/leaderboard.png)
 
 
 
@@ -57,7 +57,7 @@ Hats show up all over the site, wherever your gravatar is shown (well, except fo
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/hats202.png)
+![](/blog/images/2012-12-19-welcome-to-winter-bash-2012/hats202.png)
 
 
 
@@ -65,7 +65,7 @@ You'll also get a notification when you earn a new item:
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/notice2.png)
+![](/blog/images/2012-12-19-welcome-to-winter-bash-2012/notice2.png)
 
 
 
@@ -73,7 +73,7 @@ For all those of you who [really hate hats](http://blog.stackoverflow.com/wp-con
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/popup4.png)
+![](/blog/images/2012-12-19-welcome-to-winter-bash-2012/popup4.png)
 
 
 

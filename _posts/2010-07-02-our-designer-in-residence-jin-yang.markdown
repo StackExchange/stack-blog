@@ -17,7 +17,7 @@ I'm pleased to announce we now have a full-time, bona fide designer on our team:
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/jin-yang.jpg)
+![](/blog/images/2010-07-02-our-designer-in-residence-jin-yang/jin-yang.jpg)
 
 
 
@@ -25,11 +25,11 @@ I worked with Jin a bit in constructing the [Super User](http://superuser.com) d
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/web-apps-private-beta-screenshot-small.png)](http://blog.stackoverflow.com/wp-content/uploads/web-apps-private-beta-screenshot.png)
+[![](/blog/images/2010-07-02-our-designer-in-residence-jin-yang/web-apps-private-beta-screenshot-small.png)](/blog/images/2010-07-02-our-designer-in-residence-jin-yang/web-apps-private-beta-screenshot.png)
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/web-apps-meta-private-beta-screenshot-small.png)](http://blog.stackoverflow.com/wp-content/uploads/web-apps-meta-private-beta-screenshot.png)
+[![](/blog/images/2010-07-02-our-designer-in-residence-jin-yang/web-apps-meta-private-beta-screenshot-small.png)](/blog/images/2010-07-02-our-designer-in-residence-jin-yang/web-apps-meta-private-beta-screenshot.png)
 
 
 

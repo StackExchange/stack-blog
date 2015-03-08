@@ -3,7 +3,6 @@ author: alex
 comments: true
 date: 2013-09-03 19:34:45+00:00
 layout: post
-hero: /blog/images/category/podcasts.jpg
 slug: podcast-52-we-didnt-need-headphones
 title: 'Podcast #52 - We Didn''t Need Headphones'
 wordpress_id: 13971

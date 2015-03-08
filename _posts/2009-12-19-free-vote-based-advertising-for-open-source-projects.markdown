@@ -20,7 +20,7 @@ Some say [Stack Overflow is now the largest programming site on the internet](ht
 
 
 
-[![daily-pageviews-alexa-graph](http://blog.stackoverflow.com/wp-content/uploads/daily-pageviews-alexa-graph.png)](http://www.alexa.com/siteinfo/stackoverflow.com)
+[![daily-pageviews-alexa-graph](/blog/images/2009-12-19-free-vote-based-advertising-for-open-source-projects/daily-pageviews-alexa-graph.png)](http://www.alexa.com/siteinfo/stackoverflow.com)
 
 
 
@@ -57,7 +57,7 @@ In other words, it goes directly from **this answer on the meta question**:
 
 
 
-![stack-overflow-open-source-ad-answer](http://blog.stackoverflow.com/wp-content/uploads/stack-overflow-open-source-ad-answer.png)
+![stack-overflow-open-source-ad-answer](/blog/images/2009-12-19-free-vote-based-advertising-for-open-source-projects/stack-overflow-open-source-ad-answer.png)
 
 
 
@@ -65,7 +65,7 @@ To an advertisement to your fellow programmers on most pages of the Stack Overfl
 
 
 
-![stack-overflow-open-source-ad-live](http://blog.stackoverflow.com/wp-content/uploads/stack-overflow-open-source-ad-live.png)
+![stack-overflow-open-source-ad-live](/blog/images/2009-12-19-free-vote-based-advertising-for-open-source-projects/stack-overflow-open-source-ad-live.png)
 
 
 

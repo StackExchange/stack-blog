@@ -1,15 +1,23 @@
-import os
+import os, re
 rootdir = '_posts'
 
 for subdir, dirs, files in os.walk(rootdir):
     for file in files:
         filename = os.path.join(subdir, file)
-        if 'podcast' in filename:
-        	f = open(filename, "r")
-        	contents = f.readlines()
-        	f.close()
-        	contents.insert(5, 'hero: /blog/images/category/podcasts.jpg\n')
-        	f = open(filename, "w")
-        	contents = "".join(contents)
-        	f.write(contents)
-        	f.close()
+
+    	f = open(filename, "r")
+    	contents = f.readlines()
+    	f.close()
+
+    	# Find first image
+    	for key, line in enumerate(contents):
+    		src = re.search('\!\[.*\]\((.*)\)', line)
+    		if src:
+    			folder = file.replace(".markdown", "")
+    			x = line.replace("http://blog.stackoverflow.com/wp-content/uploads", str("/blog/images/" + folder))
+    			contents[key] = x
+
+    	f = open(filename, "w")
+    	contents = "".join(contents)
+    	f.write(contents)
+    	f.close()

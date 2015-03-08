@@ -16,7 +16,7 @@ Stack Exchange is starting to look like a Ponzi scheme. You start by creating [t
 
 That's why it was quite the _coup_ when Susan Stewart was looking for a new career path. You may know Susan as [HedgeMage](http://parenting.stackexchange.com/users/26/hedgemage), moderator of the [Parenting Stack Exchange](http://parenting.stackexchange.com):
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/HedgeMage.png)](http://parenting.stackexchange.com/users/26/hedgemage)
+[![](/blog/images/2011-06-21-welcome-valued-associate-susan-stewart/HedgeMage.png)](http://parenting.stackexchange.com/users/26/hedgemage)
 
 Susan is now donning the title of **Community Manager** on our Stack Exchange team. Welcome, Susan!
 
@@ -24,7 +24,7 @@ Susan works worked as a Drupal hacker from Indianapolis, Indiana with a passion 
 
 Susan dislikes writing about herself almost as much as having her picture taken, so this is a rare opportunity to see Susan out from behind her [Binary Redneck](http://www.binaryredneck.net) persona: _"One part hacker, one part farmer."_
 
-![](http://blog.stackoverflow.com/wp-content/uploads/Susan_Stewart.png)
+![](/blog/images/2011-06-21-welcome-valued-associate-susan-stewart/Susan_Stewart.png)
 
 I'm excited to have Susan join our team. She aced the interview to put it mildly. Her unique insight was already well-known to us, and after talking to her, there was no doubt that Susan would make a great addition to our team. Not many people love their job enough to log in on a Sunday night just to see what's up. I've already caught her running down our virtual halls proclaiming — and this is a direct quote:
 

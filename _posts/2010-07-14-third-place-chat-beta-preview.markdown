@@ -31,7 +31,7 @@ For the next 3 days, we'll be running a public beta sneak preview of our propose
 
 Because you not only need a place to have **intelligent Q&A; about bacon**, you need a place to talk _about_ the place, and a less formal "third place" to collaborate in real time with the fellow members of your community.
 
-![](http://blog.stackoverflow.com/wp-content/uploads/bacon-tuxedos-lr.jpg)
+![](/blog/images/2010-07-14-third-place-chat-beta-preview/bacon-tuxedos-lr.jpg)
 
 We already have the per-site metas, which work great, but we don't _quite_ have that third place ready yet. But we'd like to ... soon. That's where you come in.
 

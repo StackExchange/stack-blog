@@ -3,7 +3,6 @@ author: alex
 comments: true
 date: 2011-07-06 19:14:41+00:00
 layout: post
-hero: /blog/images/category/podcasts.jpg
 slug: se-podcast-11-2
 title: 'SE Podcast #11 - Rory Blyth'
 wordpress_id: 8655
