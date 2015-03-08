@@ -1,5 +1,5 @@
 ---
-author: admin
+author: jeffatwood
 comments: true
 date: 2008-07-30 17:54:32+00:00
 excerpt: Joel and Jeff discuss the perils of programmer design, the purpose of a private
