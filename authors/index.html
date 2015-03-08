@@ -3,8 +3,11 @@ layout: default
 ---
 <div class="inner-container padded media-padded">
 	<h1 class="h3">Contributors</h1>
-	<div class="authors -row">
-		{% for author in site.authors %}
+	{% for author in site.authors %}
+		{% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+		{% if thecycle == 'odd' %}
+		<div class="authors -row">
+		{% endif %}
 			<div class="author-container large -col6">
 			  	<a href="{{ site.baseurl}}/authors/{{ author.id }}"><img src="{{ author.avatar }}" class="avatar"></a>
 			  	<div class="info">
@@ -13,6 +16,8 @@ layout: default
 			  		<h3 class="h5 twitter"><a href="http://twitter.com/{{ author.twitter }}">@{{ author.twitter }}</a> &bull; <a href="{{ author.website }}">{{ author.website }}</a></h3>
 			  	</div>
 			</div>
-		{% endfor %}
-	</div>
+		{% if thecycle == 'even' %}
+		</div>
+		{% endif %}
+	{% endfor %}
 </div>
