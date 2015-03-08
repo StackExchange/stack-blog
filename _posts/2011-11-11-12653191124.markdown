@@ -8,6 +8,7 @@ slug: '12653191124'
 title: Gotta have a hook
 wordpress_id: 10542
 categories:
+- company
 - chaos
 post_format:
 - Aside

@@ -7,6 +7,7 @@ slug: five-years-ago-stack-overflow-launched-then-a-miracle-occurred
 title: Five years ago, Stack Overflow launched. Then, a miracle occurred.
 wordpress_id: 13995
 categories:
+- company
 - announcement
 - stackexchange
 - stackoverflow

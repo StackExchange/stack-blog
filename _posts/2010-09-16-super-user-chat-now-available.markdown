@@ -7,6 +7,7 @@ slug: super-user-chat-now-available
 title: Super User Chat Now Available
 wordpress_id: 5131
 categories:
+- company
 - stackexchange
 - superuser.com
 ---

@@ -7,6 +7,7 @@ slug: careers-2-0-launches
 title: Careers 2.0 Launches
 wordpress_id: 7341
 categories:
+- company
 - careers
 ---
 

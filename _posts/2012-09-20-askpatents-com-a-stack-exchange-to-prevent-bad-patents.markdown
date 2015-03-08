@@ -7,6 +7,7 @@ slug: askpatents-com-a-stack-exchange-to-prevent-bad-patents
 title: 'AskPatents.com: A Stack Exchange To Prevent Bad Patents'
 wordpress_id: 12251
 categories:
+- company
 - announcement
 - stackexchange
 ---

@@ -7,6 +7,7 @@ slug: se-podcast-31-goodbye-jeff
 title: 'SE Podcast #31 - Goodbye Jeff'
 wordpress_id: 11260
 categories:
+- company
 - podcasts
 ---
 

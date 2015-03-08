@@ -7,6 +7,7 @@ slug: pruning-season
 title: Pruning season
 wordpress_id: 5110
 categories:
+- company
 - Area51
 - stackexchange
 ---

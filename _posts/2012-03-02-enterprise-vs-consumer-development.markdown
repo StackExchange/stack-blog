@@ -7,6 +7,7 @@ slug: enterprise-vs-consumer-development
 title: 'Enterprise vs Consumer: Product Development at Careers 2.0'
 wordpress_id: 11185
 categories:
+- company
 - background
 - careers
 ---

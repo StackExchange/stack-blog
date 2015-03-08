@@ -7,6 +7,7 @@ slug: own-your-community-2
 title: Own Your Community
 wordpress_id: 10462
 categories:
+- company
 - community
 ---
 

@@ -7,6 +7,7 @@ slug: linking-duplicate-questions
 title: Linking Duplicate Questions
 wordpress_id: 1316
 categories:
+- company
 - community
 - design
 ---

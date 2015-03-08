@@ -7,6 +7,7 @@ slug: stack-overflow-on-herding-code
 title: Stack Overflow on Herding Code
 wordpress_id: 90
 categories:
+- company
 - podcasts
 ---
 

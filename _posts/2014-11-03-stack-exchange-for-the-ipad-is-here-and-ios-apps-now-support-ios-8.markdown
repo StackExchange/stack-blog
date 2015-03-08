@@ -7,6 +7,7 @@ slug: stack-exchange-for-the-ipad-is-here-and-ios-apps-now-support-ios-8
 title: Stack Exchange for the iPad is here - and iOS apps now support iOS 8
 wordpress_id: 14850
 categories:
+- company
 - announcement
 - mobile
 ---

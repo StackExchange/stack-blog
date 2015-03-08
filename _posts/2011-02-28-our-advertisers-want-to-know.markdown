@@ -7,6 +7,7 @@ slug: our-advertisers-want-to-know
 title: Our advertisers want to know...
 wordpress_id: 7384
 categories:
+- company
 - background
 ---
 

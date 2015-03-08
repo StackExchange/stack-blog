@@ -7,6 +7,7 @@ slug: stack-overflow-annual-survey
 title: Stack Overflow Annual Survey
 wordpress_id: 6433
 categories:
+- company
 - announcement
 - survey
 ---

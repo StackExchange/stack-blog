@@ -7,6 +7,7 @@ slug: moderator-messages
 title: Moderator Messages
 wordpress_id: 7074
 categories:
+- company
 - community
 - moderators
 - stackexchange

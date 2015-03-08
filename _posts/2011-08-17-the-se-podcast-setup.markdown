@@ -7,6 +7,7 @@ slug: the-se-podcast-setup
 title: The SE Podcast Setup
 wordpress_id: 9049
 categories:
+- company
 - podcasts
 ---
 

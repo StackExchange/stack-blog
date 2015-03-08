@@ -7,6 +7,7 @@ slug: stack-overflow-search-now-61-less-crappy
 title: Stack Overflow Search - Now 61% Less Crappy
 wordpress_id: 1719
 categories:
+- company
 - design
 ---
 

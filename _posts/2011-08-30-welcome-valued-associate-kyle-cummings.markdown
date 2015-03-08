@@ -7,6 +7,7 @@ slug: welcome-valued-associate-kyle-cummings
 title: Welcome Valued Associate Kyle Cummings
 wordpress_id: 9659
 categories:
+- company
 - background
 ---
 

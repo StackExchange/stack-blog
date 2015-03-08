@@ -7,6 +7,7 @@ slug: qa-is-hard-lets-go-shopping
 title: Q&A is Hard, Let's Go Shopping!
 wordpress_id: 6146
 categories:
+- company
 - community
 - design
 - reference

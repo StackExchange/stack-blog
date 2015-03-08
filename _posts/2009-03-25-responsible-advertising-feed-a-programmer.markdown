@@ -7,6 +7,7 @@ slug: responsible-advertising-feed-a-programmer
 title: 'Responsible Advertising: Feed a Programmer'
 wordpress_id: 913
 categories:
+- company
 - community
 - design
 ---

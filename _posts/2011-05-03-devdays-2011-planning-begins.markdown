@@ -7,6 +7,7 @@ slug: devdays-2011-planning-begins
 title: DevDays 2011 planning begins
 wordpress_id: 7992
 categories:
+- company
 - announcement
 - community
 - devdays

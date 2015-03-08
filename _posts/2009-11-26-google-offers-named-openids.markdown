@@ -7,6 +7,7 @@ slug: google-offers-named-openids
 title: Google Offers Named OpenIDs
 wordpress_id: 2197
 categories:
+- company
 - background
 - community
 ---

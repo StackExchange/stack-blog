@@ -7,6 +7,7 @@ slug: can-stack-exchange-capitalize-on-hot-trends
 title: Can Stack Exchange Capitalize on Hot Trends?
 wordpress_id: 11795
 categories:
+- company
 - chaos
 - promotion
 - stackexchange

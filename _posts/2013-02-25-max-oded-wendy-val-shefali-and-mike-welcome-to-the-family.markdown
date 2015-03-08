@@ -7,6 +7,7 @@ slug: max-oded-wendy-val-shefali-and-mike-welcome-to-the-family
 title: 'Max, Oded, Wendy, Val, Shefali, and Mike: Welcome to the Family!'
 wordpress_id: 13169
 categories:
+- company
 - background
 ---
 

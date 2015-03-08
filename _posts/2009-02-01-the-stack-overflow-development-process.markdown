@@ -7,6 +7,7 @@ slug: the-stack-overflow-development-process
 title: The Stack Overflow Development Process
 wordpress_id: 593
 categories:
+- company
 - background
 ---
 

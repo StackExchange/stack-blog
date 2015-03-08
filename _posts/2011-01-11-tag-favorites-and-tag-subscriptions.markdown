@@ -7,6 +7,7 @@ slug: tag-favorites-and-tag-subscriptions
 title: Tag Favorites and Tag Subscriptions
 wordpress_id: 6668
 categories:
+- company
 - community
 - design
 ---

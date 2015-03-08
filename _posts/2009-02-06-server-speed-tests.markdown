@@ -7,6 +7,7 @@ slug: server-speed-tests
 title: Server Speed Tests
 wordpress_id: 604
 categories:
+- company
 - server
 ---
 

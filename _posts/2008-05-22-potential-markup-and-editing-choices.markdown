@@ -7,6 +7,7 @@ slug: potential-markup-and-editing-choices
 title: Potential Markup and Editing Choices
 wordpress_id: 44
 categories:
+- company
 - design
 ---
 

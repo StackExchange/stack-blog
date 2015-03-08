@@ -7,6 +7,7 @@ slug: a-bevy-of-new-badges
 title: A Bevy of New Badges
 wordpress_id: 9602
 categories:
+- company
 - community
 - design
 ---

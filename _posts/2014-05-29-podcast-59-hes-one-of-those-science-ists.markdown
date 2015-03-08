@@ -7,6 +7,7 @@ slug: podcast-59-hes-one-of-those-science-ists
 title: 'Podcast #59 - The Decline and Fall of Stack Overflow'
 wordpress_id: 14722
 categories:
+- company
 - podcasts
 ---
 

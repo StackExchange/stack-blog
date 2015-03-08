@@ -7,6 +7,7 @@ slug: stack-overflow-chat-now-live
 title: Stack Overflow Chat Now Live
 wordpress_id: 5680
 categories:
+- company
 - community
 - design
 ---

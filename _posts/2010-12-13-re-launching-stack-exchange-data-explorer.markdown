@@ -7,6 +7,7 @@ slug: re-launching-stack-exchange-data-explorer
 title: Re-Launching Stack Exchange Data Explorer
 wordpress_id: 6336
 categories:
+- company
 - cc-wiki-dump
 - community
 - stackexchange

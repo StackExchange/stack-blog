@@ -7,6 +7,7 @@ slug: announcing-our-series-a
 title: Announcing the Stack Overflow Series A Financing
 wordpress_id: 3038
 categories:
+- company
 - announcement
 - community
 ---

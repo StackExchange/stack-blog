@@ -7,6 +7,7 @@ slug: stack-overflow-beta-design
 title: Stack Overflow Beta Design
 wordpress_id: 73
 categories:
+- company
 - Beta
 - design
 ---

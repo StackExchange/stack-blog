@@ -7,6 +7,7 @@ slug: gorilla-vs-shark
 title: Gorilla vs. Shark
 wordpress_id: 9324
 categories:
+- company
 - community
 - stackexchange
 ---

@@ -7,6 +7,7 @@ slug: new-uservoice-moderator
 title: New UserVoice Moderators
 wordpress_id: 193
 categories:
+- company
 - community
 ---
 

@@ -7,6 +7,7 @@ slug: se-podcast-04
 title: 'SE Podcast #04'
 wordpress_id: 8081
 categories:
+- company
 - podcasts
 ---
 

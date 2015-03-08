@@ -7,6 +7,7 @@ slug: blekko-and-stack-overflow
 title: Blekko and Stack Overflow
 wordpress_id: 7222
 categories:
+- company
 - background
 ---
 

@@ -7,6 +7,7 @@ slug: our-dedicated-server
 title: Our Dedicated Server
 wordpress_id: 12
 categories:
+- company
 - server
 ---
 

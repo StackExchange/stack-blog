@@ -7,6 +7,7 @@ slug: free-vote-based-advertising-launches-second-round
 title: Free Vote-Based Advertising Launches Second Round
 wordpress_id: 3558
 categories:
+- company
 - community
 ---
 

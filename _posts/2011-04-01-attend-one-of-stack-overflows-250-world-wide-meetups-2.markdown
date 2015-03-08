@@ -7,6 +7,7 @@ slug: attend-one-of-stack-overflows-250-world-wide-meetups-2
 title: Attend One of Stack Overflow's 250+ World-Wide MeetUps
 wordpress_id: 7603
 categories:
+- company
 - announcement
 - community
 ---

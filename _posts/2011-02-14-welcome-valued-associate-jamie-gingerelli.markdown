@@ -7,6 +7,7 @@ slug: welcome-valued-associate-jamie-gingerelli
 title: Welcome Valued Associate Jamie Gingerelli
 wordpress_id: 7157
 categories:
+- company
 - background
 ---
 

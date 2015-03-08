@@ -7,6 +7,7 @@ slug: yet-another-reason-to-dislike-france
 title: Yet Another Reason to Dislike France
 wordpress_id: 1894
 categories:
+- company
 - podcasts
 ---
 

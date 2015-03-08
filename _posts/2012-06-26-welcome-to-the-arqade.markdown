@@ -7,6 +7,7 @@ slug: welcome-to-the-arqade
 title: 'Welcome to the Arqade: Rebranding a Successful Site'
 wordpress_id: 11878
 categories:
+- company
 - announcement
 - chaos
 - stackexchange

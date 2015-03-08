@@ -7,6 +7,7 @@ slug: howtogeek-and-stack-overflow
 title: How-To Geek and Stack Overflow
 wordpress_id: 1747
 categories:
+- company
 - community
 - superuser.com
 ---

@@ -7,6 +7,7 @@ slug: podcast-40-2
 title: 'Podcast #40 - Random Musings (Plus a Surprise Guest)'
 wordpress_id: 12912
 categories:
+- company
 - podcasts
 ---
 

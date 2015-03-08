@@ -7,6 +7,7 @@ slug: changes-to-stack-exchange
 title: Changes to Stack Exchange
 wordpress_id: 2935
 categories:
+- company
 - stackexchange
 ---
 

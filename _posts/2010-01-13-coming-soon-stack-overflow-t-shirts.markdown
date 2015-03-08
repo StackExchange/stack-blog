@@ -7,6 +7,7 @@ slug: coming-soon-stack-overflow-t-shirts
 title: 'Coming Soon: Stack Overflow T-Shirts'
 wordpress_id: 2477
 categories:
+- company
 - background
 - community
 ---

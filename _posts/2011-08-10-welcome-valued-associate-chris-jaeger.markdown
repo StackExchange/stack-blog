@@ -7,6 +7,7 @@ slug: welcome-valued-associate-chris-jaeger
 title: Welcome Valued Associate Chris Jaeger
 wordpress_id: 9242
 categories:
+- company
 - background
 - community
 ---

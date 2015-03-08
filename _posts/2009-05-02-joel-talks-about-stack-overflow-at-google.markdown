@@ -7,6 +7,7 @@ slug: joel-talks-about-stack-overflow-at-google
 title: Joel Talks About Stack Overflow at Google
 wordpress_id: 1204
 categories:
+- company
 - background
 - community
 ---

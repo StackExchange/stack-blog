@@ -7,6 +7,7 @@ slug: stack-overflow-gives-back-2010
 title: Stack Overflow Gives Back 2010
 wordpress_id: 6526
 categories:
+- company
 - background
 ---
 

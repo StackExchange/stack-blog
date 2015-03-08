@@ -7,6 +7,7 @@ slug: expressing-your-tag-preferences
 title: Expressing Your Tag Preferences
 wordpress_id: 134
 categories:
+- company
 - design
 ---
 

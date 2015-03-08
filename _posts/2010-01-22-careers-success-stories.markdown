@@ -7,6 +7,7 @@ slug: careers-success-stories
 title: Careers Success Stories
 wordpress_id: 2629
 categories:
+- company
 - careers
 ---
 

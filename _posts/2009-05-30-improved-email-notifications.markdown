@@ -7,6 +7,7 @@ slug: improved-email-notifications
 title: Improved Email Notifications
 wordpress_id: 1363
 categories:
+- company
 - design
 ---
 

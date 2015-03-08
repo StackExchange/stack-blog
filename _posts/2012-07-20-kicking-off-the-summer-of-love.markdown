@@ -7,6 +7,7 @@ slug: kicking-off-the-summer-of-love
 title: Kicking off the Summer of Love
 wordpress_id: 11931
 categories:
+- company
 - announcement
 - community
 - stackexchange

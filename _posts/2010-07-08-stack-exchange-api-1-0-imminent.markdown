@@ -7,6 +7,7 @@ slug: stack-exchange-api-1-0-imminent
 title: Stack Exchange API 1.0 Imminent
 wordpress_id: 4022
 categories:
+- company
 - API
 - stackexchange
 ---

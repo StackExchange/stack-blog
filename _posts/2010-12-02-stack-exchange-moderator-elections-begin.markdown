@@ -7,6 +7,7 @@ slug: stack-exchange-moderator-elections-begin
 title: Stack Exchange Moderator Elections Begin
 wordpress_id: 6225
 categories:
+- company
 - moderators
 - stackexchange
 ---

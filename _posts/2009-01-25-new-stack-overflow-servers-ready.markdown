@@ -7,6 +7,7 @@ slug: new-stack-overflow-servers-ready
 title: New Stack Overflow Servers Ready
 wordpress_id: 493
 categories:
+- company
 - server
 ---
 

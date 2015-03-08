@@ -7,6 +7,7 @@ slug: stack-overflow-data-visualization-contest
 title: Stack Overflow Data Visualization Contest
 wordpress_id: 12355
 categories:
+- company
 - announcement
 - stackoverflow
 ---

@@ -7,6 +7,7 @@ slug: se-podcast-11-2
 title: 'SE Podcast #11 - Rory Blyth'
 wordpress_id: 8655
 categories:
+- company
 - podcasts
 ---
 

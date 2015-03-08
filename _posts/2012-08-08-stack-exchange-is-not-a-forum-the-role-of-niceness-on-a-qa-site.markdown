@@ -7,6 +7,7 @@ slug: stack-exchange-is-not-a-forum-the-role-of-niceness-on-a-qa-site
 title: 'Stack Exchange is not a forum: the role of “niceness” on a Q&A site'
 wordpress_id: 12072
 categories:
+- company
 - community
 - stackexchange
 ---

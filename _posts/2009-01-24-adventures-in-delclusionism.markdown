@@ -7,6 +7,7 @@ slug: adventures-in-delclusionism
 title: Adventures in Delclusionism
 wordpress_id: 474
 categories:
+- company
 - design
 ---
 

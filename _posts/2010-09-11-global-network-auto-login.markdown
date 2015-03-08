@@ -7,6 +7,7 @@ slug: global-network-auto-login
 title: Global Network Auto-Login
 wordpress_id: 5075
 categories:
+- company
 - community
 - design
 - serverfault.com

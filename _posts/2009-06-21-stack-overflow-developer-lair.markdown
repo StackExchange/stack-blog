@@ -7,6 +7,7 @@ slug: stack-overflow-developer-lair
 title: Stack Overflow Developer Lair
 wordpress_id: 1504
 categories:
+- company
 - background
 ---
 

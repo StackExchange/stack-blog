@@ -7,6 +7,7 @@ slug: podcast-60-are-we-that-predictable
 title: 'Podcast #60: Are We That Predictable?'
 wordpress_id: 14732
 categories:
+- company
 - podcasts
 ---
 

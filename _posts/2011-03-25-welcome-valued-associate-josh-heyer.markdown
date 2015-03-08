@@ -7,6 +7,7 @@ slug: welcome-valued-associate-josh-heyer
 title: Welcome Valued Associate Josh Heyer
 wordpress_id: 7523
 categories:
+- company
 - background
 - community
 ---

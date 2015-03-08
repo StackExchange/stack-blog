@@ -7,6 +7,7 @@ slug: area-51-first-public-beta
 title: 'Area 51: First Public Beta'
 wordpress_id: 3991
 categories:
+- company
 - Area51
 - community
 ---

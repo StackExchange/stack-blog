@@ -7,6 +7,7 @@ slug: stack-overflow-podcast-bingo
 title: Stack Overflow Podcast Bingo
 wordpress_id: 882
 categories:
+- company
 - podcasts
 ---
 

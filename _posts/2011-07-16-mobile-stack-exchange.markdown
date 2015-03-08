@@ -7,6 +7,7 @@ slug: mobile-stack-exchange
 title: Mobile Stack Exchange
 wordpress_id: 8745
 categories:
+- company
 - community
 - design
 - stackexchange

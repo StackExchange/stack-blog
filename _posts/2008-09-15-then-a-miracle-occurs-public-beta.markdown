@@ -7,6 +7,7 @@ slug: then-a-miracle-occurs-public-beta
 title: Then a Miracle Occurs - Public Beta
 wordpress_id: 98
 categories:
+- company
 - Beta
 ---
 

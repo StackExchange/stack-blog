@@ -7,6 +7,7 @@ slug: is-it-ok-to-require-javascript
 title: Is It OK to Require JavaScript?
 wordpress_id: 50
 categories:
+- company
 - design
 ---
 

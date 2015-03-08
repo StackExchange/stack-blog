@@ -7,6 +7,7 @@ slug: week-2-of-the-summer-of-love-researching-comments
 title: 'Week 2 of the Summer of Love: Researching Comments'
 wordpress_id: 11949
 categories:
+- company
 - community
 - stackoverflow
 ---

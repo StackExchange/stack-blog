@@ -7,6 +7,7 @@ slug: database-upgrade
 title: Database Upgrade
 wordpress_id: 5909
 categories:
+- company
 - server
 ---
 

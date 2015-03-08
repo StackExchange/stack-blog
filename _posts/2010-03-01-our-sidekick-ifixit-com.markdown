@@ -7,6 +7,7 @@ slug: our-sidekick-ifixit-com
 title: Our Sidekick, iFixit.com
 wordpress_id: 2758
 categories:
+- company
 - background
 ---
 

@@ -7,6 +7,7 @@ slug: comments-top-n-shown
 title: 'Comments: Top n Shown'
 wordpress_id: 1119
 categories:
+- company
 - community
 - design
 ---

@@ -7,6 +7,7 @@ slug: stack-exchange-api-contest
 title: Stack Exchange API Contest
 wordpress_id: 3277
 categories:
+- company
 - API
 - community
 ---

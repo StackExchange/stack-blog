@@ -7,6 +7,7 @@ slug: tuesday-outage-its-raid-tastic
 title: 'Tuesday Outage: It''s RAID-tastic!'
 wordpress_id: 925
 categories:
+- company
 - server
 ---
 

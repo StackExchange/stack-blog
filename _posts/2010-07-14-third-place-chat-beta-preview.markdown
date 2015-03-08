@@ -7,6 +7,7 @@ slug: third-place-chat-beta-preview
 title: Third Place Chat Beta Preview
 wordpress_id: 4174
 categories:
+- company
 - Beta
 - community
 - stackexchange

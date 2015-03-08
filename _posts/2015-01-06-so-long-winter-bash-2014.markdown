@@ -7,6 +7,7 @@ slug: so-long-winter-bash-2014
 title: So long Winter Bash 2014
 wordpress_id: 15097
 categories:
+- company
 - announcement
 - stackexchange
 ---

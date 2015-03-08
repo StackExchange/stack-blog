@@ -7,6 +7,7 @@ slug: customizing-stackexchange-com
 title: Customizing stackexchange.com
 wordpress_id: 4982
 categories:
+- company
 - stackexchange
 ---
 

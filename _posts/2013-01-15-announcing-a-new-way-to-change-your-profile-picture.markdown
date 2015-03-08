@@ -7,6 +7,7 @@ slug: announcing-a-new-way-to-change-your-profile-picture
 title: Announcing a new way to change your profile picture
 wordpress_id: 12920
 categories:
+- company
 - announcement
 ---
 

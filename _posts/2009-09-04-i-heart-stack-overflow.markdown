@@ -7,6 +7,7 @@ slug: i-heart-stack-overflow
 title: I [heart] Stack Overflow
 wordpress_id: 1923
 categories:
+- company
 - background
 - community
 ---

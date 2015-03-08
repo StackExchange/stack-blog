@@ -7,6 +7,7 @@ slug: careers-2-0-export-and-apply-with-your-profile
 title: 'Careers 2.0: Export And Apply With Your Profile'
 wordpress_id: 9387
 categories:
+- company
 - careers
 ---
 

@@ -7,6 +7,7 @@ slug: stack-exchange-team-at-mix-11
 title: Stack Exchange Team at MIX 11
 wordpress_id: 8145
 categories:
+- company
 - background
 ---
 

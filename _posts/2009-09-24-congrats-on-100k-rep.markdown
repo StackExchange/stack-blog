@@ -7,6 +7,7 @@ slug: congrats-on-100k-rep
 title: Congrats on 100k Rep
 wordpress_id: 1977
 categories:
+- company
 - background
 - community
 ---

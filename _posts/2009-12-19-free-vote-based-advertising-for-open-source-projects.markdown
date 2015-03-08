@@ -7,6 +7,7 @@ slug: free-vote-based-advertising-for-open-source-projects
 title: Free Vote-Based Advertising for Open Source Projects
 wordpress_id: 2355
 categories:
+- company
 - community
 ---
 

@@ -7,6 +7,7 @@ slug: our-first-area-51-site-goes-public
 title: Our First Area 51 Site Goes Public
 wordpress_id: 5307
 categories:
+- company
 - stackexchange
 ---
 

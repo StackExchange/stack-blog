@@ -7,6 +7,7 @@ slug: migrate-questions-between-websites
 title: Migrate Questions Between Websites
 wordpress_id: 1649
 categories:
+- company
 - design
 - serverfault.com
 - superuser.com

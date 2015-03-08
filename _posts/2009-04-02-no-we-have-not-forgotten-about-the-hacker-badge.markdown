@@ -7,6 +7,7 @@ slug: no-we-have-not-forgotten-about-the-hacker-badge
 title: No, We Have Not Forgotten About the Hacker Badge
 wordpress_id: 944
 categories:
+- company
 - community
 - design
 ---

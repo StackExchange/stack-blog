@@ -7,6 +7,7 @@ slug: podcast-59
 title: 'Podcast #59'
 wordpress_id: 1512
 categories:
+- company
 - podcasts
 ---
 

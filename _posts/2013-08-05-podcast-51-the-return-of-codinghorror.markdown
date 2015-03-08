@@ -7,6 +7,7 @@ slug: podcast-51-the-return-of-codinghorror
 title: 'Podcast #51 - The Return of Coding Horror'
 wordpress_id: 13889
 categories:
+- company
 - podcasts
 ---
 

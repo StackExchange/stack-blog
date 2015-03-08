@@ -7,6 +7,7 @@ slug: creative-commons-data-dump-jan-11
 title: Creative Commons Data Dump Jan '11
 wordpress_id: 6817
 categories:
+- company
 - cc-wiki-dump
 ---
 

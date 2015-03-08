@@ -7,6 +7,7 @@ slug: podcast-81
 title: 'Podcast #81'
 wordpress_id: 2670
 categories:
+- company
 - podcasts
 ---
 

@@ -7,6 +7,7 @@ slug: welcome-valued-associate-susan-stewart
 title: Welcome Valued Associate Susan Stewart
 wordpress_id: 8508
 categories:
+- company
 - background
 - community
 ---

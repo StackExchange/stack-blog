@@ -7,6 +7,7 @@ slug: joel-on-this-week-in-startups
 title: Joel on This Week in Startups
 wordpress_id: 3168
 categories:
+- company
 - background
 - stackexchange
 ---

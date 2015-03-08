@@ -7,6 +7,7 @@ slug: stack-overflow-in-japanese
 title: Stack Overflowへようこそ
 wordpress_id: 15036
 categories:
+- company
 - announcement
 - internationalization
 - stackoverflow

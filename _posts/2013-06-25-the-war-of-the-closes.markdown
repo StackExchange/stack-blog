@@ -7,6 +7,7 @@ slug: the-war-of-the-closes
 title: 'The War of the Closes '
 wordpress_id: 13438
 categories:
+- company
 - announcement
 ---
 

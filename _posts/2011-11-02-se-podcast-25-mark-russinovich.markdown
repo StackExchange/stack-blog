@@ -7,6 +7,7 @@ slug: se-podcast-25-mark-russinovich
 title: 'SE Podcast #25 - Mark Russinovich'
 wordpress_id: 10095
 categories:
+- company
 - podcasts
 ---
 

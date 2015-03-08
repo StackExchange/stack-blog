@@ -7,6 +7,7 @@ slug: stack-exchange-api-v2-0-no-longer-beta
 title: Stack Exchange API V2.0 No Longer Beta
 wordpress_id: 10936
 categories:
+- company
 - API
 ---
 

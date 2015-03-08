@@ -7,6 +7,7 @@ slug: apptivate-ms-a-windows-8-app-development-contest
 title: 'Apptivate.ms: A Windows 8 App Development Contest'
 wordpress_id: 12274
 categories:
+- company
 - announcement
 - promotion
 ---

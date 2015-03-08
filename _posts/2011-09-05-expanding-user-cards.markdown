@@ -7,6 +7,7 @@ slug: expanding-user-cards
 title: Expanding User Cards
 wordpress_id: 9726
 categories:
+- company
 - community
 - design
 ---

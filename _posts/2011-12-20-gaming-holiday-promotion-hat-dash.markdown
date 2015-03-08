@@ -7,6 +7,7 @@ slug: gaming-holiday-promotion-hat-dash
 title: 'Gaming Holiday Promotion: Hat Dash!'
 wordpress_id: 10477
 categories:
+- company
 - promotion
 - stackexchange
 ---

@@ -7,6 +7,7 @@ slug: welcome-stack-overflow-valued-associate-00003
 title: 'Welcome Stack Overflow Valued Associate #00003'
 wordpress_id: 1338
 categories:
+- company
 - background
 ---
 

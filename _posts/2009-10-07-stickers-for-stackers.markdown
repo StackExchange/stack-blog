@@ -7,6 +7,7 @@ slug: stickers-for-stackers
 title: Stickers for Stackers
 wordpress_id: 2015
 categories:
+- company
 - background
 - community
 ---

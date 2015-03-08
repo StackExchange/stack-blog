@@ -7,6 +7,7 @@ slug: inline-comment-and-post-markdown-help
 title: Inline Comment and Post Markdown Help
 wordpress_id: 7965
 categories:
+- company
 - design
 - stackexchange
 ---

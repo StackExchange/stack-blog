@@ -7,6 +7,7 @@ slug: stack-overflow-where-we-hate-fun
 title: 'Stack Overflow: Where We Hate Fun'
 wordpress_id: 2434
 categories:
+- company
 - background
 - community
 - design

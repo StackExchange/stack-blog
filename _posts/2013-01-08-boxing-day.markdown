@@ -7,6 +7,7 @@ slug: boxing-day
 title: 'Winter Bash 2012 Conclusion: Boxing Day'
 wordpress_id: 12871
 categories:
+- company
 - background
 - stackexchange
 ---

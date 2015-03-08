@@ -7,6 +7,7 @@ slug: '12000363978'
 title: Stack Exchange - Bringing Writers and Fans Together!
 wordpress_id: 10546
 categories:
+- company
 - chaos
 post_format:
 - Gallery

@@ -7,6 +7,7 @@ slug: daily-dose-of-daily-reputation-ca
 title: Daily Dose of Daily Reputation Cap
 wordpress_id: 217
 categories:
+- company
 - community
 - design
 ---

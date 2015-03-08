@@ -7,6 +7,7 @@ slug: talkative-and-precognitive-badges
 title: Talkative and Precognitive Badges
 wordpress_id: 6331
 categories:
+- company
 - Area51
 - community
 - stackexchange

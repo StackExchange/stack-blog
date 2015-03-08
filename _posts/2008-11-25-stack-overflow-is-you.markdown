@@ -7,6 +7,7 @@ slug: stack-overflow-is-you
 title: Stack Overflow Is You
 wordpress_id: 149
 categories:
+- company
 - design
 ---
 

@@ -7,6 +7,7 @@ slug: stack-overflow-meetups-april-6
 title: Stack Overflow MeetUps - April 6
 wordpress_id: 7477
 categories:
+- company
 - announcement
 - community
 ---

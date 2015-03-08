@@ -7,6 +7,7 @@ slug: stack-exchange-for-iphone-is-here
 title: Stack Exchange for iPhone is here!
 wordpress_id: 14688
 categories:
+- company
 - announcement
 - mobile
 ---

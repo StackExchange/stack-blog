@@ -7,6 +7,7 @@ slug: codeplex-and-other-gateway-drugs
 title: CodePlex and other Gateway Drugs
 wordpress_id: 8462
 categories:
+- company
 - careers
 ---
 

@@ -7,6 +7,7 @@ slug: new-image-upload-support
 title: New Image Upload Support
 wordpress_id: 4700
 categories:
+- company
 - design
 - serverfault.com
 - stackexchange

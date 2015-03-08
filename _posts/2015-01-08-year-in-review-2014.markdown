@@ -7,6 +7,7 @@ slug: year-in-review-2014
 title: Stack Exchange Year in Review 2014
 wordpress_id: 15210
 categories:
+- company
 - announcement
 - community
 - moderators

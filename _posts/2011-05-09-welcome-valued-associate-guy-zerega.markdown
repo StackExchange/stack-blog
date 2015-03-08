@@ -7,6 +7,7 @@ slug: welcome-valued-associate-guy-zerega
 title: Welcome Valued Associate Guy Zerega!
 wordpress_id: 8071
 categories:
+- company
 - background
 ---
 

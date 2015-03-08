@@ -7,6 +7,7 @@ slug: a-question-about-questions
 title: A Question About Questions
 wordpress_id: 117
 categories:
+- company
 - design
 ---
 

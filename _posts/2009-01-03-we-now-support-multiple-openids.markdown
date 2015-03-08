@@ -7,6 +7,7 @@ slug: we-now-support-multiple-openids
 title: We Now Support Multiple OpenIDs
 wordpress_id: 253
 categories:
+- company
 - design
 ---
 

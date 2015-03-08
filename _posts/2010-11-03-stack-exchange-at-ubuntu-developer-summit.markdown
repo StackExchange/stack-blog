@@ -7,6 +7,7 @@ slug: stack-exchange-at-ubuntu-developer-summit
 title: Stack Exchange at Ubuntu Developer Summit
 wordpress_id: 5976
 categories:
+- company
 - stackexchange
 ---
 

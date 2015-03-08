@@ -7,6 +7,7 @@ slug: server-hosting-rent-vs-buy
 title: Server Hosting -- Rent vs. Buy?
 wordpress_id: 157
 categories:
+- company
 - server
 ---
 

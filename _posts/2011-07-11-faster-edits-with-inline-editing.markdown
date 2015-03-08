@@ -7,6 +7,7 @@ slug: faster-edits-with-inline-editing
 title: Faster Edits with Inline Editing
 wordpress_id: 8702
 categories:
+- company
 - community
 - design
 - stackexchange

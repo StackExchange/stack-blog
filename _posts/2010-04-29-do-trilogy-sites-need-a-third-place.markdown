@@ -7,6 +7,7 @@ slug: do-trilogy-sites-need-a-third-place
 title: Do Trilogy Sites Need a "Third Place"?
 wordpress_id: 3012
 categories:
+- company
 - background
 - stackexchange
 ---

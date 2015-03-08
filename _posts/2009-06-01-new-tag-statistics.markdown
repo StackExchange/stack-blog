@@ -7,6 +7,7 @@ slug: new-tag-statistics
 title: New Tag Statistics
 wordpress_id: 1406
 categories:
+- company
 - community
 - design
 ---

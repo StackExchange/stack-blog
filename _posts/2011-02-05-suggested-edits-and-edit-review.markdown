@@ -7,6 +7,7 @@ slug: suggested-edits-and-edit-review
 title: Suggested Edits and Edit Review
 wordpress_id: 7114
 categories:
+- company
 - community
 - design
 - reference

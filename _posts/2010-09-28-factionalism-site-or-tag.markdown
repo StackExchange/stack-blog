@@ -7,6 +7,7 @@ slug: factionalism-site-or-tag
 title: 'Factionalism: Site or Tag?'
 wordpress_id: 5217
 categories:
+- company
 - community
 - stackexchange
 ---

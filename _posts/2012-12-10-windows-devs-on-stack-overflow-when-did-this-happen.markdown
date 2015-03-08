@@ -7,6 +7,7 @@ slug: windows-devs-on-stack-overflow-when-did-this-happen
 title: Announcing the Apptivate.MS competition semi-finals
 wordpress_id: 12570
 categories:
+- company
 - announcement
 - promotion
 - stackoverflow

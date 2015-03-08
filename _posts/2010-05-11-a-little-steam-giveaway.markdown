@@ -7,6 +7,7 @@ slug: a-little-steam-giveaway
 title: A Little Steam Giveaway
 wordpress_id: 3176
 categories:
+- company
 - community
 ---
 

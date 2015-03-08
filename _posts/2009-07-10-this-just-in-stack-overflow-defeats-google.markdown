@@ -7,6 +7,7 @@ slug: this-just-in-stack-overflow-defeats-google
 title: 'This Just In: Stack Overflow Defeats Google'
 wordpress_id: 1633
 categories:
+- company
 - background
 ---
 

@@ -7,6 +7,7 @@ slug: new-automatic-account-association
 title: New Automatic Account Association
 wordpress_id: 3236
 categories:
+- company
 - community
 - design
 ---

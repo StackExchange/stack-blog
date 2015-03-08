@@ -7,6 +7,7 @@ slug: devdays-is-back
 title: DevDays is Back!
 wordpress_id: 8597
 categories:
+- company
 - devdays
 ---
 

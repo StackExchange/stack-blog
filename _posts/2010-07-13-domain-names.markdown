@@ -7,6 +7,7 @@ slug: domain-names
 title: Domain Names
 wordpress_id: 4161
 categories:
+- company
 - background
 - community
 - stackexchange

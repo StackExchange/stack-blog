@@ -7,6 +7,7 @@ slug: stack-overflow-rack-glamour-shots
 title: Stack Overflow Rack Glamour Shots
 wordpress_id: 2303
 categories:
+- company
 - background
 - server
 ---

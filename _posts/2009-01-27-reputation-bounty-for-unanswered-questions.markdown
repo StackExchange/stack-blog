@@ -7,6 +7,7 @@ slug: reputation-bounty-for-unanswered-questions
 title: Reputation Bounty for Unanswered Questions
 wordpress_id: 529
 categories:
+- company
 - design
 ---
 

@@ -7,6 +7,7 @@ slug: survey-says
 title: Survey Says
 wordpress_id: 6693
 categories:
+- company
 - background
 - community
 ---

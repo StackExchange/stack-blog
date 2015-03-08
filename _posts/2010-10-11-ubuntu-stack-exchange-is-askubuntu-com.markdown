@@ -7,6 +7,7 @@ slug: ubuntu-stack-exchange-is-askubuntu-com
 title: Ubuntu Stack Exchange is askubuntu.com
 wordpress_id: 5543
 categories:
+- company
 - community
 - stackexchange
 ---

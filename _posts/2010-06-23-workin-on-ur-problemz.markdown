@@ -7,6 +7,7 @@ slug: workin-on-ur-problemz
 title: Workin On Ur Problemz
 wordpress_id: 3804
 categories:
+- company
 - background
 ---
 

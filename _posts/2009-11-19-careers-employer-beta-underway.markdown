@@ -7,6 +7,7 @@ slug: careers-employer-beta-underway
 title: Careers Employer Beta Underway
 wordpress_id: 2161
 categories:
+- company
 - Beta
 - careers
 ---

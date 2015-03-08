@@ -7,6 +7,7 @@ slug: supporting-community-conferences
 title: Supporting Community Conferences
 wordpress_id: 9160
 categories:
+- company
 - community
 - reference
 - stackexchange

@@ -7,6 +7,7 @@ slug: tag-folksonomy-and-tag-synonyms
 title: Tag Folksonomy and Tag Synonyms
 wordpress_id: 4361
 categories:
+- company
 - community
 - design
 ---

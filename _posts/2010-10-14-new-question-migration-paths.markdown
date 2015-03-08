@@ -7,6 +7,7 @@ slug: new-question-migration-paths
 title: New Question Migration Paths
 wordpress_id: 5633
 categories:
+- company
 - design
 - serverfault.com
 - stackexchange

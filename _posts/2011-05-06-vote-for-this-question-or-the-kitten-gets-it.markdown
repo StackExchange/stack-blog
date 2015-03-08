@@ -7,6 +7,7 @@ slug: vote-for-this-question-or-the-kitten-gets-it
 title: Vote For This Question or The Kitten Gets It
 wordpress_id: 8039
 categories:
+- company
 - community
 - design
 - stackexchange

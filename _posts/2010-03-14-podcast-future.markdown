@@ -7,6 +7,7 @@ slug: podcast-future
 title: Podcast Future
 wordpress_id: 2798
 categories:
+- company
 - background
 ---
 

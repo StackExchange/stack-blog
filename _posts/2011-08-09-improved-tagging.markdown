@@ -7,6 +7,7 @@ slug: improved-tagging
 title: Improved Tagging
 wordpress_id: 9213
 categories:
+- company
 - community
 - design
 - stackexchange

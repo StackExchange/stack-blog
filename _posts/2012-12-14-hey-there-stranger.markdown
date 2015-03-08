@@ -7,6 +7,7 @@ slug: hey-there-stranger
 title: Hey there, stranger!
 wordpress_id: 12735
 categories:
+- company
 - background
 - stackoverflow
 - survey

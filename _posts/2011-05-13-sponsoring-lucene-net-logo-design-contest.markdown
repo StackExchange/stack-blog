@@ -7,6 +7,7 @@ slug: sponsoring-lucene-net-logo-design-contest
 title: Sponsoring Lucene.Net Logo Design Contest
 wordpress_id: 8131
 categories:
+- company
 - design
 ---
 

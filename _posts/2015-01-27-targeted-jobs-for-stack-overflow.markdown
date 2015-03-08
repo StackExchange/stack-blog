@@ -7,6 +7,7 @@ slug: targeted-jobs-for-stack-overflow
 title: Targeted Jobs for Stack Overflow
 wordpress_id: 15318
 categories:
+- company
 - announcement
 - careers
 - stackoverflow

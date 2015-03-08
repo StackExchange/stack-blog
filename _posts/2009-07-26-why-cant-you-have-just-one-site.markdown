@@ -7,6 +7,7 @@ slug: why-cant-you-have-just-one-site
 title: Why Can't You Have Just One Site?
 wordpress_id: 1698
 categories:
+- company
 - background
 - community
 - serverfault.com

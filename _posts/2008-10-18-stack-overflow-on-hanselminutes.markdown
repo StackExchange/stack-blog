@@ -7,6 +7,7 @@ slug: stack-overflow-on-hanselminutes
 title: Stack Overflow on Hanselminutes
 wordpress_id: 133
 categories:
+- company
 - podcasts
 ---
 

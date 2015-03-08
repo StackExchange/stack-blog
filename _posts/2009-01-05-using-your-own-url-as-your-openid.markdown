@@ -7,6 +7,7 @@ slug: using-your-own-url-as-your-openid
 title: Using Your Own URL as Your OpenID
 wordpress_id: 279
 categories:
+- company
 - design
 ---
 

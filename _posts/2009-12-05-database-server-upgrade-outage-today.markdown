@@ -7,6 +7,7 @@ slug: database-server-upgrade-outage-today
 title: 'Database Server Upgrade: Outage Saturday'
 wordpress_id: 2255
 categories:
+- company
 - server
 ---
 

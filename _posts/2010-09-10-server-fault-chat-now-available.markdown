@@ -7,6 +7,7 @@ slug: server-fault-chat-now-available
 title: Server Fault Chat Now Available
 wordpress_id: 5062
 categories:
+- company
 - serverfault.com
 - stackexchange
 ---

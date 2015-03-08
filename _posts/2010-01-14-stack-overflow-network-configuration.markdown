@@ -7,6 +7,7 @@ slug: stack-overflow-network-configuration
 title: Stack Overflow Network Configuration
 wordpress_id: 2489
 categories:
+- company
 - background
 - server
 ---

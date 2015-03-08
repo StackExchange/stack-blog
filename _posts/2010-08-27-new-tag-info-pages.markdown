@@ -7,6 +7,7 @@ slug: new-tag-info-pages
 title: New Tag Info Pages
 wordpress_id: 4887
 categories:
+- company
 - community
 - design
 - stackexchange

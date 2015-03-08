@@ -7,6 +7,7 @@ slug: se-podcast-26
 title: 'SE Podcast #26'
 wordpress_id: 10166
 categories:
+- company
 - podcasts
 ---
 

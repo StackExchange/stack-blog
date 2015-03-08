@@ -7,6 +7,7 @@ slug: server-fault-private-beta-begins
 title: Server Fault Private Beta begins
 wordpress_id: 1174
 categories:
+- company
 - Beta
 - serverfault.com
 ---

@@ -7,6 +7,7 @@ slug: stack-exchange-partners-with-mathjax
 title: Stack Exchange Partners with MathJax
 wordpress_id: 7752
 categories:
+- company
 - community
 - stackexchange
 ---

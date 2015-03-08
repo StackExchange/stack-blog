@@ -7,6 +7,7 @@ slug: happy-sysadmin-appreciation-day
 title: Happy SysAdmin Appreciation Day!
 wordpress_id: 1766
 categories:
+- company
 - community
 - serverfault.com
 ---

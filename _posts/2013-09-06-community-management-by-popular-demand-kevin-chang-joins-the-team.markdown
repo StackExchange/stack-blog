@@ -7,6 +7,7 @@ slug: community-management-by-popular-demand-kevin-chang-joins-the-team
 title: 'Community Management by Popular Demand: Kevin Chang Joins The Team'
 wordpress_id: 13978
 categories:
+- company
 - background
 - community
 ---

@@ -7,6 +7,7 @@ slug: our-newest-team-members-diandra-robert-adam-nicole-and-casey
 title: 'Our newest team members: Diandra, Robert, Adam, Nicole and Casey!'
 wordpress_id: 12342
 categories:
+- company
 - background
 ---
 

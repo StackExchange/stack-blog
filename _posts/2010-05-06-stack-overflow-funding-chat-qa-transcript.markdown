@@ -7,6 +7,7 @@ slug: stack-overflow-funding-chat-qa-transcript
 title: 'Stack Overflow Funding: Chat Q&A Transcript'
 wordpress_id: 3081
 categories:
+- company
 - announcement
 - community
 - stackexchange

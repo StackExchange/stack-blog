@@ -7,6 +7,7 @@ slug: are-you-a-human-being
 title: Are you a human being?
 wordpress_id: 1599
 categories:
+- company
 - background
 ---
 

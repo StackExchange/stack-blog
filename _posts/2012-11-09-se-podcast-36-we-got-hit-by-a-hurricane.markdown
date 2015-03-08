@@ -7,6 +7,7 @@ slug: se-podcast-36-we-got-hit-by-a-hurricane
 title: 'SE Podcast #36 - We Got Hit by a Hurricane'
 wordpress_id: 12499
 categories:
+- company
 - podcasts
 ---
 

@@ -7,6 +7,7 @@ slug: community-conference-sponsorships
 title: Community Conference Sponsorships
 wordpress_id: 7166
 categories:
+- company
 - community
 - reference
 - stackexchange

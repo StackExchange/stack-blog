@@ -7,6 +7,7 @@ slug: more-trilogy-sites
 title: More Trilogy Sites?
 wordpress_id: 2807
 categories:
+- company
 - background
 - community
 ---

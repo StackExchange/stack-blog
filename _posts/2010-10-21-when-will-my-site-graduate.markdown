@@ -7,6 +7,7 @@ slug: when-will-my-site-graduate
 title: When Will My Site Graduate?
 wordpress_id: 5744
 categories:
+- company
 - Area51
 - reference
 - stackexchange

@@ -7,6 +7,7 @@ slug: stack-overflow-moderator-voting-now-open
 title: Stack Overflow Moderator Voting Now Open
 wordpress_id: 1208
 categories:
+- company
 - community
 ---
 

@@ -7,6 +7,7 @@ slug: specialist-badge-implemented
 title: Specialist Badge Implemented
 wordpress_id: 683
 categories:
+- company
 - design
 ---
 

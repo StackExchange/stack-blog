@@ -7,6 +7,7 @@ slug: one-year-of-stack-overflow
 title: One Year of Stack Overflow
 wordpress_id: 1777
 categories:
+- company
 - background
 - community
 - serverfault.com

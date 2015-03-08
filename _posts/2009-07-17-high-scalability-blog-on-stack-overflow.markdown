@@ -7,6 +7,7 @@ slug: high-scalability-blog-on-stack-overflow
 title: High Scalability Blog on Stack Overflow
 wordpress_id: 1672
 categories:
+- company
 - background
 - server
 ---

@@ -7,6 +7,7 @@ slug: stack-exchange-network-profiles
 title: Stack Exchange Network Profiles
 wordpress_id: 7715
 categories:
+- company
 - community
 - design
 - stackexchange

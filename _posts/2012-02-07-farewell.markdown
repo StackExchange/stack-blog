@@ -7,6 +7,7 @@ slug: farewell
 title: Farewell
 wordpress_id: 11004
 categories:
+- company
 - announcement
 ---
 

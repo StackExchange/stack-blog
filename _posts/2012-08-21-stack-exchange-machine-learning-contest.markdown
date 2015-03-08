@@ -7,6 +7,7 @@ slug: stack-exchange-machine-learning-contest
 title: Stack Exchange Machine Learning Contest
 wordpress_id: 12099
 categories:
+- company
 - announcement
 - stackoverflow
 ---

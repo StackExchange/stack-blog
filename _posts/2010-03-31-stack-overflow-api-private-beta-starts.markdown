@@ -7,6 +7,7 @@ slug: stack-overflow-api-private-beta-starts
 title: Stack Overflow API Private Beta Starts
 wordpress_id: 2864
 categories:
+- company
 - API
 - Beta
 - community

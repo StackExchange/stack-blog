@@ -7,6 +7,7 @@ slug: open-source-ad-stats
 title: Open Source Ad Stats
 wordpress_id: 2661
 categories:
+- company
 - community
 ---
 

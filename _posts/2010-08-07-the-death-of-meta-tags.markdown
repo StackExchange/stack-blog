@@ -7,6 +7,7 @@ slug: the-death-of-meta-tags
 title: The Death of Meta Tags
 wordpress_id: 4436
 categories:
+- company
 - community
 - reference
 ---

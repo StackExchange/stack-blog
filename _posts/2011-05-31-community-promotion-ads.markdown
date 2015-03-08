@@ -7,6 +7,7 @@ slug: community-promotion-ads
 title: Community Promotion Ads
 wordpress_id: 8261
 categories:
+- company
 - community
 - promotion
 - stackexchange

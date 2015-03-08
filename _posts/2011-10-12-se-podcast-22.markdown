@@ -7,6 +7,7 @@ slug: se-podcast-22
 title: 'SE Podcast #22 - Paul Biggar'
 wordpress_id: 10044
 categories:
+- company
 - podcasts
 ---
 

@@ -10,6 +10,7 @@ slug: podcast-12
 title: 'Podcast #12'
 wordpress_id: 64
 categories:
+- company
 - podcasts
 ---
 

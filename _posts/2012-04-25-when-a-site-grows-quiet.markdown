@@ -7,6 +7,7 @@ slug: when-a-site-grows-quiet
 title: When a Site Grows Quiet
 wordpress_id: 11600
 categories:
+- company
 - announcement
 - Area51
 - background

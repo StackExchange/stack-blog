@@ -7,6 +7,7 @@ slug: survey-results
 title: 2011 Stack Overflow User Survey Results
 wordpress_id: 11011
 categories:
+- company
 - background
 - stackoverflow
 - survey

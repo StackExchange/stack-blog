@@ -7,6 +7,7 @@ slug: script-responsibly
 title: Script Responsibly
 wordpress_id: 140
 categories:
+- company
 - community
 ---
 

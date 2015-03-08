@@ -7,6 +7,7 @@ slug: membership-has-its-privileges
 title: Membership Has Its Privileges
 wordpress_id: 5447
 categories:
+- company
 - community
 - serverfault.com
 - stackexchange

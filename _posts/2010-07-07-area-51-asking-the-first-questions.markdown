@@ -7,6 +7,7 @@ slug: area-51-asking-the-first-questions
 title: 'Your New Site: Asking the First Questions'
 wordpress_id: 3924
 categories:
+- company
 - Area51
 - community
 - reference

@@ -7,6 +7,7 @@ slug: stack-exchange-api-contest-winners
 title: Stack Exchange API Contest Winners
 wordpress_id: 4645
 categories:
+- company
 - announcement
 - API
 ---

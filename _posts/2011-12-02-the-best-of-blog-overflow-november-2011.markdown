@@ -7,6 +7,7 @@ slug: the-best-of-blog-overflow-november-2011
 title: 'The Best of Blog Overflow: November 2011'
 wordpress_id: 10260
 categories:
+- company
 - blogoverflow
 ---
 

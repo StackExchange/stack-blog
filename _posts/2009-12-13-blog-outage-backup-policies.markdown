@@ -7,6 +7,7 @@ slug: blog-outage-backup-policies
 title: Blog Outage - Backup Policies
 wordpress_id: 2279
 categories:
+- company
 - background
 - server
 ---

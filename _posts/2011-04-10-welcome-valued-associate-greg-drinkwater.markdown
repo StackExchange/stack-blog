@@ -7,6 +7,7 @@ slug: welcome-valued-associate-greg-drinkwater
 title: Welcome Valued Associate Greg Drinkwater!
 wordpress_id: 7646
 categories:
+- company
 - background
 ---
 

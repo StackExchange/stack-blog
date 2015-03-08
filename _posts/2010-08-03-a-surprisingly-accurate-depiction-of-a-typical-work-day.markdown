@@ -7,6 +7,7 @@ slug: a-surprisingly-accurate-depiction-of-a-typical-work-day
 title: A Surprisingly Accurate Depiction of a Typical Work Day
 wordpress_id: 4410
 categories:
+- company
 - background
 ---
 

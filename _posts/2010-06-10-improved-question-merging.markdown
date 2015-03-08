@@ -7,6 +7,7 @@ slug: improved-question-merging
 title: Improved Question Merging
 wordpress_id: 3534
 categories:
+- company
 - community
 - design
 ---

@@ -7,6 +7,7 @@ slug: new-lower-careers-pricing
 title: New, Lower Careers Pricing
 wordpress_id: 2416
 categories:
+- company
 - careers
 ---
 

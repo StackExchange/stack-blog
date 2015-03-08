@@ -7,6 +7,7 @@ slug: power-laws
 title: Power Laws
 wordpress_id: 8785
 categories:
+- company
 - community
 ---
 

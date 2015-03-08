@@ -7,6 +7,7 @@ slug: careers-2-0-now-does-github
 title: Careers 2.0 now does GitHub
 wordpress_id: 7583
 categories:
+- company
 - careers
 ---
 

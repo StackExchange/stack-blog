@@ -7,6 +7,7 @@ slug: stack-exchange-gets-a-blog
 title: Stack Exchange Gets a Blog
 wordpress_id: 2694
 categories:
+- company
 - stackexchange
 ---
 

@@ -7,6 +7,7 @@ slug: introducing-gabe-the-smiling-community-manager
 title: Introducing Gabe, The Smiling Community Manager
 wordpress_id: 13958
 categories:
+- company
 - background
 - community
 ---

@@ -7,6 +7,7 @@ slug: welcome-valued-associate-alex-miller
 title: Welcome Valued Associate Alex Miller!
 wordpress_id: 7804
 categories:
+- company
 - background
 ---
 

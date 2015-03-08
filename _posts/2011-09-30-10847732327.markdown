@@ -8,6 +8,7 @@ slug: '10847732327'
 title: Minimum Viable Personality - we can has?
 wordpress_id: 10550
 categories:
+- company
 - chaos
 post_format:
 - Aside

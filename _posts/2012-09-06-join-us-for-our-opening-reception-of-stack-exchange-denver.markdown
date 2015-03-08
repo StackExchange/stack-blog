@@ -7,6 +7,7 @@ slug: join-us-for-our-opening-reception-of-stack-exchange-denver
 title: 'Join us for our opening reception of Stack Exchange: Denver!'
 wordpress_id: 12205
 categories:
+- company
 - denver
 - meetups
 ---

@@ -7,6 +7,7 @@ slug: logo-contest-winner-for-superusercom
 title: Logo Contest Winner for superuser.com
 wordpress_id: 1567
 categories:
+- company
 - Beta
 - superuser.com
 ---

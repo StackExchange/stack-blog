@@ -7,6 +7,7 @@ slug: introducing-stack-exchange-data-explorer
 title: Introducing Stack Exchange Data Explorer
 wordpress_id: 3645
 categories:
+- company
 - announcement
 - cc-wiki-dump
 - community

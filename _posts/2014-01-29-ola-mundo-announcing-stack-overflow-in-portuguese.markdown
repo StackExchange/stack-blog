@@ -7,6 +7,7 @@ slug: ola-mundo-announcing-stack-overflow-in-portuguese
 title: Olá, Mundo!  Announcing Stack Overflow in Portuguese.
 wordpress_id: 14428
 categories:
+- company
 - announcement
 - internationalization
 - stackoverflow

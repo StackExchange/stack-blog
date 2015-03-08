@@ -7,6 +7,7 @@ slug: get-to-know-the-new-stack-employees
 title: Get to know the new Stack employees
 wordpress_id: 13284
 categories:
+- company
 - announcement
 ---
 

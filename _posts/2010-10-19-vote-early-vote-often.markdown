@@ -7,6 +7,7 @@ slug: vote-early-vote-often
 title: Vote Early, Vote Often
 wordpress_id: 5697
 categories:
+- company
 - community
 - design
 - stackexchange

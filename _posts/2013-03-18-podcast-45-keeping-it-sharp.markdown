@@ -7,6 +7,7 @@ slug: podcast-45-keeping-it-sharp
 title: 'Podcast #45 - Keeping it Sharp'
 wordpress_id: 13233
 categories:
+- company
 - podcasts
 ---
 

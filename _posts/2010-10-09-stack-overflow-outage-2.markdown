@@ -7,6 +7,7 @@ slug: stack-overflow-outage-2
 title: Stack Overflow Outage
 wordpress_id: 5509
 categories:
+- company
 - server
 ---
 

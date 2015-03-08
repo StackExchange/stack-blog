@@ -7,6 +7,7 @@ slug: sql-2008-full-text-search-problems
 title: SQL 2008 Full-Text Search Problems
 wordpress_id: 145
 categories:
+- company
 - server
 ---
 

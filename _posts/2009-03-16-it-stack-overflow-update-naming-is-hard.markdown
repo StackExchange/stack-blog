@@ -7,6 +7,7 @@ slug: it-stack-overflow-update-naming-is-hard
 title: 'IT Stack Overflow Update: Naming is Hard'
 wordpress_id: 868
 categories:
+- company
 - community
 - serverfault.com
 ---

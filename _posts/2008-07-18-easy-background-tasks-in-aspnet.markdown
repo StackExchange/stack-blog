@@ -7,6 +7,7 @@ slug: easy-background-tasks-in-aspnet
 title: Easy Background Tasks in ASP.NET
 wordpress_id: 70
 categories:
+- company
 - background
 ---
 

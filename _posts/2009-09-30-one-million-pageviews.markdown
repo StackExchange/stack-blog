@@ -7,6 +7,7 @@ slug: one-million-pageviews
 title: One Million Pageviews
 wordpress_id: 2002
 categories:
+- company
 - background
 ---
 

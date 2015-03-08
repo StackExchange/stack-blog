@@ -8,6 +8,7 @@ slug: '11271184265'
 title: Questions. Do you have any?
 wordpress_id: 10549
 categories:
+- company
 - chaos
 post_format:
 - Aside

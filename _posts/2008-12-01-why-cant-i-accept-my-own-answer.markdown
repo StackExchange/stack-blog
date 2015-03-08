@@ -7,6 +7,7 @@ slug: why-cant-i-accept-my-own-answer
 title: Why Can't I Accept My Own Answer?
 wordpress_id: 151
 categories:
+- company
 - design
 ---
 

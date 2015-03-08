@@ -7,6 +7,7 @@ slug: nowearn-valuable-flair
 title: Now Earn Valuable Flair!
 wordpress_id: 1253
 categories:
+- company
 - community
 - design
 ---

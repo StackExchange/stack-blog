@@ -7,6 +7,7 @@ slug: stack-overflow-private-beta-begins
 title: Stack Overflow Private Beta Begins
 wordpress_id: 82
 categories:
+- company
 - Beta
 ---
 

@@ -7,6 +7,7 @@ slug: academic-papers-using-stack-overflow-data
 title: Academic Papers Using Stack Overflow Data
 wordpress_id: 3340
 categories:
+- company
 - cc-wiki-dump
 - community
 ---

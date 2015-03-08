@@ -7,6 +7,7 @@ slug: about-page-2-0-the-quickstartening
 title: 'About Page 2.0: The QuickStartening'
 wordpress_id: 12972
 categories:
+- company
 - announcement
 ---
 

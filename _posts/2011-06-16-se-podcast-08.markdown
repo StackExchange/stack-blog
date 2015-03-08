@@ -7,6 +7,7 @@ slug: se-podcast-08
 title: 'SE Podcast #08'
 wordpress_id: 8477
 categories:
+- company
 - podcasts
 ---
 

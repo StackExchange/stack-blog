@@ -7,6 +7,7 @@ slug: new-10k-feature-inline-tagging
 title: 'New 10k Feature: Inline Tagging'
 wordpress_id: 2905
 categories:
+- company
 - design
 ---
 

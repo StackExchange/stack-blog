@@ -7,6 +7,7 @@ slug: stack-exchange-naming-for-dummies
 title: Stack Exchange Naming for Dummies
 wordpress_id: 5584
 categories:
+- company
 - Area51
 - reference
 - stackexchange

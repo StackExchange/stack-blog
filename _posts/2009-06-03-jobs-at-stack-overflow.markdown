@@ -7,6 +7,7 @@ slug: jobs-at-stack-overflow
 title: Jobs At Stack Overflow
 wordpress_id: 1412
 categories:
+- company
 - community
 ---
 

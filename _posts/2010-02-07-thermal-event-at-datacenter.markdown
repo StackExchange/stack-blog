@@ -7,6 +7,7 @@ slug: thermal-event-at-datacenter
 title: Thermal Event at Datacenter
 wordpress_id: 2706
 categories:
+- company
 - server
 ---
 

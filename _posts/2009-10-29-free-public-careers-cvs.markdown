@@ -7,6 +7,7 @@ slug: free-public-careers-cvs
 title: Free Public Careers CVs
 wordpress_id: 2096
 categories:
+- company
 - careers
 ---
 

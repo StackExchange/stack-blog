@@ -7,6 +7,7 @@ slug: showing-off-those-valued-associates
 title: Company pages on Careers 2.0
 wordpress_id: 13392
 categories:
+- company
 - announcement
 - careers
 - stackoverflow

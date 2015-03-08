@@ -7,6 +7,7 @@ slug: tips-for-planners-of-meetups
 title: Tips for Planners of 350+ Stack Overflow Worldwide Meetups!
 wordpress_id: 11594
 categories:
+- company
 - meetups
 ---
 

@@ -7,6 +7,7 @@ slug: super-user-win8-challenge
 title: Take the Super User Windows 8 Challenge
 wordpress_id: 12436
 categories:
+- company
 - promotion
 - superuser.com
 ---
