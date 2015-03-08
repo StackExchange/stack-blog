@@ -3,7 +3,7 @@ author: shog
 comments: true
 date: 2012-08-02 14:50:30+00:00
 layout: post
-hero: http://stackexchange.com/users/28003/bart-silverstrim
+hero: http://i.stack.imgur.com/qm7hn.png
 slug: stack-exchange-now-60-valued-associates-strong
 title: 'Stack Exchange: now 60 Valued Associates strong!'
 wordpress_id: 12053

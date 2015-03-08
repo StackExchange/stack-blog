@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-12-17 06:28:45+00:00
 layout: post
-hero: http://programmers.stackexchange.com
+hero: /blog/images/wordpress/whiteboard-code.jpg
 slug: introducing-programmers-stackexchange-com
 title: Introducing programmers.stackexchange.com
 wordpress_id: 6383

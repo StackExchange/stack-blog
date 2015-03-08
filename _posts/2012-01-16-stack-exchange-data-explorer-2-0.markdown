@@ -3,7 +3,7 @@ author: sam
 comments: true
 date: 2012-01-16 04:39:13+00:00
 layout: post
-hero: http://data.stackexchange.com/stackoverflow/query/6772/stackoverflow-rank-and-percentile
+hero: /blog/images/wordpress/fork2.png
 slug: stack-exchange-data-explorer-2-0
 title: 'Stack Exchange Data Explorer 2.0 '
 wordpress_id: 10782

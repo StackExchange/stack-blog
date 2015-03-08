@@ -3,7 +3,7 @@ author: bethanymarz
 comments: true
 date: 2012-10-17 17:24:24+00:00
 layout: post
-hero: http://stackexchange.com/users/1787301/sweetdee
+hero: http://i.stack.imgur.com/lehth.jpg
 slug: our-newest-team-members-diandra-robert-adam-nicole-and-casey
 title: 'Our newest team members: Diandra, Robert, Adam, Nicole and Casey!'
 wordpress_id: 12342

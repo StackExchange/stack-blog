@@ -3,7 +3,7 @@ author: kasra
 comments: true
 date: 2014-05-08 19:25:09+00:00
 layout: post
-hero: https://itunes.apple.com/us/app/stack-exchange/id871299723
+hero: http://i.stack.imgur.com/3evjS.png
 slug: stack-exchange-for-iphone-is-here
 title: Stack Exchange for iPhone is here!
 wordpress_id: 14688

@@ -3,7 +3,7 @@ author: rcartaino
 comments: true
 date: 2011-07-27 14:32:58+00:00
 layout: post
-hero: http://area51.stackexchange.com/proposals/4059/musical-practice-and-performance
+hero: /blog/images/wordpress/number-of-visits-graph.png
 slug: does-this-site-have-a-chance-of-succeeding
 title: Does this site have a chance of succeeding?
 wordpress_id: 8781

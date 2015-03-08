@@ -3,7 +3,7 @@ author: david
 comments: true
 date: 2015-01-16 15:40:14+00:00
 layout: post
-hero: http://www.joelonsoftware.com/articles/BionicOffice.html
+hero: http://i.stack.imgur.com/yLpKY.jpg
 slug: why-we-still-believe-in-private-offices
 title: Why We (Still) Believe in Private Offices
 wordpress_id: 15237
