@@ -9,7 +9,7 @@
 	}
 }
 .sidebar {
-	padding: 25px 0px 25px 50px;
+	padding-left: 50px;
 	p {
 		.fontSize(xxs);
 		color: @color-grayMid;
@@ -45,13 +45,17 @@ header {
 	margin-bottom: 50px;
 }
 .home-hero {
-	height: 400px;
-	background: @color-grayLight;
+	padding: 150px 0px;
 }
 .featured-posts {
+	border-top: 1px solid @color-grayLight;
+	margin-bottom: 50px;
 	a.post {
 		display: block;
 		text-decoration: none;
+		&:first-child {
+			border-right: 1px solid @color-grayLight;
+		}
 		&:hover {
 			background: @color-orange;
 			.top {
@@ -62,9 +66,8 @@ header {
 			}
 		}
 		.top {
-			padding: 50px;
+			padding: 25px;
 			p._h2 {
-				font-weight: 600;
 				margin-bottom: 0;
 				.fontSize(m);
 				color: @title-color;
@@ -72,11 +75,11 @@ header {
 			p._h6 {
 				text-transform: uppercase;
 				border-bottom: 1px solid @color-grayLight;
-				padding: 0px 15px 10px 15px;
-				margin-bottom: 15px;
+				padding: 0px 10px 5px 10px;
+				margin-bottom: 10px;
 				letter-spacing: 5px;
 				display: inline-block;
-				.fontSize(xs);
+				.fontSize(xxs);
 				color: @color-grayMid;
 			}
 		}
@@ -111,7 +114,8 @@ header {
 	}
 }
 article.post {
-	padding: 25px 0;
+	padding-bottom: 25px;
+	margin-bottom: 25px;
 	border-bottom: 1px solid @color-grayLight;
 	&:first-child {
 		padding-top: 0;

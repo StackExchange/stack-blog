@@ -3,7 +3,8 @@ layout: default
 ---
 
 <div class="padded">
-	<div class="home-hero">
+	<div class="home-hero _textCenter">
+		<h1 class="_hugeTitle">All things Stack</h1>
 	</div>
 	<div class="featured-posts">
 		<div class="-row">
@@ -11,11 +12,10 @@ layout: default
 				<a class="featured-post post _textCenter" href="{{ site.baseurl }}/company">
 					<div class="top">
 						<p class="_h6">Company News</p>
-						{% assign company_post = site.categories.company | first %}
-						<p class="_h2">{{ company_post.title }}</p>
+						<p class="_h2">All things Stack Exchange</p>
 					</div>
 					<div class="image-container">
-						<img src="{{ company_post.hero }}">
+						<img src="{{ site.baseurl}}/images/StackExchange-12.jpg">
 					</div>
 				</a>
 			</div>
@@ -23,11 +23,10 @@ layout: default
 				<a class="featured-post post _textCenter" href="{{ site.baseurl }}/engineering">
 					<div class="top">
 						<p class="_h6">Engineering</p>
-						{% assign engineering_post = site.categories.engineering | first %}
-						<p class="_h2">{{ engineering_post.title }}</p>
+						<p class="_h2">By our developers for developers</p>
 					</div>
 					<div class="image-container">
-						<img src="{{ engineering_post.hero }}">
+						<img src="{{ site.baseurl}}/images/engineering-channel.jpg">
 					</div>
 				</a>
 			</div>
@@ -38,6 +37,7 @@ layout: default
 	<div class="-row">
 		<div class="-col8">
 			<div class="posts">
+				<h3>Recent Posts</h3>
 			  {% for post in paginator.posts %}
 			    <article class="preview-post post">   
 			    	<div class="-row post-header">
