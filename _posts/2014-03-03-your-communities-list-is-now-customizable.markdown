@@ -1,5 +1,5 @@
 ---
-author: Jeremy Tunnell
+author: jtunnell
 comments: true
 date: 2014-03-03 19:49:25+00:00
 layout: post

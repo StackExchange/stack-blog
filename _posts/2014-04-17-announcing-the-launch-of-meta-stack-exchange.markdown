@@ -1,5 +1,5 @@
 ---
-author: Tim Post
+author: tpost
 comments: true
 date: 2014-04-17 13:22:03+00:00
 layout: post

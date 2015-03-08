@@ -1,5 +1,5 @@
 ---
-author: Joe Humphries
+author: jhumphries
 comments: true
 date: 2013-02-25 19:45:28+00:00
 layout: post

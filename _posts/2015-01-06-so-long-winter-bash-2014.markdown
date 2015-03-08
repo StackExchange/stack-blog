@@ -1,5 +1,5 @@
 ---
-author: Jon Ericson
+author: jericson
 comments: true
 date: 2015-01-06 16:51:25+00:00
 layout: post

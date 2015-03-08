@@ -1,5 +1,5 @@
 ---
-author: Kasra Rahjerdi
+author: kasra
 comments: true
 date: 2014-11-03 19:57:22+00:00
 layout: post

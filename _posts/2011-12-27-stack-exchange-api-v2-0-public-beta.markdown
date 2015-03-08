@@ -1,5 +1,5 @@
 ---
-author: Kevin Montrose
+author: kevinmontrose
 comments: true
 date: 2011-12-27 02:01:51+00:00
 layout: post

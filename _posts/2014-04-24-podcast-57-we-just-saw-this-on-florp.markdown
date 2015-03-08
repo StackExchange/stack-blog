@@ -1,5 +1,5 @@
 ---
-author: Abby Miller
+author: abbytmiller
 comments: true
 date: 2014-04-24 19:00:10+00:00
 layout: post

@@ -1,5 +1,5 @@
 ---
-author: Josh Heyer
+author: shog
 comments: true
 date: 2014-07-23 20:04:44+00:00
 layout: post
