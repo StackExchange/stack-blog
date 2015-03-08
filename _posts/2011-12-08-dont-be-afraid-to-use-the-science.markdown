@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2011-12-08 06:25:44+00:00
 layout: post
-hero: http://xkcd.com/54/
+hero: http://blog.stackoverflow.com/wp-content/uploads/science-it-works-bitches.png
 slug: dont-be-afraid-to-use-the-science
 title: Don't Be Afraid to Use The Science
 wordpress_id: 10322

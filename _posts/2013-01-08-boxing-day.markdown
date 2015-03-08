@@ -3,7 +3,7 @@ author: aarthi
 comments: true
 date: 2013-01-08 16:00:58+00:00
 layout: post
-hero: http://i.stack.imgur.com/4Vdij.png
+hero: http://i.stack.imgur.com/7MLht.png
 slug: boxing-day
 title: 'Winter Bash 2012 Conclusion: Boxing Day'
 wordpress_id: 12871

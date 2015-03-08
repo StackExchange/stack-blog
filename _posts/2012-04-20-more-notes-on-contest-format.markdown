@@ -3,7 +3,7 @@ author: lauren
 comments: true
 date: 2012-04-20 16:06:05+00:00
 layout: post
-hero: http://skyrimvsmw3.com/
+hero: http://blog.stackoverflow.com/wp-content/uploads/avx-300x121.png
 slug: more-notes-on-contest-format
 title: More Notes on Contest Format
 wordpress_id: 11559

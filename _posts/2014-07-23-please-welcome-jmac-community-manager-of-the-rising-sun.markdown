@@ -3,7 +3,7 @@ author: shog
 comments: true
 date: 2014-07-23 20:04:44+00:00
 layout: post
-hero: http://workplace.stackexchange.com/users/7945/jmac
+hero: http://i.stack.imgur.com/ne1Ja.jpg
 slug: please-welcome-jmac-community-manager-of-the-rising-sun
 title: Please welcome jmac, Community Manager of the Rising Sun
 wordpress_id: 14754

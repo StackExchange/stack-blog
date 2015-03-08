@@ -3,7 +3,7 @@ author: kevinmontrose
 comments: true
 date: 2012-09-04 21:37:22+00:00
 layout: post
-hero: http://blog.stackoverflow.com/2012/09/stack-exchange-api-v2-1/comment/
+hero: http://blog.stackoverflow.com/wp-content/uploads/comment.png
 slug: stack-exchange-api-v2-1
 title: Stack Exchange API V2.1
 wordpress_id: 12190

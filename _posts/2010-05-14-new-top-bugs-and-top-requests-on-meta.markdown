@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-05-14 09:15:36+00:00
 layout: post
-hero: http://meta.stackoverflow.com
+hero: http://blog.stackoverflow.com/wp-content/uploads/meta-bugs-reqs-tabs.png
 slug: new-top-bugs-and-top-requests-on-meta
 title: New Top Bugs and Top Requests on Meta
 wordpress_id: 3205

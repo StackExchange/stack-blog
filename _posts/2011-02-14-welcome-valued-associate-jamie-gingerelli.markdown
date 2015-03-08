@@ -3,7 +3,7 @@ author: alison
 comments: true
 date: 2011-02-14 21:48:32+00:00
 layout: post
-hero: /blog/images/wordpress/big-air2.jpg
+hero: /blog/images/wordpress/killington1.jpg
 slug: welcome-valued-associate-jamie-gingerelli
 title: Welcome Valued Associate Jamie Gingerelli
 wordpress_id: 7157

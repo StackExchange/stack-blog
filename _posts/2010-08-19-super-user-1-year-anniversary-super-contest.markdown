@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-08-19 06:59:54+00:00
 layout: post
-hero: http://superuser.com
+hero: http://sstatic.net/superuser/img/logo.png
 slug: super-user-1-year-anniversary-super-contest
 title: Super User 1 Year Anniversary Super Contest
 wordpress_id: 4716

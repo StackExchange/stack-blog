@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-06-16 08:23:16+00:00
 layout: post
-hero: http://www.crowdspring.com/
+hero: http://blog.stackoverflow.com/wp-content/uploads/crowdspring-logo.png
 slug: logo-design-contest-for-superuser-com
 title: Logo Design Contest for superuser.com
 wordpress_id: 1489

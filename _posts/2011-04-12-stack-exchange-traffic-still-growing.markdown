@@ -3,7 +3,7 @@ author: spolsky
 comments: true
 date: 2011-04-12 16:15:46+00:00
 layout: post
-hero: /blog/images/wordpress/GA-Visitors1.png
+hero: http://blog.stackoverflow.com/wp-content/uploads/Quantcast-255.png
 slug: stack-exchange-traffic-still-growing
 title: Stack Exchange Traffic Still Growing
 wordpress_id: 7778

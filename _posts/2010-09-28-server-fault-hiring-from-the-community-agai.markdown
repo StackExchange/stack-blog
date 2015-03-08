@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-09-28 06:38:31+00:00
 layout: post
-hero: http://serverfault.com/users/5880/zypher
+hero: http://serverfault.com/users/flair/5880.png
 slug: server-fault-hiring-from-the-community-agai
 title: 'Server Fault: Hiring From The Community Again'
 wordpress_id: 5211

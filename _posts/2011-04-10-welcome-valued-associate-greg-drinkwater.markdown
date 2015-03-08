@@ -3,7 +3,7 @@ author: alison
 comments: true
 date: 2011-04-10 20:58:31+00:00
 layout: post
-hero: /blog/images/wordpress/greg-pic.jpg
+hero: /blog/images/wordpress/greg-pic-e1302191181924.jpg
 slug: welcome-valued-associate-greg-drinkwater
 title: Welcome Valued Associate Greg Drinkwater!
 wordpress_id: 7646

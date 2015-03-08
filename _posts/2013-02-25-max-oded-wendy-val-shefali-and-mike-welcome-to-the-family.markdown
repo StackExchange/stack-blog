@@ -3,7 +3,7 @@ author: jhumphries
 comments: true
 date: 2013-02-25 19:45:28+00:00
 layout: post
-hero: /blog/images/wordpress/Paler-Wendy.jpg
+hero: http://blog.stackoverflow.com/wp-content/uploads/Horstmann-Max.jpg
 slug: max-oded-wendy-val-shefali-and-mike-welcome-to-the-family
 title: 'Max, Oded, Wendy, Val, Shefali, and Mike: Welcome to the Family!'
 wordpress_id: 13169

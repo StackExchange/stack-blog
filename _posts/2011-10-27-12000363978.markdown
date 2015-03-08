@@ -3,7 +3,7 @@ author: brett
 comments: false
 date: 2011-10-27 20:02:00+00:00
 layout: post
-hero: http://26.media.tumblr.com/tumblr_ltqqcz178W1qaxxh4o3_500.jpg
+hero: http://26.media.tumblr.com/tumblr_ltqqcz178W1qaxxh4o1_500.jpg
 slug: '12000363978'
 title: Stack Exchange - Bringing Writers and Fans Together!
 wordpress_id: 10546

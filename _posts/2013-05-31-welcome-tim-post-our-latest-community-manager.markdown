@@ -3,7 +3,7 @@ author: shog
 comments: true
 date: 2013-05-31 15:41:34+00:00
 layout: post
-hero: http://stackoverflow.com/election/1
+hero: http://i.stack.imgur.com/lh8Cp.png
 slug: welcome-tim-post-our-latest-community-manager
 title: Welcome Tim Post, our latest Community Manager
 wordpress_id: 13402

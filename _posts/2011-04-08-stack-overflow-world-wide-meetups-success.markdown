@@ -3,7 +3,7 @@ author: rebecca
 comments: true
 date: 2011-04-08 21:38:11+00:00
 layout: post
-hero: /blog/images/wordpress/SydneyMeetupPic.jpg
+hero: /blog/images/wordpress/SydneyMeetupPic-223x300.jpg
 slug: stack-overflow-world-wide-meetups-success
 title: Stack Overflow World-Wide MeetUps - Success!
 wordpress_id: 7737

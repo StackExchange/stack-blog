@@ -3,7 +3,7 @@ author: spolsky
 comments: true
 date: 2010-05-04 02:20:45+00:00
 layout: post
-hero: http://www.quantcast.com/p-c1rF4kxgLUzNc
+hero: http://blog.stackoverflow.com/wp-content/uploads/sonetwork1.png
 slug: announcing-our-series-a
 title: Announcing the Stack Overflow Series A Financing
 wordpress_id: 3038

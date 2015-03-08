@@ -3,7 +3,7 @@ author: alison
 comments: true
 date: 2011-05-09 19:13:34+00:00
 layout: post
-hero: /blog/images/wordpress/GZSprint3.jpg
+hero: /blog/images/wordpress/GZWin.jpg
 slug: welcome-valued-associate-guy-zerega
 title: Welcome Valued Associate Guy Zerega!
 wordpress_id: 8071

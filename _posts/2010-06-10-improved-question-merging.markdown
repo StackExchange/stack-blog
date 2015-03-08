@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-06-10 06:59:48+00:00
 layout: post
-hero: /blog/images/wordpress/question-merge-example.png
+hero: /blog/images/wordpress/question-merge-example-small.png
 slug: improved-question-merging
 title: Improved Question Merging
 wordpress_id: 3534

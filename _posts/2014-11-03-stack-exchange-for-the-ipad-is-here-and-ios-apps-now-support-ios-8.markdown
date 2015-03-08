@@ -3,7 +3,7 @@ author: kasra
 comments: true
 date: 2014-11-03 19:57:22+00:00
 layout: post
-hero: http://i.stack.imgur.com/MoQTO.png
+hero: http://i.stack.imgur.com/z831f.png
 slug: stack-exchange-for-the-ipad-is-here-and-ios-apps-now-support-ios-8
 title: Stack Exchange for the iPad is here - and iOS apps now support iOS 8
 wordpress_id: 14850

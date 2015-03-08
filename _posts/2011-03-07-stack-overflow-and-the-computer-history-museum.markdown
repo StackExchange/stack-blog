@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2011-03-07 07:59:21+00:00
 layout: post
-hero: /blog/images/wordpress/computer-history-museum-new-exhibit.png
+hero: /blog/images/wordpress/computer-history-museum-new-exhibit-small1.png
 slug: stack-overflow-and-the-computer-history-museum
 title: Stack Overflow and the Computer History Museum
 wordpress_id: 7400

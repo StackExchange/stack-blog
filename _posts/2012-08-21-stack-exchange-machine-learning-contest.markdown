@@ -3,7 +3,7 @@ author: kevinmontrose
 comments: true
 date: 2012-08-21 16:15:48+00:00
 layout: post
-hero: http://blog.stackoverflow.com/2012/08/stack-exchange-machine-learning-contest/fake-mod-tools-3/
+hero: http://blog.stackoverflow.com/wp-content/uploads/fake-mod-tools2.png
 slug: stack-exchange-machine-learning-contest
 title: Stack Exchange Machine Learning Contest
 wordpress_id: 12099

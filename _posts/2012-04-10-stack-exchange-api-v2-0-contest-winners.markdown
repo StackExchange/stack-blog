@@ -3,7 +3,7 @@ author: kevinmontrose
 comments: true
 date: 2012-04-10 20:19:47+00:00
 layout: post
-hero: http://stackapps.com/questions/3178/stack-remote-free-android-app-dedicated-towards-stack-exchange-sites
+hero: http://i.stack.imgur.com/vI5MO.png
 slug: stack-exchange-api-v2-0-contest-winners
 title: Stack Exchange API V2.0 Contest Winners
 wordpress_id: 11494

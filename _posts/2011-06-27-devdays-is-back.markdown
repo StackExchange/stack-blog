@@ -3,7 +3,7 @@ author: spolsky
 comments: true
 date: 2011-06-27 16:56:52+00:00
 layout: post
-hero: http://icanhascheezburger.com/2007/09/25/screw-dis-no-wants/?utm_source=embed&utm_medium=web&utm_campaign=sharewidget
+hero: http://icanhascheezburger.wordpress.com/files/2007/09/128339897745781250screwdisno.jpg
 slug: devdays-is-back
 title: DevDays is Back!
 wordpress_id: 8597

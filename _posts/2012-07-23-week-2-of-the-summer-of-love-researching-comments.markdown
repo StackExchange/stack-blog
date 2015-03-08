@@ -3,7 +3,7 @@ author: seth
 comments: true
 date: 2012-07-23 21:25:52+00:00
 layout: post
-hero: http://upload.wikimedia.org/wikipedia/commons/thumb/2/23/LiliumBulbiferumCroceumBologna.jpg/220px-LiliumBulbiferumCroceumBologna.jpg
+hero: http://i.stack.imgur.com/v9gus.png
 slug: week-2-of-the-summer-of-love-researching-comments
 title: 'Week 2 of the Summer of Love: Researching Comments'
 wordpress_id: 11949

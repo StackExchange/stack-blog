@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2011-08-28 23:08:29+00:00
 layout: post
-hero: /blog/images/wordpress/analytical-badge.png
+hero: http://blog.stackoverflow.com/wp-content/uploads/nerd-badges.jpg
 slug: a-bevy-of-new-badges
 title: A Bevy of New Badges
 wordpress_id: 9602

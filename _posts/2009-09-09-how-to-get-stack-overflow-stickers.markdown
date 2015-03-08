@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-09-09 06:59:22+00:00
 layout: post
-hero: http://marcgravell.blogspot.com/2009/09/stickers-now-what-to-do-with-them.html
+hero: http://blog.stackoverflow.com/wp-content/uploads/trilogy-stickers-gravell1.jpg
 slug: how-to-get-stack-overflow-stickers
 title: How to Get Stack Overflow Stickers
 wordpress_id: 1934

@@ -3,7 +3,7 @@ author: rcartaino
 comments: true
 date: 2011-12-05 06:52:03+00:00
 layout: post
-hero: http://meta.stackoverflow.com/a/93369/98786
+hero: http://i.stack.imgur.com/Wi329.png
 slug: free-vote-based-advertising-launches-fourth-round
 title: Free Vote-Based Advertising Launches 1H 2012
 wordpress_id: 10279

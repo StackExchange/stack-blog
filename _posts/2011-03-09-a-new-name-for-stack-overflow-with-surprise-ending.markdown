@@ -3,7 +3,7 @@ author: spolsky
 comments: true
 date: 2011-03-09 05:30:08+00:00
 layout: post
-hero: /blog/images/wordpress/FebMonthlyUniques1.png
+hero: http://blog.stackoverflow.com/wp-content/uploads/StackExchangeLogo1.png
 slug: a-new-name-for-stack-overflow-with-surprise-ending
 title: A New Name for Stack Overflow (with surprise ending)
 wordpress_id: 7439

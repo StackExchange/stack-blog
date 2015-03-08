@@ -3,7 +3,7 @@ author: abbytmiller
 comments: true
 date: 2015-02-04 20:00:01+00:00
 layout: post
-hero: http://chat.stackexchange.com/transcript/message/19637817#19637817
+hero: http://i.stack.imgur.com/gHEFZ.gif
 slug: podcast-62-delete-this-whole-episode
 title: 'Podcast #62 - Delete This Whole Episode'
 wordpress_id: 15339

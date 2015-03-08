@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2008-04-28 08:15:44+00:00
 layout: post
-hero: /blog/images/wordpress/stackoverflow-server-task-manager.png
+hero: http://blog.stackoverflow.com/wp-content/uploads/powered-by-crystaltech.png
 slug: our-dedicated-server
 title: Our Dedicated Server
 wordpress_id: 12
