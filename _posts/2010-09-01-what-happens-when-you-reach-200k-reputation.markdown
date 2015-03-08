@@ -25,7 +25,7 @@ Just ask [Jon Skeet](http://stackoverflow.com/users/22656/jon-skeet).
 
 
 
-![](/blog/images/2010-09-01-what-happens-when-you-reach-200k-reputation/jon-skeet-unicorn-painting.jpg)
+![](http://blog.stackoverflow.com/wp-content/uploads/jon-skeet-unicorn-painting.jpg)
 
 
 
@@ -33,7 +33,7 @@ Apparently, what happens is ... **you get a painting of unicorns, signed by us, 
 
 
 
-![](/blog/images/2010-09-01-what-happens-when-you-reach-200k-reputation/unicorn-painting.jpg)
+![](http://blog.stackoverflow.com/wp-content/uploads/unicorn-painting.jpg)
 
 
 
@@ -61,7 +61,7 @@ Now, lest you think Mr. Skeet's enormous reputation score is _unassailable_, you
 
 
 
-[![](/blog/images/2010-09-01-what-happens-when-you-reach-200k-reputation/so-reputation-leagues.png)](http://stackexchange.com/leagues/1/week/stackoverflow)
+[![](http://blog.stackoverflow.com/wp-content/uploads/so-reputation-leagues.png)](http://stackexchange.com/leagues/1/week/stackoverflow)
 
 
 

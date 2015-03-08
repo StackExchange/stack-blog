@@ -12,7 +12,7 @@ categories:
 ---
 
 I've been a longtime fan of Rich Skrenta, who you might know as the author of [the world's first computer virus](http://en.wikipedia.org/wiki/Elk_Cloner). He's also on our [board of advisors](http://stackexchange.com/about/management#advisors), and he founded a search startup -- [blekko.com](http://blekko.com).
-[![](/blog/images/2011-02-16-blekko-and-stack-overflow/blekko-slash-the-web-logo.png)](http://blekko.com/)
+[![](http://blog.stackoverflow.com/wp-content/uploads/blekko-slash-the-web-logo.png)](http://blekko.com/)
 Blekko's claim to fame is that it attempts to meld **human curation** with traditional Google-style search algorithms. It's what they call [slashtags](http://blekko.com/tag/show).
 
 As [originally announced on meta](http://meta.stackoverflow.com/questions/77441/community-curation-of-the-blekko-com-programming-slashtags), **the Stack Overflow community has agreed to help curate the programming side of blekko hashtags**. So far that includes:

@@ -91,7 +91,7 @@ So starting tonight, _there will be consequences for patterns of problem behavio
 
 
 
-[![penalty-box](/blog/images/2009-04-06-a-day-in-the-penalty-box/penalty-box.jpg)](http://www.flickr.com/photos/jamescalder/511809934/)
+[![penalty-box](http://blog.stackoverflow.com/wp-content/uploads/penalty-box.jpg)](http://www.flickr.com/photos/jamescalder/511809934/)
 
 
 

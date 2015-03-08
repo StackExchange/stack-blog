@@ -14,7 +14,7 @@ categories:
 
 Friday night we rolled back the domain name of our first out-of-beta website. After less than 24 hours of existing on the internet, nothingtoinstall.com was reverted to its original public beta name -- [webapps.stackexchange.com](http://webapps.stackexchange.com/).
 
-![sorry I'm so stupid cake](/blog/images/2010-10-05-domain-names-the-wrong-question/sorry-im-so-stupid-cake.jpg)
+![sorry I'm so stupid cake](http://blog.stackoverflow.com/wp-content/uploads/sorry-im-so-stupid-cake.jpg)
 
 We're sorry for springing this on you at the last minute but -- at least at the time -- it felt like circumstances didn't give us much choice.
 
@@ -24,7 +24,7 @@ For the time being, **all sites will stick with their `topic.stackexchange.com
 
 So we have:
 
-![](/blog/images/2010-10-05-domain-names-the-wrong-question/logochange.png)
+![](http://blog.stackoverflow.com/wp-content/uploads/logochange.png)
 
 Which name do you like better? I like "Nothing to Install" but I'm not exactly unbiased. I work very hard with these communities, and coming up with decent names is difficult work; some say irreconcilably difficult. But when a site _does_ come up with a good domain name, I believe they should get to use it (when the Stack Overflow folks read this, I'll be in biiiig trouble). On the other hand, most of the domain name ideas are_ so_ bad, perhaps every site should _not_ worry about having their own domain name by the end of beta (when the community reads this, I'll be in biiiig trouble).
 

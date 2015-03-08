@@ -119,7 +119,7 @@ To make these sensitive moderation scenarios easier, we just rolled out **on-sit
 
 
 
-![](/blog/images/2011-02-02-moderator-messages/mod-contact-templates.png)
+![](http://blog.stackoverflow.com/wp-content/uploads/mod-contact-templates.png)
 
 
 

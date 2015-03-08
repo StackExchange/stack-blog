@@ -28,7 +28,7 @@ Our new year's resolution is to **reduce the price** of filing your CV.
 
 
 
-[![sudden realization](/blog/images/2010-01-03-new-lower-careers-pricing/sudden-realization-small1.png)](http://www.wulffmorgenthaler.com/strip.aspx?id=b8588605-9f9b-425f-a45b-b8fa9a5823d1)
+[![sudden realization](http://blog.stackoverflow.com/wp-content/uploads/sudden-realization-small1.png)](http://www.wulffmorgenthaler.com/strip.aspx?id=b8588605-9f9b-425f-a45b-b8fa9a5823d1)
 
 
 
@@ -54,7 +54,7 @@ We believe the barrier is necessary to reduce noise. But it's _also_ a goal to *
 
 
 
-![I love code](/blog/images/2010-01-03-new-lower-careers-pricing/i-love-code-candy.jpg)
+![I love code](http://blog.stackoverflow.com/wp-content/uploads/i-love-code-candy.jpg)
 
 
 

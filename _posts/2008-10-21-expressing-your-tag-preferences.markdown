@@ -16,7 +16,7 @@ Geoff "the malice from corvallis" Dalgas has done it again. Over the last week h
 
 
 
-![stackoverflow-ignored-interesting](/blog/images/2008-10-21-expressing-your-tag-preferences/stackoverflow-ignored-interesting.png)
+![stackoverflow-ignored-interesting](http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-ignored-interesting.png)
 
 
 
@@ -39,7 +39,7 @@ Once you've enter some tag preferences, the questions appear differently dependi
 
 
 
-![stackoverflow-ignored-interesting-questions](/blog/images/2008-10-21-expressing-your-tag-preferences/stackoverflow-ignored-interesting-questions.png)
+![stackoverflow-ignored-interesting-questions](http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-ignored-interesting-questions.png)
 
 
 

@@ -17,7 +17,7 @@ In case you were wondering, no, we haven't forgotten about the Hacker Badge. Whi
 
 
 
-[![hacker-icon](/blog/images/2009-04-02-no-we-have-not-forgotten-about-the-hacker-badge/hacker-icon.png)](http://www.catb.org/~esr/hacker-emblem/)
+[![hacker-icon](http://blog.stackoverflow.com/wp-content/uploads/hacker-icon.png)](http://www.catb.org/~esr/hacker-emblem/)
 
 
 

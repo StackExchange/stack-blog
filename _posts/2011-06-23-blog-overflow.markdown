@@ -32,7 +32,7 @@ A couple months ago, the [Super User](http://superuser.com) community took it up
 
 We are happy to announce that with [Blog Overflow](http://blogoverflow.com), Stack Exchange communities are able to run a community blog.  Several communities have already begun blogging:  [Super User](http://blog.superuser.com) and [Gaming](http://gaming.blogoverflow.com).  A blog for your community can be an excellent form of community engagement.
 
-[![](/blog/images/2011-06-23-blog-overflow/blog-overflow-screenshot1.png)](http://blogoverflow.com)
+[![](http://blog.stackoverflow.com/wp-content/uploads/blog-overflow-screenshot1.png)](http://blogoverflow.com)
 
 
 

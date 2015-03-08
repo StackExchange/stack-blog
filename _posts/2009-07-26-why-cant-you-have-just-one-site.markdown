@@ -19,7 +19,7 @@ Now that we have four sites in [the Stack Overflow trilogy](http://blog.stackove
 
 
 
-![so-trilogy-logos](/blog/images/2009-07-26-why-cant-you-have-just-one-site/so-trilogy-logos.png)
+![so-trilogy-logos](http://blog.stackoverflow.com/wp-content/uploads/so-trilogy-logos.png)
 
 
 
@@ -79,7 +79,7 @@ Furthermore, there's plenty of precedent for the "many sites, each dedicated to 
 
 
 
-![gigaom-network](/blog/images/2009-07-26-why-cant-you-have-just-one-site/gigaom-network.png)
+![gigaom-network](http://blog.stackoverflow.com/wp-content/uploads/gigaom-network.png)
 
 
 
@@ -91,7 +91,7 @@ Furthermore, there's plenty of precedent for the "many sites, each dedicated to 
 
 
 
-![gawker-media-network](/blog/images/2009-07-26-why-cant-you-have-just-one-site/gawker-media-network.png)
+![gawker-media-network](http://blog.stackoverflow.com/wp-content/uploads/gawker-media-network.png)
 
 
 
@@ -103,7 +103,7 @@ Furthermore, there's plenty of precedent for the "many sites, each dedicated to 
 
 
 
-![weblogs-inc-network](/blog/images/2009-07-26-why-cant-you-have-just-one-site/weblogs-inc-network.png)
+![weblogs-inc-network](http://blog.stackoverflow.com/wp-content/uploads/weblogs-inc-network.png)
 
 
 
@@ -111,7 +111,7 @@ We're doing something like that, but we don't think of it as a mundane "network"
 
 
 
-![justice-league-small](/blog/images/2009-07-26-why-cant-you-have-just-one-site/justice-league-small.jpg)
+![justice-league-small](http://blog.stackoverflow.com/wp-content/uploads/justice-league-small.jpg)
 
 
 

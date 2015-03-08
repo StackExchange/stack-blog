@@ -17,11 +17,11 @@ Courtesy of [Stack Overflow user MicTech](http://stackoverflow.com/users/69684/m
 
 
 
-![stack-overflow-lego-minifigs](/blog/images/2009-12-08-stack-overflow-trilogy-lego-minifigs/stack-overflow-lego-minfigs-hires.jpg)
+![stack-overflow-lego-minifigs](http://blog.stackoverflow.com/wp-content/uploads/stack-overflow-lego-minfigs-hires.jpg)
 
 
 
-![stack-overflow-lego-minifigs-2](/blog/images/2009-12-08-stack-overflow-trilogy-lego-minifigs/stack-overflow-lego-minfigs-2-hires.jpg)
+![stack-overflow-lego-minifigs-2](http://blog.stackoverflow.com/wp-content/uploads/stack-overflow-lego-minfigs-2-hires.jpg)
 
 
 

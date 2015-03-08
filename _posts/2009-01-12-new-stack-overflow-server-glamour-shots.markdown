@@ -20,7 +20,7 @@ Now the die is cast -- **check out these sexy glamour shots of the two (soon to 
 
 
 
-![stackoverflow-lenovo-servers-overview](/blog/images/2009-01-12-new-stack-overflow-server-glamour-shots/stackoverflow-lenovo-servers-overview.jpg)
+![stackoverflow-lenovo-servers-overview](http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-lenovo-servers-overview.jpg)
 
 
 
@@ -47,7 +47,7 @@ The 1U web tier servers are modest:
 
 
 
-![lenovo-rs110-overview](/blog/images/2009-01-12-new-stack-overflow-server-glamour-shots/lenovo-rs110-overview.jpg)
+![lenovo-rs110-overview](http://blog.stackoverflow.com/wp-content/uploads/lenovo-rs110-overview.jpg)
 
 
 
@@ -99,11 +99,11 @@ The 2U database tier server is considerably beefier:
 
 
 
-![lenovo-rd120-overview](/blog/images/2009-01-12-new-stack-overflow-server-glamour-shots/lenovo-rd120-overview.jpg)
+![lenovo-rd120-overview](http://blog.stackoverflow.com/wp-content/uploads/lenovo-rd120-overview.jpg)
 
 
 
-![lenovo-rd120-drive-bays](/blog/images/2009-01-12-new-stack-overflow-server-glamour-shots/lenovo-rd120-drive-bays.jpg)
+![lenovo-rd120-drive-bays](http://blog.stackoverflow.com/wp-content/uploads/lenovo-rd120-drive-bays.jpg)
 
 
 

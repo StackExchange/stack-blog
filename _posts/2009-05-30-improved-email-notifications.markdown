@@ -20,7 +20,7 @@ It's a new option at the bottom of any question you've asked:
 
 
 
-![stackoveflow-question-email-ui](/blog/images/2009-05-30-improved-email-notifications/stackoveflow-question-email-ui.png)
+![stackoveflow-question-email-ui](http://blog.stackoverflow.com/wp-content/uploads/stackoveflow-question-email-ui.png)
 
 
 

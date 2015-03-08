@@ -14,11 +14,11 @@ categories:
 
 We're excited to announce that Wednesday, April 6th, 2011, is **World-Wide Stack Overflow MeetUp Day!**
 
-[![](/blog/images/2011-03-17-stack-overflow-meetups-april-6/220x250_Meetups_Banner.jpg)](/blog/images/2011-03-17-stack-overflow-meetups-april-6/220x250_Meetups_Banner.jpg)
+[![](http://blog.stackoverflow.com/wp-content/uploads/220x250_Meetups_Banner.jpg)](http://blog.stackoverflow.com/wp-content/uploads/220x250_Meetups_Banner.jpg)
 
 We commonly say that Stack Overflow is run by the community. We also commonly say that Stack Overflow is not a social networking site. There's no private messaging. There's no "friends" list. The entire focus is on the knowledge shared. So, when interest arises to organize world-wide "meet ups", we need a little help from you.
 
-[![](/blog/images/2011-03-17-stack-overflow-meetups-april-6/MeetUpBlogPic3-300x181.png)](/blog/images/2011-03-17-stack-overflow-meetups-april-6/MeetUpBlogPic3.png)
+[![](http://blog.stackoverflow.com/wp-content/uploads/MeetUpBlogPic3-300x181.png)](http://blog.stackoverflow.com/wp-content/uploads/MeetUpBlogPic3.png)
 
 Stack Overflow users are [a diverse group of people](http://blog.stackoverflow.com/2010/12/stack-overflow-2010-analytics/), spread all over the world (_there’s a lot of green on that map!_). To get everyone involved in this year's MeetUp, we would like to organize into local groups by getting everyone in each area together... all at the same time. We are making it easy for anyone to organize a local group or find one of the groups already meeting up face-to-face. Meetups.com provides just that service.** **
 

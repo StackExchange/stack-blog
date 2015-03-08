@@ -16,7 +16,7 @@ categories:
 
 The Stack Exchange engine draws inspiration from a number of sources.
 
-![stackoverflow-venn-diagram](/blog/images/2011-02-05-suggested-edits-and-edit-review/stackoverflow-venn-diagram.png)
+![stackoverflow-venn-diagram](http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-venn-diagram.png)
 
 We continue to be great admirers of Wikipedia, but we've always missed out on one crucial aspect of their system: we never allowed anonymous users to edit content. No, that required [earning privileges through participation](http://blog.stackoverflow.com/2010/10/membership-has-its-privileges/) -- specifically, the retag privilege at 500 reputation and the full editing privilege at  2000 reputation. 
 
@@ -24,7 +24,7 @@ Well, as of today, I'm proud to announce that we allow anonymous and new users t
 
 We do currently limit anonymous edits to questions and answers more than 10 minutes old (and with some different caveats, wiki pages too). Millions of posts now have that ubiquitous edit link at the bottom. Click it, and you'll be sent to the standard editing interface, albeit with a small disclaimer at the top.
 
-![](/blog/images/2011-02-05-suggested-edits-and-edit-review/anon-edit-warning.png)
+![](http://blog.stackoverflow.com/wp-content/uploads/anon-edit-warning.png)
 
 There are a few additional requirements when submitting an edit suggestion:
 
@@ -43,7 +43,7 @@ After the edit is submitted, it goes into an edit suggestion queue of a fixed si
 
   1. Suggested edits for a post are always visible on the post itself. If edits are pending on a particular post, the post's **edit menu** will have a counter next to it.  
   
-![](/blog/images/2011-02-05-suggested-edits-and-edit-review/pending-edit-post-menu.png)  
+![](http://blog.stackoverflow.com/wp-content/uploads/pending-edit-post-menu.png)  
   
 Clicking on the edit from a post will show it inline in a floating panel, so you aren't interrupted.  
   
@@ -51,13 +51,13 @@ Clicking on the edit from a post will show it inline in a floating panel, so you
 
   2. If you have 10,000 reputation, a **counter will appear at the top of the page** showing the size of the edit suggestion queue (if it's greater than zero, of course). Clicking this counter will take you to a [new `/review` tab](http://blog.stackoverflow.com/2011/01/how-to-say-thanks-in-an-answer/) that lists _all_ suggested edits in the queue.  
   
-![](/blog/images/2011-02-05-suggested-edits-and-edit-review/suggested-edits-indicator.png)  
+![](http://blog.stackoverflow.com/wp-content/uploads/suggested-edits-indicator.png)  
 
 
 
 Once you click on a suggested edit, you get a diff view that shows you the original post on the left, and the edited version on the right. All additions and deletions are highlighted. You can also toggle between HTML and Markdown views via the toolbar buttons on the left.
 
-![](/blog/images/2011-02-05-suggested-edits-and-edit-review/edit-suggestion-diff.png)
+![](http://blog.stackoverflow.com/wp-content/uploads/edit-suggestion-diff.png)
 
 From here, you can approve or reject the edit. **When an edit is approved, the editor receives +2 reputation** -- up to a maximum of +1000 total per user. Contributing good edits is now a nice way to gain reputation and bootstrap less active users into full members of the community.
 

@@ -13,13 +13,13 @@ categories:
 
 There's a bit of a leadership vacuum inside [the new Stack Exchange communities](http://area51.stackexchange.com/) in public beta. We've put a lot of responsibility on each group to take ownership of their own site. The Stack Exchange team can act as guide, but we don't always have the domain knowledge to understand the needs of each group. As the Network expands, this stretches our ability to assure that each community's issues are properly addressed.
 
-[![](/blog/images/2010-07-27-moderator-pro-tempore/current-stack-exchange-2-public-betas.png)](http://stackexchange.com)
+[![](http://blog.stackoverflow.com/wp-content/uploads/current-stack-exchange-2-public-betas.png)](http://stackexchange.com)
 
 That's why I am in the process of **identifying and organizing a team of provisional Moderators from within each community** (about three per site, starting  about seven days into the public Beta). This is a temporary, short-term appointment. Moderators Pro Tem focus and expedite [the essential needs of each new site](http://blog.stackoverflow.com/2010/07/the-7-essential-meta-questions-of-every-beta/). By the end of Beta, the community will be better suited to hold their own elections.
 
 Moderators in Stack Exchange have an interesting challenge. Beside the [normal activities of a Moderator](http://blog.stackoverflow.com/2009/05/a-theory-of-moderation/), part of their function is to act as _liaison_ — a role which links the Stack Exchange team with the individual communities.
 
-![](/blog/images/2010-07-27-moderator-pro-tempore/se-2-moderator.png)
+![](http://blog.stackoverflow.com/wp-content/uploads/se-2-moderator.png)
 
 A Moderator is the site's representative to the Network.
 
@@ -37,7 +37,7 @@ A Moderator is the site's representative to the Network.
 
 **We need leadership from within the community to help each site succeed_,_** and Moderators assure that that _their_ site is well represented.
 
-![](/blog/images/2010-07-27-moderator-pro-tempore/leadership.jpg)
+![](http://blog.stackoverflow.com/wp-content/uploads/leadership.jpg)
 
 Of course, if the idea involves the core engine or applies to a broader range of sites, the idea should be raised in [meta.stackexchange.com](http://meta.stackexchange.com/): the "capital city" of Stack Exchange.
 

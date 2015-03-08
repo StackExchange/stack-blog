@@ -14,7 +14,7 @@ categories:
 
 Our program for world domination through stickers is well underway. Check out the cool stuff that Stack Overflow users have [sent in for stickers](http://blog.stackoverflow.com/2009/09/how-to-get-stack-overflow-stickers/) to date:
 
-[![stack-overflow-stickers-mailed-stuff](/blog/images/2009-10-07-stickers-for-stackers/stack-overflow-stickers-mailed-stuff.jpg)](/blog/images/2009-10-07-stickers-for-stackers/stack-overflow-stickers-mailed-stuff-large.jpg)
+[![stack-overflow-stickers-mailed-stuff](http://blog.stackoverflow.com/wp-content/uploads/stack-overflow-stickers-mailed-stuff.jpg)](http://blog.stackoverflow.com/wp-content/uploads/stack-overflow-stickers-mailed-stuff-large.jpg)
 
 See, [Stack Overflow really is built on love, internet style!](http://blog.stackoverflow.com/2009/09/i-heart-stack-overflow/)
 

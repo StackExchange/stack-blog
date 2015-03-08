@@ -18,7 +18,7 @@ As promised, the [Stack Exchange Data Explorer](http://odata.stackexchange.com/)
 
 
 
-[![](/blog/images/2010-06-25-stack-exchange-data-explorer-open-sourced/stack-exchange-data-explorer.png)](http://odata.stackexchange.com/)
+[![](http://blog.stackoverflow.com/wp-content/uploads/stack-exchange-data-explorer.png)](http://odata.stackexchange.com/)
 
 
 

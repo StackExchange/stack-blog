@@ -53,7 +53,7 @@ That's why I recommend considering these gray area questions in the context of t
 
 
 
-[![](/blog/images/2010-11-29-the-pee-wee-herman-rule/pee-wee-biker-bar.jpg)](http://www.youtube.com/watch?v=UVKsd8z6scw)
+[![](http://blog.stackoverflow.com/wp-content/uploads/pee-wee-biker-bar.jpg)](http://www.youtube.com/watch?v=UVKsd8z6scw)
 
 
 

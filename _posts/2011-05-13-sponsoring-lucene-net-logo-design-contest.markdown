@@ -45,9 +45,9 @@ So they can go from these old and busted logos ...
 
 
 
-[![](/blog/images/2011-05-13-sponsoring-lucene-net-logo-design-contest/lucene-logo.png)](https://99designs.com/logo-design/contests/help-lucene-net-logo-77574)  
+[![](http://blog.stackoverflow.com/wp-content/uploads/lucene-logo.png)](https://99designs.com/logo-design/contests/help-lucene-net-logo-77574)  
 
-[![](/blog/images/2011-05-13-sponsoring-lucene-net-logo-design-contest/apache-lucene-net-old-logo.png)](https://99designs.com/logo-design/contests/help-lucene-net-logo-77574)
+[![](http://blog.stackoverflow.com/wp-content/uploads/apache-lucene-net-old-logo.png)](https://99designs.com/logo-design/contests/help-lucene-net-logo-77574)
 
 
 

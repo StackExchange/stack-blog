@@ -62,7 +62,7 @@ What happened next depended on the newsgroup.
 
 
 
-[![](/blog/images/2011-01-05-the-wikipedia-of-long-tail-programming-questions/lord-of-the-flies.jpg)](http://www.imdb.com/title/tt0057261/)
+[![](http://blog.stackoverflow.com/wp-content/uploads/lord-of-the-flies.jpg)](http://www.imdb.com/title/tt0057261/)
 
 
 

@@ -12,7 +12,7 @@ categories:
 ---
 
 
-[![](/blog/images/2010-08-03-a-surprisingly-accurate-depiction-of-a-typical-work-day/unicorns-make-happies-by-jollyjack-2x4.png)](http://jollyjack.deviantart.com/art/Unicorns-make-happies-172917505)
+[![](http://blog.stackoverflow.com/wp-content/uploads/unicorns-make-happies-by-jollyjack-2x4.png)](http://jollyjack.deviantart.com/art/Unicorns-make-happies-172917505)
 
 
 

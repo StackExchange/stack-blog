@@ -17,7 +17,7 @@ I'm proud to announce that [stackexchange.com](http://stackexchange.com) is now 
 
 
 
-[![](/blog/images/2010-08-13-network-central-stackexchange-com/stackexchange-new-homepage.png)
+[![](http://blog.stackoverflow.com/wp-content/uploads/stackexchange-new-homepage.png)
 ](http://stackexchange.com)
 
 
@@ -51,11 +51,11 @@ Just check for **the genuinetm Stack Exchange logo in the upper left hand corner
 
 
 
-![](/blog/images/2010-08-13-network-central-stackexchange-com/genuwine-stack-exchange-questions.png)
+![](http://blog.stackoverflow.com/wp-content/uploads/genuwine-stack-exchange-questions.png)
 
 
 
-![](/blog/images/2010-08-13-network-central-stackexchange-com/genuwine-stack-exchange-sites.png)
+![](http://blog.stackoverflow.com/wp-content/uploads/genuwine-stack-exchange-sites.png)
 
 
 
@@ -67,7 +67,7 @@ And that's not all. We've also rolled out something that's been requested for a 
 
 
 
-[![](/blog/images/2010-08-13-network-central-stackexchange-com/reputation-league-weekly.png)](http://stackexchange.com/leagues)
+[![](http://blog.stackoverflow.com/wp-content/uploads/reputation-league-weekly.png)](http://stackexchange.com/leagues)
 
 
 

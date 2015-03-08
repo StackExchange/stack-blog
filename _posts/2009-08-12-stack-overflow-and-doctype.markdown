@@ -17,7 +17,7 @@ Remember our [League of (web) Justice?](http://blog.stackoverflow.com/2009/07/wh
 
 
 
-![justice-league-small](/blog/images/2009-08-12-stack-overflow-and-doctype/justice-league-small.jpg)
+![justice-league-small](http://blog.stackoverflow.com/wp-content/uploads/justice-league-small.jpg)
 
 
 
@@ -27,7 +27,7 @@ Well, I'm pleased to announce we have recruited another superhero into our leagu
 
 
 
-[![](/blog/images/2009-08-12-stack-overflow-and-doctype/doctype-logo.jpg)](http://doctype.com)
+[![](http://blog.stackoverflow.com/wp-content/uploads/doctype-logo.jpg)](http://doctype.com)
 
 
 

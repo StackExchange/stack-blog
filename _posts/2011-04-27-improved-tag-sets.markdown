@@ -27,7 +27,7 @@ Nowhere is this more apparent than Tag Sets, which [we originally rolled out las
 
 We rolled up our sleeves and built an all new, _much_ friendlier interface. We also renamed it to something that's hopefully a bit clearer: **filters**.
 
-[![](/blog/images/2011-04-27-improved-tag-sets/stack-exchange-tag-filters.png)](http://stackexchange.com/filters)
+[![](http://blog.stackoverflow.com/wp-content/uploads/stack-exchange-tag-filters.png)](http://stackexchange.com/filters)
 
 There are also two new built-in, default filters available for every network user:
 
@@ -44,6 +44,6 @@ There are also two new built-in, default filters available for every network use
 
 Oh, and don't forget [you have a network profile](http://blog.stackoverflow.com/2011/04/stack-exchange-network-profiles/) at stackexchange.com, too.
 
-![](/blog/images/2011-04-27-improved-tag-sets/stack-exchange-user-page-link.png)
+![](http://blog.stackoverflow.com/wp-content/uploads/stack-exchange-user-page-link.png)
 
 Expect more news on this soon!

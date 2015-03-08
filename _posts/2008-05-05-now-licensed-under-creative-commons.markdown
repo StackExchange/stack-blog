@@ -21,7 +21,7 @@ The Creative Commons site defines [four main clauses](http://creativecommons.org
 <blockquote>
 
 > 
-> ![Attribution](/blog/images/2008-05-05-now-licensed-under-creative-commons/cc-attrib.png) **Attribution**
+> ![Attribution](http://blog.stackoverflow.com/wp-content/uploads/cc-attrib.png) **Attribution**
 
 > 
 > 
@@ -35,7 +35,7 @@ You let others copy, distribute, display, and perform your copyrighted work — 
 
 > 
 > 
-![Noncommercial](/blog/images/2008-05-05-now-licensed-under-creative-commons/cc-noncommercial.png)**Noncommercial**
+![Noncommercial](http://blog.stackoverflow.com/wp-content/uploads/cc-noncommercial.png)**Noncommercial**
 
 > 
 > 
@@ -49,7 +49,7 @@ You let others copy, distribute, display, and perform your work — and derivati
 
 > 
 > 
-![No Derivative Works](/blog/images/2008-05-05-now-licensed-under-creative-commons/cc-noderivativeworks.png) **No Derivative Works**
+![No Derivative Works](http://blog.stackoverflow.com/wp-content/uploads/cc-noderivativeworks.png) **No Derivative Works**
 
 > 
 > 
@@ -63,7 +63,7 @@ You let others copy, distribute, display, and perform only verbatim copies of yo
 
 > 
 > 
-![Share Alike](/blog/images/2008-05-05-now-licensed-under-creative-commons/cc-sharealike.png) **Share Alike**
+![Share Alike](http://blog.stackoverflow.com/wp-content/uploads/cc-sharealike.png) **Share Alike**
 
 > 
 > 

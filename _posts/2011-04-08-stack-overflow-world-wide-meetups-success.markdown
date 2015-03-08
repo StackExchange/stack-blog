@@ -17,47 +17,47 @@ While not every MeetUp had tons of people, it seemed like everyone had a great t
 
 **Sydney, Australia:**
 
-[![](/blog/images/2011-04-08-stack-overflow-world-wide-meetups-success/SydneyMeetupPic-223x300.jpg)](/blog/images/2011-04-08-stack-overflow-world-wide-meetups-success/SydneyMeetupPic.jpg)
+[![](http://blog.stackoverflow.com/wp-content/uploads/SydneyMeetupPic-223x300.jpg)](http://blog.stackoverflow.com/wp-content/uploads/SydneyMeetupPic.jpg)
 
 **Bangkok, Thailand:**
 
-[![](/blog/images/2011-04-08-stack-overflow-world-wide-meetups-success/BangkokMeetUpPic-300x200.jpg)](/blog/images/2011-04-08-stack-overflow-world-wide-meetups-success/BangkokMeetUpPic.jpg)
+[![](http://blog.stackoverflow.com/wp-content/uploads/BangkokMeetUpPic-300x200.jpg)](http://blog.stackoverflow.com/wp-content/uploads/BangkokMeetUpPic.jpg)
 
-[](/blog/images/2011-04-08-stack-overflow-world-wide-meetups-success/BangkokMeetUpPic.jpg)[![](/blog/images/2011-04-08-stack-overflow-world-wide-meetups-success/BangkokMeetUpPic2-199x300.jpg)](/blog/images/2011-04-08-stack-overflow-world-wide-meetups-success/BangkokMeetUpPic2.jpg)
+[](http://blog.stackoverflow.com/wp-content/uploads/BangkokMeetUpPic.jpg)[![](http://blog.stackoverflow.com/wp-content/uploads/BangkokMeetUpPic2-199x300.jpg)](http://blog.stackoverflow.com/wp-content/uploads/BangkokMeetUpPic2.jpg)
 
 **Kozhikode, India:**
 
-[![](/blog/images/2011-04-08-stack-overflow-world-wide-meetups-success/KozhikodeMeetupPic-300x168.jpg)](/blog/images/2011-04-08-stack-overflow-world-wide-meetups-success/KozhikodeMeetupPic.jpg)
+[![](http://blog.stackoverflow.com/wp-content/uploads/KozhikodeMeetupPic-300x168.jpg)](http://blog.stackoverflow.com/wp-content/uploads/KozhikodeMeetupPic.jpg)
 
 **Washington DC, USA:**
 
-**[![](/blog/images/2011-04-08-stack-overflow-world-wide-meetups-success/DCMeetupTweet.png)](/blog/images/2011-04-08-stack-overflow-world-wide-meetups-success/DCMeetupTweet.png)**
+**[![](http://blog.stackoverflow.com/wp-content/uploads/DCMeetupTweet.png)](http://blog.stackoverflow.com/wp-content/uploads/DCMeetupTweet.png)**
 
 **New York City, New York, USA:**
 
-**[![](/blog/images/2011-04-08-stack-overflow-world-wide-meetups-success/NYCMeetUpPic-300x225.jpg)](/blog/images/2011-04-08-stack-overflow-world-wide-meetups-success/NYCMeetUpPic.jpg)
+**[![](http://blog.stackoverflow.com/wp-content/uploads/NYCMeetUpPic-300x225.jpg)](http://blog.stackoverflow.com/wp-content/uploads/NYCMeetUpPic.jpg)
 **
 
 **Chicago, Illinois, USA:**
 
-[![](/blog/images/2011-04-08-stack-overflow-world-wide-meetups-success/ChicagoMeetupTweet.png)](/blog/images/2011-04-08-stack-overflow-world-wide-meetups-success/ChicagoMeetupTweet.png)
+[![](http://blog.stackoverflow.com/wp-content/uploads/ChicagoMeetupTweet.png)](http://blog.stackoverflow.com/wp-content/uploads/ChicagoMeetupTweet.png)
 
 **Seattle, Washington, USA:**
 
-[![](/blog/images/2011-04-08-stack-overflow-world-wide-meetups-success/SeattleMeetUpPic-300x225.jpg)](/blog/images/2011-04-08-stack-overflow-world-wide-meetups-success/SeattleMeetUpPic.jpg)
+[![](http://blog.stackoverflow.com/wp-content/uploads/SeattleMeetUpPic-300x225.jpg)](http://blog.stackoverflow.com/wp-content/uploads/SeattleMeetUpPic.jpg)
 
 **Vancouver:**
 
-[![](/blog/images/2011-04-08-stack-overflow-world-wide-meetups-success/VancouverMeetUpPic-224x300.jpg)](/blog/images/2011-04-08-stack-overflow-world-wide-meetups-success/VancouverMeetUpPic.jpg)
+[![](http://blog.stackoverflow.com/wp-content/uploads/VancouverMeetUpPic-224x300.jpg)](http://blog.stackoverflow.com/wp-content/uploads/VancouverMeetUpPic.jpg)
 
-[![](/blog/images/2011-04-08-stack-overflow-world-wide-meetups-success/VancouverMeetUpTweet.png)](/blog/images/2011-04-08-stack-overflow-world-wide-meetups-success/VancouverMeetUpTweet.png)
+[![](http://blog.stackoverflow.com/wp-content/uploads/VancouverMeetUpTweet.png)](http://blog.stackoverflow.com/wp-content/uploads/VancouverMeetUpTweet.png)
 
 **Mountain View, California, USA:**
 
-**[![](/blog/images/2011-04-08-stack-overflow-world-wide-meetups-success/MountainViewMeetUpPic-300x224.jpg)](/blog/images/2011-04-08-stack-overflow-world-wide-meetups-success/MountainViewMeetUpPic.jpg)
+**[![](http://blog.stackoverflow.com/wp-content/uploads/MountainViewMeetUpPic-300x224.jpg)](http://blog.stackoverflow.com/wp-content/uploads/MountainViewMeetUpPic.jpg)
 **
 
-**[![](/blog/images/2011-04-08-stack-overflow-world-wide-meetups-success/MountainViewMeetupTweet.png)](/blog/images/2011-04-08-stack-overflow-world-wide-meetups-success/MountainViewMeetupTweet.png)
+**[![](http://blog.stackoverflow.com/wp-content/uploads/MountainViewMeetupTweet.png)](http://blog.stackoverflow.com/wp-content/uploads/MountainViewMeetupTweet.png)
 **
 
 This was very much an experiment for us, and I think it went great.  A couple of communities have gone in and set up another MeetUp for next month.  That’s awesome!  We have seen interest in doing MeetUps again, and we’d love your feedback on how we can improve.  Does an annual MeetUp make sense?  Let us know in the comments or in a Meta Stack Overflow post what you’d like to see happen.

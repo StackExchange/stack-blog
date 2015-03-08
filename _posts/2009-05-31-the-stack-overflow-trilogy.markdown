@@ -19,7 +19,7 @@ I've always envisioned the Stack Overflow story as a trilogy. You know, like **S
 <table >
 <tr >
 
-<td >![star-wars-poster](/blog/images/2009-05-31-the-stack-overflow-trilogy/star-wars-poster1.jpg)
+<td >![star-wars-poster](http://blog.stackoverflow.com/wp-content/uploads/star-wars-poster1.jpg)
 
 <td style="padding-left:10px;" valign="top" >
 [![](http://stackoverflow.com/content/stackoverflow/img/logo.png)](http://stackoverflow.com)  
@@ -42,7 +42,7 @@ The first. The fondly remembered classic. A model for so many sci-fi movies that
 </tr>
 <tr >
 
-<td >![star-wars-empire-strikes-back-poster](/blog/images/2009-05-31-the-stack-overflow-trilogy/star-wars-empire-strikes-back-poster1.jpg)
+<td >![star-wars-empire-strikes-back-poster](http://blog.stackoverflow.com/wp-content/uploads/star-wars-empire-strikes-back-poster1.jpg)
 
 <td style="padding-left:10px;" valign="top" >
 [![](http://serverfault.com/content/serverfault/img/logo.png)](http://serverfault.com)  
@@ -65,7 +65,7 @@ A darker, more serious movie. Some say the best in the series.
 </tr>
 <tr >
 
-<td >![star-wars-return-of-the-jedi-poster](/blog/images/2009-05-31-the-stack-overflow-trilogy/star-wars-return-of-the-jedi-poster1.jpg)
+<td >![star-wars-return-of-the-jedi-poster](http://blog.stackoverflow.com/wp-content/uploads/star-wars-return-of-the-jedi-poster1.jpg)
 
 <td style="padding-left:10px;" valign="top" >
 [![superuser-temp-logo](http://superuser.com/content/superuser/img/logo.png)](http://superuser.com)  
@@ -98,7 +98,7 @@ At any rate, **if you wanted a community where (almost) anything goes, you're ab
 
 
 
-![ewok-closeup](/blog/images/2009-05-31-the-stack-overflow-trilogy/ewok-closeup.jpg)
+![ewok-closeup](http://blog.stackoverflow.com/wp-content/uploads/ewok-closeup.jpg)
 
 
 

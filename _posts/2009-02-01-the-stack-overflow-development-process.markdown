@@ -16,7 +16,7 @@ I occasionally get questions about the Stack Overflow development process. It go
 
 
 
-[![The Stack Overflow Development Process](/blog/images/2009-02-01-the-stack-overflow-development-process/bug-bash-stackoverflow-development-process.png)](http://www.bugbash.net/comic/113.html)
+[![The Stack Overflow Development Process](http://blog.stackoverflow.com/wp-content/uploads/bug-bash-stackoverflow-development-process.png)](http://www.bugbash.net/comic/113.html)
 
 
 

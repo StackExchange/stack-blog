@@ -13,7 +13,7 @@ categories:
 
 We've been busy hiring more of the most talented people on the planet! Three cheers for the newest employees at Stack Exchange:
 
-**[![](/blog/images/2013-02-25-max-oded-wendy-val-shefali-and-mike-welcome-to-the-family/Horstmann-Max.jpg)](http://stackoverflow.com/users/189572/max)Max Horstmann, Web Developer (Careers 2.0)**
+**[![](http://blog.stackoverflow.com/wp-content/uploads/Horstmann-Max.jpg)](http://stackoverflow.com/users/189572/max)Max Horstmann, Web Developer (Careers 2.0)**
 
 _New York_
 
@@ -21,7 +21,7 @@ __Max joins Stack Exchange as a developer on the Careers team. Originally from D
 
 
 
-**[![](/blog/images/2013-02-25-max-oded-wendy-val-shefali-and-mike-welcome-to-the-family/Coster-Oded1.jpg)](http://stackoverflow.com/users/1583/oded)Oded Coster, Web Developer (Core)**
+**[![](http://blog.stackoverflow.com/wp-content/uploads/Coster-Oded1.jpg)](http://stackoverflow.com/users/1583/oded)Oded Coster, Web Developer (Core)**
 
 _London_
 
@@ -33,7 +33,7 @@ A long time Stack Overflow user and contributor (Beta badge, baby!), Oded is hig
 
 
 
-**![](/blog/images/2013-02-25-max-oded-wendy-val-shefali-and-mike-welcome-to-the-family/Paler-Wendy.jpg)Wendy Paler, Account Executive**
+**![](http://blog.stackoverflow.com/wp-content/uploads/Paler-Wendy.jpg)Wendy Paler, Account Executive**
 
 _New York_
 
@@ -43,7 +43,7 @@ Wendy grew up in Wisconsin and has been living in New York for over five years. 
 
 
 
-**![](/blog/images/2013-02-25-max-oded-wendy-val-shefali-and-mike-welcome-to-the-family/Perez-Valentina.jpg)Valentina Perez, Office Manager**
+**![](http://blog.stackoverflow.com/wp-content/uploads/Perez-Valentina.jpg)Valentina Perez, Office Manager**
 
 _London****_
 
@@ -51,7 +51,7 @@ Val was born in Argentina (won't eat beef), grew up in Ottawa, Canada (hates sno
 
 
 
-**![](/blog/images/2013-02-25-max-oded-wendy-val-shefali-and-mike-welcome-to-the-family/Shah-Shefali.jpg)****Shefali Shah, Sales Representative**
+**![](http://blog.stackoverflow.com/wp-content/uploads/Shah-Shefali.jpg)****Shefali Shah, Sales Representative**
 
 _Denver_
 
@@ -61,7 +61,7 @@ Hailing from the bustling city of Mumbai, Shefali is an interesting mix of the E
 
 
 
-**![](/blog/images/2013-02-25-max-oded-wendy-val-shefali-and-mike-welcome-to-the-family/Hardy-Mike.jpg)Michael Hardy, Account Executive**
+**![](http://blog.stackoverflow.com/wp-content/uploads/Hardy-Mike.jpg)Michael Hardy, Account Executive**
 
 _Denver_
 

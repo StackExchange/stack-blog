@@ -40,7 +40,7 @@ We're starting small, with the least important of our content, to safeguard the 
 
 Comments created with the API show which app created them when you hover over them, like so:
 
-[![](/blog/images/2012-09-04-stack-exchange-api-v2-1/comment.png)](http://blog.stackoverflow.com/2012/09/stack-exchange-api-v2-1/comment/)
+[![](http://blog.stackoverflow.com/wp-content/uploads/comment.png)](http://blog.stackoverflow.com/2012/09/stack-exchange-api-v2-1/comment/)
 
 The link shown will take you to an app's Stack Apps post, letting you find new apps right from your favorite sites (as well as report malicious ones easily).
 

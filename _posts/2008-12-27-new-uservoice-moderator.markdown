@@ -16,7 +16,7 @@ Over the last few months, I've noticed a few users that have been exceptionally 
 
 
 
-![uservoice: top users by activity](/blog/images/2008-12-27-new-uservoice-moderator/uservoice-top-users-by-activity1.png)
+![uservoice: top users by activity](http://blog.stackoverflow.com/wp-content/uploads/uservoice-top-users-by-activity1.png)
 
 
 

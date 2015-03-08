@@ -18,11 +18,11 @@ One strong predictor of a poor quality answer may surprise you: **the presence o
 
 That's right, the humble, innocent desire to thank your fellow man (or woman) for some question or answer they have contributed was sadly choking our system in thousands upon thousands of florid thank you "answers". 
 
-[![thank you](/blog/images/2011-01-08-how-to-say-thanks-in-an-answer/thank-you-badge.png)](http://rockofeye.net/artists/gray318)
+[![thank you](http://blog.stackoverflow.com/wp-content/uploads/thank-you-badge.png)](http://rockofeye.net/artists/gray318)
 
 While there's nothing at all wrong with the sentiment, we have a firmly established convention already in place for thanking our fellow users: **vote up their post or comment!** **Every upvote is an implicit "thank you".** 
 
-![](/blog/images/2011-01-08-how-to-say-thanks-in-an-answer/upvote-thank-you.png)
+![](http://blog.stackoverflow.com/wp-content/uploads/upvote-thank-you.png)
 
 But, to be fair, it takes a registered account _and_ a minimum of 15 reputation before you earn the right to upvote anything. So legions of thankful drive-by anonymous users were exploiting the only avenue available to them: leaving Yet Another Thanks Answer.
 

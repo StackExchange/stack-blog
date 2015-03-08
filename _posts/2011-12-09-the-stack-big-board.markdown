@@ -11,7 +11,7 @@ categories:
 - stackexchange
 ---
 
-[![](/blog/images/2011-12-09-the-stack-big-board/Big-Board-High-1024x682.jpg)](http://blog.stackoverflow.com/2011/12/the-stack-big-board/big-board-high/)
+[![](http://blog.stackoverflow.com/wp-content/uploads/Big-Board-High-1024x682.jpg)](http://blog.stackoverflow.com/2011/12/the-stack-big-board/big-board-high/)
 
 Anyone who has seen pictures or video from our office in the last few months has probably noticed a small addition in the form of five large screens mounted in the middle of it.  The screens came about when we were first hiring CHAOS and realized that we wanted an easy way to visualize and display relevant information (or play video games) during the day.  The first iterations where a bit, um, crazier (as evidenced by [this rendering](http://blog.stackoverflow.com/wp-content/uploads/CHAOS-Desks.png) that we cooked up).  Eventually though, we decided that we needed something that fit in our 8' ceilings and could be seen by everyone.
 
@@ -20,7 +20,7 @@ And so our current version was born (technically, this is version 2.13 - the fir
 There are two pieces of 2 meter box truss that make the main upright supports (and each have one of the vertical monitors mounted to them) and one piece of 3.5 meter ladder truss that makes up the span holding the three landscape monitors.  All of the TVs are hung directly to the truss using O-clamps (which are secured to the TVs using standard M6 bolts).  Wire management is also pretty easy as all of the wiring is run directly through the truss or ziptied to it.
 
 
-[![](/blog/images/2011-12-09-the-stack-big-board/Truss-218x300.jpg)](/blog/images/2011-12-09-the-stack-big-board/Truss.jpg)
+[![](http://blog.stackoverflow.com/wp-content/uploads/Truss-218x300.jpg)](http://blog.stackoverflow.com/wp-content/uploads/Truss.jpg)
 
 
 So what makes up the Big Board?

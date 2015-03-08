@@ -16,7 +16,7 @@ Geoff Dalgas, the newest member of the Stack Overflow team, shared **this strang
 
 
 
-![stack overflow error](/blog/images/2008-06-21-a-strangely-familiar-error/stack-overflow-error.png)
+![stack overflow error](http://blog.stackoverflow.com/wp-content/uploads/stack-overflow-error.png)
 
 
 

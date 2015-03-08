@@ -66,7 +66,7 @@ Most of our major features start with a mock-up and a spec, handed to us by ou
 
 To give you an idea of what it looks like, our initial mockups for the apply feature looked like this:
 
-![Balsamic mockups for the apply workflow](/blog/images/2012-03-02-enterprise-vs-consumer-development/apply_mockups_6001.png)
+![Balsamic mockups for the apply workflow](http://blog.stackoverflow.com/wp-content/uploads/apply_mockups_6001.png)
 
 By the way: those mock-ups were produced using [Balsamiq](http://www.balsamiq.com/), which lets us quickly throw together clean (but _obviously fake_) screens.  We like Balsamic Mockups so much, [we partnered with them](http://blogs.balsamiq.com/product/2012/02/27/uxstackexchange/) to make a light-weight version of the tool available on our UX site - [check it out](http://meta.ux.stackexchange.com/questions/647/can-stackexchange-license-balsamiq-for-mockups-on-ux-stackexchange)!
 
@@ -154,7 +154,7 @@ User Analytics allows you to measure the performance of your feature - at Stack 
 
 An example of the importance of this feedback was when we added the ability for anonymous users to apply without using their online profile. In the original version this feature didn't seem that useful to us. It turns out we were wrong. After deploying the new feature (unannounced), we saw an overwhelming increase in job applications, practically overnight:
 
-![Usage graph for the new apply feature](/blog/images/2012-03-02-enterprise-vs-consumer-development/apply_usage1.png)
+![Usage graph for the new apply feature](http://blog.stackoverflow.com/wp-content/uploads/apply_usage1.png)
 
 We use the high-level overview graph above to track our daily applications and the uphill climb towards the end is just after we introduced anonymous user applications by highlighting its availability in the Employers [Post a new Job form](http://careers.stackoverflow.com/jobs/post). We've basically doubled the number of profile applications we received (seen in Red) and the mountainous blue on top are the candidates opting to apply with their own CV - by far the overwhelming majority. This tells us we have to accept (no matter how many features we add to our [Career 2.0 profiles](http://careers.stackoverflow.com/mythz)) that candidates often prefer to submit their own CVs and that we should optimize this use-case in future.
 
@@ -166,4 +166,4 @@ Working on this feature from its inception has taught me a lot about the differe
 
 If you're interested in this Career 2.0 lifestyle choice, come join us! We're currently on the lookout for talented devs to join the team, and applying for it gives you a chance to test-drive the new Apply feature!
 
-[![jobs on the Stack Exchange hiring page](/blog/images/2012-03-02-enterprise-vs-consumer-development/stackexchange-jobs1.png)](http://stackexchange.com/about/hiring)
+[![jobs on the Stack Exchange hiring page](http://blog.stackoverflow.com/wp-content/uploads/stackexchange-jobs1.png)](http://stackexchange.com/about/hiring)

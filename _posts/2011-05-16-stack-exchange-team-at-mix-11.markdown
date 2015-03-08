@@ -13,7 +13,7 @@ categories:
 
 A big chunk of the Stack Exchange development team attended [this year's MIX conference](http://live.visitmix.com/).  With tons of t-shirts and stickers in hand to give out, naturally! We managed to convince team members Sam Saffron (Australia) and Ben Dumke (Germany) to make the trek to Las Vegas for some, er, "teambuilding". Even Jin, our [designer in residence](http://blog.stackoverflow.com/2010/07/our-designer-in-residence-jin-yang/), was there. He is [_so money!_](http://www.imdb.com/title/tt0117802/quotes)
 
-![](/blog/images/2011-05-16-stack-exchange-team-at-mix-11/jin-vegas.jpg)
+![](http://blog.stackoverflow.com/wp-content/uploads/jin-vegas.jpg)
 
 While at MIX, they chatted with their fellow developers about the great work they're doing. Some of these artifacts are now online for everyone to enjoy:
 

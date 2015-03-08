@@ -16,7 +16,7 @@ I was invited to participate in [the latest Herding Code podcast](http://herding
 
 
 
-[![herding-code-logo](/blog/images/2008-08-25-stack-overflow-on-herding-code/herding-code-logo.png)](http://herdingcode.com/?p=36)
+[![herding-code-logo](http://blog.stackoverflow.com/wp-content/uploads/herding-code-logo.png)](http://herdingcode.com/?p=36)
 
 
 

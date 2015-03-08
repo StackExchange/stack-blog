@@ -34,7 +34,7 @@ At any rate, **if you wanted a community where (almost) anything goes, you're ab
 
 > 
 > 
-![ewok-closeup](/blog/images/2009-07-15-super-user-semi-private-beta-begins/ewok-closeup.jpg)
+![ewok-closeup](http://blog.stackoverflow.com/wp-content/uploads/ewok-closeup.jpg)
 > 
 > 
 

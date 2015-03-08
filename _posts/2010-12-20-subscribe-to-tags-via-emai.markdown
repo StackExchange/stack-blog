@@ -15,15 +15,15 @@ You can now **subscribe to a tag (or set of tags) and get an email when new ques
 
 To begin, visit the [Tag Sets page on stackexchange.com](http://stackexchange.com/tagsets/popular), and either create a new tag set, or find a cool tag set someone else already put together.
 
-[![](/blog/images/2010-12-20-subscribe-to-tags-via-emai/popular-tag-sets.png)](http://stackexchange.com/tagsets/popular)
+[![](http://blog.stackoverflow.com/wp-content/uploads/popular-tag-sets.png)](http://stackexchange.com/tagsets/popular)
 
 Click on a tag set to browse the questions, then look on the **sidebar** for the email option:
 
-![](/blog/images/2010-12-20-subscribe-to-tags-via-emai/tag-set-subscribe.png)
+![](http://blog.stackoverflow.com/wp-content/uploads/tag-set-subscribe.png)
 
 Once you click **subscribe**, you can indicate which email address you want to use, and how often you want questions to be emailed to you -- every 15 minutes, every 3 hours, or every day.
 
-![](/blog/images/2010-12-20-subscribe-to-tags-via-emai/tag-set-subscribe-options.png)
+![](http://blog.stackoverflow.com/wp-content/uploads/tag-set-subscribe-options.png)
 
 Once you click subscribe, **you'll automatically get emailed when new questions with those tags appear on _any_ of [our sites](http://stackexchange.com/sites)**.
 

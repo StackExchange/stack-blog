@@ -31,7 +31,7 @@ While we had some worries about this, in the end we decided that it would probab
 
 So if you see an ad like this (or similar) it’s not spam, but a legitimate request for help by one of our long-time advertisers:
 
-![survey banner](/blog/images/2011-02-28-our-advertisers-want-to-know/220x250_.NET-development.jpg)![](http://engine.adzerk.net/v/0/3251_3653_20_0/v.gif)
+![survey banner](http://blog.stackoverflow.com/wp-content/uploads/220x250_.NET-development.jpg)![](http://engine.adzerk.net/v/0/3251_3653_20_0/v.gif)
 
 This is a test to see if this will work for all involved. If it does, we may run more, if it doesn’t we won’t. Let us know if you have any questions or comments about this, either in the comments, on [http://meta.stackoverflow.com](http://meta.stackoverflow.com) or by emailing us at [adsupport@stackoverflow.com](mailto:adsupport@stackoverflow.com).
 

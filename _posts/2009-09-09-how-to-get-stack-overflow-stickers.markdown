@@ -18,7 +18,7 @@ Like any rational human being, you probably have [an insatiable desire for Stack
 
 
 
-[![trilogy-stickers-gravell](/blog/images/2009-09-09-how-to-get-stack-overflow-stickers/trilogy-stickers-gravell1.jpg)](http://marcgravell.blogspot.com/2009/09/stickers-now-what-to-do-with-them.html)
+[![trilogy-stickers-gravell](http://blog.stackoverflow.com/wp-content/uploads/trilogy-stickers-gravell1.jpg)](http://marcgravell.blogspot.com/2009/09/stickers-now-what-to-do-with-them.html)
 
 
 

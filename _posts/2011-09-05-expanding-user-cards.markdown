@@ -18,7 +18,7 @@ But while recording [podcast #15](http://blog.stackoverflow.com/2011/08/se-podca
 
 To rectify that, we now have improved User Cards that **expand when you hover over the avatar**, displaying location, key links, and an excerpt of the "About Me" field:
 
-![](/blog/images/2011-09-05-expanding-user-cards/user-card-hover-expansion.png)
+![](http://blog.stackoverflow.com/wp-content/uploads/user-card-hover-expansion.png)
 
 So now you can quickly discover a bit more about the human being who wrote that post -- without needing to click all the way through to their user page.
 
@@ -26,7 +26,7 @@ On Stack Exchange, Q&A; is designed to focus squarely on the content of the ques
 
 As it turns out, many of our community members are rather interesting people, even outside that particular Q&A; topic. Hovering over an avatar lets you easily learn a bit more about your fellow community members ... if you want to.
 
-[![](/blog/images/2011-09-05-expanding-user-cards/user-card-hover-user-page-cooking.png)](http://cooking.stackexchange.com/users)
+[![](http://blog.stackoverflow.com/wp-content/uploads/user-card-hover-user-page-cooking.png)](http://cooking.stackexchange.com/users)
 
 We treat the expanding user card as a bit of a privilege, so you must have 1,000 or more reputation for it to appear. Any user with less than 1k rep will not have a user card hover by definition. And, of course, there has to be a reasonably complete user profile, otherwise there's nothing to show! 
 

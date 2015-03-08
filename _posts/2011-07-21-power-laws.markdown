@@ -23,17 +23,17 @@ One standard guess is that the numbers satisfy a **power law**. More formally, y
 
 The actual numbers are 5,761 users posting on two days, 2,709 users posting on three days, and 1,586 users posting on four days. Not bad! Here's a plot of all the actual numbers, together with the predictions from Lotka's law (I chose the proportionality constant so that the total number of users posting on at least two days turned out right): 
 
-[![](/blog/images/2011-07-21-power-laws/Graph1.png)](/blog/images/2011-07-21-power-laws/Graph1.png)
+[![](http://blog.stackoverflow.com/wp-content/uploads/Graph1.png)](http://blog.stackoverflow.com/wp-content/uploads/Graph1.png)
 
 The fit looks great, but since the numbers decrease so quickly, it's hard to be sure. The standard way to visually check if you've got a power law is to use a [logarithmic scale](http://en.wikipedia.org/wiki/Logarithmic_scale) on both axes. If there's a power relationship _y = c/ns_ between two variables, there'll be a linear relationship _log y = log c - s log n_ between their logarithms with slope _-s_. Here's the same plot again with logarithmic scales:
 
-[![](/blog/images/2011-07-21-power-laws/Graph2.png)](/blog/images/2011-07-21-power-laws/Graph2.png)
+[![](http://blog.stackoverflow.com/wp-content/uploads/Graph2.png)](http://blog.stackoverflow.com/wp-content/uploads/Graph2.png)
 
 Note that the line from Lotka's law is not a linear regression. It is a [bad](http://cscs.umich.edu/~crshalizi/weblog/232.html) [idea](http://cscs.umich.edu/~crshalizi/weblog/491.html) to use linear regression to check for a power law.
 
 With logarithmic scales, the fit looks good, but not perfect: there are more users posting between five and sixteen days than expected and fewer users posting more than sixteen days than expected. But I think the discrepancies from Lotka's law on a site might tell us something interesting about the site. Here's the same plot for SuperUser:
 
-[![](/blog/images/2011-07-21-power-laws/Graph3.png)](/blog/images/2011-07-21-power-laws/Graph3.png)
+[![](http://blog.stackoverflow.com/wp-content/uploads/Graph3.png)](http://blog.stackoverflow.com/wp-content/uploads/Graph3.png)
 
 The fit for users posting between two and seven days is quite good, but the discrepancies are different: on SuperUser, there are more users posting on one day than expected and fewer users posting between eight to ten days than expected. So SuperUser has fewer active users than it should, which suggests that it's less healthy than it could be, especially compared to StackOverflow. 
 
@@ -41,23 +41,23 @@ As for the former discrepancy, part of the problem is that SuperUser gets a ton 
 
 That hypothesis is supported by looking at the same plot for math.SE:
 
-[![](/blog/images/2011-07-21-power-laws/Graph4.png)](/blog/images/2011-07-21-power-laws/Graph4.png)
+[![](http://blog.stackoverflow.com/wp-content/uploads/Graph4.png)](http://blog.stackoverflow.com/wp-content/uploads/Graph4.png)
 
 Here there are **fewer** users posting on one or two days than expected! But it's harder to think that you have the right answer to a math problem than to think that you have the right answer to a question about Windows, for example. Note also that there are more users posting on six or more days than expected. So math.SE has more active users than it should, which suggests to me that it's relatively healthy.
 
 Just for fun, here's the same plot for ServerFault:
 
-[![](/blog/images/2011-07-21-power-laws/Graph5.png)](/blog/images/2011-07-21-power-laws/Graph5.png)
+[![](http://blog.stackoverflow.com/wp-content/uploads/Graph5.png)](http://blog.stackoverflow.com/wp-content/uploads/Graph5.png)
 
 It looks like the SuperUser plot, but a little healthier. 
 
 The tails of the last three plots may look weird, but that's because fluctuations caused by small sample size get amplified on a logarithmic scale. To get a larger sample size, let's incorporate data from every 28-day cycle instead of just one (I was using these instead of months so they'd all be the same length):
 
-[![](/blog/images/2011-07-21-power-laws/Graph6.png)](/blog/images/2011-07-21-power-laws/Graph6.png)
+[![](http://blog.stackoverflow.com/wp-content/uploads/Graph6.png)](http://blog.stackoverflow.com/wp-content/uploads/Graph6.png)
 
-[![](/blog/images/2011-07-21-power-laws/Graph7.png)](/blog/images/2011-07-21-power-laws/Graph7.png)
+[![](http://blog.stackoverflow.com/wp-content/uploads/Graph7.png)](http://blog.stackoverflow.com/wp-content/uploads/Graph7.png)
 
-[![](/blog/images/2011-07-21-power-laws/Graph8.png)](/blog/images/2011-07-21-power-laws/Graph8.png)
+[![](http://blog.stackoverflow.com/wp-content/uploads/Graph8.png)](http://blog.stackoverflow.com/wp-content/uploads/Graph8.png)
 
 More or less the same patterns as before emerge, although ServerFault looks a little healthier now (and also fits Lotka's law **absurdly well**). The corresponding plot for StackOverflow looks almost exactly the same, so I'm not including it.
 

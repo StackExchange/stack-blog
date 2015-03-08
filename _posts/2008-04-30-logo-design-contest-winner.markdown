@@ -20,7 +20,7 @@ The winning design is from [Peter Borlace](http://web.mac.com/peteborlace/pbdesi
 
 
 
-![winning stackoverflow.com logo](/blog/images/2008-04-30-logo-design-contest-winner/stackoverflow-logo-300.png)
+![winning stackoverflow.com logo](http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-logo-300.png)
 
 
 
@@ -32,7 +32,7 @@ There were a whopping **253 entries** in the contest; thanks to everyone who par
 
 
 
-![stackoverflow.com logo runner up](/blog/images/2008-04-30-logo-design-contest-winner/stackoverflow-logo-alt4-300.png)
+![stackoverflow.com logo runner up](http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-logo-alt4-300.png)
 
 
 
@@ -40,7 +40,7 @@ There were a whopping **253 entries** in the contest; thanks to everyone who par
 
 
 
-![stackoverflow.com logo runner up](/blog/images/2008-04-30-logo-design-contest-winner/stackoverflow-logo-alt3-300.png)
+![stackoverflow.com logo runner up](http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-logo-alt3-300.png)
 
 
 
@@ -48,7 +48,7 @@ There were a whopping **253 entries** in the contest; thanks to everyone who par
 
 
 
-![stackoverflow.com logo runner up](/blog/images/2008-04-30-logo-design-contest-winner/stackoverflow-logo-alt2-300.png)
+![stackoverflow.com logo runner up](http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-logo-alt2-300.png)
 
 
 

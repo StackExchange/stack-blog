@@ -34,4 +34,4 @@ We've already received coverage on LifeHacker -- [Web Apps is a Q&A Forum for We
 
 Come check it out while low user numbers are still available!
 
-[![](/blog/images/2010-07-07-area-51-first-public-beta/WebApps1.png)](http://webapps.stackexchange.com)
+[![](http://blog.stackoverflow.com/wp-content/uploads/WebApps1.png)](http://webapps.stackexchange.com)

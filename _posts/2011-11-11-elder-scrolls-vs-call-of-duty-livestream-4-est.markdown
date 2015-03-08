@@ -17,7 +17,7 @@ As you may have noticed, we’re throwing a party over on [the Gaming site](http
 
 
 
-![](/blog/images/2011-11-11-elder-scrolls-vs-call-of-duty-livestream-4-est/SkyrimVsMW3.jpg)
+![](http://blog.stackoverflow.com/wp-content/uploads/SkyrimVsMW3.jpg)
 
 
 

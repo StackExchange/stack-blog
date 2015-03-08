@@ -14,7 +14,7 @@ categories:
 
 We're pleased to announce that ubuntu.stackexchange.com, in partnership with Canonical, Ltd, has become [Ask Ubuntu](http://askubuntu.com).
 
-[![ask ubuntu](/blog/images/2010-10-11-ubuntu-stack-exchange-is-askubuntu-com/askubuntu-screenshot.png)](http://askubuntu.com)
+[![ask ubuntu](http://blog.stackoverflow.com/wp-content/uploads/askubuntu-screenshot.png)](http://askubuntu.com)
 
 We're excited to see this come to fruition, because:
 

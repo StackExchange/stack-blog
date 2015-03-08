@@ -21,7 +21,7 @@ Since we [launched the Stack Exchange Data Explorer](http://blog.stackoverflow.c
 
 
 
-[![](/blog/images/2010-12-13-re-launching-stack-exchange-data-explorer/data-explorer-screenshot.png)](http://data.stackexchange.com/)
+[![](http://blog.stackoverflow.com/wp-content/uploads/data-explorer-screenshot.png)](http://data.stackexchange.com/)
 
 If you're wondering what the heck this thing is, do [read the introductory blog post](http://blog.stackoverflow.com/2010/06/introducing-stack-exchange-data-explorer/), but in summary:
 

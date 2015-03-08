@@ -21,7 +21,7 @@ Here's an example from the current Super User question [Now that MS Money is goi
 
 
 
-![](/blog/images/2010-04-26-new-linked-posts/superuser-linked-related-1.png)
+![](http://blog.stackoverflow.com/wp-content/uploads/superuser-linked-related-1.png)
 
 
 
@@ -56,7 +56,7 @@ I think this highly manual, human-being-entered form of linking questions is com
 
 
 
-![](/blog/images/2010-04-26-new-linked-posts/superuser-linked-related-2.png)
+![](http://blog.stackoverflow.com/wp-content/uploads/superuser-linked-related-2.png)
 
 
 

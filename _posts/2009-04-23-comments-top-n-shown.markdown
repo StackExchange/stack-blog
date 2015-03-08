@@ -17,7 +17,7 @@ You'll notice that **the top 5 comments are now shown under each question or ans
 
 
 
-![stackoverflow-comments-top-n](/blog/images/2009-04-23-comments-top-n-shown/stackoverflow-comments-top-n.png)
+![stackoverflow-comments-top-n](http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-comments-top-n.png)
 
 
 

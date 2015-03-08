@@ -53,7 +53,7 @@ Another neat (and recently added) feature of Gravatars is a fallback. If someone
 
 
 
-![identicon-samples](/blog/images/2008-06-18-gravatars-identicons-and-you/identicon-samples.png)
+![identicon-samples](http://blog.stackoverflow.com/wp-content/uploads/identicon-samples.png)
 
 
 

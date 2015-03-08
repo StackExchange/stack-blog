@@ -14,7 +14,7 @@ categories:
 
 On Monday afternoon, we unceremoniously closed down a Stack Exchange site: [Artificial Intelligence](http://ai.stackexchange.com).
 
-[![](/blog/images/2010-12-23-no-artificial-intelligence-in-area-51/evolution-of-the-chess-computer.png)](http://www.flickr.com/photos/tomgauld/4814940002/sizes/l/in/photostream/)
+[![](http://blog.stackoverflow.com/wp-content/uploads/evolution-of-the-chess-computer.png)](http://www.flickr.com/photos/tomgauld/4814940002/sizes/l/in/photostream/)
 
 Not that many would have noticed. It had an laggardly 83 questions in its 12 days of existence. It wasn't so much the lack of questions that was of concern — [a site can stay in beta as long as it takes](http://blog.stackoverflow.com/2010/10/when-will-my-site-graduate/) — but the conspicuous lack of _expert-level _questions. This was also the emerging opinion amongst the users:
 

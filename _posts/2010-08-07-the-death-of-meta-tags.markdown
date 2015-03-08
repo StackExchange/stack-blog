@@ -113,7 +113,7 @@ I'm pleased to announce that, as of tonight, we have stormed the castle gates an
 
 
 
-![](/blog/images/2010-08-07-the-death-of-meta-tags/villagers-with-pitchforks.jpg)
+![](http://blog.stackoverflow.com/wp-content/uploads/villagers-with-pitchforks.jpg)
 
 
 

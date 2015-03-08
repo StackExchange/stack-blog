@@ -14,7 +14,7 @@ categories:
 
 We're pleased to announce that Stack Exchange is now an institutional member of the [TeX Users Group](http://tug.org/instmem.html).
 
-[![TeX Users Group](/blog/images/2011-10-04-stack-exchange-becomes-an-institutional-member-of-the-tex-users-group/tex-users-group.png)](http://tug.org)
+[![TeX Users Group](http://blog.stackoverflow.com/wp-content/uploads/tex-users-group.png)](http://tug.org)
 
 The TeX Users Group (TUG) is a non-profit organization supporting the [the TeX typesetting system](http://en.wikipedia.org/wiki/TeX) community -- or anyone generally interested in furthering the fields of typography and font design. It's popular within many academic disciplines, several of which are represented in the [Stack Exchange network](http://stackexchange.com/sites).
 

@@ -18,7 +18,7 @@ Over the last 2.5 years, we've identified a few problematic classes of questions
 
 However, as we launched [the great Super User experiment](http://superuser.com/), a new, previously unknown class of problematic questions emerged -- the **shopping recommendation**.
 
-![](/blog/images/2010-11-23-qa-is-hard-lets-go-shopping/barbie-shopping.jpg)
+![](http://blog.stackoverflow.com/wp-content/uploads/barbie-shopping.jpg)
 
 That is, on [Super User](http://superuser.com/) we began encountering questions like:
 

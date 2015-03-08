@@ -16,7 +16,7 @@ If you ever listened to our [sadly defunct podcast](http://blog.stackoverflow.co
 
 We decided to create Twitter accounts for each Stack Exchange 2.0 site that will **broadcast interesting questions every so often**. Believe me -- I despise spam as much as anyone, and I fully realize that [Twitter is not RSS](http://twitter.com/#!/isnotrss) ...
 
-![Stop spamming Twitter with auto-generated tweets saying nothing more than that you posted something somewhere else.](/blog/images/2011-01-12-twitter-question-feeds-for-stack-exchange/twitter-is-not-rss.png)
+![Stop spamming Twitter with auto-generated tweets saying nothing more than that you posted something somewhere else.](http://blog.stackoverflow.com/wp-content/uploads/twitter-is-not-rss.png)
 
 ... but the fact is that **a lot of questions generated on our sites are really quite interesting**. The more people that discover our high quality Q&A; _and join us_ -- the better the community becomes for everyone!
 
@@ -27,13 +27,13 @@ With that in mind, we've set up the following Twitter accounts to publish the mo
 <tr >
 
 <td >
-[![Stack Exchange site](/blog/images/2011-01-12-twitter-question-feeds-for-stack-exchange/se-logo2.png)](http://stackexchange.com/sites)
+[![Stack Exchange site](http://blog.stackoverflow.com/wp-content/uploads/se-logo2.png)](http://stackexchange.com/sites)
 
 </td>
 
 
 <td >
-[![Twitter account](/blog/images/2011-01-12-twitter-question-feeds-for-stack-exchange/twitter-logo1.png)](http://twitter.com)
+[![Twitter account](http://blog.stackoverflow.com/wp-content/uploads/twitter-logo1.png)](http://twitter.com)
 
 </td>
 
@@ -339,7 +339,7 @@ With that in mind, we've set up the following Twitter accounts to publish the mo
 
 As of June 2011, the authoritative list of sites and Twitter accounts will always be at the official **[stackexchange.com/sites](http://stackexchange.com/sites)** directory. Just look for the little Twitter icons next to each site.
 
-[![](/blog/images/2011-01-12-twitter-question-feeds-for-stack-exchange/sites-directory-twitter-accounts.png)](http://stackexchange.com/sites)
+[![](http://blog.stackoverflow.com/wp-content/uploads/sites-directory-twitter-accounts.png)](http://stackexchange.com/sites)
 
 Although it's always possible to subscribe to a site's questions  through the copious RSS feeds we provide on every page -- and [also via email](http://blog.stackoverflow.com/2011/01/tag-favorites-and-tag-subscriptions/) -- **I guess you can consider Twitter "RSS for the casual internet user"**. We'll try to feature the Twitter accounts on each site in some unobtrusive way, so people have another way to follow the stream of Q&A; from a given site topic without being overwhelmed by it.
 

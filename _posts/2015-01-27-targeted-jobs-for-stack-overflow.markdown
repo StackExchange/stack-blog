@@ -45,7 +45,7 @@ This is all organized into three tiers of targeting criteria:
   1. **Developer Types**: The broadest description of a developer.[![](http://i.stack.imgur.com/MJXyf.png)](http://i.stack.imgur.com/MJXyf.png)
 
 	
-  2. **Technology Ecosystems**: A narrower description, best described as tag clusters.  Python includes frameworks like Django and Flask. Cloud (back end) implies knowledge of AWS, Microsoft Azure, Rackspace, etc.[![](http://i.stack.imgur.com/mymW4.png)](/blog/images/2015-01-27-targeted-jobs-for-stack-overflow/tech-eco.png)
+  2. **Technology Ecosystems**: A narrower description, best described as tag clusters.  Python includes frameworks like Django and Flask. Cloud (back end) implies knowledge of AWS, Microsoft Azure, Rackspace, etc.[![](http://i.stack.imgur.com/mymW4.png)](http://blog.stackoverflow.com/wp-content/uploads/tech-eco.png)
 
 	
   3. **Stack Overflow Tags**: The most finely-grained descriptor. These draw straight from the top 1,000 most popular tags on Stack Overflow.[![](http://i.stack.imgur.com/U9oqI.png)](http://i.stack.imgur.com/U9oqI.png)

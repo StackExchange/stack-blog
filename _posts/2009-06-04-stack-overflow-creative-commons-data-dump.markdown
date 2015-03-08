@@ -32,7 +32,7 @@ All those great Stack Overflow questions, answers, and comments, so generously c
 <tr >
 
 > <td >
-[![cc-wiki-logo](/blog/images/2009-06-04-stack-overflow-creative-commons-data-dump/cc-wiki-logo.png)](http://creativecommons.org/licenses/by-sa/3.0/)
+[![cc-wiki-logo](http://blog.stackoverflow.com/wp-content/uploads/cc-wiki-logo.png)](http://creativecommons.org/licenses/by-sa/3.0/)
 
 > </td>
 

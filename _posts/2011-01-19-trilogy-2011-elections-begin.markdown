@@ -36,7 +36,7 @@ If you've ever thought to yourself, "Hey, _I'd_ make a great community moderator
 
 Don't worry -- all our excellent community moderators on the [trilogy](http://blog.stackoverflow.com/2009/05/the-stack-overflow-trilogy/) will carry on as moderators. It's only on new Stack Exchange 2.0 sites with [Pro Tem Moderators](http://blog.stackoverflow.com/2010/07/moderator-pro-tempore/) that existing moderators must run in the first election to continue their terms.
 
-![vote keyboard](/blog/images/2011-01-19-trilogy-2011-elections-begin/vote-keyboard.jpg)
+![vote keyboard](http://blog.stackoverflow.com/wp-content/uploads/vote-keyboard.jpg)
 
 The community moderator election process is documented on the individual election pages in great detail, but in brief, here's how it works:
 

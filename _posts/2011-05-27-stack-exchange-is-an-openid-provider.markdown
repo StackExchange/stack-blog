@@ -14,13 +14,13 @@ categories:
 
 If you've logged in to a Stack Exchange site recently you may have noticed a new button on the login page:
 
-![](/blog/images/2011-05-27-stack-exchange-is-an-openid-provider/stack-exchange-openid-button.png)
+![](http://blog.stackoverflow.com/wp-content/uploads/stack-exchange-openid-button.png)
 
 That's right -- **Stack Exchange is now officially an OpenID _provider_ as well as an OpenID (and OAuth 2.0) consumer!**
 
 As a provider, we can now offer a totally seamless signup experience for new users. That is, you can create a new account entirely on our site without ever once being redirected to another website in the process.
 
-![](/blog/images/2011-05-27-stack-exchange-is-an-openid-provider/stack-exchange-openid-create-account.png)
+![](http://blog.stackoverflow.com/wp-content/uploads/stack-exchange-openid-create-account.png)
 
 Those users who were uncomfortable with Google, Facebook, MyOpenID, AOL, or any other form of OpenID credentials can now create "local" accounts.
 
@@ -56,7 +56,7 @@ Because we kept getting asked: **openid.stackexchange.com is a permanent service
 
 In all honesty, I resisted becoming an OpenID provider for a long time. What the world needs so desperately is more websites that _consume_ public forms of identity. Yet Another Producer stamping out logins and passwords is not making the internet better -- it's making things worse. But then something happened.
 
-![World's Largest Website](/blog/images/2011-05-27-stack-exchange-is-an-openid-provider/Website-Billboard-R_jpg_600x345_crop-smart_upscale_q85.jpg)
+![World's Largest Website](http://blog.stackoverflow.com/wp-content/uploads/Website-Billboard-R_jpg_600x345_crop-smart_upscale_q85.jpg)
 
 We got big. _Really_ big. I believe Stack Exchange is now large enough to be a reasonably valid form of public identity on the internet. And like everything else we (attempt) to do, **we endeavor mightily to do identity in a way that makes the internet better, not worse.**
 

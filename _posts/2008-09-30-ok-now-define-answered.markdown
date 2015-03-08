@@ -20,7 +20,7 @@ For a community predicated on the value of getting answers to your programming q
 
 
 
-![riddler](/blog/images/2008-09-30-ok-now-define-answered/riddler.png)
+![riddler](http://blog.stackoverflow.com/wp-content/uploads/riddler.png)
 
 
 

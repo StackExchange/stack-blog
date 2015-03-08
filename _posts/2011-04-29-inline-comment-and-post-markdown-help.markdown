@@ -16,11 +16,11 @@ We use Markdown for text formatting on all [Stack Exchange sites](http://stackex
 
 To that end, we recently added **inline comment help** which explains the limited subset of Markdown supported in comments, and how to notify other commenters that you're talking to them. Click "show help" to expand inline comment help, or if you're a new user, it will be pre-expanded for you.
 
-![](/blog/images/2011-04-29-inline-comment-and-post-markdown-help/comments-inline-help.png)
+![](http://blog.stackoverflow.com/wp-content/uploads/comments-inline-help.png)
 
 The brand new **inline post help** we just deployed is much more extensive -- posts support the full Markdown spec, [such as it is](http://www.codinghorror.com/blog/2009/12/responsible-open-source-code-parenting.html), and even a whitelisted subset of HTML tags. Click the little [?] icon to expand inline help -- or if you're a new user, it will be pre-expanded for you  (to the first tab level only).
 
-![](/blog/images/2011-04-29-inline-comment-and-post-markdown-help/markdown-inline-help1.png)
+![](http://blog.stackoverflow.com/wp-content/uploads/markdown-inline-help1.png)
 
 
 

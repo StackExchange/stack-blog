@@ -43,21 +43,21 @@ In [response to our meta post](http://meta.gis.stackexchange.com/questions/262/s
 ![GIS profile for Kirk Kuykendall at GIS, Q&A for cartographers, geographers and GIS professionals](http://gis.stackexchange.com/users/flair/59.png)
 ](http://gis.stackexchange.com/users/59/kirk-kuykendall)
 
-[![](/blog/images/2011-02-10-community-conference-sponsorships/2011-esri-developer-summit.jpg)](http://www.esri.com/events/devsummit/index.html)
+[![](http://blog.stackoverflow.com/wp-content/uploads/2011-esri-developer-summit.jpg)](http://www.esri.com/events/devsummit/index.html)
 
 In [response to our meta post](http://meta.gamedev.stackexchange.com/questions/349/sponsoring-a-community-member-to-attend-the-2011-gdc), Jesse (aka Tetrad) volunteered to attend the 2011 Game Developers Conference in San Francisco, CA on behalf of the [game developer community](http://gamedev.stackexchange.com).
 [
 ![Game Development profile for Tetrad at Game Development, Q&A for professional and independent game developers](http://gamedev.stackexchange.com/users/flair/51.png)
 ](http://gamedev.stackexchange.com/users/51/tetrad)
 
-[![](/blog/images/2011-02-10-community-conference-sponsorships/game-developers-conference-20111.jpg)](http://www.gdconf.com/)
+[![](http://blog.stackoverflow.com/wp-content/uploads/game-developers-conference-20111.jpg)](http://www.gdconf.com/)
 
 In [response to our meta post](http://meta.security.stackexchange.com/questions/142/sponsoring-a-community-member-to-attend-the-2011-security-bsides), Rory volunteered to attend the San Francisco Security B-Sides conference on behalf of the [security community](http://security.stackexchange.com).
 [
 ![IT Security profile for Rory Alsop at IT Security, Q&A for IT security professionals](http://security.stackexchange.com/users/flair/485.png)
 ](http://security.stackexchange.com/users/485/rory-alsop)
 
-[![](/blog/images/2011-02-10-community-conference-sponsorships/security-b-sides.jpg)](http://www.securitybsides.com/w/page/12194156/FrontPage)
+[![](http://blog.stackoverflow.com/wp-content/uploads/security-b-sides.jpg)](http://www.securitybsides.com/w/page/12194156/FrontPage)
 
 Congratulations Kirk, Jesse, and Rory -- thank you for electing to be the guinea pigs in our experiment. I wish you safe flights, and I truly hope you enjoy the conferences.
 

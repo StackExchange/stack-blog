@@ -45,7 +45,7 @@ We need to balance the proportion of positive ratings with the uncertainty of a 
 
 
 
-![new-scoring-math-formula](/blog/images/2009-10-23-alternate-sorting-orders/new-scoring-math-formula1.png)
+![new-scoring-math-formula](http://blog.stackoverflow.com/wp-content/uploads/new-scoring-math-formula1.png)
 
 
 

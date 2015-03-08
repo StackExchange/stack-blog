@@ -17,7 +17,7 @@ We're now experimenting with **serving up a small AdSense banner for users with 
 
 
 
-![stackoverflow-ads-adsense](/blog/images/2009-03-25-responsible-advertising-feed-a-programmer/stackoverflow-ads-adsense.png)
+![stackoverflow-ads-adsense](http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-ads-adsense.png)
 
 
 

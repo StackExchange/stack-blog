@@ -16,7 +16,7 @@ I will be attending the [Microsoft Professional Developers' Conference](http://w
 
 
 
-[![pdc-2008-logo](/blog/images/2008-10-26-see-you-at-pdc-2008/pdc-2008-logo.jpg)](http://www.microsoftpdc.com/)
+[![pdc-2008-logo](http://blog.stackoverflow.com/wp-content/uploads/pdc-2008-logo.jpg)](http://www.microsoftpdc.com/)
 
 
 

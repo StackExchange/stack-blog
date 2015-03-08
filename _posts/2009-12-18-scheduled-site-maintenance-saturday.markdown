@@ -45,5 +45,5 @@ All done; behold the beautiful results of Geoff's hard work -- and [compare with
 
 
 
-![](/blog/images/2009-12-18-scheduled-site-maintenance-saturday/stack-overflow-server-rack-back-small-improved-v2.jpg)
+![](http://blog.stackoverflow.com/wp-content/uploads/stack-overflow-server-rack-back-small-improved-v2.jpg)
 
