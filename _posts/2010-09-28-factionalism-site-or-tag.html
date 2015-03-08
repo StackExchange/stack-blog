@@ -1,0 +1,60 @@
+---
+layout: post
+title: 'Factionalism: Site or Tag?'
+date: 2010-09-28 00:51:12.000000000 -04:00
+categories:
+- community
+- stackexchange
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _wp_old_slug: ''
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>Let's say I told you we were going to create a programming website that <b>merged all the C#, Java, Ruby, Python, and PHP programmers</b>, so they could all ask their questions together -- and simply <i>tag</i> those questions with the appropriate language. You'd probably get a response like this one:</p>
+<blockquote><p>
+I disagree with merging. I think [Java] should be a niche site that will attract the relatively expert crowd that doesn't usually care (or not as much) about other types of developer language questions. Yes, I'm talking specifically about myself, but also know about several others I know in the community who can speak for themselves if they wish.</p>
+<p>
+By not merging it, we are giving a good one place to find answers only about [Java], with the ability to have a very engaged and focused expert crowd ready to answer, and benefiting from specialized "rank" in this specific field.</p>
+<p>
+It might sound superficial, but I think we're more likely to see the likes of [Java Expert #1] and [Java Expert #2] in a separate, unmerged [Java] site than in a broader developer site.</p>
+</blockquote>
+<p>By this logic, <i>Stack Overflow itself should not exist!</i> We should have created a separate site just for the Java faction, and yet another for the PHP faction, and yet another for the C# faction ...</p>
+<p>Just replace the word <b>Java</b>, above, with <b>Developer Testing</b>, and <a href="http://meta.stackoverflow.com/questions/65439/should-developer-testing-be-folded-into-a-more-general-programmers-site">this is <i>exactly</i> the situation we're facing right now.</a></p>
+<p>Joel and I are deeply opposed to letting the community split itself into factions in this way. We would rather have <b>a few large sites on <i>reasonably</i> broad topics that use tags to differentiate subtopics</b>, instead of two dozen tiny ultra-niche subsites that only a fraction of people interested in that broader topic will ever see.</p>
+<p><img src="assets/join-or-die.jpg" alt="" title="join-or-die" width="500" height="360" /></p>
+<p>While the Stack Overflow community has historically come down quite hard -- <a href="http://blog.stackoverflow.com/2008/10/a-question-about-questions/">honestly a lot harder than either Joel or I originally intended</a> -- on the side of the non-subjective question, we believe that <a href="http://programmers.stackexchange.com">programmers.stackexchange.com</a> site is the place where <b>the more subjective "there's no right answer, but let me share my professional experiences with you" questions can live and prosper</b>.</p>
+<p>Let's consider the <a href="http://area51.stackexchange.com/proposals/8494/developer-testing-unit-testing-and-more">sample questions from the Developer Testing site proposal</a>, and where those questions might live.</p>
+<ol>
+<li><i>How do I unit test threaded code?</i> Non-subjective; <a href="http://stackoverflow.com/questions/12159/how-should-i-unit-test-threaded-code">already exists and has 70 upvotes</a> under the [multithreading] and [unit-testing] tags
+</li>
+<li><i>How do I mock a database?</i> Non-subjective; <a href="http://stackoverflow.com/questions/310307/mocking-vs-test-db">already exists and has 7 upvotes</a> under the [unit-testing] and [mocking] tags
+</li>
+<li><i>How do I test private methods?</i> Non-subjective; <a href="http://stackoverflow.com/questions/250692/how-do-you-unit-test-private-methods">already exists and has 60 upvotes</a> under the [unit-testing] tag.
+</li>
+<li><i>is it OK to have multiple asserts in a single unit test?</i> Subjective; fits on programmers.stackexchange.com under the [unit-testing] tag
+</li>
+<li><i>How to start unit testing for a large scale application with no unit testing support at all?</i> Subjective; fits on programmers.stackexchange.com under the [unit-testing] tag
+</li>
+</ol>
+<p>Immediately we have a huge problem: every question in this proposal is a <i>good fit on an existing site!</i> Now compare that with, say, questions about gmail on Super User, or questions about search engine optimization on Stack Overflow -- neither of which had a good home until webapps and webmasters were launched.</p>
+<p><font color="maroon">In other words, the whole point of launching new sites is to give interesting questions that <i>currently have no place to go</i> a decent home.</font></p>
+<p>I'm sensitive to the <a href="http://blog.stackoverflow.com/2010/09/good-subjective-bad-subjective/">subjective versus non-subjective divide</a>. There are <a href="http://blog.stackoverflow.com/2008/10/a-question-about-questions/">entire classes of questions</a> that are totally valid concerns for professional programmers which can no longer survive on Stack Overflow in practice. That's why I supported the programmers.stackexchange.com proposal in the first place; good-but-subjective questions were being closed because they had no home. They needed a home. Now that <a href="programmers.stackexchange.com">programmers.stackexchange.com</a> has been created ... they <i>have</i> a home.</p>
+<p>None of the example questions in the Developer Testing proposal lacks a home. Therefore, acquiescing to the factionalism demanded by some elements of the community and creating this site would <i>by definition</i> create a "duplicate" as defined by <a href="http://area51.stackexchange.com">Area 51</a>:</p>
+<blockquote><p>
+<b>duplicate</b><br />
+This proposal would tend to drain audience from another Stack Exchange site.
+</p></blockquote>
+<p>If you asked the Java factions and the C# factions if they needed separate sites, of course they would tell you that they absolutely must have their own sites. But the proof is in the pudding: the Java factions and the C# factions live side-by-side, right now, today, in Stack Overflow tags and learn a ton from each other. And so can the Developer Testing folks.</p>
+<p>So my advice to you is this: <b>join or die</b>.</p>

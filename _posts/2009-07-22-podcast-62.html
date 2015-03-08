@@ -1,0 +1,55 @@
+---
+layout: post
+title: 'Podcast #62'
+date: 2009-07-22 21:08:53.000000000 -04:00
+categories:
+- podcasts
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _podPressMedia: a:1:{i:0;a:10:{s:3:"URI";s:82:"http://itc.conversationsnetwork.org/audio/download/ITC.SO-Episode62-2009.07.21.mp3";s:5:"title";s:10:"Podcast
+    62";s:4:"type";s:9:"audio_mp3";s:4:"size";s:8:"30545713";s:8:"duration";s:8:"01:03:34";s:12:"previewImage";s:85:"http://blog.stackoverflow.com/wp-content/plugins/podpress//images/vpreview_center.png";s:10:"dimensionW";s:3:"320";s:10:"dimensionH";s:3:"240";s:3:"rss";s:2:"on";s:4:"atom";s:2:"on";}}
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>
+In this episode of the Stack Overflow podcast, Joel and Jeff discuss software updates, the power of APIs and plugins, and leading by example.</p>
+<ul>
+<li>A brief discussion of how software should be updated, using Firefox and Apple's Software Updater as examples. In a perfect world, you wouldn't need to care about software updates because you'd always be on the latest version. A smart and silent update mechanism should be architected into your app from day one.</li>
+<li>Web apps largely get a pass on the "latest version" problem, but even here, you could update smart by having multiple web servers behind a load balancer, and rotating some servers out of service to update, then back in with the latest version.</li>
+<li>Speaking of software updates, <a href="http://www.fogcreek.com/FogBUGZ/WhatsNew.html">Fog Bugz 7 has shipped</a>. It's the first new version in two years, with a brand new, extensive plugin API. </li>
+<li>Joel wonders if having a robust plugin model can replace the need to constantly ship new major versions of your software with new features. I question whether Fog Creek <a href="http://www.fogcreek.com/FogBugz/plugins/">got their plugin API</a> right the first time, but if done right, this is totally plausible.</li>
+<li>I view plugins as free product design and highly valuable product feedback -- so you should fold the top 5 plugins / add-ons into your product every year or so. But how do you do this without crushing your partners in the ecosystem? There are plenty of examples of popular iPhone paid apps being obsoleted by, say, iPhone OS 3.0. Joel argues that plugins should go vertical, and stay out of the path of that oncoming steamroller.</li>
+<li>Now that we have four sites in the er.. trilogy.. it is finally possible to <a href="http://blog.stackoverflow.com/2009/07/cross-site-account-associations/">associate your accounts</a> between the sites, and <a href="http://blog.stackoverflow.com/2009/07/migrate-questions-between-websites/">migrate questions fairly painlessly</a> from site to site.</li>
+<li>Sometimes we belatedly realize that we got something wrong. We're now thinking that our current +10 upvote, -2 downvote formula nerfs downvotes into oblivion, and lets certain classes of users who tend to ask a lot of low-quality "do my work for me" questions gain a substantial amount of reputation over time. We are pondering making an adjustment here, which is <a href="http://meta.stackoverflow.com/questions/7322/should-the-weight-of-downvotes-be-increased">under discussion at meta.stackoverflow.com</a>.</li>
+<li>Maybe we should be weighting question votes differently, since users who continue to repeatedly ask dozens of low quality questions are <a href="http://meta.stackoverflow.com/questions/1326/please-charge-rep-for-questions-after-threshold">still an ongoing concern.</a> As we get more and more questions in the system, the voting system needs to help us discriminate good questions from poor ones, so we want to encourage question votes.</li>
+<li>There is now officially a full time Fog Creek developer working on <a href="http://stackexchange.com/">Stack Exchange</a> -- welcome Aaron Maenpaa to the team! On a related note, one advantage of open source tooling is that you don't have to have painful discussions about licensing expenses and whether the tool is worth using as your team grows.</li>
+<li><a href="http://en.wikipedia.org/wiki/R_%28programming_language%29">R language</a> enthusiasts are taking a <a href="http://blog.stackoverflow.com/2009/07/stack-overflow-flash-mobs/">clever and effective approach</a> to get more R content on Stack Overflow -- we think this is a great way to build a community that is completely in tune with the spirit of the site.</li>
+<li>In the post <a href="http://www.codinghorror.com/blog/archives/000933.html">Leading by Example</a>, I proposed that one of the best ways (maybe the only way?) to lead junior programmers is to do the things you wish they'd do, and let them observe your success. Those that can be led, will follow to some degree, and the rest are a lost cause.</li>
+<li>Let's broaden the terms. Forget programmers, how do you get pizza guys or car wash guys to get excited about what they do? Joel says you can't. I say there has to be some kind of hippie commune shared ownership business arrangement. At the very least, you can become interested in efficiency, since that might mean you could leave earlier, make more money, or work less.</li>
+</ul>
+<p>We answered the following listener questions on this podcast:</p>
+<ol>
+<li><strong>J.D. Long</strong>: "The R language is attempting to move away from isolated mailing list and adopt Stack Overflow as a resource. What's a good way to do this?"</li>
+<li><strong>Sergei</strong>: "I am a programmer in a small IT company. I often see my junior teammates program things that are not optimal. I try to help them, but they've complained to my manager. What should I do about this?"</li>
+</ol>
+<p>Our favorite site questions this week are:</p>
+<ul>
+</ul>
+<ul>
+<li><a href="http://serverfault.com/questions/42678/dns-failing-to-propagate-worldwide">DNS failing to propagate worldwide</a>. I used this as an example of asking a question the right way, in that you put some effort into the question -- research the problem first and provide all the information necessary for people to help you.</li>
+</ul>
+<p>
+If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to <a href="mailto:podcast@stackoverflow.com">podcast@stackoverflow.com</a>. You can <a href="http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/">record a question</a> using nothing but a telephone and a web browser. We also have a dedicated phone number you can call to leave audio questions at <strong>646-826-3879</strong>.</p>
+<p>
+The <a href="https://stackoverflow.fogbugz.com/default.asp?W29069">transcript wiki</a> for this episode is available for public editing.</p>

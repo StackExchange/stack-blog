@@ -1,0 +1,54 @@
+---
+layout: post
+title: 'Podcast #36'
+date: 2009-01-07 21:49:52.000000000 -05:00
+categories:
+- podcasts
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _podPressMedia: a:1:{i:0;a:10:{s:3:"URI";s:82:"http://itc.conversationsnetwork.org/audio/download/ITC.SO-Episode36-2009.01.06.mp3";s:5:"title";s:10:"Episode
+    36";s:4:"type";s:9:"audio_mp3";s:4:"size";s:8:"31808586";s:8:"duration";s:8:"01:06:12";s:12:"previewImage";s:85:"http://blog.stackoverflow.com/wp-content/plugins/podpress//images/vpreview_center.png";s:10:"dimensionW";s:3:"320";s:10:"dimensionH";s:3:"240";s:3:"rss";s:2:"on";s:4:"atom";s:2:"on";}}
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>Joel and Jeff, with special guest Eric Sink of SourceGear, discuss source control present and future, why writing a compiler is an important rite of passage for programmers, and how budding software engineers should be educated.</p>
+<ul>
+<li>I was convinced Eric was going to agree with me on whether or not software developers should know C. Unfortunately for me, <a href="http://www.ericsink.com/entries/c_morse_code.html">he agrees with Joel</a>. Doh!</li>
+<li>Eric's <a href="http://www.ericsink.com/scm/source_control.html">Source Control HOWTO</a> should be required reading for every software developer. Eric literally wrote the book on this, and in fact this series is being converted into a book. Deservedly so; it's fantastic. The best person to explain source control is someone like Eric who literally wrote a source control system from scratch -- <a href="http://www.sourcegear.com/vault/">SourceGear Vault</a>.</li>
+<li>An extended discussion of the evolution of source control systems, into distributed version control (DVCS) such as <a href="http://git-scm.com/">Git</a>, <a href="http://www.selenic.com/mercurial/wiki/">Mercurial</a>, <a href="http://darcs.net/">Darcs</a>, and <a href="http://www.bitkeeper.com/">BitKeeper</a>. Eric feels Linus Torvalds' <a href="http://www.youtube.com/watch?v=4XpnKHJAok8">video "evangelizing" Git</a> does the opposite for many. He's also uneasy about branching and merging becoming easy, common operations, which is much of the promise of DVCS.</li>
+<li>Eric feels DVCS solves certain edge conditions very well, but those edge conditions should only be explored when you feel the need, not promoted as broad feature bullets to the average developer. "The harder you try to explain DVCS, the worse it gets, so stop!"</li>
+<li>Eric points to Eric Raymond's evolving <a href="http://www.catb.org/esr/writings/version-control/version-control.html">Understanding Version-Control Systems</a> as a pretty good survey of today's source control landscape.</li>
+<li>Often, features aren't the point -- discoverability is. I was amused to find that <a href="http://www.ericsink.com/entries/java_eclipse_3.html">Eric discovered how convenient background compilation is in Eclipse</a>. This is something that Visual Basic developers have had for 8 years! Java and C# developers don't appreciate what they're missing because it hasn't been surfaced in the product, until now.</li>
+<li>Eric and Joel note that, at some level, source control is about putting obstacles (let's call them safety barriers) in front of developers -- and the question is, how many does your shop need? Do you remember working without version control at all? It's incredibly fast, until stuff gets overwritten or lost, of course.</li>
+<li>Joel and Eric maintain that writing a compiler is an important rite of passage for a programmer. There's an enormous class of programming problems where writing a lexer, parser, recursive descent, and parse trees will help you. Once you understand how easy it is to set up a state machine, you'll never try to use a regular expression inappropriately ever again.</li>
+<li>Eric also <a href="http://www.ericsink.com/Browser_Wars.html">wrote a web browser</a>. It's interesting to contrast the experience of writing a compiler, which is typically extremely strict and will fail to compile if a single character is out of place, versus writing a web browser, which accepts all kinds of malformed and downright incorrect HTML and JavaScript. Eric and Joel think this was categorically a huge mistake; I'm <a href="http://www.codinghorror.com/blog/archives/000848.html">not so sure</a>. </li>
+<li>On <a href="http://en.wikipedia.org/wiki/Postel%27s_law">Postel's robustness principle</a>: "be conservative in what you send, liberal in what you accept." This becomes a painful war of attrition at some level; everybody is vying to accept <em>just a little bit</em> liberally than the next guy, so isn't there an implied element of mutually assured destruction at the end?</li>
+<li>Eric: "Computer Science degrees do not teach programming; they teach how to learn". And he's OK with that. We all agree that it's hugely important to complement your computer science curriculum with either hobby projects, internships in the so-called "real world" -- or both!</li>
+<li>Congratulations to our <a href="http://blog.stackoverflow.com/2008/12/new-uservoice-moderator/">new UserVoice community moderators</a> -- Joel Coehoorn and Sean Massa. Do participate on the <a href="http://stackoverflow.uservoice.com/">Stack Overflow UserVoice feedback site</a>, we check it every day, and we read all the feedback we get!</li>
+</ul>
+<p>Our favorite Stack Overflow questions this week are:</p>
+<ul>
+<li><strong>Eric</strong>: <a href="http://stackoverflow.com/questions/76364/what-is-the-single-most-effective-thing-you-did-to-improve-your-programming-skill">What is the single most effective thing you did to improve your programming skills?</a> Eric says it was when he wrote a compiler. "You'll write the crappiest compiler ever, but you will learn so much."</li>
+<li><strong>Jeff</strong>: <a href="http://stackoverflow.com/questions/406760/whats-your-most-controversial-programming-opinion">What's your most controversial programming opinion</a>? This question is almost a textbook example of what we <em>don't</em> want on Stack Overflow, in that it's an unanswerable and probably contentious discussion. And yet it's an extraordinarily high quality question! This is a testament to the quality of the participants, another example of the Stack Overflow community defining what they want to see and setting a positive example for other programmers to follow.</li>
+</ul>
+<p>We answered one listener question on this podcast:</p>
+<ol>
+<li><strong>Espen Grindhaug</strong>: "In many universities and colleges, they don't teach the 'new' technologies. Can you list some books to get up to speed on the new technologies?"</li>
+</ol>
+<p>
+If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to <a href="mailto:podcast@stackoverflow.com">podcast@stackoverflow.com</a>. You can <a href="http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/">record a question</a> using nothing but a telephone and a web browser. We also have a dedicated phone number you can call to leave audio questions at <strong>646-826-3879</strong>.</p>
+<p>
+The <a href="https://stackoverflow.fogbugz.com/default.asp?pg=pgWiki&amp;command=view&amp;ixWikiPage=29018">transcript wiki</a> for this episode is available for public editing.</p>
+<p>
+[display_podcast]</p>

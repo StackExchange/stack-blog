@@ -1,0 +1,34 @@
+---
+layout: post
+title: Expanding User Cards
+date: 2011-09-04 17:13:31.000000000 -04:00
+categories:
+- community
+- design
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>As I've said many times, the reason any Stack Exchange site works is not because of the magical software bits, but because <i>the people participating are smart, talented, and willing to teach and learn</i>. That's right, any internet community ultimately succeeds or fails on the strength and quality of its contributors. Shocking, I know!</p>
+<p>But while recording <a href="http://blog.stackoverflow.com/2011/08/se-podcast-15/">podcast #15</a> with <a href="http://cooking.stackexchange.com/users/1393/michael-at-herbivoracious">Michael Natkin</a> of <a href="http://cooking.stackexchange.com">cooking.stackexchange.com</a>, I belatedly realized we weren't making it <i>easy</i> to discover  information about the smart people answering all those questions. Sure, we show the basics (reputation, name, badges) in the default User Card that every post is "signed" with -- but that gives you the barest of context into the person answering, or their professional background in the topic.</p>
+<p>To rectify that, we now have improved User Cards that <b>expand when you hover over the avatar</b>, displaying location, key links, and an excerpt of the "About Me" field:</p>
+<p><img src="assets/user-card-hover-expansion.png" alt="" title="user-card-hover-expansion" width="534" height="213" /></p>
+<p>So now you can quickly discover a bit more about the human being who wrote that post -- without needing to click all the way through to their user page.</p>
+<p>On Stack Exchange, Q&A is designed to focus squarely on the content of the questions and answers, not necessarily the <i>person</i>. That said, it is sometimes useful to learn a little but more about the author to provide more context for the post. As one (admittedly extreme) example, off-topic questions are strictly forbidden, but <a href="http://blog.stackoverflow.com/2009/01/welcome-our-newest-member-alan-kay/">we might be willing to stretch the rules a bit if you're Alan <i>freaking</i> Kay</a>.</p>
+<p>As it turns out, many of our community members are rather interesting people, even outside that particular Q&A topic. Hovering over an avatar lets you easily learn a bit more about your fellow community members ... if you want to.</p>
+<p><a href="http://cooking.stackexchange.com/users"><img src="assets/user-card-hover-user-page-cooking.png" alt="" title="user-card-hover-user-page-cooking" width="480" height="303" /></a></p>
+<p>We treat the expanding user card as a bit of a privilege, so <span style="background-color:#FFFBCC">you must have 1,000 or more reputation for it to appear</span>. Any user with less than 1k rep will not have a user card hover by definition. And, of course, there has to be a reasonably complete user profile, otherwise there's nothing to show! </p>
+<p>There are some other subtle ways we try to keep this user card hover useful, such as prioritizing any "identity" links like Twitter, Facebook, Linked In, Google+, etcetera -- and you can override the excerpt for total control of what displays on your expanded User Card. <a href="http://meta.stackoverflow.com/questions/104810/how-does-the-user-card-popup-work">See our meta post</a> for more detail.</p>
+<p>This is all completely optional, of course, so to distinguish between the two states, we've added <b>a subtle 3D shadow to the avatars that have an expanding user card on hover</b>. So if you'd like to share a bit more about your background with your peers, and provide a bit of additional author context to your questions and answers, don't hesitate to flesh out your profile!</p>

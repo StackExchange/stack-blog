@@ -1,0 +1,58 @@
+---
+layout: post
+title: 'Podcast #52'
+date: 2009-05-06 20:27:43.000000000 -04:00
+categories:
+- podcasts
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _podPressMedia: a:1:{i:0;a:10:{s:3:"URI";s:82:"http://itc.conversationsnetwork.org/audio/download/ITC.SO-Episode52-2009.05.05.mp3";s:5:"title";s:10:"Podcast
+    52";s:4:"type";s:9:"audio_mp3";s:4:"size";s:8:"30577175";s:8:"duration";s:8:"01:03:38";s:12:"previewImage";s:85:"http://blog.stackoverflow.com/wp-content/plugins/podpress//images/vpreview_center.png";s:10:"dimensionW";s:3:"320";s:10:"dimensionH";s:3:"240";s:3:"rss";s:2:"on";s:4:"atom";s:2:"on";}}
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>This is the 52nd episode of the StackOverflow podcast -- our one year anniversary -- where Joel and Jeff discuss the launch of Server Fault, how you determine if your code is smelly (or just aromatic), how programmers learn by doing, and how good ideas are often too crazy to copy until it's too late.</p>
+<ul>
+<li>We've been <a href="http://blog.stackoverflow.com/2008/04/podcast-1/">podcasting for one full year now</a>. Hopefully we've gotten better at this podcast stuff and not worse, but the jury is still out.</li>
+<li>Server Fault, the first sister site to Stack Overflow, is <a href="http://blog.stackoverflow.com/2009/04/server-fault-private-beta-begins/">now in private beta</a>. Server Fault is for system administrators and IT professionals. If that's you, come <a href="http://blog.stackoverflow.com/2009/04/server-fault-private-beta-begins/">join us</a>!</li>
+<li>We've only done one major branch in Stack Overflow to date, and it was excruciatingly painful in Subversion, even after updating to 1.6 which has "better" support for merging. We're considering switching to Mercurial to make future merges feel a bit less like gnawing our own limbs off.</li>
+<li>Joel announces that <strong>Fog Creek is working on a hosted version of Stack Overflow</strong>, and they are looking to hire a software engineer to work on the project. If it works out, you get the whole Fog Creek relocation package! If you've ever wanted to work on the Stack Overflow codebase (and you're looking for a full time gig) this is your chance!</li>
+<li>The prospect of an outside developer looking at our Stack Overflow code base makes us nervous. Maybe this is a healthy reaction -- is any code <em>ever</em> good enough? Probably not.</li>
+<li>We do believe in continuous refactoring, and part of that is developing free from fear. <a href="http://www.codinghorror.com/blog/archives/000123.html">Don't be afraid to break stuff</a>! Have <a href="http://www.codinghorror.com/blog/archives/000640.html">some unit tests</a>, and when things do break, <a href="http://www.codinghorror.com/blog/archives/001239.html">be able to fix it very rapidly</a>.</li>
+<li>Test Driven Development is possibly the worst and most incorrect name ever applied to a concept in software engineering, ever. And that's saying a lot. TDD is more about design than testing, but when every TDD tutorial starts with "ok, we write a test to verify.." it's sort of hard to justify. Perhaps Behavior Driven Development <a href="http://codebetter.com/blogs/jeremy.miller/archive/2007/09/06/bdd-tdd-and-the-other-double-d-s.aspx">would be a better name</a>.</li>
+<li>TDD, as far as testing is concerned may be a bit too programmatic. Never underestimate the <a href="http://www.joelonsoftware.com/articles/fog0000000067.html">power of a skilled human tester</a>. </li>
+<li>We learned ASP.NET MVC as we went. This is a surprisingly common pattern; Joel can't ever remember a time when he wasn't building a new application in a new framework. Programming is, <a href="http://www.codinghorror.com/blog/archives/000895.html">almost by definition, continuously learning</a>: your entire career will be one long, unbroken string of learning one new bit of technology after another. Programming is shorthand for learning how to learn.</li>
+<li>Joel asks: as a professional programmer, how often do you start a new major project that's going to have a long life expectancy? It's startlingly rare. Even at Fog Creek they've had maybe four in the entire time the company has existed. So when you start a new project, you almost have to bet on the new framework that you think will be vibrant and alive five years from now -- that means you'll be learning as you go, again! There is a double whammy of learning the framework <em>and</em> a language at the same time though -- that's extra-risky.</li>
+<li>A brief discussion of why unconfirmed "no-touch" user actions are so dangerous on the web; they are a XSRF playground! If the user holds a cookie to your site, and an attacker can get them to click on a GET or POST, they have just forced the user to take that action. We added an interstitial confirmation to a few actions to prevent this; the particular case that was extremely dangerous was associating a new OpenID provider in one click. If that OpenID provider was rogue and controlled by the attacker, they now own the account.</li>
+<li>Joel notes that if you're shy about putting things online, you are letting other people control your online identity -- and that will hurt you <em>much</em> more in the long run than any potentially questionable things you might possibly put online.</li>
+<li>One of the goals of creating Stack Overflow was as a vehicle to build your online identity as a professional programmer, a virtual set of bread crumbs showing that you indeed know your stuff, and your programming peers recognize you for your knowledge. </li>
+<li>Joel <a href="http://blog.stackoverflow.com/2009/05/joel-talks-about-stack-overflow-at-google/">gave a speech about Stack Overflow at Google</a> recently. What question did Guido van Rossum, the creator of Python, ask?</li>
+<li>A brief mention of <a href="http://stackoverflowoverflow.com/">stackoverflowoverflow</a> ... overflow.</li>
+<li>By the time anyone tries to copy an iPod, Apple is already a generation ahead. Continual innovation and evolution is always the best approach to defeat those who would blindly copy what you're doing, and that goes double for software which is infinitely malleable. If your software isn't continually evolving, it is effectively dead!</li>
+<li>Good ideas sound too crazy for anyone to even consider copying them. The type of people who copy are not interested in anything that remotely resembles risk; they are only going to copy proven successes. So if you're starting out with a new crazy idea (and you should be!), this is unlikely to be a practical concern.</li>
+<li>Joel's computer has apparently been taken over by a mexican wrestler named Gordo. I have no idea. </li>
+</ul>
+<p>We answered the following listener questions on this podcast:</p>
+<ol>
+<li><strong>Paul</strong>: "I've seen some companies do background checks online with MySpace, Facebook, Twitter, etcetera. Should developers be concerned about old, embarrassing code being posted online?"</li>
+<li><strong>Tom</strong>: "As a startup entrepreneur, what steps should you take, if any, to protect your intellectual property?"</li>
+</ol>
+<p>Our favorite Stack Overflow qustions this week are:</p>
+<p style="padding-left: 30px;">None! Every single <a href="http://serverfault.com/users/1/jeff-atwood">Server Fault question I've asked</a> is my favorite this week! I've had all these sysadmin and IT pro questions welling up inside me for months, and it was so intensely satisfying to finally be able to ask them and get really great answers. Please <a href="http://blog.stackoverflow.com/2009/04/server-fault-private-beta-begins/">join us in the beta</a>!</p>
+<p>
+If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to <a href="mailto:podcast@stackoverflow.com">podcast@stackoverflow.com</a>. You can <a href="http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/">record a question</a> using nothing but a telephone and a web browser. We also have a dedicated phone number you can call to leave audio questions at <strong>646-826-3879</strong>.</p>
+<p>
+The <a href="https://stackoverflow.fogbugz.com/default.asp?W29049">transcript wiki</a> for this episode is available for public editing.</p>
+<p>
+[display_podcast]</p>

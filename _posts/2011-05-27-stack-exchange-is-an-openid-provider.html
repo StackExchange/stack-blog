@@ -1,0 +1,56 @@
+---
+layout: post
+title: Stack Exchange is an OpenID Provider
+date: 2011-05-27 01:18:28.000000000 -04:00
+categories:
+- community
+- design
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _cws_is_markdown: '1'
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>If you've logged in to a Stack Exchange site recently you may have noticed a new button on the login page:</p>
+<p><img src="assets/stack-exchange-openid-button.png" alt="" title="stack-exchange-openid-button" width="596" height="201" /></p>
+<p>That's right -- <b>Stack Exchange is now officially an OpenID <i>provider</i> as well as an OpenID (and OAuth 2.0) consumer!</b></p>
+<p>As a provider, we can now offer a totally seamless signup experience for new users. That is, you can create a new account entirely on our site without ever once being redirected to another website in the process.</p>
+<p><img src="assets/stack-exchange-openid-create-account.png" alt="" title="stack-exchange-openid-create-account" width="476" height="427" /></p>
+<p>Those users who were uncomfortable with Google, Facebook, MyOpenID, AOL, or any other form of OpenID credentials can now create "local" accounts.</p>
+<p>And best of all, it's a valid <a href="http://www.codinghorror.com/blog/2010/11/your-internet-drivers-license.html">Internet Driver's License</a> -- that is, <b>you can use your newly minted Stack Exchange account to log in anywhere on the internet that accepts OpenID!</b> The confirmation email you get upon creating a new account explains how:</p>
+<blockquote><p>
+  Once you create your Stack Exchange account you can use it to log in on thousands of websites.</p>
+<p>  To log in to a <a href="http://stackexchange.com/sites">Stack Exchange site</a>:</p>
+<ul>
+<li>click the 'Log in with Stack Exchange' button.</li>
+</ul>
+<p>  To log in to other websites that accept OpenID:</p>
+<ul>
+<li>enter this URL <a href="https://openid.stackexchange.com/">https://openid.stackexchange.com/</a></li>
+</ul>
+</blockquote>
+<p><span style="background-color:#FFFBCC">Because we kept getting asked: <b>openid.stackexchange.com is a permanent service</b> we will fully support for as long as we are solvent as a company. Feel free to host some part of your identity with us forever, and we promise to ... well, hopefully not suck in the manner to which you have become accustomed.</span></p>
+<p>In all honesty, I resisted becoming an OpenID provider for a long time. What the world needs so desperately is more websites that <i>consume</i> public forms of identity. Yet Another Producer stamping out logins and passwords is not making the internet better -- it's making things worse. But then something happened.</p>
+<p><img src="assets/Website-Billboard-R_jpg_600x345_crop-smart_upscale_q85.jpg" alt="World's Largest Website" title="World's Largest Website" width="600" height="345" /></p>
+<p>We got big. <i>Really</i> big. I believe Stack Exchange is now large enough to be a reasonably valid form of public identity on the internet. And like everything else we (attempt) to do, <b>we endeavor mightily to do identity in a way that makes the internet better, not worse.</b></p>
+<p>That's why our login implementation is already built on two excellent open source projects &hellip;</p>
+<ul>
+<li><a href="http://www.dotnetopenauth.net/">dotNetOpenAuth</a>
+</li>
+<li><a href="http://code.google.com/p/openid-selector/">OpenID Selector</a>
+</li>
+</ul>
+<p>&hellip; and we are open sourcing our OpenID provider implementation, for your public code review and forking pleasure, at <a href="https://code.google.com/p/stackid/">StackID</a>.</p>
+<p>Again, I urge caution here: just because you <i>can</i> be an identity provider doesn't mean you <i>should</i> be one, any more than it's a good idea for me to decide to break off from the State of California and suddenly form the People's Republic of Atwoodistan.</p>
+<p>If you're happy logging in with your current Facebook, Gmail, Yahoo, AOL, or MyOpenID credentials, fantastic! Stick with it. Whatever works for you works for us. We strongly support and encourage public, reusable forms of identity for login on the internet by <i>being generous in what we accept</i> first and foremost. And so should you! If I want to log in to your site using OpenID or OAuth 2.0 -- let me.</p>

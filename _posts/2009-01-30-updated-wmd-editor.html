@@ -1,0 +1,57 @@
+---
+layout: post
+title: Updated WMD Editor
+date: 2009-01-30 04:02:23.000000000 -05:00
+categories:
+- design
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>
+Thanks to the <a href="http://blog.stackoverflow.com/2009/01/wmd-editor-reverse-engineered/">herculean efforts of several Stack Overflow users</a>, we were finally able to deliver some long-overdue bugfixes to our beloved WMD editor in early January, once it was fully reverse engineered.</p>
+<p>
+(Sadly I still have yet to hear from the original WMD author, <a href="http://attacklab.net/">John Fraser</a>, after months of attempting to contact him in every possible way I know how, short of hiring a private detective. I seriously hope he's OK; it's mightily unusual in my experience for a programmer to drop off the internet so completely, and for so long.)</p>
+<p>
+Since then, <a href="http://stackoverflow.com/users/3161/dana">Dana Robinson</a> has been toiling away, removing cruft from the WMD editor and implementing my #1 feature request: <a href="http://www.alistapart.com/articles/sprites/">CSS sprite toolbar buttons</a>. This is a big deal because it reduces the number of HTTP requests necessary to render the WMD editor from about 14..</p>
+<p>
+<img src="assets/wmd-toolbar-http-request-count-before.png" alt="wmd-toolbar-http-request-count-before" title="wmd-toolbar-http-request-count-before" /></p>
+<p>
+To <font color="red"><big><b>one!</b></big></font></p>
+<p>
+<img src="assets/wmd-buttons-sprites-large.png" alt="wmd-buttons-sprites-large" title="wmd-buttons-sprites-large" /></p>
+<p>
+This one change <b>speeds up almost every single page we serve up!</b> We allow and encourage low-friction anonymous participation on Stack Overflow, so the WMD editor is always right there, inviting awesome (and not-so-awesome) new answers, at the bottom of every question page. All 80,000+ of them! I've already noticed the site is much, <i>much</i> snappier with this new revision of the WMD editor deployed.</p>
+<p>
+If you're interested in spriting some of your web UI, there's an <a href="http://www.alistapart.com/articles/sprites2">updated, more modern article on CSS sprites that demonstrates how to do it using JQuery</a>. Spriting your whole UI would probably be overkill, but it's a big win in the right scenario, like this one.</p>
+<p>
+But CSS spriting isn't the only improvement Dana delivered:</p>
+<ul>
+<li>Slimmed down some polling loops for better performance
+</li>
+<li>Added additional CSS DOM caching to reduce unnecessary DOM traversals
+</li>
+<li>Removed extraneous code to reduce download size
+</li>
+</ul>
+<p>
+You can <a href="http://code.google.com/p/wmd-new/">pull the changes from the repository</a> if you'd like to take a look.</p>
+<p>
+As I've mentioned before, Dana is a big fan of the <a href="http://www.fakeplasticrock.com/">Fake Plastic Rock</a> much like myself. As a reward for the tremendous amount of work Dana put into this, I was more than happy to hook him up with a set of <a href="http://www.amazon.com/gp/search?ie=UTF8&keywords=rock%20band%202%20drums&tag=codinghorror-20&index=videogames&linkCode=ur2&camp=1789&creative=9325">Rock Band 2 wireless drums</a> and <a href="http://www.amazon.com/dp/B001G57Y02/?tag=codinghorror-20">Triple Cymbal kit</a>. Pretty soon, he'll be rocking out like this:</p>
+<p>
+<object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/taB3U0b9zdA&#038;hl=en&#038;rel=0" /><param name="wmode" value="transparent" /><embed src="http://www.youtube.com/v/taB3U0b9zdA&#038;hl=en&#038;rel=0" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object></p>
+<p>
+The code is fairly maintainable at this point, so hopefully we can be much more responsive to any editor issues from now on. The next phase is to create a <b>JQuery-ized version of WMD</b>, to reduce its size and enhance its browser compatibility even further.</p>
+<p /></p></p></p></p></p></p>

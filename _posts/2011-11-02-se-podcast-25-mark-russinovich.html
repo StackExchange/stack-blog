@@ -1,0 +1,43 @@
+---
+layout: post
+title: 'SE Podcast #25 - Mark Russinovich'
+date: 2011-11-02 12:00:15.000000000 -04:00
+categories:
+- podcasts
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '13'
+  _podPressMedia: 'a:1:{i:0;a:12:{s:3:"URI";s:121:"http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/26994881-stack-exchange-stack-exchange-podcast-25.mp3";s:5:"title";s:33:"SE
+    Podcast #25 - Mark Russinovich";s:4:"type";s:9:"audio_mp3";s:4:"size";s:8:"54292840";s:8:"duration";s:5:"56:33";s:12:"previewImage";s:84:"http://blog.stackoverflow.com/wp-content/plugins/podpress/images/vpreview_center.png";s:10:"dimensionW";s:1:"0";s:10:"dimensionH";s:1:"0";s:3:"rss";s:2:"on";s:4:"atom";s:2:"on";s:13:"disablePlayer";s:2:"on";s:14:"disablePreview";s:2:"on";}}'
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
+author:
+  login: alex
+  email: alex@stackexchange.com
+  display_name: Alex Miller
+  first_name: Alex
+  last_name: Miller
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>This week's guest is <a href="http://en.wikipedia.org/wiki/Mark_Russinovich">Mark Russinovich</a>, from <a href="http://technet.microsoft.com/en-us/sysinternals">SysInternals.com</a> and now with Microsoft.</p>
+<ul>
+<li>Chatrooms are chaotic! Jeff mentions that <a href="http://www.reddit.com/">lots of spaces</a> need editorial oversight. A lot of good information is available, but it's a hard to find it in the disorganizations. It's a chronic problem.</li>
+<li>Mark and Joel talk about his command-line work. Mark had to reverse-engineer this stuff, almost from scratch. <a href="http://en.wikipedia.org/wiki/SoftICE">SoftICE</a> was effectively a device driver that took control away from the OS, when it was active. Mark's become famous for being a Microsoft hacker (yes they exist) and for his work with rootkits, the problems with which are becoming an epidemic.</li>
+<li>Mark started outside of Microsoft, but later his company was acquired by them. He's worked on Vista, Windows 7, and a bit of Windows 8, but is now on <a href="http://en.wikipedia.org/wiki/Azure_Services_Platform">Windows Azure</a>. For Azure, an OS for data centers, Mark works for the fabric controller team. Like the kernel in Windows, this defines processes and consumes application xml. Basically, he's all up and down the stack. One of their biggest concerns is upping consistency, to make Azure the best in the industry.</li>
+<li>One of the project's other goals is to have a virtual machine deploy in less than 5 minutes, and update in 2 minutes or less. Right now, those times are 8-9 minutes at the 50th percentile. They're pursuing a variety of tactics to optimize the boot process. There are lots of moving parts to optimize. It's a fun project, and it's all new.</li>
+<li>Not that many companies can deploy a cloud operating system at such a scale. Investment is expensive, although, as Jeff points out, machines today are more powerful than ever before. Still, although <a href="http://www.quantcast.com/p-c1rF4kxgLUzNc">Stack Overflow is ranked #180</a>, getting to #150 requires four times the traffic. Mark points out that yes, you can manage the servers yourself, make the investment, figure out all the parts, and so forth. Or, in nine minutes, you can upload your webapp to the cloud and pay only for what you use.</li>
+<li>The cloud is best for companies who have traffic in bursts and periodic traffic. Companies where, say, there's a known holiday shooping rush or other specific types of workload patterns. By contrast, Stack Overflow's traffic is weirdly predictable. Mark notes that the other benefit to cloud computing is replication; if a disk fails (as 3-5% of them do annualls) your data is cloned across the country.</li>
+<li>Mark wrote a novel: <a href="http://www.amazon.com/Zero-Day-Novel-Mark-Russinovich/dp/031261246X%3FSubscriptionId%3DAKIAIIBINOD46VC3JCLQ%26tag%3Dstackoverfl08-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D031261246X">Zero Day</a>, which was published in March. It's a cyber thriller based around a cyber terrorism plot to bring down parts of the world using malware. It's readable and got lots of verisimillitude. The sequel, <em>Trojan Horse</em> is set to come out next fall.</li>
+<li>Right now, while direct attacks are less common, spear-phishing (targeted <a href="http://en.wikipedia.org/wiki/Phishing">phishing</a> attacks) and good old exploitation of vulnerabilities in a system are still serious threats.</li>
+<li>Jeff talks about the back-and-forth about putting anti-virus software on our servers. On the one hand, it's absolutely necessary, especially as Careers 2.0 has users uploading resumes and CVs onto the server. On the other hand, <a href="http://unix.stackexchange.com/questions/2751/the-myths-about-viruses-in-unix-linux">mention "anti-virus" in a Linux room</a> and be prepared to get laughed out. There's also a serious performance question there.</li>
+<li>Everyone should go <a href="http://googleblog.blogspot.com/2011/02/advanced-sign-in-security-for-your.html">implement 2-step verification</a> on their email accounts (Gmail account!) <em>right now</em>. Well? Go! Do it now! We'll wait.</li>
+<li>Mark says he would separate his password into tiers, with the top tier being ecommerce sites. Jeff says that this is part of why he's been pushing for third-party sign-ins, where the third party isn't a bunch of idiots. Mark believes we are converging towards this naturally, with the proliferation of Google and Facebook sign-ins.</li>
+<li>Joel wonders if maybe there just aren't that many malevolent people in the world. Mark quickly counters with Facebook's admission that <a href="http://nakedsecurity.sophos.com/2011/10/28/compromised-facebook-account-logins/">600k logins are compromised daily</a>.</li>
+<li>He also points out that while our security is better (compare XP to Vista or 7's security hardening) the attacks are more sophisticated than ever. Just look at <a href="http://en.wikipedia.org/wiki/Stuxnet">Stuxnet</a>.</li>
+<li>Be sure to check out our <a href="http://security.stackexchange.com/">Security</a> and <a href="http://writers.stackexchange.com/">Writers</a> sites. They're awesome!</li>
+</ul>
+<p>Next week's guest is <a href="http://en.wikipedia.org/wiki/Christopher_Poole">Chris "moot" Poole</a>, from <a href="http://www.4chan.org">4chan</a> and <a href="http://www.canv.as">Canvas</a>.<br />
+<object width="100%" height="81" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowscriptaccess" value="always" /><param name="src" value="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F26994881" /><embed width="100%" height="81" type="application/x-shockwave-flash" src="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F26994881" allowscriptaccess="always" /> </object> <span><a href="http://soundcloud.com/stack-exchange/stack-exchange-podcast-25">Stack Exchange Podcast - Episode #25 w/ Mark Russinovich</a> by <a href="http://soundcloud.com/stack-exchange">Stack Exchange</a></span></p>

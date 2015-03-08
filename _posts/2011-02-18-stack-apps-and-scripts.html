@@ -1,0 +1,46 @@
+---
+layout: post
+title: Stack Apps and Scripts
+date: 2011-02-18 15:12:43.000000000 -05:00
+categories:
+- API
+- stackexchange
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _wp_old_slug: ''
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>As part of our ongoing improvement to <a href="http://blog.stackoverflow.com/2011/02/stack-exchange-api-1-1-and-improved-app-gallery/">our 1.1 API release</a>, and the site that supports our API, <a href="http://stackapps.com">stackapps.com</a>, <b>we've extended Stack Apps to support the listing of browser scripts</b>.</p>
+<p><a href="http://stackapps.com/?tab=scripts"><img src="assets/stackapps-scripts.png" alt="" title="stackapps-scripts" width="600" height="700" /></a></p>
+<p>Since Stack Overflow began, there have been tons of nifty browser scripts people have created to enhance their experience -- and they usually work on <a href="http://stackexchange.com/sites">any site in our network</a>. In fact, you may remember that <a href="http://blog.stackoverflow.com/2008/10/expressing-your-tag-preferences/">the favorite / ignored tags feature</a> now built into every site originally started life as <a href="http://userscripts.org/tags/stackoverflow">a user script listed on userscripts.org</a> by Jonathan Buchanan aka <a href="http://stackoverflow.com/users/6760/insin">insin</a>.</p>
+<p>We're making user scripts a first class citizen on Stack Apps by &hellip;</p>
+<ul>
+<li>giving them their very own <b>script tab</b> on the homepage powered by the [script] tag.
+</li>
+<li>updating the /faq and introductory messages to emphasize that browser scripts which enhance the Stack Exchange experience are welcome, even if they don't technically use the API.
+</li>
+<li>continuing to publicize the cool and useful scripts our community is creating from within our own community.</li>
+</ul>
+<p>If you're wondering how browser scripts work, the good news is that<br />
+<b>GreaseMonkey support is <i>almost</i> standard across most major browsers now.</b> We updated the <a href="http://stackapps.com/tags/script/info">script tag wiki</a> to walk you through the process of installing user scripts in your browser. It's easy -- really!</p>
+<p>Take Ned Batchelder's script on <a href="http://nedbatchelder.com/blog/201102/how_to_not_get_reputation_points_on_stack_overflow.html">How to not get reputation points on Stack Overflow</a>, for example: </p>
+<blockquote class="code"><p><tt><span class="c1">//&#xA0;==UserScript==</span><br /><span class="c1">//&#xA0;@name&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;No&#xA0;answering&#xA0;on&#xA0;Stackoverflow</span><br /><span class="c1">//&#xA0;@namespace&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;http://nedbatchelder.com/greasemonkey</span><br /><span class="c1">//&#xA0;@description&#xA0;&#xA0;&#xA0;&#xA0;Hide&#xA0;the&#xA0;answer&#xA0;box&#xA0;on&#xA0;Stack&#xA0;Overflow&#xA0;</span><br /><span class="c1">//&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;to&#xA0;stop&#xA0;obsessive&#xA0;behavior</span><br /><span class="c1">//&#xA0;@include&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;http://stackoverflow.com/*</span><br /><span class="c1">//&#xA0;==/UserScript==</span></p>
+<p><span class="nx">GM_addStyle</span><span class="p">(</span><br />&#xA0;&#xA0;&#xA0;&#xA0;<span class="s2">&quot;@namespace&#xA0;url(http://www.w3.org/1999/xhtml);&#xA0;&quot;</span>&#xA0;<span class="o">+</span><br />&#xA0;&#xA0;&#xA0;&#xA0;<span class="s2">&quot;.question-page&#xA0;#post-form&#xA0;{&#xA0;display:&#xA0;none;&#xA0;}&quot;</span><br />&#xA0;&#xA0;&#xA0;&#xA0;<span class="p">);</span><br /></tt></p></blockquote>
+<p>That's a very, very simple browser user script which hides the question answer form on Stack Overflow. If you're using Google Chrome for example, all you need to do to install that little fragment of code in your web browser is click the <a href="http://nedbatchelder.com/code/misc/no_so_answers.user.js">no-so-answers.user.js</a> link -- like so:</p>
+<p> <img src="assets/chrome-install-user-scripts.png" alt="" title="chrome-install-user-scripts" width="506" height="632" class="alignnone size-full wp-image-7256" /></p>
+<p>User scripts can be managed by clicking the wrench icon in the toolbar and selecting Tools | Extensions, or of course by entering <code>chrome://extensions</code> in the title bar.</p>
+<p>That's how easy it is!</p>
+<p>We've already contacted everyone via email who had user scripts posted on Meta Stack Overflow. We'd like to get those all migrated to <a href="http://stackapps.com/?tab=scripts">Stack Apps</a> so the community has one place to go for a centralized directory of cool, useful scripts that make our sites work better.</p>
+<p>So if <i>you</i> have a cool user script that works on a Stack Exchange site, and you think others might find it useful or interesting, <b>please <a href="http://stackapps.com/questions/ask?tags=script">list your script on Stack Apps!</a></b></p>

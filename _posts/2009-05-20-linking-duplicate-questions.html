@@ -1,0 +1,49 @@
+---
+layout: post
+title: Linking Duplicate Questions
+date: 2009-05-20 05:01:38.000000000 -04:00
+categories:
+- community
+- design
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>
+Today's update completes another <a href="http://stackoverflow.uservoice.com/pages/1722-general/suggestions/28071-enforcing-link-to-original-exact-duplicate-question">top-rated UserVoice request</a> -- making it easier to explicitly link <a href="http://blog.stackoverflow.com/2009/04/handling-duplicate-questions/">duplicate questions</a> together. </p>
+<p>
+There are lots of small improvements that go with this build. We now <b>show the current close vote count</b> in the close menu, so you have some idea why the other 3k+ rep users think this question should be closed:</p>
+<p>
+<img src="assets/question-close-votes-shown.png" alt="question-close-votes-shown" title="question-close-votes-shown" style="border:1px solid silver;" /></p>
+<p>
+Remember, it takes <b>5</b> close votes from 3,000+ reputation users to close a question, but they don't all have to agree on the reason. (The reason with the most votes, however, will be shown when the question is finally closed. Yes yes, I know, you're programmers so you are immediately wondering what happens if all five votes are for five different reasons. Stop that right now!)</p>
+<p>
+If you select "exact duplicate" as a reason, you'll get <b>a dynamic as-you-type question duplicate lookup</b>. You can match on any word in the title, or the actual question id number here.</p>
+<p>
+<img src="assets/question-close-duplicate-selector.png" alt="question-close-duplicate-selector" title="question-close-duplicate-selector" style="border:1px solid silver;" /></p>
+<p>
+If the question reaches the 5 vote close threshold, and has enough duplicate votes, it will be closed with the reason of "exact duplicate", as before. But now a revision will be automatically edited into the post, <b>summarizing the voted duplicate questions at the top</b>:</p>
+<p>
+<img src="assets/question-close-duplicate-summary.png" alt="question-close-duplicate-summary" title="question-close-duplicate-summary" style="border:1px solid silver;" /></p>
+<p>
+We tried to look at the existing way the community was dealing with <a href="http://blog.stackoverflow.com/2009/04/handling-duplicate-questions/">duplicate questions</a> and streamline it into as few steps as possible.</p>
+<p>
+Remember, in some cases we may want <a href="http://blog.stackoverflow.com/2009/04/handling-duplicate-questions/">duplicate questions</a> to stick around ...</p>
+<blockquote><p>
+There’s often benefit to having multiple subtle variants of a question around, as people <b>tend to ask and search using completely different words</b>, and the better our coverage, the better odds our fellow programmers can find the answer they’re looking for.
+</p></blockquote>
+<p>
+... but if not, feel free to <b>flag for moderator attention any closed duplicates you think should be merged</b>. If the moderator agrees, he or she can merge the duplicates together without any loss of answers or comments.</p>
+<p /></p></p></p></p></p></p>

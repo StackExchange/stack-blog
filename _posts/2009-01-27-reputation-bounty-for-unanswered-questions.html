@@ -1,0 +1,84 @@
+---
+layout: post
+title: Reputation Bounty for Unanswered Questions
+date: 2009-01-27 00:57:56.000000000 -05:00
+categories:
+- design
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>
+Do you feel like your Stack Overflow questions just aren't getting the answers they deserve?</p>
+<p>
+If so, you're not alone. As Corey Trager noted <a href="http://ifdefined.com/blog/post/2008/10/Jeff-Atwood-is-trying-to-kill-me.aspx">in a blog comment</a>:</p>
+<blockquote><p>
+Speaking for myself, you don't have to reward me for ASKING questions on Stackoverflow: Getting an answer is enough of a reward in itself. <b>Just do whatever you can to keep the answer-ers motivated.</b>
+</p></blockquote>
+<p>
+We are now rolling out the <a href="http://stackoverflow.uservoice.com/pages/general/suggestions/18291-bounty-system-for-unanswered-questions">long awaited bounty feature</a> tonight, and it's designed to do just that: <i>motivate answerers</i>.</p>
+<p>
+If:</p>
+<ul>
+<li>you have at least 100 reputation
+</li>
+<li>your question is at least two days old
+</li>
+<li>your question does not yet have an accepted answer.
+</li>
+</ul>
+<p>
+You'll see the "start a bounty" link at the bottom of the question.</p>
+<p>
+<img src="assets/bounty-collapsed.png" alt="bounty-collapsed" title="bounty-collapsed" style="border: 1px solid silver;" /></p>
+<p>
+Clicking on it expands the bounty panel. Use the slider to establish a reputation bounty on this question anywhere between 50 and 500 reputation in 50 point increments. (Yes, you must have at least as much reputation as the bounty amount.)</p>
+<p>
+<img src="assets/bounty-expanded.png" alt="bounty-expanded" title="bounty-expanded" style="border: 1px solid silver;" /></p>
+<p>
+Everyone who visits the question will see the active bounty details posted directly under the question, indicating how long the bounty period runs for, and what the potential reward is.</p>
+<p>
+<img src="assets/bounty-question-countdown.png" alt="bounty-question-countdown" title="bounty-question-countdown" style="border: 1px solid silver;" /></p>
+<p>
+(Note that the total bounty award is +50 because we throw in <b>50 bonus rep</b> on top of whatever reputation you've put up.)</p>
+<p>
+There are some definite perks to being a bountied question:</p>
+<p>
+<img src="assets/bounty-tab-and-markers.png" alt="bounty-tab-and-markers" title="bounty-tab-and-markers" /></p>
+<ul>
+<li>All active bounty questions are listed on the homepage under <a href="http://stackoverflow.com/?sort=featured">the new "Featured" tab</a> in descending expiration order. So, the bounties about to expire will naturally be on top.
+</li>
+<li>All active bounty questions have a distinctive icon next to their titles, so you can tell when you see one mixed in with other questions.
+</li>
+</ul>
+<p><p>
+The bounty period lasts for <b>7 days</b>. There are three possible outcomes:</p>
+<ol>
+<li><b>You accept an answer</b>. The bounty is subtracted from your reputation, and awarded to the answerer.
+</li>
+<li><b>You do not accept an answer</b>. Any answer that was <font color="red">a) provided <i>after</i> the bounty period started and b) has 2 or more upvotes</font> is automatically accepted after 7 days. The bounty is subtracted from your reputation. The answerer is awarded half the bounty amount (unless it's your own answer, see #3 below).
+</li>
+<li><b>You accept your own answer</b>. The bounty is subtracted from your reputation.
+</li>
+</ol>
+<p>
+Note that all bounty awards are immune to the daily reputation cap, of course. Also, a bounty accepted answer is <i>permanent</i> and cannot be undone. The traditional accepted answer check is "glowing" to indicate that this is a special kind of accept. </p>
+<p>
+<img src="assets/bounty-accepted.png" alt="bounty-accepted" title="bounty-accepted" style="border: 1px solid silver;" /></p>
+<p>
+Mousing over the accept check provides additional detail in a tooltip, such as when the accept was granted, and how much of a bounty (if any) there was.</p>
+<p>
+Stack Overflow already works well for smaller, simpler questions. We're hoping the new question bounty will improve answer quality on those tougher questions that aren't so easy to answer. But they do require a bigger commitment from both the asker and the answerer -- you must be willing to <b>slice off a piece of your own reputation and bestow it upon the person who is best able to answer your question</b>.</p>
+<p /></p></p></p></p></p></p></p></p></p></p></p>

@@ -1,0 +1,62 @@
+---
+layout: post
+title: Easy Background Tasks in ASP.NET
+date: 2008-07-18 09:51:53.000000000 -04:00
+categories:
+- background
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>
+As I work on the badge implementation for Stack Overflow, I needed a way to call the code that detects and awards the badges out of band. Traditionally this is done by something like <code>cron</code> or scheduled tasks. I'd rather have the code stay inside our current codebase, though.</p>
+<p>
+I asked on Twitter and got some good responses, everything from "write a service" to "use threads". I also got a link to <a href="http://www.codeproject.com/KB/aspnet/ASPNETService.aspx">Simulate a Windows Service using ASP.NET to run scheduled jobs</a>. Now this is interesting -- it's just simple enough to work:</p>
+<ol>
+<li>At startup, add an item to the <code>HttpRuntime.Cache</code> with a fixed expiration.
+</li>
+<li>When cache item expires, do your work, such as <code>WebRequest</code> or what have you.
+</li>
+<li>Re-add the item to the cache with a fixed expiration.
+</li>
+</ol>
+<p>
+The code is quite simple, really:</p>
+<p><pre>
+private static CacheItemRemovedCallback OnCacheRemove = null;
+
+protected void Application_Start(object sender, EventArgs e)
+{
+    AddTask("DoStuff", 60);
+}
+
+private void AddTask(string name, int seconds)
+{
+    OnCacheRemove = new CacheItemRemovedCallback(CacheItemRemoved);
+    HttpRuntime.Cache.Insert(name, seconds, null, 
+        DateTime.Now.AddSeconds(seconds), Cache.NoSlidingExpiration,
+        CacheItemPriority.NotRemovable, OnCacheRemove);
+}
+
+public void CacheItemRemoved(string k, object v, CacheItemRemovedReason r)
+{
+    // do stuff here if it matches our taskname, like WebRequest
+    // re-add our task so it recurs
+    AddTask(k, Convert.ToInt32(v));
+}
+</pre>
+<p>
+Works well in my testing; badges are awarded every 60 seconds like clockwork for all users. </p>
+<p /></p></p></p>

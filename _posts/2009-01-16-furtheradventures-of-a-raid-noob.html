@@ -1,0 +1,59 @@
+---
+layout: post
+title: Further Adventures of a RAID Noob
+date: 2009-01-16 23:40:44.000000000 -05:00
+categories:
+- server
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>
+I mentioned in the last podcast that I wasn't sure how the <b>two-drive RAID mirroring</b> was supposed to work in the <a href="http://www.google.com/search?q=lenovo+rs110">Lenovo RS110</a> 1U servers <a href="http://blog.stackoverflow.com/2009/01/new-stack-overflow-server-glamour-shots/">we bought</a>.</p>
+<p>
+<img src="assets/lenovo-rs110-server.jpg" alt="lenovo-rs110-server" title="lenovo-rs110-server" class="alignnone size-full wp-image-454" /></p>
+<p>
+This server comes with a mini-PCI RAID card as standard equipment, the <a href="http://www.lsi.com/storage_home/products_home/standard_product_ics/sas_ics/lsisas1064e/index.html">LSI 1064E</a>.  To set it up, I did the following:</p>
+<ul>
+<li>Installed two <a href="http://www.newegg.com/Product/Product.aspx?Item=N82E16822136143">500 GB "datacenter class" drives</a> (well, after I figured out how to <a href="http://www.codinghorror.com/blog/archives/001200.html">obtain the mysterious drive rails of mystery from eBay</a>, anyway).
+</li>
+<li>entered the LSI MegaRAID BIOS by pressing CTRL+C during bootup, and built a simple mirror array.
+</li>
+<li>booted and installed the OS, Windows Server 2008 x64 Standard.
+</li>
+<li>Installed the <a href="https://www-304.ibm.com/systems/support/supportsite.wss/docdisplay?lndocid=MIGR-5077712&brandind=5000008">MegaRAID Storage Manager software</a> for Windows (which I had a <i>hell</i> of a time finding, thanks Lenovo)
+</li>
+<li>after OS fully ready -- <b><font color="red">ejected one of the mirrored drives!</font></b>
+</li>
+</ul>
+<p>
+The good news is this worked fine. The system kept humming away with the one good drive it had left, which is the goal of a mirrored drive array. I've done this test with both the first and second drive; works either way. So far so good!</p>
+<p>
+However, when I <i>reinserted</i> the drive, <b>the system bluescreened</b>. Doh! That's the bad news.</p>
+<p>
+I assumed this meant the system needed to rebuild the drive from the MegaRAID BIOS utilities. So I rebooted, pressed CTRL+C to enter the MegaRAID BIOS utility during the boot sequence, and began resyncing the 500 GB mirrored array. <b>Resyncing from the BIOS took about four hours.</b> After rebooting, I was up and running again, but having four hours of downtime to replace a failed drive is, uh.. pretty bad.</p>
+<p>
+Well, <i>this</i> time I decided to reboot the system as-is after the eject, ok, reinsert, doh! cycle.</p>
+<p>
+The server booted the OS fine. I entered the MegaRAID manager, and lo and behold: <b>the array was indeed rebuilding, all on its own!</b> Very very slowly, but still!</p>
+<p>
+<img src="assets/megaraid-mirror-live-rebuild.png" alt="megaraid-mirror-live-rebuild" title="megaraid-mirror-live-rebuild" class="alignnone size-full wp-image-455" /></p>
+<p>
+I had jumped to the conclusion that live rebuilds were impossible when I inserted the new drive and it bluescreened. Looks like the <i>real</i> restriction is that you can't hot swap a failed drive -- you must shut down, swap out the drive, and then reboot. </p>
+<p>
+Of course this kind of "live" mirror rebuild takes a heck of a lot longer -- <b>8 hours or more</b> in my testing. And during the rebuild, disk performance is pretty much in the toilet, as you'd expect. The RAID controller has to copy 500 GB of data from the good drive to the new mirror drive.. and on top of that, copy any data that changed during the copy, too. On some level it's amazing this stuff works at all.</p>
+<p>
+Requiring a reboot isn't optimal for failed mirror drive replacement, but it sure beats the heck out of 4 hours of downtime!</p>
+<p /></p></p></p></p></p></p>

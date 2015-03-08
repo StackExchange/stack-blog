@@ -1,0 +1,56 @@
+---
+layout: post
+title: Bounty Reasons and Post Notices
+date: 2011-09-23 13:00:12.000000000 -04:00
+categories:
+- community
+- design
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>It's been a little over a year since <a href="http://blog.stackoverflow.com/2010/06/improvements-to-bounty-system/">our last improvement to the bounty system</a>. Question bounties have been working well enough that we're comfortable encouraging even <i>more</i> use of the bounty system.</p>
+<p>We used to limit people to one question bounty at a time, but now you can have up to <b>three simultaneous question bounties</b>. We also show the history and number of bounties you've started or participated in on your user page, on the <b>bounties tab</b>.</p>
+<p><img src="assets/user-page-bounty-tab.png" alt="" title="user-page-bounty-tab" width="567" height="307" style="border:1px solid silver" /></p>
+<p>Upon further reflection, we realized that it can be difficult to tell exactly what a question bounty is <i>for</i>. That is, what is the bounty owner -- who may or may not be the question owner -- looking for in the answers to this question? What's the intent of this bounty? How will it be awarded? So we added a choice of <b>bounty reasons</b> that explain <i>why</i> the bounty exists:</p>
+<blockquote><p>
+<b>Authoritative reference needed</b><br />
+Looking for an answer drawing from credible and/or official sources.</p>
+<p><b>Canonical answer required</b><br />
+The question is widely applicable to a large audience. A detailed canonical answer is required to address all the concerns.</p>
+<p><b>Current answers are outdated</b><br />
+The current answer(s) are out-of-date and require revision given recent changes.</p>
+<p><b>Draw attention</b><br />
+This question has not received enough attention.</p>
+<p><b>Improve details</b><br />
+The current answers do not contain enough detail.</p>
+<p><b>Reward existing answer</b><br />
+One or more of the answers is exemplary and worthy of an additional bounty.
+</p></blockquote>
+<p>Beyond these standard reasons, which we think are typical and should work for most types of question bounties, you can also enter some <b>optional, additional custom text</b> that describes in more detail what you want from the bounty. Both are displayed at the bottom of the bounty notice to help explain what's going on, and how you can potentially earn the bounty:</p>
+<p><img src="assets/bounty-reason.png" alt="" title="bounty-reason" width="616" height="195" /></p>
+<p>There have also been a few other minor tweaks to bounties:</p>
+<ul>
+<li>To assist forgetful bounty owners, there is a new <b>24 hour grace period</b> at the end of every bounty. During this grace period, the question will not be featured, but the bounty can still be awarded at any time.
+</li>
+<li>To discourage overly promotional bounties, if you are starting a bounty on a question you yourself have answered, the minimum rep cost is 100, increased from the standard 50.
+</li>
+<li>To prevent "infinite" bounty periods, multiple bounties started on the same question by the same user double in cost every time. So if the first bounty is 50 rep, the next will be 100, then 200, then 400, then the maximum.
+</li>
+<li>The <b>featured tab</b> on the homepage gives priority to larger bounties. The last 24 hours of the bounty period are still ordered purely by time of bounty end, but up until then the larger the bounty, the higher your question will appear on the featured tab.
+</li>
+</ul>
+<p>We liked this idea of explanatory text associated with bounties so much, we extended it to also apply as a general "post notice" to locked questions like <a href="http://stackoverflow.com/questions/1089327/what-programming-practice-that-you-once-liked-have-you-since-changed-your-mind-ab">this one on Stack Overflow</a>, and we allow moderators to apply (in some rare cases) arbitrary post notices to individual questions and answers, as you can see <a href="http://skeptics.stackexchange.com/annotated-posts?tab=noticed">on Skeptics</a>.</p>
+<p>Enjoy these improvements to the bounty system. It's our hope that more bounties will be used to improve questions and make each Stack Exchange site an even better resource for getting expert answers to your questions -- whether you asked them or not!</p>

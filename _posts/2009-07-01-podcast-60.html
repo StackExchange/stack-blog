@@ -1,0 +1,47 @@
+---
+layout: post
+title: 'Podcast #60'
+date: 2009-07-01 20:14:56.000000000 -04:00
+categories:
+- podcasts
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _podPressMedia: a:1:{i:0;a:10:{s:3:"URI";s:82:"http://itc.conversationsnetwork.org/audio/download/ITC.SO-Episode60-2009.06.30.mp3";s:5:"title";s:10:"Podcast
+    60";s:4:"type";s:9:"audio_mp3";s:4:"size";s:8:"32242078";s:8:"duration";s:8:"01:07:06";s:12:"previewImage";s:85:"http://blog.stackoverflow.com/wp-content/plugins/podpress//images/vpreview_center.png";s:10:"dimensionW";s:3:"320";s:10:"dimensionH";s:3:"240";s:3:"rss";s:2:"on";s:4:"atom";s:2:"on";}}
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>This is the 60th episode of the StackOverflow podcast where Joel and Jeff discuss the value (or lack thereof) of meta-discussion, how much "big iron" popular websites need, and whether code forking is sometimes inevitable.</p>
+<ul>
+<li>A discussion of our <a href="http://blog.stackoverflow.com/2009/06/cmon-get-meta/">newly launched outlet for meta-discussion</a> at <a href="http://meta.stackoverflow.com/">meta.stackoverflow.com</a>. We view this as a pressure release valve. Why is meta-discussion necessary? What purpose does it serve, and for who?</li>
+<li>Joel and I are both <a href="http://www.codinghorror.com/blog/archives/000463.html">headphone enthusiasts</a>. It's also a key part of the programmer's toolkit for getting "in the zone", so it's worth investing in this area.&nbsp; A quality set of headphones can deliver an audio experience equivalent to floor-standing speakers worth thousands of dollars!</li>
+<li>After <a href="http://blog.stackoverflow.com/2008/04/logo-design-contest-winner/">three</a> <a href="http://blog.stackoverflow.com/2009/04/logo-contest-winner-for-serverfaultcom/">logo</a> <a href="http://blog.stackoverflow.com/2009/06/superuser-com-logo-vote/">contests</a>, we are becoming experts in crowdsourcing design. There is a risk here when people don't know what criteria they're supposed to be judging on. Joel brings up the point of televisions which all have a "store mode" which maximizes brightness and contrast to the actual detriment of the overall image quality. And if you use a LCD at its out of box brightness (always the maximum) <a href="http://www.codinghorror.com/blog/archives/000965.html">you're going to go blind</a>!</li>
+<li>We took the plunge and upgraded our database server to its maximum of 48 GB of memory. This is mostly a cheap form of insurance against future growth. We may also end up taking advantage of SQL Server's <a href="http://www.infoq.com/news/2007/11/SQL-Server-Compression">database compression</a>. The old memory will be eventually used in a second database server we anticipate needing by the end of the year.</li>
+<li>I was spurred on to do this after reading about <a href="http://www.codinghorror.com/blog/archives/001279.html">the massive 512 GB monster server</a> that Plenty of Fish bought. It's interesting how the cost of "free", at that scale (they're a top 20 website in the US and Canada), is no longer cheap. Joel points to a <a href="http://www.newyorker.com/arts/critics/books/2009/07/06/090706crbo_books_gladwell">scathing New Yorker review by Malcolm Gladwell of Chris Anderson's book Free</a>, which covers similar topics.</li>
+<li>As Joel notes, paying $100,000 for a server <em>could</em> be more effective than spending $100,000 for a year's worth of programmer time to convert your database from single and monolithic (the traditional, classic SQL / Oracle model) to <a href="http://en.wikipedia.org/wiki/Shard_%28database_architecture%29">sharded</a> (<a href="http://en.wikipedia.org/wiki/Hadoop">Hadoop</a> and <a href="http://en.wikipedia.org/wiki/BigTable">BigTable</a>).</li>
+<li>Twitter, for example, has moved to an <a href="http://www.infoq.com/news/2009/06/Twitter-Architecture">almost all in-memory database architecture</a>. The downside is that it is literally impossible for me to get to any of my Twitter messages older than the middle of 2008. Still a fan of twitter, though; it's actually useful. Consider the story of an indie musician <a href="http://mikeking.berkleemusicblogs.com/2009/06/23/how-an-indie-musician-can-make-19000-in-10-hours-using-twitter/">who made $19,000 in 10 hours on Twitter</a>, while netting exactly $0 from 30,000 traditional record sales.</li>
+<li>What are the ethics and legality of using code from one job on a different job? If you get a job as a programmer and you never signed anything, then you own all the code you wrote. Most employers sign a <a href="http://www.nolo.com/definition.cfm/Term/AE4ACD77-12AC-4705-B870E4551730F72C/alpha/W/">Work for Hire agreement</a> which means they own all the code you write while on the job. </li>
+<li>Should Stack Overflow be <em>eventually</em> open-sourced? Joel is concerned that open sourcing the code would interfere with the hosted product <a href="http://stackexchange.com/">Stack Exchange</a> that Fog Creek is building out right now. I don't see a conflict between these two audiences; one has infinite time and no money, and the other wants a turnkey, "it just works" solution for a reasonable price.</li>
+<li>Joel thinks that hosts deploying open source software crash the business model down to the cost of the hosting itself. I wonder how companies like <a href="http://www.sixapart.com/">Six Apart</a> (of <a href="http://www.movabletype.org/">Movable Type</a> fame) continue to survive if that is the case. And eventually, won't someone create an open source clone of what you're doing anyway? Why not beat them to the punch and take control of the situation, by open sourcing the real thing yourself?</li>
+<li>I continue to have deep skepticism that <a href="http://stackexchange.com/">the hosted Fog Creek version of Stack Overflow</a> cannot avoid a serious fork with our code. The audience of the ad-supported general internet, versus the audience of paying customers building topic-specific 'stacks, is very different. Can version control tools save you when you're building the "same" products for such different audiences?</li>
+</ul>
+<p>We answered the following listener questions on this podcast:</p>
+<ol>
+<li><strong>Lloyd</strong>: "I am leaving a business and working for a competitor in a different business. I want to take the codebase I've worked on for the last few years with me -- to use as a reference point for future products. What advice can you give?"</li>
+</ol>
+<p>If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to <a href="mailto:podcast@stackoverflow.com">podcast@stackoverflow.com</a>. You can <a href="http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/">record a question</a> using nothing but a telephone and a web browser. We also have a dedicated phone number you can call to leave audio questions at <strong>646-826-3879</strong>.</p>
+<p>
+The <a href="https://stackoverflow.fogbugz.com/default.asp?W29067">transcript wiki</a> for this episode is available for public editing.</p>
+<p>
+[display_podcast]</p>

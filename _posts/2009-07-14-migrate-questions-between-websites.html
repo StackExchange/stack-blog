@@ -1,0 +1,88 @@
+---
+layout: post
+title: Migrate Questions Between Websites
+date: 2009-07-14 03:03:17.000000000 -04:00
+categories:
+- design
+- serverfault.com
+- superuser.com
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>
+First, I've got a little joke for you, <a href="http://meta.stackoverflow.com/questions/4012/is-the-down-voting-most-all-answers-that-arent-yours-pattern-considered-harm/4014#4014">courtesy of Kip and TheTxi</a>.</p>
+<blockquote><p>
+A doctor, a lawyer, and a rabbi log into Stack Overflow.</p>
+<p>
+The bartender looks at them and says "sorry, you guys are not programming related."</p>
+</blockquote>
+<p>
+I didn't say it was a <i>good</i> joke. Moving on.</p>
+<p>
+Now that we have <s>three</s>four Stack Overflow websites in the <a href="http://blog.stackoverflow.com/2009/05/the-stack-overflow-trilogy/">Stack Overflow trilogy</a> ...</p>
+<ul>
+<li><a href="http://stackoverflow.com">Stack Overflow</a> (programming)
+</li>
+<li><a href="http://serverfault.com">Server Fault</a> (system administration, servers, and IT pros)
+</li>
+<li><a href="http://superuser.com">Super User</a> (general computer software/hardware)
+</li>
+<li><a href="http://meta.stackoverflow.com">Meta Stack Overflow</a> (site and community bugs/features/discussion)
+</li>
+</ul>
+<p>
+... it became increasingly clear that we needed <b>better ways to move questions amongst the sites</b>.</p>
+<p>
+We already had a primitive version of this set up for migrating questions back and forth between Stack Overflow and Server Fault, but it was very limited, and forced all moved questions into Community Wiki mode.</p>
+<p>
+We now have a <b>much more robust solution for migrating questions between any of the Stack Overflow "family" of websites</b>.</p>
+<p>
+It works through the same question voting mechanism as before. If you think a question doesn't belong on the site, and you have the requisite 3,000 reputation to be able to <a href="http://blog.stackoverflow.com/2009/05/linking-duplicate-questions/">cast close votes</a> -- then cast a "belongs on {other site}" vote:</p>
+<p>
+<img src="assets/stack-overflow-close-belongs-on-vote.png" alt="stack-overflow-close-belongs-on-vote" title="stack-overflow-close-belongs-on-vote" style="border: 1px solid silver;" /></p>
+<p>
+Note that we now have a tooltip which describes in much more detail what each close reason (and family website) is for, if you're not clear.</p>
+<p>
+This is still a vote-based process, unless a moderator intervenes. If the post reaches the close vote threshold (currently requires 5 close votes, with a majority of the belongs-on type), then it is migrated to the other website.</p>
+<p>
+Let's look at a specific example of <b>migrating a question from Stack Overflow to Meta Stack Overflow</b>.  We'll start with the Stack Overflow side, where <a href="http://stackoverflow.com/questions/468303/are-taglines-signatures-disallowed-on-stackoverflow">this question</a> originated.</p>
+<p>
+<img src="assets/stack-overflow-close-migration-example-1.png" alt="stack-overflow-close-migration-example-1" title="stack-overflow-close-migration-example-1" style="border: 1px solid silver;" /></p>
+<p>
+On the Stack Overflow side, <a href="http://stackoverflow.com/questions/468303/are-taglines-signatures-disallowed-on-stackoverflow">this question</a>:</p>
+<ul>
+<li>Is closed (so no more answers can be added)
+</li>
+<li>Is locked (so it cannot be edited or voted on)
+</li>
+<li>All its answers are soft-deleted
+</li>
+<li>This info is logged in the post history, and on the post itself in a clickable footer.
+</li>
+</ul>
+<p>
+Essentially, the question itself is left as a "stub" so interested parties can figure out what happened to it and where it went.</p>
+<p>
+Now let's look at the destination side, in this case, Meta Stack Overflow.</p>
+<p>
+<img src="assets/stack-overflow-close-migration-example-2.png" alt="stack-overflow-close-migration-example-2" title="stack-overflow-close-migration-example-2" style="border: 1px solid silver;" /></p>
+<p>
+All the original answers, comments, tags, and of course the question text itself, are preserved and <a href="http://meta.stackoverflow.com/questions/5029/are-taglines-signatures-disallowed-on-stackoverflow">moved over wholesale to Meta Stack Overflow</a>. </p>
+<p>
+Note that <b>all owners of questions, answers, and comments are automatically mapped to Meta Stack Overflow users whenever possible</b>. This is primarily driven by OpenID, and aided by our new <a href="http://blog.stackoverflow.com/2009/07/cross-site-account-associations/">Cross-Site Account Association feature</a> in the case of Google's per-site hash OpenIDs. One extra cool new feature is that <b>ownership can be automatically re-associated</b> for users who don't happen to exist on the destination site at the time their question is migrated, but later decide to join and register.</p>
+<p>
+We wanted to get this all rolled out and working in anticipation of the Super User beta -- now that there are several distinct communities for questions to live in, it's important that moving them around to where they belong is a relatively painless process.</p>
+<p /></p></p></p></p></p></p></p></p></p></p></p>

@@ -1,0 +1,62 @@
+---
+layout: post
+title: Stack Exchange Data Explorer 2.0
+date: 2012-01-15 20:39:13.000000000 -05:00
+categories:
+- cc-wiki-dump
+- community
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _cws_is_markdown: '1'
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
+author:
+  login: Sam Saffron
+  email: sam@stackexchange.com
+  display_name: Sam Saffron
+  first_name: Sam
+  last_name: Saffron
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>It has been a year and a half since we launched <a href="http://blog.stackoverflow.com/2010/06/introducing-stack-exchange-data-explorer/">Data Explorer</a>. In the past few months <a href="http://meta.stackoverflow.com/users/150235/tim-stone">Tim Stone</a>  (on a community grant) and I have pushed a major round of changes. Thanks Tim!</p>
+<h3>Recap on last years changes</h3>
+<p>Since we publicly launched data explorer, the most notable change contributed back from the community was support for <a href="http://meta.stackoverflow.com/questions/78050/data-explorer-merge-request-execution-plans">query plans</a>, big thanks to <a href="http://meta.stackoverflow.com/users/136084/justin">Justin</a> for submitting the patch.</p>
+<p>We also added quite a few bug fixes/features, mostly around merging users. Some features were added to defend data.se against an onslaught of public queries. A few features were added to support non Stack Exchange data dumps, most notably a system for white listing. Our very own <a href="http://blog.stackoverflow.com/2011/01/welcome-valued-associate-rebecca-chernoff/">Rebecca Chernoff</a> ported Data Explorer to ASP.NET MVC3 amongst many other fixes.</p>
+<p>The current round of changes offers some very cool new functionality, which is worth listing:</p>
+<h3>Query revisions</h3>
+<p>When we created Data Explorer there was no way to track a query's "lineage". This was particularly problematic because we had no way of updating featured queries or shared queries. Even I <a href="http://meta.stackoverflow.com/questions/108623/saving-and-editing-queries-on-data-explorer-is-giving-me-a-headache">complained about this</a> on meta.</p>
+<p>The new pipeline works just like <a href="https://gist.github.com/">Gist</a>, you can track the history of your query as you are editing (attributing the various editors along the way):</p>
+<p><a href="http://data.stackexchange.com/stackoverflow/query/6772/stackoverflow-rank-and-percentile"><img src="assets/fork11.png" alt="" title="query" width="494" height="256" class="alignnone size-full wp-image-10819" /></a><br />
+<img src="assets/fork2.png" alt="" title="click fork" width="503" height="304" class="alignnone size-full wp-image-10818" /></p>
+<p>You can link to a specific revision, or simply share a "query set" by using the permalink. By sharing a "query set" you can later on fix up any issues the query has, without needing to update <a href="http://data.stackexchange.com/stackoverflow/query/6772/stackoverflow-rank-and-percentile">the link</a>. The new pipeline allows you to "fork" any query created by other users and tracks attribution along the way.</p>
+<h3>Graphs</h3>
+<p>We added some basic graphing facilities, supporting 2 types of line graphs:</p>
+<p>The first type is a simple graph, where the first column represents the X-axis and the other columns the data points. For example: <a href="http://data.stackexchange.com/stackoverflow/query/59302/questions-and-answers-per-month">a graph of questions and answers per month</a>.</p>
+<p>The second type is a bit trickier, it unpivots the second column in the result set. For example: <a href="http://data.stackexchange.com/stackoverflow/query/59301/questions-per-month-top-10-tags-compared">a graph of questions per tag for top 10 tags</a>.</p>
+<p><img src="assets/graph-300x168.png" alt="" title="graph" width="300" height="168" class="alignnone size-medium wp-image-10787" /></p>
+<h3>Huge open source upgrade</h3>
+<p>Data Explorer consumes a fair amount of open source libraries. In the past year and a half many have evolved. We took the time to upgrade them all.</p>
+<p>The excellent <a href="http://codemirror.net/">Code Mirror</a> was updated to the 2.0 version, the new version no longer uses messy iframes. Marjin wrote a <a href="http://codemirror.net/doc/internals.html">great post</a> explaining the changes, a fantastic read for any JavaScript developers.</p>
+<p><a href="https://github.com/mleibman/SlickGrid">SlickGrid</a>, which in my opinion is the best grid control built on jQuery, was upgraded to <a href="http://www.codinghorror.com/blog/2011/05/the-infinite-version.html">version infinity</a>.</p>
+<h3>100% more Dapper</h3>
+<p><a href="http://code.google.com/p/dapper-dot-net/">Dapper</a> our open source micro ORM is the only ORM Data Explorer uses. We took the time to port the entire solution to Dapper. I even added a few CRUD helpers so you are not stuck hard coding INSERT and UPDATE statements everywhere.</p>
+<p>Data Explorer is a good <a href="http://code.google.com/p/stack-exchange-data-explorer/">open source example</a> of how we code web sites at Stack Overflow. It is built on our stack using many of our helpers. Dapper and related helpers are used for data access. It uses the same homebrew migration system we use in production and an interesting asset packaging system I wrote (for the record, <a href="https://twitter.com/#!/balpha">Ben</a> wrote a much more awesome one that we use in production, lobby him to get it blogged). It also uses <a href="http://code.google.com/p/mvc-mini-profiler/">MiniProfiler</a> for profiling. MiniProfiler is even enabled in production, so go have a play.</p>
+<h3>Lots of smaller less notable fixes</h3>
+<ul>
+<li>We now have a concept of "user preferences", so we can remember which tab you selected, etc. </li>
+<li>We remember the page you were at and try to redirect you there after you log on. </li>
+<li>We attribute the query properly to the creator / editor from the query show page. </li>
+<li>You can page through your queries on your user page. </li>
+<li>Support for arbitrary hyperlinks</li>
+<li>Revamped object browser, you can collapse table definitions</li>
+<li>Lots of other stuff I forgot :) </li>
+</ul>
+<h3>You too can run Data Explorer</h3>
+<p>At Stack Exchange we run 3 different instances of Data Explorer. We have the public <a href="http://data.stackexchange.com">Data Explorer</a> and a couple of private instances we use to explore other data sets. The first private instance is used for raw site database access. The other is used to browse through our <a href="http://haproxy.1wt.eu/">haproxy logs</a>.</p>
+<p>There is nothing forcing you to point <a href="http://code.google.com/p/stack-exchange-data-explorer/">Data Explorer</a> at a Stack Exchange data dump, the vast majority of the features work fine pointed at an arbitrary database.</p>
+<p>Hope you enjoy this round of changes.</p>
+<p>If there are any bugs or feature requests please post them to <a href="http://meta.stackoverflow.com">Meta Stack Overflow</a>. Data Explorer is open source, patches welcome.</p>

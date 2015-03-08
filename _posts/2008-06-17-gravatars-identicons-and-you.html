@@ -1,0 +1,85 @@
+---
+layout: post
+title: Gravatars, Identicons, and You
+date: 2008-06-17 23:59:24.000000000 -04:00
+categories:
+- design
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>
+We want Stack Overflow* users to be able to personalize their questions and answers with a small picture -- even if they've never created an account on our site. Rather than build this functionality ourselves, we've decided to take advantage of <a href="http://www.gravatar.com/">Gravatars</a>. Gravatars are small images associated with your email address. </p>
+<p>
+I've used Gravatar for a while myself, and over time I've really grown to appreciate their approach:</p>
+<ol>
+<li><b>They're global</b>. They work across every website that supports gravatars. Sign up once, benefit everywhere.<br />
+
+</li>
+<li><b>They're easy</b>. It's totally straightforward; you simply build a URL that contains a hash of your email address (or IP address, if you didn't provide email) add a few mostly optional preferences in the querystring, and that's it.<br />
+
+</li>
+<li><b>They're safe</b>. The Gravatar service vets the images so nothing, er.. disturbing.. shows up in your browser. You can specify whether you want a maximum rating of G, PG, R, or X for gravatars displayed on your site. We're going with PG; I hope you guys and gals can handle that kind of <i>intensity</i>.<br />
+
+</li>
+<li><b>It does one thing</b>. Gravatar isn't about social networking, mp3s, news, or any mashups thereof. It's trying to solve one tiny problem on the web with laser-like focus: providing a web-friendly Globally Recognized Avatar for you across all the websites you visit. It's almost a single serving website, and I say that with the utmost respect. So many websites fail because they try to do everything and be everything.
+</li>
+</ol>
+<p>
+<b>I highly recommend <a href="http://en.gravatar.com/site/signup/">signing up for Gravatar</a></b>. It's totally painless. Once you do, your image will show up automatically in the comments here, and on any questions or answers you post to Stack Overflow, too. I think you'll be surprised how many places on the web start to associate your Globally Recognized Avatar with the simple entry of your email address in a form. Satisfaction guaranteed, or your money back! </p>
+<p>
+Another neat (and recently added) feature of Gravatars is a fallback. If someone doesn't want to sign up for Gravatar --  and hey, we're totally cool with that, we don't judge -- Gravatar will render an <a href="http://en.wikipedia.org/wiki/Identicon">Identicon</a> for them automatically.</p>
+<p>
+<b>What are Identicons?</b> Well, they're <a href="http://haacked.com/archive/2007/01/22/Identicons_as_Visual_Fingerprints.aspx">a sort of digital fingerprint</a> -- a visual glyph that represents your IP address. Everyone stores IP addresses internally, but it's considered borderline rude on today's web to out someone's IP address when they post content somewhere. The identicon is a way of showing the IP address without <i>showing</i> their IP address. Knowwhatimean?</p>
+<p>
+<img src="assets/identicon-samples.png" alt="identicon-samples" title="identicon-samples" width="600" /></p>
+<p>
+Plus, they're kind of mesmerizingly beautiful. To me, anyway.</p>
+<p>
+If you want to be totally anonymous, don't worry. You still are. Or as much as you can be on the web, anyway. You'll still get a unique image (on individual websites; it's hashed per-site) associated with your content in the form of that Identicon -- so we can know it was really you, Mr. Anonymous, and not another anonymous user <i>pretending</i> to be you. Well, assuming you always post from the same IP address, anyway.</p>
+<p>
+If you're interested in <a href="http://en.gravatar.com/site/implement">implementing Gravatars</a> in your software or website, it's dead easy. Here's the code (yep, <i>actual code!</i> We are actually building this thing, believe it or not!) which renders the Gravatar for us.</p>
+<p><pre>
+const int size = 64;
+const string maxrating = "PG";
+const string gurl = "http://www.gravatar.com/avatar/";
+
+var e = new UTF8Encoding();
+var md5 = new MD5CryptoServiceProvider();
+
+var sb = new StringBuilder(256);
+sb.Append(gurl);
+byte[] b;
+if (String.IsNullOrEmpty(this.Email))
+{
+    b = md5.ComputeHash(e.GetBytes(r.IPAddress));
+}
+else
+{
+    b = md5.ComputeHash(e.GetBytes(this.Email));
+}
+for (int i = 0; i &lt; b.Length; i++)
+{
+    sb.Append(b[i].ToString("X2").ToLower());
+}            
+sb.Append("?s=" + size.ToString());            
+sb.Append("&d=identicon");
+sb.Append("&r=" + maxrating);           
+return sb.ToString();
+</pre>
+<p>
+See? Easy. </p>
+<p>
+* I've decided "Stack Overflow" is the preferred spelling and capitalization, since someone asked in the comments. Unless you're referring explicitly to the website URL, then use stackoverflow.com.</p></p></p></p></p></p></p>

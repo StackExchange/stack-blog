@@ -1,0 +1,56 @@
+---
+layout: post
+title: Raising a Red Flag
+date: 2009-04-11 04:29:00.000000000 -04:00
+categories:
+- community
+- design
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>
+Are you familiar with the way <a href="http://craigslist.org">craigslist</a> handles <a href="http://www.craigslist.org/about/help/flags_and_community_moderation">post flagging</a>?</p>
+<p>
+<img src="assets/craigslist-flagging.png" alt="craigslist-flagging" title="craigslist-flagging" /></p>
+<p>
+Based on recent feedback, we're <b>enhancing Stack Overflow's flagging support</b> to bring it more in line with that well established model.</p>
+<p>
+<img src="assets/stackoverflow-flagging.png" alt="stackoverflow-flagging" title="stackoverflow-flagging" style="border:1px solid silver;" /></p>
+<p>
+We belatedly realized that asking users to email us to report content problems on the site* was not exactly efficient. Now you can flag something that needs moderator attention with three clicks (and a little typing).</p>
+<p>
+Some rules:</p>
+<ol>
+<li>You still need 15 reputation to flag anything at all.
+</li>
+<li>Each user gets a limited number of flags per day (5 offensive, 5 spam, and 10 inform moderator).
+</li>
+<li>These flags age. After two days, they automatically dissipate harmlessly and without effect from the system.
+</li>
+<li>If an individual post reaches a threshold of six offensive or spam votes within two days, it will be automatically deleted from the system by the Community user.
+</li>
+<li>You cannot flag the same post multiple times.
+</li>
+<li>Flag counts are no longer shown to anyone except moderators.
+</li>
+</ol>
+<p>
+This is more or less directly based on discussion around previous blog entries <a href="http://blog.stackoverflow.com/2009/04/in-defense-of-editing/">In Defense of Editing</a> and <a href="http://blog.stackoverflow.com/2009/04/a-day-in-the-penalty-box/">A Day in the Penalty Box</a>. I closed the related <a href="http://stackoverflow.uservoice.com/pages/general/suggestions/159703-allow-for-reporting-of-content-and-users-to-mods-and-or-team">UserVoice ticket</a> as completed.</p>
+<p>
+And yes, a similar style of flagging (but more lightweight) is coming very soon for comments.</p>
+<p>
+* <i>as always, our email address is at the bottom of every single page if you need to contact us. All mail is read, and every reported issue is researched.</i></p>
+<p /></p></p></p></p></p>

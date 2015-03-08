@@ -1,0 +1,57 @@
+---
+layout: post
+title: 'Podcast #50'
+date: 2009-04-22 20:14:15.000000000 -04:00
+categories:
+- podcasts
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _podPressMedia: a:1:{i:0;a:10:{s:3:"URI";s:82:"http://itc.conversationsnetwork.org/audio/download/ITC.SO-Episode50-2009.04.21.mp3";s:5:"title";s:10:"Podcast
+    50";s:4:"type";s:9:"audio_mp3";s:4:"size";s:8:"36580016";s:8:"duration";s:8:"01:16:09";s:12:"previewImage";s:85:"http://blog.stackoverflow.com/wp-content/plugins/podpress//images/vpreview_center.png";s:10:"dimensionW";s:3:"320";s:10:"dimensionH";s:3:"240";s:3:"rss";s:2:"on";s:4:"atom";s:2:"on";}}
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>
+This is the 50th episode of the StackOverflow podcast, where Joel and Jeff sit down with Steve Yegge of Google and the most excellent <a href="http://steve-yegge.blogspot.com/">Stevey's Blog Rants</a>.</p>
+<ul>
+<li>This episode was recorded on site at the Kirkland, Washington Google office, where Joel gave a talk earlier in the day.</li>
+<li>A brief discussion about the <a href="http://en.wikipedia.org/wiki/APL_(programming_language)">APL</a> language, whose keywords are symbols. Imagine how challenging it would be to program in a language where you need a special keyboard. There's a more popular (not sure "popular" is the right word) version of APL named <a href="http://en.wikipedia.org/wiki/J_(programming_language)">J</a> which drops the symbols in favor of plain ASCII.</li>
+<li>How big a fan of working at Google is Steve? He worries that new hires from college will expect the rest of their working life to be as good as their Google experience.</li>
+<li>Steve can finally talk about what he was working on, which he was so vague about on <a href="http://blog.stackoverflow.com/2008/10/podcast-25/">our previous podcast with him</a>. Mostly, he was disturbed at the state of JavaScript tooling at Google -- "dude, you spelled it fuction again."</li>
+<li>The state of the art in tools means painstakingly adding support for each individual language into each individual editor. What if there was a way to plug first-class language intellisense / compilation functionality into <em>any</em> editor -- in a generalized way? That's the problem Steve set out to solve.</li>
+<li>Take compilers that are defined for IDEs -- Eclipse has three Java compilers built into it -- a fast inaccurate one as you type, a better batch one, and then a great big one that does exhaustive analysis on large trees (Steve says Eclipse has "a better Java compiler than the Java compiler".) This is all necessary to get good editor support! Why not take these compilers and run them on the google infrastructure, so they are commoditized and available to any editor?</li>
+<li>Steve says the way tools and languages integrate today is utterly backwards. Languages should support the tools, rather than the other way around. "We should have been doing this for 20 years!"</li>
+<li><a href="http://www.prototypejs.org/">Prototype</a> doesn't play well with the JavaScript compiler at Google, partly because nobody has actually tried to compile the code before! It exposes some problems that weren't immediately obvious. All the common JavaScript frameworks require some tweaking for the JavaScript compilation process.</li>
+<li>Steve likens the comparison between compilation and dynamic typing to taking a shower and brusing your teeth. You should do both! The only reason we <em>can't</em> do both of these things is because, as Steve points out, our tooling currently sucks.</li>
+<li>JavaScript has a more interesting origin than I realized -- it was <a href="http://en.wikipedia.org/wiki/JavaScript">originally based on Scheme</a>.</li>
+<li>Per Steve, Scala is like Haskell but with more concessions to real world programming. He points out that the great thing about Java is the fantastic tooling, which means it's ultimately a better programming experience than a theoretically "superior" programming language.</li>
+<li>Joel doesn't hate Unix; FogBugz supports Unix (although that support tends to be complex and costly) and Joel regularly runs <a href="http://www.cygwin.com/">cygwin</a> on his laptop. That said, modern Unixes have their faults too. Steve observes that the only way to determine what packages are installed on Ubuntu is to diff the dpackage output against a clean machine. Also, Firefox is very slow on Linux relative to Mac and Windows.</li>
+<li>Stack Overflow is for programming related questions, but defining programming related isn't easy. There will <a href="http://blog.stackoverflow.com/2009/04/the-stack-overflow-question-lifecycle/">always be a gray area</a>, which is further complicated by the fact that we do want the <em>occasional </em>fun questions -- we just don't want the system overrun with the stuff.</li>
+<li>Steve points out that even Amazon has examples of "fun" product reviews that wouldn't normally be permitted, such as <a href="http://www.nytimes.com/2006/08/09/technology/09milk.html?ex=1312776000&amp;en=83840f92baf3863d&amp;ei=5090&amp;partner=rssuserland&amp;emc=rss&amp;pagewanted=all">On Amazon, All of a Sudden Everyone&rsquo;s a Milk Critic</a> and <a href="http://www.amazon.com/Story-About-Ping-Marjorie-Flack/dp/0140502416">The Story About Ping</a>.</li>
+</ul>
+<p>We answered the following listener questions on this podcast:</p>
+<ol>
+<li> "What is Joel's history with Unix? He mentions Unix a lot in vaguely pejorative ways. Did he have a bad early Unix experience?" No, Steve, the caller did not say "eunuchs"!</li>
+</ol>
+<p>Our favorite Stack Overflow question this week is:</p>
+<ul>
+<li><a href="http://stackoverflow.com/questions/766935/what-do-i-need-to-do-in-order-to-be-a-programmer-out-at-sea">What do I need to do in order to be a programmer out at sea?</a> Exhibit A in the eternal close wars. We aren't sure this is a valid programming question, but some people object to it being closed. For that matter, some people object to <em>anything</em> being closed.</li>
+</ul>
+<p>
+If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to <a href="mailto:podcast@stackoverflow.com">podcast@stackoverflow.com</a>. You can <a href="http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/">record a question</a> using nothing but a telephone and a web browser. We also have a dedicated phone number you can call to leave audio questions at <strong>646-826-3879</strong>.</p>
+<p>
+The <a href="https://stackoverflow.fogbugz.com/default.asp?W29043">transcript wiki</a> for this episode is available for public editing.</p>
+<p>
+[display_podcast]</p>
+<p>&nbsp;</p>

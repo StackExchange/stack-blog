@@ -1,0 +1,99 @@
+---
+layout: post
+title: Improvements to Bounty System
+date: 2010-06-18 23:42:46.000000000 -04:00
+categories:
+- community
+- design
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>We originally <a href="http://blog.stackoverflow.com/2009/01/reputation-bounty-for-unanswered-questions/">rolled out the question bounty system</a> in January 2009. It has worked fairly well, in terms of <b>motivating answerers and increasing the connection between askers and answerers</b>. But I think we made some mistakes in being overly strict in our design of the bounty system.</p>
+<p>
+Just take a look at some of these highly voted meta requests in the [bounty] tag:</p>
+<ul>
+<li><a href="http://meta.stackoverflow.com/questions/1409/how-about-making-it-possible-to-set-up-bounty-on-someone-elses-question">How about making it possible to set up bounty on someone else’s question?</a>
+</li>
+<li><a href="http://meta.stackoverflow.com/questions/1413/why-an-answer-cant-be-accepted-after-an-unresolved-bounty">Why an answer can’t be accepted after an unresolved bounty?</a>
+</li>
+<li><a href="http://meta.stackoverflow.com/questions/4508/please-do-not-auto-select-answers-on-bounty-questions">Please do not auto select answers on bounty questions</a>
+</li>
+<li><a href="http://meta.stackoverflow.com/questions/27307/why-do-i-always-have-to-accept-an-answer-at-the-end-of-the-bounty-period">Why do I <i>always</i> have to accept an answer at the end of the bounty period?</a>
+</li>
+<li><a href="http://meta.stackoverflow.com/questions/90/should-so-introduce-a-re-bounty-feature">Should SO introduce a Re-Bounty feature</a>
+</li>
+</ul>
+<p>
+The <a href="http://meta.stackoverflow.com/questions/tagged?tagnames=bounty&sort=votes">feedback on the bounty system</a> is quite extensive; this is an indication that there are what I'll euphemestically call er ... "issues" ... with the current system. </p>
+<p>
+Well, I'm happy to announce that we're <b>improving the bounty system</b> to address (almost) all of these issues. As of now:</p>
+<ol>
+<li>Any user with sufficient reputation can start a bounty on <i>any</i> question
+</li>
+<li>A question may have multiple bounties, though only one active bounty is allowed at any given time.
+</li>
+<li>Bounty awards are no longer tied to accepted answer in any way.
+</li>
+</ol>
+<p>
+Most of this is adapted from <a href="http://meta.stackoverflow.com/questions/1413/why-an-answer-cant-be-accepted-after-an-unresolved-bounty/49224#49224">a great idea</a> from our Community Coordinator, <a href="http://blog.stackoverflow.com/2010/04/welcome-stack-overflow-valued-associate-00005/">Robert Cartaino</a>.</p>
+<p>
+Assuming you have the minimum reputation required to award a bounty (currently 100), every question of 2 days of age or older will now show the "start a bounty" link at the bottom of the question.</p>
+<p>
+<img src="assets/bounty-start-bounty.png" alt="" title="bounty-start-bounty" width="600" height="141" style="border:1px solid silver" /></p>
+<p>
+Here, you can slice off a (non-refundable) piece of your own reputation -- from 50 to 500 -- to grant to one of the question answers of your choice. Once started, the bounty amount and name of the bounty owner is listed at the bottom of the question: </p>
+<p>
+<img src="assets/bounty-award-question-text.png" alt="" title="bounty-award-question-text" width="600" height="242" style="border:1px solid silver" /></p>
+<p>
+(Of course the bountied question will appear on the <a href="http://stackoverflow.com/?tab=featured">homepage featured tab</a> and in all question lists with the bounty indicator, as before. Part of what you're "paying for" with the bounty is to get additional attention for your question, over and beyond what a normal question gets.)</p>
+<p>
+If you're the bounty owner, you can award the bounty to a particular answer by simply clicking the bounty amount icon that appears next to each answer, as pictured below:</p>
+<p>
+<img src="assets/bounty-award-indicators.png" alt="" title="bounty-award-indicators" width="600" height="430" style="border:1px solid silver" /></p>
+<p>
+There are still some rules, of course:</p>
+<ul>
+<li>All bounties are paid for up front and non-refundable under any circumstances.
+</li>
+<li>Users may only have one active question bounty at any given time.
+</li>
+<li>Questions may only have one active question bounty at any given time.
+</li>
+<li>The bounty owner must wait 24 hours between the time starting the bounty, and the time the bounty can be manually accepted.
+</li>
+<li>If the bounty owner does not award the bounty within the 7 day bounty period, the same auto-award rules apply, as before: any answers to the question posted <i>after</i> the bounty started, with at least 2 upvotes, are eligible for auto-accept and earn half the bounty amount. If there aren't any answers meeting that criteria, no bounty is awarded.
+</li>
+<li>The system no longer tosses in +50 bonus reputation to a bounty. We feel this newer, much more open bounty system no longer needs that incentive.
+</li>
+</ul>
+<p>
+Once awarded, you'll see the bounty amount icon permanently affixed to the answer it was awarded to -- and, again, <b><i>all bounties are completely independent of and unrelated to accepting an answer</i></b>.</p>
+<p>
+<img src="assets/bounty-answer-awarded.png" alt="" title="bounty-answer-awarded" width="600" height="230" style="border: 1px silver solid" /></p>
+<p>
+Before, bounty was strictly limited as a one-shot (tied to accepted answer) for question owners only. It's now a much more flexible system:</p>
+<ul>
+<li>Feel like a particular answerer on a question did a fantastic job and deserves some kind of bonus, beyond a simple upvote? Award them a bounty!
+</li>
+<li>See a question that you'd really like answered, too? Help out the question owner by placing a bounty on it!
+</li>
+<li>Want to provide a boost to a particularly well asked question (or answer) by a new user? Start a bounty on it!
+</li>
+</ul>
+<p>
+I'm excited about these changes, because they open up bounties to a much larger audience -- and make it easier for us to help <b>contribute our own reputation toward others getting great answers to their questions!</b></p>
+<p /></p></p></p></p></p></p></p></p></p>

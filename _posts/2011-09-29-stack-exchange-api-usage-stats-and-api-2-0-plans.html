@@ -1,0 +1,197 @@
+---
+layout: post
+title: Stack Exchange API Usage Stats and API 2.0 Plans
+date: 2011-09-29 22:33:06.000000000 -04:00
+categories:
+- API
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>Stack Exchange has a very full featured, albeit currently read-only, API. You can view some of the nifty applications people have created with the Stack Exchange API in the <a href="http://blog.stackoverflow.com/2011/02/stack-exchange-api-1-1-and-improved-app-gallery/">app gallery on Stack Apps</a>, or check out the <a href="http://blog.stackoverflow.com/2010/08/stack-exchange-api-contest-winners/">winners of the Stack Exchange API contest</a> we held last year.</p>
+<p>We're currently in the planning stages for <b>Stack Exchange API 2.0.</b> There's <a href="http://stackapps.com/questions/2588/draft-specification-for-api-v2-0">a draft API 2.0 specification on Stack Apps</a>, so head on over there and take a look if you want a voice in that process.</p>
+<p>As a part of our research process leading up to 2.0, we analyzed usage statistics of the API to date. For the period from <b>8/21/2011</b> to <b>9/21/2011</b> inclusive, there were <b>34.2 million</b> requests against the API. That's about 12 requests per second. </p>
+<p>API usage skews heavily toward users and questions:</p>
+<p><img src="assets/stack-exchange-api-1-1-usage-pie-graph.png" alt="" title="stack-exchange-api-1-1-usage-pie-graph" width="490" height="360" /></p>
+<p>The top API calls, by volume, are:</p>
+<table width="300px">
+<tr>
+<td>
+/users/{ids}/timeline</td>
+<td align="right">7.8m</td>
+</tr>
+<tr>
+<td>
+/users/{ids}</td>
+<td align="right">5.2m</td>
+</tr>
+<tr>
+<td>
+/users/{ids}/mentioned</td>
+<td align="right">4.2m</td>
+</tr>
+<tr>
+<td>
+/questions</td>
+<td align="right">3.4m</td>
+</tr>
+<tr>
+<td>
+/questions/{ids}</td>
+<td align="right">3.0m</td>
+</tr>
+<tr>
+<td>
+/users/{ids}/questions</td>
+<td align="right">2.9m</td>
+</tr>
+<tr>
+<td>
+/questions/{ids}/answers</td>
+<td align="right">1.7m</td>
+</tr>
+<tr>
+<td>
+/users/{ids}/reputation</td>
+<td align="right">1.3m</td>
+</tr>
+<tr>
+<td>
+/users/{ids}/answers</td>
+<td align="right">1.3m</td>
+</tr>
+<tr>
+<td>
+/posts/{ids}/comments</td>
+<td align="right">1.3m</td>
+</tr>
+<tr>
+<td>
+/answers</td>
+<td align="right">463k</td>
+</tr>
+</table>
+<p>There's a precipitous drop in usage after that. It's somewhat surprising just how user centric the queries are, given how Q&A focused Stack Exchange sites are. This suggests that user authentication to get to the tiny bit of hidden user information we have really will be a popular feature -- and that is slated for API V2.0.</p>
+<p>Approximately <b>6% of API traffic is the result of internal Stack Exchange requests</b>.  Chat made approximately 1.1m requests, <a href="http://stackexchange.com">stackexchange.com</a> made about 250k requests, and <a href="http://careers.stackoverflow.com">careers.stackoverflow</a> made approximately 140k requests. Only Chat actually requires the raised API request limit that we give it.</p>
+<p>The top applications by API usage are:</p>
+<table width="600">
+<tr>
+<td>
+<table width="260">
+<tr>
+<td><a href="http://stackapps.com/questions/83/stackapplet-bringing-stack-exchange-notifications-to-your-desktop-1-5-beta-2-r">StackApplet</a></td>
+<td align="right">5.3m</td>
+</tr>
+<tr>
+<td><a href="http://stackapps.com/questions/1993/newt-question-answer-and-comment-and-rep-change-notifications-for-os-x">Newt</a></td>
+<td align="right">5.2m</td>
+</tr>
+<tr>
+<td><a href="http://stackapps.com/questions/1592/stack-exchange-notifier-chrome-extension">Stack Exchange Notifier</a></td>
+<td align="right">3.5m</td>
+</tr>
+<tr>
+<td><a href="http://stackapps.com/questions/345/stackguru-a-near-realtime-bot-for-all-stackexchange-sites">StackGuru</a></td>
+<td align="right">1.4m</td>
+</tr>
+<tr>
+<td><a href="http://stackapps.com/questions/493/stackstalker-be-notified-when-your-question-is-updated-chrome-extension">Question Monitor</a></td>
+<td align="right">1.3m</td>
+</tr>
+<tr>
+<td><a href="http://chat.stackoverflow.com">Stack Overflow Chat</a></td>
+<td align="right">1.1m</td>
+</tr>
+<tr>
+<td><a href="http://stackapps.com/questions/587/new-q-google-chrome-extension-notifies-you-of-new-questions-of-interest">New Q!</a></td>
+<td align="right">943k</td>
+</tr>
+<tr>
+<td><a href="http://stackapps.com/questions/1696/stackoverflow-notifications-in-visual-studio-2010-extension">VSCommands Lite</a></td>
+<td align="right">572k</td>
+</tr>
+<tr>
+<td><a href="http://stackapps.com/questions/1703/so-live-live-updates-to-your-reputation-score">SO Live!</a></td>
+<td align="right">535k</td>
+</tr>
+<tr>
+<td><a href="http://stackapps.com/questions/585/droidstack-for-android-now-with-chat-support">Droidstack</a></td>
+<td align="right">498k</td>
+</tr>
+<tr>
+<td><a href="http://www.codingclue.com/" rel="nofollow">Coding Clue</a></td>
+<td align="right">473k</td>
+</tr>
+</table>
+</td>
+<td>
+<table width="260">
+<tr>
+<td><a href="http://stackapps.com/questions/36/stackmobile-com-view-stackexchange-sites-on-your-smartphone">StackMobile</a></td>
+<td align="right">443k</td>
+</tr>
+<tr>
+<td><a href="http://stackapps.com/questions/518/stacktack-a-javascript-widget-you-can-stick-anywhere">StackTack</a></td>
+<td align="right">386k</td>
+</tr>
+<tr>
+<td>StackMonitor</td>
+<td align="right">356k</td>
+</tr>
+<tr>
+<td><a href="http://stackapps.com/questions/2370/stackanywhere-a-stack-exchange-client-for-android">StackAnywhere</a></td>
+<td align="right">291k</td>
+</tr>
+<tr>
+<td><a href="http://stackapps.com/questions/1699/askubuntu-add-on-for-firefox-opera-and-chrome">AskUbuntu Add-on</a></td>
+<td align="right">251k</td>
+</tr>
+<tr>
+<td><a href="http://stackexchange.com">stackexchange.com</a></td>
+<td align="right">251k</td>
+</tr>
+<tr>
+<td><a href="http://stackapps.com/questions/316/swatch-a-firefox-plugin-for-monitoring-stack-exchange-sites-for-interesting-chan">Swatch for Firefox</a></td>
+<td align="right">185k</td>
+</tr>
+<tr>
+<td>DFeed IRC bot</td>
+<td align="right">180k</td>
+</tr>
+<tr>
+<td><a href="http://area51.stackexchange.com">Area 51</a></td>
+<td align="right">142k</td>
+</tr>
+<tr>
+<td><a href="http://careers.stackoverflow.com">Careers</a></td>
+<td align="right">140k</td>
+</tr>
+<tr>
+<td>StackTrends</td>
+<td align="right">128k</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p><b>Roughly 59% of all API requests are from non-web applications.</b> Of the top 20 applications, 8 are non-web applications.  This is of some interest with regards to the debate around HTML encoding all output by default, to ensure it is HTML safe. This suggests that there are many opportunities for script injection, although the reach of the attack is somewhat mitigated.</p>
+<p>API usage growth is basically flat. This is not terribly surprising, since we’re read-only until API v3.0.</p>
+<p><img src="assets/stack-exchange-api-1-1-usage-per-day.png" alt="" title="stack-exchange-api-1-1-usage-per-day" width="584" height="378" /></p>
+<p>Getting cache hit rates out of our logs is a bit difficult, but we’ve got an upper limit of 10% based on the numbers.  I’d say we can be confident in a 3-5% cache hit rate.</p>
+<p>We hope these statistics are interesting, if for nothing else than learning about some useful apps that work with the Stack Exchange API that you might not have heard of. You can find out more about these apps, and discover a bunch more, at <b><a href="http://stackapps.com">Stack Apps</a>!</b> </p>
+<p>Stack Apps is more than an app (<a href="http://blog.stackoverflow.com/2011/02/stack-apps-and-scripts/">and script</a>) directory -- there's also a comprehensive set of documentation, support, and examples for the Stack Exchange API over at Stack Apps -- and the entire API is self-documented at ...</p>
+<h2><a href="http://api.stackoverflow.com/1.1/usage">api.stackoverflow.com/1.1/usage</a></h2>
+<p>... with <b>examples you can run directly in your browser</b>. And naturally, it works against <a href="http://stackexchange.com/sites">every Stack Exchange site</a> exactly as you'd expect!</p>
+<p>Thanks to everyone who has built apps against our API. We'll do our best to support you, and keep evolving the API to <i>add more awesome</i> for you.</p>

@@ -1,0 +1,29 @@
+---
+layout: post
+title: Script Responsibly
+date: 2008-10-24 23:59:28.000000000 -04:00
+categories:
+- community
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>
+We've noticed there are a number of users running a script that <b>retrieves their <i>uncompressed</i> user page multiple times per second</b>, producing an absurd amount of network traffic. Fortunately, we do cache the user page if the requests come in anonymously, so the database load was not significant.</p>
+<p>
+However, this behavior is irresponsible and unacceptable, so <b>we will permanently ban any IP we see doing this</b>. We've already banned about a dozen IPs for this, and we will continue to do so. If you persist, your account will be permanently deleted. We might even lay down long term IP block bans if necessary.</p>
+<p>
+We would prefer that you use our RSS feeds, or lobby us to improve our RSS feeds, rather than scrape Stack Overflow so aggressively.</p>
+<p /></p>

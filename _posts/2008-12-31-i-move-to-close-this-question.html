@@ -1,0 +1,60 @@
+---
+layout: post
+title: I Move to Close This Question
+date: 2008-12-31 03:20:28.000000000 -05:00
+categories:
+- community
+- design
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>
+As an active Stack Overflow user, one of the abilities you'll gain at 3,000 reputation is <b>the ability to close and reopen questions</b>. Closed questions don't allow any new answers to be added, but can still be edited and commented on. All it takes is one user (with the appropriate reputation level, natch) to decide a question is closed.</p>
+<p>
+<img src="assets/stackoverflow-close-menu.png" alt="stackoverflow-close-menu" title="stackoverflow-close-menu" /></p>
+<p>
+I had a long email exchange with an avid Stack Overflow user, <a href="http://stackoverflow.com/users/122/mike-stone">Mike Stone</a>, on this topic in September. I view closing as working in parallel with voting, serving as an important check and balance by experienced users versus regular votes. I explained my position:</p>
+<blockquote><p>
+Visit any online forum and you'll find lots of locked threads. Closing is equivalent to locking a thread. <b>Would you really argue that every online bulletin board should allow any topic whatsoever to be opened and discussed?</b> If so then maybe Stack Overflow is not the place for you, because that is definitely not the intent. Based on all the data I've seen, closing is working. So is voting. They complement each other!
+</p></blockquote>
+<p>
+Mike was still adamant that closing questions was a bad idea:</p>
+<blockquote><p>
+Consider the thing that I have seen REPEATEDLY which would be solved by a simple consensus to close.  It takes 1 person to close a question... if they just don't like the question because they don't see how it relates to programming... they are doing an ACTIVE DISSERVICE to the site by closing it (this happens very often from what I've seen).  If multiple people are required to close, this both builds the community more and limits the harm 1 person can do (it's easy to undo, but it's equally easy to redo).
+</p></blockquote>
+<p>
+I've since come around to Mike's way of thinking. Almost everything else on Stack Overflow is vote based. Allowing a single person with 3,000 rep to close a question isn't really in the spirit of having a consensus that SO was founded on. It's true that a peer can then come along and reopen the question at wiill any time, but this then leads to ping-pong battles of opening and closing between two users. And probably a lot of angst.</p>
+<p>
+So as of tonight, I've taken Mike's advice. Jarrod implemented <b>vote-based question closing and reopening</b>.</p>
+<p>
+<img src="assets/stackoverflow-move-to-close.png" alt="stackoverflow-move-to-close" title="stackoverflow-move-to-close" /></p>
+<p>
+Now, when you click "close", it's counted as a vote. <b>If three people agree that a question should be closed</b> (for any reason), it will be closed. If you disagree with this, no problem! You can reopen the question in the very same way. </p>
+<p>
+<img src="assets/stackoverflow-move-to-open.png" alt="stackoverflow-move-to-open" title="stackoverflow-move-to-open" /></p>
+<p>
+If three users with 3,000+ rep all <b>vote to reopen a question</b>, it will be reopened.</p>
+<p>
+It's important to note here that closing a question is a step on the <b>road to deletion</b>. Closing is effectively "nominate to delete", as a question that can't be answered is no longer truly "alive". That said, some closed questions should be kept around. For example, duplicate questions that have totally different wording are sometimes useful. With the duplicates, people can find either variation with search terms and link through to the original. The majority of closed questions, however, aren't particularly useful and are much more likely to eventually be deleted.</p>
+<p>
+(As an aside, it is a continual source of amazement to me that people can ask two identical questions with almost <i>no</i> words in common -- but I see it practically every day!)</p>
+<p>
+In fact, one of the moderation powers we now allow for 10,000 rep users is to delete closed questions (they must be closed, first) and complete the loop. Of course, questions can also be undeleted, so I guess the circle begins again..</p>
+<p>
+Here's to Mike Stone for being patient and sticking with us; this change makes the site better for everyone.</p>
+<p>
+See, we do listen. Eventually.</p>
+<p /></p></p></p></p></p></p></p></p>

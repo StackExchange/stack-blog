@@ -1,0 +1,61 @@
+---
+layout: post
+title: Server Speed Tests
+date: 2009-02-06 03:34:09.000000000 -05:00
+categories:
+- server
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>
+We now have <a href="http://blog.stackoverflow.com/2009/01/new-stack-overflow-servers-ready/">the new servers</a> set up in the data center, and configured with copies of the Stack Overflow website and database. We excitedly ran a few quick speed comparisons with the live site and found.. <font color="red">the new site was two times slower than the old one.</font></p>
+<p>
+(insert sound of analog record needle being ripped off a record, here.)</p>
+<p>
+Er.. <i>what?</i></p>
+<p>
+That was our reaction too. These servers have <a href="http://blog.stackoverflow.com/2009/01/new-stack-overflow-server-glamour-shots/">2 - 4x the memory, 1.5x the processing power, and faster drive arrays</a>. How could they possibly be slower?</p>
+<p>
+Through a process of elimination, we deduced the following:</p>
+<ol>
+<li>Lightweight pages on the new site indeed load faster. This means the <b>web tier</b> is probably OK.
+</li>
+<li>A long-ish running SQL query extracted from the old database server, runs faster when executed manually against the new database server. This means the <b>database tier</b> is probably OK.
+</li>
+<li>The more heavyweight the page, the more pronounced the slowdown. This led us to believe <b>the network</b> was the culprit.
+</li>
+</ol>
+<p>
+We double and triple checked all our network settings, and verified our little <a href="http://www.newegg.com/Product/Product.aspx?Item=N82E16833122203">NetGear GS108T managed switch</a> was configured properly and had the latest firmware. We couldn't find a single thing wrong or misconfigured. This was turning into a real mystery. We were pondering whether we'd have to eliminate the switch and try a direct crossover ethernet connection between the web tier and database tier.</p>
+<p>
+While we were discussing it, I figured I'd update the network drivers from the default provided with Windows to the <a href="http://www.broadcom.com/support/ethernet_nic/downloaddrivers.php">latest versions from Broadcom's website</a>. It's a little risky when done remotely, but it worked. </p>
+<p>
+To my utter amazement, <b>once the network drivers were updated on both tiers, our performance magically went from 2x slower to 2x <i>faster!</i></b> Here's a <a href="http://getfirebug.com/">firebug</a> network trace of me retrieving my user page on both servers.</p>
+<p>
+Existing site:</p>
+<p>
+<img src="assets/stackoverflow-firebug-old-server.png" alt="stackoverflow-firebug-old-server" title="stackoverflow-firebug-old-server" /></p>
+<p>
+New site:</p>
+<p>
+<img src="assets/stackoverflow-firebug-new-server.png" alt="stackoverflow-firebug-new-server" title="stackoverflow-firebug-new-server" /></p>
+<p>
+For context, prior to the network driver update, this page was taking over <i>900 milliseconds</i> to load on the new servers. Just the page itself, mind you, everything else was on top of that. The overall time was around 1.35 seconds average. Ouch!</p>
+<p>
+Going from 715ms to 560ms user page load time is the kind of performance increase we expected from the new hardware. Note that I cherry-picked the best page load time from the old server here, versus an average page load time from the new server. In the typical case it'd be even faster. We expect a lot of the heavier pages on Stack Overflow will load anywhere from 50% to 100% faster. We're planning to switch over to the new servers on Sunday, if everything goes as planned.</p>
+<p>
+I guess the lesson here is the same one I learned last time: <b>always update your drivers to the absolute latest versions, or you'll be sorry. Really sorry!</b> I had no idea out-of-date network drivers could cause such catastrophically bad performance. I guess I do now.</p>
+<p /></p></p></p></p></p></p></p></p>

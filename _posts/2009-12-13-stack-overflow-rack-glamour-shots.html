@@ -1,0 +1,65 @@
+---
+layout: post
+title: Stack Overflow Rack Glamour Shots
+date: 2009-12-13 22:14:23.000000000 -05:00
+categories:
+- background
+- server
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>
+We installed our <a href="http://blog.stackoverflow.com/2009/12/database-server-upgrade-outage-today/">secondary (backup) database server</a> tonight. Geoff took the opportunity to snap a few <b>glamour shots of the Stack Overflow server rack</b> at our host <a href="http://www.peakinternet.com/business/hosting/colocation-dedicated#">PEAK Internet</a>.</p>
+<p>
+I present them here for your unbridled enjoyment and pleasure:</p>
+<p>
+<img src="assets/stack-overflow-server-rack-front-small.jpg" alt="stack-overflow-server-rack-front-small" title="stack-overflow-server-rack-front-small" width="600" /></p>
+<p>
+<img src="assets/stack-overflow-server-rack-back-small.jpg" alt="stack-overflow-server-rack-front-small" title="stack-overflow-server-rack-back-small" width="600" /></p>
+<p>
+<font color="red">update:</font> Based on feedback from this post, we <a href="http://blog.stackoverflow.com/2009/12/scheduled-site-maintenance-saturday/">went back and improved our rack hygiene</a>:</p>
+<p>
+<img src="assets/stack-overflow-server-rack-back-small-improved-v2.jpg" alt="" title="stack-overflow-server-rack-back-small-improved-v2" width="600" /></p>
+<p>
+These are primarily <a href="http://www.google.com/search?q=lenovo+rs110">Lenovo RS110</a> and <a href="http://www.google.com/search?q=lenovo+rd120">Lenovo RD120</a> servers, with a few other rackable items in the mix:</p>
+<ul>
+<li>1U web servers (5)<br />
+<span style="color:#888">2.83 Ghz quad core, 8 GB RAM, 2 drive RAID 1</span>
+</li>
+<li>Primary 2U database server<br />
+<span style="color:#888">3.33 Ghz quad core x 2, 48 GB RAM, 6 drive RAID 10</span>
+</li>
+<li>Backup 2U database server<br />
+<span style="color:#888">2.5 Ghz quad core x 2, 24 GB RAM, 6 drive RAID 10</span>
+</li>
+<li><a href="http://blog.stackoverflow.com/2009/02/our-backup-strategy-inexpensive-nas/">QNAP TS-409U</a> network attached storage device<br />
+<span style="color:#888">500 Mhz CPU, embedded Linux, hot-plug 4 drive RAID 6</span>
+</li>
+<li><s><a href="http://www.netgear.com/Products/Switches/AdvancedSmartSwitches/GS108T.aspx">Netgear GS108T</a> smart switch (2)</s><br />
+<s><span style="color:#888">8 ports, gigabit, managed SNMP, web interface</span></s>
+</li>
+<li><a href="http://www.netgear.com/Products/Switches/SmartSwitches/GS724T.aspx">Netgear GS724Tv3</a> ProSafe switch<br />
+<span style="color:#888">24 ports, gigabit, managed SNMP, web interface</span>
+</li>
+<li>Tripp-Lite RS-1215-20 12 outlet power strip<br />
+<span style="color:#888">seriously? it's a friggin' power strip. <a href="http://www.tripplite.com/en/products/model.cfm?txtModelID=202">Oh fine</a>.</span>
+</li>
+</ul>
+<p>
+Note that the primary database server is shared across all sites; only <i>two</i> of the web tier servers currently serve Stack Overflow. We have quite a bit of extra capacity in the rack.</p>
+<p>
+If you'd like to see more, <i>you dirty hardware perv</i>, you can peruse a more detailed breakdown of the internals of the servers in <a href="http://blog.stackoverflow.com/2009/01/new-stack-overflow-server-glamour-shots/">Stack Overflow Server Glamour Shots</a>.</p>
+<p /></p></p></p></p>

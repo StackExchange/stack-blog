@@ -1,0 +1,54 @@
+---
+layout: post
+title: When Is An Account "Abandoned"?
+date: 2009-02-15 23:59:09.000000000 -05:00
+categories:
+- design
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '27'
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>Let's talk about deletion.</p>
+<p>Not <em>question</em> deletion, which <a href="http://blog.stackoverflow.com/2009/04/the-stack-overflow-question-lifecycle/">works this way</a>, for the record. The deletion I want to talk about today is <strong>account deletion</strong>.</p>
+<p>Stack Overflow is a bit unusual in that our accounts are ultra lightweight. We don't require registration; we allow essentially <em>anonymous</em> posting. We were inspired by Wikipedia in this regard. We wanted to reduce the friction of asking and answering to little more than entering an anonymous comment on a blog. For example, we often <em>don't even have an email address for our users</em>. And we're fine with that. I can't think of very many sites with as loose a definition of account as Stack Overflow.</p>
+<p>Once someone asks or answers a question, they automatically get a cookie-based account and user id. This account can potentially be "upgraded" by attaching an OpenID to it. The downside of this choice is that we end up with lots of abandoned one-shot "accounts".</p>
+<p>But here's the question: <strong>when is it safe to declare an account <em>abandoned?</em></strong></p>
+<p>We came up with these two rules of thumb. If..</p>
+<ol>
+<li>the user has <span style="color: red;">not visited the site in six months</span><br />
+<h2>AND</h2>
+</li>
+<li>the user has <span style="color: red;">not done anything of significance</span>, ever</li>
+</ol>
+<p>.. their accounts are effectively abandoned. We don't believe those users are ever coming back. With that in mind:</p>
+<p>We <strong>delete cookie-based unregistered accounts</strong> when:</p>
+<ol>
+<li>The user has not visited Stack Overflow in six months<br />
+<h2>AND</h2>
+</li>
+<li>The user has less than 50 reputation, and no visible (not-deleted) posts</li>
+</ol>
+<p>We <strong>delete OpenID registered accounts</strong> when:</p>
+<ol>
+<li>The user has not visited Stack Overflow in six months<br />
+<h2>AND</h2>
+</li>
+<li>The user has only 1 reputation, no visible posts, and no other accounts on the network</li>
+</ol>
+<p>I think these criteria are safe. I was, however, surprised to discover there are a lot more abandoned registered accounts than abandoned unregistered, cookie-based accounts. Note that when we delete an account, the user information on their questions and answers (if they have any) are denormalized into text fields. At the very least we have an IP address, and a user-entered name, so you still have some inkling of who the original author was.</p>
+<p>When someone <em>wants</em> their account deleted we normally ask that they <a href="http://meta.stackoverflow.com/questions/5999/can-i-delete-my-account">edit the profile and email us</a> - this adds a human sanity-check to the process, since accounts are <strong>hard-deleted</strong> (unlike <a href="http://meta.stackoverflow.com/questions/5221/what-can-cause-a-post-to-be-deleted-and-what-does-that-actually-mean">posts</a>). However, if you signed up to post a single question and never used your account again, it's a bit simpler: users with <em>next-to-no presence on the site</em> (left at most one post or one vote, received at most one up-vote, etc.) will see a delete option on their profile:</p>
+<p><img class="alignnone" src="assets/dlqrE.png" alt="profile delete link" width="465" height="124" /></p>
+<p>This ended up being a fairly common request from folks who created an account but never used it, or accidentally created a new account before remembering that they already had one.</p>
+<p>&nbsp;</p>

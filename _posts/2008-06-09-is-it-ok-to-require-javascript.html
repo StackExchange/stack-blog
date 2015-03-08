@@ -1,0 +1,37 @@
+---
+layout: post
+title: Is It OK to Require JavaScript?
+date: 2008-06-09 04:52:16.000000000 -04:00
+categories:
+- design
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>
+Here's one decision we're pondering as we build stackoverflow, and I'd like to get your feedback on it:</p>
+<p>
+<b>Is it OK to require JavaScript to participate?</b></p>
+<p>
+Note that by "participate" I mean "edit, answer or ask a question". Of course passively reading a question and the associated answers will work fine without JavaScript enabled.</p>
+<p>
+In addition to the <a href="http://blog.stackoverflow.com/index.php/2008/05/potential-markup-and-editing-choices/">aforementioned WMD editor</a>, we're using <a href="http://jquery.com/">JQuery</a> to build some cool interactive features into the site, most of which deal with asking and editing questions.</p>
+<p>
+I <a href="http://quotably.com/codinghorror/statuses/830271411">asked this question on Twitter</a> and got a "mostly yes" answer, with a few objections.</p>
+<p>
+While we do believe in <a href="http://en.wikipedia.org/wiki/Progressive_Enhancement">progressive enhancement</a>, it's possible that some of the features we're building for asking and editing may be so dynamic that they do not degrade well, if at all.</p>
+<p>
+What say you? Is it OK for a website in 2008 to <i>require</i> JavaScript for active (not passive) participation?</p>
+<p /></p></p></p>

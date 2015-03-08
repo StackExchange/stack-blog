@@ -1,0 +1,88 @@
+---
+layout: post
+title: New, Improved Comments with @reply
+date: 2010-01-16 07:24:06.000000000 -05:00
+categories:
+- community
+- design
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>
+Stack Overflow didn't always have post comments. The first comment ever was on <a href="http://stackoverflow.com/questions/35301/what-is-the-diffference-between-the-and-or-operators/35314#35314">this post by Michael Stum</a>, and it was posted on September 6th, 2008. There have been continuous improvements to comments since they were originally rolled out:</p>
+<ul>
+<li><a href="http://blog.stackoverflow.com/2009/04/comments-now-with-flags-and-votes/">Comments: Flags and votes</a>
+</li>
+<li><a href="http://blog.stackoverflow.com/2009/04/comments-top-n-shown/">Comments: Top n shown</a>
+</li>
+<li><a href="http://blog.stackoverflow.com/2009/08/new-question-asker-features/">Comments: question owner is highlighted</a>
+</li>
+</ul>
+<p>
+On top of that, the limitation on comment length was relaxed from the original 300 characters to 600 characters. There have been three additional improvements to comments recently, all by popular demand. </p>
+<p><h2>Comment Formatting</h2>
+<p>
+Hopefully you're familiar with Markdown by now; it's <a href="http://stackoverflow.com/editing-help">the formatting language we use for posts on Stack Overflow</a>. Well, all that learnination has paid off: now you can <b>use a subset of Markdown in your comments for bold, italic, and code</b>. </p>
+<p><pre>
+*italic* _italic_
+**bold** __bold__
+`code`
+\*not italic\*
+[link text](http://example.com "link title")
+</pre>
+<p>
+Like so:</p>
+<p>
+<img src="assets/comments-mini-markdown.png" alt="" title="comments-mini-markdown" style="border:1px solid silver;" /></p>
+<p>
+The support of a minimal subset of Markdown in comments isn't new, it's been in for several months -- but I wanted to make sure everyone was aware of it.</p>
+<p><h2>Comment Editing</h2>
+<p>
+As frequently requested, <b>we now allow editing of your comments</b> for a 5 minute grace period after they are posted. Just mouse over your comment and look for the "edit" link.</p>
+<p>
+<img src="assets/comment-editing.png" alt="" title="comment-editing" style="border:1px solid silver;" /></p>
+<p>
+A comment that has been edited will have a small pencil icon indicator; the tooltip explains what it means, and also tells you how many times the comment was edited. Once that 5 minute editing grace period is over, the comment is "locked in" and cannot be edited. If you want to change it after that, it must be deleted and resubmitted as a new comment.</p>
+<p><h2>Comment @username Notifications</h2>
+<p>
+Normally, you only get notified of comments when you own the post that is being commented on. But now <b>you will also get notified of any comments that refer to you by @username</b>, even if you don't own the underlying post. This implementation is inspired by the way Twitter handles @username mentions -- although we have the additional rather severe restriction that in our system, user names are not guaranteed to be unique.</p>
+<p>
+<img src="assets/comments-replies-formatting.png" alt="" title="comments-replies-formatting" style="border: 1px solid silver;" /></p>
+<p>
+In the above example, <a href="http://stackoverflow.com/users/17516/anthonywjones">Anthony Jones</a> will get notified that <a href="http://stackoverflow.com/users/31136/bruno-conde">Bruno Conde</a> has replied to his comment. (writing out the entire username wasn't entirely required, as will be explained shortly)</p>
+<p>
+There are some rules, of course:</p>
+<ol>
+<li>This only works when referring to other people who have already commented (or have edited the post).
+</li>
+<li><b>Your comment must include @username that you are referring to</b>, where "username" is a reasonable match to the user's current display name (as seen in the comments above yours).
+</li>
+<li>There must be a starts-with, case insensitive match of at least THREE characters to the displayname. So @a and @ab will never match anyone or anything.
+</li>
+<li>Spaces are ignored in the match, so if the person's display name is "Peter Smith" then just use @peter to match, or @petersmith.
+</li>
+<li>Matching is performed in reverse chronological order, so if there are five people named "John" in the comments, writing "hey @john, have you considered apples?" will match the <i>most recent</i> John to comment.
+</li>
+<li>Only one person can be replied to at a time in a comment. The first one in the string wins.
+</li>
+<li>Users who have no display name set, whose faux-displayname is derived from their OpenID URL, cannot be matched.
+</li>
+</ol>
+<p>
+Question and answer owners were always notified when there were new comments on their posts, so there's no need to address the post owner by @name when commenting. Remember, the intent of this feature is to <b>let <i>other users participating in the comments</i> know that you've replied to them</b>. </p>
+<p>
+Now, we don't want Stack Overflow to turn into a social networking site for chatty cathys, so there's only so far we will go in supporting pure conversation. We may be tweaking the behavior a bit over the next day or two, but but this seems like a reasonable compromise.</p>
+<p /></p></p></p></p></p></p></p></p></p></p>

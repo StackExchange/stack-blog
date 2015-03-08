@@ -1,0 +1,83 @@
+---
+layout: post
+title: Server Hosting -- Rent vs. Buy?
+date: 2008-12-09 23:59:19.000000000 -05:00
+categories:
+- server
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
+author:
+  login: admin
+  email: jatwood@codinghorror.com
+  display_name: Jeff Atwood
+  first_name: Jeff
+  last_name: Atwood
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>
+As Stack Overflow continues to grow, it's time to revisit our server hosting situation.</p>
+<p>
+We currently rent <a href="http://blog.stackoverflow.com/2008/04/our-dedicated-server/">two identical dedicated servers from CrystalTech</a>, which has been an excellent and responsive host for not only SO but Coding Horror as well. If you're in the market for Windows hosting, I can recommend them without reservation.</p>
+<p>
+<a href="http://crystaltech.com/dedicated-windows.aspx?uid=101" style="border-bottom:none;"><img src="assets/powered-by-crystaltech.png" alt="Powered By CrystalTech Web Hosting" title="Powered By CrystalTech Web Hosting" border="0" /></a></p>
+<p>
+Although the monthly rates are extremely reasonable, we're starting to see <b>pressure on our database server for more than 4 GB of memory</b>. SQL Server has an insatiable appetite for memory, and given the ridiculously low cost of memory these days, it seems crazy not to build a server box with 8 GB at the very minimum -- and possibly 16 GB or 24 GB depending on how much the server will accept.</p>
+<p>
+Unfortunately, upgrading memory on our rental servers isn't really an option, as the monthly cost increase for the memory upgrade would nearly <i>double</i> our monthly hosting fees. This says more about how insanely great our existing deal is than anything else, but it's still a bummer. The rental model is something we want to move away from in the longer term, anyway: the more we grow, the more servers we add, the more our monthly costs increase.</p>
+<p>
+So, instead, we're looking at <b>buying our own servers and renting rack space</b>. This way we pay a fixed one-time cost for the servers, and the monthly cost for the rack space plus bandwidth stays the same (mostly, depending on our bandwidth usage).</p>
+<p>
+I'm currently looking at the <a href="http://www.buy.com/prod/lenovo-thinkserver-rd120-server-xeon-1-86ghz-2gb-ddr2-sdram-raid/q/loc/101/209246521.html">Lenovo ThinkServer RD120</a>.</p>
+<p>
+<img src="assets/lenovo-thinkserver-rd120.jpg" alt="lenovo thinkserver rd120" title="lenovo-thinkserver-rd120" class="alignnone size-full wp-image-158" /></p>
+<p>
+This guy is about $1,500 in a barebones configuration:</p>
+<ul>
+<li>Two Intel Xeon processor sockets
+</li>
+<li>Up to 6 hard drives
+</li>
+<li>RAID controller supporting 0, 1, 1E, 5, 6, 10 RAID
+</li>
+<li>Up to 48GB DDR2-667 ECC memory (12 memory slots)
+</li>
+<li>Dual gigabit ethernet
+</li>
+<li>835w redundant power supply
+</li>
+</ul>
+<p>
+(I considered building my own rack mount <a href="http://www.codinghorror.com/blog/archives/000814.html">using Google-style commodity computer parts in a rack case</a>, but quality RAID, dual-socket, and redundant power supplies are sort of hard to come by in typical consumer computer parts. Starting with a pre-built server chassis that has the correct redundant power and hard drive setup already configured seems like the smarter move here.)</p>
+<p>
+See <a href="http://www-307.ibm.com/pc/support/site.wss/MIGR-70408.html">the downloadable hardware maintenance manual</a> for details. We'd need to add the following, which I priced a week ago on NewEgg:</p>
+<table cellpadding="4" cellspacing="4" width="400">
+<tr>
+<td>Two 2.5 Ghz Xeon quad core CPUs</td>
+<td>$700</td>
+</tr>
+<tr>
+<td>Six 500 GB 7,200 rpm SATA drives</td>
+<td>$450</td>
+</tr>
+<tr>
+<td>Twelve 2 GB ECC DDR2-667 DIMMs</td>
+<td>$500</td>
+</tr>
+</table>
+<p>
+That puts it at $500 + $450 + $700 + $1,500 = <b>$3,150 for a very beefy server indeed (Eight 2.5 GHz CPUs, 24 GB RAM, 500 GB RAID 10)</b>. </p>
+<p>
+This is <i>substantially</i> better than our existing rented dedicated server configuration (Eight 1.8 Ghz CPUs, 4 GB RAM, 320 GB RAID 5).</p>
+<p>
+We only need a server this powerful for the database; for the web tier, a smaller <a href="http://www.buy.com/prod/lenovo-thinkserver-rs110-server-1-x-core-2-duo-2-53ghz-1gb-ddr2-sdram/q/loc/101/209246526.html">Lenovo ThinkServer RS110 1U</a> with basic RAID, 4 GB, and a single quad-core CPU would probably be sufficient.</p>
+<p>
+Yes, the initial up front cost would be pretty high -- but we could slightly more than recoup the cost of one uber-beefy database server in a single year if we save just $300 per month. And we'd easily do that by renting rack space.</p>
+<p>
+<b>What are your thoughts on rent vs. buy when it comes to server hosting?</b> Also, we're definitely seeking quotes on rack space if you know any great providers -- our requirements are five 2U slots (mostly for future expansion), and about 1250 GB per month of bandwidth at the moment (ditto).</p>
+<p /></p></p></p></p></p></p></p></p></p>
