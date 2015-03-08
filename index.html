@@ -10,18 +10,24 @@ layout: default
 			<div class="-col6">
 				<article class="featured-post post _textCenter">
 					<div class="top">
-						<h4>Company News</h4>
+						<h6>Company News</h6>
 						{% assign company_post = site.categories.company | first %}
-						<h2>{{ company_post.title }}</h2>
+						<h2><a href="{{ company_post.url }}">{{ company_post.title }}</a></h2>
+					</div>
+					<div class="image-container">
+						<img src="{{ company_post.hero }}">
 					</div>
 				</article>
 			</div>
 			<div class="-col6">
 				<article class="featured-post post _textCenter">
 					<div class="top">
-						<h4>Engineering</h4>
-						{% assign company_post = site.categories.engineering | first %}
-						<h2>{{ company_post.title }}</h2>
+						<h6>Engineering</h6>
+						{% assign engineering_post = site.categories.engineering | first %}
+						<h2><a href="{{ engineering_post.url }}">{{ engineering_post.title }}</a></h2>
+					</div>
+					<div class="image-container">
+						<img src="{{ engineering_post.hero }}">
 					</div>
 				</article>
 			</div>
