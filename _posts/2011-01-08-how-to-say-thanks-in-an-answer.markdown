@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2011-01-08 09:26:14+00:00
 layout: post
-hero: http://rockofeye.net/artists/gray318
+hero: /blog/images/wordpress/upvote-thank-you.png
 slug: how-to-say-thanks-in-an-answer
 title: How to Say Thanks in an Answer
 wordpress_id: 6599

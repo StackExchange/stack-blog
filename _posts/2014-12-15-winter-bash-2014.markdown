@@ -3,7 +3,7 @@ author: jericson
 comments: true
 date: 2014-12-15 00:00:16+00:00
 layout: post
-hero: http://winterbash2014.stackexchange.com
+hero: http://i.stack.imgur.com/VmGTG.png
 slug: winter-bash-2014
 title: Winter Bash 2014
 wordpress_id: 14896

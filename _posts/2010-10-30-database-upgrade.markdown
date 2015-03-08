@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-10-30 08:23:24+00:00
 layout: post
-hero: http://d116.com/spud/
+hero: /blog/images/wordpress/nydb11.png
 slug: database-upgrade
 title: Database Upgrade
 wordpress_id: 5909

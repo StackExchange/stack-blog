@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2008-12-10 06:59:19+00:00
 layout: post
-hero: http://crystaltech.com/dedicated-windows.aspx?uid=101
+hero: /blog/images/wordpress/lenovo-thinkserver-rd120.jpg
 slug: server-hosting-rent-vs-buy
 title: Server Hosting -- Rent vs. Buy?
 wordpress_id: 157

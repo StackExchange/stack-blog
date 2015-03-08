@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-01-03 10:17:55+00:00
 layout: post
-hero: http://www.wulffmorgenthaler.com/strip.aspx?id=b8588605-9f9b-425f-a45b-b8fa9a5823d1
+hero: /blog/images/wordpress/i-love-code-candy.jpg
 slug: new-lower-careers-pricing
 title: New, Lower Careers Pricing
 wordpress_id: 2416

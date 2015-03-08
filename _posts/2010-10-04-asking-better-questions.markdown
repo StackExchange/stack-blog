@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-10-04 09:22:47+00:00
 layout: post
-hero: http://stackoverflow.com/questions/how-to-ask
+hero: /blog/images/wordpress/what-we-say-to-dogs.jpg
 slug: asking-better-questions
 title: Asking Better Questions
 wordpress_id: 5356

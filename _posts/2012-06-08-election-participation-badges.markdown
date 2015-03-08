@@ -3,7 +3,7 @@ author: shog
 comments: true
 date: 2012-06-08 23:05:49+00:00
 layout: post
-hero: http://meta.stackoverflow.com/questions/135144/what-should-the-election-voting-badge-be-named
+hero: http://i.stack.imgur.com/mnctW.png
 slug: election-participation-badges
 title: Election participation badges
 wordpress_id: 11860

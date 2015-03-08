@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2011-04-12 09:04:47+00:00
 layout: post
-hero: http://www.mathjax.org
+hero: /blog/images/wordpress/mathjax-math-stackexchange-preview.png
 slug: stack-exchange-partners-with-mathjax
 title: Stack Exchange Partners with MathJax
 wordpress_id: 7752

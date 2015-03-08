@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-07-22 20:44:12+00:00
 layout: post
-hero: http://area51.stackexchange.com/proposals/1288/food-and-cooking
+hero: /blog/images/wordpress/meta-switch-link.png
 slug: new-per-site-metas
 title: New Per-Site Metas
 wordpress_id: 4198

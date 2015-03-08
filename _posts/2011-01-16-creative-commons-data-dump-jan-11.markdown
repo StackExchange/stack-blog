@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2011-01-16 06:08:09+00:00
 layout: post
-hero: http://www.clearbits.net/get/1587-jan-2011.torrent
+hero: /blog/images/wordpress/clearbits-torrent-files.png
 slug: creative-commons-data-dump-jan-11
 title: Creative Commons Data Dump Jan '11
 wordpress_id: 6817

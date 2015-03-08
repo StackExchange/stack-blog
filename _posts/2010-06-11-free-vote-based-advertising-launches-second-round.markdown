@@ -3,7 +3,7 @@ author: rcartaino
 comments: true
 date: 2010-06-11 15:55:03+00:00
 layout: post
-hero: http://www.chiark.greenend.org.uk/~sgtatham/putty/
+hero: /blog/images/wordpress/vote-small3.jpg
 slug: free-vote-based-advertising-launches-second-round
 title: Free Vote-Based Advertising Launches Second Round
 wordpress_id: 3558

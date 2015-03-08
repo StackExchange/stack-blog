@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-11-01 08:10:23+00:00
 layout: post
-hero: http://www.amazon.com/dp/B001CQLGD6/?tag=stackoverfl08-20
+hero: /blog/images/wordpress/rovio-ui-1.jpg
 slug: rovio-or-how-to-annoy-your-coworkers-from-200-miles-away
 title: 'Rovio: Or, How to Annoy Your Coworkers From 2,800 Miles Away'
 wordpress_id: 5952

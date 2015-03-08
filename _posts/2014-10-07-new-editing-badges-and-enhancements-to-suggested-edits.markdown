@@ -3,7 +3,7 @@ author: shog
 comments: true
 date: 2014-10-07 21:42:26+00:00
 layout: post
-hero: http://stackoverflow.com/help/badges/4368/explainer
+hero: http://i.stack.imgur.com/qbgMw.png
 slug: new-editing-badges-and-enhancements-to-suggested-edits
 title: 'Editing is essential: new badges and review enhancements '
 wordpress_id: 14817
