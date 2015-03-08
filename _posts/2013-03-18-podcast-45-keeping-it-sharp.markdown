@@ -3,7 +3,6 @@ author: alex
 comments: true
 date: 2013-03-18 23:30:26+00:00
 layout: post
-hero: /blog/images/category/podcasts.jpg
 slug: podcast-45-keeping-it-sharp
 title: 'Podcast #45 - Keeping it Sharp'
 wordpress_id: 13233

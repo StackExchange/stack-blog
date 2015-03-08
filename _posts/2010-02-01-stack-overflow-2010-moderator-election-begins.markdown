@@ -21,7 +21,7 @@ There were some suggestions that the [Single Transferable Vote](http://en.wikipe
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/ballot-box.jpg)
+![](/blog/images/2010-02-01-stack-overflow-2010-moderator-election-begins/ballot-box.jpg)
 
 
 

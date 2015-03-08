@@ -3,7 +3,6 @@ author: alex
 comments: true
 date: 2011-07-27 19:00:58+00:00
 layout: post
-hero: /blog/images/category/podcasts.jpg
 slug: se-podcast-13
 title: 'SE Podcast #13 - Jin Yang'
 wordpress_id: 9033

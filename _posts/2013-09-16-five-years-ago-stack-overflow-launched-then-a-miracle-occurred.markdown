@@ -38,7 +38,7 @@ Before it went into beta, stackoverflow.com had a comic on the landing page that
 
 
 
-# [![](http://blog.stackoverflow.com/wp-content/uploads/then-a-miracle-occurs-cartoon.png)](http://blog.stackoverflow.com/2008/09/then-a-miracle-occurs-public-beta/)
+# [![](/blog/images/2013-09-16-five-years-ago-stack-overflow-launched-then-a-miracle-occurred/then-a-miracle-occurs-cartoon.png)](http://blog.stackoverflow.com/2008/09/then-a-miracle-occurs-public-beta/)
 
 
 
@@ -126,7 +126,7 @@ The next chapter of Stack Exchange is still being written. A few years ago, we w
 </blockquote>
 
 
-![fredrogers shadow](http://blog.stackoverflow.com/wp-content/uploads/fredrogers-shadow-300x266.jpg)
+![fredrogers shadow](/blog/images/2013-09-16-five-years-ago-stack-overflow-launched-then-a-miracle-occurred/fredrogers-shadow-300x266.jpg)
 
 
 We asked people what other sites they wanted, and carefully started launching them, one at a time. Each time, we were counting on a group of experts to come together and start asking and answering each other’s questions. There have been a few failures along the way, but overall, the successes have been amazing.

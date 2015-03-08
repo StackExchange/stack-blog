@@ -19,7 +19,7 @@ One of the [more popular Stack Exchange beta sites](http://stackexchange.com/sit
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/programmers-stackexchange1.png)](http://programmers.stackexchange.com)
+[![](/blog/images/2010-12-17-introducing-programmers-stackexchange-com/programmers-stackexchange1.png)](http://programmers.stackexchange.com)
 
 Now watch closely as I read your mind.
 
@@ -35,7 +35,7 @@ In a nutshell, **Stack Overflow is for when you're front of your compiler or edi
 
 Stated another way, Stack Overflow questions almost all have **actual source code in the questions or answers**. It's much rarer (though certainly OK) for a Programmers question to contain source code.
 
-![](http://blog.stackoverflow.com/wp-content/uploads/whiteboard-code.jpg)
+![](/blog/images/2010-12-17-introducing-programmers-stackexchange-com/whiteboard-code.jpg)
 
 
 Remember, these are just guidelines, not hard and fast arbitrary rules; refer to the [first few paragraphs of the FAQ](http://programmers.stackexchange.com/help/on-topic) if you want specifics about what Programmers is for:

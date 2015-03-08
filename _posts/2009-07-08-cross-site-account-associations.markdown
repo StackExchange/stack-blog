@@ -18,7 +18,7 @@ If you check your user page, you'll find a new **accounts tab**.
 
 
 
-![stack-overflow-account-association-google-openid](http://blog.stackoverflow.com/wp-content/uploads/stack-overflow-account-association-google-openid.png)
+![stack-overflow-account-association-google-openid](/blog/images/2009-07-08-cross-site-account-associations/stack-overflow-account-association-google-openid.png)
 
 
 
@@ -45,7 +45,7 @@ The associations, once made, are **public and visible for anyone to see on your 
 
 
 
-![so-related-accounts](http://blog.stackoverflow.com/wp-content/uploads/so-related-accounts1.png)
+![so-related-accounts](/blog/images/2009-07-08-cross-site-account-associations/so-related-accounts1.png)
 
 
 

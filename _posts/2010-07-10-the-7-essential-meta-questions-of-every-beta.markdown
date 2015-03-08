@@ -36,7 +36,7 @@ Each community has to own the design and governance of their site. They can't al
 
 Meta is your opportunity to take control; to take ownership of your site; to become self governing. It is your [Constitutional Convention](http://en.wikipedia.org/wiki/Philadelphia_Convention).
 
-[![Philadelphia Constitutional Convention](http://blog.stackoverflow.com/wp-content/uploads/constitutional-convention-e1278728326602.png)](http://en.wikipedia.org/wiki/Philadelphia_Convention)
+[![Philadelphia Constitutional Convention](/blog/images/2010-07-10-the-7-essential-meta-questions-of-every-beta/constitutional-convention-e1278728326602.png)](http://en.wikipedia.org/wiki/Philadelphia_Convention)
 
 Having said that, one of the benefits of being part of a larger network is eliciting cooperation and  learning from other communities. Rather than letting future sites stumble their way through the same issues over and over again, I have compiled a list of the questions you should consider fundamental to a successful beta.
 

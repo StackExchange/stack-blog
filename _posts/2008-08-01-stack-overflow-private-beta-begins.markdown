@@ -16,7 +16,7 @@ And then a miracle occurred.
 
 
 
-![I think you should be more explicit here in step two.](http://blog.stackoverflow.com/wp-content/uploads/then-a-miracle-occurs-cartoon.png)
+![I think you should be more explicit here in step two.](/blog/images/2008-08-01-stack-overflow-private-beta-begins/then-a-miracle-occurs-cartoon.png)
 
 
 

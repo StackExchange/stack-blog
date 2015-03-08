@@ -37,7 +37,7 @@ A quick update on the [IT / SysAdmin themed Stack Overflow](http://blog.stackove
 
 
 
-![nice-server-rack](http://blog.stackoverflow.com/wp-content/uploads/nice-server-rack.jpg)
+![nice-server-rack](/blog/images/2009-03-16-it-stack-overflow-update-naming-is-hard/nice-server-rack.jpg)
 
 
 

@@ -3,7 +3,6 @@ author: alex
 comments: true
 date: 2011-07-20 19:00:09+00:00
 layout: post
-hero: /blog/images/category/podcasts.jpg
 slug: se-podcast-12
 title: 'SE Podcast #12 - Patrick McKenzie'
 wordpress_id: 8771
@@ -58,7 +57,7 @@ This week, Jeff and Joel are joined by [Patrick McKenzie](http://www.kalzumeus.c
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/index.png)](http://blog.stackoverflow.com/wp-content/uploads/index.png)
+[![](/blog/images/2011-07-20-se-podcast-12/index.png)](/blog/images/2011-07-20-se-podcast-12/index.png)
 
 
 

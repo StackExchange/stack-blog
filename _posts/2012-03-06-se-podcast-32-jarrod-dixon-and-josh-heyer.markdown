@@ -3,7 +3,6 @@ author: alex
 comments: true
 date: 2012-03-06 15:15:27+00:00
 layout: post
-hero: /blog/images/category/podcasts.jpg
 slug: se-podcast-32-jarrod-dixon-and-josh-heyer
 title: 'SE Podcast #32 - Jarrod Dixon and Josh Heyer'
 wordpress_id: 11379

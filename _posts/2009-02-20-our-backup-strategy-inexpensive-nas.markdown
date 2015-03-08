@@ -16,7 +16,7 @@ As part of our new backup strategy, I decided to invest in an inexpensive Networ
 
 
 
-[![qnap 409u](http://blog.stackoverflow.com/wp-content/uploads/qnap-409u.jpg)](http://www.amazon.com/dp/B001AXCJVE/?tag=codinghorror-20)
+[![qnap 409u](/blog/images/2009-02-20-our-backup-strategy-inexpensive-nas/qnap-409u.jpg)](http://www.amazon.com/dp/B001AXCJVE/?tag=codinghorror-20)
 
 
 
@@ -47,7 +47,7 @@ Being Linux, you can also do [lots of other cool stuff](http://www.qnap.com/pro_
 
 
 
-[![ts409u-internals](http://blog.stackoverflow.com/wp-content/uploads/ts409u-internals.jpg)](http://www.techwarelabs.com/reviews/servers/qnap_ts_409u_turbo_nas/index_2.shtml)
+[![ts409u-internals](/blog/images/2009-02-20-our-backup-strategy-inexpensive-nas/ts409u-internals.jpg)](http://www.techwarelabs.com/reviews/servers/qnap_ts_409u_turbo_nas/index_2.shtml)
 
 
 
@@ -63,7 +63,7 @@ As for setting up the QNAP TS-409U, I was a little annoyed that you have to run 
 
 
 
-![ts409u-sata-config](http://blog.stackoverflow.com/wp-content/uploads/ts409u-sata-config.png)
+![ts409u-sata-config](/blog/images/2009-02-20-our-backup-strategy-inexpensive-nas/ts409u-sata-config.png)
 
 
 
@@ -71,7 +71,7 @@ Seventeen (!) hours later, the array was fully synced and ready for benchmarking
 
 
 
-[![raid-6-diagram](http://blog.stackoverflow.com/wp-content/uploads/raid-6-diagram.png)](http://en.wikipedia.org/wiki/Standard_RAID_levels#RAID_6)
+[![raid-6-diagram](/blog/images/2009-02-20-our-backup-strategy-inexpensive-nas/raid-6-diagram.png)](http://en.wikipedia.org/wiki/Standard_RAID_levels#RAID_6)
 
 
 

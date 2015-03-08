@@ -47,7 +47,7 @@ At 90 days into beta, we're supposed to evaluate each Area 51 beta site and eith
 
 Users put a lot of effort into their sites and, understandably, they feel a sense of attachment and responsibility for the site's well being. If you look at the beta evaluation statistics recently added to [Area 51](http://area51.stackexchange.com/), you'll see ratings -- from "Excellent" to "Worrying".
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/screenshot-19.png)](http://area51.stackexchange.com/proposals/1425/geographic-information-systems)
+[![](/blog/images/2010-10-21-when-will-my-site-graduate/screenshot-19.png)](http://area51.stackexchange.com/proposals/1425/geographic-information-systems)
 
 It's true that [GIS shows](http://gis.stackexchange.com) a "worrying" number of questions and a "worrying" number of avid users. But GIS also rates "excellent" at answering the questions posted to the site. More holistically, if you browse around at [gis.stackexchange.com](http://gis.stackexchange.com), it's clear that this community produces high quality questions and answers that _make the internet better_. That's our mission. That's the driving goal behind all our sites. Shutting down a site like GIS would _not_ advance our goal of making the Internet a better place to get expert answers to questions.
 

@@ -25,7 +25,7 @@ There are a bunch of ways the community team can support your events; to date we
 
 One simple method of promoting your community is to have a one-page color flyer available to hand out to interested folks at events. We've created a few of these already, both for public sites and for beta sites:
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/gis-flyer.png)](http://gis.stackexchange.com) [![](http://blog.stackoverflow.com/wp-content/uploads/flyer-gis.png)](http://dba.stackexchange.com)
+[![](/blog/images/2011-08-04-supporting-community-conferences/gis-flyer.png)](http://gis.stackexchange.com) [![](/blog/images/2011-08-04-supporting-community-conferences/flyer-gis.png)](http://dba.stackexchange.com)
 
 
 
@@ -35,7 +35,7 @@ One simple method of promoting your community is to have a one-page color flyer 
 
 Of course there are Stack Exchange t-shirts, stickers, hoodies, bags, and lots of other awesome goodies in the [Stack Exchange store](http://store.stackexchange.com) -- and we're happy to provide any Stack Exchange swag you need for the right event. But we've been busy creating **_site-specific_ goodies** for the top users on each site, too!
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/english-tshirt.png)](http://english.stackexchange.com)
+[![](/blog/images/2011-08-04-supporting-community-conferences/english-tshirt.png)](http://english.stackexchange.com)
 
 Naturally if you want to promote your Stack Exchange community at an event, you'd want site swag! We don't have it for every site in the network quite _yet_, but we're getting there -- you can [browse all the metas for questions tagged swag](http://stackexchange.com/filters/18811/meta-swag?sort=newest) to see what's currently available.
 
@@ -47,7 +47,7 @@ Naturally if you want to promote your Stack Exchange community at an event, you'
 
 We've also begun creating custom business cards for each Stack Exchange site, mostly for the community moderators. We've been [posting about it on each site's meta](http://stackexchange.com/filters/18817/meta-bizcards) as we go. But these don't have to be _exclusively_ for community moderators; if you'd like to promote your community at a specific event and you feel handing out business cards is the way to go -- just let us know and we'll get you set up!
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/gamedev-cards.png)](http://gamedev.stackexchange.com)
+[![](/blog/images/2011-08-04-supporting-community-conferences/gamedev-cards.png)](http://gamedev.stackexchange.com)
 
 
 
@@ -57,7 +57,7 @@ We've also begun creating custom business cards for each Stack Exchange site, mo
 
 We have also formally _sponsored_ a few events, which not only helps subsidize the event for the entire community, but also lets us officially get the word out to attendees that we have these fantastic, high signal to noise Q&A; sites. 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/stack-exchange-logos.png)](http://stackexchange.com/about/logos)
+[![](/blog/images/2011-08-04-supporting-community-conferences/stack-exchange-logos.png)](http://stackexchange.com/about/logos)
 
 We can provide high-res versions of the logos of any site to place on programs, signage, and other sponsored items. We have [a preliminary logos page](http://stackexchange.com/about/logos) set up, but if you need any other site art, just post on meta and we'll be happy to set it up!
 

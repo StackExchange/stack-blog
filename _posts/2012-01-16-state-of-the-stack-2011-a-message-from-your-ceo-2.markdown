@@ -17,4 +17,4 @@ We're now ranked [#160 on Quantcast](http://www.quantcast.com/p-c1rF4kxgLUzNc#),
 
 Anyway, we did one of those [fun infographics](http://stackexchange.com/stateofthestack) you kids like so much, to highlight some of the accomplishments of the last year in vivid color, so check it out for more details.
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/1-16-2012-12-47-24-PM.png)](http://stackexchange.com/stateofthestack)
+[![](/blog/images/2012-01-16-state-of-the-stack-2011-a-message-from-your-ceo-2/1-16-2012-12-47-24-PM.png)](http://stackexchange.com/stateofthestack)

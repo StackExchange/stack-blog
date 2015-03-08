@@ -51,7 +51,7 @@ Unfortunately, we botched what _should_ have been a much-welcomed roll out for 
 
 And _nothing_ makes you feel that pain quite like reminding you of it with a bright red line every time you visit your profile:
 
-![](http://blog.stackoverflow.com/wp-content/uploads/badrep.png)
+![](/blog/images/2012-03-06-reputation-and-historical-archives/badrep.png)
 
 As you can see in that screenshot, there's an actual_ link_ to the deleted answer - this is **the first time we've made that information available!** And the response to it was immediate: folks went through their histories, looked at all the deleted questions and answers, and found a bunch of stuff that, while not_ strictly_ compliant with current practices on Stack Overflow, [probably shouldn't have been deleted](http://stackoverflow.com/questions/432922/significant-new-inventions-in-computing-since-1980).
 

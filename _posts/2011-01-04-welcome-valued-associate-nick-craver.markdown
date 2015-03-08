@@ -13,13 +13,13 @@ categories:
 
 I'm pleased to announce that we're kicking off 2011 with some new blood on the team, starting with [Nick Craver](http://stackoverflow.com/users/13249/nick-craver).
 
-![](http://blog.stackoverflow.com/wp-content/uploads/nick-craver-photo.jpg)
+![](/blog/images/2011-01-04-welcome-valued-associate-nick-craver/nick-craver-photo.jpg)
 
 Nick will be working remotely for us from North Carolina.
 
 Nick is an old friend of [Jarrod Dixon](http://blog.stackoverflow.com/2009/01/welcome-stack-overflow-valued-associate-00002/), so he comes highly recommended. Jarrod always told me how great Nick was, and although I implicitly trust Jarrod's opinion, I sort of waved him off with a _yeah, yeah._ But then [this happened](http://stackexchange.com/leagues/1/year/stackoverflow/2010-01-01):
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/stack-overflow-rep-league-2010.png)](http://stackexchange.com/leagues/1/year/stackoverflow/2010-01-01)
+[![](/blog/images/2011-01-04-welcome-valued-associate-nick-craver/stack-overflow-rep-league-2010.png)](http://stackexchange.com/leagues/1/year/stackoverflow/2010-01-01)
 
 When you top [the Stack Overflow reputation leagues for 2010](http://stackexchange.com/leagues/1/year/stackoverflow/2010-01-01), rest assured **you now have my full and unfettered attention**.
 

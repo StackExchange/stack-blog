@@ -31,7 +31,7 @@ Joel just announced what we've been working on for the last 6-8 weeks at Boston 
 
 
 
-[![Stack Overflow Careers](http://blog.stackoverflow.com/wp-content/uploads/stack-overflow-careers.png)](http://careers.stackoverflow.com/)
+[![Stack Overflow Careers](/blog/images/2009-10-07-introducing-stack-overflow-careers/stack-overflow-careers.png)](http://careers.stackoverflow.com/)
 
 
 

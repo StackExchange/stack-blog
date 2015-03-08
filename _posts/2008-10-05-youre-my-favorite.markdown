@@ -16,7 +16,7 @@ We just implemented another highly requested feature -- **the ability to mark a 
 
 
 
-![stackoverflow-favorites-closeup](http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-favorites-closeup.png)
+![stackoverflow-favorites-closeup](/blog/images/2008-10-05-youre-my-favorite/stackoverflow-favorites-closeup.png)
 
 
 
@@ -24,7 +24,7 @@ Click to favorite. Click again to un-favorite. Once favorited, these questions w
 
 
 
-![stackoverflow-favorites](http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-favorites.png)
+![stackoverflow-favorites](/blog/images/2008-10-05-youre-my-favorite/stackoverflow-favorites.png)
 
 
 

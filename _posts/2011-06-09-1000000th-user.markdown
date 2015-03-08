@@ -18,5 +18,5 @@ Another number we track internally is "number of human beings who _type_ on one 
 
 Our millionth user account was created by [9monkeys](http://stackexchange.com/users/48d53062-1f52-4b00-b288-fac97414df53?tab=top) on the [GIS site](http://gis.stackexchange.com). 9monkeys will be winning a free ticket to [Stack Overflow Dev Days](http://devdays.stackoverflow.com/), travel expenses included. Congratulations!
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/1000000users.png)](http://stackexchange.com/sites)
+[![](/blog/images/2011-06-09-1000000th-user/1000000users.png)](http://stackexchange.com/sites)
 

@@ -44,7 +44,7 @@ Aqualad it is, then.
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/aquaman-and-aqualad.jpg)
+![](/blog/images/2010-03-01-our-sidekick-ifixit-com/aquaman-and-aqualad.jpg)
 
 
 

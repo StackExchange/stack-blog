@@ -49,7 +49,7 @@ Just check out [one example](http://superuser.com/questions/95685/windows-7-admi
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/superuser-deleted-answers-small.png)](http://blog.stackoverflow.com/wp-content/uploads/superuser-deleted-answers.png)
+[![](/blog/images/2010-06-07-new-protected-question-status/superuser-deleted-answers-small.png)](/blog/images/2010-06-07-new-protected-question-status/superuser-deleted-answers.png)
 
 
 

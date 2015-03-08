@@ -75,11 +75,11 @@ As part of the new authentication feature in Stack Exchange API V2.0, we added a
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/apps-tab1.png)](http://blog.stackoverflow.com/2012/04/stack-exchange-api-v2-0-contest-winners/apps-tab-2/)
+[![](/blog/images/2012-04-10-stack-exchange-api-v2-0-contest-winners/apps-tab1.png)](http://blog.stackoverflow.com/2012/04/stack-exchange-api-v2-0-contest-winners/apps-tab-2/)
 
 Up until now, this tab was only visible to users who had authorized at least one application.  Starting today we've made it visible to all users, and put some tasteful app suggestions in there for users who haven't authorized any apps yet.
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/featured-apps.png)](http://blog.stackoverflow.com/2012/04/stack-exchange-api-v2-0-contest-winners/featured-apps/)
+[![](/blog/images/2012-04-10-stack-exchange-api-v2-0-contest-winners/featured-apps.png)](http://blog.stackoverflow.com/2012/04/stack-exchange-api-v2-0-contest-winners/featured-apps/)
 
 We're doing this to help those developers who build on our API find an audience for their hard work, in a similar vein to [Community Promotion Ads](http://blog.stackoverflow.com/2011/05/community-promotion-ads/).
 

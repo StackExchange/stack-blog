@@ -41,13 +41,13 @@ In the settings, you can confirm your email address -- we'll validate it in this
 
 Bear in mind that we will only email you if you have not checked your global inbox in that time interval. Meaning, if you select the default of "daily", and you don't click to expand your global inbox on _any Stack Exchange site_ for a full 24 hour period... you'll then get an email delivered to you with the contents of your global inbox. And if you don't check for _another 24_ hours, you will get another email, and so forth.
 
-![](http://blog.stackoverflow.com/wp-content/uploads/global-inbox-email-example.png)
+![](/blog/images/2011-10-08-improved-global-email-notifications/global-inbox-email-example.png)
 
 (This also offers a more aggressive "every 3 hours" option which satisified a major outstanding request for our previous email notification support -- which was not only per question, but at best sent every 24-36 hours, and often much later depending on the timing.)
 
 If you're worried nobody will be able to find this link buried in their profile, fret not. There is a reminder at the bottom of every single question you own, if you haven't enabled global inbox email notifications yet:
 
-![](http://blog.stackoverflow.com/wp-content/uploads/global-inbox-email-question-reminder.png)
+![](/blog/images/2011-10-08-improved-global-email-notifications/global-inbox-email-question-reminder.png)
 
 Clicking that will expand the same settings inline, letting you opt in without visiting your preferences. (And no, we did not turn this on by default for anyone, even if they had previously enabled email notification for some of their particular questions; global inbox email notifications are 100% opt-in.)
 

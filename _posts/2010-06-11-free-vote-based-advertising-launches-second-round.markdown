@@ -17,14 +17,14 @@ For the past six months, Stack Overflow has been providing free advertising for 
 
 Congratulations to the top-voted projects from the first half of 2010:
 
-[![Synergy+. Connecting computers.](http://blog.stackoverflow.com/wp-content/uploads/ad1.png) ](http://code.google.com/p/synergy-plus/)[![SSH on Windows](http://blog.stackoverflow.com/wp-content/uploads/ad2.png)](http://www.chiark.greenend.org.uk/~sgtatham/putty/)
+[![Synergy+. Connecting computers.](/blog/images/2010-06-11-free-vote-based-advertising-launches-second-round/ad1.png) ](http://code.google.com/p/synergy-plus/)[![SSH on Windows](/blog/images/2010-06-11-free-vote-based-advertising-launches-second-round/ad2.png)](http://www.chiark.greenend.org.uk/~sgtatham/putty/)
 
 In the last round, the top-voted ads received over a 1/4-million impressions each. Not a bad deal for a grass roots, community-created advertising give-away.
 
 Now it's time for round 2.
 
 
-## ![](http://blog.stackoverflow.com/wp-content/uploads/vote-small3.jpg)
+## ![](/blog/images/2010-06-11-free-vote-based-advertising-launches-second-round/vote-small3.jpg)
 
 
 

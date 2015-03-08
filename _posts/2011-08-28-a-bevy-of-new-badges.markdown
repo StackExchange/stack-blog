@@ -25,7 +25,7 @@ The badge system exists for two reasons:
 
 As the engine grows and evolves, we discover new areas that need badges.
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/nerd-badges.jpg)](http://www.nerdmeritbadges.com/)
+[![](/blog/images/2011-08-28-a-bevy-of-new-badges/nerd-badges.jpg)](http://www.nerdmeritbadges.com/)
 
 In fact, we've added a bevy of new badges in the last 6 months or so that we haven't had time to talk about yet.
 
@@ -33,7 +33,7 @@ In fact, we've added a bevy of new badges in the last 6 months or so that we hav
 
 <tr >
 <td >
-![](http://blog.stackoverflow.com/wp-content/uploads/analytical-badge.png)
+![](/blog/images/2011-08-28-a-bevy-of-new-badges/analytical-badge.png)
 
 </td>
 <td >
@@ -43,7 +43,7 @@ Visited every section of the FAQ
 
 <tr >
 <td >
-![](http://blog.stackoverflow.com/wp-content/uploads/excavator-badge.png)
+![](/blog/images/2011-08-28-a-bevy-of-new-badges/excavator-badge.png)
 
 </td>
 <td >
@@ -53,7 +53,7 @@ Edited first post that was inactive for 6 months
 
 <tr >
 <td >
-![](http://blog.stackoverflow.com/wp-content/uploads/archaeologist-badge.png)
+![](/blog/images/2011-08-28-a-bevy-of-new-badges/archaeologist-badge.png)
 
 </td>
 <td >
@@ -63,7 +63,7 @@ Edited 100 posts that were inactive for 6 months
 
 <tr >
 <td >
-![](http://blog.stackoverflow.com/wp-content/uploads/deputy-badge.png)
+![](/blog/images/2011-08-28-a-bevy-of-new-badges/deputy-badge.png)
 
 </td>
 <td >
@@ -73,7 +73,7 @@ Achieved a flag weight of 500 by reviewing and flagging appropriately
 
 <tr >
 <td >
-![](http://blog.stackoverflow.com/wp-content/uploads/marshal-badge.png)
+![](/blog/images/2011-08-28-a-bevy-of-new-badges/marshal-badge.png)
 
 </td>
 <td >
@@ -83,7 +83,7 @@ Achieved a flag weight of 749 by reviewing and flagging appropriately
 
 <tr >
 <td >
-![](http://blog.stackoverflow.com/wp-content/uploads/proofreader-badge.png)
+![](/blog/images/2011-08-28-a-bevy-of-new-badges/proofreader-badge.png)
 
 </td>
 <td >
@@ -93,7 +93,7 @@ Approved or rejected 100 [suggested edits](http://blog.stackoverflow.com/2011/02
 
 <tr >
 <td >
-![](http://blog.stackoverflow.com/wp-content/uploads/synonymizer-badge.png)
+![](/blog/images/2011-08-28-a-bevy-of-new-badges/synonymizer-badge.png)
 
 </td>
 <td >
@@ -103,7 +103,7 @@ First approved [tag synonym](http://blog.stackoverflow.com/2010/08/tag-folksonom
 
 <tr >
 <td >
-![](http://blog.stackoverflow.com/wp-content/uploads/tag-editor-badge.png)
+![](/blog/images/2011-08-28-a-bevy-of-new-badges/tag-editor-badge.png)
 
 </td>
 <td >
@@ -113,7 +113,7 @@ First [tag wiki edit](http://blog.stackoverflow.com/2010/08/new-tag-info-pages/)
 
 <tr >
 <td >
-![](http://blog.stackoverflow.com/wp-content/uploads/vox-populi-badge.png)
+![](/blog/images/2011-08-28-a-bevy-of-new-badges/vox-populi-badge.png)
 
 </td>
 <td >
@@ -123,7 +123,7 @@ Used the maximum [40 votes in a day](http://blog.stackoverflow.com/2011/05/vote-
 
 <tr >
 <td >
-![](http://blog.stackoverflow.com/wp-content/uploads/quorum-badge.png)
+![](/blog/images/2011-08-28-a-bevy-of-new-badges/quorum-badge.png)
 
 </td>
 <td >
@@ -133,7 +133,7 @@ One post with score of 2 [on meta](http://blog.stackoverflow.com/2010/07/new-per
 
 <tr >
 <td >
-![](http://blog.stackoverflow.com/wp-content/uploads/convention-badge.png)
+![](/blog/images/2011-08-28-a-bevy-of-new-badges/convention-badge.png)
 
 </td>
 <td >
@@ -162,16 +162,16 @@ Most of these are fairly self-explanatory, but I believe the flag weight and rev
 
 Your flag weight, if it is something other than the default of 100, will be visible on your user profile under your reputation score.
 
-![](http://blog.stackoverflow.com/wp-content/uploads/flag-weight-profile.png)
+![](/blog/images/2011-08-28-a-bevy-of-new-badges/flag-weight-profile.png)
 
 You can view the status of your flags by clicking the flag weight link. There are two flag dispositions, **helpful** and **declined**. Generally, so long as you are flagging in a genuinely useful manner that helps make the site better, most of your flags should be of the former and not the latter.
 
 If you're looking for posts to flag -- or vote, edit, and comment on -- I _highly_ recommend using the review link on the site. At the top of every page you'll see one of two links: either **review** (from 200 to 9,999 reputation) or **tools** (from 10,000+ reputation and beyond). Both can get you to the review page.
 
-![](http://blog.stackoverflow.com/wp-content/uploads/review-link.png)
+![](/blog/images/2011-08-28-a-bevy-of-new-badges/review-link.png)
 
 Click around on the review page and read the explanation on the sidebar to get the gist of it. 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/review-answer-flag.png)
+![](/blog/images/2011-08-28-a-bevy-of-new-badges/review-answer-flag.png)
 
 Please do bear in mind that **flagging is no substitute for the normal editing and voting process**. We encourage responsible flagging, but if a question should be closed, or a post downvoted, don't hesitate to take action yourself. Actions from the broader community as a whole speak much louder than actions from community moderators!

@@ -42,7 +42,7 @@ You may be wondering how this incident relates to our **Stack Overflow disaster 
 
 
 
-![our-disaster-recovery-plan](http://blog.stackoverflow.com/wp-content/uploads/our-disaster-recovery-plan.png)
+![our-disaster-recovery-plan](/blog/images/2009-12-13-blog-outage-backup-policies/our-disaster-recovery-plan.png)
 
 
 

@@ -15,7 +15,7 @@ This is a time of year of traditions and celebrations — and we have a traditio
 
 This "giving back" program actually goes waaay back to the beginning when we started with only 18 moderators and three sites. As our ranks grew, so did the donations. So on behalf of the **375 moderators this year,** we have made the following donations to charity:
 
-![SE Gives Back 2013 Blog](http://blog.stackoverflow.com/wp-content/uploads/SE-Gives-Back-2013-Blog2.png)
+![SE Gives Back 2013 Blog](/blog/images/2013-12-23-stack-exchange-gives-back-2013-2/SE-Gives-Back-2013-Blog2.png)
 
 It is also important to remember and support the tools and organizations that make what we do possible, so we also made the following donations:
 
@@ -42,4 +42,4 @@ I take a lot of pride in what we do — and you should, too. This giving back pr
 
 Take care, and see you in 2014!
 
-![SE Gives Back 2013 Blog Pic](http://blog.stackoverflow.com/wp-content/uploads/SE-Gives-Back-2013-Blog-Pic-300x162.png)
+![SE Gives Back 2013 Blog Pic](/blog/images/2013-12-23-stack-exchange-gives-back-2013-2/SE-Gives-Back-2013-Blog-Pic-300x162.png)

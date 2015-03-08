@@ -16,7 +16,7 @@ We just finished migrating our [new servers](http://blog.stackoverflow.com/2009/
 
 
 
-![new-datacenter-racked-servers-glamour-shots](http://blog.stackoverflow.com/wp-content/uploads/new-datacenter-racked-servers-glamour-shots.jpg)
+![new-datacenter-racked-servers-glamour-shots](/blog/images/2009-02-08-new-datacenter-migration/new-datacenter-racked-servers-glamour-shots.jpg)
 
 
 
@@ -24,7 +24,7 @@ The installation was aided greatly by [Stack Overflow team member](http://stacko
 
 
 
-![new-datacenter-geoff-and-babby1](http://blog.stackoverflow.com/wp-content/uploads/new-datacenter-geoff-and-babby1.jpg)
+![new-datacenter-geoff-and-babby1](/blog/images/2009-02-08-new-datacenter-migration/new-datacenter-geoff-and-babby1.jpg)
 
 
 
@@ -36,7 +36,7 @@ PEAK internet impressed us with their detailed technical responses to our reques
 
 
 
-[![peak-internet-logo](http://blog.stackoverflow.com/wp-content/uploads/peak-internet-logo.png)](http://www.peakinternet.com/business/hosting/info.php)
+[![peak-internet-logo](/blog/images/2009-02-08-new-datacenter-migration/peak-internet-logo.png)](http://www.peakinternet.com/business/hosting/info.php)
 
 
 

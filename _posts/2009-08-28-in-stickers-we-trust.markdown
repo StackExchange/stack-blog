@@ -19,7 +19,7 @@ Remember [the trilogy stickers](http://blog.stackoverflow.com/2009/08/coming-soo
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/stickers-boxes.jpg)
+![](/blog/images/2009-08-28-in-stickers-we-trust/stickers-boxes.jpg)
 
 
 
@@ -31,7 +31,7 @@ Here's a close up of each sticker. They are all about 4 1/2" wide.
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/stickers-near-arranged.jpg)
+![](/blog/images/2009-08-28-in-stickers-we-trust/stickers-near-arranged.jpg)
 
 
 
@@ -39,7 +39,7 @@ Imagine the _endless_ fun you could have with this many stickers!
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/stickers-near-loose.jpg)
+![](/blog/images/2009-08-28-in-stickers-we-trust/stickers-near-loose.jpg)
 
 
 

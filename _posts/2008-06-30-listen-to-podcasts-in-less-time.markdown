@@ -3,7 +3,6 @@ author: jeffatwood
 comments: true
 date: 2008-06-30 15:54:46+00:00
 layout: post
-hero: /blog/images/category/podcasts.jpg
 slug: listen-to-podcasts-in-less-time
 title: Listen to Podcasts in Less Time
 wordpress_id: 61
@@ -21,7 +20,7 @@ One way to speed up listening to the podcast is to [use the fast playback option
 
 
 
-![windows-media-player-fast-playback](http://blog.stackoverflow.com/wp-content/uploads/windows-media-player-fast-playback.png)
+![windows-media-player-fast-playback](/blog/images/2008-06-30-listen-to-podcasts-in-less-time/windows-media-player-fast-playback.png)
 
 
 
@@ -33,7 +32,7 @@ To see more detailed options, select View | Enhancements | Play Speed Settings:
 
 
 
-![windows-media-player-play-speed](http://blog.stackoverflow.com/wp-content/uploads/windows-media-player-play-speed.png)
+![windows-media-player-play-speed](/blog/images/2008-06-30-listen-to-podcasts-in-less-time/windows-media-player-play-speed.png)
 
 
 

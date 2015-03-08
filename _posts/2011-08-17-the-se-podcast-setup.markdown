@@ -3,7 +3,6 @@ author: alex
 comments: true
 date: 2011-08-17 15:00:04+00:00
 layout: post
-hero: /blog/images/category/podcasts.jpg
 slug: the-se-podcast-setup
 title: The SE Podcast Setup
 wordpress_id: 9049
@@ -48,7 +47,7 @@ _Monitors_: Various [Dell UltraSharp LCDs](http://www.dell.com/content/topics/to
 
 There's 2 main areas that make up the podcast, the remote connections and the production section
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/Whole-Setup-1024x403.jpg)](http://blog.stackoverflow.com/wp-content/uploads/Whole-Setup.jpg)[
+[![](/blog/images/2011-08-17-the-se-podcast-setup/Whole-Setup-1024x403.jpg)](/blog/images/2011-08-17-the-se-podcast-setup/Whole-Setup.jpg)[
 ](http://blog.stackoverflow.com/wp-content/uploads/Whole-Setup.jpg)
 
 
@@ -59,7 +58,7 @@ There's 2 main areas that make up the podcast, the remote connections and the pr
 
 The computers that pull in Jeff and any of our remote guests.  To be ready for situations where everyone is remote (such as Episode 5) we needed capability for 4 remote callers.  The entire setup consists of four mac minis, four audio interfaces, a network switch, and KVM all crammed into a 4u rack.  Each mac-mini is linked to an audio interface which then connects to the mixer.
 There's also a headphone amp that sits on top of the rack, but that's just because its convenient - it's technically part of the production section and serves to feed the guest's headphones along with anyone watching live in studio.
-[![](http://blog.stackoverflow.com/wp-content/uploads/Remote-Unit-255x300.jpg)](http://blog.stackoverflow.com/wp-content/uploads/Remote-Unit.jpg)
+[![](/blog/images/2011-08-17-the-se-podcast-setup/Remote-Unit-255x300.jpg)](/blog/images/2011-08-17-the-se-podcast-setup/Remote-Unit.jpg)
 
 
 

@@ -16,7 +16,7 @@ One year ago today, we launched [Server Fault](http://serverfault.com) -- our Q&
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/xkcd-on-sysadmins1.png)](http://xkcd.org/705/)
+[![](/blog/images/2010-05-26-one-year-of-server-fault/xkcd-on-sysadmins1.png)](http://xkcd.org/705/)
 
 
 

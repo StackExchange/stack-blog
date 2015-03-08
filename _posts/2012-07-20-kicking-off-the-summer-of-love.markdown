@@ -18,7 +18,7 @@ It's summer here at StackHQ. Have a flower!
 
 
 
-![Flower](http://blog.stackoverflow.com/wp-content/uploads/flower.jpg)
+![Flower](/blog/images/2012-07-20-kicking-off-the-summer-of-love/flower.jpg)
 
 
 

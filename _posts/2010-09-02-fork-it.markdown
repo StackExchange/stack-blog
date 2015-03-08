@@ -23,7 +23,7 @@ So. Where do Linux questions go? If it's a Linux _programming_ question, Stack O
 
 When we opened up the process to allow the community to design their own sites, we got a whole heap of proposals. The [Ubuntu](http://ubuntu.stackexchange.com/) proposal had a lot of support. So did a more universalist [Unix/Linux proposal](http://unix.stackexchange.com/). Both got created. On August 20th Jeff proposed merging the two sites, and put that up to a [vote](http://blog.stackoverflow.com/2010/08/should-unix-linux-and-ubuntu-be-merged-vote/). The official results:
 
-![](http://blog.stackoverflow.com/wp-content/uploads/ubuntu-vs-unix-graph.png)
+![](/blog/images/2010-09-02-fork-it/ubuntu-vs-unix-graph.png)
 
 **MERGE?**
 (Unix users) 89 Yes / 34 No
@@ -52,7 +52,7 @@ Monty Python might have put it better in [this scene (YouTube)](http://www.youtu
 
 <blockquote>
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/pfj.jpg)](http://www.youtube.com/watch?v=gb_qHP7VaZE)
+[![](/blog/images/2010-09-02-fork-it/pfj.jpg)](http://www.youtube.com/watch?v=gb_qHP7VaZE)
 
 
 > 

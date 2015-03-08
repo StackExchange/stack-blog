@@ -16,7 +16,7 @@ I'd like to introduce Stack Overflow Valued Associate #00008 -- [Sam Saffron](ht
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/sam-saffron-blog.jpg)
+![](/blog/images/2010-06-25-welcome-stack-overflow-valued-associate-00008/sam-saffron-blog.jpg)
 
 
 
@@ -28,7 +28,7 @@ Sam, in addition to being an avid participant on Stack Overflow and Meta Stack O
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/media-browser.jpg)](http://www.mediabrowser.tv/)
+[![](/blog/images/2010-06-25-welcome-stack-overflow-valued-associate-00008/media-browser.jpg)](http://www.mediabrowser.tv/)
 
 
 
@@ -36,7 +36,7 @@ In supporting the community around Media Browser, Sam created a web-based custom
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/community-tracker.png)](http://meta.community-tracker.com/)
+[![](/blog/images/2010-06-25-welcome-stack-overflow-valued-associate-00008/community-tracker.png)](http://meta.community-tracker.com/)
 
 
 

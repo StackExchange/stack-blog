@@ -3,7 +3,6 @@ author: jeffatwood
 comments: true
 date: 2009-11-24 06:59:07+00:00
 layout: post
-hero: /blog/images/category/podcasts.jpg
 slug: server-fault-and-the-powerscripting-podcast
 title: Server Fault and the PowerScripting Podcast
 wordpress_id: 2188
@@ -19,7 +18,7 @@ I was invited on as a guest of the [PowerScripting Podcast](http://powerscriptin
 
 
 
-[![powerscripting-podcast](http://blog.stackoverflow.com/wp-content/uploads/powerscripting-podcast.jpg)](http://powerscripting.wordpress.com/2009/11/22/episode-93-jeff-atwood-tells-us-rock-hard-awesome-will-create-teleportation-and-we-talk-about-serverfault/)
+[![powerscripting-podcast](/blog/images/2009-11-24-server-fault-and-the-powerscripting-podcast/powerscripting-podcast.jpg)](http://powerscripting.wordpress.com/2009/11/22/episode-93-jeff-atwood-tells-us-rock-hard-awesome-will-create-teleportation-and-we-talk-about-serverfault/)
 
 
 

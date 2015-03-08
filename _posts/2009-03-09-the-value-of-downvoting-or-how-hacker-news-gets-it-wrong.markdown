@@ -41,11 +41,11 @@ Let me get some important caveats out of the way: we have to be careful in drawi
 
 On Hacker News, every post effectively starts at zero (technically, one implied upvote, which is your own, but we'll call that zero), and can be upvoted indefinitely.
 
-![graph-axis-0-to-15](http://blog.stackoverflow.com/wp-content/uploads/graph-axis-0-to-15.png)
+![graph-axis-0-to-15](/blog/images/2009-03-09-the-value-of-downvoting-or-how-hacker-news-gets-it-wrong/graph-axis-0-to-15.png)
 
 The advantage of this system is that nobody gets downvoted, but at a steep cost: **we've lost half the potential information**. If a post has zero upvotes, does that mean it's bad? incorrect? uninteresting? mediocre? There's _no way to tell_, because zero has multiple meanings.
 
-![graph-axis-negative15-to-15](http://blog.stackoverflow.com/wp-content/uploads/graph-axis-negative15-to-15.png)
+![graph-axis-negative15-to-15](/blog/images/2009-03-09-the-value-of-downvoting-or-how-hacker-news-gets-it-wrong/graph-axis-negative15-to-15.png)
 
 If you add back in the negatives, suddenly the range is doubled. An evil or incorrect post is now _different_ than a mediocre or uninteresting post, because it will have downvotes and a negative score.
 

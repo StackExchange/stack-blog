@@ -48,7 +48,7 @@ In other words, it is exactly like Stack Overflow, but instead of being a commun
 
 
 
-[![press any key to visit serverfault.com](http://blog.stackoverflow.com/wp-content/uploads/any-key.jpg)](http://serverfault.com)
+[![press any key to visit serverfault.com](/blog/images/2009-04-30-server-fault-private-beta-begins/any-key.jpg)](http://serverfault.com)
 
 
 

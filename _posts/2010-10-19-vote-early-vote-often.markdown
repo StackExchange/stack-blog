@@ -15,7 +15,7 @@ categories:
 
 Have you ever wondered why the vote buttons and score are so prominent on every [Stack Exchange](http://stackexchange.com/sites) question?
 
-![](http://blog.stackoverflow.com/wp-content/uploads/voting-controls.png)
+![](/blog/images/2010-10-19-vote-early-vote-often/voting-controls.png)
 
 Putting voting front and center is very much intentional; it is how ...
 
@@ -32,13 +32,13 @@ Putting voting front and center is very much intentional; it is how ...
 
 **It's only through voting that a class of editors, closers, and moderators can emerge to help run and govern the site.** Voting is how site leadership forms. That's why [the reputation leagues](http://blog.stackoverflow.com/2010/09/customizing-stackexchange-com/) show a breakdown of reputation spectrums. 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/se-reputation-spectrums.png)](http://blog.stackoverflow.com/2010/09/customizing-stackexchange-com/)
+[![](/blog/images/2010-10-19-vote-early-vote-often/se-reputation-spectrums.png)](http://blog.stackoverflow.com/2010/09/customizing-stackexchange-com/)
 
 Does your site have a healthy middle class of users with vote up and down, and edit tag [privileges](http://blog.stackoverflow.com/2010/10/membership-has-its-privileges/)? Does it have a healthy governing class of users with edit, close, and moderation [privileges](http://blog.stackoverflow.com/2010/10/membership-has-its-privileges/)? All of this requires sufficient reputation, which in turn requires users to _exercise their right to vote_.
 
 In fact, we've begun showing beta site health on [Area 51](http://area51.stackexchange.com) as partially a function of how many "avid" users there are -- where "avid" is defined as _has at least 200 reputation_.
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/area-51-avid-users.png)](http://area51.stackexchange.com)
+[![](/blog/images/2010-10-19-vote-early-vote-often/area-51-avid-users.png)](http://area51.stackexchange.com)
 
 (click through to any Area 51 site proposal that is currently in beta to see the evaluation.)
 
@@ -46,7 +46,7 @@ Our sites are all intended to be **a sort of representative democracy**. While [
 
 Voting is _so_ important that we belatedly realized we may not be doing enough to encourage new users to vote. But we're trying to change that.
 
-![](http://blog.stackoverflow.com/wp-content/uploads/vote-here.jpg)
+![](/blog/images/2010-10-19-vote-early-vote-often/vote-here.jpg)
 
 First, the new [privilege wikis and notifications](http://blog.stackoverflow.com/2010/10/membership-has-its-privileges/) now explain the importance of upvoting and downvoting "just in time", when users receive those privileges.
 

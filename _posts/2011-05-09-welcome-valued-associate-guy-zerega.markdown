@@ -15,10 +15,10 @@ categories:
 
 Guy enjoys spending time outdoors, but especially surfing and cycling.  Okay, so maybe "enjoying" surfing and cycling is a bit of an understatement.  Guy is a competitive cyclist, and has surfed in Costa Rica, Mexico, Australia, Barbados and Puerto Rico.
 
-[![Winning](http://blog.stackoverflow.com/wp-content/uploads/GZWin.jpg)](http://blog.stackoverflow.com/wp-content/uploads/GZWin.jpg) [![And they're off](http://blog.stackoverflow.com/wp-content/uploads/GZSprint3-e1304955628610.jpg)](http://blog.stackoverflow.com/wp-content/uploads/GZSprint3.jpg)
+[![Winning](/blog/images/2011-05-09-welcome-valued-associate-guy-zerega/GZWin.jpg)](/blog/images/2011-05-09-welcome-valued-associate-guy-zerega/GZWin.jpg) [![And they're off](/blog/images/2011-05-09-welcome-valued-associate-guy-zerega/GZSprint3-e1304955628610.jpg)](/blog/images/2011-05-09-welcome-valued-associate-guy-zerega/GZSprint3.jpg)
 
 When "trapped" indoors, Guy enjoys reading, music, movies and any of Showtime's dysfunctional behavior series (Nurse Jackie, Shameless and Californication).  Guy is a proud father of a 15 year old son and 12 year old daughter.
 
-[![Guy Zerega](http://blog.stackoverflow.com/wp-content/uploads/Outside-Shorts.Hat1_-e1304959684932.jpg)](http://blog.stackoverflow.com/wp-content/uploads/Outside-Shorts.Hat1_.jpg)
+[![Guy Zerega](/blog/images/2011-05-09-welcome-valued-associate-guy-zerega/Outside-Shorts.Hat1_-e1304959684932.jpg)](/blog/images/2011-05-09-welcome-valued-associate-guy-zerega/Outside-Shorts.Hat1_.jpg)
 
 A proven leader and creative problem solver, Guy embodies Careers 2.0's mission to do whatever it takes to help employers fill their programming positions with the best technical talent.  Welcome Guy!

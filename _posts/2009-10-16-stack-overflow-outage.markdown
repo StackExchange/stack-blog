@@ -20,7 +20,7 @@ Apparently there was a router meltdown at our ISP, [Peak Internet](http://www.pe
 
 
 
-[![melted-switch-circuits-2](http://blog.stackoverflow.com/wp-content/uploads/melted-switch-circuits-2.jpg)](http://twitpic.com/lqu5u)
+[![melted-switch-circuits-2](/blog/images/2009-10-16-stack-overflow-outage/melted-switch-circuits-2.jpg)](http://twitpic.com/lqu5u)
 
 
 

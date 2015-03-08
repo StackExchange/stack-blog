@@ -18,7 +18,7 @@ If you're a top user on any of the Trilogy sites, I've got some good news for yo
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/stickers-near-loose.jpg)
+![](/blog/images/2009-09-29-free-trilogy-stickers-for-top-users/stickers-near-loose.jpg)
 
 
 

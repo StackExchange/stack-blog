@@ -16,7 +16,7 @@ categories:
 
 
 
-![I think you should be more explicit here in step two.](http://blog.stackoverflow.com/wp-content/uploads/then-a-miracle-occurs-cartoon.png)
+![I think you should be more explicit here in step two.](/blog/images/2008-09-15-then-a-miracle-occurs-public-beta/then-a-miracle-occurs-cartoon.png)
 
 
 
@@ -27,7 +27,7 @@ Our heartfelt thanks to all the software developers who so patiently helped us t
 
 
 
-![society-for-asking-stupid-questions](http://blog.stackoverflow.com/wp-content/uploads/stupid.jpg)
+![society-for-asking-stupid-questions](/blog/images/2008-09-15-then-a-miracle-occurs-public-beta/stupid.jpg)
 
 
 

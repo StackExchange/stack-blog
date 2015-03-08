@@ -25,7 +25,7 @@ There have been endless articles written debating which platform is more popular
 
 As you can see below, iOS was running ahead of Android for several years, but peaked and stagnated in June 2010 (following the release of the iPhone 4).  Android, on the other hand, has been on a tear since December of 2009 and overtook iOS as of the beginning of 2011.  Unsurprisingly, iOS continues to stall (even declining somewhat) whereas Android continues its growth and is now approaching utilization by 10% of all SO developers.
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/Android-vs-iOS.png)](http://blog.stackoverflow.com/2011/09/android-vs-ios/android-vs-ios/)
+[![](/blog/images/2011-09-19-android-vs-ios/Android-vs-iOS.png)](http://blog.stackoverflow.com/2011/09/android-vs-ios/android-vs-ios/)
 
 
 
@@ -41,7 +41,7 @@ Flash has been on a long (but slow) slide downward as its fallen out of favor in
 
 Still, we can see that HTML5 is the rising star and Flash is on the way out, but it looks like it will still be around for a while before it does.
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/HTML5-v-Flash.png)](http://blog.stackoverflow.com/2011/09/android-vs-ios/html5-v-flash/)
+[![](/blog/images/2011-09-19-android-vs-ios/HTML5-v-Flash.png)](http://blog.stackoverflow.com/2011/09/android-vs-ios/html5-v-flash/)
 
 
 

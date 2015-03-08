@@ -49,7 +49,7 @@ We have a deep respect for all the work that the pro tem moderators do to help g
 
 If you're looking for a ton of detail and statistics on all the nominees, you just gotta check out [this _amazing_ election page](http://se.awio.com/election.html) community member [Yi Jiang](http://stackoverflow.com/users/313758/yi-jiang) put together using the [Stack Exchange API](http://stackapps.com):
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/election-sites.png)](http://se.awio.com/election.html)
+[![](/blog/images/2011-01-24-stack-exchange-2011-elections-begin/election-sites.png)](http://se.awio.com/election.html)
 
 The page runs entirely in your browser. Click the icon of the site you want to see election details for ... and prepare to be blown away.
 

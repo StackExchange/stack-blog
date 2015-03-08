@@ -17,7 +17,7 @@ In 2010, we incorporated as Stack Overflow Internet Services with [venture capit
 
 My, how time flies when you're having fun!
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/geek-wreath.jpg)](http://www.reddit.com/r/geek/comments/eh47w/my_good_friend_made_this_wreath_for_her_it/)
+[![](/blog/images/2010-12-25-stack-overflow-gives-back-2010/geek-wreath.jpg)](http://www.reddit.com/r/geek/comments/eh47w/my_good_friend_made_this_wreath_for_her_it/)
 
 But the community is far bigger than us. Our fellow community moderators generously contribute their time, passion, and leadership to make their sites _worth_ visiting and participating in. We now have **over a hundred and thirty community moderators** across 38 sites. Can you believe it?
 

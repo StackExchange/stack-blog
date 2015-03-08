@@ -14,7 +14,7 @@ categories:
 
 As part of our ongoing improvement to [our 1.1 API release](http://blog.stackoverflow.com/2011/02/stack-exchange-api-1-1-and-improved-app-gallery/), and the site that supports our API, [stackapps.com](http://stackapps.com), **we've extended Stack Apps to support the listing of browser scripts**.
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/stackapps-scripts.png)](http://stackapps.com/?tab=scripts)
+[![](/blog/images/2011-02-18-stack-apps-and-scripts/stackapps-scripts.png)](http://stackapps.com/?tab=scripts)
 
 Since Stack Overflow began, there have been tons of nifty browser scripts people have created to enhance their experience -- and they usually work on [any site in our network](http://stackexchange.com/sites). In fact, you may remember that [the favorite / ignored tags feature](http://blog.stackoverflow.com/2008/10/expressing-your-tag-preferences/) now built into every site originally started life as [a user script listed on userscripts.org](http://userscripts.org/tags/stackoverflow) by Jonathan Buchanan aka [insin](http://stackoverflow.com/users/6760/insin).
 
@@ -53,7 +53,7 @@ GM_addStyle(
 
 That's a very, very simple browser user script which hides the question answer form on Stack Overflow. If you're using Google Chrome for example, all you need to do to install that little fragment of code in your web browser is click the [no-so-answers.user.js](http://nedbatchelder.com/code/misc/no_so_answers.user.js) link -- like so:
 
- ![](http://blog.stackoverflow.com/wp-content/uploads/chrome-install-user-scripts.png)
+ ![](/blog/images/2011-02-18-stack-apps-and-scripts/chrome-install-user-scripts.png)
 
 User scripts can be managed by clicking the wrench icon in the toolbar and selecting Tools | Extensions, or of course by entering `chrome://extensions` in the title bar.
 

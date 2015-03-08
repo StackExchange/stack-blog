@@ -19,7 +19,7 @@ Two weeks ago, we announced the public launch of [Stack Overflow in Portuguese](
 
 Wasn't the whole point of Stack Overflow to aggregate as much developer knowledge as possible _in one place?_ To get all the potential solutions _together_, and provide one canonical set of answers?
 
-[caption id="attachment_14476" align="alignright" width="300"][![](http://blog.stackoverflow.com/wp-content/uploads/800px-Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_Vienna_-_Google_Art_Project_-_edited-300x219.jpg)](http://blog.stackoverflow.com/wp-content/uploads/800px-Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_Vienna_-_Google_Art_Project_-_edited.jpg) We are aware that, "Let's all try speaking speaking different languages!" hasn't always worked out for the best.[/caption]
+[caption id="attachment_14476" align="alignright" width="300"][![](/blog/images/2014-02-13-cant-we-all-be-reasonable-and-speak-english/800px-Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_Vienna_-_Google_Art_Project_-_edited-300x219.jpg)](/blog/images/2014-02-13-cant-we-all-be-reasonable-and-speak-english/800px-Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_Vienna_-_Google_Art_Project_-_edited.jpg) We are aware that, "Let's all try speaking speaking different languages!" hasn't always worked out for the best.[/caption]
 
 Yup. When we set out to "[collectively increase the sum total of good programming knowledge in the world](http://www.codinghorror.com/blog/2008/04/introducing-stackoverflow-com.html)," a big part of the plan was _de-fragmenting_ information previously spread across myriad books, sites, and your brains. It's why we mark things as duplicates - we want all the precious gems of knowledge stored in the same cave of wonders.
 
@@ -100,7 +100,7 @@ The truth is, by requiring fluency in English, we're shutting out of a lot of de
 	
   3. ****Requiring that all aspiring devs "just go learn English" _first_ isn't who we want to be.****
 
-[caption id="attachment_14483" align="alignright" width="300"][![No child should be denied their chance to revolutionize tomorrow's input technologies.](http://blog.stackoverflow.com/wp-content/uploads/Griff3-300x215.jpg)](http://blog.stackoverflow.com/wp-content/uploads/Griff3.jpg) No child should be denied their chance to revolutionize tomorrow's input technologies.[/caption]
+[caption id="attachment_14483" align="alignright" width="300"][![No child should be denied their chance to revolutionize tomorrow's input technologies.](/blog/images/2014-02-13-cant-we-all-be-reasonable-and-speak-english/Griff3-300x215.jpg)](/blog/images/2014-02-13-cant-we-all-be-reasonable-and-speak-english/Griff3.jpg) No child should be denied their chance to revolutionize tomorrow's input technologies.[/caption]
 
 Even if I believed that every programmer _must_ eventually master English, it still wouldn't make any sense to make them do it _first_. I believe that everyone - everyone - who can really fall in love with programming should get a chance to. So pre-filtering for the ones willing to _learn a foreign freaking language_ before they first sit down with a code editor to see if it lights some spark in them just feels wrong.Think of the children. The children!! Okay, last quiz, just for the native English speakers:
 

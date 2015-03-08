@@ -29,7 +29,7 @@ This is fundamentally different from Usenet or any of the web-based forums. It m
 
 To get an idea of just how much editing goes on, here's a snapshot of edits performed on Stack Overflow between February 1, 2011 and July 8, 2011:
 
-![](http://blog.stackoverflow.com/wp-content/uploads/regular-edits-stack-overflow-feb-july-2011.png)
+![](/blog/images/2011-07-11-faster-edits-with-inline-editing/regular-edits-stack-overflow-feb-july-2011.png)
 
 One of the primary ways we try to encourage editing is by **making it easier to edit**:
 
@@ -46,7 +46,7 @@ One of the primary ways we try to encourage editing is by **making it easier to 
 
 How much of the editing total do anonymous and regular users contribute? Here's a snapshot of suggested edits performed on Stack Overflow for the same time period; the green line is registered users, and the blue line is anonymous users.
 
-![](http://blog.stackoverflow.com/wp-content/uploads/suggested-edits-stack-overflow-feb-july-2011.png)
+![](/blog/images/2011-07-11-faster-edits-with-inline-editing/suggested-edits-stack-overflow-feb-july-2011.png)
 
 So, about **one quarter** of all edits are suggestions from anonymous and regular users. Only a tiny trickle are from anonymous users, on the order of 10 to 30 per day. (If you're wondering why anonymous edits doubled in June, we made a copy change on the site that helped. Try browsing the site in incognito / inprivate / private browsing mode and see if you can tell what it is.)
 
@@ -56,7 +56,7 @@ To address this concern, we relied on another of our core family values: [perfor
 
 That's why I'm pleased to announce that **we now support inline editing on all Stack Exchange sites**. There's no longer any need to visit a separate editing page; simply click "edit" and begin editing the post _right there on the question page_.
 
-![](http://blog.stackoverflow.com/wp-content/uploads/stack-exchange-inline-editing.gif)
+![](/blog/images/2011-07-11-faster-edits-with-inline-editing/stack-exchange-inline-editing.gif)
 
 This is a much faster method of editing, as the above animation demonstrates. (And for optimal speed, remember to press tab, tab, space to save your edit -- we even built in a little ctrl+enter shortcut to jump right to saving the edit.)
 

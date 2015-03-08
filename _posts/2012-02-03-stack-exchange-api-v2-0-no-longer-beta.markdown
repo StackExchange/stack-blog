@@ -23,7 +23,7 @@ You'll find our revamped documentation portal at:
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/documentation1.png)](https://api.stackexchange.com/)
+[![](/blog/images/2012-02-03-stack-exchange-api-v2-0-no-longer-beta/documentation1.png)](https://api.stackexchange.com/)
 
 
 
@@ -47,16 +47,16 @@ Although the beta is over, the [contest continues](http://blog.stackoverflow.com
 ## Some Neat Apps That Are Already Available
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/stinking1.png)](http://stackapps.com/questions/2982/stinkingbadges-track-your-progress-towards-long-term-badges)
+[![](/blog/images/2012-02-03-stack-exchange-api-v2-0-no-longer-beta/stinking1.png)](http://stackapps.com/questions/2982/stinkingbadges-track-your-progress-towards-long-term-badges)
 
 [StinkingBadges](http://stackapps.com/questions/2982/stinkingbadges-track-your-progress-towards-long-term-badges), created by [agent86](http://stackexchange.com/users/1026765), lets you see your progress towards some of the harder Stack Exchange badges.  It's a good example of filling a gap, rather like [StackPrinter](http://www.stackprinter.com/) from V1.0.
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/stackalert.png)](http://stackapps.com/questions/2874/stack-alert-google-chrome-extension-keep-tabs-on-your-inbox-without-needing)
+[![](/blog/images/2012-02-03-stack-exchange-api-v2-0-no-longer-beta/stackalert.png)](http://stackapps.com/questions/2874/stack-alert-google-chrome-extension-keep-tabs-on-your-inbox-without-needing)
 
 [Stack Alert](http://stackapps.com/questions/2874/stack-alert-google-chrome-extension-keep-tabs-on-your-inbox-without-needing), created by [George Edison](http://stackexchange.com/users/65895), takes advantage of the headlining authentication feature of V2.0 to give you access to your Stack Exchange inbox right in your browser.  While decidedly utilitarian, it is already available for [Firefox](http://stackapps.com/questions/2909/stack-alert-mozilla-firefox-add-on-keep-tabs-on-your-inbox-without-needing-t), [Opera](http://stackapps.com/questions/2948/stack-alert-opera-keep-tabs-on-your-inbox-without-needing-to-have-a-stack-ex), and [Chrome](http://stackapps.com/questions/2874/stack-alert-google-chrome-extension-keep-tabs-on-your-inbox-without-needing).
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/stackgeography.png)](http://stackapps.com/questions/2913/stackgeography-a-stack-exchange-question-mapping-site)
+[![](/blog/images/2012-02-03-stack-exchange-api-v2-0-no-longer-beta/stackgeography.png)](http://stackapps.com/questions/2913/stackgeography-a-stack-exchange-question-mapping-site)
 
 
 

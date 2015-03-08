@@ -17,7 +17,7 @@ We have a [lot of Q&A; sites](http://stackexchange.com/sites) in the Stack Excha
 So that may lead you to wonder: **what are the most freqently found questions on a given Stack Exchange Q&A; site?** In other words, the "Greatest Hits" of that particular topic.
 
 [
-![](http://blog.stackoverflow.com/wp-content/uploads/eagles-greatest-hits-japanese.jpg)
+![](/blog/images/2012-02-24-stack-exchanges-greatest-hits/eagles-greatest-hits-japanese.jpg)
 ](http://www.digitaldreamdoor.com/pages/best_sold_albums.html)
 
 (Trivia: did you know that the Eagles' Greatest Hits [doesn't include their most famous song?](http://misterbulger.com/2012/02/09/how-greatest-hits-go-wrong-part-6-jumping-the-greatest-hits-gun/))
@@ -51,7 +51,7 @@ For better or worse, these questions are **what the world will see and remember 
 
 We haven't been publicizing the Greatest Hits page much to date because it relies heavily on a feature we only introduced about 6 months ago: [anonymous user feedback](http://meta.stackoverflow.com/questions/98630/anonymous-user-feedback-now-in-testing). If you visited a Stack Exchange question as an anonymous user, there wasn't much you could do other than answer it. So we added a feedback option under each post.
 
-![](http://blog.stackoverflow.com/wp-content/uploads/post-feedback.png)
+![](/blog/images/2012-02-24-stack-exchanges-greatest-hits/post-feedback.png)
 
 What we quickly learned is that anonymous users aren't particularly, uh … talkative. Statistically speaking, they very rarely click these feedback buttons -- and when they do, it's often because the post itself is getting a _lot_ of views. So you need quite a bit of time before you can even begin looking at anonymous user feedback, and it's frequently only useful on large sites, or the super popular questions.
 

@@ -3,7 +3,6 @@ author: jeffatwood
 comments: true
 date: 2008-05-15 04:36:57+00:00
 layout: post
-hero: /blog/images/category/podcasts.jpg
 slug: recording-podcast-questions-using-your-telephone
 title: Recording Podcast Questions Using Your Telephone
 wordpress_id: 39
@@ -34,7 +33,7 @@ I just tried it, and it really works! I called 646-200-0000 from my cell phone, 
 
 
 
-![Cinch result rss feed screenshot](http://blog.stackoverflow.com/wp-content/uploads/cinch-result-rss-feed-screenshot.png)
+![Cinch result rss feed screenshot](/blog/images/2008-05-15-recording-podcast-questions-using-your-telephone/cinch-result-rss-feed-screenshot.png)
 
 
 

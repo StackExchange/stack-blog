@@ -35,7 +35,7 @@ First, we tackled messaging. We consolidated all of your messages into one simpl
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/messages1.png)
+![](/blog/images/2012-03-28-careers-2-0-new-features-for-hiring-developers/messages1.png)
 
 We’re obviously not breaking any new UI ground here: this looks and works like an email client. The important thing is that it combines everything into a nice, clean view: developers can easily see which jobs they’ve applied to and which companies have contacted them, and employers can see who they’ve contacted and who has applied to their jobs.
 
@@ -45,11 +45,11 @@ We’re obviously not breaking any new UI ground here: this looks and works like
 
 The second piece we tackled was tracking candidates. Previously, when applications came in they just went into a big pile of resumes and cover letters, and you couldn’t do anything with them – not even sort them into “keep” and “reject” piles. Similarly, if you found an awesome developer via search, you could message them, but you couldn’t take notes or even easily keep track of their response. So we decided to combine these things together into a new candidate tracker:
 
-![](http://blog.stackoverflow.com/wp-content/uploads/candidate-tracker.png)
+![](/blog/images/2012-03-28-careers-2-0-new-features-for-hiring-developers/candidate-tracker.png)
 
 We took a lot of cues from [Trello](http://trello.com/) (which we love – you should really try it if you haven’t): each candidate shows as a card with a picture, name, rating, and a short summary that you can create to keep all the candidates straight. You can drag them around between various states of the hiring process, and you can click them to see all their details:
 
-![](http://blog.stackoverflow.com/wp-content/uploads/popup.png)
+![](/blog/images/2012-03-28-careers-2-0-new-features-for-hiring-developers/popup.png)
 
 From the expanded card, you can easily see all of a candidate’s information, make notes, and send messages. At each stage of the process you can either advance the candidate, or dismiss them from the list (always reversible, of course).
 
@@ -59,7 +59,7 @@ From the expanded card, you can easily see all of a candidate’s information, m
 
 This paved the way for integrating search with job listings. Now when you search, you’re searching to fill a particular position and all the candidates you save will be associated with that job. This makes it possible to keep two separate lists for two jobs (if, say, you’re looking for a front-end jQuery developer and a back-end python/mysql dev), and lets you associate a job listing with each search to get even more candidates.
 
-![](http://blog.stackoverflow.com/wp-content/uploads/search.png)
+![](/blog/images/2012-03-28-careers-2-0-new-features-for-hiring-developers/search.png)
 
 This also let us cross off a frequent complaint: you’ll no longer see the same candidates showing up over and over again in searches. Once you’ve saved or dismissed a candidate, they’ll stop showing up in searches for that job, so you won’t have to keep paging past them to get to the new results.
 
@@ -69,13 +69,13 @@ This also let us cross off a frequent complaint: you’ll no longer see the same
 
 Finally, we took another look at job listings and added some stats to help you track where all your applications came from:
 
-![](http://blog.stackoverflow.com/wp-content/uploads/listing.png)
+![](/blog/images/2012-03-28-careers-2-0-new-features-for-hiring-developers/listing.png)
 
 This page now shows the number of views your job listing has gotten, what percentage of those people clicked a link in your job listing, and how many ended up applying for your job. We also show you where people came from, so if you posted the listing on our board, then tweeted it and posted it on your website you can actually see how many came from each place.
 
 We also added embed codes for our [fancy new apply button](http://blog.stackoverflow.com/2012/03/enterprise-vs-consumer-development/). That means that if you list your jobs on your company website, you can now directly embed a button to apply for the job with Careers. It opens a popup which lets developers apply to the job without ever leaving your website:
 
-![](http://blog.stackoverflow.com/wp-content/uploads/apply-popup.png)
+![](/blog/images/2012-03-28-careers-2-0-new-features-for-hiring-developers/apply-popup.png)
 
 
 ## Conclusion

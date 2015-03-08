@@ -3,7 +3,6 @@ author: jeffatwood
 comments: true
 date: 2008-08-12 06:59:57+00:00
 layout: post
-hero: /blog/images/category/podcasts.jpg
 slug: special-development-team-podcast
 title: Special Development Team Podcast
 wordpress_id: 85
@@ -29,7 +28,7 @@ Instead of yet another scintillating hour of Jeff and Joel constantly talking ov
 
 
 
-![bio-jarrod-dixon](http://blog.stackoverflow.com/wp-content/uploads/bio-jarrod-dixon.jpg)
+![bio-jarrod-dixon](/blog/images/2008-08-12-special-development-team-podcast/bio-jarrod-dixon.jpg)
 
 
 
@@ -37,7 +36,7 @@ Instead of yet another scintillating hour of Jeff and Joel constantly talking ov
 
 
 
-![bio-geoff-dalgas](http://blog.stackoverflow.com/wp-content/uploads/bio-geoff-dalgas.jpg)
+![bio-geoff-dalgas](/blog/images/2008-08-12-special-development-team-podcast/bio-geoff-dalgas.jpg)
 
 
 

@@ -13,7 +13,7 @@ categories:
 
 The year is half over, and we're still hiring like crazy.  This year we've added 22 associates, which means our employee count has increased by 23.4% in the past six months. Yay math! Raise a glass to these fine folks, and join me in congratulating them on their new awesome jobs.
 
-**![](http://blog.stackoverflow.com/wp-content/uploads/Charette-Matt.jpg)**
+**![](/blog/images/2013-07-01-say-hi-to-nine-of-our-newest-newbies/Charette-Matt.jpg)**
 
 
 
@@ -23,7 +23,7 @@ Matt was born and raised in New Jersey, USA. He began his career at a small star
 
 
 
-**[![](http://blog.stackoverflow.com/wp-content/uploads/Collins-Ben.jpg)](http://stackoverflow.com/users/3279/ben-collins)**
+**[![](/blog/images/2013-07-01-say-hi-to-nine-of-our-newest-newbies/Collins-Ben.jpg)](http://stackoverflow.com/users/3279/ben-collins)**
 
 
 
@@ -35,11 +35,11 @@ Ben is a Texas native, currently living in a small town east of Dallas.  After 
 
 
 
-**![](http://blog.stackoverflow.com/wp-content/uploads/Dillon-Michael.jpg)Michael Dillon, Associate Sales Rep (Careers 2.0), **_New York_
+**![](/blog/images/2013-07-01-say-hi-to-nine-of-our-newest-newbies/Dillon-Michael.jpg)Michael Dillon, Associate Sales Rep (Careers 2.0), **_New York_
 
 Mike was born and raised, and currently resides, in the garden state of New Jersey. He recently finished a long journey as a part-time student at Rutgers-Newark with a concentration in chemistry. He never wanted to join the world of research but just had a knack for the hard sciences. He put himself through school as a hair stylist in Hoboken, NJ, and is always available for hair advice.  In his free time, he likes to workout, go to the beach, snowboard, and cause trouble in NYC.  He is booking a holiday to London for early September and doing his second training in Denver so hopefully will be able to meet the whole team shortly.
 
- **[![](http://blog.stackoverflow.com/wp-content/uploads/Limoncelli-Tom.jpg)](http://everythingsysadmin.com/)**
+ **[![](/blog/images/2013-07-01-say-hi-to-nine-of-our-newest-newbies/Limoncelli-Tom.jpg)](http://everythingsysadmin.com/)**
 
 **Tom Limoncelli, System Administrator, **_New York _
 
@@ -47,13 +47,13 @@ Tom has traveled around the world but has always lived in the NYC area.  He gre
 
 
 
-******![](http://blog.stackoverflow.com/wp-content/uploads/Lislet-David.jpg)David Lislet, Sales Representative (Careers 2.0), **_London_
+******![](/blog/images/2013-07-01-say-hi-to-nine-of-our-newest-newbies/Lislet-David.jpg)David Lislet, Sales Representative (Careers 2.0), **_London_
 
 David grew up in the sunny and pink city, Toulouse (Southwest of France), and spent his teenage years on a tiny South Pacific island called Wallis (Need a map?? All right - it is close to Australia & New Caledonia). He traveled all around the world and started his career in Beijing, where he became a chopstick master. He enjoys traveling, tasting all kind of food (scorpions in China, kind of crunchy), photography, sketching, and listening old school hip-hop, jazz, and the band Ratatat. An avid sports guy, he played Rugby in New Zealand (not against the All Blacks) and recently joined a Crossfit center in London.
 
 
 
-**[![](http://blog.stackoverflow.com/wp-content/uploads/Post-Tim.jpeg)](http://stackexchange.com/users/20808/tim-post)**
+**[![](/blog/images/2013-07-01-say-hi-to-nine-of-our-newest-newbies/Post-Tim.jpeg)](http://stackexchange.com/users/20808/tim-post)**
 
 **Tim Post, Community Manager, **_Mandaluyong, Philippines_
 
@@ -61,7 +61,7 @@ Tim grew up in Baltimore, where he took an interest in programming at a young ag
 
 
 
-**![](http://blog.stackoverflow.com/wp-content/uploads/Pradhan-Monika.jpg)**
+**![](/blog/images/2013-07-01-say-hi-to-nine-of-our-newest-newbies/Pradhan-Monika.jpg)**
 
 **Monika Pradhan, Sales Representative (Careers 2.0), **_New York_
 
@@ -69,7 +69,7 @@ After graduating from Boston University, Monika headed to NYC for business plann
 
 
 
-**![](http://blog.stackoverflow.com/wp-content/uploads/Rayman-Sara.jpg)**
+**![](/blog/images/2013-07-01-say-hi-to-nine-of-our-newest-newbies/Rayman-Sara.jpg)**
 
 
 
@@ -79,7 +79,7 @@ Sara was born and raised in New York, studied in the Midwest, and returned to he
 
 
 
-**![](http://blog.stackoverflow.com/wp-content/uploads/Schwartz-Allie.jpg)**
+**![](/blog/images/2013-07-01-say-hi-to-nine-of-our-newest-newbies/Schwartz-Allie.jpg)**
 
 
 

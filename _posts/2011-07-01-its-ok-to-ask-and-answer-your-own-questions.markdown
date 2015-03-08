@@ -20,7 +20,7 @@ The FAQ has contained [one key bit of advice](http://stackoverflow.com/faq#quest
 <blockquote>
   It’s also perfectly fine to ask and answer your own question, as long as you pretend you’re on [_Jeopardy!_](http://en.wikipedia.org/wiki/Jeopardy!) -- phrase it in the form of a question.
   
-  ![](http://blog.stackoverflow.com/wp-content/uploads/jeopardy-set1.jpg)
+  ![](/blog/images/2011-07-01-its-ok-to-ask-and-answer-your-own-questions/jeopardy-set1.jpg)
 </blockquote>
 
 

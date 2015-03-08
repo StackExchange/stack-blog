@@ -17,7 +17,7 @@ Stack Overflow is language and platform agnostic by design. We feel that **build
 
 
 
-![screwdrivers](http://blog.stackoverflow.com/wp-content/uploads/screwdrivers.jpg)
+![screwdrivers](/blog/images/2009-03-15-stack-overflow-and-bizspark/screwdrivers.jpg)
 
 
 
@@ -33,7 +33,7 @@ One downside of a Microsoft stack for a young, poor startup (have I mentioned th
 
 
 
-![moxie](http://blog.stackoverflow.com/wp-content/uploads/moxie.jpg)
+![moxie](/blog/images/2009-03-15-stack-overflow-and-bizspark/moxie.jpg)
 
 
 
@@ -45,7 +45,7 @@ And Microsoft software licenses aren't cheap, particularly the Windows Server li
 
 
 
-[![bizspark-logo](http://blog.stackoverflow.com/wp-content/uploads/bizspark-logo.jpg)](http://www.microsoft.com/BizSpark/)
+[![bizspark-logo](/blog/images/2009-03-15-stack-overflow-and-bizspark/bizspark-logo.jpg)](http://www.microsoft.com/BizSpark/)
 
 
 

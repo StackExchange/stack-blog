@@ -17,11 +17,11 @@ In our continuing effort to allow awesome developers to demonstrate their …awe
 
 The feature is inspired by a sentiment widely shared among developers and employers: _show me_. As John Resig put it:
 
-[![resigtweet](http://blog.stackoverflow.com/wp-content/uploads/resigtweet.png)](https://twitter.com/#!/jeresig/status/33968704983138304)
+[![resigtweet](/blog/images/2011-03-30-careers-2-0-now-does-github/resigtweet.png)](https://twitter.com/#!/jeresig/status/33968704983138304)
 
 The process is easy. Head over to your [Careers 2.0 profile](http://careers.stackoverflow.com/cv), and look for the cute little GitHub guy:
 
-![octocat](http://blog.stackoverflow.com/wp-content/uploads/octocat.png)
+![octocat](/blog/images/2011-03-30-careers-2-0-now-does-github/octocat.png)
 
  
 
@@ -29,7 +29,7 @@ The process is easy. Head over to your [Careers 2.0 profile](http://careers.stac
 
  
 
-![githubprojects](http://blog.stackoverflow.com/wp-content/uploads/githubprojects4.png)
+![githubprojects](/blog/images/2011-03-30-careers-2-0-now-does-github/githubprojects4.png)
 
  
 

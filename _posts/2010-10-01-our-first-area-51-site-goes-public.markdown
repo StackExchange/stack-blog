@@ -30,7 +30,7 @@ Our very first [Area 51](http://area51.stackexchange.com) site proposal to make 
 
 ... has just arrived -- as a real live non-beta public site! 
 
-[![Q&A for power users of web applications](http://blog.stackoverflow.com/wp-content/uploads/webapps-stackexchange-logo.png)](http://webapps.stackexchange.com)
+[![Q&A for power users of web applications](/blog/images/2010-10-01-our-first-area-51-site-goes-public/webapps-stackexchange-logo.png)](http://webapps.stackexchange.com)
 
 
 ## [webapps.stackexchange.com](http://webapps.stackexchange.com) -- Q&A; for power users of web applications

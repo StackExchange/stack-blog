@@ -35,7 +35,7 @@ Realizing the need for a brand was easy, coming up with it was another story. Go
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/arqade-blue-300x256.png)
+![](/blog/images/2012-06-26-welcome-to-the-arqade/arqade-blue-300x256.png)
 
 
 We made a [meta post](http://meta.arqade.com/q/4589/16718) announcing a [special chat room](http://chat.stackexchange.com/rooms/info/3237/naming-for-gaming?tab=general) dedicated to a week-long brainstorming session. The rules for the chat room were simple: no discussion, only suggestions. Star suggestions you like, and ignore the ones you don’t. The criteria for the domain name were a bit more complicated:
@@ -108,7 +108,7 @@ We got a lot of great suggestions from the chat, and [Arqade.com](http://arqade.
 ## Branding and Design
 
 
-[![Arqade Site Card](http://blog.stackoverflow.com/wp-content/uploads/sitecard1-300x193.png)](http://blog.stackoverflow.com/2012/06/welcome-to-the-arqade/sitecard-2/)
+[![Arqade Site Card](/blog/images/2012-06-26-welcome-to-the-arqade/sitecard1-300x193.png)](http://blog.stackoverflow.com/2012/06/welcome-to-the-arqade/sitecard-2/)
 Once we had the name, the next step was to create a design around it. Our community really loved Jin’s 8-bit theme, so we didn’t want to change the design too drastically, but we did want to tweak it to make it feel like you’re in an arcade. Jin did a little design magic and [proposed the design](http://meta.gaming.stackexchange.com/q/4821/16718) to the community last week. While change is always difficult, we think the spaceship is pretty awesome and will make for some interesting swag!
 
 

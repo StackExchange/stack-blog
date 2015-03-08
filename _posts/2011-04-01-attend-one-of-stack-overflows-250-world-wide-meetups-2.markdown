@@ -14,7 +14,7 @@ categories:
 
 If you haven't heard by now, [April 6 is World-Wide Stack Overflow MeetUp Day](http://blog.stackoverflow.com/2011/03/stack-overflow-meetups-april-6/)!  Wondering what the purpose of this MeetUp is?  Our developer [Ben](http://stackoverflow.com/users/115866/balpha) put it best:  "The way I see it is that it's an opportunity to meet some of those 32x32 avatars in real life.  Have a snack, have a drink, talk geek stuff, that kind of thing.  Of course if you create a real event with speakers & such, that's awesome -- but it's about having fun as well."
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/stack-overflow-meetups-256.png)](http://www.meetup.com/stackoverflow/)
+[![](/blog/images/2011-04-01-attend-one-of-stack-overflows-250-world-wide-meetups-2/stack-overflow-meetups-256.png)](http://www.meetup.com/stackoverflow/)
 
 Some communities have already organized some pretty cool MeetUps!
 

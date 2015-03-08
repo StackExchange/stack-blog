@@ -27,7 +27,7 @@ I was a bit put off by the context implied by "seeding the site." The word _seed
 
 But it's a popular way to avoid the classic "[empty restaurant syndrome](http://mikepascucci.com/2009/03/30/the-empty-restaurant-syndrome/)."
 
-![](http://blog.stackoverflow.com/wp-content/uploads/Empty-Restaurant.jpg)
+![](/blog/images/2010-07-07-area-51-asking-the-first-questions/Empty-Restaurant.jpg)
 
 Back when Stack Exchange 1.0 sites were struggling, administrators had the problem of jump-starting their communities. The best way to overcome this classic chicken-or-the-egg problem was for the administrators to proactively seed the site with content. The downside is that those hypothetical questions tend to be somewhat pedestrian for an expert Q&A site. When put on the spot to post content, we're likely come up with uninspired questions that anyone would ask. And they've all been asked 100 times before on every other site on that subject.
 
@@ -35,7 +35,7 @@ But Stack Exchange doesn't have the empty restaurant problem. Case in point: One
 
 _48 Hours of Web Apps:_
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/Web-Apps-Stats.png)](http://area51.stackexchange.com/proposals/57/web-applications)
+[![](/blog/images/2010-07-07-area-51-asking-the-first-questions/Web-Apps-Stats.png)](http://area51.stackexchange.com/proposals/57/web-applications)
 
 How did Web Apps overcome the empty restaurant problem? Area 51 is designed to build up momentum for a site _prior_ to launch. On opening day, hundreds (soon to be thousands) of people pile in to ask and answer questions when the site first opens. So when someone asks a question, it gets answered... quickly.
 

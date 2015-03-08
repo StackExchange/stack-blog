@@ -13,7 +13,7 @@ categories:
 
 I'm pleased to announce that we're kicking off 2011 with even more new blood on the team, including [Rebecca Chernoff](http://stackoverflow.com/users/181481/rebecca-chernoff).
 
-![](http://blog.stackoverflow.com/wp-content/uploads/rebecca-chernoff-pic.jpg)
+![](/blog/images/2011-01-04-welcome-valued-associate-rebecca-chernoff/rebecca-chernoff-pic.jpg)
 
 Rebecca will be working remotely for us from Missouri, in a hybrid role of technical evangelist and community coordinator.
 

@@ -71,10 +71,10 @@ You can read the full skinny in [Portman's summary](http://blog.stackoverflow.co
 <tr >
 
 <td >
-![so-amazon-ads](http://blog.stackoverflow.com/wp-content/uploads/so-amazon-ads.png)
+![so-amazon-ads](/blog/images/2009-11-05-our-amazon-advertising-experiment/so-amazon-ads.png)
 
 <td >
-![so-amazon-ads-2](http://blog.stackoverflow.com/wp-content/uploads/so-amazon-ads-2.png)
+![so-amazon-ads-2](/blog/images/2009-11-05-our-amazon-advertising-experiment/so-amazon-ads-2.png)
 </tr>
 </table>
 

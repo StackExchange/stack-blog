@@ -3,7 +3,6 @@ author: jeffatwood
 comments: true
 date: 2009-04-23 03:14:15+00:00
 layout: post
-hero: /blog/images/category/podcasts.jpg
 slug: podcast-50
 title: 'Podcast #50'
 wordpress_id: 1108

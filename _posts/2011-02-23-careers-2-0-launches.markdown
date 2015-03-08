@@ -33,7 +33,7 @@ By the way, if you paid in the past: thank you! Your account is free for life. B
 
 Our goal is that a Stack Overflow Careers profile should be **the ultimate programmer’s portfolio**. We’ve redesigned it to look great, and we’ve given you a clean public URL you can use as your professional home on the web ([Here’s what mine looks like](http://careers.stackoverflow.com/spolsky)). Most importantly, we now let you **choose your favorite answers** which will appear right in the portfolio. You can pick the answers which best demonstrate your expertise. ([Here’s mine](http://stackoverflow.com/questions/4342218/issues-with-ands-and-ors-cobol/4342263#4342263). Don’t forget to vote it up!)
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/Careers2Blog2.png)](http://blog.stackoverflow.com/wp-content/uploads/Careers2Blog2.png)
+[![](/blog/images/2011-02-23-careers-2-0-launches/Careers2Blog2.png)](/blog/images/2011-02-23-careers-2-0-launches/Careers2Blog2.png)
 
 
 ## 3. Support for passive candidates
@@ -65,7 +65,7 @@ If they find a candidate they really like, the employer can **request to contact
 
 Finally, we have completely **revamped the way employers search**. It’s much faster and cooler, and shows nifty statistics while you search, so, for example, when you say that you are looking for programmers in Chicago, you can instantly see charts breaking down the skills of Chicago programmers. Search for Ruby programmers, and you can see where they’re located on a map of the world.
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/Careers2Blog.png)](http://blog.stackoverflow.com/wp-content/uploads/Careers2Blog.png)
+[![](/blog/images/2011-02-23-careers-2-0-launches/Careers2Blog.png)](/blog/images/2011-02-23-careers-2-0-launches/Careers2Blog.png)
 
 You can [test-drive the search interface for free](http://careers.stackoverflow.com/employer/candidate-search), and see some sample profiles along with basic information about how many candidates match your search.  Of course, to see the full results you'll need to subscribe.
 

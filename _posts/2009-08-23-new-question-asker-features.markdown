@@ -20,7 +20,7 @@ The first is a "batting average", if you will.
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/question-owner-accept-rate.png)
+![](/blog/images/2009-08-23-new-question-asker-features/question-owner-accept-rate.png)
 
 
 
@@ -73,7 +73,7 @@ Another change we made is to **highlight comment responses** from the user who a
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/question-owner-comment-highlighting.png)
+![](/blog/images/2009-08-23-new-question-asker-features/question-owner-comment-highlighting.png)
 
 
 

@@ -24,12 +24,12 @@ Visit the [ad summary page](http://rads.stackoverflow.com/ossads/all), and mouse
 <tr >
 
 <td >
-[![](http://blog.stackoverflow.com/wp-content/uploads/oss-ad-stats-1.png)](http://rads.stackoverflow.com/ossads/all)
+[![](/blog/images/2010-01-29-open-source-ad-stats/oss-ad-stats-1.png)](http://rads.stackoverflow.com/ossads/all)
 
 </td>
 
 <td >
-[![](http://blog.stackoverflow.com/wp-content/uploads/oss-ad-stats-2.png)](http://rads.stackoverflow.com/ossads/all)
+[![](/blog/images/2010-01-29-open-source-ad-stats/oss-ad-stats-2.png)](http://rads.stackoverflow.com/ossads/all)
 
 </td>
 </table>

@@ -26,7 +26,7 @@ We don't run Stack Overflow. _You_ do.
 
 Every site under our banner has the same philosophy. The community is the source of everything useful that happens to exist on our websites. We gladly reciprocate by **trusting you to lead and govern your own community**. Democratically elected community moderators are the ultimate goal of, and foundation for, every site in our network.
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/election-celebration.jpg)](http://www.life.com/image/95883094)
+[![](/blog/images/2010-12-02-stack-exchange-moderator-elections-begin/election-celebration.jpg)](http://www.life.com/image/95883094)
 
 While we've had [multiple moderator appointments and elections on the trilogy](http://blog.stackoverflow.com/category/moderators/) -- culminating in our most recent [2010 Stack Overflow moderator election](http://blog.stackoverflow.com/2010/02/stack-overflow-2010-moderator-election-results/) -- they have been much more ad-hoc than I would have liked. 
 

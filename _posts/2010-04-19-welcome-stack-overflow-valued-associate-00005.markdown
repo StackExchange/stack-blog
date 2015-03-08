@@ -20,7 +20,7 @@ I'm pleased to announce that we've hired **our first full time community coordin
 
 
 
-![](http://blog.stackoverflow.com/wp-content/uploads/robert-cartaino.jpg)
+![](/blog/images/2010-04-19-welcome-stack-overflow-valued-associate-00005/robert-cartaino.jpg)
 
 
 

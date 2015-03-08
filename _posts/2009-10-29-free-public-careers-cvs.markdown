@@ -16,7 +16,7 @@ We unveiled a milestone in [Stack Overflow Careers](http://careers.stackoverflow
 
 
 
-[![Stack Overflow Careers](http://blog.stackoverflow.com/wp-content/uploads/stack-overflow-careers.png)](http://careers.stackoverflow.com/)
+[![Stack Overflow Careers](/blog/images/2009-10-29-free-public-careers-cvs/stack-overflow-careers.png)](http://careers.stackoverflow.com/)
 
 
 
@@ -45,7 +45,7 @@ Public CVs can be made visible, with full privacy controls, at **the custom URL 
 
 
 
-![careers-publish-cv-tab](http://blog.stackoverflow.com/wp-content/uploads/careers-publish-cv-tab.png)
+![careers-publish-cv-tab](/blog/images/2009-10-29-free-public-careers-cvs/careers-publish-cv-tab.png)
 
 
 

@@ -16,7 +16,7 @@ A little birdie told me that the formal launch of [Stack Exchange](http://stacke
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/stackexchange-logo.png)](http://stackexchange.com/)
+[![](/blog/images/2010-02-04-stack-exchange-gets-a-blog/stackexchange-logo.png)](http://stackexchange.com/)
 
 
 

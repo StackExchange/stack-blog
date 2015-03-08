@@ -33,7 +33,7 @@ The [Milan meetup group](http://www.meetup.com/stackoverflow/Milano-IT/) was our
 
 [caption id="" align="aligncenter" width="310" caption="Live video stream setup for #SOMeetup in Milan."][![](http://farm9.staticflickr.com/8160/6974917970_c297232a1e_n.jpg)](http://www.flickr.com/photos/86789344@N00/6974917970/)[/caption]
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/SOmeetup_Milan.png)](http://blog.stackoverflow.com/wp-content/uploads/SOmeetup_Milan.png)
+[![](/blog/images/2012-05-03-highlights-from-stack-overflow-worldwide-meetups/SOmeetup_Milan.png)](/blog/images/2012-05-03-highlights-from-stack-overflow-worldwide-meetups/SOmeetup_Milan.png)
 
 
 
@@ -53,9 +53,9 @@ The Barcelona group made this great video of their meetup!
 ## Colombo, Sri Lanka:
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/SriLanka_meetup.png)](https://twitter.com/#!/shiranGinige/status/196942683816738816)
+[![](/blog/images/2012-05-03-highlights-from-stack-overflow-worldwide-meetups/SriLanka_meetup.png)](https://twitter.com/#!/shiranGinige/status/196942683816738816)
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/SriLanka_meetup2.png)](https://twitter.com/#!/Thush/status/196980479445041156)
+[![](/blog/images/2012-05-03-highlights-from-stack-overflow-worldwide-meetups/SriLanka_meetup2.png)](https://twitter.com/#!/Thush/status/196980479445041156)
 
 
 
@@ -116,9 +116,9 @@ The Croatian meetup was hosted by Infobip, an IT company based in Pula:
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/Sydney-lightning-talk1.png)](https://twitter.com/#!/samsaffron/status/197132086312845313)
+[![](/blog/images/2012-05-03-highlights-from-stack-overflow-worldwide-meetups/Sydney-lightning-talk1.png)](https://twitter.com/#!/samsaffron/status/197132086312845313)
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/Sydney_meetup.png)](https://twitter.com/#!/Meligy/status/196919801367638016)
+[![](/blog/images/2012-05-03-highlights-from-stack-overflow-worldwide-meetups/Sydney_meetup.png)](https://twitter.com/#!/Meligy/status/196919801367638016)
 
 
 
@@ -126,7 +126,7 @@ The Croatian meetup was hosted by Infobip, an IT company based in Pula:
 ## New York, NY, USA
 
 
-[caption id="" align="alignright" width="260" caption="Fog Creek developer Kevin Gessner talking about the magic of elasticsearch"][![](http://blog.stackoverflow.com/wp-content/uploads/IMG_2418-200x300.jpg)](http://i.imgur.com/zlB0Q.jpg)[/caption]
+[caption id="" align="alignright" width="260" caption="Fog Creek developer Kevin Gessner talking about the magic of elasticsearch"][![](/blog/images/2012-05-03-highlights-from-stack-overflow-worldwide-meetups/IMG_2418-200x300.jpg)](http://i.imgur.com/zlB0Q.jpg)[/caption]
 
 The New York City meetup took place in two parts: the first was a series of talks at [Projective Spac](http://www.projective.co/)e (a coworking space on Manhattan's Lower East Side), and the second was socializing over beers and snacks at Onieals on Grand.
 
@@ -138,7 +138,7 @@ The first session's talks provided information on cool new technologies and gave
 
 Stack Exchange developer [Matt Sherman](http://stackoverflow.com/users/70613/matt-sherman) taught us how to meet "hot singles" in our area - a.k.a what tech recruiters can learn from online dating.
 
-[caption id="attachment_11647" align="alignleft" width="300" caption="Stack Exchange developers Emmett, Nick, and Matt chatting with Trello designer Bobby Grace"][![](http://blog.stackoverflow.com/wp-content/uploads/IMG_2427-300x200.jpg)](http://i.imgur.com/T8Elb.jpg)[/caption]
+[caption id="attachment_11647" align="alignleft" width="300" caption="Stack Exchange developers Emmett, Nick, and Matt chatting with Trello designer Bobby Grace"][![](/blog/images/2012-05-03-highlights-from-stack-overflow-worldwide-meetups/IMG_2427-300x200.jpg)](http://i.imgur.com/T8Elb.jpg)[/caption]
 
 
 We had most of the Stack Exchange core developers and Careers developers on site.
@@ -155,7 +155,7 @@ We had most of the Stack Exchange core developers and Careers developers on site
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/SOmeetup_Bangalore-246x300.png)](https://twitter.com/#!/abkolan/status/196484634891141121)
+[![](/blog/images/2012-05-03-highlights-from-stack-overflow-worldwide-meetups/SOmeetup_Bangalore-246x300.png)](https://twitter.com/#!/abkolan/status/196484634891141121)
 
 Here's the agenda our Bangalore group brainstormed on their [meetup.com page](http://www.meetup.com/stackoverflow/Bangalore-IN/654972/):
 
@@ -192,12 +192,12 @@ Stack Overflow name tags (shown on the left) helped people get to know each othe
 The Paris meetup was hosted by [DojoBoost](http://www.dojoboost.com/). Though turnout was fairly small, it seems like everyone had a good time and engaged in interesting discussions.
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/SOmeetup_Paris3.png)](https://plus.google.com/106661248019508703534/posts/itv2jPmLiYq)
+[![](/blog/images/2012-05-03-highlights-from-stack-overflow-worldwide-meetups/SOmeetup_Paris3.png)](https://plus.google.com/106661248019508703534/posts/itv2jPmLiYq)
 
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/SOmeetup_Paris2-271x300.png)](https://twitter.com/#!/amokranechentir/status/196294434063781888)
+[![](/blog/images/2012-05-03-highlights-from-stack-overflow-worldwide-meetups/SOmeetup_Paris2-271x300.png)](https://twitter.com/#!/amokranechentir/status/196294434063781888)
 
 
 
