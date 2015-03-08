@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-01-25 16:18:24+00:00
 layout: post
-hero: /blog/images/wordpress/amiga-a1000-signatures-large.jpg
+hero: http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-servers-shipping-ready.jpg
 slug: new-stack-overflow-servers-ready
 title: New Stack Overflow Servers Ready
 wordpress_id: 493

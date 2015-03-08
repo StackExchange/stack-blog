@@ -3,7 +3,7 @@ author: rcartaino
 comments: true
 date: 2011-08-10 06:29:55+00:00
 layout: post
-hero: /blog/images/wordpress/Chris-Jaeger-duck.jpg
+hero: http://stackexchange.com/users/flair/30498037168a4055a8490c31c2b1d863.png
 slug: welcome-valued-associate-chris-jaeger
 title: Welcome Valued Associate Chris Jaeger
 wordpress_id: 9242

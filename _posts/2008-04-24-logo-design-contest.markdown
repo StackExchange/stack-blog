@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2008-04-24 07:52:16+00:00
 layout: post
-hero: http://99designs.com/contests/6774
+hero: http://blog.stackoverflow.com/wp-content/uploads/99-designs-logo.png
 slug: logo-design-contest
 title: Logo Design Contest
 wordpress_id: 10

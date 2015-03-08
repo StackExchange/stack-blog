@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-10-07 18:58:31+00:00
 layout: post
-hero: http://careers.stackoverflow.com/
+hero: http://blog.stackoverflow.com/wp-content/uploads/stack-overflow-careers.png
 slug: introducing-stack-overflow-careers
 title: Introducing Stack Overflow Careers
 wordpress_id: 2021

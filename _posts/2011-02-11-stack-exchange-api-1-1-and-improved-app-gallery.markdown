@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2011-02-11 22:55:16+00:00
 layout: post
-hero: /blog/images/wordpress/api-house-ads-links.png
+hero: http://blog.stackoverflow.com/wp-content/uploads/stackapps-new-homepage.png
 slug: stack-exchange-api-1-1-and-improved-app-gallery
 title: Stack Exchange API 1.1 and Improved App Gallery
 wordpress_id: 7204

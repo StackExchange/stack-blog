@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-04-30 07:44:17+00:00
 layout: post
-hero: http://serverfault.com
+hero: http://blog.stackoverflow.com/wp-content/uploads/any-key.jpg
 slug: server-fault-private-beta-begins
 title: Server Fault Private Beta begins
 wordpress_id: 1174

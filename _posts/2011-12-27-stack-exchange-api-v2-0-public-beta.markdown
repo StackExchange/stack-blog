@@ -3,7 +3,7 @@ author: kevinmontrose
 comments: true
 date: 2011-12-27 02:01:51+00:00
 layout: post
-hero: http://blog.stackoverflow.com/2011/12/stack-exchange-api-v2-0-public-beta/ipad/
+hero: http://blog.stackoverflow.com/wp-content/uploads/ipad.png
 slug: stack-exchange-api-v2-0-public-beta
 title: Stack Exchange API V2.0 Public Beta
 wordpress_id: 10472

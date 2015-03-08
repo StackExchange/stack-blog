@@ -3,7 +3,7 @@ author: spolsky
 comments: true
 date: 2015-01-20 16:59:33+00:00
 layout: post
-hero: /blog/images/wordpress/Jerusalem.jpg
+hero: /blog/images/wordpress/Jerusalem-300x212.jpg
 slug: andreessen-horowitz-invests-in-stack-exchange
 title: Andreessen Horowitz Invests in Stack Exchange
 source: http://joelonsoftware.com/items/2015/01/20.html

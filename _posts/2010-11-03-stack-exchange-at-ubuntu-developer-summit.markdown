@@ -3,7 +3,7 @@ author: rcartaino
 comments: true
 date: 2010-11-03 02:54:34+00:00
 layout: post
-hero: http://uds.ubuntu.com/
+hero: http://blog.stackoverflow.com/wp-content/uploads/Ubuntu-Developer-Summit-Logo.png
 slug: stack-exchange-at-ubuntu-developer-summit
 title: Stack Exchange at Ubuntu Developer Summit
 wordpress_id: 5976

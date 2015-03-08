@@ -3,7 +3,7 @@ author: korneel
 comments: true
 date: 2010-06-23 22:23:58+00:00
 layout: post
-hero: http://careers.stackoverflow.com/
+hero: http://blog.stackoverflow.com/wp-content/uploads/careers-11-update-job-count.png
 slug: careers-now-more-awesomer
 title: 'Careers: Now More Awesome(r)'
 wordpress_id: 3819

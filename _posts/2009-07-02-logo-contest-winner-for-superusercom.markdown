@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-07-02 07:30:34+00:00
 layout: post
-hero: /blog/images/wordpress/superuser-logo-winner.png
+hero: http://blog.stackoverflow.com/wp-content/uploads/superuser-voting-results.png
 slug: logo-contest-winner-for-superusercom
 title: Logo Contest Winner for superuser.com
 wordpress_id: 1567

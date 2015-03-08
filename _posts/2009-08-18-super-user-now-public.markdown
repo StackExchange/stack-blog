@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-08-18 07:08:52+00:00
 layout: post
-hero: /blog/images/wordpress/ewoks.jpg
+hero: http://superuser.com/content/superuser/img/logo.png
 slug: super-user-now-public
 title: Super User Now Public
 wordpress_id: 1848

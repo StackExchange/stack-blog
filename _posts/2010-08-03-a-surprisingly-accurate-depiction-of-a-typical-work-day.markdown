@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-08-03 08:02:21+00:00
 layout: post
-hero: http://jollyjack.deviantart.com/art/Unicorns-make-happies-172917505
+hero: http://blog.stackoverflow.com/wp-content/uploads/unicorns-make-happies-by-jollyjack-2x4.png
 slug: a-surprisingly-accurate-depiction-of-a-typical-work-day
 title: A Surprisingly Accurate Depiction of a Typical Work Day
 wordpress_id: 4410

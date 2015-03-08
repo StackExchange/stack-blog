@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-01-10 00:36:19+00:00
 layout: post
-hero: /blog/images/wordpress/bloodvoodooguitarjx81.jpg
+hero: http://blog.stackoverflow.com/wp-content/uploads/git-wmd-reverse-engineering-timeline1.png
 slug: wmd-editor-reverse-engineered
 title: WMD Editor Reverse Engineered
 wordpress_id: 346

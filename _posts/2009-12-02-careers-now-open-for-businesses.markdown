@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-12-02 15:50:08+00:00
 layout: post
-hero: http://www.dilbert.com/
+hero: http://blog.stackoverflow.com/wp-content/uploads/dilbert-new-employee.png
 slug: careers-now-open-for-businesses
 title: 'Careers: Now Open for Business(es)'
 wordpress_id: 2233

@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-04-13 06:59:13+00:00
 layout: post
-hero: http://www.johndcook.com/blog/2009/03/02/stackoverflow-reputation-statistics/
+hero: http://blog.stackoverflow.com/wp-content/uploads/so_graph1.png
 slug: stack-overflow-voting-pattern-analysis
 title: Stack Overflow Voting Pattern Analysis
 wordpress_id: 1025

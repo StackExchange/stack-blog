@@ -3,7 +3,7 @@ author: alex
 comments: true
 date: 2011-12-09 14:58:41+00:00
 layout: post
-hero: /blog/images/wordpress/Truss.jpg
+hero: http://blog.stackoverflow.com/wp-content/uploads/Big-Board-High-1024x682.jpg
 slug: the-stack-big-board
 title: The Stack Big Board (with Video!)
 wordpress_id: 10366

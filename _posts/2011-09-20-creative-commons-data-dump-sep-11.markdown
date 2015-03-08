@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2011-09-20 05:48:27+00:00
 layout: post
-hero: http://www.clearbits.net/get/1836-sept-2011.torrent
+hero: http://www.clearbits.net/images/btn/CB-download.png
 slug: creative-commons-data-dump-sep-11
 title: Creative Commons Data Dump Sep '11
 wordpress_id: 9857

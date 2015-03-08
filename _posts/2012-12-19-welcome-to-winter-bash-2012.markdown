@@ -3,7 +3,7 @@ author: aarthi
 comments: true
 date: 2012-12-19 00:42:22+00:00
 layout: post
-hero: /blog/images/wordpress/watson.png
+hero: http://blog.stackoverflow.com/wp-content/uploads/blog-image-1.png
 slug: welcome-to-winter-bash-2012
 title: Welcome to Winter Bash 2012!
 wordpress_id: 12750

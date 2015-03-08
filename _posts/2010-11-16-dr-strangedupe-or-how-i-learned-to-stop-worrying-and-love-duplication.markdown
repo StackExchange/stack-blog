@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-11-16 03:49:40+00:00
 layout: post
-hero: http://www.imdb.com/title/tt0057012/
+hero: http://blog.stackoverflow.com/wp-content/uploads/dr-strangelove-bomb.jpg
 slug: dr-strangedupe-or-how-i-learned-to-stop-worrying-and-love-duplication
 title: 'Dr. Strangedupe: Or, How I Learned to Stop Worrying And Love Duplication'
 wordpress_id: 6131

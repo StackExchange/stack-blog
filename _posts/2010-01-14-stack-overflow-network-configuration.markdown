@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-01-14 08:47:46+00:00
 layout: post
-hero: /blog/images/wordpress/stack-overflow-network-diagram.png
+hero: /blog/images/wordpress/stack-overflow-network-diagram-small.png
 slug: stack-overflow-network-configuration
 title: Stack Overflow Network Configuration
 wordpress_id: 2489

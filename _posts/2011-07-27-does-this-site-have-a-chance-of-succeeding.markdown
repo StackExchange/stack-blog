@@ -3,7 +3,7 @@ author: rcartaino
 comments: true
 date: 2011-07-27 14:32:58+00:00
 layout: post
-hero: /blog/images/wordpress/number-of-visits-graph.png
+hero: http://blog.stackoverflow.com/wp-content/uploads/Area-51-analytics-sample1.png
 slug: does-this-site-have-a-chance-of-succeeding
 title: Does this site have a chance of succeeding?
 wordpress_id: 8781

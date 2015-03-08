@@ -3,7 +3,7 @@ author: jericson
 comments: true
 date: 2015-01-06 16:51:25+00:00
 layout: post
-hero: http://i.stack.imgur.com/EE1FO.png
+hero: http://i.stack.imgur.com/GHAlP.png?s=128
 slug: so-long-winter-bash-2014
 title: So long Winter Bash 2014
 wordpress_id: 15097

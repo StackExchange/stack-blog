@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-05-26 22:05:07+00:00
 layout: post
-hero: http://xkcd.org/705/
+hero: http://blog.stackoverflow.com/wp-content/uploads/xkcd-on-sysadmins1.png
 slug: one-year-of-server-fault
 title: One Year of Server Fault
 wordpress_id: 3173

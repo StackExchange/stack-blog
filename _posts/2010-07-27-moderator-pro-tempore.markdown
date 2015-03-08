@@ -3,7 +3,7 @@ author: rcartaino
 comments: true
 date: 2010-07-27 21:47:30+00:00
 layout: post
-hero: /blog/images/wordpress/se-2-moderator.png
+hero: http://blog.stackoverflow.com/wp-content/uploads/current-stack-exchange-2-public-betas.png
 slug: moderator-pro-tempore
 title: Moderator Pro Tempore
 wordpress_id: 4248

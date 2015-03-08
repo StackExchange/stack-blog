@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-12-13 11:11:36+00:00
 layout: post
-hero: http://data.stackexchange.com/
+hero: http://blog.stackoverflow.com/wp-content/uploads/data-explorer-screenshot.png
 slug: re-launching-stack-exchange-data-explorer
 title: Re-Launching Stack Exchange Data Explorer
 wordpress_id: 6336

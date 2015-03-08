@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2011-01-28 07:59:21+00:00
 layout: post
-hero: /blog/images/wordpress/unix-linux-search-box.png
+hero: http://blog.stackoverflow.com/wp-content/uploads/lucene-logo.png
 slug: stack-overflow-search-now-81-less-crappy
 title: Stack Overflow Search -- Now 81% Less Crappy
 wordpress_id: 7041

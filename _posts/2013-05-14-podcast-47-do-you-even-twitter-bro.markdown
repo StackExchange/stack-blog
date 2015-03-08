@@ -3,7 +3,7 @@ author: alex
 comments: true
 date: 2013-05-14 21:42:45+00:00
 layout: post
-hero: /blog/images/wordpress/Screen-Shot-2013-05-14-at-4.40.15-PM.jpg
+hero: /blog/images/wordpress/Screen-Shot-2013-05-14-at-4.40.15-PM-1024x577.jpg
 slug: podcast-47-do-you-even-twitter-bro
 title: 'Podcast #47 - Do You Even Twitter Bro?'
 wordpress_id: 13381

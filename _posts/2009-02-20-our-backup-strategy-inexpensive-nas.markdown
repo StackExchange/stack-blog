@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-02-20 00:51:03+00:00
 layout: post
-hero: /blog/images/wordpress/ts409u-sata-config.png
+hero: http://blog.stackoverflow.com/wp-content/uploads/qnap-409u.jpg
 slug: our-backup-strategy-inexpensive-nas
 title: Our Backup Strategy - Inexpensive NAS
 wordpress_id: 697

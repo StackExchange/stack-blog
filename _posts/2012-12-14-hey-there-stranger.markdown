@@ -3,7 +3,7 @@ author: aarthi
 comments: true
 date: 2012-12-14 23:28:14+00:00
 layout: post
-hero: https://www.surveymonkey.com/s/T59Q82L
+hero: http://static.adzerk.net/Advertisers/1efaea9356764cb6a86564960eba62bb.png
 slug: hey-there-stranger
 title: Hey there, stranger!
 wordpress_id: 12735

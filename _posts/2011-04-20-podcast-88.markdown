@@ -3,7 +3,7 @@ author: alex
 comments: true
 date: 2011-04-20 15:32:37+00:00
 layout: post
-hero: /blog/images/wordpress/SNAG-0001.png
+hero: /blog/images/wordpress/SNAG-0001-300x211.png
 slug: podcast-88
 title: 'SE Podcast #01'
 wordpress_id: 7822

@@ -3,7 +3,7 @@ author: rcartaino
 comments: true
 date: 2010-06-16 19:42:53+00:00
 layout: post
-hero: /blog/images/wordpress/screen1.png
+hero: http://blog.stackoverflow.com/wp-content/uploads/Area-51-Banner1.png
 slug: area-51-we-come-in-peace
 title: 'Area 51: We Come in Peace'
 wordpress_id: 3611

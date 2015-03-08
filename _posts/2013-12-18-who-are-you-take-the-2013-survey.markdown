@@ -3,7 +3,7 @@ author: alison
 comments: true
 date: 2013-12-18 20:39:16+00:00
 layout: post
-hero: https://www.surveymonkey.com/s/9KPHP7H
+hero: http://static.adzerk.net/Advertisers/1efaea9356764cb6a86564960eba62bb.png
 slug: who-are-you-take-the-2013-survey
 title: Who are you? Take the 2013 survey!
 wordpress_id: 14313

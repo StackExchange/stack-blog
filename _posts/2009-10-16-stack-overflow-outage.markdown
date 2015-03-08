@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-10-16 06:33:24+00:00
 layout: post
-hero: http://twitpic.com/lqu5u
+hero: http://blog.stackoverflow.com/wp-content/uploads/melted-switch-circuits-2.jpg
 slug: stack-overflow-outage
 title: Stack Overflow Outage
 wordpress_id: 2067

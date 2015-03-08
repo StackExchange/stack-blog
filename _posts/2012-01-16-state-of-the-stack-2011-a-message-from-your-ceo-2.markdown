@@ -3,7 +3,7 @@ author: spolsky
 comments: true
 date: 2012-01-16 20:11:35+00:00
 layout: post
-hero: http://stackexchange.com/stateofthestack
+hero: http://blog.stackoverflow.com/wp-content/uploads/1-16-2012-12-47-24-PM.png
 slug: state-of-the-stack-2011-a-message-from-your-ceo-2
 title: State of the Stack 2011 (a message from your CEO)
 wordpress_id: 10841

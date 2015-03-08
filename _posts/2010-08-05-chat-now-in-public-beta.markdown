@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-08-05 05:47:08+00:00
 layout: post
-hero: http://www.flickr.com/photos/lostinbrooklyn/4547100496
+hero: http://blog.stackoverflow.com/wp-content/uploads/analog-chat-room.jpg
 slug: chat-now-in-public-beta
 title: Chat Now In Public Beta
 wordpress_id: 4417

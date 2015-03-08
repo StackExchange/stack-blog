@@ -3,7 +3,7 @@ author: rcartaino
 comments: true
 date: 2011-01-28 21:22:35+00:00
 layout: post
-hero: http://discuss.area51.stackexchange.com
+hero: http://blog.stackoverflow.com/wp-content/uploads/discussion-zone.png
 slug: area-51-gets-organized-lets-talk
 title: Area 51 Gets Organized. Let's Talk!
 wordpress_id: 6982

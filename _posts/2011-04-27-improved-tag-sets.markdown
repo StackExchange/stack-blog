@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2011-04-27 11:38:59+00:00
 layout: post
-hero: /blog/images/wordpress/stack-exchange-user-page-link.png
+hero: http://blog.stackoverflow.com/wp-content/uploads/stack-exchange-tag-filters.png
 slug: improved-tag-sets
 title: Improved Tag Sets
 wordpress_id: 7875

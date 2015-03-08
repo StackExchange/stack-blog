@@ -3,7 +3,7 @@ author: bethanymarz
 comments: true
 date: 2013-04-15 20:47:15+00:00
 layout: post
-hero: http://careers.stackoverflow.com/resources
+hero: http://i.stack.imgur.com/OunjM.png
 slug: introducing-our-careers-2-0-employer-resource-center
 title: Introducing our Careers 2.0 Employer Resource Center
 wordpress_id: 13251

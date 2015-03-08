@@ -3,7 +3,7 @@ author: korneel
 comments: true
 date: 2011-02-28 18:30:43+00:00
 layout: post
-hero: http://engine.adzerk.net/v/0/3251_3653_20_0/v.gif
+hero: http://blog.stackoverflow.com/wp-content/uploads/220x250_.NET-development.jpg
 slug: our-advertisers-want-to-know
 title: Our advertisers want to know...
 wordpress_id: 7384

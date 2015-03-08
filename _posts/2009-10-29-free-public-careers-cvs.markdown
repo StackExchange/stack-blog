@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-10-29 04:33:18+00:00
 layout: post
-hero: /blog/images/wordpress/careers-publish-cv-tab.png
+hero: http://blog.stackoverflow.com/wp-content/uploads/stack-overflow-careers.png
 slug: free-public-careers-cvs
 title: Free Public Careers CVs
 wordpress_id: 2096

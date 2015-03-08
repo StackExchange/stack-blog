@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-03-13 11:29:25+00:00
 layout: post
-hero: http://2009.visitmix.com/
+hero: http://blog.stackoverflow.com/wp-content/uploads/mixlogodownload1.png
 slug: jeff-and-joel-at-mix-09-live-podcast
 title: 'Jeff and Joel at MIX 09: Live Podcast'
 wordpress_id: 834

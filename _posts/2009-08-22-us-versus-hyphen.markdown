@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-08-22 00:10:22+00:00
 layout: post
-hero: http://www.google.com/insights/search/#q=stackoverflow%2Cexperts%20exchange&cmpt=q
+hero: http://blog.stackoverflow.com/wp-content/uploads/google-search-rank-stackoverflow-vs-hyphens.png
 slug: us-versus-hyphen
 title: Us Versus Hyphen
 wordpress_id: 1858

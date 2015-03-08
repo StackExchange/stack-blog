@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-09-04 06:03:21+00:00
 layout: post
-hero: /blog/images/wordpress/automatic-global-login.png
+hero: http://blog.stackoverflow.com/wp-content/uploads/stackexchange-genuine-example11.png
 slug: customizing-stackexchange-com
 title: Customizing stackexchange.com
 wordpress_id: 4982

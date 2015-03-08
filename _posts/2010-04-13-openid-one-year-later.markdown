@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-04-13 18:59:26+00:00
 layout: post
-hero: http://openid.net/
+hero: http://blog.stackoverflow.com/wp-content/uploads/openid-logo-big.png
 slug: openid-one-year-later
 title: OpenID, One Year Later
 wordpress_id: 2914

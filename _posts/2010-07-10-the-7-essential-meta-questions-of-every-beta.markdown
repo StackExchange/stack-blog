@@ -3,7 +3,7 @@ author: rcartaino
 comments: true
 date: 2010-07-10 04:44:45+00:00
 layout: post
-hero: http://i.stack.imgur.com/j3694.png
+hero: http://i.stack.imgur.com/CXI15.png
 slug: the-7-essential-meta-questions-of-every-beta
 title: The 7 Essential Meta Questions of Every Beta
 wordpress_id: 4034

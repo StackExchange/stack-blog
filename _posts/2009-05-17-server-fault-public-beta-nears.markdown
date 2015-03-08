@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-05-17 06:59:10+00:00
 layout: post
-hero: http://www.amazon.com/o/ASIN/1573980420/tomontime-20
+hero: http://blog.stackoverflow.com/wp-content/uploads/april-fools-day-rfcs.png
 slug: server-fault-public-beta-nears
 title: Server Fault Public Beta Nears
 wordpress_id: 1280

@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-06-08 09:02:49+00:00
 layout: post
-hero: http://www.partyofthefirstpart.com/hallOfShame.html
+hero: http://blog.stackoverflow.com/wp-content/uploads/legalese.jpg
 slug: guidelines-for-use-of-our-logo-and-name
 title: Guidelines for Use of our Logo and Name
 wordpress_id: 3490

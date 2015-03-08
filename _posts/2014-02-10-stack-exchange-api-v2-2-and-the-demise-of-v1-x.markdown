@@ -3,7 +3,7 @@ author: kevinmontrose
 comments: true
 date: 2014-02-10 21:12:34+00:00
 layout: post
-hero: https://api.stackexchange.com/
+hero: https://cdn.sstatic.net/apiv2/img/se-gear.png
 slug: stack-exchange-api-v2-2-and-the-demise-of-v1-x
 title: Stack Exchange API V2.2 - and the demise of V1.x
 wordpress_id: 14446

@@ -3,7 +3,7 @@ author: alex
 comments: true
 date: 2011-08-24 17:30:17+00:00
 layout: post
-hero: http://facebook.stackoverflow.com
+hero: http://blog.stackoverflow.com/wp-content/uploads/fb.so_.png
 slug: facebook-stackoverflow
 title: Announcing facebook.stackoverflow.com
 wordpress_id: 9530

@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-06-03 06:59:59+00:00
 layout: post
-hero: http://jobs.stackoverflow.com/
+hero: http://blog.stackoverflow.com/wp-content/uploads/stack-overflow-job-ad.png
 slug: jobs-at-stack-overflow
 title: Jobs At Stack Overflow
 wordpress_id: 1412
