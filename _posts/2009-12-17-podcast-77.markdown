@@ -1,0 +1,105 @@
+---
+author: admin
+comments: true
+date: 2009-12-17 02:28:04+00:00
+layout: post
+slug: podcast-77
+title: 'Podcast #77'
+wordpress_id: 2337
+categories:
+- podcasts
+---
+
+
+In this episode of the Stack Overflow podcast, Joel and Jeff discuss how to (accidentally) destroy your software business, Google's new DNS and page speed rankings, and why the most productive employees aren't paid 10 times as much.
+
+
+
+
+
+
+
+
+  * Just as a disaster planning exercise, what kind of things could happen that would destroy your software business? Your website?  
+
+
+
+  * Joel proposes doing test failovers for live customers. He says the important metric isn't measuring how long you are down, but how fast you can recover from being down.
+
+
+  * How much down time per month is acceptable for a service? What's your agreement with your customers? Does a free service even have "customers"?
+
+
+  * If catastrophic failure doesn't get you, what about the more pernicious and subtle problem of users losing interest in your site, such as [what is currently happening to MySpace](http://is.gd/5piwM)?
+
+
+  * One software development parallel to Joel's position on recovering from datacenter failure -- how [quickly you can iterate and fix your software product](http://www.codinghorror.com/blog/archives/001313.html) is probably more important than having perfect releases.
+
+
+  * Google [may start prioritizing sites in search results](http://www.webpronews.com/topnews/2009/11/13/google-page-speed-may-be-a-ranking-factor-in-2010) by page load time. This makes total sense to me, as I am willing to forgive a lot if a site loads quickly. The quicker it loads, the quicker I can determine if the site's content is what I was looking for or not.
+
+
+  * Speaking of Google, they [introduced a public DNS service](http://code.google.com/speed/public-dns/) which is optimized for speed. Joel theorizes this is to replace broken ISP DNS services. It's ad-free, which is an odd juxtaposition to the free, ad-subsidized [OpenDNS](http://www.opendns.com/) service it will inevitably compete with. DNS speed is definitely important; we outsourced our own authoritative DNS servers as [discussed in Podcast #68](http://blog.stackoverflow.com/2009/09/podcast-68/).
+
+
+  * What would the world we be like if employees who are 10 times more productive than their coworkers were paid 10 times as much? We're not sure, but I predict the rapid end of that company and possibly civilization as we know it. It's an interesting thought experiment.
+
+
+  * Joel says all developers should know C. I'll counter by saying it's far more important that all developers know the fundamentals of databases than how to write a working pointer based string copy algorithm.
+
+
+  * In our experience, one of the easiest ways to ensure failure on a software development project is [to micromanage](http://www.codinghorror.com/blog/archives/001205.html), get in their way, and put barriers in front of them. For best results, give the team everything they need, along with a strong vision statement, get out of their way and [let them own it](http://www.codinghorror.com/blog/archives/000219.html).  
+
+
+
+  * It seems that every programming language has some kind of evolutionary dead end in it -- language features that, while part of the core spec, almost every programmer working in that language will actively discourage you from using. Some of this comes down to issues of programming style that you should agree on as a team, but some of it evolves into generally accepted lore for that language.  
+
+
+
+  * Joel is offering **a free Fog Creek t-shirt of your choice** for the best question asked next week — so get those (audio only, please!) questions called or mailed in! And leave us a way to reach you.
+
+
+
+
+Our favorite Stack Overflow question this week:
+
+
+
+
+[Have you ever restricted yourself to using a subset of language features?](http://stackoverflow.com/questions/1867857) This is the question C++ was born to answer.
+
+
+
+
+We answered the following listener questions on this podcast:
+
+
+
+
+
+
+  1. **Kelly French**: "If it's true that some programmers are 10 times better than other, why don't companies pay 10 times as much for these star programmers?"
+
+
+  2. **Brad**: "What is your opinion on developers creating databases? What if you work at a company where only 'Data Architects' can create databases, and programmers aren't considered competent to create a database?"
+
+
+
+
+
+If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser. We also have a dedicated phone number you can call to leave audio questions at **646-826-3879**.
+
+
+
+
+
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W29113) for this episode is available for public editing.
+
+
+
+
+[display_podcast]
+
+
+

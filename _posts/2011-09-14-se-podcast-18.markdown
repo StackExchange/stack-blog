@@ -1,0 +1,54 @@
+---
+author: alex
+comments: true
+date: 2011-09-14 19:00:45+00:00
+layout: post
+slug: se-podcast-18
+title: 'SE Podcast #18'
+wordpress_id: 9809
+categories:
+- podcasts
+---
+
+No guest this week as Joel calls in to the show live from the TechCrunch Disrupt Conference in San Francisco since he's there launching [Trello](http://www.trello.com) for Fog Creek Software (also why his audio isn't quite as good as usual, it's pretty loud there).  There's still a full hour of Jeff & Joel goodness though so make sure to check it out!
+
+
+
+	
+  * Joel gives rundown of what he’s seen at the [TechCrunch Disrupt conference](http://disrupt.techcrunch.com/SF2011/) in San Francisco so far. A discussion about differences between East Coast and West Coast tech startups leads Jeff and Joel to talk about how important centralized locations are for modern day companies.
+
+	
+  * The recent [Facebook deal](../2011/08/facebook-stackoverflow/) has led to a recent influx of general Facebook support emails. This leads to a discussion about user support and how other companies rate against Stack Exchange.
+
+	
+  * The merits of paying for internet services comes up, specifically the[freemium](http://en.wikipedia.org/wiki/Freemium) and [37signals](http://37signals.com/) models. Jeff discusses the merits of 37signals and Joel recounts his time using that model.
+
+	
+  * The [Most Valued Super User contest](http://meta.superuser.com/questions/3186/vote-for-the-most-valued-super-user) is discussed, specifically how this contest gets people to do "the right thing for the right reasons." Mention of the contest's prizes spur a discussion about merchandising (and inadvertently, whose head looks best on a plush Buddha).
+
+	
+  * Jeff announces that Stack Overflow and Stack Exchange are getting [Nerd Merit Badges](http://www.nerdmeritbadges.com/).
+
+	
+  * The [Bitcoin site](http://bitcoin.stackexchange.com/) launched recently and is proving to be very popular. In other site news, Jeff mentions that enhancements are underway for the SE language sites.
+
+	
+  * Jeff addresses the problem of [duplicate questions](http://meta.superuser.com/questions/3432/whats-the-super-user-community-policy-on-duplicates), specifically on Meta. A little later on, Jeff goes into detail about the defense mechanisms being put in place to block duplicate questions.
+
+	
+  * User interface proves to be a hot topic today between Jeff and Joel. What starts as a discussion about search engine functionality leads to a full-on talk about the ins and out and future of user interface. Listen to find out which user interface Jeff thinks is like a canker sore!
+
+	
+  * Many sites have launched in the last week, opened recently. The new targeted method of advertising proposals may be the cause of this. As new sites open, Jeff and Joel discuss the new sites with overlap of existing questions. This is currently an issue with the existing [Physics site](http://physics.stackexchange.com/) and the soon-to-launch [Theoretical Physics site](http://area51.stackexchange.com/proposals/23848/theoretical-physics).
+
+	
+  * CHAOS member [Sam](http://stackexchange.com/users/fe51707e-6a21-4db7-98d4-8a36f13635a8) brought up the idea of regional Stack Exchanges. Jeff and Joel support their differing opinions on the necessity of localized Stacks (also known as the "let your freak flag fly" theory vs. the "Hurricane Irene" defense).
+
+
+Tune in next week at the normal time and with our normal in-studio setup (really, promise) for another episode as Jeff & Joel are joined by John Sheehan, developer evangelist for Twilio.
+
+See you then!
+
+
+
+[Stack Exchange Podcast - Episode #18](http://soundcloud.com/stack-exchange/stack-exchange-podcast-18) by [Stack Exchange](http://soundcloud.com/stack-exchange)

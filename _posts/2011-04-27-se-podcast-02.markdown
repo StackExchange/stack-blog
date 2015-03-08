@@ -1,0 +1,45 @@
+---
+author: alex
+comments: true
+date: 2011-04-27 19:00:01+00:00
+layout: post
+slug: se-podcast-02
+title: 'SE Podcast #02'
+wordpress_id: 7858
+categories:
+- podcasts
+---
+
+This week on the Stack Exchange podcast, Jeff and Joel are back into the swing of the weekly podcast and jump right into business, including:
+
+
+
+	
+  * The algorithm for the [Stack Overflow homepage changed](http://blog.stackoverflow.com/2010/11/stack-overflow-homepage-changes/) a little while back, showing you even more relevant content and questions every time you log in.
+
+	
+  * Content farms and how much they suck (but how amazingly funny and well written ["The Content Farm"](http://www.thecontentfarm.net) is.
+
+	
+  * The recent launch of the [HowThingsWork Stack Exchange](http://area51.stackexchange.com/proposals/15025/how-things-work) and why it never made it out of its private beta.  In particular, it had the issue that it would have turned into almost just another content farm and not fulfill the Stack Exchange mission of making the internet better.
+
+	
+  * The recent move to our new data center and technical changes that have made all of the sites faster and more efficient.
+
+	
+  * How you can utilize improved networking in your data center to greatly improve performance with efficient upgrades
+
+	
+  * The [Internet Archive](http://www.archive.org/index.php) is an amazing service for preserving the history of the internet, but it never seems to get enough support.  [Go and donate today](http://www.archive.org/donate/index.php)!
+
+	
+  * Is there such a thing as [a question that is too simple](http://blog.stackoverflow.com/2011/02/are-some-questions-too-simple/)?  What new guidelines should we give people when posting questions on Stack Exchange.
+
+
+And a fun fact about the Stack Exchange podcast: We have listeners in **85** countries around the world.
+
+See you next week when Jeff and Joel are joined by [Scott Hanselman](http://www.hanselman.com/blog/).
+
+One final note - we're re-numbering the podcast to start back at the beginning, so this is now episode #02 and last week is now episode #01.
+
+[Stack Exchange Podcast - Episode #02](http://soundcloud.com/stack-exchange/stack-exchange-podcast-7/s-Fk90d) by [Stack Exchange](http://soundcloud.com/stack-exchange)

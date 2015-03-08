@@ -1,0 +1,69 @@
+---
+author: alex
+comments: true
+date: 2013-02-05 19:45:51+00:00
+layout: post
+slug: podcast-42-2
+title: 'Podcast #42 - It''s The Exception That Proves The Rule'
+wordpress_id: 13150
+categories:
+- podcasts
+---
+
+Welcome to Stack Exchange Podcast #42 - it's our usual gang back this week with Joel, Jay, David, and Producer Alex.  There's plenty of inside baseball, so put on your rally caps and make sure to stick it through to the end!
+
+
+
+	
+  * David Mamet, apparently. Jay was a drama major.
+
+	
+  * Michael forgot to pay the Google bill, so our hangouts are back down to 10 person limits (but it's fixed now!)
+
+	
+  * We have one big thing to talk about that made a change and generated controversy. Joel correctly guesses what it is: we no longer display your accept rate (the percentage of questions you asked that you accepted an answer for).
+
+	
+  * The team walks us through this feature's history and the rationale for removing it. (As soon as we shut it off, the temperature in New York plummeted. This is related.)
+
+	
+  * Enjoy our _hilariously awkward pause_
+
+	
+  * Jeff Atwood recommended [replacing the accept rate with some kind of citizenship score](http://meta.stackoverflow.com/questions/165179/replace-accept-rate-with-citizenship-level). Will this just cause the same problems as the accept rate? How can we get around the problem of ridiculing people for low "citizenship scores"? People will learn how to game anything, after all - remember flag weight?
+
+	
+  * David wonders why we need a third number at all. We already have your reputation and your badges on your little user card. Those already show how good of a citizen you are.
+
+	
+  * Finally, this is something we're still looking at, so let us know your thoughts on [the meta post](http://meta.stackoverflow.com/questions/165179/replace-accept-rate-with-citizenship-level).
+
+	
+  * Site milestones! We have some good ones this week. Our [Magento](http://magento.stackexchange.com/) site went live (not to be confused with [Mag_ne_to](http://fc09.deviantart.net/fs11/i/2006/238/0/0/Erik_Magnus_Magneto_Colors_by_ErikVonLehmann.jpg)). This one is remarkable because it's something nobody in the company knows anything about, but it got created anyway.
+
+	
+  * Congratulations to [Math](http://mathematics.stackexchange.com/) for being the first non-Trilogy site to hit 100,000 questions! Our hosts discuss the Math site and its relationships with other sites on the network for a while.
+
+	
+  * One more new site to go over: [English Language Learners](http://ell.stackexchange.com/). David and Joel don't really understand this site, so Jay tells us what's going on (hint: it's not about an X-Men villain). ELL should help relieve some stress from [English Language and Usage](http://english.stackexchange.com/), which was frustrated by the high number of certain types of questions that were coming in.
+
+	
+  * Is this podcast the exception that proves the rule?
+
+	
+  * Another site milestone: we have finally rolled out the final design of [our Travel site](http://travel.stackexchange.com/). (It was blocked for a while because Joel had strong opinions about the original design.) When you finish listening to this podcast, go to [Travel](http://travel.stackexchange.com/) and ask or answer a question!
+
+	
+  * [Subscribe to your favorite site's newsletter](http://stackexchange.com/newsletters)!
+
+	
+  * On to our next topic. We are changing some things with how duplicates work. We want to make it more positive! (It's the [you lucky bastard] close reason.) This is the first closing change, and it's going out in the next week or so.
+
+
+Well that's the podcast for this week!  ****Thanks for tuning in, and now for our standard disclaimers:
+
+
+###### _This podcast is not sponsored by self-driving car manufacturer Audible.com. Alexis Ohanian did not invent the DVR. YouTube is the place where you go to watch [kids eat cinnamon](http://www.cinnamonchallenge.com/). Join us next week when Alexis Ohanian eats a spoonful of cinnamon! Alex is not fired because correlation definitely implies causation._
+
+
+

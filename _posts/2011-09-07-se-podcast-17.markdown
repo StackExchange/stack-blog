@@ -1,0 +1,46 @@
+---
+author: alex
+comments: true
+date: 2011-09-07 19:00:27+00:00
+layout: post
+slug: se-podcast-17
+title: 'SE Podcast #17 - Kyle Brandt & George Beech'
+wordpress_id: 9773
+categories:
+- podcasts
+---
+
+Jeff & Joel are back with guests this week - joining them are [Kyle Brandt](http://serverfault.com/users/2561/kyle-brandt) and [George Beech](http://serverfault.com/users/5880/zypher), our very own sysadmins/ops guys/[insert your own term here]
+
+After a brief test of the emergency broadcast system, we plunge right into the podcast, including:
+
+
+
+	
+  * Joel is late because he had to go up to AOL HQ to pick up some more floppy disks for the office
+
+	
+  * We recently [launched Blog Overflow ](http://blog.stackoverflow.com/2011/06/blog-overflow/)- which was actually a pretty substantial engineering and technical background to making it happen.
+
+	
+  * A huge discussion of the the SE infrastructure setup and why we host our own instead of relying on Amazon or another outside provider.  Hint: not only can we roll our own better, [but its a lot cheaper too](http://meta.stackoverflow.com/questions/73969/what-would-stack-exchanges-yearly-expenses-be-if-it-were-to-be-using-a-third-par/73978#73978).
+
+	
+  * In the department of little tweaks with big effect, check out our "network apocalypse": at one point, Stack reconfigured to separate different types of network traffic due to [microbursting](http://blog.serverfault.com/post/per-second-measurements-dont-cut-it/) overloading the network - this simple upgrade greatly increased the throughput and efficiency of the existing infrastructure.
+
+	
+  * In the good news department: Jeff talks about the [expanding user cards](http://blog.stackoverflow.com/2011/09/expanding-user-cards/) just introduced and based on a conversation from our [podcast a few weeks ago](http://blog.stackoverflow.com/2011/08/se-podcast-15/) with [Michael Natkin](http://cooking.stackexchange.com/users/1393/michael-at-herbivoracious)
+
+	
+  * In the bad news department: we've decided to cancel Stack Overflow DevDays due to low ticket sales - you can read [Joel's full blog post](http://blog.stackoverflow.com/2011/09/devdays-2011-is-cancelled/) for all the details.
+
+	
+  * Finally, we welcome our newest engineering hire - [Demis](http://stackoverflow.com/users/85785/mythz)!
+
+
+That's it!  Tune in next week at the usual time for another episode with more guests!
+
+
+[Stack Exchange Podcast - Episode #17 w/ Kyle & George](http://soundcloud.com/stack-exchange/stack-exchange-podcast-17) by [Stack Exchange](http://soundcloud.com/stack-exchange)
+
+

@@ -1,0 +1,125 @@
+---
+author: admin
+comments: true
+date: 2009-03-05 20:24:45+00:00
+layout: post
+slug: podcast-44
+title: 'Podcast #44'
+wordpress_id: 787
+categories:
+- podcasts
+---
+
+
+This is the 44th episode of the StackOverflow podcast, where Joel and Jeff discuss the enduring influence of C, the questionable value of the title "Software Architect", and the evolution of Java.
+
+
+
+
+
+
+  * Joel brings the YouTube video [Write it in C](http://www.youtube.com/watch?v=XHosLhPEN3k) to our attention. "Pascal won't quite cut it, write in C." Did you know that there's a new version of C++ on the horizon, [C++0x](http://en.wikipedia.org/wiki/C%2B%2B0x)? It even has [its own tag](http://stackoverflow.com/questions/tagged/c%2b%2b0x) on Stack Overflow.
+
+
+  * Speaking of C, Joel had lunch (and just guest-taught a class at Princeton for) [Brian Kernighan](http://en.wikipedia.org/wiki/Brian_Kernighan). Brian is of course the co-author of [the classic K&R book](http://www.amazon.com/dp/0131103628/?tag=codinghorror-20), and the creator of the [Awk](http://en.wikipedia.org/wiki/AWK_(programming_language)) language. And his second favorite language is Visual Basic, surprisingly.  
+
+
+
+  * I'm a little bitter that so many languages (C#, Java, JavaScript, etc) followed the "look" and many of the important design decisions of C, but Joel blames [Algol-68](http://en.wikipedia.org/wiki/ALGOL_68).
+
+
+  * One C design decision I agree with: using carriage return as your programming line terminator is _not_ a good idea. Having an explicit line ending character like semicolon gives you so much more flexibility, and is far less awkward than weird line continuation characters.
+
+
+  * Extension methods in C# are a poor man's way of [extending the underlying language](http://www.codinghorror.com/blog/archives/001151.html).
+
+
+  * One new feature in C# 4.0 is [named parameter arguments](http://geekswithblogs.net/michelotti/archive/2009/01/22/c-4.0-named-parameters-for-better-code-quality.aspx). Joel notes that Excel's VBA implementation went through this same evolution, and it can potentially mask problems, like "why the heck do we have a function with 7 parameters in the first place?"
+
+
+  * We implemented the fantastic open-source [Cacti tool](http://www.cacti.net/) to graph how much bandwidth and CPU time we're using on our servers. Our ISP does [burstable billing](http://en.wikipedia.org/wiki/Burstable_billing) at the 95th percentile, and this graph is built into Cacti. Right now we're doing about 750 KB/sec or 6 megabits/sec under those terms, which is (unfortunately) more than we agreed on with our ISP. This throughput number is [99% GZIP compressed text](http://blog.stackoverflow.com/2009/02/happy-100000th-question/).  
+
+
+
+  * What is the rationale for expressing all [network bandwidth units in terms of bits](http://www.codinghorror.com/blog/archives/000783.html)? I prefer bytes. And while I'm at it, what the heck is a [kibibyte](http://www.codinghorror.com/blog/archives/000950.html)?
+
+
+  * Remember [Alexa](http://en.wikipedia.org/wiki/Alexa_Internet)? They're still around. It is sort of a mystery how sites like Alexa, [Compete](http://www.compete.com/), etcetera can infer web traffic for any random website without access to the webserver's logfiles. It's essentially client sampling, but the accuracy of this approach is anyone's guess.
+
+
+  * Joel's classic article on [unnecessary choice in software](http://www.joelonsoftware.com/uibook/chapters/fog0000000059.html) reminds us how customization is a double-edged sword. We've resisted a lot of per-user customization options on Stack Overflow for similar reasons.
+
+
+  * Joel and I both are unsure that the title "Software Architect" is a good one. We're leaning towards it being almost.. a net negative. "It's almost disrespectful of the actual architects who work in construction, to use that word to refer to some kind of high-falutin' big-picture UML-drawing code monkey."
+
+
+  * To the extent that the architect is not in the trenches with you doing
+the work, they don't have enough context, and will inevitably make the wrong
+decisions.
+
+
+  * If we had the power, we'd do away with the title "Architect". But if you're stuck with it -- and the [architecture astronomy that it frequently engenders](http://www.joelonsoftware.com/articles/fog0000000018.html) -- what is the proper role for a so-called Architect? They _could_ work to connect disparate groups at large organizations, to provide context and reduce duplication for disparate groups that are working in isolation. It can be hard for groups working locally to see the context of the larger organization. But I traditionally think of this role as an evangelist and educator, not an architect.
+
+
+  * The catch-22 of rekindling a nascent programming career is that.. good programmers can't stop programming. So if you _can_ give up programming, it sort of almost means that [you shouldn't be doing it anyway](http://www.codinghorror.com/blog/archives/001202.html). This is Joel's tough love answer. Bottom line: if you want to be a programmer, get out there and start writing code.. yesterday.
+
+
+  * Joel thinks that Java on the desktop is essentially dead. I don't necessarily disagree, but I think Java is still a fine choice on the server. In the context of history, it is an excellent replacement for C++ if you don't need to-the-metal performance. Joel has called Java "the new VB", or "the new COBOL".
+
+
+  * The enterprisey and extra-verbose culture around Java is a bit problematic. Steve Yegge's [pieces on this are quite famous](http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html) and apt. Bear in mind, Steve is a guy who has written hundreds of thousands of lines of Java code, and he essentially concluded that [size is the enemy](http://www.codinghorror.com/blog/archives/001025.html).  
+
+
+
+
+
+
+
+We answered the following listener questions on this podcast:
+
+
+
+
+
+
+  1. **Brad from Denver**: "How do you get rid of incompetent architects?"
+
+
+  2. **Ben Younkins:** "I graduated with a CS degree, but I haven't been working as a programmer for 10 years. I'd like to get back into it. How should I do this?"  
+
+
+
+
+
+Our favorite Stack Overflow qustions this week are:
+
+
+
+
+
+
+  * [](http://stackoverflow.com/questions/513170/choosing-a-technology-stack-for-a-small-budget-conscious-business)
+
+
+[How accurate are the technical arguments in JWZ's ten-year-old "java sucks" article with today's Java?](http://stackoverflow.com/questions/577943/how-accurate-are-the-technical-arguments-in-jwzs-ten-year-old-java-sucks-article) Jamie Zawinski is a fairly notorious programmer, and these are valid concerns. How do languages evolve, and how has Java evolved in the last 10 years? Is it better? Worse? The same?
+
+
+
+
+
+
+
+If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser. We also have a dedicated phone number you can call to leave audio questions at **646-826-3879**.
+
+
+
+
+
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W29034) for this episode is available for public editing.
+
+
+
+
+
+[display_podcast]

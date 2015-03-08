@@ -1,0 +1,113 @@
+---
+author: admin
+comments: true
+date: 2009-03-26 05:00:42+00:00
+layout: post
+slug: podcast-47
+title: 'Podcast #47'
+wordpress_id: 907
+categories:
+- podcasts
+---
+
+
+This is the 47th episode of the StackOverflow podcast, where Joel and Jeff discuss Eclipse, plugin architectures, sketching mockups, and optimizations that don't optimize.
+
+
+
+
+
+
+  * I had the honor of [keynoting EclipseCon this year with Clay Shirky](http://www.codinghorror.com/blog/archives/001245.html). Eclipse is an open source IDE with an [excellent plugin ecosystem](http://www.eclipseplugincentral.com/). It's also a [great Java GUI framework](http://www.eclipseplugincentral.com/).
+
+
+  * A brief discussion of the communal relationship between applications and plugins.
+
+
+  * I am cautiously optimistic about the release of Internet Explorer 8. The betas were [very scary](http://www.joelonsoftware.com/items/2008/03/17.html), but the final released version is surprisingly solid and fast. A totally respectable update from Internet Explorer 7, and it has a very convenient "switch to IE7 rendering mode" (along with a HTML header that does the same thing) that means it's super easy to essentially have both browsers.
+
+
+  * Joel explains that he'd rather spend any amount of money than have his developers "take a few weeks" to optimize the FogBugz compiler. Remember, [hardware is cheap, and programmers are expensive](http://www.codinghorror.com/blog/archives/001198.html). This may include buying 8 GB of memory (cheap!) and the super-fast Intel SSD hard drive. It's [recommended by Linus](http://torvalds-family.blogspot.com/2008/10/so-i-got-one-of-new-intel-ssds.html)! Be careful with SSDs, the only ones worth having at the moment are the very high end models like the Intel one. Cheaper ones can be _slower_ than regular hard drives!
+
+
+  * I continue to recommend the two-spindle approach for desktops for optimal performance. It's the same reason, on a database server, you typically have the OS on one drive and the data on another drive. It reduces contention.
+
+
+  * We joke about pure architecture software releases, where nothing _visible_ changes in the product, except the underlying code. There are reasons to do this, such as performance, scalability, and simplicity. But for a product users pay for, a pure architecture release would be suicide.
+
+
+  * Our [live podcast from MIX](http://blog.stackoverflow.com/2009/03/podcast-46/) went great -- thanks to everyone who participated! You can watch our 5-minute bit at about 50 minutes into the day one keynote on the [official MIX website](http://live.visitmix.com/).
+
+
+  * The classic example of a [free site attacking the business model of a pay site](https://plentyoffish.wordpress.com/2006/06/14/how-i-started-an-empire/) is Markus Frind's Plenty of Fish. What's odd is that PoF has been so successful that Markus is looking to [acquire a pay dating site](http://plentyoffish.wordpress.com/2009/01/27/looking-to-aquire/) at this point. On the other hand, he's adding [some pay features](http://plentyoffish.wordpress.com/2009/03/05/plentyoffish-serious-member-profile-upgrade/) to his free site as well.
+
+
+  * Joel talks about how smart the design of [Balsamiq Mockups](http://www.balsamiq.com/products/mockups) is. It actually forces you to stay simple and abstract, which is the whole point of sketching.
+
+
+  * Sketching is on our minds because the Bill Buxton book [Sketching User Experiences](http://www.amazon.com/dp/0123740371/?tag=codinghorror-20) was provided to every MIX attendee, and Bill Buxton was the first day 1 keynote speaker.   
+
+
+
+  * Joel complains that so many design books start by talking about the design of the iPod, to the point that it's cliche. Perhaps one design lesson is that people care more about the content than the design -- the websites they load are far more important than what browser widget they load it in, despite how important choice of browser is to us geeks.
+
+
+  * One of the points Clay brought to our EclipseCon keynote was that social software ends up being a mirror, a reflection of the community you drop it in to. Unlike PhotoShop, which works exactly the same no matter how many times you copy it or who is using it, the same social software may behave completely differently for different communities. This is why Reddit cloning itself into [weheartgossip](http://www.weheartgossip.com/) isn't really working -- the audience is too different.
+
+
+  * Make sure your "optimizations" are actually optimizing, otherwise you're pessimizing -- with the best of intentions, you make your code slower. Benchmark first, not last!  
+
+
+
+  * There are huge categories of premature optimization you should avoid, but you also want to avoid making big design mistakes early on. It's not necessarily _optimization_, per se, but don't do things that are so incredibly boneheaded you will regret them forever.
+
+
+
+
+We answered the following listener questions on this podcast:
+
+
+
+
+
+
+  1. "What about Stack Overflow for car questions?"
+
+
+
+
+Our favorite Stack Overflow qustions this week are:
+
+
+
+
+
+
+  * 
+
+
+[What is the most ridiculous pessimization you've seen?](http://stackoverflow.com/questions/312003/what-is-the-most-ridiculous-pessimization-youve-seen) In other words, the opposite of optimization?
+
+
+
+
+
+
+
+
+If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser. We also have a dedicated phone number you can call to leave audio questions at **646-826-3879**.
+
+
+
+
+
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W29037) for this episode is available for public editing.
+
+
+
+
+
+
+[display_podcast]
+

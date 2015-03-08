@@ -1,0 +1,113 @@
+---
+author: admin
+comments: true
+date: 2009-06-24 17:18:06+00:00
+layout: post
+slug: podcast-59
+title: 'Podcast #59'
+wordpress_id: 1512
+categories:
+- podcasts
+---
+
+This is the 59th episode of the StackOverflow podcast where Joel and
+Jeff sit down with [Damien Katz](http://damienkatz.net/) (of CouchDB) to discuss non-conventional databases, non-conventional programming languages, and taking on non-conventional programming projects.
+
+
+
+
+
+
+  * Stop, do not pass go, do not collect $200: **watch Damien Katz' outstanding Rubyfringe presentation, [CouchDB and Me](http://www.infoq.com/presentations/katz-couchdb-and-me)**. It is a hugely inspirational presentation for any working programmer. I can't recommend it enough. Go watch it now!
+
+
+  * We have forgiven Damien Katz for working on Lotus Notes. Mostly. To his credit, he did write some very cool code, as documented in [his famous formula engine rewrite](http://damienkatz.net/2005/01/formula-engine-rewrite.html).
+
+
+  * You can think of [Damien Katz' CouchDB project](http://couchdb.apache.org/) as the distilled "good stuff" from Lotus Notes. Wait! Why are you running away? Come back! It's not that bad! We swear!  
+
+
+
+  * Damien used Erlang to build CouchDB, largely because [it makes error recovery and multiprocessing so much easier](http://damienkatz.net/2006/06/one_reason_i_ch.html). Or as Damien says "what happens when everything goes to s**t". In other words, networking fails, or you don't have enough memory to complete the operation. This is stuff that is very tricky in C++, but almost trivial in Erlang.
+
+
+  * CouchDB took off when the JSON and JavaScript bindings were produced -- and were [a big hit](http://damienkatz.net/2007/09/couchdb_strikes.html). This probably says something about trying to popularize your open source project: is it accessible to the average programmer?
+
+
+  * On Damien's journey as a software developer: "eventually you get tired of working on stuff for other people."   
+
+
+
+  * The negotiations with IBM included the synonyms "douchebags" and "vapid bureaucrats". They seemed to appreciate his honesty (at least for the set of bad eggs he's referring to), and Damien is a guy who has spent some time in the bowels of IBM and knows what he is getting into.  
+
+
+
+  * I liked that Damien, when he reached analysis paralysis in the middle of his project, turned to the soothing, calming midwestern voice of Steve McConnell -- and the classic (and my favorite) book [Code Complete 2](http://www.amazon.com/exec/obidos/ASIN/0735619670/codinghorror-20).
+
+
+  * While building up two new 1U servers for superuser.com, powering on the server with the cover off would trigger the [Moro reflex](http://en.wikipedia.org/wiki/Moro_reflex) in our [3 month old baby](http://twitter.com/rockhardawesome)... two rooms over! That's how loud they are. REALLY loud. I was happy to have UPS take those out of my house.
+
+
+  * I didn't appreciate how much happier I would be with community moderation -- I am unburdened from being the judge, jury, and executioner of the occasional serious misbehavior. It's a group discussion now -- [thanks to our awesome community moderators](http://blog.stackoverflow.com/2009/05/welcome-new-community-moderators/), we can reach a concensus together!
+
+
+  * What does it mean for an open-source project to be version 1? Version 0.1? Version 0.5? When is it good enough to use? Should you look at commit activity; is the project alive? Or should you look at how many people are actually _using_ the software, regardless of version number or commit activity?
+
+
+  * If you're a developer, and wondering what specific problem CouchDB could solve for you, Damien says: "would the data you have typically be stored in a document in real life?" The classic example is a contacts database. Do you have a phobia of storing large blobs in a database?
+
+
+  * I think most hardware-oriented software developers have gone through this thought process at least once: "Hmm. I have gobs and gobs of system memory. Do I really _need_ a swapfile on disk any more?" Don't try to outsmart the operating system designers, unless you're an operating system designer. And that goes triple for programmers who think they are language designers!
+
+
+
+
+We answered the following listener questions on this podcast:
+
+
+
+
+
+
+  1. **Maayan**: "What is your stance about using open source software in production code, when the open source project in question is working, but is either below 1.0 or is not actively maintained?"
+
+
+
+
+Our favorite Stack Overflow questions this week are:
+
+
+
+
+
+
+  * [Can I do transactions and locks in CouchDB?](http://stackoverflow.com/questions/299723/can-i-do-transactions-and-locks-in-couchdb) A brief discussion of how this works in CouchDB versus a typical SQL database.  
+
+
+
+  * [Any benefit or detriment from removing a pagefile on an 8GB RAM machine?](http://serverfault.com/questions/23621/any-benefit-or-detriment-from-removing-a-pagefile-on-an-8gb-ram-machine) short answer: no. Long answer: no. Fantastic answer by [user quux](http://serverfault.com/users/3437/quux), who also has [an excellent sysadmin blog](http://quux.tumblr.com/) that we recommend checking out.  
+
+
+
+
+
+
+If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser. We also have a dedicated phone number you can call to leave audio questions at **646-826-3879**.
+
+
+
+
+
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W29065) for this episode is available for public editing.
+
+
+
+
+
+
+[display_podcast]
+
+
+
+

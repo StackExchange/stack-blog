@@ -1,0 +1,111 @@
+---
+author: admin
+comments: true
+date: 2008-07-10 03:23:44+00:00
+layout: post
+slug: podcast-13
+title: 'Podcast #13'
+wordpress_id: 65
+categories:
+- podcasts
+---
+
+
+This is the thirteenth episode of the StackOverflow podcast, wherein Joel and Jeff discuss the following:
+
+
+
+
+
+
+  * Joel Spolsky still claims he is a New Zealander -- or at least his father was -- though I refuse to believe anything that is not in Joel's Wikipedia entry can possibly be true. More evidence: [FogBugz](http://www.fogcreek.com/FogBUGZ/) uses the Kiwi as its logo.
+
+
+  * I completely stole Yuval Tobias' audio recording question about [Spartan Programming](http://www.codinghorror.com/blog/archives/001148.html) and posted it on my blog. My apologies, but it's a great topic, and I couldn't resist. You may also appreciate Steve Yegge's post [Portrait of a Noob](http://steve-yegge.blogspot.com/2008/02/portrait-of-n00b.html), as it covers similar ground.  
+
+
+
+  * Marco Arment was kind enough, in [My Lyrics Are Bottomless](http://tumblelog.marco.org/41323518/my-lyrics-are-bottomless), to expand on his earlier criticism. Marco, I can't bring myself to disagree with a fellow fan of [the best two-man novelty band on the planet](http://en.wikipedia.org/wiki/Flight_of_the_Conchords). I'd love to involve you in the private beta so we can benefit from your advice once you've experienced the code in action.  
+
+
+
+  * Joel says that ASP.NET is like driving a Lexus, and PHP is like riding a bicycle. Note: please direct all subsequent hate mails to Mr. Joel Spolsky, c/o Fog Creek Software, NY, NY.  
+
+
+
+  * The original schedule for Stack Overflow had us going to the private beta this month (July). Based on the current progress, I believe we need 2 extra weeks to implement editing, and that's an essential part of the system. The key pieces need to be in place to get meaningful feedback in beta, so even if it slips a bit into August, the beta will be more useful. 
+
+
+  * Stack Overflow will implement an [Xbox 360 like Achievement system](http://www.xbox360achievements.org/index.php) tied to your account. Our "Badges" system fulfills three roles: bronze badges encourage people to try all the different functions in the system, silver badges encourages continued participation, while completionists and hardcore users can strive to get the gold badges. All of this is completely optional, of course, but it is permanently visible on your Stack Overflow profile.  
+
+
+
+  * We will also have a reputation system, which is a simple numeric score attached to your profile. It's based on the number of upmods your questions and answers get. It bothers us that on many voting based sites, a downmod completely cancels out an upmod. On Stack Overflow, an upmod will be worth twice as much as a downmod.
+
+
+  * We hooked up [CruiseControl.NET](http://confluence.public.thoughtworks.org/display/CCNET/Welcome+to+CruiseControl.NET) on our project, so every checkin results in a build, unit testing, and deployment to the server. We also get email notifications of what changed and whether the build broke or not.
+
+
+  * Joel's classic 2000 article [The Joel Test](http://www.joelonsoftware.com/articles/fog0000000043.html). How does your team fare on these 12 points? If you're interviewing for a job, does that company pass The Joel Test? We also consider why unit tests aren't included in Joel's list, and whether they should be added.
+
+
+  * What version number is your website? Should websites have a version number? Our website version number will be synchronized with the Subversion revision number, so we can be sure what version we're running.
+
+
+  * A discussion of Charles Petzold's fantastic new book, [The Annotated Turing](http://www.codinghorror.com/blog/archives/001143.html). I cannot recommend this book highly enough; Petzold really makes the history and context of Turing and his seminal paper come alive. There's also a Broadway play [Breaking The Code](http://www.turing.org.uk/turing/scrapbook/btc.html) based on Turing's life.
+
+
+  * Joel has a new book, [More Joel on Software](http://www.amazon.com/dp/1430209879/?tag=codinghorror-20). Joel shares his thoughts on the merits and pitfalls of turning your blog into a book.
+
+
+  * Joel decries the groupthink of Silicon Valley, and the flight from startup to startup. Joel thinks you can have a successful, original startup anywhere on the globe. You may want to maintain a US office, however.
+
+
+  * The principle of [progressive enhancement](http://en.wikipedia.org/wiki/Progressive_Enhancement) is why AJAX is more web friendly, whereas the "rounded rectangle in a browser" model of Silverlight and Flash isn't. Embrace and extend! There are a number of fairly mature JavaScript API libraries out there now, like jQuery, Dojo, and scriptaculous.  
+
+
+
+  * Yahoo has some outstanding resources for web developers -- make sure you check out the [Yahoo Developer Network](http://developer.yahoo.com/).
+
+
+  * If you live in the New York City area, [Fog Creek Software](http://www.fogcreek.com/) is having an open house July 17th at 5 PM. It is open to all -- please attend if you are in the area!
+
+
+
+We also answered the following listener questions:
+
+
+
+
+
+
+  1. **Isaac Moses**: "How will you get people who know stuff to keep coming back to your site and answer questions?"
+
+
+
+  2. **Nicholas Kavadias**: "Do you have advice for anyone who wants to get involved in a tech startup that's not in Silicon Valley?"
+
+
+  3. **Stephen Bohlen:** "Don't AJAX approaches have a lot of the same problems as Flash and Silverlight?"
+
+
+
+
+
+If you'd like to submit a question to be answered in our next episode,  
+
+record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser.
+
+
+
+
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W13020) for this episode is available for public editing.
+
+
+
+
+[display_podcast]
+
+
+

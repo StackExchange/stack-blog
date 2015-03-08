@@ -1,0 +1,73 @@
+---
+author: alex
+comments: true
+date: 2011-08-10 20:00:59+00:00
+layout: post
+slug: se-podcast-15
+title: 'SE Podcast #15 - Michael Natkin'
+wordpress_id: 9239
+categories:
+- podcasts
+---
+
+Joining Jeff and Joel this week is [Michael Natkin](http://cooking.stackexchange.com/users/1393/michael-at-herbivoracious), from our Cooking.SE site.  Michael is especially interesting because he is a computer programmer, but he doesn't answer questions at Stack Overflow, only on the Cooking site (he's our first guest to do so!) - he also writes over at [Herbivoracious](http://herbivoracious.com/) (which he started back in 2007).
+
+Their discussion includes:
+
+
+
+	
+  * Michael is a vegetarian "foodie" (even though he really hates that word) - he and Joel commiserate over the oddities of being a vegetarian trying to eat out
+
+	
+  * Joel wants to know what type of questions usually come up on cooking (and how they maintain their 100% answer rate)
+
+	
+  * Joel thinks that you should never combine chocolate and garlic, but there's a [Cooking.SE thread that disagrees](http://cooking.stackexchange.com/questions/5737/how-to-combine-chocolate-and-garlic-in-the-same-dish)
+
+	
+  * On the topic of what questions should be closed, Jeff points to this [Electrical Engineering meta thread](http://meta.electronics.stackexchange.com/questions/770/why-are-we-so-strict-with-closing-questions-cant-we-just-keep-them-open/771#771) with a great example of why we need to keep closing questions
+
+	
+  * Kicking off a whole discussion of creating house rules - Joel and Michael jump into discussing [Momofuku](http://www.momofuku.com/) and restaurants who create dishes and refuse to alter them for guests
+
+	
+  * Jeff wants to take a deep dive into the [top question of the month](http://cooking.stackexchange.com/?tab=month) on Cooking.SE
+
+	
+  * Also interesting about Cooking.SE is that there are very few "modernist" questions on it
+
+	
+  * Make sure to check out [Modernist Cuisine](http://www.amazon.com/Modernist-Cuisine-Art-Science-Cooking/dp/0982761007) if you want to find a REALLY expensive cookbook (but its written by a patent troll, so we can't recommend it)
+
+	
+  * Michael is still seeing some good user growth with a few new faces coming in to the top users every quarter
+
+	
+  * One big question that comes up when you see a question that is salvageable but needs some work, is it better to just edit it for them or to point out the issue to them and ask them to change it
+
+	
+  * On a related note: should you point out if someone's question contains a bad assumption or is "doing it wrong" or just answer what they're looking for - check out this post on Waxy about his [favorite sandwich shop and sweet tea](http://waxy.org/2011/07/meat_cheese_bread/)
+
+	
+  * We've gone back and forth about how much promotion we should do on the individual site "brands" - ultimately we've found that we rather promote the individuals actually answering the questions and helping them build their reputations (and remember, once you make it to 2000 rep, we remove the "no-follow" from your profile URL so you get the Google juice)
+
+	
+  * We just [improved the individual site Twitter accounts](http://meta.stackoverflow.com/questions/92235/would-allowing-moderators-to-update-their-stack-exchange-sites-twitter-accounts/101340#101340) and they now tweet way more info.  New [community blog posts](http://blog.stackoverflow.com/2011/06/blog-overflow/) also show up in the header of each site so users will find out about the new posts
+
+	
+  * We also rolled out [massively improved tagging](http://blog.stackoverflow.com/2011/08/improved-tagging/) to help users better figure out what tags they should put on their questions
+
+	
+  * Should our new [CHAOS](http://meta.stackoverflow.com/questions/100137/what-is-the-meaning-of-chaos-is-it-related-to-the-psi-character) folks post their team blog on [Tumblr](http://www.tumblr.com) (to make sharing easy) or [our own platform](http://www.blogoverflow.com) (because its ours)
+
+	
+  * If you haven't checked out [our new newsletters](http://stackexchange.com/newsletters) - you can get a weekly list of the most interesting questions on any of the sites you're interested in, but don't necessarily visit every day.  As Joel says, its kind of like a free candy store!
+
+	
+  * Make sure to check out our upcoming conferences; [Stack Overflow DevDays](http://devdays.stackoverflow.com) - a two day programming conference that will cover all the new technologies you need to know about; and [Server Fault's Scalability Day](http://scalability.serverfault.com) - helping system administrators learn about massively scaling systems (with speakers from Facebook, Netflix, etc) - plus, _**save $100 off either conference with the discount code "podcast"**_
+
+
+Thanks for joining us!  We'll be on "summer vacation" for the next couple weeks, but we'll be back on August 30th @ 4pm EDT with [Anita Graser](http://gis.stackexchange.com/users/187/underdark) from [GIS.SE](http://gis.stackexchange.com) (and our first female guest!).
+
+[Stack Exchange Podcast - Episode #15 w/ Michael Natkin](http://soundcloud.com/stack-exchange/stack-exchange-podcast-15) by [Stack Exchange](http://soundcloud.com/stack-exchange)

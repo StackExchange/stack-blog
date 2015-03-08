@@ -1,0 +1,25 @@
+---
+author: Abby Miller
+comments: false
+date: 2011-08-20 15:22:05+00:00
+layout: post
+published: false
+slug: '9166799699'
+title: We like our users and want to help them.
+wordpress_id: 10551
+categories:
+- chaos
+post_format:
+- Aside
+---
+
+That’s why we’re pioneering a brand new future for them! A future involving software testers and the developers who love them.
+
+[Stack Overflow](http://stackoverflow.com) and [Game Development](http://gamedev.stackexchange.com) are communities of smart, talented programmers and developers creating more awesome new software than you can shake a stick at. [Ask Different](http://askdifferent.com), [Android](http://android.stackexchange.com), [Super User](http://superuser.com), and [Gaming](http://gaming.stackexchange.com) are communities of smart, talented users who are itching to try out some brand new stuff. So we said to ourself, “Self,” we said, “we should probably figure out a way to match these people up!”
+
+And lo, the [Stack Exchange Beta Tester Matchup program](http://meta.stackoverflow.com/questions/102582/were-ready-to-beta-test-our-beta-tester-matchmaking-program) was born… sort of. Our beta testing program is currently in its first round of beta testing. It’s propped up by some janky Google spreadsheets and the actual matching up is done by yours truly, emailing everyone and asking if they’re interested in trying stuff out. But once we’ve proven how awesome this program can be… it’s going to be baller, yo.
+
+_Baller._
+
+_
+_

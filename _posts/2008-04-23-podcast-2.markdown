@@ -1,0 +1,68 @@
+---
+author: admin
+comments: true
+date: 2008-04-23 00:56:26+00:00
+layout: post
+slug: podcast-2
+title: 'Podcast #2'
+wordpress_id: 9
+categories:
+- podcasts
+---
+
+
+This is the second episode of the StackOverflow podcast, wherein Joel and I discuss the following:
+
+
+
+
+
+
+
+  * Why have a podcast at all? What's the point?
+
+  * A discussion about some the podcasts Joel listens to: [John Dvorak](http://www.crankygeeks.com/), [Adam Curry](http://www.dailysourcecode.com/).
+
+  * StackOverflow podcast [transcription wiki](https://stackoverflow.fogbugz.com/?W4) courtesy of FogBugz
+
+  * New RSS feed at [blog.stackoverflow.com](http://blog.stackoverflow.com/), with [podcast specific RSS feed](http://blog.stackoverflow.com/?feed=podcast) courtesy of [podpress](http://www.mightyseek.com/podpress).
+
+  * Podcast feed submitted at iTunes, PodCast Alley, Yahoo Podcasts and Podcast Ready.
+
+  * Sound quality concerns (we're working on it).
+
+  * Why we require audio submissions for questions.
+
+
+
+
+We also answered the following listener questions, with a lot of peripheral discussion on related topics:
+
+
+
+
+
+
+
+  1. **Nathan Stohlmann**: How do we plan to keep religious discussions from happening on stackoverflow? will we provide a way to show implementations in multiple languages?
+
+  2. **Matt Youell**: How will we handle spam or reblogged content from stackoverflow? What about licensing issues with user-generated content?
+
+  3. **Andrew Davis**: How will we prevent stackoverflow quality from diminishing over time as the site becomes more popular?
+
+  4. **Andre Bluehs**: Should I learn C++?
+
+
+
+
+If you'd like to submit a question to be answered in our next episode, 
+record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com).
+
+
+
+The [transcript wiki](http://stackoverflow.fogbugz.com/default.asp?W12) for this episode is available for editing.
+
+
+
+[display_podcast]
+

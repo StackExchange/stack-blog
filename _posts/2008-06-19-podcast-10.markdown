@@ -1,0 +1,120 @@
+---
+author: admin
+comments: true
+date: 2008-06-19 18:46:18+00:00
+layout: post
+slug: podcast-10
+title: 'Podcast #10'
+wordpress_id: 55
+categories:
+- podcasts
+---
+
+
+This is the tenth episode of the StackOverflow podcast, wherein Joel and Jeff discuss the following:
+
+
+
+
+
+
+  * We provide some background for new listeners on what Stack Overflow will be. See [Joel's post](http://www.joelonsoftware.com/items/2008/04/16.html) and [Jeff's post](http://www.codinghorror.com/blog/archives/001101.html).
+
+
+  * Although we have ambivalent feelings about [Expert's Exchange](http://www.experts-exchange.com/), what we're doing with Stack Overflow is similar, and they do have a sense of humor -- and invited me to a conference.
+
+
+  * We will be using the [cc-wiki licensing terms](http://creativecommons.org/license/results-one?license_code=by-sa&wiki=true) for content posted on Stack Overflow.
+
+
+  * Hopefully we can ship before [Wine](http://www.uberreview.com/2008/06/15-years-of-windows-apps-in-linux-wine-hits-version-10.htm) (which just hit version 1 after 15 years) and Duke Nukem Forever. Check out [a list of things that have happened](http://duke.a-13.net/) since Duke Nukem Forever began development.
+
+
+  * I confess that I was shocked to find out, while listening to our own podcasts, I wasn't hearing everything Joel was saying! Listening is hard. Make sure you're thinking about this the next time you listen to someone.
+
+
+  * Joel has fun with [instantrimshot.com](http://www.instantrimshot.com/) and I mention [sadtrombone.com](http://sadtrombone.com/) ; these are excellent examples of the emerging classes of [single-serving websites](http://www.kottke.org/08/02/single-serving-sites).
+
+
+  * You crazy hackers figured out our super-secret beta website URL! I invite participation for the upcoming private beta, but our in-development site is not suitable for human consumption at this point. There is a special prize for those hardy few that "hacked" their way into the development site, though.  
+
+
+
+  * A brief discussion of the badges that you can earn while participating in the Stack Overflow site. [We don't need no stinkin' badges](http://en.wikipedia.org/wiki/Stinking_badges), of course, but I think they'll be fun and complimentary to the reputation system.   
+
+
+
+  * Stack Overflow edits will only be possibly for users who have earned a little bit of reputation on the site by actively participating. This is where we diverge a smidge from Wikipedia, which still (amazingly!) allows regular anonymous edits. But I think it's a reasonable compromise: anonymous people can ask and answer, but not edit.
+
+
+  * Jarrod did a tremendous job of getting our one-click build set up: it deploys the database, the code, and even runs unit tests against the website before deploying it. We're using [MSBuild](http://msdn.microsoft.com/en-us/library/0k6kkbsd.aspx) and [nUnit](http://www.nunit.org/index.php).
+
+
+  * Joel references [AntiPatterns: Refactoring Software, Architectures, and Projects in Crisis (Paperback)](http://www.amazon.com/dp/0471197130/?tag=codinghorror-20), and describes a few of the anti-patterns he's seen while developing small apps at Fog Creek for internal use.
+
+
+  * On [the dangers of being an internal IT developer](http://www.hjiang.net/wp/2008/01/05/joel-spolskys-talk-at-yale/). This is important if you love coding.
+
+
+  * One of personal favorite bits of Joel's writing, [on cleaning the toilet](http://www.codinghorror.com/blog/archives/000346.html). Naturally.
+
+
+  * Sometimes as a manager, it's your job to do the grubby, ugly stuff so the sales guys can sell and the developers can develop.
+
+
+  * We use [TortoiseSVN](http://tortoisesvn.tigris.org/) for Subversion integration as almost all other Windows developers do. But as Visual Studio developers, we've also adopted [VisualSVN](http://www.visualsvn.com/), which I highly recommend! It makes working with Subversion a pleasure instead of a chore, at least in my opinion.   
+
+
+
+  * At Fog Creek, they're switching to [Mercurial](http://www.selenic.com/mercurial/wiki/) source control, which like [Git](http://git.or.cz/) is part of the new, emerging class of distributed version control.
+
+
+  * Source control remains [the bedrock of software engineering](http://www.codinghorror.com/blog/archives/000643.html). I meet so few software developers, myself included, that really understand source control. Just [avoid SourceSafe at all costs](http://www.codinghorror.com/blog/archives/000660.html), and understand [the value of branching and merging](http://www.codinghorror.com/blog/archives/000968.html).
+
+
+  * Is there anything positive anyone can possibly say about [Windows Mobile](http://www.microsoft.com/Windowsmobile/default.mspx)? How can something six versions old be this terrible? It should be razed to the ground and reinvented, ala Zune and Xbox 360. Can [Google's Android](http://code.google.com/android/what-is-android.html) be like Windows Mobile, sans all the sucking? I expect Apple to dominate this closed ecosystem; it plays to all their strengths.  
+
+
+
+  * On [Ruby](http://en.wikipedia.org/wiki/Ruby_programming_language) performance, scaling, "enterpriseyness" and whether or not this is even the right question to ask. Shouldn't we be thinking of this in terms of the solution first, and the language as a side-effect of that?
+
+
+
+
+
+We also answered the following listener questions:
+
+
+
+
+
+
+  1. **Sebastian Dwornik**: "Doesn't the current mobile phone platform war remind you of the PC platform wars?"
+
+
+
+  2. **Loren Norman**: "When will Ruby be ready for enterprise development?"
+
+
+
+
+
+If you'd like to submit a question to be answered in our next episode,  
+
+record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser.
+
+
+
+
+
+The [transcript wiki](http://stackoverflow.fogbugz.com/default.asp?W10808) for this episode is available for public editing.
+
+
+
+
+
+[display_podcast]
+
+
+
+

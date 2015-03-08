@@ -1,0 +1,93 @@
+---
+author: admin
+comments: true
+date: 2008-09-11 05:04:57+00:00
+layout: post
+slug: podcast-21
+title: 'Podcast #21'
+wordpress_id: 95
+categories:
+- podcasts
+---
+
+This is the twenty-first episode of the StackOverflow podcast, wherein Joel and I discuss the following:
+
+
+
+
+
+
+  * Road trip! The Stack Overflow team will be visiting the Fog Creek offices in New York City from Wednesday, September 24th to Sunday, September 28th. Hopefully Joel and crew will be completely moved in by the time we arrive.  
+
+
+
+  * **We're planning to launch the Stack Overflow website to the public on Monday, September 15th**.
+
+
+  * As a [fake plastic rock enthusiast](http://www.fakeplasticrock.com/), there is another big item launching this week: [Rock Band 2](http://www.amazon.com/gp/search?ie=UTF8&keywords=rock%20band%202&tag=codinghorror-20&index=videogames&linkCode=ur2&camp=1789&creative=9325)! It's scheduled to appear Sunday September 14th. We purchased a complete set of fake plastic rock equipment, centered on Rock Band 2, to outfit the new Fog Creek offices and celebrate the newly public website.
+
+
+  * An examination of Hegel's [thesis, antithesis, synthesis](http://en.wikipedia.org/wiki/Thesis,_antithesis,_synthesis) as applied to PC and Console gaming, and perhaps everything else.
+
+
+  * I continue to believe game programming may be the most challenging and unforgiving kind of programming -- as [famously documented by one spouse](http://ea-spouse.livejournal.com/274.html) in 2004. How do you optimize for "fun"?
+
+
+  * Joel describes it as a "big universe of dumb programmers", where Stack Overflow is (intended to be) an amplifier of the small bits of signal that come out of that supernova of mediocrity. We're part of it too!  
+
+
+
+  * On the myth of expertise: fields of expertise in programming are very narrow, and it's remarkable how quickly you get off the beaten path, into techniques and apporaches that almost nobody else is trying.   
+
+
+
+  * How do you deal with users who set out to grief your system? Rather than outright banning or blocking, Joel proposes silently hiding that user's content from the world, in a way that is only visible to other users. As described in our previous podcast, the silent treatment is an incredibly powerful technique.  
+
+
+
+  * "You've got a bunch of people playing Chess, but certain people want to play 'throw the chess pieces all over the park' -- and from there it becomes a sort of wrestling and fighting game." I can't go to sleep -- [someone is wrong on the internet!](http://xkcd.com/386/)
+
+
+  * One of our 'playful' users created giant posts by entering an amusing picture of [Joseph Ducreux](http://en.wikipedia.org/wiki/Joseph_Ducreux) a hundred times, so I changed the name of his account to that. Generally these kinds of posts automatically get deleted by the community when they reach the ten vote offensive threshold -- or they could be edited away by trusted users -- but I stepped in as a moderator.
+
+
+  * The paradox of griefing is that these users are highly engaged with the system. Most people don't care and won't bother. So spending a lot of time gaming the system means you _must_ like it on some level. If you're not careful you will turn these semi-engaged users into active and purposeful enemies. Joel proposes that users with a historical record of creating problem posts automatically get their content filtered to the bottom of the pile. He draws a comparison with bartenders not dramatically cutting off drunks, but serving them non-alcoholic drinks that look exactly like real drinks.
+
+
+  * Incentives, like the badge system we use in Stack Overflow, despite being completely arbitrary, can have actual meaning in measuring and showing off your accomplishments. On the other hand, if you're not careful, you can end up with something like [the despised Microsoft Ship-It awards](http://www.joelonsoftware.com/articles/fog0000000070.html).
+
+
+  * p.s. The Conversations Network, a not-for-profit organization which hosts our podcast, is looking for sponsors for their podcasts, including this one. It would be a very modest, NPR-style intro at the beginning... "The StackOverflow Podcast is brought to you by Gummy Bears, Inc., bringing fine chewy treats to grubby children everywhere." If your company might be interested in sponsoring the podcast and becoming a hero to developers worldwide, or at least the eight developers who listen to the podcast, please [email Joel](http://www.joelonsoftware.com/EmailtheAuthor.html).
+
+
+
+
+
+We also answered the following listener question:
+
+
+
+
+
+
+  1. **Clay Nichols** of [Bungalow Software](http://www.bungalowsoftware.com/) "Did the badge idea come from Joel's experience in the Isreali military, or from Jennifer Aniston in [Office Space](http://www.imdb.com/title/tt0151804/)?"
+
+
+
+
+
+
+If you'd like to submit a question to be answered in our next episode,  
+
+record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser.
+
+
+
+
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W24224) for this episode is available for public editing.
+
+
+
+
+[display_podcast]

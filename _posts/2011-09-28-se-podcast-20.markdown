@@ -1,0 +1,57 @@
+---
+author: alex
+comments: true
+date: 2011-09-28 19:00:07+00:00
+layout: post
+slug: se-podcast-20
+title: 'SE Podcast #20 - John Siracusa'
+wordpress_id: 9950
+categories:
+- podcasts
+---
+
+Joining Jeff & Joel this week is [John Siracusa](http://arstechnica.com/author/john-siracusa/), writer for Ars Technica - he's the one who introduced Macs to the Ars world (and apparently ended up converting their entire staff into Mac users).
+
+
+
+	
+  * John didn't know who Jeff was until the Stack Overflow Podcast started. (Pop quiz: What was the podcast called before Stack Overflow was Stack Overflow?) Jeff and Joel brought everyone with them on their initial journey of setting up the site. Transparency is king.
+
+	
+  * Version numbers don't matter to Stack Overflow. There's "current" and "not current" - it's a constant work in progress. Especially if version numbers are a ploy to get everyone to buy the software again.
+
+	
+  * We are downgrading Joel to an Etch-a-Sketch, since he can't get his trackpad to work.
+
+	
+  * Good programmers have a temptation to clean up Stack Overflow, and that can lead to everything suddenly looking off-topic. One result is that we get a lot of questions closed as General Reference. The gang discusses the many ways these questions have been handled over the years. There's even a [blog post](../2011/02/are-some-questions-too-simple/) on the topic. Jeff and Joel have different interpretations of how these types of questions should be treated.
+
+	
+  * So what can be done to encourage good questions? One point of view is that a clearly no-work, no-effort question should not be rewarded with a brilliant answer. Another is that we shouldn't care about the questioner - the goal is to create a useful piece of information that makes the internet better. We're here to serve the 15 million people who get answers from the site without ever typing a word.
+
+	
+  * Weakness to be addressed: better canonical answers, better de-duping, better practices at editing questions. The answer might be... better social networking, although that's been heavily discouraged in the past. It's promotion on Other Channels that gets eyeballs onto pages. Therefore, promoting things you've written is an incentive for asking better questions and giving better answers.
+
+	
+  * We allow (and sometimes encourage) users to ask and then answer their own questions. Ask a good question when you start the project, then keep trying to figure it out yourself. In the meantime, somebody might jump in and answer your question. If not, solve the problem and add the answer yourself!
+
+	
+  * What if the system tried to parse the code you're typing a little bit? That way questions that aren't necessarily similar in their vocabulary would be more intelligently flagged as similar to other questions that are actually related.
+
+	
+  * Careers 2.0 doesn't have an applicant tracking system, which is why Stack Exchange uses Resumator for its internal hiring. Why didn't we ever think of that before!! (/dripping sarcasm)
+
+	
+  * A Mac v. Windows conversation take us 20 minutes over time, even when it isn't a heated debate!
+
+
+	
+    * (Sidebar: conversations about PCs and Windows are generally much more technical than are conversations about Macs and Apple stuff... except among developers.) The main complaint John gets about his Ars Technica articles is requests for reviews of Windows to the same level of technical detail as his Mac reviews.
+
+
+	
+  * [Follow John Siracusa on twitter](http://twitter.com/siracusa) and [listen to his podcast](http://5by5.tv/hypercritical)!
+
+
+Join us next week when Jeff and Joel are joined by David Fullerton, the head of our NY (read: SO Careers) Dev Team.  Same Place, Same Time.
+[Stack Exchange Podcast - Episode #20 w/ John Siracusa](http://soundcloud.com/stack-exchange/stack-exchange-podcast-20) by [Stack Exchange](http://soundcloud.com/stack-exchange)

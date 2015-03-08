@@ -1,0 +1,96 @@
+---
+author: admin
+comments: true
+date: 2008-09-03 18:48:45+00:00
+layout: post
+slug: podcast-20
+title: 'Podcast #20'
+wordpress_id: 94
+categories:
+- podcasts
+---
+
+This is the twentieth episode of the StackOverflow podcast, wherein Joel and I discuss the following:
+
+
+
+
+
+
+  * We figured out our deadlock problem, finally. It had to do with Log4Net being called during a database operation, itself triggering another database operation and log event. This is normally OK, but the events were happening so close together that it resulted in a deadlock.
+
+
+  * **Our new stackoverflow.com launch date is next week, as diagnosing the deadlock set us back at least four or five days.**
+
+
+  * What's your logging philosophy? Should all code be littered with .logthis() and .logthat() calls? Or do you inject logging after the fact somehow?
+
+
+  * Should you rely on third party libraries, or "[find the dependencies and eliminate them](http://www.joelonsoftware.com/articles/fog0000000007.html)"?
+
+
+  * Having the source can make the difference between a dependency that works for you, and one that works against you. This is the great strength of taking dependencies on JavaScript libraries from the web -- [you can always View Source](http://www.codinghorror.com/blog/archives/000661.html). Perhaps this is why [JavaScript is the Lingua Franca of the web](http://www.codinghorror.com/blog/archives/000857.html), and increasingly the language young people will grow up programming.
+
+
+  * One way we know Stack Overflow is already successful -- someone created a blog dedicated to hating Stack Overflow! If you can't get people to care one way or another about what you've done, you've definitely failed.
+
+
+  * When it comes to trolling, the most powerful countering technique at your disposal is to _not pay attention to it_. Which we have failed to do. My favorite literary interpretation of this is "the silent treatment" from the [Great Brain book series](http://www.amazon.com/dp/0803725906/?tag=codinghorror-20) which I read and loved as a child.
+
+
+  * We have implemented the transition point between traditional discussion board post ownership and wiki-style group ownership. The transition is forced when there are (n) edits by (n) users, or if there are (n) edits by the post owner. This rule also helps discourage people from bumping their posts by continually editing them, and reduces the perception of reputation gaming from people who try to build a large, collaborative post incorporating the comments of others.
+
+
+  * Asking good questions is difficult. There's an art to constructing a question that appeals to your target audience, yet isn't an overt attempt to pander and farm attention.
+
+
+  * Joel's biggest problem, besides dealing with New York City landlords, is getting people to _not_ do what he says just because he says so as their CEO and boss. Joel, as the big picture CEO, rarely has all the information necessary to make good, tiny, local decisions. That's your job!
+
+
+  * There are tons of existing web Q&A sites that we derive inspiration from, but we believe our more focused and directed programmer audience is what makes the difference. When the audience is very large and broad, you'll end up with things like [the baby daddy question](http://askville.amazon.com/put-baby%27s-daddy-child-support/AnswerViewer.do?requestId=9116060) and the [Georgia tanks question](http://answers.yahoo.com/question/index?qid=20080823135822AAt923R).
+
+
+  * The current beta is definitely working, in that people posting questions are getting good answers and fairly quickly -- as you can see from [Sara Chipps' report](http://girldeveloper.com/intar-social-commentary/stackoverflow-the-answer-to-quot-site-expertsexchange-quot/).
+
+
+  * Joel is in Boston at his [Business of Software 2008](http://www.businessofsoftware.org/) conference which is going on now. Joel is thinking up an introduction for [Richard Stallman](http://en.wikipedia.org/wiki/Richard_Stallman), who by any measure is a legendary figure in the software community.
+
+
+  * There's a filmmaker on site at the conference, filming footage to be incorporated into a sequel to [Project Aardvark](http://www.projectaardvark.com/) in about a year or so. However, this will be a more technical look at how software is developed at Fog Creek and perhaps a primer on some tenets of good software development.
+
+
+
+
+
+We also answered the following listener questions:
+
+
+
+
+
+
+  1. **Trey Jackson**: "Why doesn't Jeff listen to Joel? How do you keep people interested in answering questions on Stack Overflow when the volume goes up?"
+
+
+
+  2. **Martin**: "What in your experience or background has been most useful while building Stack Overflow?"
+
+
+
+
+
+
+If you'd like to submit a question to be answered in our next episode,  
+
+record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser.
+
+
+
+
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?pg=pgWiki&command=view&ixWikiPage=24222) for this episode is available for public editing.
+
+
+
+
+[display_podcast]

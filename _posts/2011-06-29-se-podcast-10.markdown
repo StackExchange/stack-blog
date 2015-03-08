@@ -1,0 +1,74 @@
+---
+author: alex
+comments: true
+date: 2011-06-29 19:00:21+00:00
+layout: post
+slug: se-podcast-10
+title: 'SE Podcast #10 - Steve Karantza'
+wordpress_id: 8618
+categories:
+- podcasts
+---
+
+Jeff & Joel are joined by Steve Karantza, better know as [Shirlock Homes](http://diy.stackexchange.com/users/386/shirlock-homes), our #1 user on the [DIY Stack Exchange](http://diy.stackexchange.com/).  Steve is also our first non-programmer oriented guest on the podcast!
+
+
+
+	
+  * Everyone wanted to know how Steve ended up on the site: turns out his son is a computer programmer who has used Stack Overflow for a while and encouraged his dad to check it out.
+
+	
+  * Steve is also a big user of [This Old House Pro](http://community.thisoldhouse.com/), a community for contractors hosted by This Old House.  The main difference is that he gets answers on This Old House but gives answers on DIY.SE.  Steve would also like to see some more contractors join DIY.SE
+
+	
+  * The number one problem he sees is people getting in over their heads.  Especially in regards to electrical and plumbing projects, people don't know or understand the codes and safety issues.
+
+	
+  * How do you know if a contractor is going to be competent and good?  Best advice is to get referrals.  And once you have them, make sure they are real, go out and actually see how the jobs came out.
+
+	
+  * If you haven't seen [There, I Fixed It](http://thereifixedit.failblog.org/), go check it out for great examples of what not to do.  Especially, never, [ever use a screwdriver as a fuse](http://thereifixedit.failblog.org/2011/06/24/white-trash-repairs-thanks-flatty/).
+
+	
+  * One great question that Steve answered was how to estimate the height of a tree: he [recommended an old logger method](http://diy.stackexchange.com/questions/7100/is-there-an-easy-way-to-measure-the-height-of-a-tree/7110#7110).
+
+	
+  * If at any point during a project you stop and think; how the heck do I do this?  It's time to stop and get advice, either from a contractor or other reliable source.  Steve relays the story of a friend who had a fixer-upper and continually called him for advice after getting stuck on a problem for 5 hours.
+
+	
+  * Ever needed to do plumbing work but don't know how to sweat pipes?  Check out [Shark Bites](http://www.sharkbite.com/) which form secure couplings without sweating.  Unfortunately - they aren't cheap.
+
+	
+  * If you want to learn how to do home improvement work: just pick a project and start it.  Some contractors will also let you help out on projects on your house instead of one of their lowest level guys (but not all contractors will let you).
+
+	
+  * Steve tried to build his first house at the early age of 22 right after he left the air force - as with all early projects, there were a LOT of lessons learned.
+
+	
+  * Jeff also related how learning building is similar to learning code: ultimately one of the best methods is to simply sit down (or stand up) with someone better than you and work on a project with them
+
+	
+  * One challenge for Steve has been learning all of the intricacies of the software and systems that make up the sites (like the difference between the [main ](http://diy.stackexchange.com/)and [meta](http://meta.diy.stackexchange.com/) sites), since he's not a computer guy.  He'd also like to see some more highly experienced people come into the site.
+
+	
+  * The writing that Steve has done on the site has also spurred his desire to keep writing and based on it, he's even talked to some of the local papers about doing an "Ask the Contractor" column.
+
+	
+  * Steve also noticed how long people continue to read and vote on his answers over time.  Joel pointed out [this question on sliding glass doors ](http://diy.stackexchange.com/questions/1054/what-are-my-options-to-replace-a-sliding-glass-door-screen)that still continues to get lots of views even though only 3 people originally answered the question.
+
+	
+  * Steve is excited about the [Gardening and Landscaping](http://gardening.stackexchange.com/) site (which is currently in public beta) - if you haven't checked it out, you should!
+
+	
+  * Steve's son Alex is also launching a new website - Axiom Home Services - to help homeowners with their home inspection questions and needs.
+
+	
+  * Coming up soon, we'll have a weekly newsletter which will recap interesting and popular questions from the week.
+
+	
+  * We just officially [announced the launch of DevDays 2011 tickets](http://blog.stackoverflow.com/2011/06/devdays-is-back/) (yeah, yeah we've talked about it before, but now its official).  As always, you can [get your tickets](http://stackoverflow.eventbrite.com/) with a $100 discount by using the code "blog"
+
+
+Join us next Tuesday for a special surprise guest!  Not to mention, audio mixing provided by our very own [Jason Punyon](http://stackoverflow.com/users/6212/jason-punyon).
+
+[Stack Exchange Podcast - Episode #10 w/ Steve Karantza](http://soundcloud.com/stack-exchange/stack-exchange-podcast-11) by [Stack Exchange](http://soundcloud.com/stack-exchange)

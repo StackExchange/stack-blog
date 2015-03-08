@@ -1,0 +1,21 @@
+---
+author: spolsky
+comments: true
+date: 2011-06-09 15:45:20+00:00
+layout: post
+slug: 1000000th-user
+title: 1,000,000th user!
+wordpress_id: 8416
+categories:
+- community
+- stackexchange
+---
+
+Like most sites, it's hard to figure out the number of users on Stack Exchange. The widest possible number is the number of unique visitors, most of whom just read our content and move on. That number is now around 19,000,000 according to Google Analytics or 14,000,000 according to [Quantcast](http://www.quantcast.com/p-c1rF4kxgLUzNc#) - the difference comes from the fact that Quantcast has some "de-dupe" technology to try to estimate the number of human beings while Google Analytics just counts unique cookies.
+
+Another number we track internally is "number of human beings who _type_ on one of the Stack Exchange sites", where we're happy to count you twice if you type on two different sites, because you're twice as awesome. And that number just hit 1,000,000, so we're very excited!
+
+Our millionth user account was created by [9monkeys](http://stackexchange.com/users/48d53062-1f52-4b00-b288-fac97414df53?tab=top) on the [GIS site](http://gis.stackexchange.com). 9monkeys will be winning a free ticket to [Stack Overflow Dev Days](http://devdays.stackoverflow.com/), travel expenses included. Congratulations!
+
+[![](http://blog.stackoverflow.com/wp-content/uploads/1000000users.png)](http://stackexchange.com/sites)
+

@@ -1,0 +1,59 @@
+---
+author: admin
+comments: true
+date: 2008-11-01 01:40:22+00:00
+layout: post
+slug: podcast-27
+title: 'Podcast #27'
+wordpress_id: 144
+categories:
+- podcasts
+---
+
+
+This is the twenty-seventh episode of the StackOverflow podcast, where Joel and Jeff interview Alexis "kn0thing" Ohanian and Steve "spez" Huffman, the founders and co-creators of Reddit.
+
+
+
+
+
+
+  * Jeff is at the Professional Developers' Conference in Los Angeles. He co-presented a session with Phil Haack on [ASP.NET MVC](http://www.google.com/url?sa=t&source=web&ct=res&cd=1&url=http%3A%2F%2Fwww.asp.net%2Fmvc%2F&ei=eRUJSdniKZKasAOxw7ibDw&usg=AFQjCNG1FWlq5gZ1lBZOIcCgJoB9yLn9pA&sig2=VpUa916wqqPdZdHr84K2Mg), which you can [view online](http://channel9.msdn.com/pdc2008/PC21/) if you are so inclined. Also while at PDC, Jeff participated in a brief roundtable meeting with [Ray Ozzie](http://en.wikipedia.org/wiki/Ray_Ozzie), who had some completely unsolicited and very positive things to say about Stack Overflow!
+
+
+  * If you didn't know, Joel was the genesis of one of the earliest branded reddits -- the [Joel on Software reddit](http://www.reddit.com/r/joel/).
+
+
+  * We discuss the Reddit [switch from Lisp to Python](http://www.aaronsw.com/weblog/rewritingreddit), and the way Reddit stored [raw user passwords in the database](http://blog.moertel.com/articles/2006/12/15/never-store-passwords-in-a-database).
+
+
+  * We use a weighting algorithm based on Reddit's when we [calculate "hotness" in Stack Overflow](http://stackoverflow.com/questions/24066/what-formula-should-be-used-to-determine-hot-questions).
+
+
+  * Reddit, like us, ran for quite a while on a single server. Moving to a second server, splitting the database, provided solid gains for Reddit and is [something we just did as well](http://blog.stackoverflow.com/2008/10/adde-a-second-server/). According to Steve, splitting off the database is easy -- making sure you can scale to multiple _application_ web servers is the difficult part, because of shared state caching.
+
+
+  * Steve is a big fan of [HAProxy](http://haproxy.1wt.eu/) which is a single software load balancer in front of all ~20 reddit servers.
+
+
+  * Reddit's first big partner is [The Independent](http://www.reddit.com/r/independent/), for branded content. Although there is also [WeHeartGossip](http://www.weheartgossip.com/). Joel and I feel these sorts of communities -- to be truly successful -- need personalities associated with them that are emblematic of the values and goals of that community.
+
+
+  * We briefly discuss some of the protection mechanisms Reddit has in place to prevent abuse and spammers. Steve and Alexis have much more experience dealing with abusive users than we do. Per Steve, the Reddit mantra is "anything goes", so they try to do as little as possible to inhibit users. We generally agree that the volume of badness is remarkably small. Most users behave responsibly -- and this isn't just an optimistic opinion, it's based on actual data. That's the good news!
+
+
+  * Behold the power of the Reddit audience: [they may just have saved the world](http://www.redditall.com/2008/08/great-idea-reddit-crowbar-for-cernlhc.html) by sending a crowbar to the CERN Hadron collider.
+
+
+
+
+
+If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser. We also have a dedicated phone number you can call to leave audio questions at **646-826-3879**.
+
+
+
+
+
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W25965) for this episode is available for public editing.
+

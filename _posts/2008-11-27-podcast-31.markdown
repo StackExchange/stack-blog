@@ -1,0 +1,91 @@
+---
+author: admin
+comments: true
+date: 2008-11-27 22:51:21+00:00
+layout: post
+slug: podcast-31
+title: 'Podcast #31'
+wordpress_id: 150
+categories:
+- podcasts
+---
+
+This is the thirty-first episode of the StackOverflow podcast, where
+Joel and Jeff discuss.. stuff!
+
+
+
+
+
+
+  * Based on some [comments from Podcast #30](http://blog.stackoverflow.com/2008/11/podcast-30/#comments), we now know that "Learning about NP-Completeness from Jeff is like learning about irony from Alanis Morissette". [It's funny because it's true!](http://www.codinghorror.com/blog/archives/001187.html)
+
+
+  * It was also noted that "[Jeff] certainly no mathematician." In my defense, I've always been very open about my lack of math skills. It's even item #3 in [my Five Things We Didn't Know About You list](http://www.codinghorror.com/blog/archives/000770.html).
+
+
+  * I noticed that someone [posted the halting problem to GetACoder.com](http://www.getacoder.com/projects/bug_finder_92913.html), so if nothing else good came of this, at least humor was delivered.
+
+
+  * How useful is math to most programmers? In other words, how often does a typical software developer use something they learned in, say, Calculus class or beyond? Joel cites the [original Google PageRank algrorithm paper](http://citeseer.ist.psu.edu/cache/papers/cs/7144/http:zSzzSzwww-db.stanford.eduzSz~backrubzSzpageranksub.pdf/page98pagerank.pdf) (pdf) and [Google's MapReduce](http://labs.google.com/papers/mapreduce-osdi04.pdf) (pdf) as good examples of math in practice for mainstream programming.
+
+
+  * I believe it's important for programmers to develop skills that aren't programming, necessarily, but that are complementary to programming, [such as graphic design](http://www.codinghorror.com/blog/archives/000849.html). (Or databases, or HTML/CSS, etcetera) Remember, good programmers write code; great programmers _steal_ code. This applies triply to design.
+
+
+  * Joel and I both believe that status reports should be treated as a "public wall", never as weapons to determine how people get paid or promoted. The single best thing I've ever read on this is [Poppendieck's Team Compensation](http://www.poppendieck.com/pdfs/Compensation.pdf) (pdf) -- which I discovered through Joel's first collection of software writing. If I could, I'd print out a copy of this and staple it to the face of every person in the world who manages software developers. Yes, it really is that good. Go read it!
+
+
+  * One team at Fog Creek instituted a daily standup meeting for their project, which is a staple of most agile development approaches. In addition to the "Daily Kiwi" convention, Fog Creek also use a locally hosted instance of [Laconica](http://laconi.ca/), an open source [Twitter](http://twitter.com/) clone. It's certainly an interesting [alternative to email](http://www.codinghorror.com/blog/archives/001191.html).
+
+
+  * Joel believes most small to midsize software companies will deal with an economic downturn by (temporarily) deferring development of new versions of their products. For companies that have a lot of "extra" staff, the economy might be an excuse to get rid of the worst performing 10% of your employees.
+
+
+  * Joel justifies having a nice office space as 1) a recruiting tool 2) enabling higher programmer productivity and 3) the cost of a nice office space is a tiny number relative to all your other expenses running a company. I argue that companies which don't intuitively understand why nice office space is important to their employees who spend 8+ hours every day there.. well, those companies taren't smart enough to survive anyway.
+
+
+  * My favorite Stack Overflow question this week is [Are Parameters really enough to prevent Sql injections](http://stackoverflow.com/questions/306668/are-parameters-really-enough-to-prevent-sql-injections)? Joel and I have a long discussion about the importance of parameterized SQL, both for performance and for security (beware [Little Bobby Tables](http://xkcd.com/327/)!). But you should know that it's not 100% foolproof; it is possible (though rare) to have latent SQL injection exploits even when fully parameterized.
+
+
+  * Joel's favorite Stack Overflow question this week is [How do you pull yourself out of a programming 'slump'](http://stackoverflow.com/questions/273299/how-do-you-pull-yourself-out-of-a-programming-slump)? Joel knows tons of programmers who have burned out by age 50, and feels it is rare to find programmers who have written code for 20 to 30 years. Joel's article [Fire and Motion](http://www.joelonsoftware.com/articles/fog0000000339.html) and my article [Moving The Block](http://www.codinghorror.com/blog/archives/000176.html) sort of cover this topic. Joel also recommends the book [Death March](http://www.amazon.com/dp/013143635X/?tag=codinghorror-20) as a reference book for what to avoid.  
+
+
+
+
+
+We answered the following listener questions in this episode:
+
+
+
+
+
+
+  * **Mike Akers**: "How much time should programmers be spending in Photoshop?"
+
+
+  * **David from the UK**: "How do you handle status reports at Fog Creek?"
+
+
+  * **Matthew Glidden**: "How do you run a software company in lean economic times?"
+
+
+
+
+If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser. We also have a dedicated phone number you can call to leave audio questions at
+**646-826-3879**.
+
+
+
+
+
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W26423) for this episode is available for public editing.
+
+
+
+
+
+
+[display_podcast]
+

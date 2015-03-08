@@ -1,0 +1,62 @@
+---
+author: alex
+comments: true
+date: 2011-10-19 19:00:36+00:00
+layout: post
+slug: se-podcast-23
+title: 'SE Podcast #23 - James Portnow'
+wordpress_id: 10072
+categories:
+- podcasts
+---
+
+Our guest today is [James Portnow](https://twitter.com/#%21/JamesPortnow) of [Extra Credits](http://www.penny-arcade.com/patv/show/extra-credits). We are also joined in the studio by [David Fullerton](http://meta.stackoverflow.com/users/146719/david-fullerton).
+
+
+
+	
+  * James Portnow is joining us! [Extra Credits](http://www.penny-arcade.com/patv/show/extra-credits) has been a thing for a few years. The idea struck back when James was working at Activision. He wanted to open up the conversation about game development and design to the consumer side, instead of continuing to speak in the industry-centric bubble.
+
+	
+  * At Stack Exchange, we're trying to make learning fun. All of the gamification that we do on the system is in service to the goal of making the internet a better place for learning.
+
+	
+  * Extra Credits did an episode about gaming addiction, which is related to the reason for the reputation cap on Stack Exchange sites.
+
+	
+  * Stack Exchange has sites for [gamers](http://gaming.stackexchange.com/) and [game developers](http://gamedev.stackexchange.com/)! The Game Development site is distinct from Stack Overflow because developing a game is a bigger set of activities than just writing code.
+
+	
+  * Gamification is a way to get users to "read the manual", and get them to the point where they don't need the gamification aspects anymore at all.
+
+	
+  * Games like Simon and Dragon's Lair don't give you any choice or control. Games provide positive simulation in various ways - by feeling like you're acquiring a skill, by keeping things neat in Tetris, or on Stack Exchange, seeing somebody vote up something you wrote.
+
+	
+  * [One Chance](http://www.awkwardsilence.co.uk/OneChance.html) is a flash game with an interesting mechanic: it leaves a cookie that prevents you from playing the game again. It's an interesting concept on the bleeding edge of game design.
+
+	
+  * The dark side of gamification... is conditioned actions that make players continue to play FarmVille, slot machines, some MMOs, etc. Players become aware that they are not enjoying the experience, but they are compelled to continue nonetheless.
+
+	
+  * The danger in the [Khan Academy](http://en.wikipedia.org/wiki/Khan_Academy) is that for the American education system, this is the way to reduce our budget: have people record videos and have other people learn via these gamified websites. This is James's concernabout the Khan Academy.
+
+	
+  * When gamifying education, everybody should start off at 1 and work up from 1 - _not_ get docked points down from A+ or whatever. You also have to incentivize the class to help get each other's points up, not just each individual's own points. A high sense of agency is the sense of having control over your own existence and the world around you. When a student falls behind a little bit and does not feel like he or she can catch back up, they lose their sense of agency, and it becomes a monumental task to get the student back on track. Games teach us that outcome is directly related to our own actions, but with more instant results. (Programming is another way to demonstrate this direct impact.)
+
+	
+  * Joel peeled hard boiled eggs in the Israeli Army, so you can cross that off your Podcast Bingo card.
+
+	
+  * James is the hero in his own story. Games teach you that you can always win, and that nothing is unachievable. We will close on that hopeful note! James can be found @[JamesPortnow](http://twitter.com/jamesportnow) or @[ExtraCreditz](http://twitter.com/extracreditz) on Twitter, or over at [Extra Credits](http://www.penny-arcade.com/patv/show/extra-credits).
+
+	
+  * Oh, right, news from Stack Exchange: David, interim CTO while Jeff is on vacation, has no news. Except that we have a [mascot](../2011/10/meet-bubbles/) now. (David had nothing to do with it.) Also, Jeff will be speaking at [Oredev](http://oredev.org/2011), which is November 7-11, and Punyon should probably go with him.
+
+	
+  * Oh, yeah! We have our own URL shortener! It's [s.tk](http://s.tk/). Check out [s.tk/joel](http://s.tk/joel) and you'll pick up the gist.
+
+
+Make sure to tune in next week when our guest is Eric Ries.
+
+[Stack Exchange Podcast - Episode #23 w/ James Portnow](http://soundcloud.com/stack-exchange/stack-exchange-podcast-23) by [Stack Exchange](http://soundcloud.com/stack-exchange)

@@ -1,0 +1,84 @@
+---
+author: admin
+comments: true
+date: 2008-11-06 04:06:57+00:00
+layout: post
+slug: podcast-28
+title: 'Podcast #28'
+wordpress_id: 146
+categories:
+- podcasts
+---
+
+
+This is the twenty-eighth episode of the StackOverflow podcast, where
+Joel and Jeff discuss Windows Azure, SQL Server 2008 full text search, Bayesian filtering, porn detection, and project management -- among other things. 
+
+
+
+
+
+
+  * Jeff met the inestimable [Joey DeVilla aka Accordion Guy](http://www.joeydevilla.com/) at PDC, who challenged him to pronounce Azure as in ["Windows Azure"](http://www.microsoft.com/azure/windowsazure.mspx). My pronunciation reference for Azure is entirely based on the word appearing in the movie [A Clockwork Orange](http://www.imdb.com/title/tt0066921/).
+
+
+  * Joel and I greatly enjoyed Corey Trager's [Jeff Atwood is Trying to Kill Me](http://ifdefined.com/blog/post/2008/10/Jeff-Atwood-is-trying-to-kill-me.aspx). We do try to exploit the Jewish / Goyish dynamic. Also, Jeff is sorry he tried to kill you, but glad you survived to write that highly entertaining article.
+
+
+  * We are still struggling with [SQL Server 2008 full text search issues](http://blog.stackoverflow.com/2008/11/sql-2008-full-text-search-problems/). And yes, we have engaged with the SQL Server team on this.
+
+
+  * Joel's Inc. magazine article about Stack Overflow is now on newsstands (it's the issue with Kevin Rose of Digg on the cover). The article is also online as well: [How Hard Could It Be? The Unproven Path](http://www.inc.com/magazine/20081101/how-hard-could-it-be-the-unproven-path.html).
+
+
+  * We have worked closely with [Brent Ozar](http://www.brentozar.com/), who has singlehandedly took it upon himself to be our Stack Overflow database ninja. He's gone far, far beyond what I would ever expect a volunteer to do -- so we've added him as an official member of our virtual team. And if you need SQL Server expertise, Brent is your man.
+
+
+  * Microsoft finally fixed their bizarre position on hotfixes. Instead of the bad old days of mandatory phone calls and requests, you can simply [download the hotfix you need](http://support.microsoft.com/search/?adv=1).
+
+
+  * One limitation of Linq to SQL is that it does not support any SQL Server full text search predicates. Fortunately, we can freely intermix SQL strings and Linq syntax as much as we like.
+
+
+  * Joel points out that [Google uses Bayesian filtering the way Microsoft uses an if statement](http://www.joelonsoftware.com/items/2005/10/17.html). We worry that Microsoft doesn't adapt their software well enough to the wider internet world, as demonstrated by the radically differing approaches to spellcheck from both companies.
+
+
+  * We aren't clear what the purpose of Microsoft's new "Oslo" or [M modelling language](http://www.cio.com/article/457530/Exploring_Oslo_s_Modeling_Language_Promises), announced at PDC, is. More domain specific languages? Every developer becomes a language designer? Why does that scare me a little?
+
+
+  * Ray Ozzie made specific reference to "architecture astronaut" at PDC, which is extra humorous because Joel was referring to Ozzie [when he coined the term](http://www.joelonsoftware.com/articles/fog0000000018.html).
+
+
+  * Joel remembers Hillel Cooperman, who used to be a star at Microsoft, but now works for [Jackson Fish Market](http://www.jacksonfish.com/).
+
+
+  * One Stack Overflow question we enjoyed this week: [Showing too much 'skin' detection in software](http://stackoverflow.com/questions/263380/showing-too-much-skin-detection-in-software). The definitive debunking of this technique is from Dan of Dan's Data, who [reviewed PORNsweeper in 2000](http://www.dansdata.com/pornsweeper.htm). We don't believe the technical landscape has changed since then. Great discussion on Stack Overflow as well.
+
+
+  * Joel refers to the famous 1994 memo from [Steve Sinofsky](http://en.wikipedia.org/wiki/Steven_Sinofsky) -- [Cornell is WIRED!](http://www.cornell.edu/about/wired/) Steve started as Bill Gates' assistant, and now he's in charge of Windows 7 after shipping Office 2007.
+
+
+  * Another Stack Overflow question we enjoyed this week: [What do project managers do all day?](http://stackoverflow.com/questions/229257/what-do-project-managers-do-all-day) We're not sure why the owner keeps deleting this question, as we think the answers have a lot of value. Joel also has a lot to say on the general topic of project management.
+
+
+
+
+
+If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/)
+using nothing but a telephone and a web browser. We also have a
+dedicated phone number you can call to leave audio questions at
+646-826-3879.
+
+
+
+
+
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W25972) for this episode is available for public editing.
+
+
+
+
+
+
+[display_podcast]

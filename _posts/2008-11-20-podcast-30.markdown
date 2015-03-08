@@ -1,0 +1,87 @@
+---
+author: admin
+comments: true
+date: 2008-11-20 06:59:36+00:00
+layout: post
+slug: podcast-30
+title: 'Podcast #30'
+wordpress_id: 148
+categories:
+- podcasts
+---
+
+
+This is the thirtieth episode of the StackOverflow podcast, where Joel and Jeff sit down with Richard White of [uservoice.com](http://uservoice.com/).
+
+
+
+
+
+
+  * Richard worked as the user interface guy on calendar startup [Kiko.com](http://www.kiko.com/); UserVoice was originally inspired by Richard's work on Kiko, as a hybrid of [Reddit](http://www.reddit.com/) and [FogBugz](http://www.fogcreek.com/FogBugz/).
+
+
+  * There are some thematic similarities between [Dell's IdeaStorm](http://www.ideastorm.com/) and [My Starbucks Idea](http://mystarbucksidea.force.com/ideaHome) and UserVoice -- to some degree, UserVoice is users voting on the direction your software should take. Does software democracy work?
+
+
+  * UserVoice isn't just for software -- there's also [Obama CTO](http://obamacto.uservoice.com/) and [Rebuild The Party](http://rebuildtheparty.uservoice.com). This generated huge load and traffic, so if nothing else it was a good scaling test. The usual item has a maximum of 50 comments; one suggestion had 980 comments.
+
+
+  * Our use of UserVoice is a bit anomalous; I prefer to (politely) decline requests that I think we won't get to. Is it more honest to let [reasonable requests like this one](http://weblogs.asp.net/KDente/archive/2005/03/13/394499.aspx) languish in the system for literally years, ala Microsoft's Connect, then to find out that they've been set to "wontfix" after 3 years? As a user myself, I find this behavior abhorrent.
+
+
+  * We do plan to talk a bit less about building Stack Overflow and a bit more about our favorite questions on Stack Overflow.
+
+
+  * Joel's favorite Stack Overflow question this week is [What Tricks Do You Use to Get Yourself "In The Zone"?](http://stackoverflow.com/questions/297037/what-tricks-do-you-use-to-get-yourself-in-the-zone)
+
+
+  * UserVoice is a Ruby on Rails app, with approximately 6,000 lines of code. A large portion of that is unit tests.  
+
+
+
+
+  * Jeff's favorite Stack Overflow question is [What is an NP-Complete Problem](http://stackoverflow.com/questions/210829/what-is-an-np-complete-problem). This is a followup to [the blog post](http://www.codinghorror.com/blog/archives/001187.html) where I demonstrate a sadly incomplete understanding of the concept of being NP-complete.
+
+
+  * Joel notes that there are harder problems than NP-Complete, namely the halting problem. There's a great Stack Overflow question on this, [The Halting Problem in the Field](http://stackoverflow.com/questions/235984/the-halting-problem-in-the-field)
+
+
+  * There are a lot of very hard problems in computer software that aren't necessarily NP-complete -- and we've had limited success "solving" them, such as speech and voice recognition. Furthermore, if the best algorithm we can come up with is something like n-cubed, is that a realistic solution?
+
+
+  * UserVoice will be using Jan Rain's [RpxNow](https://rpxnow.com/) to implement OpenID. We wondered how [myopenid.com](https://www.myopenid.com/) would make money; their RpxNow service is the answer to that question. Now uservoice can mark that item off [their own uservoice page](http://uservoice.uservoice.com/) -- it's the [#2 most requested feature](http://uservoice.uservoice.com/pages/general/suggestions/55) by customers of User Voice.
+
+
+
+
+We also answered the following listener question:
+
+
+
+
+
+
+  1. **Chris Conway**: "After 26 episodes of the podcast, will you ever take a turn to less self-reflexive discussion?"  
+
+
+
+
+
+
+If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser. We also have a dedicated phone number you can call to leave audio questions at **646-826-3879**.
+
+
+
+
+
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W25975) for this episode is available for public editing.
+
+
+
+
+
+
+[display_podcast]
+

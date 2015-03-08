@@ -1,0 +1,48 @@
+---
+author: alex
+comments: true
+date: 2011-08-31 19:00:16+00:00
+layout: post
+slug: se-podcast-16
+title: 'SE Podcast #16'
+wordpress_id: 9678
+categories:
+- podcasts
+---
+
+So it's been a couple weeks since our last podcast, but Jeff & Joel are back and ready to catch up on everything they missed.  There's no guest this week, just 60+ minutes of that Jeff & Joel banter that (we hope) you've grown to love.
+
+
+
+	
+  * Jeff and Joel discuss “Zombie Poke,” aka [facebook.stackoverflow.com](http://facebook.stackoverflow.com) deal in depth and dispel rumors of receiving a “dump truck of money.” [Details of the deal](http://blog.stackoverflow.com/2011/08/facebook-stackoverflow/) are discussed, from what the new feature accomplishes and how it came about.
+
+	
+  * Jeff also discusses the state of online identity and the issues that arise with having multiple logins.
+
+	
+  * Joel explains why he thinks Facebook might be the new AOL.
+
+	
+  * Jeff relays a story about a Stack Exchange user who devised a clever way to get his dad involved in the [Bicycles Stack Exchange](http://bicycles.stackexchange.com). Joel wonders if this, or something similar, should be undertaken by CHAOS.
+
+	
+  * The duo discusses which Stack Exchange sites don’t meet their personal expectations. The hit list includes Super User, Writing, and Gaming. Jeff goes into depth about his issues with [Gaming.SE](http://gaming.stackexchange.com), even though it's the fifth most trafficked site.
+
+	
+  * Joel talks about the [myth that reputation](http://blog.stackoverflow.com/2011/08/reputation-not-rep/) affects programmers’ career opportunities.
+
+	
+  * A question from the chat room about the Publicist badge spurs discussion about sharing questions on the internet and how it relates to Stack Overflow.
+
+        
+  * We discuss [the state of Community Wiki](http://blog.stackoverflow.com/2011/08/the-future-of-community-wiki/). If you're looking for a good example of a community wiki _answer_, look no further than [How do I diagnose not being able to reach a specific website as an end user?](http://superuser.com/questions/231977/how-do-i-diagnose-not-being-able-to-reach-a-specific-website-as-an-end-user/231980#231980)
+	
+  * And of course, if you enjoy the Stack Exchange podcast, make sure to check out the [Ask Different Podcast](http://podcast.askdifferent.net/) - hosted by our [Ask Different ](http://www.askdifferent.com)(aka apple.stackexchange) moderators!
+
+
+We're back on our regular schedule now, so tune in next week for another great episode!
+
+
+
+[Stack Exchange Podcast - Episode #16](http://soundcloud.com/stack-exchange/stack-exchange-podcast-16) by [Stack Exchange](http://soundcloud.com/stack-exchange)

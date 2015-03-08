@@ -1,0 +1,50 @@
+---
+author: admin
+comments: true
+date: 2010-02-20 07:45:14+00:00
+layout: post
+slug: podcast-84
+title: 'Podcast #84'
+wordpress_id: 2760
+categories:
+- podcasts
+---
+
+Joel sits down with the Stack Exchange team, who are working on the hosted version of Stack Overflow at the Fog Creek offices in New York City.
+
+
+
+	
+  * Meet the [Stack Exchange](http://stackexchange.com/) team -- David Fullerton, Aaron Maenpaa, and Emmett Nicholas.
+
+	
+  * For Stack Exchange sites that have a smaller community, Stack Exchanges may email users more aggressively, to invite users to answer less trafficked SE questions. Joel proposes that weekly roll-up emails might work well on smaller Stack Exchange sites.
+
+	
+  * Stack Exchange is a hosted service; it's currently running on 2.5 servers and soon a third.
+
+	
+  * Stack Exchange has an export feature, so all the data in your site can be dumped out to a file, similar to the way the [monthly Stack Overflow cc-wiki data dumps](http://blog.stackoverflow.com/category/cc-wiki-dump/) work.
+
+	
+  * Joel blogged about [Stack Overflow looking for venture capital](http://www.joelonsoftware.com/items/2010/02/14.html) -- that should not affect Stack Exchange. In any case, even if it did, you can use your own domain name which you take with you, and as mentioned above, you can export all your data. There should be competition, and smart competitors will support the Stack Overflow and Stack Exchange export formats.
+
+	
+  * Stack Exchange pricing is already at maximum, primarily to reduce demand to a level that the current SE team can support. It can only go down over time! It is definitely our goal to make it easier over time for everyone who wants a Stack Exchange site to have one. We're exploring a lot of possibilities including ad subsidized; it's also possible that larger corporate adoption of Stack Exchange may subsidize the smaller community sites as well.
+
+	
+  * Right now every Stack Exchange site has its own IIS website (even though they all share the same app pool), but that turns out to be not a great performance model for lots of small sites.
+
+	
+  * One of the Catch-22s of a Stack Exchange site is that fundamental actions like voting up and creating tags require reputation, but nobody has any reputation on a new site. The Stack Exchange team added a "bootstrap mode" which relaxes a lot of these requirements so you can get your site up and running.
+
+	
+  * David notes that a smooth admin / owner setup process is essential to the Stack Exchange service model. You also can't have a ghost town -- you need some questions bootstrapped into the system before you even show it to the broader public. This is analogous to the private invitation-only betas we did for Stack Overflow, Super User, and Server Fault.
+
+	
+  * If you'd like to provide additional feedback to the Stack Exchange team, we encourage you to visit [Meta Stack Exchange](http://meta.stackexchange.com/) and help us dogfood our own system.
+
+
+If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser. We also have a dedicated phone number you can call to leave audio questions at **646-826-3879**.
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W29177) for this episode is available for public editing.

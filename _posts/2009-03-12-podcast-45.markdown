@@ -1,0 +1,80 @@
+---
+author: admin
+comments: true
+date: 2009-03-12 06:59:18+00:00
+layout: post
+slug: podcast-45
+title: 'Podcast #45'
+wordpress_id: 827
+categories:
+- podcasts
+---
+
+This is the 45th episode of the StackOverflow podcast, where Joel and Jeff discuss what a program manager does, the value (or lack thereof) of a functional spec and vision statement, building developer community, and planning your development time.
+
+
+
+	
+  * Joel and I will be at the upcoming [MIX09](http://2009.visitmix.com/) conference. We're also trying to set up a live podcast there on Tuesday, March 17th in the evening.
+
+	
+  * Joel's essay [How to be a Program Manager](http://www.joelonsoftware.com/items/2009/03/09.html) attempts to explain the essential role this person plays on a software project. It's a shame the job has such a nebulous title.
+
+	
+  * Is writing a functional spec at the heart of agile development? What is a spec, exactly? There has to be something between sitting down and pounding out the code with no planning whatsoever, and meticulously, bureaucratically documenting every tiny detail of your application.
+
+	
+  * Not all storyboarding has to be painful. Wireframing the user interface with tools like [Balsamiq](http://www.balsamiq.com/) can take the pain out of a lightweight "functional spec". Describe every screen, and have some annotations about how stuff is supposed to work. I call this [UI-first software development](http://www.codinghorror.com/blog/archives/001091.html).
+
+	
+  * The often cited article [No Functional Spec](http://www.37signals.com/svn/archives/001050.php) doesn't _actually_ mean no functional spec, if you read it closely. At least in our interpretation of the text.
+
+	
+  * [Can your team pass the elevator test?](http://www.codinghorror.com/blog/archives/000962.html) You also need a vision statement or "elevator pitch". Everyone on your team should be able to explain what your application does, in a few simple paragraphs, to a layman. If they can't, it's sign of deeper problems on your project.
+
+	
+  * The book [Dreaming in Code](http://www.amazon.com/dp/1400082463/?tag=codinghorror-20), which documents the [Chandler project](http://chandlerproject.org/), might be a good example of a project that [had a vision statement](http://chandlerproject.org/vision) that hurt the project instead of helping. It described where they wanted to go, but not how they planned to get there. [Flock](http://flock.com/) might be another example -- what does "we're a social web browser" _mean?_
+
+	
+  * Dave Winer maintains that, if you read the description of some new technical thing and can't understand it after the first readthrough.. it ultimately isn't important and can be safely ignored.
+
+	
+  * [Has Joel Spolsky been honest about his time at Microsoft?](http://www.reddit.com/r/programming/comments/82s16/has_joel_spolsky_been_honest_about_his_time_at/) Realize that [the article in question](http://www.joelonsoftware.com/articles/TwoStories.html) is one of Joel's first non-blog blog posts, way back in 2001, describing something that happened in 1992. So it's ancient history. Joel maintains that [Greg Whitten's 2005 email](http://www.classiccmp.org/pipermail/cctech/2005-April/042999.html) is simply the other half of the story. There's no conflict, just two sides of the same coin.
+
+	
+  * For all the talk about how Reddit comments have degenerated, we felt the [programming reddit](http://www.reddit.com/r/programming/) comments on the [Joel article](http://www.reddit.com/r/programming/comments/82s16/has_joel_spolsky_been_honest_about_his_time_at/) were generally quite insightful.
+
+	
+  * Joel and I are big fans of [Hacker News](http://news.ycombinator.com/). Although I have [criticized the lack of downvotes in the Hacker News system](http://blog.stackoverflow.com/2009/03/the-value-of-downvoting-or-how-hacker-news-gets-it-wrong/), it's important to note that there is a secret cabal of 30 editors that will kill flagged articles. So it's not entirely subject to the whims of user voting, either.
+
+	
+  * Joel thinks that every hacker who maintains a community comes up with a manifesto that puts them squarely in Clay Shirky [a Group is its Own Worst Enemy](http://www.shirky.com/writings/group_enemy.html) land. Even he has done it, with [Building Communities With Software](http://www.joelonsoftware.com/articles/BuildingCommunitieswithSo.html). You have to make very different decisions based on the size and the composition of the group at any particular time.
+
+	
+  * Joel and I both [dislike threaded discussion formats](http://www.codinghorror.com/blog/archives/000733.html). When I delved back into threaded discussion this week on the programming Reddit and Hacker News I was reminded how awkward they are. I think developers have a myopia about tree structures, which are incomprehensible to the average person but a daily part of their programming work.
+
+	
+  * I was shocked to discover that SQL Server will sometimes look at a parameterized query and come up with an incredibly bad query plan, which it will then store in the query cache, and (even worse!) use over and over! The trick is to use the [optimize for unknown](http://blogs.msdn.com/sqlprogrammability/archive/2008/11/26/optimize-for-unknown-a-little-known-sql-server-2008-feature.aspx) hint, which tells the query plan generator to use a statistical sampling of potential inputs rather than basing its decisions on whatever random parameter happened to be passed in the first time.
+
+	
+  * On getting developers to come up with realistic schedules -- first of all, always think in terms of coaching rather than punishment. Punitive measures never work. We recommend following Joel's advice on [evidence based scheduling](http://www.joelonsoftware.com/items/2007/10/26.html), which opens with "break it down".
+
+
+We answered the following listener questions on this podcast:
+
+	
+  1. **Nik Reiman**: "What about Stack Overflow for IT questions that aren't programming related?"
+
+
+Our favorite Stack Overflow qustions this week are:
+
+	
+  * [How to Deal with Chronic Time Issues?](http://stackoverflow.com/questions/612892/how-to-deal-with-chronic-time-issues) Apparently, beatings will continue until morale improves.
+
+
+If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser. We also have a
+dedicated phone number you can call to leave audio questions at **646-826-3879**.
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W29035) for this episode is available for public editing.
+
+[display_podcast]

@@ -1,0 +1,30 @@
+---
+author: Aarthi Devanathan
+comments: false
+date: 2011-11-03 21:17:36+00:00
+layout: post
+published: false
+slug: '12296496289'
+title: People are basically good...right?
+wordpress_id: 10545
+categories:
+- chaos
+post_format:
+- Image
+---
+
+Some of you might recall that we’ve been reading [Here Comes Everybody](http://www.amazon.com/Here-Comes-Everybody-Organizing-Organizations/dp/0143114948%3FSubscriptionId%3DAKIAIIBINOD46VC3JCLQ%26tag%3Dstackoverfl08-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0143114948), by Clay Shirky. In Chapter 11, he talks about the nature of human behavior: “[People] are basically good, when they are in circumstances that reward goodness while restraining impulses to defect” (Shirky 284).
+
+Now, for most of us this feels obvious. It’s intuitive — if you don’t have a reason to act like a good person, why would you? Places like 4chan and, well, any unmoderated internet comment/forum section will literally prove this over and over again. It’s why we have trolls! In all fairness, that behavior results from a _combination_ of no accountability plus anonymity. It’s the [GIFT](http://www.penny-arcade.com/comic/2004/3/19/) that keeps on giving.
+
+That said, this is also a principle that [economic game theory](http://en.wikipedia.org/wiki/Game_theory) proves. When given the option to be honest or to cheat (say, with investments) most people will cheat their clients, because the reward from cheating almost always outweighs the costs. _In the short term._.
+
+Now, this is true 100% of the time when the game is played in a single round. When you add multiple rounds to this game, the person who _will_ defect won’t do so until the last round.
+
+So, in an infinite game, the defecting player won’t act against your self-interest until the end. Except there is no end! So they always act in your interest.
+
+I know, it sounds circular, but bear with me. Ultimately, this is, effectively, a model of day-to-day business (and, by extension, social) interactions. No broker knows that the transaction they are handling is going to be the last one. There’s a risk of future lost revenue, even when it all gets [discounted](http://en.wikipedia.org/wiki/Discounting) and adjusted for time.
+
+So how can you make sure that you’re not cheated? Always act like this is this first of multiple rounds, the number of which even you don’t know. Act like your relationship will extend into perpetuity and people will act in their self-interest, which will ultimately also be yours.
+
+

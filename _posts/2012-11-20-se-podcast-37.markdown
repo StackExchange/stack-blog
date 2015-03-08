@@ -1,0 +1,58 @@
+---
+author: alex
+comments: true
+date: 2012-11-20 17:36:29+00:00
+layout: post
+slug: se-podcast-37
+title: 'SE Podcast #37 - Back At It, Again'
+wordpress_id: 12537
+categories:
+- podcasts
+---
+
+Welcome back!  We're actually back to a fairly normal podcast this week and want to bring you back up to speed on Stack Exchange after our adventures the last few weeks.  What's on the agenda? What's new this week?
+
+
+
+	
+  * Starting with the review queue and its new segment: the reopen queue! It's exactly what it sounds like (the reverse of the close queue). David and Jay walk Joel through the review queue and its features.
+
+	
+  * One of the problems with the review queue is people clicking "Looks good" all the way through just so they can get a badge. Who would do such a thing?
+[Spoiler alert: We will talk about the review queue for a really long time.]
+
+	
+  * Ideally we want to teach you, instead of building something that quietly ignores you when you do something wrong. In certain queues, we use fake review items that catch you when you choose the wrong option.
+
+	
+  * There are lots of conversations about this going on on Meta, and we'll continue to look at the issues and work on solving them so we can fix this part of the game. (Remember flag weight?)
+
+	
+  * The other new item on the review queue is the Community Evaluation queue, aka the "Judge Your Site" queue. It's meant to replace the site self-evaluation meta post, which Joel tells us all about. It's currently live on Ask Ubuntu and will soon be tested on other sites. Coming soon to a site near you!
+
+	
+  * [Money](http://money.stackexchange.com) and [OnStartups](http://answers.onstartups.com) have very high quality competition, so they are at a disadvantage no matter how dedicated their users are. They're good sites, but they may be stuck in beta for a while.
+
+	
+  * Another example of this is [Judaism](http://judaism.stackexchange.com/). The answers are all excellent, and the best on the internet on the subject. It's very small, but it's growing.
+
+	
+  * Sites need to go "beyond the blogs" - to find content that nobody would ever bother to write a blog post about. The Money site can't compete with all the excellent finance blogs on the internet, so it has to go beyond them.
+
+	
+  * People who care about our sites should be focusing on writing great answers that make the internet a truly better place, and not on pleasing every single asker that has a little question.
+
+	
+  * We've only got through one of the things on our list so far. We'll try one more. Not SSL; it'll be even more boring, especially for the people who made it this far.
+
+	
+  * Also Michael Pryor and his wife just had a baby!
+
+	
+  * We beat Hurricane Sandy back with a stick, so we're having a victory party tonight. (Stack Exchange skipped town, but helped a little bit, so we get to go.)
+
+	
+  * If you tune in next week, you'll hear about hats, our struggles and/or victory with SSL and possible ensuing party, and our victory over the German language.
+
+
+

@@ -1,0 +1,58 @@
+---
+author: alex
+comments: true
+date: 2012-10-23 14:15:15+00:00
+layout: post
+slug: se-podcast-34
+title: 'SE Podcast #34 - Kyle Brandt and Nick Craver'
+wordpress_id: 12420
+categories:
+- podcasts
+---
+
+On the show this week are Kyle Brandt and Nick Craver, two SE employees who are heading up our systems upgrades and relocations - they'll dish all kinds of details on our infrastructure, plus plenty of chat about other mildly relevant things.
+
+
+
+	
+  * First up on the agenda: Quantcast! Five minutes before we started recording, we noticed that Quantcast is ranking our network at #100! (or at least we were for a bit)
+
+	
+  * If all that additional traffic should cause our New York data center to go down, what will happen, Kyle? Great segue, Joel! We are working on a system for failing over to our datacenter in Corvallis, OR.
+
+	
+  * Our New York datacenter is also out of room for us, so we needed to have a failover system in place so the sites could stay up while we move all the equipment to the new datacenter.
+
+	
+  * Nick Craver runs at a hundred degrees, no problem. (Extensive conversation about temperature in datacenters ensues.)
+
+	
+  * Google [opened up its datacenters via Street View](http://www.theverge.com/2012/10/17/3515714/google-data-centers-street-view), by the way. Cool.
+
+	
+  * Now back to more details about the failover. The word "splurt" is used. Eventually Joel lays out the whole process step by step. In the ideal situation, when our failover is planned ahead of time and not due to sudden meteor attack, the whole thing should take between five and fifteen minutes. Afterwards, we come up in read-only mode, at which point someone can manually switch us back into normal mode - or not!
+
+	
+  * Nick walks us through the sweet new equipment in the Corvallis datacenter. (How much would you pay for one of our original servers, hand-built and signed by @codinghorror?)
+
+	
+  * When we DO fail over to Oregon, the moderators come with us! And they love Stephen King movies! What a segue.
+
+	
+  * We've got a new [Genealogy site](http://genealogy.stackexchange.com/), and it's hard to spell, but the site is doing really well.  There are some [very interesting questions](http://genealogy.stackexchange.com/questions/157/how-should-i-record-sex-change-gender-reassignment) on the Genealogy site, about many issues related to genealogy: how to use its software, how to find information, whether to distribute sensitive family information, etc.
+
+	
+  * Robotics is coming soon! We'll look back on this launch as the beginning of the end when Skynet becomes self-aware.
+
+	
+  * We now segue, awkwardly, to the topic of moderators. We've got 275+ moderators.  So now we're discussing the process of removing a moderator, if it's ever necessary.
+
+	
+  * We need to do it in a way to preserve the democracy and is similarly community-driven. [We asked on Meta](http://meta.stackoverflow.com/questions/151606/handling-calls-to-remove-a-moderator) and got a lot of great feedback. The plan we came up with involved the other democratically-elected mods (and not the company) meeting and putting it to a vote.
+
+	
+  * The gang wonders how to remove a Supreme Court Justice. It's semi-relevant.
+
+
+Tune in next week when we'll have Scott Hanselman on (for real this time)!
+

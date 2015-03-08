@@ -1,0 +1,59 @@
+---
+author: alex
+comments: true
+date: 2011-10-05 19:00:11+00:00
+layout: post
+slug: se-podcast-21
+title: 'SE Podcast #21 - David Fullerton & Jason Punyon'
+wordpress_id: 10003
+categories:
+- podcasts
+---
+
+This week, Jeff & Joel are joined (in studio, no less) by [David Fullerton](http://stackoverflow.com/users/91687/david-fullerton), head of the NY Dev Department, and [Jason Punyon](http://stackoverflow.com/users/6212/jason-punyon), a developer here in the office.  Its a fast moving discussion covering all kinds of topics, like:
+
+
+
+	
+  * Stack Exchange 1.0 (which gave users wanting their own Q&A site the Stack Exchange software, without being official Stack sites) is touched on. Jeff discusses the clones that exist and their reason for existing.
+
+	
+  * [Trello’s](https://trello.com/) launch caused some kerfuffle on [Web Apps.SE](http://webapps.stackexchange.com/) when general (and off-topic) help questions started being asked. In the larger sense, they discuss the necessity of applications and products to have their own unique help service.
+
+	
+  * Some recent changes made to [Area 51](http://area51.stackexchange.com/) are discussed, including the restructured voting system for example questions. Joel discusses the problems that arose out of the previous method of judging example questions.
+
+	
+  * [Fabian](http://skeptics.stackexchange.com/users/5/fabian) asks about overlapping proposals on Area 51, and David gives an overview of the process that goes along with the decision to merge proposals. Joel admits they aren’t too good at judging whether or not proposals are the right size.
+
+	
+  * Joel gives a call to arms for Area 51! They discuss the soon-to-launch [Biblical Hermeneutics](http://area51.stackexchange.com/proposals/1817/biblical-hermeneutics) site and its relationship to the existing [Christianity](http://christianity.stackexchange.com/) and [Judaism](http://judaism.stackexchange.com/) sites.
+
+	
+  * Jeff brings up some other sites on Area 51, including [LEGO](http://area51.stackexchange.com/proposals/10919/lego) and [Firearms](http://area51.stackexchange.com/proposals/164/firearms). The validity of a [Healthcare IT](http://area51.stackexchange.com/proposals/6433/healthcare-it) site is discussed.
+
+	
+  * Alex just access to Stack Exchange’s real-time [Google Analytics](http://www.google.com/analytics/), so the traffic trends of the site are discussed.
+
+	
+  * Jeff plugs one of his pet proposals, and others discuss theirs ([Krav Maga](http://en.wikipedia.org/wiki/Krav_Maga) does indeed pop up).
+
+	
+  * Joel shifts the conversation over to [Careers](http://careers.stackoverflow.com/). You can visit Joel’s profile [here](http://careers.stackoverflow.com/spolsky)! Careers and Stack Overflow aren’t integrated as well as they should be, and solutions to that are discussed. Jeff and David also talk about cool updates coming to Careers. On a sidenote, if you’ve ever wondered what it’s like to be an intern for Fog Creek, you’re in luck! David talks about that experience briefly.
+
+	
+  * Careers’ relationship with [Linked In](http://www.linkedin.com/) is mentioned and spurs on a wider discussion about the other career site.
+
+	
+  * The history of Careers’ filter is discussed, including how it ran originally and how it runs now.
+
+	
+  * Notifications on Stack Overflow have been modified recently. Jeff goes into the depth about how this was brought about. The term “yak-shaving” is involved.
+
+	
+  * A discussion about parenting questions on other Q&A sites reminds Jeff of a recent discussion on [Parenting.SE](http://parenting.stackexchange.com/), regarding the horrific-sounding [“hot saucing”](http://parenting.stackexchange.com/questions/3085/has-anyone-used-hot-saucing-is-it-bad-parenting).
+
+
+Join us next week at the usual time when we'll be joined by [Paul Biggar](http://paulbiggar.com/) and his wonderful Irish accent.
+
+[Stack Exchange Podcast - Episode #21 w/ David Fullerton](http://soundcloud.com/stack-exchange/stack-exchange-podcast-21) by [Stack Exchange](http://soundcloud.com/stack-exchange)

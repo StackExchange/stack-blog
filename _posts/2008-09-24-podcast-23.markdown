@@ -1,0 +1,76 @@
+---
+author: admin
+comments: true
+date: 2008-09-24 16:18:30+00:00
+layout: post
+slug: podcast-23
+title: 'Podcast #23'
+wordpress_id: 103
+categories:
+- podcasts
+---
+
+This is the twenty-third episode of the StackOverflow podcast, wherein Joel and I discuss the following:
+
+
+
+
+
+
+  * The Stack Overflow team will be in New York City from the 24th to the 28th. It's partly business, and partly a reward to our team for their hard work on the site. What are some cool geeky things for us to do in NYC?
+
+
+  * We wonder: do newscasters wear pants?
+
+
+  * Joel describes his upcoming Inc. magazine article enumerating the seven development mistakes we made in building Stack Overflow. I think by seven he meant zero.
+
+
+  * Most of the reviews of [Cuil](http://www.google.com/url?sa=t&source=web&ct=res&cd=1&url=http%3A%2F%2Fwww.cuil.com%2F&ei=_4DZSJr5LomasQPA3_DsDA&usg=AFQjCNEAaWsxycaSfzZK4sUO3um-Nx-U2g&sig2=taSQOqonltpv1GIixMSR3A) and [Knol](http://knol.google.com/k#) are negative because "I tried it for what it was intended to be used, and it didn't work."
+
+
+  * The power of short informal code reviews in bridging the skill gap between beginning and expert software developers. Good developers think of this as self-preservation, because today's beginner code is tomorrow's code you'll have to maintain.
+
+
+  * There have been a lot of requests for a packaged, customized version of Stack Overflow, but we have some reservations about the difficulty of delivering a packaged solution, and whether the current design will scale down to smaller private communities at all.
+
+
+  * Should trusted users be allowed to close questions? Or should the community simply vote them down? I argue we need both of these methods; Joel feels we ony need voting.
+
+
+  * It's ok to have some "fun" programming questions every now and then. It can't be a community if you don't stop every so often to have some (at least partially on topic) fun.
+
+
+
+
+
+We also answered the following listener questions:
+
+
+
+
+
+
+  1. "How do you handle newbie questions?"
+
+
+
+  2. **Richard**: "How do you cultivate programmer mentoring at a small company?"
+
+
+
+
+
+
+If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser. We also have a dedicated phone number you can call to leave audio questions at **646-826-3879**.
+
+
+
+
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W25450) for this episode is available for public editing.
+
+
+
+
+[display_podcast]

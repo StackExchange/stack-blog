@@ -1,0 +1,76 @@
+---
+author: admin
+comments: true
+date: 2008-04-30 00:19:58+00:00
+layout: post
+slug: podcast-3
+title: 'Podcast #3'
+wordpress_id: 15
+categories:
+- podcasts
+---
+
+
+This is the third episode of the StackOverflow podcast, wherein Joel and I discuss the following:
+
+
+
+
+
+
+
+  * A brief, but awesome, reference to [Donald Gibb](http://www.imdb.com/name/nm0316455/) in [Revenge of the Nerds](http://www.imdb.com/title/tt0088000/).
+
+  * We are now using [Skype](http://www.skype.com) and [Pamela](http://www.pamela-systems.com/) to record our podcast for higher quality.
+
+  * Joel's original 2002 [Recommended Programmer Reading list](http://www.joelonsoftware.com/navLinks/fog0000000262.html) and Jeff's [Top 5 Programming Books](http://www.codinghorror.com/blog/archives/001108.html) -- and why stackoverflow.com will complement, not replace, these kinds of books.
+
+  * The ineffable [Steve Yegge](http://steve-yegge.blogspot.com/), and a digression on the philosophy of Apple and Microsoft [font](http://www.codinghorror.com/blog/archives/000884.html) [rendering](http://www.joelonsoftware.com/items/2007/06/12.html) [strategies](http://www.codinghorror.com/blog/archives/000885.html).
+
+  * Confirming that stackoverflow.com will be as language agnostic as we can make it. It is for programming questions, whatever the language and platform. Yes, it's true that Joel and I have a Microsoft background, but we respect that programming is far larger than Microsoft.
+
+  * Why You Should Learn C (again).
+
+  * On our technology stack: stackoverflow.com will be built in ASP.NET running on our [dedicated Windows Server 2008 x64 box](http://blog.stackoverflow.com/index.php/2008/04/our-dedicated-server/) -- but that doesn't mean stackoverflow.com, the site, will be about ASP.NET!
+
+  * On [jumping the shark](http://en.wikipedia.org/wiki/Jumping_the_shark).
+
+  * An extended examination of everyone's favorite language: [Wasabi!](http://www.joelonsoftware.com/items/2006/09/01.html) Along with some reasons why you might actually want to [build your own DSL and compiler](http://www.joelonsoftware.com/items/2006/09/01b.html).
+
+  * A discussion of [our logo contest at 99designs.com](http://99designs.com/contests/6774).
+
+  * What, exactly, [is a stack overflow?](http://en.wikipedia.org/wiki/Stack_overflow)
+
+
+
+
+We also answered the following listener questions, with a lot of peripheral discussion on related topics:
+
+
+
+
+
+
+
+  1. **Dave Kauffman**: On Computer Science versus Software Engineering: is there any real-world use for recursion? 
+
+  2. **Nick Malaguti**: How should he deal with real world programming projects as a part of college classes? Specifically, the fact that there's no real hierarchy and an inability to move the deadline? Also, what software do you recommend to manage software projects? (Joel _swears_ that Nick was not paid to ask this question, in case you were wondering.)
+
+  3. **David Alison**: What do we think of services like the Google App Engine?
+
+  4. **Tim Patterson**: How to use blogtalkradio.com to [easily record a question for stackoverflow](http://blog.blogtalkradio.com/2008/02/18/podcasting-is-a-cinch-with-blogtalkradio/) using nothing but your telephone and a web browser.
+
+
+
+
+If you'd like to submit a question to be answered in our next episode, 
+record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com).
+
+
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W56) for this episode is available for public editing.
+
+
+
+[display_podcast]
+

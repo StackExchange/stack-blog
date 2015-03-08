@@ -1,0 +1,79 @@
+---
+author: admin
+comments: true
+date: 2008-11-13 01:30:07+00:00
+layout: post
+slug: podcast-29
+title: 'Podcast #29'
+wordpress_id: 147
+categories:
+- podcasts
+---
+
+This is the twenty-ninth episode of the StackOverflow podcast, wherein Joel and I discuss the following:
+
+
+
+
+
+
+  * The downside of being a PC gamer: it's prime game release season. My productivity last week was nil due to the release of Fallout 3, as I [discuss on my blog](http://www.codinghorror.com/blog/archives/001185.html). But it was totally worth it.  
+
+
+
+  * One videogame cliche is the levels filled with random barrels and crates as filler. The classic game site Old Man Murray used to rate games on [how quickly you saw a crate after starting the game](http://www.oldmanmurray.com/features/40.html). And then there was the Quake 2 mod where you played as a crate .. in a room full of crates! Surreal.
+
+
+  * I've always wondered if Joel was a gamer. Apparently he played Call of Duty 3 and 4, which bring him back to his days as an Israeli Army infantryman. Also, Bioshock, which is outstanding. At least he has good taste. 
+
+
+  * Joel wonders why we don't use Google search as the primary search method on Stack Overflow. Of course it is possible to search Stack Overflow with Google using the "site:" specifier, as long as you scope to an appropriate "folder". Currently we offer Google as a search alternative when no results are found. I still think both search methods are desirable, because we can search by user, by tag, and so forth.
+
+
+  * My first organic hit on Stack Overflow based on a coding search was this question about [using Beautiful Soup in IronPython under C#](http://stackoverflow.com/questions/118654/iron-python-beautiful-soup-win32-app).
+
+
+  * One of Joel's favorite Stack Overflow questions this week is [Coding In Other Spoken Languages](http://stackoverflow.com/questions/202723/coding-in-other-spoken-languages). The discussion is great, but it does beg the question -- as much time and money as companies spend localizing software, why don't we localize progamming languages? Joel points out that the Excel macro language is perhaps an exception, as the function names are localized. This is quite rare, but [there are non-English based progamming languages](http://en.wikipedia.org/wiki/Non-English-based_programming_languages) out there.
+
+
+  * Joel has literally written the book on hiring great programmers -- [Smart and Gets Things Done](http://www.amazon.com/dp/1590598385/?tag=codinghorror-20). In this podcast he examines a few guidelines from the Fog Creek hiring practices. One of those is having [an intern program that is second to none](http://www.fogcreek.com/jobs/summerintern.html). I was definitely impressed when I visited. Did I mention that they have fully catered lunches every weekday? Also, don't forget that the interview process is your opportunity to judge the company that wants to hire you. If they don't have a good interview process, do you really want to work there?
+
+
+  * The amount of information you are faced with as a developer is overwhelming, with more new stuff arriving every day. How do you keep up with information overload? [I recommend "Just In Time" learning](http://www.codinghorror.com/blog/archives/000575.html). Joel highlights the difference between the early days of Java and today, now that Java has grown into something of a monster. Is .NET on the same path?  
+
+
+
+
+
+
+We also answered the following listener questions:
+
+
+
+
+
+
+  1. **Jonas from Sweden**: "Can you expand on what characteristics a good programmer should have? When hiring, how do I get them to tell me what makes them a good programmer?"
+
+
+
+  2. **Idriss Selhoum**: "How do you feel about Microsoft releasing new .NET versions so rapidly, and fragmenting the developer base?"
+
+
+
+
+
+
+If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser. We also have a dedicated phone number you can call to leave audio questions at **646-826-3879**.
+
+
+
+
+
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?pg=pgWiki&command=view&ixWikiPage=25973) for this episode is available for public editing.
+
+
+
+
+[display_podcast]

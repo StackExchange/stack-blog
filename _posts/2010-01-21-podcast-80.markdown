@@ -1,0 +1,63 @@
+---
+author: admin
+comments: true
+date: 2010-01-21 07:38:38+00:00
+layout: post
+slug: podcast-80
+title: 'Podcast #80'
+wordpress_id: 2623
+categories:
+- podcasts
+---
+
+In this episode of the Stack Overflow podcast, Joel and Jeff discuss GitHub, the value of formal code documentation, and how to decide what features belong in the next version of your software.
+
+
+
+	
+  * We've had some difficulty adapting to GitHub, where the reverse engineering of[ the Javascript Markdown (WMD) editor](http://github.com/derobins/wmd) was performed. It regularly confuses everyone that encounters it, and that's frustrating from a support perspective.
+
+	
+  * For example, why does [the MangOS project on GitHub have 854 branches](http://github.com/mangos/mangos/network)? How is that useful to _anyone?_ The project network is so complex it can't even be rendered! What I specifically object to is that all pulls show up in the timeline as forks; I'd like to see an ability to nominate your pull timeline as either private or "not intended for merging" so it won't show up in the main network.
+
+	
+  * Joel is writing a series of articles about distributed version control in [Mercurial](http://mercurial.selenic.com/) -- I'm hoping they will clear up some of my confusion about GitHub. I personally find [Google Code](http://code.google.com/hosting/) much easier to work with.
+
+	
+  * As part of [MarkdownSharp](http://code.google.com/p/markdownsharp/), our open source C# Markdown implementation, I've experimented a bit with turning a regex into a state machine -- and I was a bit shocked how many lines of code it takes to "unroll" a regex. Is it really easier to troubleshoot 25 individual lines of state machine code (all with potential bugs) or 3 single line regular expressions?
+
+	
+  * Stack Overflow user [William Shields](http://stackoverflow.com/users/18393/cletus) has taken up Joel's challenge to write a Markdown parser the right way -- and produced an excellent series of articles about what he's learned in the process: [one](http://www.cforcoding.com/2010/01/jmd-markdown-and-brief-overview-of.html), [two](http://www.cforcoding.com/2010/01/more-details-on-jmd-markdown-parsing.html), [three](http://www.cforcoding.com/2010/01/markdown-musings-on-unintended.html), [four](http://www.cforcoding.com/2010/01/markdown-headings-grief-and-unknown.html). It's a perfect example of the type of learning that Stack Overflow itself is all about; kudos to William for sharing it!
+
+	
+  * Joel and I have mixed feelings about documenting a large code base. Rather than wasting time generating reams of documentation that may never be read, and will rapidly get out of date -- we offer some alternatives. Come up with a unit test suite that lives symbiotically with the code, or spend time documenting the key, central data structures instead of the code. Also, have the new hire guys and gals who encounter the code be in charge of keeping the "how do I get started with this stuff?" bootstrapping information up to date.
+
+	
+  * Joel says the least amount of work you need to do to capture how many hours are spent on programming tasks, is to make each source code checkin assume that all time since the previous checkin was spent on whatever the current task is. This is "good enough" in his experience and produces solid, useful future estimates.
+
+	
+  * At Fog Creek, to determine what features make the cut for the next verson of the software they get developers, customer representatives, and the sales team together and do [T-Shirt size estimation](http://30secondblogs.blogspot.com/2006/10/t-shirt-estimates.html) (S through XXL) of development time for the desired features. Then everyone in the meeting has a dollar to spend on their favorite features. Then, just fit the winners into the allotted schedule.
+
+	
+  * Stack Overflow is a community driven site, so many (but not all) of the new features come from top voted [Meta Stack Overflow](http://meta.stackoverflow.com/) requests. We try to avoid devolving into design by committee by heavily weighting feature requests that match our vision for the site. Most feedback is not terribly useful -- but if you're willing to spend the time it takes to filter out the bottom 90% of feedback, you may be pleasantly surprised by the cool ideas the community can come up with.
+
+
+We answered the following listener questions on this podcast:
+
+	
+  1. **Dave**: "I work at a large company with an enormous code base in many different languages. As a new guy trying to find my way around, I get frustrated by the lack of documentation. How much documentation is appropriate?"
+
+	
+  2. "We had a new year's resolution to capture an accurate work log of hours worked, but we've already relapsed. How do the Fog Creek developers manage to do this?"
+
+	
+  3. **Chap:** "How do you prioritize features and functionality for your products, and how do you decide what to spend time on and what's worth doing?"
+
+
+If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser. We also have a dedicated phone number you can call to leave audio questions at **646-826-3879**.
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W29122) for this episode is available for public editing.
+
+[display_podcast]
+
+

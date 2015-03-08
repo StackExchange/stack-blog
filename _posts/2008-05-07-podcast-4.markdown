@@ -1,0 +1,82 @@
+---
+author: admin
+comments: true
+date: 2008-05-07 01:02:06+00:00
+layout: post
+slug: podcast-4
+title: 'Podcast #4'
+wordpress_id: 35
+categories:
+- podcasts
+---
+
+
+This is the fourth episode of the StackOverflow podcast, wherein Joel and I discuss the following:
+
+
+
+
+
+
+
+  * Why we think stackoverflow.com isn't "reinventing the wheel", or at least, reinventing it in a useful way. Failure, however, is always an option.
+
+  * We will be using ASP.NET MVC to build stackoverflow, as covered in [my recent blog post](http://www.codinghorror.com/blog/archives/001112.html). Joel and I carry on a long discussion of [Model-View-Controller](http://en.wikipedia.org/wiki/Model-view-controller).
+
+  * A mention of [CSS Zen Garden](http://www.csszengarden.com/). Joel thinks it's an unrealistic example, but I don't.
+
+  * Defining "skinnability", whether it applies to your application, or if it even matters.
+
+  * A mention of this year's [Maker Faire](http://makerfaire.com//), where I met the Wikimedia Foundation's [Jay Walsh](http://wikimediafoundation.org/wiki/User:JayWalsh). Followed by an examination of why we admire [Wikipedia](http://www.wikipedia.org/) and consider it a defining influence.
+
+  * Guests welcome! You will be able to participate fully in stackoverflow.com without ever creating an account -- but there will be perks for creating an account.
+
+  * A bit about our reputation system -- learning the lessons of [PageRank](http://en.wikipedia.org/wiki/PageRank).
+
+  * Dealing with the inevitable evil users and users who actively game the reputation system. Not you, of course. We like you.
+
+  * Adopting Creative Commons [by-nc-sa](http://creativecommons.org/licenses/by-nc-sa/3.0/us/) for our podcast and [CCWiki](http://creativecommons.org/license/wiki) for stackoverflow.com.
+
+  * On the contract between Joel and Jeff to form stackoverflow.com : the difference between a [C Corporation and Limited Liability Company](http://www.bizfilings.com/products/articles/llcs_vs_c_corps.asp) (scintillating!)
+
+  * Do we need lawyers? Yes, we need lawyers. Unfortunately.
+
+  * The final [results of our logo contest](http://blog.stackoverflow.com/index.php/2008/04/logo-design-contest-winner/).
+
+  * [Twitter](http://twitter.com/): is it only useful for "web celebrities?"  I personally love Twitter and find it quite useful. [Follow me on Twitter](http://twitter.com/codinghorror), and see for yourself. I'll try to convince Joel to join up.
+
+  * Tip of the week: [Redgate SQL Compare](http://www.red-gate.com/products/SQL_Compare/index.htm).
+
+  * Thank you for all the questions and for the Wiki edits!
+
+
+
+
+We also answered the following listener questions, with a lot of peripheral discussion on related topics:
+
+
+
+
+
+
+
+  1. **Kyle Neumeier**: How will you provide enough content to achieve a critical mass of activity on stackoverflow.com?
+
+  2. **Andrew Morrow**: How will you deal with answer ordering and voting? Will it be based on votes alone? If so, how do we follow the thread of a conversation? 
+
+  3. **ObviousTroll**: Is it worthwhile to go back to school and get a graduate degree in computer science?
+
+
+
+
+If you'd like to submit a question to be answered in our next episode, 
+record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com).
+
+
+
+The [transcript wiki](http://stackoverflow.fogbugz.com/default.asp?W781) for this episode is available for public editing.
+
+
+
+[display_podcast]
+

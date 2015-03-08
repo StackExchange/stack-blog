@@ -1,0 +1,113 @@
+---
+author: admin
+comments: true
+date: 2009-06-04 02:48:51+00:00
+layout: post
+slug: podcast-56
+title: 'Podcast #56'
+wordpress_id: 1425
+categories:
+- podcasts
+---
+
+This is the 56th episode of the StackOverflow podcast where Joel and Jeff sit down with Jason Calacanis to discuss the business side of software, including Mahalo's "Skee-Ball" economy, when VC funding is appropriate, and whether SEO matters.
+
+
+
+
+
+
+  * [Jason Calacanis](http://calacanis.com/) regales us with his tales of being a BBS script kiddie on his IBM PC Jr. He later got fired from his job in the [Fordham](http://en.wikipedia.org/wiki/Fordham_University) computer lab for setting up a warez partition on one of the computers in the lab. Oh, and he installed a keylogger on his boss's computer, and sold pirated software on floppies, too. :)
+
+
+  * Jason was one of the earliest internet reporters on the east coast with [Silicon Alley Reporter](http://en.wikipedia.org/wiki/Jason_Calacanis#Rising_Tide_Studios).
+
+
+  * Apparently the Q&A format -- dubbed "Knowledge Exchange" -- was pioneered in Korea with [Naver](http://www.naver.com/) and [Daum](http://www.daum.net/), which Yahoo Answers copied for the US. In Korea, the primary way to get information is through users exchanging knowledge, not search algorithms.
+
+
+  * Rather than translate the app, Facebook apparently let users volunteer to translate different parts of the Facebook UI itself. Jason's [Mahalo](http://www.mahalo.com/) is not localized.
+
+
+  * In Korea, the main knowledge exchange sites are all noindexed, so Google is a non-starter there. If all the newspapers in the US noindexed as a consortium, Google would be screwed.
+
+
+  * Jason is a big fan of [the badge system on Stack Overflow](http://stackoverflow.com/badges), which he plans to add to Mahalo. This of course is modelled on the Xbox 360 Achievements system; every badge in the system is there to encourage community building (and not inadvertently community destroying) behavior. It's a surprisingly fine line.  
+
+
+
+  * Joel's big objection to Mahalo is that, like the now-defunct Google Answers, it turns an intrinsic motivation for asking and answering questions into an extrinsic motivation (hey, I can get paid real money for this!)
+
+
+  * Jason maintains that money is not the primary motivator on Mahalo. He calls it a "[Skee-Ball](http://www.skeeball.com/about.htm) Economy", where you are playing skee-ball for fun, and getting lots of tickets to cash out and buy fun things. It's a "token economy". You can't make a lot of money, but it (theoretically) adds a secondary driver to an already fun activity.
+
+
+  * Jason equates the Stack Overflow community with an "expert economy", akin to the open source software ecosystem. Jason mentioned that he has used [nginx](http://nginx.net/) and [hadoop](http://hadoop.apache.org/core/) mailing lists to identify people to hire and/or bring in to teach the other developers at Mahalo. My question is, why shouldn't Mahalo _also_ be an expert economy?
+
+
+  * Jason says "I'm not so much into creating the financial system to get something out of people, it's more that I like to take work that was previously undercompensated or not compensated and make it into a career. I'm very proud of the fact that we [[WebLogs, Inc.](http://en.wikipedia.org/wiki/Jason_Calacanis#Weblogs.2C_Inc.)] were the company that made blogging into a career."
+
+
+  * Jason famously [offered the top 25 users of Digg $1,000 a month to become community managers at Netscape](http://www.readwriteweb.com/archives/calacanis_offer.php). And 23 of the 25 users took that offer. Joel says this is like paying for sex -- applying money at the one point where most people do not have a problem getting people to contribute to a community. Jason: "I may have made a mistake", but traffic increased, and he maintains there was already a shadow economy around paid submissions to Digg.
+
+
+  * Jason, who has a reporting background, ultimately wanted to add a layer of journalism and editorial control to the stories submitted to Digg. Even on "anything goes" vote driven sites like Digg, they do have one level of editorial control, in that stories can be "in dispute."  
+
+
+
+  * Joel asks Jason -- with your background in VC and funding, what would you do with Stack Overflow? Would you raise money? How, why, and for what? (Which reminds me: what's the difference between VC funding and a flaming bag of poop left on your doorstep? Trick question! There is no difference!)
+
+
+  * We now offer an integrated job board -- if you're looking for gigs, or looking for a great programmer or sysadmin, check out [jobs.stackoverflow.com](http://jobs.stackoverflow.com/) and [jobs.serverfault.com](http://jobs.serverfault.com/).
+
+
+  * A brief discussion of advertising strategies and philosophies. I'm very skeptical of self-serve advertising after my experience with Google AdSense, which performs _abysmally_ badly on Stack Overflow.
+
+
+  * Are community-driven sites like Mahalo and Stack Overflow turning users into [digital sharecroppers](http://smallbiztrends.com/2009/03/facebook-digital-sharecroppers.html)? Is it an economic system where [people are working for praise](http://www.businessweek.com/technology/content/dec2008/tc20081228_809309.htm)? Does splitting the revenue with the user, ala [Knol](http://knol.google.com/k) and [Google Answers](http://answers.google.com/answers/), really work? The track record for this approach is not good. And if you optimize for things that are popular, no matter what they are, then you end up with a site where every question is [the programming cartoon question](http://stackoverflow.com/questions/84556/whats-your-favorite-programmer-cartoon). I call this "Mahalo".  
+
+
+
+  * In the next 6-8 weeks, we'll be launching the third site in [the Stack Overflow trilogy](http://blog.stackoverflow.com/2009/05/the-stack-overflow-trilogy/) -- [superuser.com](http://superuser.com). This is a site for power users and computer enthusiasts.
+
+
+  * Is writing software "hard"? That depends on your tolerance for frustration and what you happen to be building.
+
+
+  * Jason, as a serial entrepreneur, points out that there is no downside or risk to starting a company and failing in the United States. If you have great ideas, don't just let them marinate in your brain forever -- get out there and start building them!
+
+
+  * One of my favorite Calacanis posts is [Why people hate SEO ... and why SMO is bullcrap](http://calacanis.com/2007/02/07/why-people-hate-seo-and-why-smo-is-bulls-t/). 90% of SEO is simple rules for building clean HTML. The other 10% is that SEOs are really just life coaches who need to transform their clients into something awesome that people actually care about. What you really need to optimize for is _being awesome_. And that's a bit harder than pulling some SEO out of your magic bag of tricks.
+
+
+
+
+We answered the following listener questions on this podcast:
+
+
+
+
+
+
+  1. **Brian McKay**: "I recently read the book [Dreaming in Code](http://www.amazon.com/dp/1400082463/?tag=codinghorror-20). One of the concepts in the book is that software development is a very difficult profession -- that software and surgery are two of the most difficult things that a person can attempt. Do you agree with this?"
+
+
+
+
+If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser. We also have a dedicated phone number you can call to leave audio questions at **646-826-3879**.
+
+
+
+
+
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W29058) for this episode is available for public editing.
+
+
+
+
+
+[display_podcast]
+
+
+

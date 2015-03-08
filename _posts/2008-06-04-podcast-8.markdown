@@ -1,0 +1,84 @@
+---
+author: admin
+comments: true
+date: 2008-06-04 06:59:28+00:00
+layout: post
+slug: podcast-8
+title: 'Podcast #8'
+wordpress_id: 49
+categories:
+- podcasts
+---
+
+
+This is the eighth episode of the StackOverflow podcast, wherein Joel and I discuss the following:
+
+
+
+
+
+
+
+  * As of our next podcast, we will be hosted at [ITConversations](http://itc.conversationsnetwork.org/index.html) -- the [NPR](http://www.npr.org/) of podcasts. A good outfit to be associated with!
+
+  * Yes, Joel does pronounce "wav file" as "_wohv_ file". I have no idea. Ask him.
+
+  * Joel keynoted the Rails conference. Josh Susser said ["If you missed it, count yourself lucky."](http://blog.hasmanythrough.com/2008/5/31/quick-railsconf-update) Apparently at least David Heinemeier Hansson liked it.
+
+  * It's true that I [objected to David's attitude towards people who don't use Macs](http://www.codinghorror.com/blog/archives/001065.html), but it's possible to have objections to specific statements people make, or specific beliefs they may have, and still respect them as a person. Disagreement does not mean we are mortal enemies. David has a lot of smart, interesting things to say. That just wasn't one of them.
+
+  * "The programming community is larger than any one particular tribe." But why are certain communities more insular and insecure than others? Joel relates this to [cognitive dissonance](http://en.wikipedia.org/wiki/Cognitive_dissonance).
+
+  * I remain a big fan of Clay Shirky and his latest book. How big a fan? [It's Clay Shirky's Internet, We Just Live In It](http://www.codinghorror.com/blog/archives/001122.html). I believe every working programmer who touches the web should read his latest book, [Here Comes Everybody](http://www.amazon.com/exec/obidos/ASIN/1594201536/codinghorror-20).
+
+  * On addressing criticism -- "there arise a new, young generation of rebels who remember not when you were the young rebel, writing new things, and making no claim to authority."
+
+  * I found [Paulo's thoughtful criticism](http://barracadopaulo.blogspot.com/) of our podcast and I wanted to address it. To quote [Randy Pausch](http://www.youtube.com/watch?v=ji5_MqicxSo): "That’s a lesson that stuck with me my whole life. When you see yourself doing something badly and nobody’s bothering to tell you anymore, that’s a very bad place to be. **Your critics are your ones telling you they still love you and care.**" 
+
+  * Joel feels like he was [misunderstood on the topic of exceptions](http://www.joelonsoftware.com/items/2003/10/13.html). Well, if you were writing a memory allocator for an operating system, anyway.
+
+  * Joel and I do agree that [threading is hard](http://blogs.msdn.com/jmstall/archive/2008/01/30/why-threading-is-hard.aspx). It's amazing that web apps largely get a pass on this, thanks to the architecture of the webserver model.
+
+  * I give a shout-out to Rick Brewster of [Paint.NET](http://www.getpaint.net/) who calls the (excellent) threading code he wrote in Paint.NET ["easily the most complex code in Paint.NET"](http://www.codinghorror.com/blog/archives/000169.html)
+
+  * We're using SQL Server 2005 as the underlying database for stackoverflow.com. We engage in a brief discussion of the pros and cons of Oracle and MySQL databases in our (limited) experience.
+
+  * Joel describes his frustration with the way some writers turn single anecdotes into statements of truth, both on the internet and off. Of course Joel and I are both guilty of this, too.
+
+  * In my better blog posts, I tend to use more of a meta-aggregation model, where I do research and summarize what I found. I point to a lot of different opinions, then offer my own -- but I try to diligently avoid clinging religiously to my opinions. In the face of new, better data, I can be convinced. I firmly believe in [strong opinions, weakly held](http://www.codinghorror.com/blog/archives/001124.html).
+
+  * When it comes to Domain Specific Languages, we definitely prefer them to a bunch of XML. I am particularly fond of SQL and Regular Expressions as mini-DSLs -- I believe in embracing the concept of [languages inside languages](http://www.codinghorror.com/blog/archives/000989.html).
+
+  * Joel and I are still very excited about Microsoft's DLR ([IronPython](http://www.codeplex.com/IronPython) and [IronRuby](http://www.ironruby.net/)) as an escape route from the superficial differences between [the Coke and Pepsi of C# and VB.NET](http://www.codinghorror.com/blog/archives/000519.html).
+
+  * welcome [Geoff Dalgas](http://twitter.com/SuperDalgas) to the stackoverflow.com programming team!
+
+  * As usual, thank you for all the questions and for the Wiki edits! 
+
+
+
+
+We also answered the following listener question:
+
+
+
+
+
+
+
+  1. **Tendayi Mawushe**: In the enterprise Java world, you can't do much without writing a lot of XML. In response to that, a new idea little domain specific languages is emerging. What are your thoughts on this?
+
+
+
+
+If you'd like to submit a question to be answered in our next episode, 
+record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser.
+
+
+
+The [transcript wiki](http://stackoverflow.fogbugz.com/default.asp?W6080) for this episode is available for public editing.
+
+
+
+[display_podcast]
+

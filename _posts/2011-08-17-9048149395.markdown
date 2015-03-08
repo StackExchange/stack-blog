@@ -1,0 +1,23 @@
+---
+author: Laura Dobrzynski
+comments: false
+date: 2011-08-17 20:01:09+00:00
+layout: post
+published: false
+slug: '9048149395'
+title: So you work at a startup and want to get noticed by a lot of people. How do
+  you do that?
+wordpress_id: 10552
+categories:
+- chaos
+post_format:
+- Link
+---
+
+Link: [Currently Reading: How DuckDuckGo got in TIME's 50 Best Websites of 2011](http://www.gabrielweinberg.com/blog/2011/08/how-duckduckgo-got-in-times-best-websites.html)
+
+The link in the title is to a great post about how DuckDuckGo got into TIME’s 50 best websites of 2011 by building relationships. I think DuckDuckGo is pretty neat, and the article also nicely reflects some of Stack Exchange’s values, too. We love our users, and we think they are great advocates for us. We also believe in building relationships over time - NOT just spamming people and demanding that they pay attention to us. A lot of what CHAOS does is find people we want to be friends with, then we talk to them. We’ve met a lot of interesting people through Twitter, blogs, and Google Plus lately, and we hope they’ll be our friends for a long time.
+
+Do you know of any other companies with stories like DuckDuckGo’s? Share them here!
+
+

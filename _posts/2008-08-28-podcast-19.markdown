@@ -1,0 +1,88 @@
+---
+author: admin
+comments: true
+date: 2008-08-28 07:05:11+00:00
+layout: post
+slug: podcast-19
+title: 'Podcast #19'
+wordpress_id: 92
+categories:
+- podcasts
+---
+
+This is the nineteenth episode of the StackOverflow podcast, wherein Joel and I discuss the following:
+
+
+
+
+
+
+  * We've mapped our voting functionality to what you see in Digg and Reddit, but we're a Q&A site, not a link aggregation service. Should we allow voting on questions as well as the answers? Or should questions simply be taggable as favorites, which are a de-facto vote? I believe voting and favorites are related, but not quite the same thing.  
+
+
+
+  * How do you deal with meta-discussion about the site? Wikipedia has two distinct areas for any page: the page itself and the "behind the curtain" discussion about the page. We don't quite have this.  
+
+
+
+  * Joel points out that Google's dedication to the algorithm over human intervention is on display in the [Google search results for "jew"](http://www.google.com/search?q=jew).
+
+
+  * The private beta is insular in a way that isn't immediately apparent to the people participating. We figure a huge percentage of our audience will be the barely interested programmers who end up on a Stack Overflow page from a web search. Also, the type of developers that tend to get attracted to the beta are the best, elite developers. Once the site is public, we'll have a far wider range of skills in play -- and much less sophisticated users.  
+
+
+
+  * I realized that Joel has zero votes because we actually had a XSS vulnerability -- theoretically "friendly" hacker beta users intercepted our cookies and were able to impersonate us! We've fixed it now, but there was some minor collateral damage, such as the deletion of Joel's voting history. This is one of the challenges of developing a site for skilled (but bored) developers with time and ability on their hands. 
+
+
+  * Joel cites Aaron Swartz' blog entry [How To Launch Software](http://www.aaronsw.com/weblog/howtolaunch) as perhaps a model we should follow. The so-called "Hollywood Launch" tends to cause a huge, uncontrollable spike in traffic and then a massive drop as things don't go to plan. See [Cuil](http://www.cuil.com/). We are both scared stiff about the amount of traffic we already have, so we'll be proceeding carefully.
+
+
+  * Our SQL Server deadlock problem was solved by [switching to read committed snapshot](http://www.codinghorror.com/blog/archives/001166.html). It turns out SQL Server is not tuned very well for typical web app loads, which consist of massive numbers of reads and miniscule numbers of writes.
+
+
+  * The Stack Overflow database and webserver are currently the same machine. One easy scaling path for us is to buy another server and dedicating it to the database. I'm just unsure exactly where the transition point is for network latency versus the SQL calls staying in memory.
+
+
+  * There is a _huge_ difference between horrible legacy code by talented programmers and horrible legacy code by, well, horrible programmers. This is frequently measured in [WTFs/minute](http://www.osnews.com/images/comics/wtfm.jpg).
+
+
+
+
+
+We also answered the following listener questions:
+
+
+
+
+
+
+  1. **Ryan Cox**: "Can you talk about backup and disaster recovery plans?"
+
+
+
+  2. **Ryan**: "In developing database-centric software for multiple clients, why not use a single database rather than multiple databases for each client?"
+
+
+
+  3. **Phil Howie**: "How do you balance legacy code that nobody wants to update with programmers who want to use the latest and greatest stuff?"
+
+
+
+
+
+
+If you'd like to submit a question to be answered in our next episode,  
+
+record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser.
+
+
+
+
+
+The [transcript wiki](http://stackoverflow.fogbugz.com/default.asp?W24218) for this episode is available for public editing.
+
+
+
+
+[display_podcast]

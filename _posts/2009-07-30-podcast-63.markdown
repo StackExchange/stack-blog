@@ -1,0 +1,83 @@
+---
+author: admin
+comments: true
+date: 2009-07-30 01:29:08+00:00
+layout: post
+slug: podcast-63
+title: 'Podcast #63'
+wordpress_id: 1736
+categories:
+- podcasts
+---
+
+In this episode of the podcast, Joel and Jeff discuss the Mythical Man Month problem, keeping communication in check, Windows 7, and web scaling.
+
+
+
+
+
+
+  * Joel is fielding his largest team ever at Fog Creek -- 9 programmers, 2 testers, and 2 program managers. They only have 10 usable weeks in the summer to build a product with their interns, so they have to parallelize their development.
+
+
+  * Contrary to popular myth, it is possible for a large team to be effective, if you mitigate[ the Mythical Man Month problem](http://en.wikipedia.org/wiki/Brooks%27s_law), which is really only about adding people to a late project and bringing them up to speed.  
+
+
+
+  * How do you deal with an excess of communication (the explosion of paths) on larger teams? First, with program managers. That's what they are there to address, by becoming the conduit for communication. Second, constantly try to reduce the number of meetings and people in meetings.
+
+
+  * Speaking of communication excess, [is email = efail](http://www.codinghorror.com/blog/archives/001191.html)? This is also why I believe in [maximizing the value of your keystrokes](http://www.codinghorror.com/blog/archives/000854.html), and [the value of public communication](http://www.codinghorror.com/blog/archives/000840.html). If you must email someone, keep it extremely short, a paragraph at most, with a direct question and call to action that is obvious and clear.
+
+
+  * One thought experiment: what would happen if all your email became Twitter messages? Or, as Joel proposes, is online communication itself a failed paradigm? At the very least, know the limitations of the communication medium you're using, and [escalate as necessary](http://www.codinghorror.com/blog/archives/001064.html).
+
+
+  * Some classes of plugins that can complement a product without competing with it: plugins that make the UI complex or dangerous, plugins that require a subscription fee, plugins that compete with the core business model of the product, and plugins that connect to a different commercial product.
+
+
+  * Products that have a vibrant plugin ecosystem and API are almost by definition successful products. It also creates a sort of weird ambient lock-in around the ecosystem, as in Lotus 1-2-3 macros, or Firefox users who won't switch browsers due to their favorite plugins.
+
+
+  * A brief discussion of Windows 7, which has much more "curb appeal" than Vista. Joel was not a fan of Vista; I was. And Windows 7 is [the best Vista service pack ever](http://www.codinghorror.com/blog/archives/001290.html).
+
+
+  * Stack Overflow almost reached a million pageviews per day last week, and we're consistently doing around 120 requests/sec, or 7200 requests/minute. We're starting to hit peaks of about 80% CPU usage on our single web server, so we may have to add a second webserver to the SO farm soon.
+
+
+  * Speaking of [sticky sessions](http://www.ln.go.cn/resin-doc/config/sessions.xtp), we were surprised to find that there are those rare few users whose IP addresses will change radically from request to request.
+
+
+  * We are a Microsoft stack so we're looking at [Velocity](http://msdn.microsoft.com/en-us/data/cc655792.aspx) to share state across multiple webservers. It's a clone of [memcached](http://www.danga.com/memcached/).
+
+
+  * Scaling problems are easy to solve. Just [throw money at them](http://www.codinghorror.com/blog/archives/001198.html), like [37signals recently did](http://www.37signals.com/svn/posts/1819-basecamp-now-with-more-vroom). The "getting people to give a crap about your application" problem [does not respond to money in the same way](http://teddziuba.com/2008/04/im-going-to-scale-my-foot-up-y.html).
+
+
+  * We run a number of [LogParser](http://www.microsoft.com/DownLoads/details.aspx?FamilyID=890cd06b-abf8-4c25-91b2-f8d975cf8c07&displaylang=en) queries on our webserver logs to identify statistically anomalous things that are happening on our website -- what sorts of queries do you run on _your_ web logs to show unusual activity? One of the weirder spiders that's hitting us a lot is [Omgili](http://omgili.com/), a sort of forum search tool.
+
+
+
+
+Our favorite question this week is from Server Fault:
+
+
+
+
+
+
+  * [Recommended LogParser queries for IIS monitoring?](http://serverfault.com/questions/45516/recommended-logparser-queries-for-iis-monitoring) This is an example of putting the sort of information out into the world that we'd like to see exist -- as well as documenting and sharing our own experience in hosting what is now a fairly large public website.  
+
+
+
+
+
+If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser. We also have a dedicated phone number you can call to leave audio questions at **646-826-3879**.
+
+
+
+
+
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W29071) for this episode is available for public editing.
+

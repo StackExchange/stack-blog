@@ -1,0 +1,83 @@
+---
+author: alex
+comments: true
+date: 2011-08-03 19:00:16+00:00
+layout: post
+slug: se-podcast-14
+title: 'SE Podcast #14 - Miguel De Icaza'
+wordpress_id: 9149
+categories:
+- podcasts
+---
+
+[Miguel De Icaza](http://tirania.org/blog/) joins Jeff & Joel this week to discuss everything from Miguel's many projects to identity on the internet to playdates for toddlers.  Miguel is a force in the software world, having initiated and contributed to all kinds of products over the years - he's also well known for being one of the most productive programmers out there.  Check out the full episode for:
+
+
+
+	
+  * Miguel has worked on a number of different projects including [Midnight Commander](http://en.wikipedia.org/wiki/Midnight_Commander), [Gnome](http://en.wikipedia.org/wiki/GNOME), [Mono](http://en.wikipedia.org/wiki/Mono_%28software%29), [Ximian](http://en.wikipedia.org/wiki/Ximian) and more
+
+	
+  * Midnight Commander still continues to be developed to this day (albeit by other people) and it has some interesting new features that have been added
+
+	
+  * Joel reiterates his [hate for huge numbers of configuration options](http://www.joelonsoftware.com/uibook/chapters/fog0000000059.html) and appreciates Miguel not implementing ridiculous option trees in his programs
+
+	
+  * We have a brand new podcasting setup (again!) - keep your eyes open for an upcoming post detailing our whole setup
+
+	
+  * Jeff thinks that Unix couldn't make the same advances as some other systems (like Apple) because they didn't have a dictator to force massive changes on the community
+
+	
+  * After leaving Novell (which owns Mono), he [launched a new company](http://tirania.org/blog/archive/2011/May-16.html) ([Xamarin](http://xamarin.com/)) that is working on some new projects, while also supporting the existing Mono community
+
+	
+  * Cross platform apps are stupid if they aren't coded using the native UX and tools (see Word 5 for Mac, Safari for Windows, etc) which makes them look different from every other program on that platform
+
+	
+  * Make sure to check out [Area51](http://area51.stackexchange.com) to see all of the new sites that are currently in commitment and under consideration of being launched.  Support the proposals that you want to see as Stack Exchange sites!
+
+	
+  * Our new [Bicycles](http://bicycles.stackexchange.com) site just launched as a full site (and gotten its own theme)!
+
+	
+  * We've started a new team of people ([CHAOS](http://meta.stackoverflow.com/questions/100137/what-is-the-meaning-of-chaos-is-it-related-to-the-psi-character)) who will help enhance and promote many of our communities - the first project they are working on is enhancing question titles and converting many of them into actual questions
+
+	
+  * This has also led to a big debate internally over the relationship between great questions and titles and what guidelines we should set for making titles
+
+	
+  * Miguel is the most productive person that Joel knows (besides [James Franco](http://www.imdb.com/name/nm0290556/))
+
+	
+  * We have [a new newsletters feature](http://blog.stackoverflow.com/2011/07/stack-exchange-site-newsletters/) that allows you to get a weekly newsletter showing the top and most interesting questions from sites that you're interested in but don't visit every day.  Check out [stackexchange.com/newsletters](http://stackexchange.com/newsletters) - it's like a candy store filled with free candy!
+
+	
+  * Sometimes people tell us they are interested in certain topics but their activity tells us something different (which is why we auto customize the homepage for each user) - its kinda similar to people on dating sites...
+
+	
+  * Every once in a while, we have a site that makes it through Area51 despite it "sucking" (eg: freelancers) - the problem with these sites is that there simply aren't enough questions because its too small a topic - the entire topic can be covered in one book
+
+	
+  * There are two current proposals that present an interesting contrast on this topic: [Christianity](http://area51.stackexchange.com/proposals/11655/christianity) and [Biblical Hermeneutics](http://area51.stackexchange.com/proposals/1817/biblical-hermeneutics) - the biblical site has great, specific questions, where's Christianity doesn't and will likely be a weak site
+
+	
+  * Cross "Joel tells an army story" off your [Stack Exchange Podcast Bingo Card](http://blog.stackoverflow.com/2009/03/stack-overflow-podcast-bingo/)!
+
+	
+  * Coming soon: use as many OpenID logins as you want on SE (instead of the current limit of two)
+
+	
+  * One of our developers (Kevin Montrose) wrote a great blog post on how [your email is your identity](http://kevinmontrose.com/2011/07/31/your-email-is-practically-your-identity/)
+
+	
+  * Fair warning: Miguel lies a lot [on his twitter feed](http://twitter.com/#%21/migueldeicaza)
+
+	
+  * Make sure you get your tickets for [Stack Overflow DevDays](http://devdays.stackoverflow.com) (we just [announced the first round of speakers](http://blog.stackoverflow.com/2011/07/documenting-devdays-2011-2-%E2%80%93-speakers/) for all the cities!) and use discount code "podcast" to save $100!
+
+
+Join us next week for another live episode on Tuesday @ 4pm (EDT) or catch the posted version on Wednesday.
+
+[Stack Exchange Podcast - Episode #14 w/ Miguel De Icaza](http://soundcloud.com/stack-exchange/stack-exchange-podcast-14) by [Stack Exchange](http://soundcloud.com/stack-exchange)

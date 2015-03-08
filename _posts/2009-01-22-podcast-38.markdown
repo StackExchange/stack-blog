@@ -1,0 +1,121 @@
+---
+author: admin
+comments: true
+date: 2009-01-22 03:10:48+00:00
+layout: post
+slug: podcast-38
+title: 'Podcast #38'
+wordpress_id: 464
+categories:
+- podcasts
+---
+
+This is the 38th episode of the StackOverflow podcast, where Joel and Jeff discuss YSlow optimizations for large websites, the value of unit testing, and the hidden pitfalls of asking questions to programmers.
+
+
+
+
+
+
+  * Joel notes that simply paying attention to what your coworkers are doing is an effective way to build and lead a team. If you aren't interested in what your teammates are doing.. why are you on that team, again?
+
+
+  * I've followed the [excellent Yahoo YSlow tool](http://developer.yahoo.com/yslow/) for a while. It really is intended for large scale websites, as I've [noted before](http://www.codinghorror.com/blog/archives/000932.html). But Stack Overflow is exactly the type of website that can benefit from YSlow recommendations!
+
+
+  * We've been using the [Expires or Cache-Control Header](http://developer.yahoo.com/performance/rules.html#expires) since we launched. This saves the browser round-trips when getting infrequently changing items, such as images, javascript, or css. The downside is that, when you do actually change these files, you have to remember to change the filenames. A part of our build process now "tags" these files with a version number so we no longer have to remember to do this manually.
+
+
+  * We also integrated the [YUI Compressor](http://developer.yahoo.com/yui/compressor/) into our build, to minify our CSS and JavaScript resources. We had [bad luck with the .NET port](http://www.codeplex.com/YUICompressor) of this tool, so we just shell out to Java in the build. Works great, although we had some crazy pathing issues that made us put the JAR file in the root.
+
+
+  * It's also possible for Google to [host your shared javascript files](http://googleajaxsearchapi.blogspot.com/2008/05/speed-up-access-to-your-favorite.html), if you're using a popular third party JS library. We chose not to do this because we package related JavaScript together, so it would defeat the benefits of packaging.
+
+
+  * Browsers will parallelize their requests, but only so many requests can be "in flight" to the same domain. So it can be wise to [split your website components across domains](http://developer.yahoo.com/performance/rules.html#split). Simple aliases such as a.mydomain.com seem to work fine for this purpose.
+
+
+  * Joel explains [CSS sprites](http://alistapart.com/articles/sprites), which is an effective way to [minimize the number of HTTP requests](http://developer.yahoo.com/performance/rules.html#num_http) your website is generating. This is particularly useful on toolbars and the like which contain a lot of related images.
+
+
+  * There are analogs here in the Strings tab of [Process Explorer](http://technet.microsoft.com/en-us/sysinternals/bb896653.aspx), and the [UNIX command Strings](http://linux.about.com/library/cmd/blcmdl1_strings.htm), as well as classic Windows resource browsing -- spelunking for whatever icons and image resources you can find in a file.
+
+
+  * This is all important because I want Stack Overflow to be as fast as possible. Performance is a feature, and I think often underestimated. Even [half a second delay can cause a 20% drop in traffic](http://www.codinghorror.com/blog/archives/000722.html).
+
+
+  * We discuss differential database backups and DNS time to live, to make the upcoming site transition to new harware as painless as possible, and minimize downtime. We'll also update the old site with a static HTML page that tells you you need to flush your DNS.
+
+
+  * Joel notes that his partner Michael had to order thermal compound back in 2000 when he built up PCs for Fog Creek. This stuff is important! Please [don't use vegemite](http://www.dansdata.com/goop.htm).
+
+
+  * We finally fixed our paging algorithm, which had some aggravating edge condition bugs. I dedicate this fix to [John Topley](http://stackoverflow.com/users/1450/john-topley).
+
+
+  * Joel and I have some reservations about unit testing, at least the dogmatic test-first kind, where your goal is to have code coverage in the 95%+ range. It seems to us that this works best for legacy type applications that aren't changing very much. At some level, the tests become friction preventing you from making changes, as every change results in a stack of failing tests.
+
+
+  * Joel talks about Robert Martin's (aka Uncle Bob) [Solid Principles](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod), as explained on a [recent Hanselminutes podcast](http://www.hanselminutes.com/default.aspx?showID=163). Joel: "it sounded like extremely bureaucratic programming" that "could theoretically protect you against things, but You Aren't Gonna Need It."
+
+
+  * On the other hand, if you're building a framework or API, something
+designed to be used by thousands or millions of developers, then having
+a lot of unit tests -- or Uncle Bob's Principles of OOD -- might make sense. Principles and rules are fine, but thinking about what you're doing should _always_ come first.
+
+
+  * The implied part of any question is whether the question _even makes sense_. I've always loved Alex Papadimoulis' take on this, he "nailed" it with [Pounding a Nail: Old Shoe or Glass Bottle?](http://weblogs.asp.net/alex_papadimoulis/archive/2005/05/25/408925.aspx)
+
+
+  * Software developers are trained from birth to ask why; when you ask a programming question, ignore that at your peril. And, please, when you see good questions, [vote them up!](http://stackoverflow.com/questions/2824/stackoverflow-why-arent-people-rating-questions)  
+
+
+
+
+
+Our favorite Stack Overflow questions this week are:
+
+
+
+
+
+
+  * **Jeff: **[Problems with the MARQUEE HTML tag](http://stackoverflow.com/questions/456815/problems-with-html-marquee-tag). I love that we're reaching out to developers who ask naive (but earnest!) questions like this.   
+
+
+
+  * **Joel**: [](http://stackoverflow.com/questions/392397/arrays-whats-the-point)[SQL Server "AFTER INSERT" trigger doesn't see the just-inserted row](http://stackoverflow.com/questions/405288/sql-server-after-insert-trigger-doesnt-see-the-just-inserted-row). Another example of being very careful, when you ask a question, to make sure you explain why you are asking this question. Otherwise you'll get some answers you didn't expect, such as "why would anyone ever do that?"  
+
+
+
+
+
+We answered one listener question on this podcast:
+
+
+
+
+
+
+  1. **Joe Hopkins**: "What have you found to be the most limiting or annoying part of the ASP.NET MVC? And do you have details on the [Business of Software](http://www.businessofsoftware.org/) 2009 conference?"
+
+
+
+
+
+If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser. We also have a dedicated phone number you can call to leave audio questions at **646-826-3879**.
+
+
+
+
+
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?pg=pgWiki&command=view&ixWikiPage=29025) for this episode is available for public editing.
+
+
+
+
+
+
+[display_podcast]
+

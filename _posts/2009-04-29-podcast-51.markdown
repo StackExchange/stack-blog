@@ -1,0 +1,112 @@
+---
+author: admin
+comments: true
+date: 2009-04-29 21:29:17+00:00
+layout: post
+slug: podcast-51
+title: 'Podcast #51'
+wordpress_id: 1149
+categories:
+- podcasts
+---
+
+
+This is the 51st episode of the Stack Overflow podcast, where Joel and Jeff sit down with Joel's business partner, Michael Pryor of Fog Creek Software, at Stack Overflow world HQ (i.e., Jeff's house) in El Cerrito, California.
+
+
+
+
+
+
+  * At my home, Joel discovers my secret clock fetish. I have a [pong clock](http://blogs.vertigosoftware.com/jatwood/archive/2005/12/20/The_Pong_clock.aspx), a [nixie clock](http://www.codinghorror.com/blog/archives/000760.html), and I'd love to have an [oscilloscope clock](http://web.jfet.org/vclk/)!
+
+
+  * Joel and Michael went to the [Computer History Museum](http://www.computerhistory.org/), one of my favorite places in the world. It's not just big iron; Michael geeked out over his old Apple //gs, and Joel enjoyed revisiting old HP calculators.  
+
+
+
+  * Stack Overflow comments are now [elevated to the main page](http://blog.stackoverflow.com/2009/04/comments-top-n-shown/). We've gone through several user feedback cycles on this, and we feel the current comment layout is a good balance. The preference for this is still in the works. This was partially inspired by the way comments are displayed on [SFGate articles](http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2009/04/29/national/w092553D15.DTL&tsp=1) (scroll to the bottom to see how comments are displayed there).
+
+
+  * A discussion of the value of meta -- discussing Stack Overflow on Stack Overflow. How much meta is acceptable? Where should meta-discussion go? Isn't the podcast and the blog meta enough? Is there a need for stackoverflowoverflow?
+
+
+  * One problem is that the system we've built is good at focused, directed Q&A but quite bad at arbitrary discussion. It's why Joel objected to me proposing the use of the Stack Overflow engine for the [Joel on Software discussion boards](http://discuss.joelonsoftware.com/?joel) and the [Business of Software discussion](http://discuss.joelonsoftware.com/?biz) boards. Not a good fit!  
+
+
+
+  * Consider an analogy with school -- if you don't like the after school activities students are engaging in, it's because you didn't provide a good set of alternatives for them. But perhaps a better analogy is that of students who become teachers; they need a "teacher's lounge" area.
+
+
+  * The whole point of Stack Overflow is synthesizing _better _answers than what you can commonly find on the open internet. If the answer is already good and easily findable elsewhere on the internet, leave it there! Don't repost the answer on Stack Overflow unless you're enhancing and improving the answer in some small way.
+
+
+  * [How is Babby Formed](http://www.museumofhoaxes.com/hoax/forums/viewthread/6467/) has been removed from Yahoo Answers, and we have [removed Programming at Sea](http://blog.stackoverflow.com/2009/04/joke-questions-please-refrain/).
+
+
+  * Part of the philosophy of doing lower-level things yourself, such as building your own computers (or even learning C), is to do it enough to understand it -- and learn something along the way. It doesn't mean that you need to (or even should!) do those things forever, but the journey of learning and discovery is its own reward. The best reference for programmers who want to learn what goes on underneath their code is [Charles Petzold's outstanding book, Code](http://www.amazon.com/dp/0735611319/?tag=codinghorror-20).  
+
+
+
+  * Learning black hat techniques is important, because [when good is dumb, evil will always triumph](http://www.codinghorror.com/blog/archives/001123.html). Don't be dumb. Know what's out there, and how to exploit it. The morality of studying black hat techniques derives from what you _do_ with that information. Will you sell it? Distribute it and actively attack ? Or quietly disclose it to the vulnerable software or website?
+
+
+  * Joel marvels at the enormous size of the Microsoft campus since he worked there; when he was at Microsoft in the early 90's, there were around 5,000 employees and it was not uncommon to see Bill Gates walking around the campus. The Redmond visitor center is a disappointment; it should be more like the Computer History Museum, highlighting Microsoft's central role in so much of that history to date.
+
+
+  * Apparently the best estimates are that there are around 9 million programmers in the world, roughly the population of New York City. Imagine a whole city of nothing but programmers. On second thought, that's too scary -- let's not.
+
+
+  * A small clarification on [last week's Steve Yegge project](http://blog.stackoverflow.com/2009/04/podcast-50/); Steve is not the author of the Google JavaScript compiler, but a client of it.
+
+
+
+
+We answered the following listener questions on this podcast:
+
+
+
+
+
+
+  1. ** Peter**: "What do you think about the practice of finding an answer, and re-posting it on Stack Overflow?"
+
+
+  2. **Juma**: "Should software engineers learn how the underlying hardware works?"  
+
+
+
+
+
+Our favorite Stack Overflow questions this week are:
+
+
+
+
+
+
+  * [](http://stackoverflow.com/questions/766935/what-do-i-need-to-do-in-order-to-be-a-programmer-out-at-sea)[Black hat knowledge for white hat programmers](http://stackoverflow.com/questions/772596/black-hat-knowledge-for-white-hat-programmers). Definitely important; if you aren't performing basic due diligence on what the bad guys do, you're likely to end up like [one of these clowns](http://www.codinghorror.com/blog/archives/001256.html).
+
+
+  * [Developer Salaries to Rise?](http://stackoverflow.com/questions/400865/developer-salaries-to-rise) We're not sure that the number of CS degrees being awarded necessarily correlates with the number of programmers seeking jobs.
+
+
+
+
+
+If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser. We also have a dedicated phone number you can call to leave audio questions at **646-826-3879**.
+
+
+
+
+
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W29044) for this episode is available for public editing.
+
+
+
+
+
+
+[display_podcast]
+

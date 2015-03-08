@@ -1,0 +1,50 @@
+---
+author: alex
+comments: true
+date: 2011-10-12 19:00:19+00:00
+layout: post
+slug: se-podcast-22
+title: 'SE Podcast #22 - Paul Biggar'
+wordpress_id: 10044
+categories:
+- podcasts
+---
+
+Joel (but no Jeff) is joined this week by [Paul Biggar](http://paulbiggar.com/research/) (who Joel originally met when he was a DevDays London 2009 speaker about scripting languages).  Paul currently works at Mozilla, having come off his own (not that successful) Y Combinator startup.
+
+
+
+	
+  * Paul's least favorite scripting language of all time is PHP. Paul works in static analysis, which is looking at a program that is not running, and making decisions about whether or not it will work, how to make it faster, what the security implications are. Paul has solved the [Halting Problem](http://en.wikipedia.org/wiki/Halting_problem)... _twice_.
+
+	
+  * PHP stinks, so we talk about C and C++ for a while. Bjarne Stroustrup wrote [a great book](http://www.amazon.com/Design-Evolution-C-Bjarne-Stroustrup/dp/0201543303%3FSubscriptionId%3DAKIAIIBINOD46VC3JCLQ%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0201543303) on the topic.
+
+	
+  * The people who love language design are not the people that are enthused by PHP, and they were scared off by the "poisonous community" (Paul's words!). The most popular programming languages that aren't very well designed: PHP, Perl, JavaScript, shell. Their creators "had no business designing languages". How did they become popular?
+
+	
+  * [Haskell](http://en.wikipedia.org/wiki/Haskell_%28programming_language%29) was a programming language that was well-designed but never gained any traction. Paul says there are two types of programming languages: those that start safe and try to build performance, and those that start performing well and try to build safety in. Haskell is the former. It "escaped" from academia... barely. F# comes from the same school of thought.
+
+	
+  * What about [Dart](http://en.wikipedia.org/wiki/Dart_%28programming_language))? Google released a spec. They've got a full implementation that's ready to go in Chrome.
+
+	
+  * The cool kids are using [MongoDB](http://www.mongodb.org/), [CoffeeScript](http://jashkenas.github.com/coffee-script/), and [tortoise shell glasses](http://www.warbyparker.com/).
+
+	
+  * Enough about programing languages! Paul started a YC journalism startup called NewsTilt. It was the Future of Journalism, which is a terrible business to get into. [Here](http://blog.paulbiggar.com/archive/why-we-shut-newstilt-down/)'s why it got shut down. In a nutshell: there were problems with the product, and problems with communication between Paul and his co-founder. Also, not being in Silicon Valley can be problematic... though Silicon Valley is not necessarily the be-all end-all of startup success. Perhaps most important was that it didn't solve a problem Paul really cared about.
+
+	
+  * [Circle CI](http://circleci.com/) is a compiler-related startup that _does_ capture Paul's interest. It's "continuous integration made easy"!
+
+	
+  * Paul didn't actually make the slides for his talk. But the message he wants to get out there is that working on compilers is actually very easy, and not something only wizards can do.
+
+	
+  * Paul can be found on Twitter @[PaulBiggar](http://twitter.com/paulbiggar), and at [PaulBiggar.com](http://paulbiggar.com/).
+
+
+Join us next week when our guest is James Portnow from [Extra Credits](http://www.penny-arcade.com/patv/show/extra-credits) - same place, same time.
+
+[Stack Exchange Podcast - Episode #22 w/ Paul Biggar](http://soundcloud.com/stack-exchange/stack-exchange-podcast-22) by [Stack Exchange](http://soundcloud.com/stack-exchange)

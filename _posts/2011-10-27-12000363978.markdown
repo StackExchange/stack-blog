@@ -1,0 +1,46 @@
+---
+author: Brett White
+comments: false
+date: 2011-10-27 20:02:00+00:00
+layout: post
+slug: '12000363978'
+title: Stack Exchange - Bringing Writers and Fans Together!
+wordpress_id: 10546
+categories:
+- chaos
+post_format:
+- Gallery
+tags:
+- sci fi
+---
+
+![](http://26.media.tumblr.com/tumblr_ltqqcz178W1qaxxh4o1_500.jpg)![](http://29.media.tumblr.com/tumblr_ltqqcz178W1qaxxh4o2_500.jpg)![](http://26.media.tumblr.com/tumblr_ltqqcz178W1qaxxh4o3_500.jpg)
+
+
+**Stack Exchange - Bringing Writers and Fans Together!**
+
+If the dozen+ action figures on my desk here at [StackHQ](http://twitter.com/#!/stackhq) doesn’t give it away, I’m a pretty big comic book fan. Like, [really big](http://digsyiscomics.tumblr.com/). Naturally I gravitated towards the [Science Fiction & Fantasy](http://scifi.stackexchange.com/) site, where my abnormally high-levels of X-Men/Buffy/Star Wars adoration raise few-to-no eyebrows. I fit in somewhere, guys! Sci-Fi is still a Beta site, which means it has a lot of room to grow. Eventually it will graduate and get a fancy site design (like [Cooking](http://cooking.stackexchange.com/) or [Gaming](http://gaming.stackexchange.com/)) and _all will be right with the world_. Yes, goodbye poverty and war! The universe will go the way of Star Trek once the Sci-Fi site has graduated!
+
+Since I am a pretty big proponent of peace and harmony, I’m doing my darnedest to expand the scope of Sci-Fi.SE and spread the word to potential users. Come on, the people that know the entire history of [Bib Fortuna](http://starwars.wikia.com/wiki/Bib_fortuna) are the exact same people that have a million questions about him. The site is incredibly useful if you have questions about everything ranging from [story identification](http://scifi.stackexchange.com/questions/tagged/story-identification) to [crazy-detailed explanations of pseudo-science](http://scifi.stackexchange.com/questions/5306/how-can-people-teleport-through-forcefields-in-star-trek) and [everything in between](http://scifi.stackexchange.com/questions/5394/how-does-superman-shave). There’s now a new area that I can foresee some Stack Exchange sites excelling at and benefiting from, one that I’ve been testing out for a while now: **direct creator/fan interaction**!
+
+In a site like Sci-Fi, users are asking questions about works of fiction. The answers to these questions can be quite speculative, and when it comes down to it, the only person that knows the answer is the person who actually wrote it. **Users benefit from having writers on the site, answering questions about their work.** _“But Brett,”_ you’re now saying out loud to your computer, worrying your co-workers, _“that sounds JUST like a forum, which is EXACTLY what Stack Exchange wants to avoid being!”_ First, your co-workers now think less of you. Second, I see your point! But where do we differ from a forum? **Creators can ask questions too.** When you’re dealing with shared universes like the Marvel and DC Comics ones, who knows the minutiae of continuity more than the fans you are writing for? Our site definitely lends itself towards comic book editorial staff; now instead of doing the exhausting Google searches yourself, you can crowd-source with your actual fanbase, who, because they are on a Stack site, are providing accurate information and hyperlinks and etc.! Wow!
+
+So far I have implemented this 3 times, and I’d call all three of them a success.
+
+
+
+	
+  * [On September 6th](http://scifi.stackexchange.com/questions/5393/can-she-hulks-hair-be-cut), I asked a question on behalf of comic book writer Fred Van Lente, who asked via Twitter if She-Hulk could get a haircut. User Martha F. replied with an incredibly detailed list of short-haired Shulks…with pictures!
+
+	
+  * [On September 25th](http://scifi.stackexchange.com/questions/5814/how-does-the-incredible-hulk-change-mass), someone asked “How does the Hulk change mass?” I tweeted this question to “Hulk” writer Jeff Parker, who tweeted an answer back. I answered the question on his behalf and BAM, accepted answer.
+
+	
+  * [On October 25th](http://scifi.stackexchange.com/questions/6429/has-the-over-and-undersoul-theory-been-used-to-explain-monsters-before) I asked a question about “iZombie” and tweeted it at series writer Chris Roberson. Robserson then actually registered with the site to answer my question, providing the most direct creator-to-reader interaction yet on the Sci-Fi site! I’m assuming. Seriously, I doubt that George Lucas has answered “[Is C-3PO a slave?](http://scifi.stackexchange.com/questions/3926/is-c3po-a-slave)”
+
+
+I want these types of interactions to be a daily occurrence on Sci-Fi. I honestly believe our site is beneficial to professionals in the field of creating science fiction, and I want them to use it! After all, the more people that get involved in the site the quicker it can graduate…and then we all get world peace.
+
+World peace!
+
+

@@ -1,0 +1,95 @@
+---
+author: admin
+comments: true
+date: 2009-11-24 21:22:03+00:00
+layout: post
+slug: podcast-75
+title: 'Podcast #75'
+wordpress_id: 2184
+categories:
+- podcasts
+---
+
+Joel and Jeff sit down with sysadmin extraordinaire Tom Limoncelli of [Everything Sysadmin](http://EverythingSysadmin.com) to discuss IPV6, dumb things for System Administrators to check, and the sysadmin community as reflected in [Server Fault](http://serverfault.com).
+
+
+
+
+
+
+  * Tom has written some classic sysadmin books such as [Time Management for System Administrators](http://amazon.com/o/ASIN/0596007833/tomontime-20), [The Practice of System and Network Administration](http://amazon.com/o/ASIN/0321492668/tomontime-20).
+
+
+  * A brief discussion of the [April Fool's RFCs](http://www.rfchumor.com), which go back every year to 1989 [per wikipedia](http://en.wikipedia.org/wiki/April_Fools%27_Day_RFC). There are even some outliers in the seventies, starting with [ARPAWOCKY](http://tools.ietf.org/html/rfc527). These aren't just humor, but artifacts of computing history.
+
+
+  * Tom shares his thoughts on the [IPV6](http://en.wikipedia.org/wiki/IPv6) transition -- where we are, how much progress we've made, and some of the practical rationales for going to IPV6. What problem does IPV6 solve for us today?
+
+
+  * I've often wondered: is the last address space transition we'll see in our lifetime the one from 32-bit to 64-bit? Are 128-bit address spaces necessary for system memory? I press Tom on this topic. He notes that the IPV6 committee was originally going to pick a 64-bit address space, but doubled it to 128-bit.
+
+
+  * We examine Tom's hilarious and excellent [list of dumb things to check](http://whatexit.org/tal/mywritings/dumb-things-to-check.html). I guarantee that parts of this list will seem eerily familiar to you.
+
+
+  * We attempt to enlist Tom's help in measuring the boundaries of [Server Fault](http://serverfault.com). This is challenging, because the sysadmin world encompasses security, networking, databases, websites, hardware, and general operations and support.
+
+
+  * We had great difficulty pinning down the sysadmin community, in contrast with the programming community. Tom is as close as we've ever come to the "Joel Spolsky" of the sysadmin world. Tom points out that there is some natural overlap between programmers and system administrators, mostly in the area of release management. Beyond that, there are groups like [LOPSA](http://lopsa.org/), [NPANET](http://www.npanet.org/), and [SAGE](http://www.sage.org/).
+
+
+  * Tom notes that if you have a small site that can be served by one box, any stack will do. If you have a medium site that needs hundreds of requests per second, go with what your team knows best. But beyond that, once you get the hundreds of thousands of queries per second, everyone builds a custom solution. You do want to think seriously about optimizing for the decreasing price of commodity hardware, however.  
+
+
+
+  * Somehow I hadn't seen the classic sysadmin comedy routine [The Website is Down](http://www.youtube.com/watch?v=N38a5ja26xY&fmt=18) yet until Tom mentioned it. There's a series of videos at the [eponymously named website](http://www.thewebsiteisdown.com/).
+
+
+  * If you fancy yourself a Google-scale computing endeavor, or if you are simply interested in the ultimate sysadmin fantasy, definitely read [Google's Guide to Warehouse-Scale Computing](http://www.morganclaypool.com/doi/pdf/10.2200/S00193ED1V01Y200905CAC006).
+
+
+
+
+We answered the following listener question:
+
+
+
+
+
+
+  * **Thomas Arnold**: "How feasible is it to host a new web application using the Microsoft stack, considering scalability, performance, and cost versus the open source alternatives."  
+
+
+
+
+
+Our favorite questions this week -- from [Server Fault](http://serverfault.com) naturally!
+
+
+
+
+
+
+  * [](http://superuser.com/questions/52671/how-do-i-create-unicode-smilies-like)[Sysadmin Professional Groups and Associations](http://serverfault.com/questions/20356/professional-groups-and-associations). An excellent resource.
+
+
+  * The [Data Center](http://serverfault.com/questions/tagged/data-center) tag is awfully good reading for anyone who has a server room.
+
+
+
+
+If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser. We also have a dedicated phone number you can call to leave audio questions at **646-826-3879**.
+
+
+
+
+
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W29099) for this episode is available for public editing.
+
+
+
+
+
+[display_podcast]
+

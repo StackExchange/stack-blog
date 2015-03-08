@@ -1,0 +1,113 @@
+---
+author: admin
+comments: true
+date: 2008-12-18 06:26:06+00:00
+layout: post
+slug: podcast-34
+title: 'Podcast #34'
+wordpress_id: 162
+categories:
+- podcasts
+---
+
+
+This is the 34th episode of the StackOverflow podcast, where Joel and Jeff discuss the following: 
+
+
+
+
+
+
+  * Joel recommends [a pink HDMI cable](http://www.tigerdirect.com/applications/searchtools/item-details.asp?EdpNo=4211693) as a christmas gift for the special ladies in your life. This will go nicely with her pink ethernet cable, pink USB cable..   
+
+
+
+  * We've placed an order for our dedicated servers and have found a dedicated host we tentatively like. We'll be exploring the "buy" axis of [build vs. buy](http://blog.stackoverflow.com/2008/12/server-hosting-rent-vs-buy/) because it gives us greater power and control over our setup. This will also be my first time building a RAID 10 array, which is supposedly a [far better solution than RAID 5](http://www.miracleas.com/BAARF/RAID5_versus_RAID10.txt), and I'm geeking out a bit over that.  
+
+
+
+  * Joel remembers George Orwell's [1984](http://en.wikipedia.org/wiki/Nineteen_Eighty-Four) and [The Thin Red Line](http://www.imdb.com/title/tt0120863/).
+
+
+  * It's advisable for programmers to spend some time rotating through customer support so they can [lean to share the customer's pain](http://www.codinghorror.com/blog/archives/001013.html). Alternately, Joel has an even better idea: [perform usability tests periodically](http://www.joelonsoftware.com/articles/UsabilityTestingwithMorae.html), with your developers observing. Developers sometimes come up with great new features when exposed to actual users working with the software.  
+
+
+
+  * The Fog Creek Team completed the Endless Setlist on hard in Rock Band 2. That's 84 songs in a row, mightily impressive, at least to me.
+
+
+  * I have mixed feelings about easter eggs; if you're going to put something cool and hidden in your product, why not make it a standard feature so most people will find it and benefit from it? There are two discussions of easter eggs on Stack Overflow: [What Easter Eggs have you placed in code](http://stackoverflow.com/questions/140376/what-easter-eggs-have-you-placed-in-code), and [Is it a good idea to put Easter Eggs in applications?](http://stackoverflow.com/questions/4943/is-it-a-good-idea-to-put-easter-eggs-in-applications)  
+
+
+
+  * You could argue that a lot of modern large application features are effectively easter eggs because people can't find them! This is what motivated the move to the Ribbon UI in Office 2007. Nine out of ten feature requests for Office were _already in the product_. That's [the ultimate easter egg](http://www.wired.com/software/softwarereviews/news/2007/01/72596), and not in a good way.
+
+
+  * The proposed Stack Overflow question bounty feature -- to help get those persistently unanswered questions some new attention -- has two gating clauses: first, you can only attach a small reputation bounty after 24 hours; second, the majority of the bounty will come from the asker's own reputation. You have to be willing to slice off a part of your own rep as a reward.
+
+
+  * We noticed that Jason Calacanis of Mahalo will be [doing a Q&A site](http://abcnews.go.com/Technology/AheadoftheCurve/story?id=6464889&page=1). The difference is that this site will pay answerers in real money, part of what Joel calls Jason's Econ 101 management style. The danger is that financial incentives can destroy intrinsic motivation. What's your management style? [Command and Control](http://www.joelonsoftware.com/items/2006/08/08.html), [Econ 101](http://www.joelonsoftware.com/items/2006/08/09.html), or [Identity](http://www.joelonsoftware.com/items/2006/08/10.html)?
+
+
+  * There is a whole new generation of programmers growing up with code like we did. Here's hoping they're learning from our mistakes, so they can make all new mistakes and not repeat all the same dumb mistakes we made. t's almost like [a system of software apprenticeship](http://www.codinghorror.com/blog/archives/000446.html).
+
+
+  * Is code elegance in the eye of the beholder? Consider the two answers to [Parameterizing a SQL IN Clause](http://stackoverflow.com/questions/337704/parameterizing-a-sql-in-clause) -- which one is more elegant, and why?  
+
+
+
+
+
+Our favorite Stack Overflow questions this week are:
+
+
+
+
+
+
+  * **Jeff**: [How old are you, and how old were you when you started coding?](http://stackoverflow.com/questions/327973/how-old-are-you-and-how-old-were-you-when-you-started-coding) This is a great example of using of Stack Overflow to do cool stuff we didn't anticipate. It also broke our [hot question algorithm](http://stackoverflow.com/questions/24066/what-formula-should-be-used-to-determine-hot-questions) pretty badly, because it had such a huge number of responses.
+
+
+  * **Joel**: [What was your biggest CS eye opener?](http://stackoverflow.com/questions/343390/what-was-your-biggest-cs-eye-opener) Joel points to K&R's observation that a[5] and 5[a] are the same thing.  
+
+
+
+  * **Bonus**: [Parameterizing a SQL IN Clause](http://stackoverflow.com/questions/337704/parameterizing-a-sql-in-clause). Great example of my accepted answer not being accepted by the community. I just wanted to highlight the cleverness of Joel's solution, which I literally would never have thought of. I ended up using the community's solution, though.
+
+
+
+
+We answered the following listener questions on this podcast:
+
+
+
+
+
+
+  1. **Chris**: "It's often said that the job of the software development manager's job is to insulate developers from customers. But I've found it's helpful for developers to have interactions with users and stakeholders."
+
+
+  2. **Sinbad Carver**: "Did you leave any easter eggs in Stack Overflow? If not, did you consider any?"
+
+
+  3. **Derek in Canada**: "If you attach a bounty to some questions, will that lead to less people answering regular questions?"
+
+
+
+
+
+If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser. We also have a dedicated phone number you can call to leave audio questions at **646-826-3879**.
+
+
+
+
+
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?pg=pgWiki&command=view&ixWikiPage=29010) for this episode is available for public editing.
+
+
+
+
+
+
+[display_podcast]

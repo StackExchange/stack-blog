@@ -1,0 +1,94 @@
+---
+author: admin
+comments: true
+date: 2009-10-30 07:49:00+00:00
+layout: post
+slug: podcast-72
+title: 'Podcast #72'
+wordpress_id: 2110
+categories:
+- podcasts
+---
+
+Joel and Jeff sit down with Jon Skeet, software engineer at Google London, and the first Stack Overflow user to achieve 100,000 reputation.
+
+
+
+
+
+
+  * A brief audio snippet of Jon's presentation at [London DevDays](http://stackoverflow.carsonified.com/events/london/), featuring Tony the Pony and his sidekick.
+
+
+  * 
+A discussion of the Google London offices, which aren't quite up to Joel's high standards, but are quite fun in their own right. And, they do offer free unlimited [Curly Wurlies](http://en.wikipedia.org/wiki/Curly_Wurly)! The London office mostly does mobile development, which in Google world is [Android](http://code.google.com/android/).
+
+
+  * Joel explains his analogy of software development as a biology-based process, instead of a physics-based process.
+
+
+  * In [Coders at Work](http://www.amazon.com/dp/1430219483/?tag=codinghorror-20), Peter Norvig -- chief research guy at Google -- explains that his definition of correctness in software now mostly involves statistics intervals, not absolute boolean "this is right", "this is wrong" tests.
+
+
+  * A brief discussion of Joel's painful 14 line AppleScript odyssey.
+
+
+  * There is a wall -- literally -- of hundreds of mobile phones at Google London that they use to test against. We wonder how Google's Android will avoid devolving into the same miasma of dozens or hundreds of different versions of hardware, all of which behave differently and require special software support or workarounds.
+
+
+  * Is Apple becoming to mobile apps what Microsoft was, and is, to desktop PC apps? Will success in future mobile devices _require _an iPhone emulation layer? Although Apple unquestionably deserves their success with the iPhone, Joel and I are deeply concerned that too much Apple dominance in this area is bad for developers, as Apple serves developers poorly.
+
+
+  * Jon spends a lot of time dealing with date and time issues, and shares one particularly horrifying timezone example. Apparently, time is often ambiguous and subject to change by human processes that aren't ... entirely rational.
+
+
+  * It is OK to have "fun" questions on Stack Overflow, but a) only occasionally, as we can't have the system overrun by pure entertainment and b) the question must be legitimately programming relatd and accepted by the community. As with so many things in life, moderation is key.  
+
+
+
+  * If you're Jon Skeet, you can [post your schedule on meta](http://meta.stackoverflow.com/questions/555/why-does-jon-skeet-never-sleep/566#566) and it will get 40+ upvotes. Mind you, there is no technical answer there, it's just Jon's schedule.
+
+
+  * The daily reputation cap is partly there to encourage programmers to take a break. The goal isn't to be on Stack Overflow, but to generally do things that make you a better programmer. While that certainly includes the fractional time slices of questions and answers that programmers so generously contribute, it also means doing your job, and writing code! To the extent that Stack Overflow itself becomes the goal, we are failing you.  
+
+
+
+
+
+Our listener question this week is from ... Jon Skeet!
+
+
+
+
+
+
+  * Why is the reputation cap (currently 200 points per day) time based? Would other forms of capping reputation work better or be more preferable?  
+
+
+
+
+
+Our favorite Stack Overflow question this week is:
+
+
+
+
+
+
+  * [What is the best Battleship AI?](http://stackoverflow.com/questions/1631414/what-is-the-best-battleship-ai) A good example of a fun, but appropriate, question for Stack Overflow.  
+
+
+
+
+
+
+If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser. We also have a
+dedicated phone number you can call to leave audio questions at **646-826-3879**.
+
+
+
+
+
+
+The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W29092) for this episode is available for public editing.
+
