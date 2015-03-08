@@ -1,5 +1,5 @@
 ---
-author: Korneel Bauman
+author: korneel
 comments: true
 date: 2012-11-12 16:13:40+00:00
 layout: post

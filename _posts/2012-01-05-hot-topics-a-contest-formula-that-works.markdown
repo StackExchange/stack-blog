@@ -1,5 +1,5 @@
 ---
-author: Lauren Gundrum
+author: lauren
 comments: true
 date: 2012-01-05 18:05:39+00:00
 layout: post
