@@ -55,3 +55,5 @@ Our guest this week is Eric Lippert - language architect extraordinaire and famo
 
 Join us next week!
 
+
+<iframe src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F83835972&amp;show_artwork=true" height="166" width="100%" frameborder="no" scrolling="no"></iframe></p>

@@ -86,3 +86,5 @@ The podcast is on the road again this week, with Jeff and Joel coming to you liv
 There's no podcast next week, but we'll be back the week after, so make sure to join us then!
 
  [Stack Exchange Podcast - Episode #05 w/ Josh Heyer](http://soundcloud.com/stack-exchange/sta) by [Stack Exchange](http://soundcloud.com/stack-exchange)
+
+<p><object height="81" width="100%"><param name="movie" value="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F15494022"></param><param name="allowscriptaccess" value="always"></param><embed allowscriptaccess="always" height="81" src="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F15494022" type="application/x-shockwave-flash" width="100%"></embed></object>  <span><a href="http://soundcloud.com/stack-exchange/sta">Stack Exchange Podcast &#8211; Episode #05 w/ Josh Heyer</a> by <a href="http://soundcloud.com/stack-exchange">Stack Exchange</a></span> </p>

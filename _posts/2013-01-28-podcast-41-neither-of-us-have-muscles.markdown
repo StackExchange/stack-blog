@@ -64,3 +64,5 @@ Welcome to Stack Exchange Podcast #41, featuring Joel Spolsky, Jay Hanlon, David
 
 We'll see you next week for another exciting episode of..... The Stack Exchange Podcast!
 
+
+<iframe src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F76831203&amp;show_artwork=true" height="166" width="100%" frameborder="no" scrolling="no"></iframe></p>

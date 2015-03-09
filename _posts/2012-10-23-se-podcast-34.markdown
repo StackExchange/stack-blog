@@ -58,3 +58,5 @@ On the show this week are Kyle Brandt and Nick Craver, two SE employees who are 
 
 Tune in next week when we'll have Scott Hanselman on (for real this time)!
 
+
+<iframe src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F64405575%3Fsecret_token%3Ds-spStt&amp;show_artwork=true&amp;secret_url=true" frameborder="no" scrolling="no" width="100%" height="166"></iframe></p>
