@@ -29,7 +29,7 @@ for subdir, dirs, files in os.walk(rootdir):
 	    			if re.search('<iframe|<object', line) and re.search("soundcloud", line):
 	    				contents.append('\n\n'+line)
 	    				f = open(filename, "w")
-	    				f.write("".contents)
+	    				f.write("".join(contents))
 	    				f.close()
 
     	continue
