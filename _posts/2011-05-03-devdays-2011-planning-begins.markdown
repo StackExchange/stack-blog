@@ -3,6 +3,7 @@ author: spolsky
 comments: true
 date: 2011-05-03 18:34:46+00:00
 layout: post
+redirect_from: /2011/05/devdays-2011-planning-begins
 hero: /blog/images/wordpress/London2009-e1304447642997.jpg
 slug: devdays-2011-planning-begins
 title: DevDays 2011 planning begins

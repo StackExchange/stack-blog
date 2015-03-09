@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-07-13 16:28:02+00:00
 layout: post
+redirect_from: /2009/07/reversal-and-pundit-badges
 slug: reversal-and-pundit-badges
 title: Reversal and Pundit Badges
 wordpress_id: 1642

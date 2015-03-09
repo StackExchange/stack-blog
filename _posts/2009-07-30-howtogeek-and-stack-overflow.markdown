@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-07-30 11:47:48+00:00
 layout: post
+redirect_from: /2009/07/howtogeek-and-stack-overflow
 hero: http://blog.stackoverflow.com/wp-content/uploads/how-to-geek-logo.png
 slug: howtogeek-and-stack-overflow
 title: How-To Geek and Stack Overflow

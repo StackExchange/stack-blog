@@ -3,6 +3,7 @@ author: bethanymarz
 comments: true
 date: 2012-08-23 08:00:57+00:00
 layout: post
+redirect_from: /2012/08/stack-exchange-takes-on-denver-welcome-to-our-new-colleagues
 hero: http://i.stack.imgur.com/TCEnP.png
 slug: stack-exchange-takes-on-denver-welcome-to-our-new-colleagues
 title: Stack Exchange takes on Denver! Welcome to our new colleagues!

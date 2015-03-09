@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2011-02-04 07:59:54+00:00
 layout: post
+redirect_from: /2011/02/welcome-our-new-trilogy-moderators-for-2011
 hero: http://stackoverflow.com/users/flair/34397.png
 slug: welcome-our-new-trilogy-moderators-for-2011
 title: Welcome Our New Trilogy Moderators for 2011!

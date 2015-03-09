@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2011-09-30 05:33:06+00:00
 layout: post
+redirect_from: /2011/09/stack-exchange-api-usage-stats-and-api-2-0-plans
 hero: /blog/images/wordpress/stack-exchange-api-1-1-usage-pie-graph.png
 slug: stack-exchange-api-usage-stats-and-api-2-0-plans
 title: Stack Exchange API Usage Stats and API 2.0 Plans

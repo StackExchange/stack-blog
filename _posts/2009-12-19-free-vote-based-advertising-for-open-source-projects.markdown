@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-12-19 05:57:31+00:00
 layout: post
+redirect_from: /2009/12/free-vote-based-advertising-for-open-source-projects
 hero: http://blog.stackoverflow.com/wp-content/uploads/daily-pageviews-alexa-graph.png
 slug: free-vote-based-advertising-for-open-source-projects
 title: Free Vote-Based Advertising for Open Source Projects

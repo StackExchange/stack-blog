@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-10-15 07:38:57+00:00
 layout: post
+redirect_from: /2010/10/stack-overflow-chat-now-live
 slug: stack-overflow-chat-now-live
 title: Stack Overflow Chat Now Live
 wordpress_id: 5680

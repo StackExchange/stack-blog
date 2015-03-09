@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2008-07-30 17:54:32+00:00
 excerpt: Joel and Jeff discuss the perils of programmer design, the purpose of a private
+redirect_from: /2008/07/podcast-16
   beta, the importance of quality chairs for programmers, and the mysterious cone
   of uncertainty on software projects.
 layout: post

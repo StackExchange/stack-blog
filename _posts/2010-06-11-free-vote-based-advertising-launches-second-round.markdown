@@ -3,6 +3,7 @@ author: rcartaino
 comments: true
 date: 2010-06-11 15:55:03+00:00
 layout: post
+redirect_from: /2010/06/free-vote-based-advertising-launches-second-round
 hero: http://blog.stackoverflow.com/wp-content/uploads/ad1.png
 slug: free-vote-based-advertising-launches-second-round
 title: Free Vote-Based Advertising Launches Second Round

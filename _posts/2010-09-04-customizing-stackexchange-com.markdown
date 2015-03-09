@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-09-04 06:03:21+00:00
 layout: post
+redirect_from: /2010/09/customizing-stackexchange-com
 hero: http://blog.stackoverflow.com/wp-content/uploads/stackexchange-genuine-example11.png
 slug: customizing-stackexchange-com
 title: Customizing stackexchange.com

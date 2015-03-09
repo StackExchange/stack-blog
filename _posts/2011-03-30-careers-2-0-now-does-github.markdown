@@ -3,6 +3,7 @@ author: matt
 comments: true
 date: 2011-03-30 14:39:00+00:00
 layout: post
+redirect_from: /2011/03/careers-2-0-now-does-github
 hero: http://blog.stackoverflow.com/wp-content/uploads/resigtweet.png
 slug: careers-2-0-now-does-github
 title: Careers 2.0 now does GitHub

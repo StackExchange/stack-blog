@@ -3,6 +3,7 @@ author: rcartaino
 comments: true
 date: 2010-07-27 21:47:30+00:00
 layout: post
+redirect_from: /2010/07/moderator-pro-tempore
 hero: http://blog.stackoverflow.com/wp-content/uploads/current-stack-exchange-2-public-betas.png
 slug: moderator-pro-tempore
 title: Moderator Pro Tempore

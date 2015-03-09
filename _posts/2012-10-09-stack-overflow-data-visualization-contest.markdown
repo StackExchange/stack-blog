@@ -3,6 +3,7 @@ author: kevinmontrose
 comments: true
 date: 2012-10-09 20:04:25+00:00
 layout: post
+redirect_from: /2012/10/stack-overflow-data-visualization-contest
 hero: http://imgs.xkcd.com/comics/self_description.png
 slug: stack-overflow-data-visualization-contest
 title: Stack Overflow Data Visualization Contest

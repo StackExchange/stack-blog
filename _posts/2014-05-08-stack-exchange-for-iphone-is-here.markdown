@@ -3,6 +3,7 @@ author: kasra
 comments: true
 date: 2014-05-08 19:25:09+00:00
 layout: post
+redirect_from: /2014/05/stack-exchange-for-iphone-is-here
 hero: http://i.stack.imgur.com/gbyay.png
 slug: stack-exchange-for-iphone-is-here
 title: Stack Exchange for iPhone is here!

@@ -3,6 +3,7 @@ author: sbrand
 comments: true
 date: 2012-06-04 17:24:46+00:00
 layout: post
+redirect_from: /2012/06/can-stack-exchange-capitalize-on-hot-trends
 hero: /blog/images/wordpress/teh-hawtness-300x293.png
 slug: can-stack-exchange-capitalize-on-hot-trends
 title: Can Stack Exchange Capitalize on Hot Trends?

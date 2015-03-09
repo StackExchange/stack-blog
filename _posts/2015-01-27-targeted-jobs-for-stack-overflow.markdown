@@ -3,6 +3,7 @@ author: will
 comments: true
 date: 2015-01-27 19:04:16+00:00
 layout: post
+redirect_from: /2015/01/targeted-jobs-for-stack-overflow
 hero: http://i.stack.imgur.com/8oSNi.png
 slug: targeted-jobs-for-stack-overflow
 title: Targeted Jobs for Stack Overflow

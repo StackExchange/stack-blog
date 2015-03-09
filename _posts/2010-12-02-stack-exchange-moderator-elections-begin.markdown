@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-12-02 10:44:09+00:00
 layout: post
+redirect_from: /2010/12/stack-exchange-moderator-elections-begin
 hero: http://blog.stackoverflow.com/wp-content/uploads/election-celebration.jpg
 slug: stack-exchange-moderator-elections-begin
 title: Stack Exchange Moderator Elections Begin

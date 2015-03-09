@@ -3,6 +3,7 @@ author: alison
 comments: true
 date: 2011-02-14 21:48:32+00:00
 layout: post
+redirect_from: /2011/02/welcome-valued-associate-jamie-gingerelli
 hero: /blog/images/wordpress/killington1.jpg
 slug: welcome-valued-associate-jamie-gingerelli
 title: Welcome Valued Associate Jamie Gingerelli

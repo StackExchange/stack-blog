@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-02-10 07:59:16+00:00
 layout: post
+redirect_from: /2010/02/whatever-were-doing-together-apparently-its-working
 slug: whatever-were-doing-together-apparently-its-working
 title: Whatever We're Doing Together, Apparently It's Working
 wordpress_id: 2737

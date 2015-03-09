@@ -3,6 +3,7 @@ author: alex
 comments: true
 date: 2011-05-11 17:00:41+00:00
 layout: post
+redirect_from: /2011/05/se-podcast-04
 hero: /blog/images/wordpress/photo1.jpg
 slug: se-podcast-04
 title: 'SE Podcast #04'

@@ -3,6 +3,7 @@ author: shog
 comments: true
 date: 2012-10-26 16:27:28+00:00
 layout: post
+redirect_from: /2012/10/super-user-win8-challenge
 slug: super-user-win8-challenge
 title: Take the Super User Windows 8 Challenge
 wordpress_id: 12436

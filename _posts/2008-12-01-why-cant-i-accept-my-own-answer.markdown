@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2008-12-01 06:59:29+00:00
 layout: post
+redirect_from: /2008/12/why-cant-i-accept-my-own-answer
 hero: /blog/images/wordpress/stackoverflow-answers-not-accepted1.png
 slug: why-cant-i-accept-my-own-answer
 title: Why Can't I Accept My Own Answer?

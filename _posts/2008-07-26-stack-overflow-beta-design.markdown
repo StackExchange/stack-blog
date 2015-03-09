@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2008-07-26 08:15:13+00:00
 layout: post
+redirect_from: /2008/07/stack-overflow-beta-design
 hero: http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-beta-design-small2.png
 slug: stack-overflow-beta-design
 title: Stack Overflow Beta Design

@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2008-10-29 00:21:19+00:00
 layout: post
+redirect_from: /2008/10/adde-a-second-server
 slug: adde-a-second-server
 title: Added a Second Server
 wordpress_id: 143

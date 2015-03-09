@@ -3,6 +3,7 @@ author: laura
 comments: false
 date: 2011-09-30 14:34:00+00:00
 layout: post
+redirect_from: /2011/09/10847732327
 hero: http://a1.twimg.com/profile_images/1214909919/Grimlock2.jpg
 published: false
 slug: '10847732327'

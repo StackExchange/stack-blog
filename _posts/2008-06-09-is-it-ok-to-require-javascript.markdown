@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2008-06-09 11:52:16+00:00
 layout: post
+redirect_from: /2008/06/is-it-ok-to-require-javascript
 slug: is-it-ok-to-require-javascript
 title: Is It OK to Require JavaScript?
 wordpress_id: 50

@@ -3,6 +3,7 @@ author: spolsky
 comments: true
 date: 2011-02-23 15:20:11+00:00
 layout: post
+redirect_from: /2011/02/careers-2-0-launches
 hero: /blog/images/wordpress/Careers2Blog2.png
 slug: careers-2-0-launches
 title: Careers 2.0 Launches

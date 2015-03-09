@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2011-04-27 11:38:59+00:00
 layout: post
+redirect_from: /2011/04/improved-tag-sets
 hero: http://blog.stackoverflow.com/wp-content/uploads/stack-exchange-tag-filters.png
 slug: improved-tag-sets
 title: Improved Tag Sets

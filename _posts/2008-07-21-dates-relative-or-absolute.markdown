@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2008-07-21 10:04:15+00:00
 layout: post
+redirect_from: /2008/07/dates-relative-or-absolute
 slug: dates-relative-or-absolute
 title: 'Dates: Relative or Absolute?'
 wordpress_id: 71

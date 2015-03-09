@@ -3,6 +3,7 @@ author: abbytmiller
 comments: true
 date: 2013-12-16 00:00:28+00:00
 layout: post
+redirect_from: /2013/12/winter-bash-2013-is-here
 hero: /blog/images/wordpress/header.png
 slug: winter-bash-2013-is-here
 title: Winter Bash 2013 is here!

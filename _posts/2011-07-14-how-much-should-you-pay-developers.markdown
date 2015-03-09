@@ -3,6 +3,7 @@ author: spolsky
 comments: true
 date: 2011-07-14 00:26:16+00:00
 layout: post
+redirect_from: /2011/07/how-much-should-you-pay-developers
 slug: how-much-should-you-pay-developers
 title: How much should you pay developers?
 wordpress_id: 8737

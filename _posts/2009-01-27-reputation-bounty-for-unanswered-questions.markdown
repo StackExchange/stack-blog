@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-01-27 07:57:56+00:00
 layout: post
+redirect_from: /2009/01/reputation-bounty-for-unanswered-questions
 hero: /blog/images/wordpress/bounty-collapsed.png
 slug: reputation-bounty-for-unanswered-questions
 title: Reputation Bounty for Unanswered Questions

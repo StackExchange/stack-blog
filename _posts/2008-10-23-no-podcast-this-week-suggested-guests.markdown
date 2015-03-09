@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2008-10-23 13:41:35+00:00
 layout: post
+redirect_from: /2008/10/no-podcast-this-week-suggested-guests
 hero: http://blog.stackoverflow.com/wp-content/uploads/code_monkey_colour.jpg
 slug: no-podcast-this-week-suggested-guests
 title: No Podcast This Week -- Suggested Guests?

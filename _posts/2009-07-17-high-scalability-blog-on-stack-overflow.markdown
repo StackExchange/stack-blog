@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-07-17 15:59:13+00:00
 layout: post
+redirect_from: /2009/07/high-scalability-blog-on-stack-overflow
 slug: high-scalability-blog-on-stack-overflow
 title: High Scalability Blog on Stack Overflow
 wordpress_id: 1672

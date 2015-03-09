@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-10-30 07:49:00+00:00
 layout: post
+redirect_from: /2009/10/podcast-72
 slug: podcast-72
 title: 'Podcast #72'
 wordpress_id: 2110

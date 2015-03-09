@@ -3,6 +3,7 @@ author: laura
 comments: true
 date: 2011-12-23 00:56:53+00:00
 layout: post
+redirect_from: /2011/12/earned-a-stack-overflow-gold-badge-badges
 hero: http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-gold-badge.png
 slug: earned-a-stack-overflow-gold-badge-badges
 title: '"Earned a Stack Overflow gold badge" Badges!'

@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-05-12 06:59:58+00:00
 layout: post
+redirect_from: /2009/05/stack-overflow-developer-days-conference
 slug: stack-overflow-developer-days-conference
 title: Stack Overflow Developer Days Conference
 wordpress_id: 1239

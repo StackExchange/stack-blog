@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-09-28 06:38:31+00:00
 layout: post
+redirect_from: /2010/09/server-fault-hiring-from-the-community-agai
 hero: http://serverfault.com/users/flair/5880.png
 slug: server-fault-hiring-from-the-community-agai
 title: 'Server Fault: Hiring From The Community Again'

@@ -3,6 +3,7 @@ author: shog
 comments: true
 date: 2012-08-08 18:34:11+00:00
 layout: post
+redirect_from: /2012/08/stack-exchange-is-not-a-forum-the-role-of-niceness-on-a-qa-site
 hero: http://i.stack.imgur.com/6xtfg.jpg
 slug: stack-exchange-is-not-a-forum-the-role-of-niceness-on-a-qa-site
 title: 'Stack Exchange is not a forum: the role of “niceness” on a Q&A site'

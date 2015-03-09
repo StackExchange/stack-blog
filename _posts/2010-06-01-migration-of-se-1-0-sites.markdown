@@ -3,6 +3,7 @@ author: rcartaino
 comments: true
 date: 2010-06-01 03:29:59+00:00
 layout: post
+redirect_from: /2010/06/migration-of-se-1-0-sites
 slug: migration-of-se-1-0-sites
 title: Migration of SE 1.0 Sites
 wordpress_id: 3357

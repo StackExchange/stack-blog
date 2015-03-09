@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-10-11 19:00:55+00:00
 layout: post
+redirect_from: /2010/10/ubuntu-stack-exchange-is-askubuntu-com
 hero: http://blog.stackoverflow.com/wp-content/uploads/askubuntu-screenshot.png
 slug: ubuntu-stack-exchange-is-askubuntu-com
 title: Ubuntu Stack Exchange is askubuntu.com

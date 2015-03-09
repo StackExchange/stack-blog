@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-04-08 06:10:19+00:00
 layout: post
+redirect_from: /2009/04/in-defense-of-editing
 slug: in-defense-of-editing
 title: In Defense of Editing
 wordpress_id: 986

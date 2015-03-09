@@ -3,6 +3,7 @@ author: alex
 comments: true
 date: 2011-08-24 17:30:17+00:00
 layout: post
+redirect_from: /2011/08/facebook-stackoverflow
 hero: http://blog.stackoverflow.com/wp-content/uploads/fb.so_.png
 slug: facebook-stackoverflow
 title: Announcing facebook.stackoverflow.com

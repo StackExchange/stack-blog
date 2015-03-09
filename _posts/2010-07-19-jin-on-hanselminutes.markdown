@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-07-19 02:23:30+00:00
 layout: post
+redirect_from: /2010/07/jin-on-hanselminutes
 slug: jin-on-hanselminutes
 title: Jin on Hanselminutes
 wordpress_id: 4191

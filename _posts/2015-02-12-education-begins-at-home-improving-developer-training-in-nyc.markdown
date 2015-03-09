@@ -3,6 +3,7 @@ author: bethanymarz
 comments: true
 date: 2015-02-12 17:30:42+00:00
 layout: post
+redirect_from: /2015/02/education-begins-at-home-improving-developer-training-in-nyc
 hero: /blog/images/StackExchange-19.jpg
 slug: education-begins-at-home-improving-developer-training-in-nyc
 title: 'Education begins at home: Improving developer training in NYC'

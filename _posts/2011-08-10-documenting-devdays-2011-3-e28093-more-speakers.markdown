@@ -3,6 +3,7 @@ author: alison
 comments: true
 date: 2011-08-10 18:55:52+00:00
 layout: post
+redirect_from: /2011/08/documenting-devdays-2011-3-e28093-more-speakers
 hero: http://blog.stackoverflow.com/wp-content/uploads/PaulBiggar.jpg
 slug: documenting-devdays-2011-3-%e2%80%93-more-speakers
 title: 'Documenting DevDays 2011: #3 – More Speakers!'

@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-05-24 01:00:10+00:00
 layout: post
+redirect_from: /2010/05/stack-exchange-api-contest
 hero: /blog/images/wordpress/api-contest-prize-monitors1.jpg
 slug: stack-exchange-api-contest
 title: Stack Exchange API Contest

@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2011-09-05 00:13:31+00:00
 layout: post
+redirect_from: /2011/09/expanding-user-cards
 hero: /blog/images/wordpress/user-card-hover-expansion.png
 slug: expanding-user-cards
 title: Expanding User Cards

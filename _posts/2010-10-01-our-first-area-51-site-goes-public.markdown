@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-10-01 00:40:23+00:00
 layout: post
+redirect_from: /2010/10/our-first-area-51-site-goes-public
 hero: http://blog.stackoverflow.com/wp-content/uploads/webapps-stackexchange-logo.png
 slug: our-first-area-51-site-goes-public
 title: Our First Area 51 Site Goes Public

@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-10-01 09:35:55+00:00
 layout: post
+redirect_from: /2010/10/an-area-51-apology-and-clarification
 hero: http://blog.stackoverflow.com/wp-content/uploads/charlie-brown-lucy-football.png
 slug: an-area-51-apology-and-clarification
 title: An Area 51 Apology -- and Clarification

@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2008-07-18 16:51:53+00:00
 layout: post
+redirect_from: /2008/07/easy-background-tasks-in-aspnet
 slug: easy-background-tasks-in-aspnet
 title: Easy Background Tasks in ASP.NET
 wordpress_id: 70

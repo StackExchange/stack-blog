@@ -3,6 +3,7 @@ author: rcartaino
 comments: true
 date: 2011-01-28 21:22:35+00:00
 layout: post
+redirect_from: /2011/01/area-51-gets-organized-lets-talk
 hero: http://blog.stackoverflow.com/wp-content/uploads/discussion-zone.png
 slug: area-51-gets-organized-lets-talk
 title: Area 51 Gets Organized. Let's Talk!

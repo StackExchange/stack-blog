@@ -3,6 +3,7 @@ author: alex
 comments: true
 date: 2012-12-24 15:34:05+00:00
 layout: post
+redirect_from: /2012/12/podcast-39-the-one-with-wil-wheaton
 slug: podcast-39-the-one-with-wil-wheaton
 title: 'Podcast #39 - The One with Wil Wheaton'
 wordpress_id: 12862

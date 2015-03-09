@@ -3,6 +3,7 @@ author: rcartaino
 comments: true
 date: 2011-06-21 20:56:08+00:00
 layout: post
+redirect_from: /2011/06/welcome-valued-associate-susan-stewart
 hero: http://blog.stackoverflow.com/wp-content/uploads/HedgeMage.png
 slug: welcome-valued-associate-susan-stewart
 title: Welcome Valued Associate Susan Stewart

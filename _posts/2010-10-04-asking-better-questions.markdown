@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-10-04 09:22:47+00:00
 layout: post
+redirect_from: /2010/10/asking-better-questions
 hero: http://blog.stackoverflow.com/wp-content/uploads/how-to-ask-screenshot1.png
 slug: asking-better-questions
 title: Asking Better Questions

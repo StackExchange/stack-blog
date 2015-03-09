@@ -3,6 +3,7 @@ author: spolsky
 comments: true
 date: 2011-01-05 16:10:05+00:00
 layout: post
+redirect_from: /2011/01/the-wikipedia-of-long-tail-programming-questions
 hero: http://blog.stackoverflow.com/wp-content/uploads/lord-of-the-flies.jpg
 slug: the-wikipedia-of-long-tail-programming-questions
 title: The Wikipedia of Long Tail Programming Questions

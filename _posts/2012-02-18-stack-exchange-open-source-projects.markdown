@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2012-02-18 23:35:01+00:00
 layout: post
+redirect_from: /2012/02/stack-exchange-open-source-projects
 slug: stack-exchange-open-source-projects
 title: Stack Exchange Open Source Projects
 wordpress_id: 11084

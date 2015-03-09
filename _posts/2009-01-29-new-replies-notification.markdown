@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-01-29 06:59:53+00:00
 layout: post
+redirect_from: /2009/01/new-replies-notification
 hero: /blog/images/wordpress/recent-activity-alert-off.png
 slug: new-replies-notification
 title: New Replies Notification

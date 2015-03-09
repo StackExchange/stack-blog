@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-02-07 11:47:36+00:00
 layout: post
+redirect_from: /2010/02/thermal-event-at-datacenter
 slug: thermal-event-at-datacenter
 title: Thermal Event at Datacenter
 wordpress_id: 2706

@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-01-06 10:25:13+00:00
 layout: post
+redirect_from: /2009/01/accept-your-own-answers
 hero: /blog/images/wordpress/accept-own-answer-before.png
 slug: accept-your-own-answers
 title: Accept Your Own Answers

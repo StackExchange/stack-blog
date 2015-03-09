@@ -3,6 +3,7 @@ author: david
 comments: true
 date: 2012-10-01 18:09:14+00:00
 layout: post
+redirect_from: /2012/10/join-the-stack-exchange-team-were-hiring
 slug: join-the-stack-exchange-team-were-hiring
 title: Join the Stack Exchange team - we're hiring!
 wordpress_id: 12320

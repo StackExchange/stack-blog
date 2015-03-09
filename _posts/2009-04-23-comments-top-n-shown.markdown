@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-04-23 12:43:48+00:00
 layout: post
+redirect_from: /2009/04/comments-top-n-shown
 hero: /blog/images/wordpress/stackoverflow-comments-top-n.png
 slug: comments-top-n-shown
 title: 'Comments: Top n Shown'

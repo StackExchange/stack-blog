@@ -3,6 +3,7 @@ author: seth
 comments: true
 date: 2012-07-23 21:25:52+00:00
 layout: post
+redirect_from: /2012/07/week-2-of-the-summer-of-love-researching-comments
 hero: http://i.stack.imgur.com/v9gus.png
 slug: week-2-of-the-summer-of-love-researching-comments
 title: 'Week 2 of the Summer of Love: Researching Comments'

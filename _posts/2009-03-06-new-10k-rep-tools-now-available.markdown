@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-03-06 06:59:37+00:00
 layout: post
+redirect_from: /2009/03/new-10k-rep-tools-now-available
 slug: new-10k-rep-tools-now-available
 title: New 10k Rep Tools Now Available
 wordpress_id: 794

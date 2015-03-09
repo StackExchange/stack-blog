@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-04-17 06:24:44+00:00
 layout: post
+redirect_from: /2009/04/the-stack-overflow-question-lifecycle
 slug: the-stack-overflow-question-lifecycle
 title: The Stack Overflow Question Lifecycle
 wordpress_id: 1074

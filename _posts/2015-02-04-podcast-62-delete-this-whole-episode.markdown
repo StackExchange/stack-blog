@@ -3,6 +3,7 @@ author: abbytmiller
 comments: true
 date: 2015-02-04 20:00:01+00:00
 layout: post
+redirect_from: /2015/02/podcast-62-delete-this-whole-episode
 hero: http://i.stack.imgur.com/gHEFZ.gif
 slug: podcast-62-delete-this-whole-episode
 title: 'Podcast #62 - Delete This Whole Episode'

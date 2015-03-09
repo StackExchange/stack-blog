@@ -3,6 +3,7 @@ author: laura
 comments: false
 date: 2011-11-18 20:53:00+00:00
 layout: post
+redirect_from: /2011/11/12978552537
 published: false
 slug: '12978552537'
 title: '"Give a damn. Give lots of damns. More than anyone."'

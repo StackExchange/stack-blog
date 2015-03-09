@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-09-11 23:34:55+00:00
 layout: post
+redirect_from: /2009/09/new-dns-provider
 hero: http://blog.stackoverflow.com/wp-content/uploads/dynect-uptime.png
 slug: new-dns-provider
 title: New DNS Provider

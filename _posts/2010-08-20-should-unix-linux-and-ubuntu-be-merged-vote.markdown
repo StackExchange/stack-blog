@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-08-20 11:19:07+00:00
 layout: post
+redirect_from: /2010/08/should-unix-linux-and-ubuntu-be-merged-vote
 slug: should-unix-linux-and-ubuntu-be-merged-vote
 title: Should Unix/Linux and Ubuntu Be Merged -- Vote!
 wordpress_id: 4752

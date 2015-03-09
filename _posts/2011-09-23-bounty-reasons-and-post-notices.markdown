@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2011-09-23 20:00:12+00:00
 layout: post
+redirect_from: /2011/09/bounty-reasons-and-post-notices
 hero: /blog/images/wordpress/user-page-bounty-tab.png
 slug: bounty-reasons-and-post-notices
 title: Bounty Reasons and Post Notices

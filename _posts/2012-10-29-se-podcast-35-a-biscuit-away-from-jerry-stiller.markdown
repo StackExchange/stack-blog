@@ -3,6 +3,7 @@ author: alex
 comments: true
 date: 2012-10-29 15:22:49+00:00
 layout: post
+redirect_from: /2012/10/se-podcast-35-a-biscuit-away-from-jerry-stiller
 slug: se-podcast-35-a-biscuit-away-from-jerry-stiller
 title: 'SE Podcast #35 - A Biscuit Away from Jerry Stiller'
 wordpress_id: 12448

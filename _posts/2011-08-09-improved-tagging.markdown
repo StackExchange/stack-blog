@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2011-08-09 09:24:21+00:00
 layout: post
+redirect_from: /2011/08/improved-tagging
 hero: /blog/images/wordpress/old-tag-completer.png
 slug: improved-tagging
 title: Improved Tagging

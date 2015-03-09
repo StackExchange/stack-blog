@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-08-10 21:56:23+00:00
 layout: post
+redirect_from: /2009/08/coming-soon-trilogy-stickers
 hero: http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-sticker-proof.png
 slug: coming-soon-trilogy-stickers
 title: 'Coming Soon: Trilogy Stickers'

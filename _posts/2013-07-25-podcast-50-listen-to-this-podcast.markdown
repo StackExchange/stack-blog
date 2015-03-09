@@ -3,6 +3,7 @@ author: alex
 comments: true
 date: 2013-07-25 08:05:01+00:00
 layout: post
+redirect_from: /2013/07/podcast-50-listen-to-this-podcast
 hero: http://i.imgur.com/CqsAzHL.jpg
 slug: podcast-50-listen-to-this-podcast
 title: 'Podcast #50 - Listen To This Podcast'

@@ -3,6 +3,7 @@ author: abbytmiller
 comments: true
 date: 2011-11-08 21:26:00+00:00
 layout: post
+redirect_from: /2011/11/the-art-of-organizing-chaos
 hero: http://4customers.files.wordpress.com/2008/11/brass-tacks.jpg
 slug: the-art-of-organizing-chaos
 title: The Art of Organizing CHAOS

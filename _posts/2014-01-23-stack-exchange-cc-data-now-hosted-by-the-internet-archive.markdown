@@ -3,6 +3,7 @@ author: david
 comments: true
 date: 2014-01-23 19:05:13+00:00
 layout: post
+redirect_from: /2014/01/stack-exchange-cc-data-now-hosted-by-the-internet-archive
 slug: stack-exchange-cc-data-now-hosted-by-the-internet-archive
 title: Stack Exchange Creative Commons data now hosted by the Internet Archive
 wordpress_id: 14382

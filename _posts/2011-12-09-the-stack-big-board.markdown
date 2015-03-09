@@ -3,6 +3,7 @@ author: alex
 comments: true
 date: 2011-12-09 14:58:41+00:00
 layout: post
+redirect_from: /2011/12/the-stack-big-board
 hero: http://blog.stackoverflow.com/wp-content/uploads/Big-Board-High-1024x682.jpg
 slug: the-stack-big-board
 title: The Stack Big Board (with Video!)

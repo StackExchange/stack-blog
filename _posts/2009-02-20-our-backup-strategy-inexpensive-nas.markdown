@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-02-20 00:51:03+00:00
 layout: post
+redirect_from: /2009/02/our-backup-strategy-inexpensive-nas
 hero: http://blog.stackoverflow.com/wp-content/uploads/qnap-409u.jpg
 slug: our-backup-strategy-inexpensive-nas
 title: Our Backup Strategy - Inexpensive NAS

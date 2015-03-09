@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-01-13 01:37:32+00:00
 layout: post
+redirect_from: /2010/01/coming-soon-stack-overflow-t-shirts
 hero: http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-recursive-t-shirt1.png
 slug: coming-soon-stack-overflow-t-shirts
 title: 'Coming Soon: Stack Overflow T-Shirts'

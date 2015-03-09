@@ -3,6 +3,7 @@ author: lauren
 comments: true
 date: 2012-04-20 16:06:05+00:00
 layout: post
+redirect_from: /2012/04/more-notes-on-contest-format
 hero: http://blog.stackoverflow.com/wp-content/uploads/avx-300x121.png
 slug: more-notes-on-contest-format
 title: More Notes on Contest Format

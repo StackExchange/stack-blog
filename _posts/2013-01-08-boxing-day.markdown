@@ -3,6 +3,7 @@ author: aarthi
 comments: true
 date: 2013-01-08 16:00:58+00:00
 layout: post
+redirect_from: /2013/01/boxing-day
 hero: http://i.stack.imgur.com/7MLht.png
 slug: boxing-day
 title: 'Winter Bash 2012 Conclusion: Boxing Day'

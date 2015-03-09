@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-05-17 06:59:10+00:00
 layout: post
+redirect_from: /2009/05/server-fault-public-beta-nears
 hero: http://blog.stackoverflow.com/wp-content/uploads/april-fools-day-rfcs.png
 slug: server-fault-public-beta-nears
 title: Server Fault Public Beta Nears

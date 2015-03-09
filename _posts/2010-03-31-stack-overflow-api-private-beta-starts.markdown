@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-03-31 11:18:14+00:00
 layout: post
+redirect_from: /2010/03/stack-overflow-api-private-beta-starts
 slug: stack-overflow-api-private-beta-starts
 title: Stack Overflow API Private Beta Starts
 wordpress_id: 2864

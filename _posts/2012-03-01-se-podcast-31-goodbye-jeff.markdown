@@ -3,6 +3,7 @@ author: alex
 comments: true
 date: 2012-03-01 15:11:20+00:00
 layout: post
+redirect_from: /2012/03/se-podcast-31-goodbye-jeff
 slug: se-podcast-31-goodbye-jeff
 title: 'SE Podcast #31 - Goodbye Jeff'
 wordpress_id: 11260

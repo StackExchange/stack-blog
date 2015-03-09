@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-05-11 09:58:17+00:00
 layout: post
+redirect_from: /2010/05/a-little-steam-giveaway
 hero: http://cdn.steampowered.com/v/gfx/apps/41010/header.jpg
 slug: a-little-steam-giveaway
 title: A Little Steam Giveaway

@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2011-05-27 08:18:28+00:00
 layout: post
+redirect_from: /2011/05/stack-exchange-is-an-openid-provider
 hero: /blog/images/wordpress/stack-exchange-openid-button.png
 slug: stack-exchange-is-an-openid-provider
 title: Stack Exchange is an OpenID Provider

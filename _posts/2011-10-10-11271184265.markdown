@@ -3,6 +3,7 @@ author: sbrand
 comments: false
 date: 2011-10-10 13:00:00+00:00
 layout: post
+redirect_from: /2011/10/11271184265
 published: false
 slug: '11271184265'
 title: Questions. Do you have any?

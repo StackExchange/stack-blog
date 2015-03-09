@@ -3,6 +3,7 @@ author: shog
 comments: true
 date: 2014-10-07 21:42:26+00:00
 layout: post
+redirect_from: /2014/10/new-editing-badges-and-enhancements-to-suggested-edits
 hero: http://i.stack.imgur.com/4kwcd.png
 slug: new-editing-badges-and-enhancements-to-suggested-edits
 title: 'Editing is essential: new badges and review enhancements '

@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-01-25 16:18:24+00:00
 layout: post
+redirect_from: /2009/01/new-stack-overflow-servers-ready
 hero: http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-servers-shipping-ready.jpg
 slug: new-stack-overflow-servers-ready
 title: New Stack Overflow Servers Ready

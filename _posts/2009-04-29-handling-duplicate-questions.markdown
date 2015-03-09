@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-04-29 06:59:48+00:00
 layout: post
+redirect_from: /2009/04/handling-duplicate-questions
 slug: handling-duplicate-questions
 title: Handling Duplicate Questions
 wordpress_id: 1153

@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-07-14 09:56:42+00:00
 layout: post
+redirect_from: /2010/07/third-place-chat-beta-preview
 hero: /blog/images/wordpress/bacon-tuxedos-lr.jpg
 slug: third-place-chat-beta-preview
 title: Third Place Chat Beta Preview

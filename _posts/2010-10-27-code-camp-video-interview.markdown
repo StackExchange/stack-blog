@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-10-27 09:02:42+00:00
 layout: post
+redirect_from: /2010/10/code-camp-video-interview
 slug: code-camp-video-interview
 title: Code Camp Video Interview
 wordpress_id: 5886

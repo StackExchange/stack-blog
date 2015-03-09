@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-01-01 03:49:38+00:00
 layout: post
+redirect_from: /2010/01/stack-overflow-gives-back
 slug: stack-overflow-gives-back
 title: Stack Overflow Gives Back
 wordpress_id: 2267

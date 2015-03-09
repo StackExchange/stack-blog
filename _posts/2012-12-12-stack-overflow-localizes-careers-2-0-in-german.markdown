@@ -3,6 +3,7 @@ author: bethanymarz
 comments: true
 date: 2012-12-12 17:00:33+00:00
 layout: post
+redirect_from: /2012/12/stack-overflow-localizes-careers-2-0-in-german
 hero: http://i.stack.imgur.com/f567I.png
 slug: stack-overflow-localizes-careers-2-0-in-german
 title: Stack Overflow localizes Careers 2.0 in German

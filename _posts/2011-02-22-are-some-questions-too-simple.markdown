@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2011-02-22 09:15:10+00:00
 layout: post
+redirect_from: /2011/02/are-some-questions-too-simple
 hero: /blog/images/wordpress/interesting-question-decision-tree-flowchart.png
 slug: are-some-questions-too-simple
 title: Are Some Questions Too Simple?

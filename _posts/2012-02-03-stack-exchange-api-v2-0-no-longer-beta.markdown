@@ -3,6 +3,7 @@ author: kevinmontrose
 comments: true
 date: 2012-02-03 21:15:43+00:00
 layout: post
+redirect_from: /2012/02/stack-exchange-api-v2-0-no-longer-beta
 hero: http://blog.stackoverflow.com/wp-content/uploads/documentation1.png
 slug: stack-exchange-api-v2-0-no-longer-beta
 title: Stack Exchange API V2.0 No Longer Beta

@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-04-05 09:30:56+00:00
 layout: post
+redirect_from: /2009/04/what-stack-overflow-can-teach-you
 slug: what-stack-overflow-can-teach-you
 title: What Stack Overflow Can Teach You
 wordpress_id: 961

@@ -3,6 +3,7 @@ author: lauren
 comments: true
 date: 2012-01-05 18:05:39+00:00
 layout: post
+redirect_from: /2012/01/hot-topics-a-contest-formula-that-works
 slug: hot-topics-a-contest-formula-that-works
 title: 'Hot Topics: A Contest Formula that Works'
 wordpress_id: 10717

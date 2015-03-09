@@ -3,6 +3,7 @@ author: rcartaino
 comments: true
 date: 2010-12-23 03:14:31+00:00
 layout: post
+redirect_from: /2010/12/no-artificial-intelligence-in-area-51
 hero: http://blog.stackoverflow.com/wp-content/uploads/evolution-of-the-chess-computer.png
 slug: no-artificial-intelligence-in-area-51
 title: No Artificial Intelligence in Area 51

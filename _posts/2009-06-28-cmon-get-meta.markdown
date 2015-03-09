@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-06-28 08:26:03+00:00
 layout: post
+redirect_from: /2009/06/cmon-get-meta
 hero: http://blog.stackoverflow.com/wp-content/uploads/fight-club-soap.jpg
 slug: cmon-get-meta
 title: C'Mon Get Meta!

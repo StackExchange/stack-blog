@@ -3,6 +3,7 @@ author: shog
 comments: true
 date: 2013-09-06 19:01:59+00:00
 layout: post
+redirect_from: /2013/09/community-management-by-popular-demand-kevin-chang-joins-the-team
 hero: http://stackexchange.com/users/flair/42117.png
 slug: community-management-by-popular-demand-kevin-chang-joins-the-team
 title: 'Community Management by Popular Demand: Kevin Chang Joins The Team'

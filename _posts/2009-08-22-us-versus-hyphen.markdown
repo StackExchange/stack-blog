@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-08-22 00:10:22+00:00
 layout: post
+redirect_from: /2009/08/us-versus-hyphen
 hero: http://blog.stackoverflow.com/wp-content/uploads/google-search-rank-stackoverflow-vs-hyphens.png
 slug: us-versus-hyphen
 title: Us Versus Hyphen

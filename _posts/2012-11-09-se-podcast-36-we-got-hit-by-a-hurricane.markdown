@@ -3,6 +3,7 @@ author: alex
 comments: true
 date: 2012-11-09 17:07:58+00:00
 layout: post
+redirect_from: /2012/11/se-podcast-36-we-got-hit-by-a-hurricane
 slug: se-podcast-36-we-got-hit-by-a-hurricane
 title: 'SE Podcast #36 - We Got Hit by a Hurricane'
 wordpress_id: 12499

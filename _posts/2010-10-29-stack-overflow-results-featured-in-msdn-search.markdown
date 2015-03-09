@@ -3,6 +3,7 @@ author: spolsky
 comments: true
 date: 2010-10-29 15:44:21+00:00
 layout: post
+redirect_from: /2010/10/stack-overflow-results-featured-in-msdn-search
 hero: /blog/images/wordpress/stackoverflow-on-msdn.png
 slug: stack-overflow-results-featured-in-msdn-search
 title: Stack Overflow results featured in MSDN Search

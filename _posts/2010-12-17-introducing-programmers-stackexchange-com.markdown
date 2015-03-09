@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-12-17 06:28:45+00:00
 layout: post
+redirect_from: /2010/12/introducing-programmers-stackexchange-com
 hero: http://blog.stackoverflow.com/wp-content/uploads/programmers-stackexchange1.png
 slug: introducing-programmers-stackexchange-com
 title: Introducing programmers.stackexchange.com

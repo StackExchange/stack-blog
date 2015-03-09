@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-06-07 06:28:21+00:00
 layout: post
+redirect_from: /2010/06/new-protected-question-status
 hero: /blog/images/wordpress/superuser-deleted-answers-small.png
 slug: new-protected-question-status
 title: New Protected Question Status

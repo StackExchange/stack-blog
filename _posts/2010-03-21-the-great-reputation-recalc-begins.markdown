@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-03-21 22:18:19+00:00
 layout: post
+redirect_from: /2010/03/the-great-reputation-recalc-begins
 slug: the-great-reputation-recalc-begins
 title: The Great Reputation Recalc Begins
 wordpress_id: 2831

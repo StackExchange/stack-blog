@@ -3,6 +3,7 @@ author: alison
 comments: true
 date: 2011-03-22 13:22:54+00:00
 layout: post
+redirect_from: /2011/03/welcome-valued-associate-amanda-zompetti
 hero: /blog/images/wordpress/egg-cream-e1300723988366.jpg
 slug: welcome-valued-associate-amanda-zompetti
 title: Welcome Valued Associate Amanda Zompetti!

@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-09-02 07:02:19+00:00
 layout: post
+redirect_from: /2009/09/the-first-super-user-with-10k-rep
 slug: the-first-super-user-with-10k-rep
 title: The First Super User With 10k Rep
 wordpress_id: 1905

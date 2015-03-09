@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-04-30 18:35:12+00:00
 layout: post
+redirect_from: /2009/04/googles-openids-are-unique-per-domain
 slug: googles-openids-are-unique-per-domain
 title: Google's OpenIDs are Unique Per-Domain
 wordpress_id: 1192

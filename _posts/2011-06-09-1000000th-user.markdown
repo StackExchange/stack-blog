@@ -3,6 +3,7 @@ author: spolsky
 comments: true
 date: 2011-06-09 15:45:20+00:00
 layout: post
+redirect_from: /2011/06/1000000th-user
 hero: http://blog.stackoverflow.com/wp-content/uploads/1000000users.png
 slug: 1000000th-user
 title: 1,000,000th user!

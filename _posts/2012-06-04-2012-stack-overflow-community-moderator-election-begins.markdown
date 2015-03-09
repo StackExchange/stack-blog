@@ -3,6 +3,7 @@ author: shog
 comments: true
 date: 2012-06-04 20:00:38+00:00
 layout: post
+redirect_from: /2012/06/2012-stack-overflow-community-moderator-election-begins
 slug: 2012-stack-overflow-community-moderator-election-begins
 title: 2012 Stack Overflow Community Moderator Election Begins
 wordpress_id: 11850

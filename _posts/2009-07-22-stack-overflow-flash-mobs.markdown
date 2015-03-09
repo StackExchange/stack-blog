@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-07-22 01:11:45+00:00
 layout: post
+redirect_from: /2009/07/stack-overflow-flash-mobs
 slug: stack-overflow-flash-mobs
 title: Stack Overflow Flash Mobs
 wordpress_id: 1682

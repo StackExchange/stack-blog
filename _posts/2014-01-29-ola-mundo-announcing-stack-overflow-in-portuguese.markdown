@@ -3,6 +3,7 @@ author: jhanlon
 comments: true
 date: 2014-01-29 11:01:23+00:00
 layout: post
+redirect_from: /2014/01/ola-mundo-announcing-stack-overflow-in-portuguese
 hero: /blog/images/wordpress/hola-mundo-cedilla.png
 slug: ola-mundo-announcing-stack-overflow-in-portuguese
 title: Olá, Mundo!  Announcing Stack Overflow in Portuguese.

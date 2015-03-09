@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-08-17 09:57:26+00:00
 layout: post
+redirect_from: /2009/08/congratulations-super-user-moderators
 slug: congratulations-super-user-moderators
 title: Congratulations Super User Moderators!
 wordpress_id: 1843

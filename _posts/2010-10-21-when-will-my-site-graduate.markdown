@@ -3,6 +3,7 @@ author: rcartaino
 comments: true
 date: 2010-10-21 03:20:15+00:00
 layout: post
+redirect_from: /2010/10/when-will-my-site-graduate
 hero: http://blog.stackoverflow.com/wp-content/uploads/screenshot-19.png
 slug: when-will-my-site-graduate
 title: When Will My Site Graduate?

@@ -3,6 +3,7 @@ author: alison
 comments: true
 date: 2010-11-09 15:05:42+00:00
 layout: post
+redirect_from: /2010/11/whats-a-cv-anyway
 hero: /blog/images/wordpress/funny-pictures-cat-wears-a-tie-225x300.jpg
 slug: whats-a-cv-anyway
 title: What's a CV Anyway?

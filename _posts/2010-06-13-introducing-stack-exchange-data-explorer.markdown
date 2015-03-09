@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-06-13 12:05:19+00:00
 layout: post
+redirect_from: /2010/06/introducing-stack-exchange-data-explorer
 hero: http://blog.stackoverflow.com/wp-content/uploads/stack-exchange-data-explorer.png
 slug: introducing-stack-exchange-data-explorer
 title: Introducing Stack Exchange Data Explorer

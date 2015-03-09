@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-02-01 18:15:50+00:00
 layout: post
+redirect_from: /2010/02/stack-overflow-2010-moderator-election-begins
 hero: /blog/images/wordpress/ballot-box.jpg
 slug: stack-overflow-2010-moderator-election-begins
 title: Stack Overflow 2010 Moderator Election Begins

@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2008-08-12 06:59:57+00:00
 layout: post
+redirect_from: /2008/08/special-development-team-podcast
 hero: /blog/images/wordpress/bio-jarrod-dixon.jpg
 slug: special-development-team-podcast
 title: Special Development Team Podcast

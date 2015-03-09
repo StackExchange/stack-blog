@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2008-10-23 06:59:06+00:00
 layout: post
+redirect_from: /2008/10/stack-overflow-openid-case-study
 slug: stack-overflow-openid-case-study
 title: Stack Overflow OpenID Case Study
 wordpress_id: 137

@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-01-19 14:39:00+00:00
 layout: post
+redirect_from: /2010/01/welcome-new-super-user-moderators
 slug: welcome-new-super-user-moderators
 title: Welcome New Super User Moderators
 wordpress_id: 2614

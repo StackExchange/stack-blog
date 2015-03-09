@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2008-04-24 07:52:16+00:00
 layout: post
+redirect_from: /2008/04/logo-design-contest
 hero: http://blog.stackoverflow.com/wp-content/uploads/99-designs-logo.png
 slug: logo-design-contest
 title: Logo Design Contest

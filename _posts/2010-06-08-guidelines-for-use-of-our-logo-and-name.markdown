@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-06-08 09:02:49+00:00
 layout: post
+redirect_from: /2010/06/guidelines-for-use-of-our-logo-and-name
 hero: http://blog.stackoverflow.com/wp-content/uploads/legalese.jpg
 slug: guidelines-for-use-of-our-logo-and-name
 title: Guidelines for Use of our Logo and Name

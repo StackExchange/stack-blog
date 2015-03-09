@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-10-22 06:19:34+00:00
 layout: post
+redirect_from: /2010/10/datacenter-migration-oct-23
 hero: /blog/images/wordpress/oregon-to-nyc-server-trail.png
 slug: datacenter-migration-oct-23
 title: Datacenter Migration Oct. 23

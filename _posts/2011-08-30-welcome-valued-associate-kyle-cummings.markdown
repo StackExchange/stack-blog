@@ -3,6 +3,7 @@ author: alison
 comments: true
 date: 2011-08-30 19:23:03+00:00
 layout: post
+redirect_from: /2011/08/welcome-valued-associate-kyle-cummings
 hero: http://blog.stackoverflow.com/wp-content/uploads/KYLE.jpg
 slug: welcome-valued-associate-kyle-cummings
 title: Welcome Valued Associate Kyle Cummings

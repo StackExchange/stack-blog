@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2011-08-28 23:08:29+00:00
 layout: post
+redirect_from: /2011/08/a-bevy-of-new-badges
 hero: http://blog.stackoverflow.com/wp-content/uploads/nerd-badges.jpg
 slug: a-bevy-of-new-badges
 title: A Bevy of New Badges

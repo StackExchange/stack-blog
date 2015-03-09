@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-12-13 02:10:00+00:00
 layout: post
+redirect_from: /2009/12/blog-outage-backup-policies
 hero: /blog/images/wordpress/our-disaster-recovery-plan.png
 slug: blog-outage-backup-policies
 title: Blog Outage - Backup Policies

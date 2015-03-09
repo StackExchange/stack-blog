@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2011-08-16 05:24:38+00:00
 layout: post
+redirect_from: /2011/08/gorilla-vs-shark
 hero: http://blog.stackoverflow.com/wp-content/uploads/gorilla-vs-shark.png
 slug: gorilla-vs-shark
 title: Gorilla vs. Shark
