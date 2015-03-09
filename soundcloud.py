@@ -18,7 +18,7 @@ for subdir, dirs, files in os.walk(rootdir):
     	end = "-".join(splits[3:])
 
     	link = "/".join([year, month, end])
-    	link = "/" + link
+    	link = "/" + link + '\n'
     	print link
 
     	contents.insert(5, "redirect_from: " + link)
