@@ -56,3 +56,5 @@ Join us next week when our guest is [Marco Arment](http://www.marco.org/), the c
 [Stack Exchange Podcast - Episode #07 w/ Sam Saffron](http://soundcloud.com/stack-exchange/stack-exchange-podcast-9) by [Stack Exchange](http://soundcloud.com/stack-exchange)
 
 [display_podcast]
+
+<p><object width="100%" height="81"><param name="movie" value="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F16777601" /><param name="allowscriptaccess" value="always" /><embed type="application/x-shockwave-flash" width="100%" height="81" src="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F16777601" allowscriptaccess="always"></embed></object> <span><a href="http://soundcloud.com/stack-exchange/stack-exchange-podcast-9">Stack Exchange Podcast &#8211; Episode #07 w/ Sam Saffron</a> by <a href="http://soundcloud.com/stack-exchange">Stack Exchange</a></span></p>

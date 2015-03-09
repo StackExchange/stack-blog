@@ -58,3 +58,5 @@ Welcome to Stack Exchange Podcast #51, with special guest [Jeff Atwood](http://
 
 Thanks for listening to the Stack Exchange podcast featuring Jeff Atwood! Check out [BoingBoing's forums](http://bbs.boingboing.net/) or [How-To Geek's forums](http://discuss.howtogeek.com/) to see [Discourse](http://www.discourse.org/) in action. Until next time!
 
+
+<iframe src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F104100512" height="166" width="100%" frameborder="no" scrolling="no"></iframe></p>

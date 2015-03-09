@@ -54,3 +54,5 @@ Jeff & Joel are joined today by Dave Winer, who's upset that we don't have a jin
 
 
 [Stack Exchange Podcast - Episode #27 w/ Dave Winer](http://soundcloud.com/stack-exchange/stack-exchange-podcast-27) by [Stack Exchange](http://soundcloud.com/stack-exchange)
+
+<p><object width="100%" height="81" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowscriptaccess" value="always" /><param name="src" value="https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F28160568" /><embed width="100%" height="81" type="application/x-shockwave-flash" src="https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F28160568" allowscriptaccess="always" /></object> <span><a href="http://soundcloud.com/stack-exchange/stack-exchange-podcast-27">Stack Exchange Podcast &#8211; Episode #27 w/ Dave Winer</a> by <a href="http://soundcloud.com/stack-exchange">Stack Exchange</a></span></p>

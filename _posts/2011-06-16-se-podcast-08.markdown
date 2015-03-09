@@ -113,3 +113,5 @@ This week, Jeff and Joel are joined live "in studio" by [Marco Arment](http://ww
 Join us next week, once again live @ 4pm on Tuesday for Greg Wilson for deep insights into the communities surrounding open source software projects.
 
 [Stack Exchange Podcast #08 w/ Marco Arment](http://soundcloud.com/stack-exchange/se-podcast-08-w-marco-arment) by [Stack Exchange](http://soundcloud.com/stack-exchange)
+
+<p><object width="100%" height="81"><param name="movie" value="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F17251043" /><param name="allowscriptaccess" value="always" /><embed type="application/x-shockwave-flash" width="100%" height="81" src="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F17251043" allowscriptaccess="always"></embed></object> <span><a href="http://soundcloud.com/stack-exchange/se-podcast-08-w-marco-arment">Stack Exchange Podcast #08 w/ Marco Arment</a> by <a href="http://soundcloud.com/stack-exchange">Stack Exchange</a></span></p>
