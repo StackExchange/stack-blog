@@ -3,6 +3,7 @@ author: alison
 comments: true
 date: 2011-01-11 21:44:45+00:00
 layout: post
+redirect_from: /2011/01/survey-says
 slug: survey-says
 title: Survey Says
 wordpress_id: 6693

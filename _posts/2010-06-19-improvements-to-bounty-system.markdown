@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-06-19 06:42:46+00:00
 layout: post
+redirect_from: /2010/06/improvements-to-bounty-system
 hero: /blog/images/wordpress/bounty-start-bounty.png
 slug: improvements-to-bounty-system
 title: Improvements to Bounty System

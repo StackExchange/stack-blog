@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-03-19 06:59:58+00:00
 layout: post
+redirect_from: /2009/03/stack-overflow-podcast-bingo
 hero: /blog/images/wordpress/stackoverflow-podcast-bingo-small.png
 slug: stack-overflow-podcast-bingo
 title: Stack Overflow Podcast Bingo

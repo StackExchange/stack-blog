@@ -3,6 +3,7 @@ author: alison
 comments: true
 date: 2010-12-07 16:07:01+00:00
 layout: post
+redirect_from: /2010/12/stack-overflow-rhok-partners-in-hacker-goodness
 hero: /blog/images/wordpress/Chi-Town-RHoK1.jpg
 slug: stack-overflow-rhok-partners-in-hacker-goodness
 title: Stack Overflow + RHoK = Partners in Hacker Goodness

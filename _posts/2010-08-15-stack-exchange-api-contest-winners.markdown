@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-08-15 05:43:38+00:00
 layout: post
+redirect_from: /2010/08/stack-exchange-api-contest-winners
 hero: http://blog.stackoverflow.com/wp-content/uploads/six-to-eight-screenshot.png
 slug: stack-exchange-api-contest-winners
 title: Stack Exchange API Contest Winners

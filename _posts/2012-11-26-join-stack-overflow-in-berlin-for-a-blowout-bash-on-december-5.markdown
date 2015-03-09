@@ -3,6 +3,7 @@ author: bethanymarz
 comments: true
 date: 2012-11-26 16:33:07+00:00
 layout: post
+redirect_from: /2012/11/join-stack-overflow-in-berlin-for-a-blowout-bash-on-december-5
 hero: http://blog.stackoverflow.com/wp-content/uploads/de-Stack-Overflow-Careers-728x902.png
 slug: join-stack-overflow-in-berlin-for-a-blowout-bash-on-december-5
 title: Join Stack Overflow in Berlin for a blowout bash on December 5!

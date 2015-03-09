@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-08-03 08:02:21+00:00
 layout: post
+redirect_from: /2010/08/a-surprisingly-accurate-depiction-of-a-typical-work-day
 hero: http://blog.stackoverflow.com/wp-content/uploads/unicorns-make-happies-by-jollyjack-2x4.png
 slug: a-surprisingly-accurate-depiction-of-a-typical-work-day
 title: A Surprisingly Accurate Depiction of a Typical Work Day

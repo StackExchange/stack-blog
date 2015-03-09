@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2008-06-25 05:24:08+00:00
 layout: post
+redirect_from: /2008/06/three-markdown-gotcha
 slug: three-markdown-gotcha
 title: Three Markdown Gotchas
 wordpress_id: 60

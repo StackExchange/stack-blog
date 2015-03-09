@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2008-09-15 09:17:26+00:00
 layout: post
+redirect_from: /2008/09/then-a-miracle-occurs-public-beta
 hero: /blog/images/wordpress/then-a-miracle-occurs-cartoon.png
 slug: then-a-miracle-occurs-public-beta
 title: Then a Miracle Occurs - Public Beta

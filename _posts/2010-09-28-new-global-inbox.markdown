@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-09-28 20:26:06+00:00
 layout: post
+redirect_from: /2010/09/new-global-inbox
 hero: /blog/images/wordpress/global-inbox-notify.png
 slug: new-global-inbox
 title: New Global Inbox

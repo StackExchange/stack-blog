@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2008-09-21 17:54:58+00:00
 layout: post
+redirect_from: /2008/09/what-was-stack-overflow-built-with
 slug: what-was-stack-overflow-built-with
 title: What Was Stack Overflow Built With?
 wordpress_id: 102

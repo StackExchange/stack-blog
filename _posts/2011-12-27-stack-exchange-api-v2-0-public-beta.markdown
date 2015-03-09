@@ -3,6 +3,7 @@ author: kevinmontrose
 comments: true
 date: 2011-12-27 02:01:51+00:00
 layout: post
+redirect_from: /2011/12/stack-exchange-api-v2-0-public-beta
 hero: http://blog.stackoverflow.com/wp-content/uploads/ipad.png
 slug: stack-exchange-api-v2-0-public-beta
 title: Stack Exchange API V2.0 Public Beta

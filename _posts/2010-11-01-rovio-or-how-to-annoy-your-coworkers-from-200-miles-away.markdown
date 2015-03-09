@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-11-01 08:10:23+00:00
 layout: post
+redirect_from: /2010/11/rovio-or-how-to-annoy-your-coworkers-from-200-miles-away
 hero: http://blog.stackoverflow.com/wp-content/uploads/rovio.jpg
 slug: rovio-or-how-to-annoy-your-coworkers-from-200-miles-away
 title: 'Rovio: Or, How to Annoy Your Coworkers From 2,800 Miles Away'

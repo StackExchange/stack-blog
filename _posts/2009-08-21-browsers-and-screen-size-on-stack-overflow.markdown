@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-08-21 00:26:39+00:00
 layout: post
+redirect_from: /2009/08/browsers-and-screen-size-on-stack-overflow
 slug: browsers-and-screen-size-on-stack-overflow
 title: Browsers and Screen Size on Stack Overflow
 wordpress_id: 1852

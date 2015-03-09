@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2008-10-25 06:59:28+00:00
 layout: post
+redirect_from: /2008/10/script-responsibly
 slug: script-responsibly
 title: Script Responsibly
 wordpress_id: 140

@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2011-09-20 05:48:27+00:00
 layout: post
+redirect_from: /2011/09/creative-commons-data-dump-sep-11
 hero: http://www.clearbits.net/images/btn/CB-download.png
 slug: creative-commons-data-dump-sep-11
 title: Creative Commons Data Dump Sep '11

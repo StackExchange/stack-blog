@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-12-05 15:59:55+00:00
 layout: post
+redirect_from: /2009/12/database-server-upgrade-outage-today
 slug: database-server-upgrade-outage-today
 title: 'Database Server Upgrade: Outage Saturday'
 wordpress_id: 2255

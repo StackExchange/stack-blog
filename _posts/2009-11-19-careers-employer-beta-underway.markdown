@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-11-19 11:58:13+00:00
 layout: post
+redirect_from: /2009/11/careers-employer-beta-underway
 hero: http://blog.stackoverflow.com/wp-content/uploads/job-hunt-pixel-art.png
 slug: careers-employer-beta-underway
 title: Careers Employer Beta Underway

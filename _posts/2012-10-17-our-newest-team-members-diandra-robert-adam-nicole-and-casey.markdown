@@ -3,6 +3,7 @@ author: bethanymarz
 comments: true
 date: 2012-10-17 17:24:24+00:00
 layout: post
+redirect_from: /2012/10/our-newest-team-members-diandra-robert-adam-nicole-and-casey
 hero: http://i.stack.imgur.com/YM6x0.jpg
 slug: our-newest-team-members-diandra-robert-adam-nicole-and-casey
 title: 'Our newest team members: Diandra, Robert, Adam, Nicole and Casey!'

@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-06-04 09:56:51+00:00
 layout: post
+redirect_from: /2009/06/stack-overflow-creative-commons-data-dump
 hero: http://blog.stackoverflow.com/wp-content/uploads/cc-wiki-logo.png
 slug: stack-overflow-creative-commons-data-dump
 title: Stack Overflow Creative Commons Data Dump

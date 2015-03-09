@@ -3,6 +3,7 @@ author: david
 comments: true
 date: 2013-12-04 19:50:29+00:00
 layout: post
+redirect_from: /2013/12/a-new-top-bar-for-stack-exchange
 hero: http://i.stack.imgur.com/8tGcN.png
 slug: a-new-top-bar-for-stack-exchange
 title: A New Top Bar for Stack Exchange

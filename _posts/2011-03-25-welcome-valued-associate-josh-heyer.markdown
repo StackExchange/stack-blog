@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2011-03-25 06:36:37+00:00
 layout: post
+redirect_from: /2011/03/welcome-valued-associate-josh-heyer
 hero: http://stackexchange.com/users/flair/f29cc355f1bb4a008135233735f1ceba.png
 slug: welcome-valued-associate-josh-heyer
 title: Welcome Valued Associate Josh Heyer

@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-04-22 06:59:49+00:00
 layout: post
+redirect_from: /2009/04/how-many-questions-are-closed-or-deleted
 slug: how-many-questions-are-closed-or-deleted
 title: How Many Questions are Closed or Deleted?
 wordpress_id: 1091

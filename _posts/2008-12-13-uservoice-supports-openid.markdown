@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2008-12-13 00:16:34+00:00
 layout: post
+redirect_from: /2008/12/uservoice-supports-openid
 hero: /blog/images/wordpress/uservoice-openid.png
 slug: uservoice-supports-openid
 title: UserVoice Supports OpenID

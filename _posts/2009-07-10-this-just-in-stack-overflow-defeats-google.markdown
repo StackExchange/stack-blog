@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-07-10 04:17:09+00:00
 layout: post
+redirect_from: /2009/07/this-just-in-stack-overflow-defeats-google
 slug: this-just-in-stack-overflow-defeats-google
 title: 'This Just In: Stack Overflow Defeats Google'
 wordpress_id: 1633

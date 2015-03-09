@@ -3,6 +3,7 @@ author: rebecca
 comments: true
 date: 2011-03-17 23:07:03+00:00
 layout: post
+redirect_from: /2011/03/stack-overflow-meetups-april-6
 hero: /blog/images/wordpress/220x250_Meetups_Banner.jpg
 slug: stack-overflow-meetups-april-6
 title: Stack Overflow MeetUps - April 6

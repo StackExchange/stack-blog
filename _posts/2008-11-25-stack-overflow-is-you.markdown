@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2008-11-25 06:59:24+00:00
 layout: post
+redirect_from: /2008/11/stack-overflow-is-you
 slug: stack-overflow-is-you
 title: Stack Overflow Is You
 wordpress_id: 149

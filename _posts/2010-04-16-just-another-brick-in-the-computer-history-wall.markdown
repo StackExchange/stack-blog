@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-04-16 23:53:01+00:00
 layout: post
+redirect_from: /2010/04/just-another-brick-in-the-computer-history-wall
 hero: http://blog.stackoverflow.com/wp-content/uploads/computer-history-museum.jpg
 slug: just-another-brick-in-the-computer-history-wall
 title: Just Another Brick in the (Computer History) Wall

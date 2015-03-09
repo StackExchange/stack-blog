@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-07-04 07:37:20+00:00
 layout: post
+redirect_from: /2009/07/welcome-new-server-fault-moderator
 slug: welcome-new-server-fault-moderator
 title: Welcome New Server Fault Moderator
 wordpress_id: 1580

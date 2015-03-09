@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-04-30 07:44:17+00:00
 layout: post
+redirect_from: /2009/04/server-fault-private-beta-begins
 hero: http://blog.stackoverflow.com/wp-content/uploads/any-key.jpg
 slug: server-fault-private-beta-begins
 title: Server Fault Private Beta begins

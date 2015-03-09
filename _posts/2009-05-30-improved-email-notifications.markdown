@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-05-30 10:31:11+00:00
 layout: post
+redirect_from: /2009/05/improved-email-notifications
 hero: /blog/images/wordpress/stackoveflow-question-email-ui.png
 slug: improved-email-notifications
 title: Improved Email Notifications

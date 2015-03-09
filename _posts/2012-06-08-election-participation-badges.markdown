@@ -3,6 +3,7 @@ author: shog
 comments: true
 date: 2012-06-08 23:05:49+00:00
 layout: post
+redirect_from: /2012/06/election-participation-badges
 hero: http://i.stack.imgur.com/qV3Lm.png
 slug: election-participation-badges
 title: Election participation badges

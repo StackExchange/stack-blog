@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-04-23 08:33:30+00:00
 layout: post
+redirect_from: /2010/04/stack-overflow-and-dvcs
 hero: http://blog.stackoverflow.com/wp-content/uploads/kiln-logo.gif
 slug: stack-overflow-and-dvcs
 title: Stack Overflow and DVCS

@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2011-01-17 08:36:54+00:00
 layout: post
+redirect_from: /2011/01/real-questions-have-answers
 slug: real-questions-have-answers
 title: Real Questions Have Answers
 wordpress_id: 6835

@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-05-31 09:07:50+00:00
 layout: post
+redirect_from: /2010/05/academic-papers-using-stack-overflow-data
 slug: academic-papers-using-stack-overflow-data
 title: Academic Papers Using Stack Overflow Data
 wordpress_id: 3340

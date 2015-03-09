@@ -3,6 +3,7 @@ author: alex
 comments: true
 date: 2011-10-05 19:00:11+00:00
 layout: post
+redirect_from: /2011/10/se-podcast-21
 slug: se-podcast-21
 title: 'SE Podcast #21 - David Fullerton & Jason Punyon'
 wordpress_id: 10003

@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2008-05-19 05:30:28+00:00
 layout: post
+redirect_from: /2008/05/update-your-flash-player
 slug: update-your-flash-player
 title: Update Your Flash Player
 wordpress_id: 42

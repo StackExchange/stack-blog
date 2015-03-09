@@ -3,6 +3,7 @@ author: jtunnell
 comments: true
 date: 2013-01-15 15:46:51+00:00
 layout: post
+redirect_from: /2013/01/announcing-a-new-way-to-change-your-profile-picture
 hero: http://i.stack.imgur.com/n67sl.png
 slug: announcing-a-new-way-to-change-your-profile-picture
 title: Announcing a new way to change your profile picture

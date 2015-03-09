@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-06-25 23:44:42+00:00
 layout: post
+redirect_from: /2009/06/attribution-required
 slug: attribution-required
 title: Attribution Required
 wordpress_id: 1519

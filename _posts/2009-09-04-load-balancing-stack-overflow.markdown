@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-09-04 21:40:23+00:00
 layout: post
+redirect_from: /2009/09/load-balancing-stack-overflow
 hero: /blog/images/wordpress/il_fullxfull.73753810.jpg
 slug: load-balancing-stack-overflow
 title: Load Balancing Stack Overflow

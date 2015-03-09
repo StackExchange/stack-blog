@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-10-23 20:56:46+00:00
 layout: post
+redirect_from: /2009/10/alternate-sorting-orders
 hero: /blog/images/wordpress/new-scoring-math-formula1.png
 slug: alternate-sorting-orders
 title: Alternate Sorting Orders

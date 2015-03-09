@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-06-23 02:22:34+00:00
 layout: post
+redirect_from: /2010/06/workin-on-ur-problemz
 hero: /blog/images/wordpress/error-lolcat-problemz.jpg
 slug: workin-on-ur-problemz
 title: Workin On Ur Problemz

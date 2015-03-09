@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2008-08-06 00:15:29+00:00
 layout: post
+redirect_from: /2008/08/bad-news-good-news
 hero: /blog/images/wordpress/beary-sorry.gif
 slug: bad-news-good-news
 title: Bad News, Good News

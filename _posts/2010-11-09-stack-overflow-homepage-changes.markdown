@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-11-09 10:43:37+00:00
 layout: post
+redirect_from: /2010/11/stack-overflow-homepage-changes
 hero: /blog/images/wordpress/interesting-vs-active.png
 slug: stack-overflow-homepage-changes
 title: Stack Overflow Homepage Changes

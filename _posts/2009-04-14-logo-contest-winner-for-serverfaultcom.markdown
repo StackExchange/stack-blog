@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-04-14 12:18:29+00:00
 layout: post
+redirect_from: /2009/04/logo-contest-winner-for-serverfaultcom
 hero: /blog/images/wordpress/stackoverflow-serverfault-logos1.png
 slug: logo-contest-winner-for-serverfaultcom
 title: Logo Contest Winner for serverfault.com

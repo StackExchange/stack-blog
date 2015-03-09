@@ -3,6 +3,7 @@ author: haneycodes
 comments: true
 date: 2014-09-16 19:46:15+00:00
 layout: post
+redirect_from: /2014/09/introducing-runnable-javascript-css-and-html-code-snippets
 hero: //i.stack.imgur.com/kZPXw.png
 slug: introducing-runnable-javascript-css-and-html-code-snippets
 title: Introducing Runnable JavaScript, CSS, and HTML Code Snippets

@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-07-09 03:57:31+00:00
 layout: post
+redirect_from: /2010/07/stack-exchange-on-herding-code
 hero: http://blog.stackoverflow.com/wp-content/uploads/herding-code-logo.png
 slug: stack-exchange-on-herding-code
 title: Stack Exchange on Herding Code

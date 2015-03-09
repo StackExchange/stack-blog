@@ -3,6 +3,7 @@ author: spolsky
 comments: true
 date: 2011-01-24 11:55:48+00:00
 layout: post
+redirect_from: /2011/01/state-of-the-stack-2010-a-message-from-your-ceo
 hero: /blog/images/wordpress/01traffic.png
 slug: state-of-the-stack-2010-a-message-from-your-ceo
 title: State of the Stack 2010 (a message from your CEO)

@@ -3,6 +3,7 @@ author: shog
 comments: true
 date: 2012-04-25 16:47:06+00:00
 layout: post
+redirect_from: /2012/04/when-a-site-grows-quiet
 slug: when-a-site-grows-quiet
 title: When a Site Grows Quiet
 wordpress_id: 11600

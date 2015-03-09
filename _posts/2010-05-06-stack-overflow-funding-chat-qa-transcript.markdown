@@ -3,6 +3,7 @@ author: rcartaino
 comments: true
 date: 2010-05-06 00:12:45+00:00
 layout: post
+redirect_from: /2010/05/stack-overflow-funding-chat-qa-transcript
 slug: stack-overflow-funding-chat-qa-transcript
 title: 'Stack Overflow Funding: Chat Q&A Transcript'
 wordpress_id: 3081

@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-01-14 14:10:28+00:00
 layout: post
+redirect_from: /2010/01/stack-overflow-2010-moderator-nominations
 slug: stack-overflow-2010-moderator-nominations
 title: Stack Overflow 2010 Moderator Nominations
 wordpress_id: 2539

@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-02-04 07:31:47+00:00
 layout: post
+redirect_from: /2010/02/stack-exchange-gets-a-blog
 hero: http://blog.stackoverflow.com/wp-content/uploads/stackexchange-logo.png
 slug: stack-exchange-gets-a-blog
 title: Stack Exchange Gets a Blog

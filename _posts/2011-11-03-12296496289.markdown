@@ -3,6 +3,7 @@ author: aarthi
 comments: false
 date: 2011-11-03 21:17:36+00:00
 layout: post
+redirect_from: /2011/11/12296496289
 published: false
 slug: '12296496289'
 title: People are basically good...right?

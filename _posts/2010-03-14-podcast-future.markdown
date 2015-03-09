@@ -3,6 +3,7 @@ author: spolsky
 comments: true
 date: 2010-03-14 23:52:45+00:00
 layout: post
+redirect_from: /2010/03/podcast-future
 slug: podcast-future
 title: Podcast Future
 wordpress_id: 2798

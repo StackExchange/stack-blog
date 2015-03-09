@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-05-09 05:32:51+00:00
 layout: post
+redirect_from: /2010/05/joel-on-this-week-in-startups
 slug: joel-on-this-week-in-startups
 title: Joel on This Week in Startups
 wordpress_id: 3168

@@ -3,6 +3,7 @@ author: alison
 comments: true
 date: 2011-05-09 19:13:34+00:00
 layout: post
+redirect_from: /2011/05/welcome-valued-associate-guy-zerega
 hero: /blog/images/wordpress/GZWin.jpg
 slug: welcome-valued-associate-guy-zerega
 title: Welcome Valued Associate Guy Zerega!

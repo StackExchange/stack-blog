@@ -3,6 +3,7 @@ author: alex
 comments: true
 date: 2013-08-05 14:01:14+00:00
 layout: post
+redirect_from: /2013/08/podcast-51-the-return-of-codinghorror
 slug: podcast-51-the-return-of-codinghorror
 title: 'Podcast #51 - The Return of Coding Horror'
 wordpress_id: 13889

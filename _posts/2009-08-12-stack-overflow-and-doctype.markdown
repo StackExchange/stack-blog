@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-08-12 08:05:34+00:00
 layout: post
+redirect_from: /2009/08/stack-overflow-and-doctype
 hero: /blog/images/wordpress/justice-league-small.jpg
 slug: stack-overflow-and-doctype
 title: Stack Overflow and Doctype

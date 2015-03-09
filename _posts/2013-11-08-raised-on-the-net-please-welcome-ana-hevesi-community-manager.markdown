@@ -3,6 +3,7 @@ author: shog
 comments: true
 date: 2013-11-08 20:16:32+00:00
 layout: post
+redirect_from: /2013/11/raised-on-the-net-please-welcome-ana-hevesi-community-manager
 hero: http://i.stack.imgur.com/aEJYem.png
 slug: raised-on-the-net-please-welcome-ana-hevesi-community-manager
 title: 'Raised on The ꞌNet: please welcome Ana Hevesi, Community Manager'

@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-05-19 12:43:03+00:00
 layout: post
+redirect_from: /2009/05/welcome-new-community-moderators
 slug: welcome-new-community-moderators
 title: Welcome New Community Moderators
 wordpress_id: 1311

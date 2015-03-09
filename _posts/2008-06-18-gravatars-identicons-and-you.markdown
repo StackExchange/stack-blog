@@ -3,6 +3,7 @@ author: jeffatwood
 comments: false
 date: 2008-06-18 06:59:24+00:00
 layout: post
+redirect_from: /2008/06/gravatars-identicons-and-you
 hero: /blog/images/wordpress/identicon-samples.png
 slug: gravatars-identicons-and-you
 title: Gravatars, Identicons, and You

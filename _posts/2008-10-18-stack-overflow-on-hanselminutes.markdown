@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2008-10-18 14:41:07+00:00
 layout: post
+redirect_from: /2008/10/stack-overflow-on-hanselminutes
 slug: stack-overflow-on-hanselminutes
 title: Stack Overflow on Hanselminutes
 wordpress_id: 133

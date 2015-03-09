@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-03-25 06:59:16+00:00
 layout: post
+redirect_from: /2009/03/responsible-advertising-feed-a-programmer
 hero: /blog/images/wordpress/stackoverflow-ads-adsense.png
 slug: responsible-advertising-feed-a-programmer
 title: 'Responsible Advertising: Feed a Programmer'

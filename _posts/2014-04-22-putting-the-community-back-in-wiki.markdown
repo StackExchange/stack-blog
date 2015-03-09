@@ -3,6 +3,7 @@ author: chris
 comments: true
 date: 2014-04-22 16:00:07+00:00
 layout: post
+redirect_from: /2014/04/putting-the-community-back-in-wiki
 hero: http://cdn.sstatic.net/Img/about/venn-diagram.png
 slug: putting-the-community-back-in-wiki
 title: Putting the Community back in Wiki

@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-05-02 06:59:50+00:00
 layout: post
+redirect_from: /2009/05/joel-talks-about-stack-overflow-at-google
 slug: joel-talks-about-stack-overflow-at-google
 title: Joel Talks About Stack Overflow at Google
 wordpress_id: 1204

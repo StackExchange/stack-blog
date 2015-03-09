@@ -3,6 +3,7 @@ author: qiaochu
 comments: true
 date: 2011-07-21 20:15:05+00:00
 layout: post
+redirect_from: /2011/07/power-laws
 hero: http://math.stackexchange.com/users/flair/232.png
 slug: power-laws
 title: Power Laws

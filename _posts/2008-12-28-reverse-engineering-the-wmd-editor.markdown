@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2008-12-28 10:44:34+00:00
 layout: post
+redirect_from: /2008/12/reverse-engineering-the-wmd-editor
 slug: reverse-engineering-the-wmd-editor
 title: Reverse Engineering the WMD Editor
 wordpress_id: 201

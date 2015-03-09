@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2008-06-14 04:32:24+00:00
 layout: post
+redirect_from: /2008/06/dropping-the-www-prefix
 slug: dropping-the-www-prefix
 title: Dropping the WWW Prefix
 wordpress_id: 52

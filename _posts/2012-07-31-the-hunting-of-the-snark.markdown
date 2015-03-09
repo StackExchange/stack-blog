@@ -3,6 +3,7 @@ author: spolsky
 comments: true
 date: 2012-07-31 14:51:08+00:00
 layout: post
+redirect_from: /2012/07/the-hunting-of-the-snark
 slug: the-hunting-of-the-snark
 title: The Hunting of the Snark
 wordpress_id: 12029

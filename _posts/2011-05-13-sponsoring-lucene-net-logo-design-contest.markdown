@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2011-05-13 12:21:13+00:00
 layout: post
+redirect_from: /2011/05/sponsoring-lucene-net-logo-design-contest
 hero: http://blog.stackoverflow.com/wp-content/uploads/lucene-logo.png
 slug: sponsoring-lucene-net-logo-design-contest
 title: Sponsoring Lucene.Net Logo Design Contest

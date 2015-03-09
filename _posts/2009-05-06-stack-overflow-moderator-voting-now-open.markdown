@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-05-06 06:59:44+00:00
 layout: post
+redirect_from: /2009/05/stack-overflow-moderator-voting-now-open
 slug: stack-overflow-moderator-voting-now-open
 title: Stack Overflow Moderator Voting Now Open
 wordpress_id: 1208

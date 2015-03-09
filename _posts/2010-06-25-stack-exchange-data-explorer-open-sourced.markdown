@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-06-25 17:19:03+00:00
 layout: post
+redirect_from: /2010/06/stack-exchange-data-explorer-open-sourced
 hero: http://blog.stackoverflow.com/wp-content/uploads/stack-exchange-data-explorer.png
 slug: stack-exchange-data-explorer-open-sourced
 title: Stack Exchange Data Explorer Open Sourced

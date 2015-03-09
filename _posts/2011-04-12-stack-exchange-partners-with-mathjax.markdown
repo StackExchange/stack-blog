@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2011-04-12 09:04:47+00:00
 layout: post
+redirect_from: /2011/04/stack-exchange-partners-with-mathjax
 hero: http://blog.stackoverflow.com/wp-content/uploads/mathjax-logo.png
 slug: stack-exchange-partners-with-mathjax
 title: Stack Exchange Partners with MathJax

@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2011-04-05 07:16:07+00:00
 layout: post
+redirect_from: /2011/04/helping-the-experts-get-answers
 hero: http://blog.stackoverflow.com/wp-content/uploads/tim-bray-tweet.png
 slug: helping-the-experts-get-answers
 title: Helping The Experts Get Answers

@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-03-19 07:15:04+00:00
 layout: post
+redirect_from: /2010/03/important-reputation-rule-changes
 slug: important-reputation-rule-changes
 title: Important Reputation Rule Changes
 wordpress_id: 2819

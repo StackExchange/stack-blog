@@ -3,6 +3,7 @@ author: alison
 comments: true
 date: 2011-01-17 17:52:16+00:00
 layout: post
+redirect_from: /2011/01/welcome-valued-associate-nick-larsen
 hero: /blog/images/wordpress/perspective-150x150.jpg
 slug: welcome-valued-associate-nick-larsen
 title: Welcome Valued Associate Nick Larsen

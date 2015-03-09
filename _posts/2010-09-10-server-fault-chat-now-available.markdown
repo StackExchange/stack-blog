@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-09-10 21:16:26+00:00
 layout: post
+redirect_from: /2010/09/server-fault-chat-now-available
 hero: /blog/images/wordpress/chat-rooms-sf-and-meta1.png
 slug: server-fault-chat-now-available
 title: Server Fault Chat Now Available

@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-04-26 06:59:11+00:00
 layout: post
+redirect_from: /2009/04/joke-questions-please-refrain
 slug: joke-questions-please-refrain
 title: 'Joke Questions: Please Refrain'
 wordpress_id: 1137

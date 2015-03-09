@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-06-21 06:59:13+00:00
 layout: post
+redirect_from: /2009/06/stack-overflow-developer-lair
 hero: /blog/images/wordpress/jarrod-lair-1.jpg
 slug: stack-overflow-developer-lair
 title: Stack Overflow Developer Lair

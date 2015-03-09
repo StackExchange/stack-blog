@@ -3,6 +3,7 @@ author: shog
 comments: true
 date: 2013-03-08 22:01:30+00:00
 layout: post
+redirect_from: /2013/03/2013-so-moderator-election
 hero: http://i.stack.imgur.com/SpsPO.png
 slug: 2013-so-moderator-election
 title: VOTE NOW in the 2013 Stack Overflow Moderator Election

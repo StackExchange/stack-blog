@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-01-14 22:26:07+00:00
 layout: post
+redirect_from: /2009/01/coming-in-march-it-stack-overflow
 slug: coming-in-march-it-stack-overflow
 title: 'Coming In March: IT Stack Overflow'
 wordpress_id: 436

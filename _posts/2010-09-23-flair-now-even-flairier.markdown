@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-09-23 06:49:04+00:00
 layout: post
+redirect_from: /2010/09/flair-now-even-flairier
 hero: http://superuser.com/users/flair/2054.png
 slug: flair-now-even-flairier
 title: 'Flair: Now Even Flairier'

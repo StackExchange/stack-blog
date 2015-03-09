@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-03-26 23:36:04+00:00
 layout: post
+redirect_from: /2010/03/moderator-changes-on-super-user
 slug: moderator-changes-on-super-user
 title: Moderator Changes on Super User
 wordpress_id: 2853

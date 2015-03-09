@@ -3,6 +3,7 @@ author: jericson
 comments: true
 date: 2014-12-15 00:00:16+00:00
 layout: post
+redirect_from: /2014/12/winter-bash-2014
 hero: http://i.stack.imgur.com/urxgC.png
 slug: winter-bash-2014
 title: Winter Bash 2014

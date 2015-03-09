@@ -3,6 +3,7 @@ author: demis
 comments: true
 date: 2012-03-02 20:00:29+00:00
 layout: post
+redirect_from: /2012/03/enterprise-vs-consumer-development
 hero: /blog/images/wordpress/apply_mockups_6001.png
 slug: enterprise-vs-consumer-development
 title: 'Enterprise vs Consumer: Product Development at Careers 2.0'

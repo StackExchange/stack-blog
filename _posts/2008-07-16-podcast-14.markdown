@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2008-07-16 22:11:35+00:00
 layout: post
+redirect_from: /2008/07/podcast-14
 slug: podcast-14
 title: 'Podcast #14'
 wordpress_id: 69

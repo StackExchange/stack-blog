@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2011-10-08 11:29:10+00:00
 layout: post
+redirect_from: /2011/10/improved-global-email-notifications
 hero: http://i.stack.imgur.com/UZX4g.png
 slug: improved-global-email-notifications
 title: Improved Global Email Notifications

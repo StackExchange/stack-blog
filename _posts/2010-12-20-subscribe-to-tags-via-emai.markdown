@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-12-20 11:48:48+00:00
 layout: post
+redirect_from: /2010/12/subscribe-to-tags-via-emai
 hero: http://blog.stackoverflow.com/wp-content/uploads/popular-tag-sets.png
 slug: subscribe-to-tags-via-emai
 title: Subscribe to Tags via Email

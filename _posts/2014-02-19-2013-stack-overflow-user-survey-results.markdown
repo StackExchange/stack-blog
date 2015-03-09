@@ -3,6 +3,7 @@ author: alison
 comments: true
 date: 2014-02-19 15:14:00+00:00
 layout: post
+redirect_from: /2014/02/2013-stack-overflow-user-survey-results
 hero: /blog/images/wordpress/developers_final.png
 slug: 2013-stack-overflow-user-survey-results
 title: 2013 Stack Overflow User Survey Results

@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2008-12-31 10:20:28+00:00
 layout: post
+redirect_from: /2008/12/i-move-to-close-this-question
 hero: /blog/images/wordpress/stackoverflow-close-menu.png
 slug: i-move-to-close-this-question
 title: I Move to Close This Question

@@ -3,6 +3,7 @@ author: spolsky
 comments: true
 date: 2012-07-20 15:18:38+00:00
 layout: post
+redirect_from: /2012/07/kicking-off-the-summer-of-love
 hero: /blog/images/wordpress/flower.jpg
 slug: kicking-off-the-summer-of-love
 title: Kicking off the Summer of Love

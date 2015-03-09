@@ -3,6 +3,7 @@ author: spolsky
 comments: true
 date: 2010-03-31 19:01:33+00:00
 layout: post
+redirect_from: /2010/03/party
 slug: party
 title: Get ready for the Stack Overflow party
 wordpress_id: 2873

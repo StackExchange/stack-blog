@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-05-15 12:11:44+00:00
 layout: post
+redirect_from: /2009/05/nowearn-valuable-flair
 slug: nowearn-valuable-flair
 title: Now Earn Valuable Flair!
 wordpress_id: 1253

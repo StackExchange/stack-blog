@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-07-08 11:29:57+00:00
 layout: post
+redirect_from: /2010/07/stack-exchange-api-1-0-imminent
 slug: stack-exchange-api-1-0-imminent
 title: Stack Exchange API 1.0 Imminent
 wordpress_id: 4022

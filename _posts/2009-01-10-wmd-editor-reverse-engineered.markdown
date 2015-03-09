@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-01-10 00:36:19+00:00
 layout: post
+redirect_from: /2009/01/wmd-editor-reverse-engineered
 hero: http://blog.stackoverflow.com/wp-content/uploads/git-wmd-reverse-engineering-timeline1.png
 slug: wmd-editor-reverse-engineered
 title: WMD Editor Reverse Engineered

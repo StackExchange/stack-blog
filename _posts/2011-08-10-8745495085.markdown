@@ -3,6 +3,7 @@ author: laura
 comments: false
 date: 2011-08-10 20:20:05+00:00
 layout: post
+redirect_from: /2011/08/8745495085
 published: false
 slug: '8745495085'
 title: Everybody loves swag!

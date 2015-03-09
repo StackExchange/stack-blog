@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-04-24 06:14:16+00:00
 layout: post
+redirect_from: /2010/04/hanselminutes-the-future-of-stack-overflow
 slug: hanselminutes-the-future-of-stack-overflow
 title: 'Hanselminutes: The Future of Stack Overflow'
 wordpress_id: 2974

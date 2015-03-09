@@ -3,6 +3,7 @@ author: spolsky
 comments: true
 date: 2012-09-20 14:07:33+00:00
 layout: post
+redirect_from: /2012/09/askpatents-com-a-stack-exchange-to-prevent-bad-patents
 hero: http://blog.stackoverflow.com/wp-content/uploads/GiantGummyBear.png
 slug: askpatents-com-a-stack-exchange-to-prevent-bad-patents
 title: 'AskPatents.com: A Stack Exchange To Prevent Bad Patents'

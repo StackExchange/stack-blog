@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-12-18 22:47:15+00:00
 layout: post
+redirect_from: /2009/12/scheduled-site-maintenance-saturday
 hero: /blog/images/wordpress/stack-overflow-server-rack-back-small-improved-v2.jpg
 slug: scheduled-site-maintenance-saturday
 title: Scheduled Site Maintenance - Saturday

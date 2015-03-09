@@ -3,6 +3,7 @@ author: spolsky
 comments: true
 date: 2010-09-14 20:31:38+00:00
 layout: post
+redirect_from: /2010/09/pruning-season
 slug: pruning-season
 title: Pruning season
 wordpress_id: 5110

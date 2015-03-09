@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-07-22 20:44:12+00:00
 layout: post
+redirect_from: /2010/07/new-per-site-metas
 hero: http://blog.stackoverflow.com/wp-content/uploads/beta-child-meta-logos.png
 slug: new-per-site-metas
 title: New Per-Site Metas

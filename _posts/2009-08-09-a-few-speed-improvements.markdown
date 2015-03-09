@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-08-09 23:27:21+00:00
 layout: post
+redirect_from: /2009/08/a-few-speed-improvements
 slug: a-few-speed-improvements
 title: A Few Speed Improvements
 wordpress_id: 1803

@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-09-18 03:54:49+00:00
 layout: post
+redirect_from: /2009/09/help-stackexchange-with-colors
 hero: /blog/images/wordpress/stackexchange-1.png
 slug: help-stackexchange-with-colors
 title: Help StackExchange With Colors

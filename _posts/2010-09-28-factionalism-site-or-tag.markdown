@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-09-28 07:51:12+00:00
 layout: post
+redirect_from: /2010/09/factionalism-site-or-tag
 hero: /blog/images/wordpress/join-or-die.jpg
 slug: factionalism-site-or-tag
 title: 'Factionalism: Site or Tag?'

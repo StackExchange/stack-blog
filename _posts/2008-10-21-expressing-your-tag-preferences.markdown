@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2008-10-21 06:59:06+00:00
 layout: post
+redirect_from: /2008/10/expressing-your-tag-preferences
 hero: /blog/images/wordpress/stackoverflow-ignored-interesting.png
 slug: expressing-your-tag-preferences
 title: Expressing Your Tag Preferences

@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-05-20 21:14:06+00:00
 layout: post
+redirect_from: /2010/05/stack-exchange-api-public-beta-starts
 slug: stack-exchange-api-public-beta-starts
 title: Stack Exchange API Public Beta Starts
 wordpress_id: 3252

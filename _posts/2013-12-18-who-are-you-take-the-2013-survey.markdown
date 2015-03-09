@@ -3,6 +3,7 @@ author: alison
 comments: true
 date: 2013-12-18 20:39:16+00:00
 layout: post
+redirect_from: /2013/12/who-are-you-take-the-2013-survey
 hero: http://static.adzerk.net/Advertisers/1efaea9356764cb6a86564960eba62bb.png
 slug: who-are-you-take-the-2013-survey
 title: Who are you? Take the 2013 survey!

@@ -3,6 +3,7 @@ author: alison
 comments: true
 date: 2011-12-14 17:10:30+00:00
 layout: post
+redirect_from: /2011/12/come-here-often
 hero: http://blog.stackoverflow.com/wp-content/uploads/survey-gopher-3.jpg
 slug: come-here-often
 title: Come Here Often?

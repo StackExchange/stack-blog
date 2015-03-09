@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2008-12-31 06:59:09+00:00
 layout: post
+redirect_from: /2008/12/daily-dose-of-daily-reputation-ca
 slug: daily-dose-of-daily-reputation-ca
 title: Daily Dose of Daily Reputation Cap
 wordpress_id: 217

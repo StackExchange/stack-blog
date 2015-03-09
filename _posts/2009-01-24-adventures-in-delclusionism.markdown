@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2009-01-24 09:20:23+00:00
 layout: post
+redirect_from: /2009/01/adventures-in-delclusionism
 hero: /blog/images/wordpress/venn-diagram.png
 slug: adventures-in-delclusionism
 title: Adventures in Delclusionism

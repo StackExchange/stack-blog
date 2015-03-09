@@ -3,6 +3,7 @@ author: david
 comments: true
 date: 2011-07-28 18:07:17+00:00
 layout: post
+redirect_from: /2011/07/stack-exchange-site-newsletters
 hero: /blog/images/wordpress/newsletter-ads1.png
 slug: stack-exchange-site-newsletters
 title: Stack Exchange Site Newsletters

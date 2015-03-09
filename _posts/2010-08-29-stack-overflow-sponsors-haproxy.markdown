@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2010-08-29 21:38:56+00:00
 layout: post
+redirect_from: /2010/08/stack-overflow-sponsors-haproxy
 slug: stack-overflow-sponsors-haproxy
 title: Stack Overflow Sponsors HAProxy
 wordpress_id: 4929

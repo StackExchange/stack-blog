@@ -3,6 +3,7 @@ author: jeffatwood
 comments: true
 date: 2011-02-16 17:20:12+00:00
 layout: post
+redirect_from: /2011/02/blekko-and-stack-overflow
 hero: http://blog.stackoverflow.com/wp-content/uploads/blekko-slash-the-web-logo.png
 slug: blekko-and-stack-overflow
 title: Blekko and Stack Overflow

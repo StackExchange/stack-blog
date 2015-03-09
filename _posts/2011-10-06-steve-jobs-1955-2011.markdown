@@ -3,6 +3,7 @@ author: spolsky
 comments: true
 date: 2011-10-06 02:46:36+00:00
 layout: post
+redirect_from: /2011/10/steve-jobs-1955-2011
 slug: steve-jobs-1955-2011
 title: Steve Jobs, 1955-2011
 wordpress_id: 10011
