@@ -1,6 +1,6 @@
-# [Stack Overflow Blog](http://stackexchange.github.io/blog)
+# [Stack Exchange Blog](http://stackexchange.github.io/blog)
 
-This is a prototype for a new blog in the Stack Overflow ecosystem centered on developer topics. "Stack Overflow Blog" is a working name for this prototype.
+This is a prototype for a new blog in the Stack Exchange ecosystem centered on developer topics. "Stack Exchange Blog" is a working name for this prototype.
 
 ## Getting Started
 This blog runs on [Jekyll](http://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/). If you are actively involved in improving the infrastructure of this project, you should read the documentation for these platforms thoroughly (they're pretty short as it is). If you are simply contributing, this guide should be enough to get you going.
