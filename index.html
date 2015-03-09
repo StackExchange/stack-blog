@@ -38,71 +38,71 @@ layout: default
 		<div class="-col8">
 			<div class="posts">
 				<h3>Recent Posts</h3>
+				{% assign page_count = 1 %}
 			  {% for post in site.posts %}
-			    <article class="preview-post post {{ post.categories | join: ' ' }}">
-			    	<div class="-row post-header">
-			    		<div class="-col6"> 
-				  {% for author in site.authors %}
-				  {% if author.id == post.author %}
-				  <div class="author-container media-padded">
-				  	<a href="{{ site.baseurl }}/authors/{{ author.id }}"><img src="{{ author.avatar }}" class="avatar"></a>
-				  	<div class="info">
-				  		<h2 class="h4 author-name"><a href="{{ site.baseurl }}/authors/{{ author.id }}">{{ author.name }}</a></h2>
-				  		<h3 class="h5 twitter"><a href="http://twitter.com/{{ author.twitter }}">@{{ author.twitter }}</a> &bull; {{ post.date | date: "%B %e, %Y" }}</h3>
-				  	</div>
-				  </div>
-				  {% endif %}
-				  {% endfor %}
-				  		</div>
-				  		<div class="-col6 classification media-padded">
-				  			<div class="tags">
-						  	{% for tag in post.tags %}
-						  		<a href="{{ site.baseurl }}/tags/{{ tag }}"><span class="postTag">{{ tag }}</span></a>
-						  	{% endfor %}
-						  </div>
-				  		</div>
-				  	</div>
+			  	{% capture index %}{% cycle '1','2','3','4','5' %}{% endcapture %}
+				{% if index == '1' %}
+				<section id="page_{{ page_count }}" class="page {% if page_count == 1 %}active{% endif %}">
+				<a name="page_{{page_count}}" />
+					{% assign page_count = page_count | plus:1 %}
+				{% endif %}
+				    <article class="preview-post post {{ post.categories | join: ' ' }}">
+				    	<div class="-row post-header">
+				    		<div class="-col6"> 
+					  {% for author in site.authors %}
+					  {% if author.id == post.author %}
+					  <div class="author-container media-padded">
+					  	<a href="{{ site.baseurl }}/authors/{{ author.id }}"><img src="{{ author.avatar }}" class="avatar"></a>
+					  	<div class="info">
+					  		<h2 class="h4 author-name"><a href="{{ site.baseurl }}/authors/{{ author.id }}">{{ author.name }}</a></h2>
+					  		<h3 class="h5 twitter"><a href="http://twitter.com/{{ author.twitter }}">@{{ author.twitter }}</a> &bull; {{ post.date | date: "%B %e, %Y" }}</h3>
+					  	</div>
+					  </div>
+					  {% endif %}
+					  {% endfor %}
+					  		</div>
+					  		<div class="-col6 classification media-padded">
+					  			<div class="tags">
+							  	{% for tag in post.tags %}
+							  		<a href="{{ site.baseurl }}/tags/{{ tag }}"><span class="postTag">{{ tag }}</span></a>
+							  	{% endfor %}
+							  </div>
+					  		</div>
+					  	</div>
 
-				  <div class="hero-container">
-				  	<a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.hero }}"></a>
-				  </div>
+					  <div class="hero-container">
+					  	<a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.hero }}"></a>
+					  </div>
 
-				  <div class="media-padded">
-					  <h1 class="h3"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+					  <div class="media-padded">
+						  <h1 class="h3"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-				      <div class="entry">
-				        <p>{{ post.excerpt | markdownify | strip_html }}</p>
+					      <div class="entry">
+					        <p>{{ post.excerpt | markdownify | strip_html }}</p>
+					      </div>
+					      
+					      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Continue reading</a>
 				      </div>
-				      
-				      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Continue reading</a>
-			      </div>
-			    </article>
+				    </article>
+			    {% if index == '5' %}
+				</section>
+				{% endif %}
 			  {% endfor %}
 			</div>
-			<!-- Pagination links -->
-			<!--
+
 			<div class="pagination">
 				<div class="-row">
 					<div class="-col4 _textLeft">
-					    {% if paginator.previous_page %}
-					    <a href="{{ site.baseurl }}/{{ paginator.previous_page_path }}" class="previous">Newer</a>
-					    {% else %}
-					    <span class="previous">Newer</span>
-					    {% endif %}
+						<a class="page newer">Newer</a>
 					</div>
 					<div class="-col4 _textCenter">
 			  			<span class="page_number"><strong>Page {{ paginator.page }} of {{ paginator.total_pages }}</strong></span>
 			  		</div>
 			  		<div class="-col4 _textRight">
-					    {% if paginator.next_page %}
-					    <a href="{{ site.baseurl }}/{{ paginator.next_page_path }}" class="next">Older</a>
-					    {% else %}
-					    <span class="next ">Older</span>
-					    {% endif %}
+			  			<a class="page older">Older</a>
 			  		</div>
 			  	</div>
 			</div>
-			-->
 		</div>
 		<div class="-col4">
 			<div class="sidebar media-padded">
