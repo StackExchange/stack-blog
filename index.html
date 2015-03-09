@@ -38,7 +38,7 @@ layout: default
 		<div class="-col8">
 			<div class="posts">
 				<h3>Recent Posts</h3>
-			  {% for post in paginator.posts %}
+			  {% for post in site.posts %}
 			    <article class="preview-post post {{ post.categories | join: ' ' }}">
 			    	<div class="-row post-header">
 			    		<div class="-col6"> 
@@ -80,6 +80,7 @@ layout: default
 			  {% endfor %}
 			</div>
 			<!-- Pagination links -->
+			<!--
 			<div class="pagination">
 				<div class="-row">
 					<div class="-col4 _textLeft">
@@ -101,6 +102,7 @@ layout: default
 			  		</div>
 			  	</div>
 			</div>
+			-->
 		</div>
 		<div class="-col4">
 			<div class="sidebar media-padded">
