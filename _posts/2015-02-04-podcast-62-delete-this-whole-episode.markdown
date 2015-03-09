@@ -95,7 +95,4 @@ Joel wants to sign off, but first make sure you check out [Expression Engine SE
 
 Thanks for wasting an hour on the Stack Exchange Podcast Episode #62, brought to you by the American Venture Capital Association.
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/189301069&color=ff5500"></iframe>
-
-
 <p><iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/189301069&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe></p>
