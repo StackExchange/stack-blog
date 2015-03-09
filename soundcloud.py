@@ -18,25 +18,23 @@ for subdir, dirs, files in os.walk(rootdir):
     	end = "-".join(splits[3:])
 
     	link = "/".join([year, month, end])
-    	link = "/" + link + '\n'
-    	print link
+    	link = "/" + link
+    	wordpress_url = "http://blog.stackoverflow.com" + link
 
-    	contents.insert(5, "redirect_from: " + link)
+    	if re.search('podcast', wordpress_url):
+    		print wordpress_url
+	    	response = requests.get(wordpress_url)
+	    	if response:
+	    		for line in response.content.split("\n"):
+	    			if re.search('<iframe|<object', line) and re.search("soundcloud", line):
+	    				contents.append('\n\n'+line)
+	    				f = open(filename, "w")
+	    				f.write("".contents)
+	    				f.close()
+
+    	continue
+
+    	contents.append(iframe)
     	f = open(filename, "w")
     	f.write("".join(contents))
     	f.close()
-
-    	continue
-    	for key, line in enumerate(contents):
-    		src = re.search('\!\[.*?\]\((.*?)\)', line)
-    		if src:
-    			wordpress_src = re.search('/blog/images/wordpress/(.*)', src.group(1))
-    			if wordpress_src:
-	    			image_src = wordpress_src.group(1)
-	    			path = 'images/wordpress/'+image_src
-	    			print 'Retrieving ' + path + '...'
-	    			if not os.path.isfile(path):
-	    				print path
-		    			f = open(path, "w")
-		    			f.write(requests.get("http://blog.stackoverflow.com/wp-content/uploads/" + wordpress_src.group(1)).content)
-		    			f.close()
