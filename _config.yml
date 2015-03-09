@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Stack Overflow Blog
+name: Stack Exchange Blog
 
 # Short bio or description (displayed in the header)
 description: A destination for all things related to development at Stack Exchange
@@ -15,7 +15,7 @@ avatar: /blog/images/logo-se.png
 # Flags below are optional
 #
 
-paginate: 5
+# paginate: 5
 
 # Includes an icon in the footer for each username you enter
 footer-links:
