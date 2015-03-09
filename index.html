@@ -113,7 +113,7 @@ layout: default
 
 				<section>
 				<h4>Contributors</h4>
-				{% for post in paginator.posts %}
+				{% for post in site.posts limit: 5 %}
 					{% for author in site.authors %}
 						{% if post.author == author.id %}
 						<div class="author-container small -col6">
