@@ -11,7 +11,7 @@ for subdir, dirs, files in os.walk(rootdir):
 
     	# Find first image
         if re.search('podcast', filename):
-            if re.search('^hero: ', contents[6]):
+            if not re.search('^hero: ', contents[6]):
                 print filename
                 contents.insert(6, 'hero: /blog/images/category/podcasts.jpg\n')
                 f = file.open(filename, "w")
