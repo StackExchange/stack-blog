@@ -4,6 +4,7 @@ comments: true
 date: 2009-04-15 23:55:45+00:00
 layout: post
 redirect_from: /2009/04/podcast-49
+hero: /blog/images/category/podcasts.jpg
 slug: podcast-49
 title: 'Podcast #49'
 wordpress_id: 1054

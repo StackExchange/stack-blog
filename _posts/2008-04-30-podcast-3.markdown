@@ -4,6 +4,7 @@ comments: true
 date: 2008-04-30 00:19:58+00:00
 layout: post
 redirect_from: /2008/04/podcast-3
+hero: /blog/images/category/podcasts.jpg
 slug: podcast-3
 title: 'Podcast #3'
 wordpress_id: 15

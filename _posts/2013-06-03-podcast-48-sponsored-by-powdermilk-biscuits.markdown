@@ -4,6 +4,7 @@ comments: true
 date: 2013-06-03 14:58:12+00:00
 layout: post
 redirect_from: /2013/06/podcast-48-sponsored-by-powdermilk-biscuits
+hero: /blog/images/category/podcasts.jpg
 slug: podcast-48-sponsored-by-powdermilk-biscuits
 title: 'Podcast #48 - Sponsored by Powdermilk Biscuits'
 wordpress_id: 13428

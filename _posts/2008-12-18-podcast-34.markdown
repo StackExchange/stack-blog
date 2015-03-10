@@ -4,6 +4,7 @@ comments: true
 date: 2008-12-18 06:26:06+00:00
 layout: post
 redirect_from: /2008/12/podcast-34
+hero: /blog/images/category/podcasts.jpg
 slug: podcast-34
 title: 'Podcast #34'
 wordpress_id: 162

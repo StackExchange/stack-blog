@@ -4,6 +4,7 @@ comments: true
 date: 2011-04-27 19:00:01+00:00
 layout: post
 redirect_from: /2011/04/se-podcast-02
+hero: /blog/images/category/podcasts.jpg
 slug: se-podcast-02
 title: 'SE Podcast #02'
 wordpress_id: 7858

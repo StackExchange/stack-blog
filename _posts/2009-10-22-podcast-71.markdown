@@ -4,6 +4,7 @@ comments: true
 date: 2009-10-22 05:20:17+00:00
 layout: post
 redirect_from: /2009/10/podcast-71
+hero: /blog/images/category/podcasts.jpg
 slug: podcast-71
 title: 'Podcast #71'
 wordpress_id: 2077

@@ -4,6 +4,7 @@ comments: true
 date: 2011-11-16 20:00:20+00:00
 layout: post
 redirect_from: /2011/11/se-podcast-27-dave-winer
+hero: /blog/images/category/podcasts.jpg
 slug: se-podcast-27-dave-winer
 title: 'SE Podcast #27 - Dave Winer'
 wordpress_id: 10208

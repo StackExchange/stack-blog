@@ -4,6 +4,7 @@ comments: true
 date: 2013-11-14 14:07:30+00:00
 layout: post
 redirect_from: /2013/11/podcast-54-the-one-with-all-the-anachronisms
+hero: /blog/images/category/podcasts.jpg
 slug: podcast-54-the-one-with-all-the-anachronisms
 title: 'Podcast #54 - The One With All The Anachronisms'
 wordpress_id: 14205
