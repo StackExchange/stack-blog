@@ -4,6 +4,7 @@ comments: true
 date: 2009-09-18 00:31:44+00:00
 layout: post
 redirect_from: /2009/09/podcast-68
+hero: /blog/images/category/podcasts.jpg
 slug: podcast-68
 title: 'Podcast #68'
 wordpress_id: 1964

@@ -4,6 +4,7 @@ comments: true
 date: 2009-07-30 01:29:08+00:00
 layout: post
 redirect_from: /2009/07/podcast-63
+hero: /blog/images/category/podcasts.jpg
 slug: podcast-63
 title: 'Podcast #63'
 wordpress_id: 1736

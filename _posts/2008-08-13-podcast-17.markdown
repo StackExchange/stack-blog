@@ -4,6 +4,7 @@ comments: true
 date: 2008-08-13 22:50:14+00:00
 layout: post
 redirect_from: /2008/08/podcast-17
+hero: /blog/images/category/podcasts.jpg
 slug: podcast-17
 title: 'Podcast #17'
 wordpress_id: 88

@@ -4,6 +4,7 @@ comments: true
 date: 2010-02-11 03:58:52+00:00
 layout: post
 redirect_from: /2010/02/podcast-83
+hero: /blog/images/category/podcasts.jpg
 slug: podcast-83
 title: 'Podcast #83'
 wordpress_id: 2751

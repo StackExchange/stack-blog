@@ -4,6 +4,7 @@ comments: true
 date: 2013-01-28 18:33:01+00:00
 layout: post
 redirect_from: /2013/01/podcast-41-neither-of-us-have-muscles
+hero: /blog/images/category/podcasts.jpg
 slug: podcast-41-neither-of-us-have-muscles
 title: 'Podcast #41 - Neither of Us Have Muscles'
 wordpress_id: 12982

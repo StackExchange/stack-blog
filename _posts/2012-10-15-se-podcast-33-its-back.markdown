@@ -4,6 +4,7 @@ comments: true
 date: 2012-10-15 18:29:08+00:00
 layout: post
 redirect_from: /2012/10/se-podcast-33-its-back
+hero: /blog/images/category/podcasts.jpg
 slug: se-podcast-33-its-back
 title: 'SE Podcast #33 – It''s Back!'
 wordpress_id: 12388

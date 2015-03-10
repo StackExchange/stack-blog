@@ -4,6 +4,7 @@ comments: true
 date: 2013-06-11 11:51:03+00:00
 layout: post
 redirect_from: /2013/06/podcast-49-the-one-where-we-edited-out-the-title-reference
+hero: /blog/images/category/podcasts.jpg
 slug: podcast-49-the-one-where-we-edited-out-the-title-reference
 title: 'Podcast #49 - The One Where We Edited Out The Title Reference'
 wordpress_id: 13434

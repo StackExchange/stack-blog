@@ -4,6 +4,7 @@ comments: true
 date: 2009-09-03 05:54:11+00:00
 layout: post
 redirect_from: /2009/09/podcast-66
+hero: /blog/images/category/podcasts.jpg
 slug: podcast-66
 title: 'Podcast #66'
 wordpress_id: 1915

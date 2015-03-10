@@ -4,6 +4,7 @@ comments: true
 date: 2009-02-19 02:37:33+00:00
 layout: post
 redirect_from: /2009/02/podcast-42
+hero: /blog/images/category/podcasts.jpg
 slug: podcast-42
 title: 'Podcast #42'
 wordpress_id: 692

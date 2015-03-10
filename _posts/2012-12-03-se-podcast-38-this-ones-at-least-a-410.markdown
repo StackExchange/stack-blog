@@ -4,6 +4,7 @@ comments: true
 date: 2012-12-03 15:29:37+00:00
 layout: post
 redirect_from: /2012/12/se-podcast-38-this-ones-at-least-a-410
+hero: /blog/images/category/podcasts.jpg
 slug: se-podcast-38-this-ones-at-least-a-410
 title: 'SE Podcast #38 - This One''s At Least a 4/10'
 wordpress_id: 12554

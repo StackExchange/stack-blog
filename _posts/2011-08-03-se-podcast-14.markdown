@@ -4,6 +4,7 @@ comments: true
 date: 2011-08-03 19:00:16+00:00
 layout: post
 redirect_from: /2011/08/se-podcast-14
+hero: /blog/images/category/podcasts.jpg
 slug: se-podcast-14
 title: 'SE Podcast #14 - Miguel De Icaza'
 wordpress_id: 9149
