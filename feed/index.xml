@@ -23,7 +23,7 @@ layout: null
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
 	<generator></generator>
-	<copyright>Copyright © Stack Exchange, {{ site.time | "%Y" }}</copyright>
+	<copyright>Copyright © Stack Exchange, {{ site.time | date: "%Y" }}</copyright>
 	<managingEditor>podcast@stackoverflow.com (The Stack Exchange Team)</managingEditor>
 	<webMaster>podcast@stackoverflow.com (The Stack Exchange Team)</webMaster>
 	<ttl>1440</ttl>
