@@ -15,22 +15,22 @@ layout: null
 
 <channel>
 	<title>{{ site.name }}</title>
-	<atom:link href="http://blog.stackoverflow.com/feed/" rel="self" type="application/rss+xml" />
-	<link>{{ site.baseurl }}</link>
+	<atom:link href="{{ site.url }}/feed/" rel="self" type="application/rss+xml" />
+	<link>{{ site.url }}</link>
 	<description>free, community powered Q&#38;A</description>
 	<lastBuildDate>{{ site.time | date: "%a, %d %b %Y %T +0000" }}</lastBuildDate>
 	<language>en-US</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=3.9.3</generator>
-	<copyright>Copyright © Stack Exchange, 2012 </copyright>
+	<generator></generator>
+	<copyright>Copyright © Stack Exchange, {{ site.time | "%Y" }}</copyright>
 	<managingEditor>podcast@stackoverflow.com (The Stack Exchange Team)</managingEditor>
 	<webMaster>podcast@stackoverflow.com (The Stack Exchange Team)</webMaster>
 	<ttl>1440</ttl>
 	<image>
 		<url>http://cdn.sstatic.net/stackexchange/img/apple-touch-icon.png</url>
 		<title>Blog - Stack Exchange</title>
-		<link>http://blog.stackoverflow.com</link>
+		<link>{{ site.url }}</link>
 		<width>144</width>
 		<height>144</height>
 	</image>
@@ -58,7 +58,7 @@ Stack Exchange is a fast-growing network of over 100 question and answer sites o
 	{% for post in site.posts limit:40 %}
 		<item>
 			<title><![CDATA[{{ post.title | raw }}]]></title>
-			<link>{{ site.baseurl }}{{ post.url }}</link>
+			<link>{{ site.url }}{{ post.url }}</link>
 			<comments></comments>
 			<pubDate>{{ post.date | date: "%a, %d %b %Y %T +0000" }}</pubDate>
 			<guid></guid>
