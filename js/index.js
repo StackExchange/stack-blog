@@ -53,6 +53,6 @@ $(document).ready(function() {
 	}
 
 	function valid_page(page_num) {
-		return (page_num <= Math.floor($("article.post").length / 5) && (page_num > 0));
+		return (page_num <= Math.max(Math.floor($("article.post").length / 5) && (page_num > 0)), 1);
 	}
 })
