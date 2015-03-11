@@ -1,13 +1,120 @@
 ---
-layout: default
+layout: engineering
 ---
+<div class="inner-container padded">
+	<div class="-row">
+		<div class="-col8">
+			<div class="posts">
+				{% assign page_count = 1 %}
+			  {% for post in site.categories.engineering %}
+			  	{% capture index %}{% cycle '1','2','3','4','5' %}{% endcapture %}
+				{% if index == '1' %}
+				<section id="page_{{ page_count }}" class="page {% if page_count == 1 %}active{% endif %}">
+				<a name="page_{{page_count}}" />
+					{% assign page_count = page_count | plus:1 %}
+				{% endif %}
+				    <article class="preview-post post {{ post.categories | join: ' ' }}">
+				    	<div class="-row post-header">
+				    		<div class="-col6"> 
+					  {% for author in site.authors %}
+					  {% if author.id == post.author %}
+					  <div class="author-container media-padded">
+					  	<a href="{{ site.baseurl }}/authors/{{ author.id }}"><img src="{{ author.avatar }}" class="avatar"></a>
+					  	<div class="info">
+					  		<h2 class="h4 author-name"><a href="{{ site.baseurl }}/authors/{{ author.id }}">{{ author.name }}</a></h2>
+					  		<h3 class="h5 twitter"><a href="http://twitter.com/{{ author.twitter }}">@{{ author.twitter }}</a> &bull; {{ post.date | date: "%B %e, %Y" }}</h3>
+					  	</div>
+					  </div>
+					  {% endif %}
+					  {% endfor %}
+					  		</div>
+					  		<div class="-col6 classification media-padded">
+					  			<div class="tags">
+							  	{% for tag in post.tags %}
+							  		<a href="{{ site.baseurl }}/tags/{{ tag }}"><span class="postTag">{{ tag }}</span></a>
+							  	{% endfor %}
+							  </div>
+					  		</div>
+					  	</div>
 
-<div class="-row">
-	<div class="-col4">
-		<h2>Open Source</h2>
+					  <div class="hero-container">
+					  	<a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.hero }}"></a>
+					  </div>
+
+					  <div class="media-padded">
+						  <h1 class="h3"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+					      <div class="entry">
+					        <p>{{ post.excerpt | markdownify | strip_html }}</p>
+					      </div>
+					      
+					      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Continue reading</a>
+				      </div>
+				    </article>
+			    {% if index == '5' %}
+				</section>
+				{% endif %}
+			  {% endfor %}
+			</div>
+
+			<div class="pagination">
+				<div class="-row">
+					<div class="-col4 _textLeft">
+						<a class="page newer">Newer</a>
+					</div>
+					<div class="-col4 _textCenter">
+			  			<span class="page_number"><strong>Page <span class="page current_page"></span> of <span class="page total_pages"></span></strong></span>
+			  		</div>
+			  		<div class="-col4 _textRight">
+			  			<a class="page older">Older</a>
+			  		</div>
+			  	</div>
+			</div>
+		</div>
+		<div class="-col4">
+			<div class="sidebar media-padded">
+				<section>
+				<h3>Hello World</h3>
+				<p>Welcome! We are <a href="http://stackexchange.com/">Stack Exchange</a>, home of <a href="https://stackoverflow.com/">Stack Overflow</a>, <a href="https://careers.stackoverflow.com/">Stack Overflow Careers</a>, and <a href="http://stackexchange.com/sites">over 100 Q&amp;A sites</a> part of the Stack Exchange network. In addition to writing a lot of code, we like to write about writing code and the other things we're doing to improve the tech community. We're trying a new thing by collecting those writings here so we can share them with the larger programming community. We hope you like it!</p>
+				</section>
+
+				<section>
+					<p><a href="https://github.com/StackExchange">Open Source</a></p>
+					<p><a href="https://stackexchange.github.com/blog">Blog Repository</a></p>
+				</section>
+
+				<section>
+				<h4>Contributors</h4>
+				{% for post in site.categories.engineering limit: 5 %}
+					{% for author in site.authors %}
+						{% if post.author == author.id %}
+						<div class="author-container small -col6">
+						  	<a href="{{ site.baseurl}}/authors/{{ author.id }}"><img src="{{ author.avatar }}" class="avatar"></a>
+						  	<div class="info">
+						  		<h2 class="h4 author-name"><a href="{{ site.baseurl}}/authors/{{ author.id }}">{{ author.name }}</a></h2>
+						  		<p>{{ author.job }}</p>
+						  	</div>
+						</div>
+						{% endif %}
+					{% endfor %}
+				{% endfor %}
+				<p><a href="{{ site.baseurl }}/authors">See all contributors</a></p>
+				</section>
+
+				<section>
+				<h4>Topics</h4>
+				{% for category in site.categories %}
+				{% assign categoryCount = 0 %}
+				{% assign currentCategory = category | first %}
+					{% for post in site.posts %}
+						{% if post.categories contains currentCategory %}
+						{% assign categoryCount = categoryCount | plus: 1 %}
+						{% endif %}
+					{% endfor %}
+				<p><a href="{{ site.baseurl }}/category/{{ category | first }}"><span class="postTag">{{ category | first }}</span></a> ({{ categoryCount }})</p>
+				{% endfor %}
+				</section>
+			</div>
+		</div>
 	</div>
-	<div class="-col4">
-		<h2>Research</h2>
-	</div>
-	
 </div>
