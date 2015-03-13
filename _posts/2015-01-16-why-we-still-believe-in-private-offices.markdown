@@ -11,7 +11,6 @@ wordpress_id: 15237
 categories:
 - company
 - stackexchange
-- engineering
 ---
 
 There was a time where it seemed like we barely even needed to talk about this: Joel had [won the argument](http://www.joelonsoftware.com/items/2006/07/30.html), the Internet agreed that private offices were the future, and only incompetent management (or a tight budget) was still putting developers in cubicle farms. A glorious future lay before us.
