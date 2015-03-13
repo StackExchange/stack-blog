@@ -33,8 +33,6 @@ The second issue, Generating AD Security Groups that don't exist as mailing list
 
 Running a simulated Sync on GADS shows **80 Google Groups** without a matching AD security group. **(That's quite a few clicks...)**
 
-![Too Many Clicks...](http://i.imgur.com/6l48aYe.jpg)
-
 This is our first opportunity to use Powershell to solve our problems.  
 
 I start by grabbing a list of groups that arn't in AD.  GADS simulated Sync logs those groups in a way that is easily copy/pasted into a nice Tab separated format.
