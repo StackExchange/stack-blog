@@ -14,8 +14,8 @@ categories:
 - stackexchange
 ---
 
-<blockquote>There is no better antidote, at least for the worst hours and eclipses of the soul, than to conjure up …  
-serious frivolity.--[Friedrich Nietzsche](https://books.google.com/books?id=Nl-vaAdJD3MC&pg=PA61&lpg=PA61#v=onepage&q&f=false)</blockquote>
+> There is no better antidote, at least for the worst hours and eclipses of the soul, than to conjure up...serious frivolity.  
+> - [Friedrich Nietzsche](https://books.google.com/books?id=Nl-vaAdJD3MC&pg=PA61&lpg=PA61#v=onepage&q&f=false)
 
 
 [![Winter Bash 2014](http://i.stack.imgur.com/urxgC.png)](http://winterbash2014.stackexchange.com)
