@@ -1,5 +1,5 @@
 ---
-layout: engineering
+layout: company
 ---
 <div class="inner-container padded">
 	<div class="-row">
@@ -30,13 +30,8 @@ layout: engineering
 				</section>
 
 				<section>
-					<p><a href="https://github.com/StackExchange">Open Source</a></p>
-					<p><a href="https://stackexchange.github.com/blog">Blog Repository</a></p>
-				</section>
-
-				<section>
 				<h4>Contributors</h4>
-				{% for post in site.categories.engineering limit: 5 %}
+				{% for post in site.categories.company limit: 5 %}
 					{% for author in site.authors %}
 						{% if post.author == author.id %}
 						<div class="author-container small -col6">
@@ -57,5 +52,5 @@ layout: engineering
 </div>
 
 <script type="text/javascript">
-var channel = "engineering";
+var channel = "company";
 </script>
