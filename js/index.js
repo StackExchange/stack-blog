@@ -1,10 +1,9 @@
 $(document).ready(function() {
 
-	var page;
+	var page = 1;
 	var data;
 
 	if ($("div.pagination").length > 0) {
-		page = 1;
 		check_page();
 	} else {
 		$(".posts").css("visibility", "visible");
@@ -35,8 +34,6 @@ $(document).ready(function() {
 
 				data = response;
 
-				console.log(data);
-
 				set_page(page);
 
 				// Set total pages
@@ -54,7 +51,13 @@ $(document).ready(function() {
 	}
 
 	function set_page(page_num) {
+		var max = Math.floor(data.posts.length / 5);
+
 		if (data == null) return;
+		if (!valid_page(page_num)) {
+			if (page_num > max) page_num = max;
+		}
+
 		page = page_num;
 
 		window.location.hash = "#page" + page_num.toString();
@@ -63,6 +66,9 @@ $(document).ready(function() {
 		var previous = page_num - 1;
 
 		$("span.page.current_page").html(page_num);
+
+		$("a.page.older").css("visibility", page_num >= max ? "hidden" : "visible");
+		$("a.page.newer").css("visibility", page_num <= 1 ? "hidden" : "visible");
 
 		var offset = (page_num - 1) * 5;
 
