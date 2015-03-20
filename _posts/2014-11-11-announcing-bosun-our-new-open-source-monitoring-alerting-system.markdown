@@ -14,10 +14,9 @@ categories:
 - engineering
 ---
 
-<blockquote>If trees could scream, would we be so cavalier about cutting them down?
-We might, if they screamed all the time, for no good reason.  
-
-- [Deep Thoughts, by Jack Handey](http://en.wikiquote.org/wiki/Jack_Handey)</blockquote>
+> If trees could scream, would we be so cavalier about cutting them down?
+> We might, if they screamed all the time, for no good reason.  
+> - [Deep Thoughts, by Jack Handey](http://en.wikiquote.org/wiki/Jack_Handey)
 
 
 

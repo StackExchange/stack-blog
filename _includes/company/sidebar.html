@@ -1,0 +1,24 @@
+<div class="sidebar media-padded">
+	<section>
+	<h3>Hello World</h3>
+	<p>Welcome! We are <a href="http://stackexchange.com/">Stack Exchange</a>, home of <a href="https://stackoverflow.com/">Stack Overflow</a>, <a href="https://careers.stackoverflow.com/">Stack Overflow Careers</a>, and <a href="http://stackexchange.com/sites">over 100 Q&amp;A sites</a> part of the Stack Exchange network. In addition to writing a lot of code, we like to write about writing code and the other things we're doing to improve the tech community. We're trying a new thing by collecting those writings here so we can share them with the larger programming community. We hope you like it!</p>
+	</section>
+
+	<section>
+	<h4>Contributors</h4>
+	{% for post in site.categories.company limit: 5 %}
+		{% for author in site.authors %}
+			{% if post.author == author.id %}
+			<div class="author-container small -col6">
+			  	<a href="{{ site.baseurl}}/authors/{{ author.id }}"><img src="{{ author.avatar }}" class="avatar"></a>
+			  	<div class="info">
+			  		<h2 class="h4 author-name"><a href="{{ site.baseurl}}/authors/{{ author.id }}">{{ author.name }}</a></h2>
+			  		<p>{{ author.job }}</p>
+			  	</div>
+			</div>
+			{% endif %}
+		{% endfor %}
+	{% endfor %}
+	<p><a href="{{ site.baseurl }}/authors">See all contributors</a></p>
+	</section>
+</div>
