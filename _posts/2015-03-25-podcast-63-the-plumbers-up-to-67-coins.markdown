@@ -6,10 +6,10 @@ layout: post
 redirect_from: /2015/03/podcast-63-the-plumbers-up-to-67-coins/
 hero: http://i.imgur.com/wCTM1CS.jpg
 slug: podcast-63-the-plumbers-up-to-67-coins
-title: 'Podcast #63 - The Plumber's Up To 67 Coins'
+title: "Podcast #63 - The Plumber's Up To 67 Coins"
 categories:
-- company
-- podcasts
+ - company
+ - podcasts
 ---
 
 Welcome to the Stack Exchange Podcast Episode #63, recorded March 6, 2015 in front of [a live-ish audience](http://chat.stackexchange.com/transcript/512/2015/3/6). Today's podcast is brought to you by Cool Whip by Kraft Foods. A description for this result is not available because of this site's robots.txt -- learn more! Our hosts today are Joel Spolsky, David Fullerton, and Jay Hanlon... as usual.
