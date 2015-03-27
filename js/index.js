@@ -75,6 +75,9 @@ $(document).ready(function() {
 		for (var i = 0; i < 5; i++) {
 			var post = data.posts[offset + i];
 			var article = $("article.post:eq(" + i + ")");
+
+			console.log(article);
+
 			article.css("border-bottom", i == data.posts.length - 1 ? "none" : null);
 			if (i >= data.posts.length || typeof post == 'undefined') {
 				article.css("display", "none");
