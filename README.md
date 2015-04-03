@@ -103,6 +103,27 @@ Adding this file is very similar to adding your original authors markdown file. 
 
 Everything following the second set of three dashes in your post markdown file will be the content of your post. We use [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to format the post. 
 
+**Adding tags**
+
+Jekyll has some support for tags, but requires that you do a little bit of work in order to make sure new tags are accommodated. All tags must have a markdown file named after the tag in the `_tags` folder. For example, the `onboarding` tag markdown file `onboarding.md` looks like this:
+```
+---
+layout: tag
+slug: onboarding
+---
+```
+When writing a new post, you can add space separated tags at the top of the post markdown file. 
+```
+---
+layout: post
+title: [title of post]
+author: [author id]
+tags: [tag1] [tag2] [tag3]
+---
+
+```
+Any tags that already have an associated markdown file in the `_tags` folder will get its own page at `/tags/[tag-name]` and will be featured on the homepage. However, if you are adding a new tag, make sure that you create the appropriate markdown file in the `_tags` folder.
+
 **Where to get good hero images**
  - [Unsplash](https://unsplash.com/grid)
  - You can also upload them to `images` and it will be accessible using `/blog/images/path-to-your-image`
@@ -128,16 +149,6 @@ def show
 end
 {% endhighlight %}
 ```
-**Adding tags**
-
-Jekyll has some support for tags, but requires that you do a little bit of work in order to make sure new tags are accommodated. All tags must have a markdown file named after the tag in the `_tags` folder. For example, the `onboarding` tag markdown file `onboarding.md` looks like this:
-```
----
-layout: tag
-slug: onboarding
----
-```
-When writing a new post, you can add space separated tags at the top of the post markdown file. Any tags that already have an associated markdown file in the `_tags` folder will get its own page at `/tags/[tag-name]` and will be featured on the homepage. However, if you are adding a new tag, make sure that you create the appropriate markdown file in the `_tags` folder.
 
 ## Making code changes
 
