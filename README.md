@@ -59,7 +59,7 @@ website: http://www.jonhmchan.com/
 ```
 **How to add this file**
 
-If you are a developer, you can do this simply by submitting a PR or adding this file to the `_authors` directory. If you are not a developer, you should try and learn Git and GitHub using [some tutorials](https://try.github.io/levels/1/challenges/1). If you *really* prefer not to, you can use [this link on GitHub](https://github.com/StackExchange/blog/new/gh-pages/_authors) to create this file, then submit your changes by adding a commit message like `Added [your name] to authors` and hitting the `Commit new file` button:
+If you are a developer, you can do this simply by submitting a PR or adding this file to the `_authors` directory. If you are not a developer, you can use [this link on GitHub](https://github.com/StackExchange/blog/new/gh-pages/_authors) to create this file, then submit your changes by adding a commit message like `Added [your name] to authors` and hitting the `Commit new file` button:
 
 ![Adding yourself as an author](http://stackexchange.github.io/blog/images/adding_authors.png)
 
