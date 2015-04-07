@@ -18,6 +18,7 @@
 		padding-bottom: 25px;
 	}
 }
+
 header {
 	padding: 10px;
 	.site-avatar {
@@ -233,6 +234,14 @@ article.post {
 		.entry {
 			img {
 				max-width: 100%;
+				&[alt=left-align] {
+					float: left;
+					margin: 10px;
+				}
+				&[alt=right-align] {
+					float: right;
+					margin: 10px;
+				}
 			}
 			.disqus {
 				margin-top: 75px;
