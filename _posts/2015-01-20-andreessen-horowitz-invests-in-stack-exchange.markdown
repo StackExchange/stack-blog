@@ -84,7 +84,7 @@ In the five years since then, our users have built 133 communities. Stack Overfl
 
 
 
-[caption id="attachment_15289" align="alignright" width="300"][![View of Jerusalem](/blog/images/wordpress/Jerusalem-300x212.jpg)](/blog/images/wordpress/Jerusalem.jpg) View of Jerusalem[/caption]
+![right-align](/blog/images/wordpress/Jerusalem-300x212.jpg)](/blog/images/wordpress/Jerusalem.jpg)
 
 
 Stack Overflow is the big city in the middle. Because the programmer-city worked so well, people wanted to ask questions about other subjects, so we let them build other Q&A villages in the catchment area of the programmer-city. Some of these Q&A villages became cities of their own. The [math](http://math.stackexchange.com/) [cities](http://mathoverflow.net/) barely even have any programmers and they speak their own weird language. They are math-Jerusalem. They make us very proud. Even though they don’t directly serve programmers, we love them and they bring a little tear to our eyes, like the other little villages, and they’re certainly making the Internet—and the world—better, so we’re devoted to them.
