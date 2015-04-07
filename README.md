@@ -63,6 +63,14 @@ If you are a developer, you can do this simply by submitting a PR or adding this
 
 ![Adding yourself as an author](http://stackexchange.github.io/blog/images/adding_authors.png)
 
+Once you do commit this file, you may be asked to create a pull request. Click `Create Pull Request` to do so:
+
+![Creating a pull request](https://help.github.com/assets/images/help/pull_requests/pull-request-click-to-create.png)
+
+Then on the next screen, you can submit the pull request:
+
+![Submitting a pull request](https://help.github.com/assets/images/help/pull_requests/pullrequest-send.png)
+
 ###2. Publishing a post
 To create a new post, you need to create a new markdown file with a particular format in the `_posts` folder in order to publish. The file needs to include the date and title seperated by dashes: `YYYY-MM-DD-Title-With-Dashes-As-Spaces.md`. For example, Jon Chan published a post on January 28th, 2014 titled "My First Six Weeks Working at Stack Overflow". So the title of his file was `2014-1-28-My-First-Six-Weeks-At-Stack-Overflow.md`.  In the content of this markdown file should be the following: 
 ```
