@@ -20,17 +20,18 @@ $(document).ready(function() {
 		}
 		$.get("/blog/json/index.json", function(response) {
 			if (response) {
-
-				if (typeof channel !== 'undefined') {
-					var result = []
-					for (key in response.posts) {
-						var post = response.posts[key];
-						if (post.categories.indexOf(channel) > - 1) {
-							result.push(post);
+				var result = [];
+				for (key in response.posts) {
+					var post = response.posts[key];
+					if (post.draft) continue;
+					if (typeof channel !== 'undefined') {
+						if (post.categories.indexOf(channel) == - 1) {
+							continue
 						}
 					}
-					response.posts = result;
+					result.push(post);
 				}
+				response.posts = result;
 
 				data = response;
 
@@ -75,8 +76,6 @@ $(document).ready(function() {
 		for (var i = 0; i < 5; i++) {
 			var post = data.posts[offset + i];
 			var article = $("article.post:eq(" + i + ")");
-
-			console.log(article);
 
 			article.css("border-bottom", i == data.posts.length - 1 ? "none" : null);
 			if (i >= data.posts.length || typeof post == 'undefined') {
