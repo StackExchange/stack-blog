@@ -1,9 +1,12 @@
----
-layout: post
+--- 
 author: jonhmchan
-date: 2015-04-14
-title: Redefining Developer Evangelism
+categories: 
+  - company
+  - engineering
+date: "2015-04-14 00:00:00"
 draft: true
-categories:
- - company
- ---
+layout: post
+title: "Redefining Developer Evangelism"
+---
+
+# Hello world!
