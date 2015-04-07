@@ -109,7 +109,13 @@ Adding this file is very similar to adding your original authors markdown file. 
 
 **Writing your post**
 
-Everything following the second set of three dashes in your post markdown file will be the content of your post. We use [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to format the post. 
+Everything following the second set of three dashes in your post markdown file will be the content of your post. We use [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to format the post.
+
+**Uploading Images**
+
+Adding images to your post requires you to upload the image and use the URL in your markdown. If you are a developer, you can go ahead and add images to the `images` folder in this repository and access it that way.
+
+If you are not a developer, we have a Stack Exchange Imgur account that you can use to upload images, then use the URL of the uploaded image in your post.
 
 **Adding tags**
 
