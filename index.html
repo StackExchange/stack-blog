@@ -74,7 +74,7 @@ layout: default
 						{% assign tagCount = tagCount | plus: 1 %}
 						{% endif %}
 					{% endfor %}
-				<p><a href="{{ site.baseurl }}/tag/{{ tag | first }}"><span class="postTag">{{ tag | first }}</span></a> ({{ tagCount }})</p>
+				<p><a href="{{ site.baseurl }}/tags/{{ tag | first }}"><span class="postTag">{{ tag | first }}</span></a> ({{ tagCount }})</p>
 				{% endfor %}
 				</section>
 			</div>
