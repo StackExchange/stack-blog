@@ -7,7 +7,7 @@ redirect_from: /2008/10/stack-overflow-on-hanselminutes
 slug: stack-overflow-on-hanselminutes
 title: Stack Overflow on Hanselminutes
 wordpress_id: 133
-categories:
+tags:
 - company
 - podcasts
 ---

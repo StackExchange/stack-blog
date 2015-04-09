@@ -8,7 +8,7 @@ hero: http://i.stack.imgur.com/8oSNi.png
 slug: targeted-jobs-for-stack-overflow
 title: Targeted Jobs for Stack Overflow
 wordpress_id: 15318
-categories:
+tags:
 - company
 - announcement
 - careers

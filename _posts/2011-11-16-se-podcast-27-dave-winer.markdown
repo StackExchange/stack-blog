@@ -8,7 +8,7 @@ hero: /blog/images/category/podcasts.jpg
 slug: se-podcast-27-dave-winer
 title: 'SE Podcast #27 - Dave Winer'
 wordpress_id: 10208
-categories:
+tags:
 - company
 - podcasts
 ---

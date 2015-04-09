@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/lucene-logo.png
 slug: sponsoring-lucene-net-logo-design-contest
 title: Sponsoring Lucene.Net Logo Design Contest
 wordpress_id: 8131
-categories:
+tags:
 - company
 - design
 ---

@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/accept-own-answer-before.png
 slug: accept-your-own-answers
 title: Accept Your Own Answers
 wordpress_id: 328
-categories:
+tags:
 - company
 - community
 - design

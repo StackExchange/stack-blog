@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/villagers-with-pitchforks.jpg
 slug: the-death-of-meta-tags
 title: The Death of Meta Tags
 wordpress_id: 4436
-categories:
+tags:
 - company
 - community
 - reference

@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/screenshot-19.png
 slug: when-will-my-site-graduate
 title: When Will My Site Graduate?
 wordpress_id: 5744
-categories:
+tags:
 - company
 - Area51
 - reference

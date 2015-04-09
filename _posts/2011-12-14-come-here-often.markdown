@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/survey-gopher-3.jpg
 slug: come-here-often
 title: Come Here Often?
 wordpress_id: 10450
-categories:
+tags:
 - company
 - background
 - community

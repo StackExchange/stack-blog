@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/cc-wiki-logo.png
 slug: stack-overflow-creative-commons-data-dump
 title: Stack Overflow Creative Commons Data Dump
 wordpress_id: 1432
-categories:
+tags:
 - company
 - cc-wiki-dump
 - community

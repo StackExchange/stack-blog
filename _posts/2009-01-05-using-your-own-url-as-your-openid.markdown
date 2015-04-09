@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/stack-exchange-openid-delegation.png
 slug: using-your-own-url-as-your-openid
 title: Using Your Own URL as Your OpenID
 wordpress_id: 279
-categories:
+tags:
 - company
 - design
 ---

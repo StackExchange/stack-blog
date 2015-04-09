@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/fields-arranged-by-purity
 slug: good-subjective-bad-subjective
 title: Good Subjective, Bad Subjective
 wordpress_id: 5236
-categories:
+tags:
 - company
 - community
 - reference

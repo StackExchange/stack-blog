@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/identicon-samples.png
 slug: gravatars-identicons-and-you
 title: Gravatars, Identicons, and You
 wordpress_id: 53
-categories:
+tags:
 - company
 - design
 ---

@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/cdn-world-map.png
 slug: the-speed-of-light-sucks
 title: The Speed of Light Sucks
 wordpress_id: 8158
-categories:
+tags:
 - company
 - community
 - server

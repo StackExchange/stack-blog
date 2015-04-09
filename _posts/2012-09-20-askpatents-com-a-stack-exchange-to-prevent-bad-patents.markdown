@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/GiantGummyBear.png
 slug: askpatents-com-a-stack-exchange-to-prevent-bad-patents
 title: 'AskPatents.com: A Stack Exchange To Prevent Bad Patents'
 wordpress_id: 12251
-categories:
+tags:
 - company
 - announcement
 - stackexchange

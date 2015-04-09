@@ -7,7 +7,7 @@ redirect_from: /2008/08/i-guess-thats-why-they-call-it-beta
 slug: i-guess-thats-why-they-call-it-beta
 title: I Guess That's Why They Call It "Beta"
 wordpress_id: 93
-categories:
+tags:
 - company
 - Beta
 ---

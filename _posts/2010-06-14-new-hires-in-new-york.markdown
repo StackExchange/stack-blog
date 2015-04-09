@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/bio-david-fullerton.jpg
 slug: new-hires-in-new-york
 title: New Hires in New York
 wordpress_id: 3694
-categories:
+tags:
 - company
 - background
 ---

@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-sticker-pro
 slug: coming-soon-trilogy-stickers
 title: 'Coming Soon: Trilogy Stickers'
 wordpress_id: 1821
-categories:
+tags:
 - company
 - background
 - community

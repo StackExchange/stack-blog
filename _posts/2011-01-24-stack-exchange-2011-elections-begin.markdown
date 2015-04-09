@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/election-sites.png
 slug: stack-exchange-2011-elections-begin
 title: Stack Exchange 2011 Elections Begin
 wordpress_id: 6954
-categories:
+tags:
 - company
 - moderators
 - stackexchange

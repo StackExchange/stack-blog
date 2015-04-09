@@ -8,7 +8,7 @@ hero: /blog/images/category/podcasts.jpg
 slug: se-podcast-10
 title: 'SE Podcast #10 - Steve Karantza'
 wordpress_id: 8618
-categories:
+tags:
 - company
 - podcasts
 ---

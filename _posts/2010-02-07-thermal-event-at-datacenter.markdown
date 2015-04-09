@@ -7,7 +7,7 @@ redirect_from: /2010/02/thermal-event-at-datacenter
 slug: thermal-event-at-datacenter
 title: Thermal Event at Datacenter
 wordpress_id: 2706
-categories:
+tags:
 - company
 - server
 ---

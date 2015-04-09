@@ -7,7 +7,7 @@ redirect_from: /2010/08/should-unix-linux-and-ubuntu-be-merged-vote
 slug: should-unix-linux-and-ubuntu-be-merged-vote
 title: Should Unix/Linux and Ubuntu Be Merged -- Vote!
 wordpress_id: 4752
-categories:
+tags:
 - company
 - stackexchange
 ---

@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/review1.png
 slug: improved-reviewing
 title: Improved Reviewing
 wordpress_id: 10219
-categories:
+tags:
 - company
 - community
 - design

@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/dr-evil-pinky.jpg
 slug: one-million-pageviews
 title: One Million Pageviews
 wordpress_id: 2002
-categories:
+tags:
 - company
 - background
 ---

@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/bookcut.png
 slug: a-bookshelf-on-your-careers-2-0-profile
 title: A bookshelf on your Careers 2.0 profile
 wordpress_id: 7651
-categories:
+tags:
 - company
 - careers
 ---

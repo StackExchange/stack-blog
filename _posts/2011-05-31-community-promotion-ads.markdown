@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/promotion-ad-in-situ1.png
 slug: community-promotion-ads
 title: Community Promotion Ads
 wordpress_id: 8261
-categories:
+tags:
 - company
 - community
 - promotion

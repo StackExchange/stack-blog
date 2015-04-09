@@ -8,7 +8,7 @@ hero: http://i.stack.imgur.com/7MLht.png
 slug: boxing-day
 title: 'Winter Bash 2012 Conclusion: Boxing Day'
 wordpress_id: 12871
-categories:
+tags:
 - company
 - background
 - stackexchange

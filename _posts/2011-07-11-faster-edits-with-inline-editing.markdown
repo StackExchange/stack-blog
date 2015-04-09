@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/regular-edits-stack-overflow-feb-july-2011.png
 slug: faster-edits-with-inline-editing
 title: Faster Edits with Inline Editing
 wordpress_id: 8702
-categories:
+tags:
 - company
 - community
 - design

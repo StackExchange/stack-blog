@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/then-a-miracle-occurs-cartoon.png
 slug: stack-overflow-private-beta-begins
 title: Stack Overflow Private Beta Begins
 wordpress_id: 82
-categories:
+tags:
 - company
 - Beta
 ---

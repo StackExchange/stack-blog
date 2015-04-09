@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/justice-league-small.jpg
 slug: stack-overflow-and-doctype
 title: Stack Overflow and Doctype
 wordpress_id: 1832
-categories:
+tags:
 - company
 - background
 - community

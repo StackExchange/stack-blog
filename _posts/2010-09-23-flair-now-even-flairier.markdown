@@ -8,7 +8,7 @@ hero: http://superuser.com/users/flair/2054.png
 slug: flair-now-even-flairier
 title: 'Flair: Now Even Flairier'
 wordpress_id: 5177
-categories:
+tags:
 - company
 - community
 - serverfault.com

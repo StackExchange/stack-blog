@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/stackexchange-new-homepage.png
 slug: network-central-stackexchange-com
 title: 'Network Central: stackexchange.com '
 wordpress_id: 4504
-categories:
+tags:
 - company
 - announcement
 - stackexchange

@@ -7,7 +7,7 @@ redirect_from: /2012/02/stack-exchange-open-source-projects
 slug: stack-exchange-open-source-projects
 title: Stack Exchange Open Source Projects
 wordpress_id: 11084
-categories:
+tags:
 - company
 - background
 - stackoverflow

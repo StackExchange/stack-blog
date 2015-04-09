@@ -7,7 +7,7 @@ redirect_from: /2012/04/when-a-site-grows-quiet
 slug: when-a-site-grows-quiet
 title: When a Site Grows Quiet
 wordpress_id: 11600
-categories:
+tags:
 - company
 - announcement
 - Area51

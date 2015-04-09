@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/lolcat-job-300x236.jpg
 slug: the-best-damn-careers-site
 title: The Best Damn Careers Site
 wordpress_id: 5591
-categories:
+tags:
 - company
 - careers
 ---

@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/sorry-im-so-stupid-cake.jpg
 slug: domain-names-the-wrong-question
 title: 'Domain Names: The Wrong Question'
 wordpress_id: 5376
-categories:
+tags:
 - company
 - community
 - stackexchange

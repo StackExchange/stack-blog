@@ -8,7 +8,7 @@ hero: http://i.stack.imgur.com/gbyay.png
 slug: stack-exchange-for-iphone-is-here
 title: Stack Exchange for iPhone is here!
 wordpress_id: 14688
-categories:
+tags:
 - company
 - announcement
 - mobile

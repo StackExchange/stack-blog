@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/Area-51-Banner1.png
 slug: area-51-trusting-the-community
 title: 'Area 51: Trusting the Community'
 wordpress_id: 3866
-categories:
+tags:
 - company
 - Area51
 - community

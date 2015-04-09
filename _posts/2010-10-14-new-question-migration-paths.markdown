@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/new-public-sites.png
 slug: new-question-migration-paths
 title: New Question Migration Paths
 wordpress_id: 5633
-categories:
+tags:
 - company
 - design
 - serverfault.com

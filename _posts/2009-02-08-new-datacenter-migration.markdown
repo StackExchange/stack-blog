@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/new-datacenter-racked-servers-glamour-shots.jpg
 slug: new-datacenter-migration
 title: New Datacenter Migration
 wordpress_id: 615
-categories:
+tags:
 - company
 - server
 ---

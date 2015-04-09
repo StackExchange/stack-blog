@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/stackoverflow-email-summary.png
 slug: now-showing-email-notifications
 title: 'Now Showing: Email Notifications'
 wordpress_id: 654
-categories:
+tags:
 - company
 - design
 ---

@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/survey-final-3.png
 slug: 2012-stack-overflow-user-survey-results
 title: 2012 Stack Overflow User Survey Results
 wordpress_id: 12948
-categories:
+tags:
 - company
 - background
 - community

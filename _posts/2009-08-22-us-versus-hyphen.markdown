@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/google-search-rank-stacko
 slug: us-versus-hyphen
 title: Us Versus Hyphen
 wordpress_id: 1858
-categories:
+tags:
 - company
 - background
 ---

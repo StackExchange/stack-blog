@@ -7,7 +7,7 @@ redirect_from: /2012/10/super-user-win8-challenge
 slug: super-user-win8-challenge
 title: Take the Super User Windows 8 Challenge
 wordpress_id: 12436
-categories:
+tags:
 - company
 - promotion
 - superuser.com

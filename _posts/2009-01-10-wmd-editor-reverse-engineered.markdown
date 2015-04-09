@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/git-wmd-reverse-engineeri
 slug: wmd-editor-reverse-engineered
 title: WMD Editor Reverse Engineered
 wordpress_id: 346
-categories:
+tags:
 - company
 - community
 - design

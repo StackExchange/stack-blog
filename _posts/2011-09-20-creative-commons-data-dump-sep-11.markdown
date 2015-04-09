@@ -8,7 +8,7 @@ hero: http://www.clearbits.net/images/btn/CB-download.png
 slug: creative-commons-data-dump-sep-11
 title: Creative Commons Data Dump Sep '11
 wordpress_id: 9857
-categories:
+tags:
 - company
 - cc-wiki-dump
 ---

@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/lucene-logo.png
 slug: stack-overflow-search-now-81-less-crappy
 title: Stack Overflow Search -- Now 81% Less Crappy
 wordpress_id: 7041
-categories:
+tags:
 - company
 - serverfault.com
 - stackexchange

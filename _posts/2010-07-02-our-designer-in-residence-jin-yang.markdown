@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/jin-yang.jpg
 slug: our-designer-in-residence-jin-yang
 title: 'Our Designer in Residence: Jin Yang'
 wordpress_id: 3907
-categories:
+tags:
 - company
 - announcement
 - design

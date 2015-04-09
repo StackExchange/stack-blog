@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/le-france.png
 slug: yet-another-reason-to-dislike-france
 title: Yet Another Reason to Dislike France
 wordpress_id: 1894
-categories:
+tags:
 - company
 - podcasts
 ---

@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/computer-history-museum-map-wall.png
 slug: our-brick-in-the-computer-history-museum-wall
 title: Our Brick in the Computer History Museum Wall
 wordpress_id: 3193
-categories:
+tags:
 - company
 - announcement
 - background

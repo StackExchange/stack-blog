@@ -7,7 +7,7 @@ redirect_from: /2009/04/googles-openids-are-unique-per-domain
 slug: googles-openids-are-unique-per-domain
 title: Google's OpenIDs are Unique Per-Domain
 wordpress_id: 1192
-categories:
+tags:
 - company
 - Beta
 - serverfault.com

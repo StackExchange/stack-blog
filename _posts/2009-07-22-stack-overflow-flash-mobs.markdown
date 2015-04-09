@@ -7,7 +7,7 @@ redirect_from: /2009/07/stack-overflow-flash-mobs
 slug: stack-overflow-flash-mobs
 title: Stack Overflow Flash Mobs
 wordpress_id: 1682
-categories:
+tags:
 - company
 - background
 - community

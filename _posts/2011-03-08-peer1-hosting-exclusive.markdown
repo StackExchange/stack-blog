@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/shiny-peer-1-e1298400639158.jpg
 slug: peer1-hosting-exclusive
 title: PEER 1 Hosting – Making your data center more awesome!
 wordpress_id: 7305
-categories:
+tags:
 - company
 - announcement
 - server

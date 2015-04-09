@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/native-image-uploads-imgur.png
 slug: new-image-upload-support
 title: New Image Upload Support
 wordpress_id: 4700
-categories:
+tags:
 - company
 - design
 - serverfault.com

@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/beta-child-meta-logos.png
 slug: new-per-site-metas
 title: New Per-Site Metas
 wordpress_id: 4198
-categories:
+tags:
 - company
 - meta
 - serverfault.com

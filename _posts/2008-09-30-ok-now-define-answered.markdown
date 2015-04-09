@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/riddler.png
 slug: ok-now-define-answered
 title: OK, Now Define "Answered"
 wordpress_id: 106
-categories:
+tags:
 - company
 - design
 ---

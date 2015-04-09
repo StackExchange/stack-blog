@@ -7,7 +7,7 @@ redirect_from: /2009/10/markdown-one-year-later
 slug: markdown-one-year-later
 title: Markdown, One Year Later
 wordpress_id: 2053
-categories:
+tags:
 - company
 - background
 - design

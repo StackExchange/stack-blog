@@ -8,7 +8,7 @@ hero: http://icanhascheezburger.wordpress.com/files/2007/09/128339897745781250sc
 slug: devdays-is-back
 title: DevDays is Back!
 wordpress_id: 8597
-categories:
+tags:
 - company
 - devdays
 ---

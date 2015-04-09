@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/stack-overflow-server-rack-front-small.jpg
 slug: stack-overflow-rack-glamour-shots
 title: Stack Overflow Rack Glamour Shots
 wordpress_id: 2303
-categories:
+tags:
 - company
 - background
 - server

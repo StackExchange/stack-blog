@@ -8,7 +8,7 @@ hero: http://sstatic.net/superuser/img/logo.png
 slug: super-user-1-year-anniversary-super-contest
 title: Super User 1 Year Anniversary Super Contest
 wordpress_id: 4716
-categories:
+tags:
 - company
 - superuser.com
 ---

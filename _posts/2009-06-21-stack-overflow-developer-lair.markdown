@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/jarrod-lair-1.jpg
 slug: stack-overflow-developer-lair
 title: Stack Overflow Developer Lair
 wordpress_id: 1504
-categories:
+tags:
 - company
 - background
 ---

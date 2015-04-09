@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/gorilla-vs-shark.png
 slug: gorilla-vs-shark
 title: Gorilla vs. Shark
 wordpress_id: 9324
-categories:
+tags:
 - company
 - community
 - stackexchange

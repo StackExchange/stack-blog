@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/barbie-shopping.jpg
 slug: qa-is-hard-lets-go-shopping
 title: Q&A is Hard, Let's Go Shopping!
 wordpress_id: 6146
-categories:
+tags:
 - company
 - community
 - design

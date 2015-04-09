@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/spud-server.jpg
 slug: database-upgrade
 title: Database Upgrade
 wordpress_id: 5909
-categories:
+tags:
 - company
 - server
 ---

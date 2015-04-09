@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/stack-overflow-account-association-google-openid.pn
 slug: cross-site-account-associations
 title: Cross-Site Account Associations
 wordpress_id: 1620
-categories:
+tags:
 - company
 - community
 - serverfault.com

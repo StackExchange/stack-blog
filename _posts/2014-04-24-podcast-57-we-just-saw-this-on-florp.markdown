@@ -8,7 +8,7 @@ hero: /blog/images/category/podcasts.jpg
 slug: podcast-57-we-just-saw-this-on-florp
 title: 'Podcast #57 - We Just Saw This On Florp'
 wordpress_id: 14655
-categories:
+tags:
 - company
 - podcasts
 ---

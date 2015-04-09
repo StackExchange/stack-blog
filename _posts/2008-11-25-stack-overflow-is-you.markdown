@@ -7,7 +7,7 @@ redirect_from: /2008/11/stack-overflow-is-you
 slug: stack-overflow-is-you
 title: Stack Overflow Is You
 wordpress_id: 149
-categories:
+tags:
 - company
 - design
 ---

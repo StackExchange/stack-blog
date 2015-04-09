@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/stackexchange-logo.png
 slug: stack-exchange-gets-a-blog
 title: Stack Exchange Gets a Blog
 wordpress_id: 2694
-categories:
+tags:
 - company
 - stackexchange
 ---

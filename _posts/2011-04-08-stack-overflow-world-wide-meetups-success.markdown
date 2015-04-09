@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/SydneyMeetupPic-223x300.jpg
 slug: stack-overflow-world-wide-meetups-success
 title: Stack Overflow World-Wide MeetUps - Success!
 wordpress_id: 7737
-categories:
+tags:
 - company
 - community
 ---

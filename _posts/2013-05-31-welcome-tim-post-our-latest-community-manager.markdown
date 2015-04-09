@@ -8,7 +8,7 @@ hero: http://i.stack.imgur.com/lh8Cp.png
 slug: welcome-tim-post-our-latest-community-manager
 title: Welcome Tim Post, our latest Community Manager
 wordpress_id: 13402
-categories:
+tags:
 - company
 - background
 - community

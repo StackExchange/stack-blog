@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/herding-code-logo.png
 slug: stack-exchange-on-herding-code
 title: Stack Exchange on Herding Code
 wordpress_id: 4030
-categories:
+tags:
 - company
 - podcasts
 ---

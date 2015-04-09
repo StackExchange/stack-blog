@@ -8,7 +8,7 @@ hero: /blog/images/category/podcasts.jpg
 slug: se-podcast-29-chris-poole
 title: 'SE Podcast #29 - Chris Poole'
 wordpress_id: 10249
-categories:
+tags:
 - company
 - podcasts
 ---

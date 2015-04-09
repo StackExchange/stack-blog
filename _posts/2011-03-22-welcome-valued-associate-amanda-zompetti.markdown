@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/egg-cream-e1300723988366.jpg
 slug: welcome-valued-associate-amanda-zompetti
 title: Welcome Valued Associate Amanda Zompetti!
 wordpress_id: 7488
-categories:
+tags:
 - company
 - background
 ---

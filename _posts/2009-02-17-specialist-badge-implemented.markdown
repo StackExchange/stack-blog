@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/stackoverflow-tag-based-badges.png
 slug: specialist-badge-implemented
 title: Specialist Badge Implemented
 wordpress_id: 683
-categories:
+tags:
 - company
 - design
 ---

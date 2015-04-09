@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/stack-overflow-welcome-sidebar.png
 slug: a-question-about-questions
 title: A Question About Questions
 wordpress_id: 117
-categories:
+tags:
 - company
 - design
 ---

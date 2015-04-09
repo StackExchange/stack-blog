@@ -7,7 +7,7 @@ redirect_from: /2009/09/the-first-super-user-with-10k-rep
 slug: the-first-super-user-with-10k-rep
 title: The First Super User With 10k Rep
 wordpress_id: 1905
-categories:
+tags:
 - company
 - community
 - superuser.com

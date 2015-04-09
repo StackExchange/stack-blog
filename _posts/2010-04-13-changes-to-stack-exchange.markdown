@@ -8,7 +8,7 @@ hero: /wp-content/uploads/se2-venn-diagram.png
 slug: changes-to-stack-exchange
 title: Changes to Stack Exchange
 wordpress_id: 2935
-categories:
+tags:
 - company
 - stackexchange
 ---

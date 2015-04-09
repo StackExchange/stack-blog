@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/stackoverflow-serverfault-logos1.png
 slug: logo-contest-winner-for-serverfaultcom
 title: Logo Contest Winner for serverfault.com
 wordpress_id: 1039
-categories:
+tags:
 - company
 - serverfault.com
 ---

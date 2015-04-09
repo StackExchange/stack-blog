@@ -8,7 +8,7 @@ hero: http://imgs.xkcd.com/comics/self_description.png
 slug: stack-overflow-data-visualization-contest
 title: Stack Overflow Data Visualization Contest
 wordpress_id: 12355
-categories:
+tags:
 - company
 - announcement
 - stackoverflow

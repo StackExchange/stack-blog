@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/061107pollfaults-x.png
 slug: vote-fraud-and-you
 title: Vote Fraud and You
 wordpress_id: 170
-categories:
+tags:
 - company
 - design
 ---

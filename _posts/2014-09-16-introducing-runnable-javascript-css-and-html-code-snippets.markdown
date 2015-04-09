@@ -8,7 +8,7 @@ hero: //i.stack.imgur.com/kZPXw.png
 slug: introducing-runnable-javascript-css-and-html-code-snippets
 title: Introducing Runnable JavaScript, CSS, and HTML Code Snippets
 wordpress_id: 14786
-categories:
+tags:
 - company
 - announcement
 - stackexchange

@@ -8,7 +8,7 @@ hero: http://sstatic.net/stackexchange/Img/people/bio-alex-miller.jpg
 slug: welcome-valued-associate-alex-miller
 title: Welcome Valued Associate Alex Miller!
 wordpress_id: 7804
-categories:
+tags:
 - company
 - background
 ---

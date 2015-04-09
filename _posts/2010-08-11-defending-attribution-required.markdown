@@ -8,7 +8,7 @@ hero: http://img94.imageshack.us/img94/309/attributionrequiredfoot.png
 slug: defending-attribution-required
 title: Defending Attribution Required
 wordpress_id: 4456
-categories:
+tags:
 - company
 - cc-wiki-dump
 - community

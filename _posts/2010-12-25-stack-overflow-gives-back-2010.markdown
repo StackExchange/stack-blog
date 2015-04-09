@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/geek-wreath.jpg
 slug: stack-overflow-gives-back-2010
 title: Stack Overflow Gives Back 2010
 wordpress_id: 6526
-categories:
+tags:
 - company
 - background
 ---

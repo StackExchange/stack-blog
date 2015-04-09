@@ -8,7 +8,7 @@ hero: /blog/images/category/podcasts.jpg
 slug: se-podcast-17
 title: 'SE Podcast #17 - Kyle Brandt & George Beech'
 wordpress_id: 9773
-categories:
+tags:
 - company
 - podcasts
 ---

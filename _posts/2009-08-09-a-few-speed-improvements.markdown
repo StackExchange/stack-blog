@@ -7,7 +7,7 @@ redirect_from: /2009/08/a-few-speed-improvements
 slug: a-few-speed-improvements
 title: A Few Speed Improvements
 wordpress_id: 1803
-categories:
+tags:
 - company
 - background
 ---

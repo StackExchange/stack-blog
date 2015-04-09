@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/melted-switch-circuits-2.
 slug: stack-overflow-outage
 title: Stack Overflow Outage
 wordpress_id: 2067
-categories:
+tags:
 - company
 - server
 ---

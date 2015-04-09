@@ -8,7 +8,7 @@ hero: http://i.stack.imgur.com/Jbt2w.png
 slug: your-communities-list-is-now-customizable
 title: Your communities list is now customizable
 wordpress_id: 14593
-categories:
+tags:
 - company
 - announcement
 - design

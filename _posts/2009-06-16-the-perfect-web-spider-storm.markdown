@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/stackoverflow-cacti-graph-june-15-2009.png
 slug: the-perfect-web-spider-storm
 title: The Perfect Web Spider Storm
 wordpress_id: 1476
-categories:
+tags:
 - company
 - background
 - server

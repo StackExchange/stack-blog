@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/stack-overflow-stickers-mailed-stuff.jpg
 slug: stickers-for-stackers
 title: Stickers for Stackers
 wordpress_id: 2015
-categories:
+tags:
 - company
 - background
 - community

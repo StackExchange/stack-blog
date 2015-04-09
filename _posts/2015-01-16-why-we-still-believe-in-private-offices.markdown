@@ -8,7 +8,7 @@ hero: http://i.stack.imgur.com/1qD5w.png
 slug: why-we-still-believe-in-private-offices
 title: Why We (Still) Believe in Private Offices
 wordpress_id: 15237
-categories:
+tags:
 - company
 - stackexchange
 ---

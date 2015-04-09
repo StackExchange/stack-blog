@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/stack-overflow-world-visitors-20101.png
 slug: stack-overflow-2010-analytics
 title: Stack Overflow 2010 Analytics
 wordpress_id: 6359
-categories:
+tags:
 - company
 - background
 ---

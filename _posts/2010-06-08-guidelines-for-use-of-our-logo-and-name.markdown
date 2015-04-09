@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/legalese.jpg
 slug: guidelines-for-use-of-our-logo-and-name
 title: Guidelines for Use of our Logo and Name
 wordpress_id: 3490
-categories:
+tags:
 - company
 - community
 - legal

@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/unanswered-no-answers-tab.png
 slug: the-horror-of-no-answer-revival-and-necromancer
 title: 'The Horror of No Answer: Revival and Necromancer'
 wordpress_id: 6007
-categories:
+tags:
 - company
 - community
 - design

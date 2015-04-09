@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-servers-shi
 slug: new-stack-overflow-servers-ready
 title: New Stack Overflow Servers Ready
 wordpress_id: 493
-categories:
+tags:
 - company
 - server
 ---

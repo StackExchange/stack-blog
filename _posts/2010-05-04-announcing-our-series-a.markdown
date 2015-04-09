@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/sonetwork1.png
 slug: announcing-our-series-a
 title: Announcing the Stack Overflow Series A Financing
 wordpress_id: 3038
-categories:
+tags:
 - company
 - announcement
 - community

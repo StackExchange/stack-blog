@@ -8,7 +8,7 @@ hero: http://socialwayne.com/images/foursquare-job.jpg
 slug: finding-a-great-company
 title: Finding a Great Company
 wordpress_id: 13933
-categories:
+tags:
 - company
 - careers
 ---

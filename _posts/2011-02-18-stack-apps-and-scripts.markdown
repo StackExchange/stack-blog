@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/stackapps-scripts.png
 slug: stack-apps-and-scripts
 title: Stack Apps and Scripts
 wordpress_id: 7244
-categories:
+tags:
 - company
 - API
 - stackexchange

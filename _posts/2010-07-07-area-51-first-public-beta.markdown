@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/WebApps1.png
 slug: area-51-first-public-beta
 title: 'Area 51: First Public Beta'
 wordpress_id: 3991
-categories:
+tags:
 - company
 - Area51
 - community

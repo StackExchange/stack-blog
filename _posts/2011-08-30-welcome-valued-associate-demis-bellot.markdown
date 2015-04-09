@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/demis-tenerife.jpg
 slug: welcome-valued-associate-demis-bellot
 title: Welcome Valued Associate Demis Bellot
 wordpress_id: 9667
-categories:
+tags:
 - company
 - background
 ---

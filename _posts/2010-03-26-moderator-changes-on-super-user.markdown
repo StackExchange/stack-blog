@@ -7,7 +7,7 @@ redirect_from: /2010/03/moderator-changes-on-super-user
 slug: moderator-changes-on-super-user
 title: Moderator Changes on Super User
 wordpress_id: 2853
-categories:
+tags:
 - company
 - community
 - superuser.com

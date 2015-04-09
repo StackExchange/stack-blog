@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/super-user-room-card-xxl.
 slug: super-user-chat-now-available
 title: Super User Chat Now Available
 wordpress_id: 5131
-categories:
+tags:
 - company
 - stackexchange
 - superuser.com

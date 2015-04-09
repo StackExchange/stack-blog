@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/serverfault-logo.png
 slug: server-fault-hiring-from-the-community
 title: 'Server Fault: Hiring From the Community'
 wordpress_id: 3895
-categories:
+tags:
 - company
 - community
 - serverfault.com

@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/il_fullxfull.73753810.jpg
 slug: load-balancing-stack-overflow
 title: Load Balancing Stack Overflow
 wordpress_id: 1929
-categories:
+tags:
 - company
 - server
 ---

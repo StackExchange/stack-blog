@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/data-explorer-screenshot.
 slug: re-launching-stack-exchange-data-explorer
 title: Re-Launching Stack Exchange Data Explorer
 wordpress_id: 6336
-categories:
+tags:
 - company
 - cc-wiki-dump
 - community

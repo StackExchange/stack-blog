@@ -7,7 +7,7 @@ redirect_from: /2009/07/this-just-in-stack-overflow-defeats-google
 slug: this-just-in-stack-overflow-defeats-google
 title: 'This Just In: Stack Overflow Defeats Google'
 wordpress_id: 1633
-categories:
+tags:
 - company
 - background
 ---

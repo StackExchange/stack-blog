@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/craigslist-flagging.png
 slug: raising-a-red-flag
 title: Raising a Red Flag
 wordpress_id: 1011
-categories:
+tags:
 - company
 - community
 - design

@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/unicornify-stackoverflow-eric-lippert1.png
 slug: reminder-its-april-1st
 title: 'Reminder: It''s April 1st'
 wordpress_id: 2880
-categories:
+tags:
 - company
 - community
 ---

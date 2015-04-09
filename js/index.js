@@ -26,7 +26,7 @@ $(document).ready(function() {
 					var post = response.posts[key];
 					if (post.draft) continue;
 					if (typeof channel !== 'undefined') {
-						if (post.categories.indexOf(channel) == - 1) {
+						if (post.tags.indexOf(channel) == - 1) {
 							continue
 						}
 					}

@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/switch-autodetect-fail.png
 slug: six-whys-or-never-trust-your-network-switch
 title: Six Whys - Or, Never Trust Your Network Switch
 wordpress_id: 2652
-categories:
+tags:
 - company
 - background
 - server

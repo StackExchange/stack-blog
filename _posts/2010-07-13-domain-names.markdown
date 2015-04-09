@@ -8,7 +8,7 @@ hero: http://ecx.images-amazon.com/images/I/51HRVJ5X09L._SL160_.jpg
 slug: domain-names
 title: Domain Names
 wordpress_id: 4161
-categories:
+tags:
 - company
 - background
 - community

@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/community-wiki-checkbox.png
 slug: the-future-of-community-wiki
 title: The Future of Community Wiki
 wordpress_id: 9312
-categories:
+tags:
 - company
 - community
 - design

@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/stack-overflow-careers-search-stats.png
 slug: careers-success-stories
 title: Careers Success Stories
 wordpress_id: 2629
-categories:
+tags:
 - company
 - careers
 ---

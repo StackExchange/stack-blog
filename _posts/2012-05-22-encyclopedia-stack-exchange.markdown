@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/VennDiagramSmall.png
 slug: encyclopedia-stack-exchange
 title: Encyclopedia Stack Exchange
 wordpress_id: 11760
-categories:
+tags:
 - company
 - announcement
 - stackexchange

@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/documentation1.png
 slug: stack-exchange-api-v2-0-no-longer-beta
 title: Stack Exchange API V2.0 No Longer Beta
 wordpress_id: 10936
-categories:
+tags:
 - company
 - API
 ---

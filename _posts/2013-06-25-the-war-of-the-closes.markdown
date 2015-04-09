@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/game-of-thrones-recap-jon-snow-ygritte-600x337-2.jp
 slug: the-war-of-the-closes
 title: 'The War of the Closes '
 wordpress_id: 13438
-categories:
+tags:
 - company
 - announcement
 ---

@@ -8,7 +8,7 @@ hero: /blog/images/category/podcasts.jpg
 slug: se-podcast-25-mark-russinovich
 title: 'SE Podcast #25 - Mark Russinovich'
 wordpress_id: 10095
-categories:
+tags:
 - company
 - podcasts
 ---

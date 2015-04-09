@@ -7,7 +7,7 @@ redirect_from: /2010/07/stack-exchange-api-1-0-imminent
 slug: stack-exchange-api-1-0-imminent
 title: Stack Exchange API 1.0 Imminent
 wordpress_id: 4022
-categories:
+tags:
 - company
 - API
 - stackexchange

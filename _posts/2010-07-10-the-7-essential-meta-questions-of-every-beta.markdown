@@ -8,7 +8,7 @@ hero: http://i.stack.imgur.com/CXI15.png
 slug: the-7-essential-meta-questions-of-every-beta
 title: The 7 Essential Meta Questions of Every Beta
 wordpress_id: 4034
-categories:
+tags:
 - company
 - community
 - meta

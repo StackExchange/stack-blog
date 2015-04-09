@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/careers-tall-ad.png
 slug: how-to-write-a-great-developer-job-listing
 title: How to Write a Great Developer Job Listing
 wordpress_id: 9104
-categories:
+tags:
 - company
 - careers
 ---

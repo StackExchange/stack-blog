@@ -8,7 +8,7 @@ hero: /blog/images/category/podcasts.jpg
 slug: podcast-77
 title: 'Podcast #77'
 wordpress_id: 2337
-categories:
+tags:
 - company
 - podcasts
 ---

@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/stack-exchange-keyboard-s
 slug: stack-exchange-keyboard-shortcuts
 title: Stack Exchange Keyboard Shortcuts
 wordpress_id: 10985
-categories:
+tags:
 - company
 - stackexchange
 ---

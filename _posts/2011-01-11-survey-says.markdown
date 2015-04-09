@@ -7,7 +7,7 @@ redirect_from: /2011/01/survey-says
 slug: survey-says
 title: Survey Says
 wordpress_id: 6693
-categories:
+tags:
 - company
 - background
 - community

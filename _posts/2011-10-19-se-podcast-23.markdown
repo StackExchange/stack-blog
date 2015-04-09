@@ -8,7 +8,7 @@ hero: /blog/images/category/podcasts.jpg
 slug: se-podcast-23
 title: 'SE Podcast #23 - James Portnow'
 wordpress_id: 10072
-categories:
+tags:
 - company
 - podcasts
 ---

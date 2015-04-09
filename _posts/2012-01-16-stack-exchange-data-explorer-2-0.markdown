@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/fork11.png
 slug: stack-exchange-data-explorer-2-0
 title: 'Stack Exchange Data Explorer 2.0 '
 wordpress_id: 10782
-categories:
+tags:
 - company
 - cc-wiki-dump
 - community

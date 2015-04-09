@@ -7,7 +7,7 @@ redirect_from: /2009/07/reversal-and-pundit-badges
 slug: reversal-and-pundit-badges
 title: Reversal and Pundit Badges
 wordpress_id: 1642
-categories:
+tags:
 - company
 - community
 - design

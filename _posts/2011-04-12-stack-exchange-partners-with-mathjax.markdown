@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/mathjax-logo.png
 slug: stack-exchange-partners-with-mathjax
 title: Stack Exchange Partners with MathJax
 wordpress_id: 7752
-categories:
+tags:
 - company
 - community
 - stackexchange

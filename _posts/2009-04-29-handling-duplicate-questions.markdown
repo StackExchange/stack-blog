@@ -7,7 +7,7 @@ redirect_from: /2009/04/handling-duplicate-questions
 slug: handling-duplicate-questions
 title: Handling Duplicate Questions
 wordpress_id: 1153
-categories:
+tags:
 - company
 - community
 - design

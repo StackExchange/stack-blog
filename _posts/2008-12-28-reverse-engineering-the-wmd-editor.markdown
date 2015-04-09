@@ -7,7 +7,7 @@ redirect_from: /2008/12/reverse-engineering-the-wmd-editor
 slug: reverse-engineering-the-wmd-editor
 title: Reverse Engineering the WMD Editor
 wordpress_id: 201
-categories:
+tags:
 - company
 - design
 ---

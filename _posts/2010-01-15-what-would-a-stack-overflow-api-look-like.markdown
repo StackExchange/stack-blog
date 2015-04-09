@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/which-api-did-they-use.pn
 slug: what-would-a-stack-overflow-api-look-like
 title: What Would a Stack Overflow API Look Like?
 wordpress_id: 2544
-categories:
+tags:
 - company
 - API
 - background

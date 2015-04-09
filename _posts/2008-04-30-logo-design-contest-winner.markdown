@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/stackoverflow-logo-300.png
 slug: logo-design-contest-winner
 title: Logo Design Contest Winner
 wordpress_id: 16
-categories:
+tags:
 - company
 - design
 ---

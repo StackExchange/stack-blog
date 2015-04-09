@@ -7,7 +7,7 @@ redirect_from: /2010/09/pruning-season
 slug: pruning-season
 title: Pruning season
 wordpress_id: 5110
-categories:
+tags:
 - company
 - Area51
 - stackexchange

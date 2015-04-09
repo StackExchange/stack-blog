@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/join-or-die.jpg
 slug: factionalism-site-or-tag
 title: 'Factionalism: Site or Tag?'
 wordpress_id: 5217
-categories:
+tags:
 - company
 - community
 - stackexchange

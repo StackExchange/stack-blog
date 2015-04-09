@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/eagles-greatest-hits-japanese.jpg
 slug: stack-exchanges-greatest-hits
 title: Stack Exchange's Greatest Hits
 wordpress_id: 11143
-categories:
+tags:
 - company
 - reference
 - stackexchange

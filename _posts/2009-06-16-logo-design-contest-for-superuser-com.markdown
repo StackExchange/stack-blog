@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/crowdspring-logo.png
 slug: logo-design-contest-for-superuser-com
 title: Logo Design Contest for superuser.com
 wordpress_id: 1489
-categories:
+tags:
 - company
 - community
 - design

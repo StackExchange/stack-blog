@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/tag-stats.png
 slug: new-tag-statistics
 title: New Tag Statistics
 wordpress_id: 1406
-categories:
+tags:
 - company
 - community
 - design

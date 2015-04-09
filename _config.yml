@@ -16,7 +16,7 @@ avatar: /blog/images/logo-se.png
 #
 
 # paginate: 5
-# limit_posts: 20
+limit_posts: 20
 
 # Includes an icon in the footer for each username you enter
 footer-links:

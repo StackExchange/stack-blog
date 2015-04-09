@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/popular-tag-sets.png
 slug: subscribe-to-tags-via-emai
 title: Subscribe to Tags via Email
 wordpress_id: 6409
-categories:
+tags:
 - company
 - stackexchange
 ---

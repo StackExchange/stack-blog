@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/how-to-ask-screenshot1.pn
 slug: asking-better-questions
 title: Asking Better Questions
 wordpress_id: 5356
-categories:
+tags:
 - company
 - community
 - design

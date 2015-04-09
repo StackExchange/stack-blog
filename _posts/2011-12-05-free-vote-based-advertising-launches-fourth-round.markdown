@@ -8,7 +8,7 @@ hero: http://i.stack.imgur.com/Wi329.png
 slug: free-vote-based-advertising-launches-fourth-round
 title: Free Vote-Based Advertising Launches 1H 2012
 wordpress_id: 10279
-categories:
+tags:
 - company
 - community
 ---

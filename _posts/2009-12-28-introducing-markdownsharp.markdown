@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/markdown-sharp-logo.png
 slug: introducing-markdownsharp
 title: Introducing MarkdownSharp
 wordpress_id: 2388
-categories:
+tags:
 - company
 - community
 ---

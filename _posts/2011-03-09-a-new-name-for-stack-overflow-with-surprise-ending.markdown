@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/StackExchangeLogo1.png
 slug: a-new-name-for-stack-overflow-with-surprise-ending
 title: A New Name for Stack Overflow (with surprise ending)
 wordpress_id: 7439
-categories:
+tags:
 - company
 - announcement
 ---

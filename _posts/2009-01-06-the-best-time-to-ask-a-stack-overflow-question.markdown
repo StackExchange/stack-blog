@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/stack-overflow-revision-dates-by-hour.png
 slug: the-best-time-to-ask-a-stack-overflow-question
 title: The Best Time to Ask a Stack Overflow Question?
 wordpress_id: 303
-categories:
+tags:
 - company
 - background
 ---

@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/stackoverflow-lenovo-servers-overview.jpg
 slug: new-stack-overflow-server-glamour-shots
 title: New Stack Overflow Server Glamour Shots
 wordpress_id: 381
-categories:
+tags:
 - company
 - server
 ---

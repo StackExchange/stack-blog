@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/stack-overflow-malicious-user.png
 slug: new-question-answer-rate-limits
 title: New Question / Answer Rate Limits
 wordpress_id: 731
-categories:
+tags:
 - company
 - community
 - design

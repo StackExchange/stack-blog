@@ -8,7 +8,7 @@ hero: /blog/images/category/podcasts.jpg
 slug: se-podcast-37
 title: 'SE Podcast #37 - Back At It, Again'
 wordpress_id: 12537
-categories:
+tags:
 - company
 - podcasts
 ---

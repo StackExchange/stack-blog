@@ -8,7 +8,7 @@ hero: /blog/images/category/podcasts.jpg
 slug: podcast-46-the-podcast-that-sounds-dirty-but-isnt
 title: 'Podcast #46 - The Podcast That Sounds Dirty But Isn''t'
 wordpress_id: 13238
-categories:
+tags:
 - company
 - podcasts
 ---

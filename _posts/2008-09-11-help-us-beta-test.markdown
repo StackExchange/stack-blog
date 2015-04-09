@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/stackoverflow-venn-diagram.png
 slug: help-us-beta-test
 title: Help Us Beta Test
 wordpress_id: 96
-categories:
+tags:
 - company
 - Beta
 ---

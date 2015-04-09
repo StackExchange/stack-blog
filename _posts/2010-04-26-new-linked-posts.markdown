@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/superuser-linked-related-1.png
 slug: new-linked-posts
 title: New Linked Posts
 wordpress_id: 2982
-categories:
+tags:
 - company
 - community
 - design

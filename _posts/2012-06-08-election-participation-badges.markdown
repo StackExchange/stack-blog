@@ -8,7 +8,7 @@ hero: http://i.stack.imgur.com/qV3Lm.png
 slug: election-participation-badges
 title: Election participation badges
 wordpress_id: 11860
-categories:
+tags:
 - company
 - announcement
 - stackexchange

@@ -7,7 +7,7 @@ redirect_from: /2015/03/podcast-63-the-plumbers-up-to-67-coins/
 hero: http://i.imgur.com/wCTM1CS.jpg
 slug: podcast-63-the-plumbers-up-to-67-coins
 title: "Podcast #63 - The Plumber's Up To 67 Coins"
-categories:
+tags:
  - company
  - podcasts
 ---

@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/stack-exchange-data-explo
 slug: introducing-stack-exchange-data-explorer
 title: Introducing Stack Exchange Data Explorer
 wordpress_id: 3645
-categories:
+tags:
 - company
 - announcement
 - cc-wiki-dump

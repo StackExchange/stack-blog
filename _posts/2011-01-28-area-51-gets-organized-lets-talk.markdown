@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/discussion-zone.png
 slug: area-51-gets-organized-lets-talk
 title: Area 51 Gets Organized. Let's Talk!
 wordpress_id: 6982
-categories:
+tags:
 - company
 - Area51
 ---

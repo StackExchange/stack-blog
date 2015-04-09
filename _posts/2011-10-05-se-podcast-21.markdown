@@ -8,7 +8,7 @@ hero: /blog/images/category/podcasts.jpg
 slug: se-podcast-21
 title: 'SE Podcast #21 - David Fullerton & Jason Punyon'
 wordpress_id: 10003
-categories:
+tags:
 - company
 - podcasts
 ---

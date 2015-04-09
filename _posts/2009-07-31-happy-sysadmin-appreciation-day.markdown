@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/burned-server.jpg
 slug: happy-sysadmin-appreciation-day
 title: Happy SysAdmin Appreciation Day!
 wordpress_id: 1766
-categories:
+tags:
 - company
 - community
 - serverfault.com

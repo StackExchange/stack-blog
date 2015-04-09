@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/Chi-Town-RHoK1.jpg
 slug: stack-overflow-rhok-partners-in-hacker-goodness
 title: Stack Overflow + RHoK = Partners in Hacker Goodness
 wordpress_id: 6293
-categories:
+tags:
 - company
 - community
 ---

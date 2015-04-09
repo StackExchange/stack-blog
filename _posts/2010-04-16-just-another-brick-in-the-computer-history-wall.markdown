@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/computer-history-museum.j
 slug: just-another-brick-in-the-computer-history-wall
 title: Just Another Brick in the (Computer History) Wall
 wordpress_id: 2944
-categories:
+tags:
 - company
 - community
 ---

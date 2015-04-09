@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/comments-mini-markdown.png
 slug: new-improved-comments-with-reply
 title: New, Improved Comments with @reply
 wordpress_id: 2578
-categories:
+tags:
 - company
 - community
 - design

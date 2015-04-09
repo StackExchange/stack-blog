@@ -7,7 +7,7 @@ redirect_from: /2010/07/jin-on-hanselminutes
 slug: jin-on-hanselminutes
 title: Jin on Hanselminutes
 wordpress_id: 4191
-categories:
+tags:
 - company
 - design
 - podcasts

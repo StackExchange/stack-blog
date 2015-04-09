@@ -7,7 +7,7 @@ redirect_from: /2008/06/safe-html-and-xss
 slug: safe-html-and-xss
 title: Safe HTML and XSS
 wordpress_id: 56
-categories:
+tags:
 - company
 - design
 ---

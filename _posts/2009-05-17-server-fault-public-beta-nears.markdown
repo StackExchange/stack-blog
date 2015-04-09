@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/april-fools-day-rfcs.png
 slug: server-fault-public-beta-nears
 title: Server Fault Public Beta Nears
 wordpress_id: 1280
-categories:
+tags:
 - company
 - community
 - serverfault.com

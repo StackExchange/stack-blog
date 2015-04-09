@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/avx-300x121.png
 slug: more-notes-on-contest-format
 title: More Notes on Contest Format
 wordpress_id: 11559
-categories:
+tags:
 - company
 - chaos
 - promotion

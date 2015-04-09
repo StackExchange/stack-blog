@@ -7,7 +7,7 @@ redirect_from: /2010/05/joel-on-this-week-in-startups
 slug: joel-on-this-week-in-startups
 title: Joel on This Week in Startups
 wordpress_id: 3168
-categories:
+tags:
 - company
 - background
 - stackexchange

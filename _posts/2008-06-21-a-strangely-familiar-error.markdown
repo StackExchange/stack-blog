@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/stack-overflow-error.png
 slug: a-strangely-familiar-error
 title: A Strangely Familiar Error
 wordpress_id: 57
-categories:
+tags:
 - company
 - background
 ---

@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/error-lolcat-problemz.jpg
 slug: workin-on-ur-problemz
 title: Workin On Ur Problemz
 wordpress_id: 3804
-categories:
+tags:
 - company
 - background
 ---

@@ -9,7 +9,7 @@ published: false
 slug: '10847732327'
 title: Minimum Viable Personality - we can has?
 wordpress_id: 10550
-categories:
+tags:
 - company
 - chaos
 post_format:

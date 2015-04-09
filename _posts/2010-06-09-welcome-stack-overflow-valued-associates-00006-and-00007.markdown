@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/bio-marc-gravell.jpg
 slug: welcome-stack-overflow-valued-associates-00006-and-00007
 title: 'Welcome Stack Overflow Valued Associates #00006 and #00007'
 wordpress_id: 3507
-categories:
+tags:
 - company
 - background
 ---

@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/sam-saffron-blog.jpg
 slug: welcome-stack-overflow-valued-associate-00008
 title: 'Welcome Stack Overflow Valued Associate #00008'
 wordpress_id: 3843
-categories:
+tags:
 - company
 - background
 ---

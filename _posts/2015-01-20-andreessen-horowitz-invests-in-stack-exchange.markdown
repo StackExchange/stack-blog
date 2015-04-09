@@ -9,7 +9,7 @@ slug: andreessen-horowitz-invests-in-stack-exchange
 title: Andreessen Horowitz Invests in Stack Exchange
 source: http://joelonsoftware.com/items/2015/01/20.html
 wordpress_id: 15287
-categories:
+tags:
 - company
 - announcement
 - stackexchange

@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/apptivate-logo1.png
 slug: apptivate-ms-a-windows-8-app-development-contest
 title: 'Apptivate.ms: A Windows 8 App Development Contest'
 wordpress_id: 12274
-categories:
+tags:
 - company
 - announcement
 - promotion

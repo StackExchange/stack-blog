@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/stickers-near-loose.jpg
 slug: free-trilogy-stickers-for-top-users
 title: Free Trilogy Stickers for Top Users
 wordpress_id: 1979
-categories:
+tags:
 - company
 - community
 - serverfault.com

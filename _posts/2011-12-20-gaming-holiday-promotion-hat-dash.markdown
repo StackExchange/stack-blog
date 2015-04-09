@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/hat-dash-hats-smaller.jpg
 slug: gaming-holiday-promotion-hat-dash
 title: 'Gaming Holiday Promotion: Hat Dash!'
 wordpress_id: 10477
-categories:
+tags:
 - company
 - promotion
 - stackexchange

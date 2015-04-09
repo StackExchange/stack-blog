@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/aquaman-and-aqualad.jpg
 slug: our-sidekick-ifixit-com
 title: Our Sidekick, iFixit.com
 wordpress_id: 2758
-categories:
+tags:
 - company
 - background
 ---

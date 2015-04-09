@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/Area-51-Banner1.png
 slug: area-51-we-come-in-peace
 title: 'Area 51: We Come in Peace'
 wordpress_id: 3611
-categories:
+tags:
 - company
 - Area51
 - stackexchange

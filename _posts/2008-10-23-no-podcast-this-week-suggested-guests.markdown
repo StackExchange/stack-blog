@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/code_monkey_colour.jpg
 slug: no-podcast-this-week-suggested-guests
 title: No Podcast This Week -- Suggested Guests?
 wordpress_id: 138
-categories:
+tags:
 - company
 - podcasts
 ---

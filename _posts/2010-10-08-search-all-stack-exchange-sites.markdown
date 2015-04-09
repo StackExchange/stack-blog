@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/project-ask-elevator-pitch2.png
 slug: search-all-stack-exchange-sites
 title: Search All Stack Exchange Sites
 wordpress_id: 5481
-categories:
+tags:
 - company
 - design
 - stackexchange

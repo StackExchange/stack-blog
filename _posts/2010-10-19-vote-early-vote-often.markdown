@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/voting-controls.png
 slug: vote-early-vote-often
 title: Vote Early, Vote Often
 wordpress_id: 5697
-categories:
+tags:
 - company
 - community
 - design

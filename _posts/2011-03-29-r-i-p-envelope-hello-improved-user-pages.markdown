@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/envelope-i-hate-you.png
 slug: r-i-p-envelope-hello-improved-user-pages
 title: R.I.P. Envelope, Hello Improved User Pages
 wordpress_id: 7546
-categories:
+tags:
 - company
 - community
 - design

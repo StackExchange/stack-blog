@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/podcast-og.png
 slug: podcast-60-are-we-that-predictable
 title: 'Podcast #60: Are We That Predictable?'
 wordpress_id: 14732
-categories:
+tags:
 - company
 - podcasts
 ---

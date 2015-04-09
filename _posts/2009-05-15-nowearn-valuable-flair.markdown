@@ -7,7 +7,7 @@ redirect_from: /2009/05/nowearn-valuable-flair
 slug: nowearn-valuable-flair
 title: Now Earn Valuable Flair!
 wordpress_id: 1253
-categories:
+tags:
 - company
 - community
 - design

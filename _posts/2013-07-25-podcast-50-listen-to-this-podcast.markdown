@@ -8,7 +8,7 @@ hero: http://i.imgur.com/CqsAzHL.jpg
 slug: podcast-50-listen-to-this-podcast
 title: 'Podcast #50 - Listen To This Podcast'
 wordpress_id: 13878
-categories:
+tags:
 - company
 - podcasts
 ---

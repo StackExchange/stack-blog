@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/nice-server-rack.jpg
 slug: it-stack-overflow-update-naming-is-hard
 title: 'IT Stack Overflow Update: Naming is Hard'
 wordpress_id: 868
-categories:
+tags:
 - company
 - community
 - serverfault.com

@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/Ericson-Jon.png
 slug: summer-hiring-happened-so-fast
 title: Summer Hiring, Happened So Fast
 wordpress_id: 14123
-categories:
+tags:
 - company
 - announcement
 ---

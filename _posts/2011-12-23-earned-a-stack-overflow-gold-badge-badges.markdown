@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-gold-badge.
 slug: earned-a-stack-overflow-gold-badge-badges
 title: '"Earned a Stack Overflow gold badge" Badges!'
 wordpress_id: 10639
-categories:
+tags:
 - company
 - background
 - stackoverflow

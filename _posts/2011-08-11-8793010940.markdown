@@ -8,7 +8,7 @@ published: false
 slug: '8793010940'
 title: Winning People and Influencing Friends
 wordpress_id: 10553
-categories:
+tags:
 - company
 - chaos
 post_format:

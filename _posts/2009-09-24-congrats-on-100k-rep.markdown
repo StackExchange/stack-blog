@@ -7,7 +7,7 @@ redirect_from: /2009/09/congrats-on-100k-rep
 slug: congrats-on-100k-rep
 title: Congrats on 100k Rep
 wordpress_id: 1977
-categories:
+tags:
 - company
 - background
 - community

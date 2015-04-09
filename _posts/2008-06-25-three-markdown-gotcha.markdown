@@ -7,7 +7,7 @@ redirect_from: /2008/06/three-markdown-gotcha
 slug: three-markdown-gotcha
 title: Three Markdown Gotchas
 wordpress_id: 60
-categories:
+tags:
 - company
 - design
 ---

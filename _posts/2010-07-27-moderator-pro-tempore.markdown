@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/current-stack-exchange-2-
 slug: moderator-pro-tempore
 title: Moderator Pro Tempore
 wordpress_id: 4248
-categories:
+tags:
 - company
 - stackexchange
 ---

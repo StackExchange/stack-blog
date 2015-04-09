@@ -8,7 +8,7 @@ hero: http://i.stack.imgur.com/aEJYem.png
 slug: raised-on-the-net-please-welcome-ana-hevesi-community-manager
 title: 'Raised on The ꞌNet: please welcome Ana Hevesi, Community Manager'
 wordpress_id: 14192
-categories:
+tags:
 - company
 - background
 - community

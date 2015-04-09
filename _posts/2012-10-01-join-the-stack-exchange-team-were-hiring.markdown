@@ -7,7 +7,7 @@ redirect_from: /2012/10/join-the-stack-exchange-team-were-hiring
 slug: join-the-stack-exchange-team-were-hiring
 title: Join the Stack Exchange team - we're hiring!
 wordpress_id: 12320
-categories:
+tags:
 - company
 - careers
 - community

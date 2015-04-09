@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/interesting-question-decision-tree-flowchart.png
 slug: are-some-questions-too-simple
 title: Are Some Questions Too Simple?
 wordpress_id: 7273
-categories:
+tags:
 - company
 - community
 - reference

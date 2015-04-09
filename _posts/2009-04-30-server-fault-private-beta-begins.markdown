@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/any-key.jpg
 slug: server-fault-private-beta-begins
 title: Server Fault Private Beta begins
 wordpress_id: 1174
-categories:
+tags:
 - company
 - Beta
 - serverfault.com

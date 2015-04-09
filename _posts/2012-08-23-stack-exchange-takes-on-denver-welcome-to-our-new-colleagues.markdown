@@ -8,7 +8,7 @@ hero: http://i.stack.imgur.com/TCEnP.png
 slug: stack-exchange-takes-on-denver-welcome-to-our-new-colleagues
 title: Stack Exchange takes on Denver! Welcome to our new colleagues!
 wordpress_id: 12132
-categories:
+tags:
 - company
 - background
 - denver

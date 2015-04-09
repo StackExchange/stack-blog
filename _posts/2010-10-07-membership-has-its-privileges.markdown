@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/8-bit-congratulations-treasure-island.png
 slug: membership-has-its-privileges
 title: Membership Has Its Privileges
 wordpress_id: 5447
-categories:
+tags:
 - company
 - community
 - serverfault.com

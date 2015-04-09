@@ -7,7 +7,7 @@ redirect_from: /2011/10/steve-jobs-1955-2011
 slug: steve-jobs-1955-2011
 title: Steve Jobs, 1955-2011
 wordpress_id: 10011
-categories:
+tags:
 - company
 - background
 ---

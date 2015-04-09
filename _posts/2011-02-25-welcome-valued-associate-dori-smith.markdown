@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/Dori-Smith.jpg
 slug: welcome-valued-associate-dori-smith
 title: Welcome Valued Associate Dori Smith
 wordpress_id: 7319
-categories:
+tags:
 - company
 - background
 ---

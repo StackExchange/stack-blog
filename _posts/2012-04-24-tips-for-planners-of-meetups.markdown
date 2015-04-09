@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/meetup-2012.png
 slug: tips-for-planners-of-meetups
 title: Tips for Planners of 350+ Stack Overflow Worldwide Meetups!
 wordpress_id: 11594
-categories:
+tags:
 - company
 - meetups
 ---

@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/bounty-start-bounty.png
 slug: improvements-to-bounty-system
 title: Improvements to Bounty System
 wordpress_id: 3746
-categories:
+tags:
 - company
 - community
 - design

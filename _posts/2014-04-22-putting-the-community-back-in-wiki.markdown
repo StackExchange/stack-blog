@@ -8,7 +8,7 @@ hero: http://cdn.sstatic.net/Img/about/venn-diagram.png
 slug: putting-the-community-back-in-wiki
 title: Putting the Community back in Wiki
 wordpress_id: 14660
-categories:
+tags:
 - company
 - announcement
 - background

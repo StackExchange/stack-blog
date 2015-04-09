@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/lord-of-the-flies.jpg
 slug: the-wikipedia-of-long-tail-programming-questions
 title: The Wikipedia of Long Tail Programming Questions
 wordpress_id: 6545
-categories:
+tags:
 - company
 - community
 - design

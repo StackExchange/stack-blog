@@ -8,7 +8,7 @@ hero: /blog/images/StackExchange-19.jpg
 slug: education-begins-at-home-improving-developer-training-in-nyc
 title: 'Education begins at home: Improving developer training in NYC'
 wordpress_id: 15359
-categories:
+tags:
 - company
 - announcement
 ---

@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/the-guessing-game.png
 slug: lets-play-the-guessing-game
 title: Let's Play The Guessing Game
 wordpress_id: 11203
-categories:
+tags:
 - company
 - reference
 - stackexchange

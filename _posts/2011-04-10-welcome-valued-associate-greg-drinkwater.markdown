@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/greg-pic-e1302191181924.jpg
 slug: welcome-valued-associate-greg-drinkwater
 title: Welcome Valued Associate Greg Drinkwater!
 wordpress_id: 7646
-categories:
+tags:
 - company
 - background
 ---

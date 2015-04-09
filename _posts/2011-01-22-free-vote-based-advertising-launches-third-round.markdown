@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/2h2010_ads.png
 slug: free-vote-based-advertising-launches-third-round
 title: Free Vote-Based Advertising Launches Third Round
 wordpress_id: 6914
-categories:
+tags:
 - company
 - community
 ---

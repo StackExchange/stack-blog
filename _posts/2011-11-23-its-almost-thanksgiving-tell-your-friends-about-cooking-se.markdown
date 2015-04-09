@@ -9,7 +9,7 @@ published: false
 slug: its-almost-thanksgiving-tell-your-friends-about-cooking-se
 title: It's almost Thanksgiving! (Tell your friends about Cooking.SE)
 wordpress_id: 10555
-categories:
+tags:
 - company
 - chaos
 tags:

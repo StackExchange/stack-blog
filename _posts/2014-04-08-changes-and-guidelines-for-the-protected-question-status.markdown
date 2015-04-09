@@ -7,7 +7,7 @@ redirect_from: /2014/04/changes-and-guidelines-for-the-protected-question-status
 slug: changes-and-guidelines-for-the-protected-question-status
 title: Changes and guidelines for the Protected Question status
 wordpress_id: 14616
-categories:
+tags:
 - company
 - announcement
 - background

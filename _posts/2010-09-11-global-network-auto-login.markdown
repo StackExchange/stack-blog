@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/global-auth-in-action.png
 slug: global-network-auto-login
 title: Global Network Auto-Login
 wordpress_id: 5075
-categories:
+tags:
 - company
 - community
 - design

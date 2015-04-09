@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/London2009-e1304447642997.jpg
 slug: devdays-2011-planning-begins
 title: DevDays 2011 planning begins
 wordpress_id: 7992
-categories:
+tags:
 - company
 - announcement
 - community

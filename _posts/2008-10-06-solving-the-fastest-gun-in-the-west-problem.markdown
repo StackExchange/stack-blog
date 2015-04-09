@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/stackoverflow-new-answer-notification.png
 slug: solving-the-fastest-gun-in-the-west-problem
 title: Solving the "Fastest Gun in the West" problem
 wordpress_id: 113
-categories:
+tags:
 - company
 - design
 ---

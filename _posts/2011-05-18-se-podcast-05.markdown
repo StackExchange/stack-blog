@@ -8,7 +8,7 @@ hero: /blog/images/category/podcasts.jpg
 slug: se-podcast-05
 title: 'SE Podcast #05'
 wordpress_id: 8187
-categories:
+tags:
 - company
 - podcasts
 ---

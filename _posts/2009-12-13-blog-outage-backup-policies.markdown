@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/our-disaster-recovery-plan.png
 slug: blog-outage-backup-policies
 title: Blog Outage - Backup Policies
 wordpress_id: 2279
-categories:
+tags:
 - company
 - background
 - server

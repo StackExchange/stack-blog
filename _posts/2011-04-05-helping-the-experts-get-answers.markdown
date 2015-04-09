@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/tim-bray-tweet.png
 slug: helping-the-experts-get-answers
 title: Helping The Experts Get Answers
 wordpress_id: 7616
-categories:
+tags:
 - company
 - community
 - reference

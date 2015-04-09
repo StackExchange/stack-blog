@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/chat-header.png
 slug: talkative-and-precognitive-badges
 title: Talkative and Precognitive Badges
 wordpress_id: 6331
-categories:
+tags:
 - company
 - Area51
 - community

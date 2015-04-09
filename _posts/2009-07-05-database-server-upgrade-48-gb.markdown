@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/stackoverflow-db-memory-os-upgrade-complete.png
 slug: database-server-upgrade-48-gb
 title: Database Server Upgrade -- 48 GB
 wordpress_id: 1589
-categories:
+tags:
 - company
 - server
 ---

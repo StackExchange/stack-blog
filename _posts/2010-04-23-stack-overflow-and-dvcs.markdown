@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/kiln-logo.gif
 slug: stack-overflow-and-dvcs
 title: Stack Overflow and DVCS
 wordpress_id: 2958
-categories:
+tags:
 - company
 - background
 ---

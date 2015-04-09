@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/inline-tagging.png
 slug: new-10k-feature-inline-tagging
 title: 'New 10k Feature: Inline Tagging'
 wordpress_id: 2905
-categories:
+tags:
 - company
 - design
 ---

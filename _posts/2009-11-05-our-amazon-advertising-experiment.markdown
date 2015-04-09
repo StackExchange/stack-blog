@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/so-amazon-ads.png
 slug: our-amazon-advertising-experiment
 title: Our Amazon Advertising Experiment
 wordpress_id: 2122
-categories:
+tags:
 - company
 - design
 ---

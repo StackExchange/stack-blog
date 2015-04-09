@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/new-user-page.png
 slug: redesigned-users-page
 title: Redesigned Users Page
 wordpress_id: 7369
-categories:
+tags:
 - company
 - community
 - design

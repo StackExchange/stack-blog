@@ -4,7 +4,7 @@ title: I Can Powershell and So Can You!
 author: selfcommit
 hero: /blog/images/window.jpg
 source: http://www.selfcommit.com/
-categories:
+tags:
 - engineering
 tags: scripting
 ---

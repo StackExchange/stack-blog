@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/stackoverflow-badges-alpha.png
 slug: stack-overflow-badge-feedbac
 title: Stack Overflow Badge Feedback
 wordpress_id: 66
-categories:
+tags:
 - company
 - design
 ---
@@ -22,7 +22,7 @@ Are you familiar with [the "stinking badges" quote?](http://en.wikipedia.org/wik
 
 
 
-As I mentioned [in Podcast #13](http://blog.stackoverflow.com/2008/07/podcast-13/) (and probably earlier), Stack Overflow will feature a system of badges. Hopefully the non-stinking type. These badges are based on my admiration -- and addiction to -- the [Xbox 360 Achievements system](http://www.xbox360achievements.org/index.php). Stack Overflow badges fall into three broad categories:
+As I mentioned [in Podcast #13](http://blog.stackoverflow.com/2008/07/podcast-13/) (and probably earlier), Stack Overflow will feature a system of badges. Hopefully the non-stinking type. These badges are based on my admiration -- and addiction to -- the [Xbox 360 Achievements system](http://www.xbox360achievements.org/index.php). Stack Overflow badges fall into three broad tags:
 - company
 
 

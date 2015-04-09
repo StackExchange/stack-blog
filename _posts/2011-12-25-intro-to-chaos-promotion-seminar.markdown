@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/lightsaber-1024x373.jpg
 slug: intro-to-chaos-promotion-seminar
 title: 'Intro to CHAOS Promotion Seminar '
 wordpress_id: 10407
-categories:
+tags:
 - company
 - promotion
 ---

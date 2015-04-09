@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/announcer-badge.png
 slug: announcer-booster-and-publicist-badges
 title: Announcer, Booster, and Publicist Badges
 wordpress_id: 5036
-categories:
+tags:
 - company
 - community
 - stackexchange

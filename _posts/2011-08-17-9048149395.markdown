@@ -9,7 +9,7 @@ slug: '9048149395'
 title: So you work at a startup and want to get noticed by a lot of people. How do
   you do that?
 wordpress_id: 10552
-categories:
+tags:
 - company
 - chaos
 post_format:

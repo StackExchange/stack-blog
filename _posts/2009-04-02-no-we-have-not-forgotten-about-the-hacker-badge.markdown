@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/hacker-icon.png
 slug: no-we-have-not-forgotten-about-the-hacker-badge
 title: No, We Have Not Forgotten About the Hacker Badge
 wordpress_id: 944
-categories:
+tags:
 - company
 - community
 - design

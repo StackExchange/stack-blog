@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/superuser-voting-results.
 slug: logo-contest-winner-for-superusercom
 title: Logo Contest Winner for superuser.com
 wordpress_id: 1567
-categories:
+tags:
 - company
 - Beta
 - superuser.com

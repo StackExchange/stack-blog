@@ -8,7 +8,7 @@ hero: /blog/images/category/podcasts.jpg
 slug: podcast-54-the-one-with-all-the-anachronisms
 title: 'Podcast #54 - The One With All The Anachronisms'
 wordpress_id: 14205
-categories:
+tags:
 - company
 - podcasts
 ---

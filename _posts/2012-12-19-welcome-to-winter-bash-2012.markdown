@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/blog-image-1.png
 slug: welcome-to-winter-bash-2012
 title: Welcome to Winter Bash 2012!
 wordpress_id: 12750
-categories:
+tags:
 - company
 - announcement
 - stackexchange

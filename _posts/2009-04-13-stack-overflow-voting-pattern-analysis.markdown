@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/so_graph1.png
 slug: stack-overflow-voting-pattern-analysis
 title: Stack Overflow Voting Pattern Analysis
 wordpress_id: 1025
-categories:
+tags:
 - company
 - community
 ---

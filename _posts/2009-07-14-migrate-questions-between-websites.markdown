@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/stack-overflow-close-belongs-on-vote.png
 slug: migrate-questions-between-websites
 title: Migrate Questions Between Websites
 wordpress_id: 1649
-categories:
+tags:
 - company
 - design
 - serverfault.com

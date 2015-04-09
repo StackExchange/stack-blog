@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/ewok-closeup.jpg
 slug: super-user-semi-private-beta-begins
 title: Super User Semi-Private Beta Begins
 wordpress_id: 1662
-categories:
+tags:
 - company
 - Beta
 - superuser.com

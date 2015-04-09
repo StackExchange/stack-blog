@@ -7,7 +7,7 @@ redirect_from: /2009/07/high-scalability-blog-on-stack-overflow
 slug: high-scalability-blog-on-stack-overflow
 title: High Scalability Blog on Stack Overflow
 wordpress_id: 1672
-categories:
+tags:
 - company
 - background
 - server

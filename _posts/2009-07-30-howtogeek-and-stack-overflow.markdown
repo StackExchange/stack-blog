@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/how-to-geek-logo.png
 slug: howtogeek-and-stack-overflow
 title: How-To Geek and Stack Overflow
 wordpress_id: 1747
-categories:
+tags:
 - company
 - community
 - superuser.com

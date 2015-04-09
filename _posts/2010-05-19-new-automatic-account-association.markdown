@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/auto-association.png
 slug: new-automatic-account-association
 title: New Automatic Account Association
 wordpress_id: 3236
-categories:
+tags:
 - company
 - community
 - design

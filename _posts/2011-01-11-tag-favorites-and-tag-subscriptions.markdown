@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/tag-favorites-subscribe2.png
 slug: tag-favorites-and-tag-subscriptions
 title: Tag Favorites and Tag Subscriptions
 wordpress_id: 6668
-categories:
+tags:
 - company
 - community
 - design

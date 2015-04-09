@@ -8,7 +8,7 @@ hero: http://i.stack.imgur.com/qnnjw.jpg
 slug: meet-bubbles
 title: Meet Bubbles (The Stack Exchange Mascot)
 wordpress_id: 10064
-categories:
+tags:
 - company
 - stackexchange
 ---

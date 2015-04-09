@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/top-40-tags.png
 slug: generalist-badge-implemented
 title: Generalist Badge Implemented
 wordpress_id: 3268
-categories:
+tags:
 - company
 - community
 - design

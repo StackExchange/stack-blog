@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/stack-overflow-careers.pn
 slug: introducing-stack-overflow-careers
 title: Introducing Stack Overflow Careers
 wordpress_id: 2021
-categories:
+tags:
 - company
 - Beta
 - careers

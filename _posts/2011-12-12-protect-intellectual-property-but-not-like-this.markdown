@@ -7,7 +7,7 @@ redirect_from: /2011/12/protect-intellectual-property-but-not-like-this
 slug: protect-intellectual-property-but-not-like-this
 title: Protect intellectual property - but not like this
 wordpress_id: 10305
-categories:
+tags:
 - company
 - announcement
 ---

@@ -8,7 +8,7 @@ hero: /blog/images/category/podcasts.jpg
 slug: podcast-39-the-one-with-wil-wheaton
 title: 'Podcast #39 - The One with Wil Wheaton'
 wordpress_id: 12862
-categories:
+tags:
 - company
 - podcasts
 ---

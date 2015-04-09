@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/SE-Gives-Back-2014-results.png
 slug: stack-exchange-gives-back-2014
 title: Stack Exchange Gives Back 2014
 wordpress_id: 15047
-categories:
+tags:
 - company
 - background
 ---

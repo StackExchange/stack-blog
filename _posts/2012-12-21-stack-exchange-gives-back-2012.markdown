@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/new-years-2013-300x228.png
 slug: stack-exchange-gives-back-2012
 title: Stack Exchange Gives Back 2012
 wordpress_id: 12853
-categories:
+tags:
 - company
 - background
 ---

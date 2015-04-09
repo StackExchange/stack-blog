@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/nick-craver-photo.jpg
 slug: welcome-valued-associate-nick-craver
 title: Welcome Valued Associate Nick Craver
 wordpress_id: 6553
-categories:
+tags:
 - company
 - background
 ---
