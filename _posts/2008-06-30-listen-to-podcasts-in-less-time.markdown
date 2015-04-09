@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/windows-media-player-fast-playback.png
 slug: listen-to-podcasts-in-less-time
 title: Listen to Podcasts in Less Time
 wordpress_id: 61
-categories:
+tags:
 - company
 - podcasts
 ---

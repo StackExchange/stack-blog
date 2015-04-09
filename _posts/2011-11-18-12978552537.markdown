@@ -8,7 +8,7 @@ published: false
 slug: '12978552537'
 title: '"Give a damn. Give lots of damns. More than anyone."'
 wordpress_id: 10540
-categories:
+tags:
 - company
 - chaos
 post_format:

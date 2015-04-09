@@ -7,7 +7,7 @@ redirect_from: /2009/12/database-server-upgrade-outage-today
 slug: database-server-upgrade-outage-today
 title: 'Database Server Upgrade: Outage Saturday'
 wordpress_id: 2255
-categories:
+tags:
 - company
 - server
 ---

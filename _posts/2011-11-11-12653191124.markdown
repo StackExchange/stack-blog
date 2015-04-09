@@ -9,7 +9,7 @@ published: false
 slug: '12653191124'
 title: Gotta have a hook
 wordpress_id: 10542
-categories:
+tags:
 - company
 - chaos
 post_format:

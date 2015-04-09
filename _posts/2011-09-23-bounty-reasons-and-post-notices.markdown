@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/user-page-bounty-tab.png
 slug: bounty-reasons-and-post-notices
 title: Bounty Reasons and Post Notices
 wordpress_id: 9899
-categories:
+tags:
 - company
 - community
 - design

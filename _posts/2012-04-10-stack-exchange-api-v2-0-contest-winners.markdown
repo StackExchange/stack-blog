@@ -8,7 +8,7 @@ hero: http://i.stack.imgur.com/vI5MO.png
 slug: stack-exchange-api-v2-0-contest-winners
 title: Stack Exchange API V2.0 Contest Winners
 wordpress_id: 11494
-categories:
+tags:
 - company
 - API
 ---

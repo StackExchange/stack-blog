@@ -9,7 +9,7 @@ layout: post
 slug: podcast-11
 title: 'Podcast #11'
 wordpress_id: 59
-categories:
+tags:
 - company
 - podcasts
 ---

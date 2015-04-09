@@ -7,7 +7,7 @@ redirect_from: /2009/04/the-stack-overflow-question-lifecycle
 slug: the-stack-overflow-question-lifecycle
 title: The Stack Overflow Question Lifecycle
 wordpress_id: 1074
-categories:
+tags:
 - company
 - community
 - design

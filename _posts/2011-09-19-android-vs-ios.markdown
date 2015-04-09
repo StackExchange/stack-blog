@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/Android-vs-iOS.png
 slug: android-vs-ios
 title: Android > iOS (And Other Statistics)
 wordpress_id: 9828
-categories:
+tags:
 - company
 - background
 ---

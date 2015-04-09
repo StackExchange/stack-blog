@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/twitter-is-not-rss.png
 slug: twitter-question-feeds-for-stack-exchange
 title: Twitter Question Feeds for Stack Exchange
 wordpress_id: 6704
-categories:
+tags:
 - company
 - community
 - stackexchange

@@ -8,7 +8,7 @@ hero: http://i.stack.imgur.com/NCCFV.jpg
 slug: welcome-chaos
 title: Welcome [Valued Associates That Make Up] CHAOS!
 wordpress_id: 9805
-categories:
+tags:
 - company
 - announcement
 - community

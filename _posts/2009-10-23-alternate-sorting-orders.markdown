@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/new-scoring-math-formula1.png
 slug: alternate-sorting-orders
 title: Alternate Sorting Orders
 wordpress_id: 2082
-categories:
+tags:
 - company
 - background
 - community

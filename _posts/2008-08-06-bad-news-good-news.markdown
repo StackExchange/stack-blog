@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/beary-sorry.gif
 slug: bad-news-good-news
 title: Bad News, Good News
 wordpress_id: 83
-categories:
+tags:
 - company
 - Beta
 - podcasts

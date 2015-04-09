@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/salary-by-company-size.pn
 slug: survey-results
 title: 2011 Stack Overflow User Survey Results
 wordpress_id: 11011
-categories:
+tags:
 - company
 - background
 - stackoverflow

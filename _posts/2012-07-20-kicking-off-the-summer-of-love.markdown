@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/flower.jpg
 slug: kicking-off-the-summer-of-love
 title: Kicking off the Summer of Love
 wordpress_id: 11931
-categories:
+tags:
 - company
 - announcement
 - community

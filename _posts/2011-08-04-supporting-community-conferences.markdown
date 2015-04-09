@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/gis-flyer.png
 slug: supporting-community-conferences
 title: Supporting Community Conferences
 wordpress_id: 9160
-categories:
+tags:
 - company
 - community
 - reference

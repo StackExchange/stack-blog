@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/question-merge-example-small.png
 slug: improved-question-merging
 title: Improved Question Merging
 wordpress_id: 3534
-categories:
+tags:
 - company
 - community
 - design

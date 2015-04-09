@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/iphone-mobile-stack-exchange.png
 slug: mobile-stack-exchange
 title: Mobile Stack Exchange
 wordpress_id: 8745
-categories:
+tags:
 - company
 - community
 - design

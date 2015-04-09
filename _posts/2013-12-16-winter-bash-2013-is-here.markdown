@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/header.png
 slug: winter-bash-2013-is-here
 title: Winter Bash 2013 is here!
 wordpress_id: 14269
-categories:
+tags:
 - company
 - announcement
 - stackexchange

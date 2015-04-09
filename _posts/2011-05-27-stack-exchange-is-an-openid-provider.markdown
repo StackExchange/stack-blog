@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/stack-exchange-openid-button.png
 slug: stack-exchange-is-an-openid-provider
 title: Stack Exchange is an OpenID Provider
 wordpress_id: 8228
-categories:
+tags:
 - company
 - community
 - design

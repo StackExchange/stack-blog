@@ -7,7 +7,7 @@ redirect_from: /2008/10/stack-overflow-openid-case-study
 slug: stack-overflow-openid-case-study
 title: Stack Overflow OpenID Case Study
 wordpress_id: 137
-categories:
+tags:
 - company
 - design
 ---

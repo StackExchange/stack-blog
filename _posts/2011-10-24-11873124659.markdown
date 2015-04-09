@@ -9,7 +9,7 @@ published: false
 slug: '11873124659'
 title: Lessons from Event Sponsorships
 wordpress_id: 10547
-categories:
+tags:
 - company
 - chaos
 post_format:

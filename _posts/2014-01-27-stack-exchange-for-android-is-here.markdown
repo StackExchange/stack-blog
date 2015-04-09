@@ -8,7 +8,7 @@ hero: http://i.stack.imgur.com/XUufS.png
 slug: stack-exchange-for-android-is-here
 title: Stack Exchange for Android is here!
 wordpress_id: 14395
-categories:
+tags:
 - company
 - announcement
 - mobile

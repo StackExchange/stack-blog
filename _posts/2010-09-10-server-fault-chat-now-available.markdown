@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/chat-rooms-sf-and-meta1.png
 slug: server-fault-chat-now-available
 title: Server Fault Chat Now Available
 wordpress_id: 5062
-categories:
+tags:
 - company
 - serverfault.com
 - stackexchange

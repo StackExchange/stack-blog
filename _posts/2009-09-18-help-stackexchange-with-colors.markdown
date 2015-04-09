@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/stackexchange-1.png
 slug: help-stackexchange-with-colors
 title: Help StackExchange With Colors
 wordpress_id: 1967
-categories:
+tags:
 - company
 - community
 - design

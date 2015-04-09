@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/programmers-stackexchange
 slug: introducing-programmers-stackexchange-com
 title: Introducing programmers.stackexchange.com
 wordpress_id: 6383
-categories:
+tags:
 - company
 - stackexchange
 ---

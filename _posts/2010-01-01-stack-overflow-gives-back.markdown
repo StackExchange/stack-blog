@@ -7,7 +7,7 @@ redirect_from: /2010/01/stack-overflow-gives-back
 slug: stack-overflow-gives-back
 title: Stack Overflow Gives Back
 wordpress_id: 2267
-categories:
+tags:
 - company
 - background
 ---

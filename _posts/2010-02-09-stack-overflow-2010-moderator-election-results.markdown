@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/openstv-stack-overflow-mo
 slug: stack-overflow-2010-moderator-election-results
 title: Stack Overflow 2010 Moderator Election Results
 wordpress_id: 2717
-categories:
+tags:
 - company
 - community
 - moderators

@@ -7,7 +7,7 @@ redirect_from: /2010/03/party
 slug: party
 title: Get ready for the Stack Overflow party
 wordpress_id: 2873
-categories:
+tags:
 - company
 - community
 ---

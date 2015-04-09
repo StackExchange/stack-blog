@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/stackoverflow-answers-not-accepted1.png
 slug: why-cant-i-accept-my-own-answer
 title: Why Can't I Accept My Own Answer?
 wordpress_id: 151
-categories:
+tags:
 - company
 - design
 ---

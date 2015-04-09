@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/evolution-of-the-chess-co
 slug: no-artificial-intelligence-in-area-51
 title: No Artificial Intelligence in Area 51
 wordpress_id: 6446
-categories:
+tags:
 - company
 - Area51
 - stackexchange

@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/so-trilogy-logos.png
 slug: why-cant-you-have-just-one-site
 title: Why Can't You Have Just One Site?
 wordpress_id: 1698
-categories:
+tags:
 - company
 - background
 - community

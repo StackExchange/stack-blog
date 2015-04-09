@@ -7,7 +7,7 @@ redirect_from: /2009/04/joke-questions-please-refrain
 slug: joke-questions-please-refrain
 title: 'Joke Questions: Please Refrain'
 wordpress_id: 1137
-categories:
+tags:
 - company
 - community
 ---

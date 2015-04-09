@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/oyster-pearl.jpg
 slug: optimizing-for-pearls-not-sand
 title: Optimizing For Pearls, Not Sand
 wordpress_id: 8429
-categories:
+tags:
 - company
 - stackexchange
 ---

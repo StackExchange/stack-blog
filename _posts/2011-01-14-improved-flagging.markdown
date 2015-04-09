@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/flag-post-link.png
 slug: improved-flagging
 title: Improved Flagging
 wordpress_id: 6779
-categories:
+tags:
 - company
 - community
 - design

@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/stack-exchange-global-pro
 slug: stack-exchange-network-profiles
 title: Stack Exchange Network Profiles
 wordpress_id: 7715
-categories:
+tags:
 - company
 - community
 - design

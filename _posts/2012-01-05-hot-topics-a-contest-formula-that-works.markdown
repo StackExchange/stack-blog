@@ -7,7 +7,7 @@ redirect_from: /2012/01/hot-topics-a-contest-formula-that-works
 slug: hot-topics-a-contest-formula-that-works
 title: 'Hot Topics: A Contest Formula that Works'
 wordpress_id: 10717
-categories:
+tags:
 - company
 - promotion
 - stackexchange

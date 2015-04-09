@@ -7,7 +7,7 @@ redirect_from: /2010/03/the-great-reputation-recalc-begins
 slug: the-great-reputation-recalc-begins
 title: The Great Reputation Recalc Begins
 wordpress_id: 2831
-categories:
+tags:
 - company
 - background
 - community

@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/star-wars-poster1.jpg
 slug: the-stack-overflow-trilogy
 title: The Stack Overflow Trilogy
 wordpress_id: 1368
-categories:
+tags:
 - company
 - community
 ---

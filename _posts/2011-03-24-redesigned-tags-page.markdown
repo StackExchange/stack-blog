@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/redesigned-tags-page.png
 slug: redesigned-tags-page
 title: Redesigned Tags Page
 wordpress_id: 7500
-categories:
+tags:
 - company
 - community
 - design

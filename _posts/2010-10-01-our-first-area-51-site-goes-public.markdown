@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/webapps-stackexchange-log
 slug: our-first-area-51-site-goes-public
 title: Our First Area 51 Site Goes Public
 wordpress_id: 5307
-categories:
+tags:
 - company
 - stackexchange
 ---

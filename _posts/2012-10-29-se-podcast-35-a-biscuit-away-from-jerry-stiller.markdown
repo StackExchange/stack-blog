@@ -8,7 +8,7 @@ hero: /blog/images/category/podcasts.jpg
 slug: se-podcast-35-a-biscuit-away-from-jerry-stiller
 title: 'SE Podcast #35 - A Biscuit Away from Jerry Stiller'
 wordpress_id: 12448
-categories:
+tags:
 - company
 - podcasts
 ---

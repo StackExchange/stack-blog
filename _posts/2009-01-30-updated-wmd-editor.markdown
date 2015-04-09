@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/wmd-toolbar-http-request-count-before.png
 slug: updated-wmd-editor
 title: Updated WMD Editor
 wordpress_id: 580
-categories:
+tags:
 - company
 - design
 ---

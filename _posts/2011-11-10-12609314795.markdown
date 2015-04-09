@@ -9,7 +9,7 @@ published: false
 slug: '12609314795'
 title: What do a virtual berry tasting event and a game launch have in common?
 wordpress_id: 10543
-categories:
+tags:
 - company
 - chaos
 post_format:

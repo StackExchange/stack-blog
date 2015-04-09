@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/inbox.png
 slug: revamped-notifications
 title: Revamped Notifications
 wordpress_id: 11718
-categories:
+tags:
 - company
 - announcement
 - stackexchange

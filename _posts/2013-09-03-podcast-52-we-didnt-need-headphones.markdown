@@ -8,7 +8,7 @@ hero: /blog/images/category/podcasts.jpg
 slug: podcast-52-we-didnt-need-headphones
 title: 'Podcast #52 - We Didn''t Need Headphones'
 wordpress_id: 13971
-categories:
+tags:
 - company
 - podcasts
 ---

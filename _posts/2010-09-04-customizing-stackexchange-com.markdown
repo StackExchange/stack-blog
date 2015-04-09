@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/stackexchange-genuine-exa
 slug: customizing-stackexchange-com
 title: Customizing stackexchange.com
 wordpress_id: 4982
-categories:
+tags:
 - company
 - stackexchange
 ---

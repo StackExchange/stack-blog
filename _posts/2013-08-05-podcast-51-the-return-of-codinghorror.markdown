@@ -8,7 +8,7 @@ hero: /blog/images/category/podcasts.jpg
 slug: podcast-51-the-return-of-codinghorror
 title: 'Podcast #51 - The Return of Coding Horror'
 wordpress_id: 13889
-categories:
+tags:
 - company
 - podcasts
 ---

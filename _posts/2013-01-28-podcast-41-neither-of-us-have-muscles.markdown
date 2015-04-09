@@ -8,7 +8,7 @@ hero: /blog/images/category/podcasts.jpg
 slug: podcast-41-neither-of-us-have-muscles
 title: 'Podcast #41 - Neither of Us Have Muscles'
 wordpress_id: 12982
-categories:
+tags:
 - company
 - podcasts
 ---

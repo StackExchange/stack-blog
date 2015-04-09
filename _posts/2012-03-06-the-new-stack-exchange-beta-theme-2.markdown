@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/sethemebeforeafter3.png
 slug: the-new-stack-exchange-beta-theme-2
 title: The New Stack Exchange Beta Theme
 wordpress_id: 11317
-categories:
+tags:
 - company
 - announcement
 - design

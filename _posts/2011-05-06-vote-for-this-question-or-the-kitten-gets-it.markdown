@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/or-this-kitten-gets-it.jpg
 slug: vote-for-this-question-or-the-kitten-gets-it
 title: Vote For This Question or The Kitten Gets It
 wordpress_id: 8039
-categories:
+tags:
 - company
 - community
 - design

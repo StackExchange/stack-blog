@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/thank-you-badge.png
 slug: how-to-say-thanks-in-an-answer
 title: How to Say Thanks in an Answer
 wordpress_id: 6599
-categories:
+tags:
 - company
 - community
 - design

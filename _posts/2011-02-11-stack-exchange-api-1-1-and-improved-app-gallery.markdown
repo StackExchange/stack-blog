@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/stackapps-new-homepage.pn
 slug: stack-exchange-api-1-1-and-improved-app-gallery
 title: Stack Exchange API 1.1 and Improved App Gallery
 wordpress_id: 7204
-categories:
+tags:
 - company
 - API
 - community

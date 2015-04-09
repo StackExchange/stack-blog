@@ -8,7 +8,7 @@ hero: /wp-content/uploads/proposal.png
 slug: interview-with-lead-developer-david-fullerton
 title: Interview with Lead Developer David Fullerton
 wordpress_id: 3384
-categories:
+tags:
 - company
 - stackexchange
 ---

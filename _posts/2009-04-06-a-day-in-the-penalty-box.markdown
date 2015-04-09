@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/penalty-box.jpg
 slug: a-day-in-the-penalty-box
 title: A Day in the Penalty Box
 wordpress_id: 970
-categories:
+tags:
 - company
 - community
 ---

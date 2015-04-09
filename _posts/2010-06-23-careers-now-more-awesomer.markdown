@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/careers-11-update-job-cou
 slug: careers-now-more-awesomer
 title: 'Careers: Now More Awesome(r)'
 wordpress_id: 3819
-categories:
+tags:
 - company
 - careers
 ---

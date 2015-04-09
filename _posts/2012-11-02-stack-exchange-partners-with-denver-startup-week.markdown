@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/denver-blog-intro.png
 slug: stack-exchange-partners-with-denver-startup-week
 title: Stack Exchange partners with Denver Startup Week
 wordpress_id: 12452
-categories:
+tags:
 - company
 - background
 - denver

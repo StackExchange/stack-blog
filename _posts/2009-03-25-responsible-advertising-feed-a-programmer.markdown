@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/stackoverflow-ads-adsense.png
 slug: responsible-advertising-feed-a-programmer
 title: 'Responsible Advertising: Feed a Programmer'
 wordpress_id: 913
-categories:
+tags:
 - company
 - community
 - design

@@ -7,7 +7,7 @@ redirect_from: /2010/10/stack-overflow-chat-now-live
 slug: stack-overflow-chat-now-live
 title: Stack Overflow Chat Now Live
 wordpress_id: 5680
-categories:
+tags:
 - company
 - community
 - design

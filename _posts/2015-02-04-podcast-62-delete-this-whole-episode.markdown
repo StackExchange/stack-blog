@@ -8,7 +8,7 @@ hero: http://cdn.sstatic.net/stackexchange/img/hiring/photos/big/1.jpg
 slug: podcast-62-delete-this-whole-episode
 title: 'Podcast #62 - Delete This Whole Episode'
 wordpress_id: 15339
-categories:
+tags:
 - company
 - podcasts
 ---

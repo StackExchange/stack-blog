@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/uservoice-top-users-by-activity1.png
 slug: new-uservoice-moderator
 title: New UserVoice Moderators
 wordpress_id: 193
-categories:
+tags:
 - company
 - community
 ---

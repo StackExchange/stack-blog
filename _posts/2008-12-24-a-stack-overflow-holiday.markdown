@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/tempest_holiday.jpg
 slug: a-stack-overflow-holiday
 title: A Stack Overflow Holiday
 wordpress_id: 185
-categories:
+tags:
 - company
 - background
 ---

@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-recursive-t
 slug: coming-soon-stack-overflow-t-shirts
 title: 'Coming Soon: Stack Overflow T-Shirts'
 wordpress_id: 2477
-categories:
+tags:
 - company
 - background
 - community

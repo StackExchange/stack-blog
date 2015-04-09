@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/800px-Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel
 slug: cant-we-all-be-reasonable-and-speak-english
 title: Can't We All be Reasonable and Speak English?
 wordpress_id: 14473
-categories:
+tags:
 - company
 - announcement
 - internationalization

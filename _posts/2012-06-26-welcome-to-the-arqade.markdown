@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/arqade-blue-300x256.png
 slug: welcome-to-the-arqade
 title: 'Welcome to the Arqade: Rebranding a Successful Site'
 wordpress_id: 11878
-categories:
+tags:
 - company
 - announcement
 - chaos

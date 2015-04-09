@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/oregon-to-nyc-server-trail.png
 slug: datacenter-migration-oct-23
 title: Datacenter Migration Oct. 23
 wordpress_id: 5869
-categories:
+tags:
 - company
 - server
 ---

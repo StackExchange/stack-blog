@@ -8,7 +8,7 @@ hero: /blog/images/category/podcasts.jpg
 slug: podcast-55-dont-call-it-a-comeback
 title: 'Podcast #55 - Don''t Call It A Comeback'
 wordpress_id: 14579
-categories:
+tags:
 - company
 - podcasts
 ---

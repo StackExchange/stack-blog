@@ -7,7 +7,7 @@ redirect_from: /2010/10/code-camp-video-interview
 slug: code-camp-video-interview
 title: Code Camp Video Interview
 wordpress_id: 5886
-categories:
+tags:
 - company
 - community
 - design

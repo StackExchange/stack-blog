@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/stackoverflow-close-menu.png
 slug: i-move-to-close-this-question
 title: I Move to Close This Question
 wordpress_id: 228
-categories:
+tags:
 - company
 - community
 - design

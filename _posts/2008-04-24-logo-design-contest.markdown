@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/99-designs-logo.png
 slug: logo-design-contest
 title: Logo Design Contest
 wordpress_id: 10
-categories:
+tags:
 - company
 - design
 ---

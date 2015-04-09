@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/powerscripting-podcast.jp
 slug: server-fault-and-the-powerscripting-podcast
 title: Server Fault and the PowerScripting Podcast
 wordpress_id: 2188
-categories:
+tags:
 - company
 - background
 - community

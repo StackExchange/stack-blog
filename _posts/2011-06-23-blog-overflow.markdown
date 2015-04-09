@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/blog-overflow-screenshot1
 slug: blog-overflow
 title: Blog Overflow
 wordpress_id: 8578
-categories:
+tags:
 - company
 - community
 - reference

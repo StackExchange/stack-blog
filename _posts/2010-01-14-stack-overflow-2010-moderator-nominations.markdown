@@ -7,7 +7,7 @@ redirect_from: /2010/01/stack-overflow-2010-moderator-nominations
 slug: stack-overflow-2010-moderator-nominations
 title: Stack Overflow 2010 Moderator Nominations
 wordpress_id: 2539
-categories:
+tags:
 - company
 - community
 - moderators

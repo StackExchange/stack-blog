@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/birthday-cake-animated.gif
 slug: happy-100000th-question
 title: Happy 100,000th Question!
 wordpress_id: 760
-categories:
+tags:
 - company
 - community
 ---

@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/stack-exchange-data-explo
 slug: stack-exchange-data-explorer-open-sourced
 title: Stack Exchange Data Explorer Open Sourced
 wordpress_id: 3851
-categories:
+tags:
 - company
 - announcement
 - cc-wiki-dump

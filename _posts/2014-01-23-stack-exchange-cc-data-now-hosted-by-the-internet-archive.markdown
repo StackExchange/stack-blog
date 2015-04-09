@@ -7,7 +7,7 @@ redirect_from: /2014/01/stack-exchange-cc-data-now-hosted-by-the-internet-archiv
 slug: stack-exchange-cc-data-now-hosted-by-the-internet-archive
 title: Stack Exchange Creative Commons data now hosted by the Internet Archive
 wordpress_id: 14382
-categories:
+tags:
 - company
 - cc-wiki-dump
 ---

@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/openid-logo-big.png
 slug: openid-one-year-later
 title: OpenID, One Year Later
 wordpress_id: 2914
-categories:
+tags:
 - company
 - background
 ---

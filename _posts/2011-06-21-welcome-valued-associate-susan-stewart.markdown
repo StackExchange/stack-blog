@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/HedgeMage.png
 slug: welcome-valued-associate-susan-stewart
 title: Welcome Valued Associate Susan Stewart
 wordpress_id: 8508
-categories:
+tags:
 - company
 - background
 - community

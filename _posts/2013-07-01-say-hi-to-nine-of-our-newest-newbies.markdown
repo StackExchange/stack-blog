@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/Charette-Matt.jpg
 slug: say-hi-to-nine-of-our-newest-newbies
 title: Say Hi to Nine of Our Newest Newbies
 wordpress_id: 13769
-categories:
+tags:
 - company
 - announcement
 ---

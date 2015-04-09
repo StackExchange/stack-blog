@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/stack-overflow-careers.pn
 slug: free-public-careers-cvs
 title: Free Public Careers CVs
 wordpress_id: 2096
-categories:
+tags:
 - company
 - careers
 ---

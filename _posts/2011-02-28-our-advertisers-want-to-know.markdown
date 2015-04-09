@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/220x250_.NET-development.
 slug: our-advertisers-want-to-know
 title: Our advertisers want to know...
 wordpress_id: 7384
-categories:
+tags:
 - company
 - background
 ---

@@ -8,7 +8,7 @@ hero: http://i.stack.imgur.com/5yNpA.png
 slug: respect-the-community-your-own-and-others
 title: Respect the community - your own, and others’
 wordpress_id: 11446
-categories:
+tags:
 - company
 - background
 - community

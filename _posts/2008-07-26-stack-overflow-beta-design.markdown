@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-beta-design
 slug: stack-overflow-beta-design
 title: Stack Overflow Beta Design
 wordpress_id: 73
-categories:
+tags:
 - company
 - Beta
 - design

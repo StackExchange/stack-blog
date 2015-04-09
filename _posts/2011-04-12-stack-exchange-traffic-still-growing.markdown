@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/Quantcast-255.png
 slug: stack-exchange-traffic-still-growing
 title: Stack Exchange Traffic Still Growing
 wordpress_id: 7778
-categories:
+tags:
 - company
 - stackexchange
 ---

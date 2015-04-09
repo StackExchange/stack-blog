@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/perspective-150x150.jpg
 slug: welcome-valued-associate-nick-larsen
 title: Welcome Valued Associate Nick Larsen
 wordpress_id: 6859
-categories:
+tags:
 - company
 - background
 ---

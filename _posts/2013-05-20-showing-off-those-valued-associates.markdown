@@ -8,7 +8,7 @@ hero: http://i.stack.imgur.com/oNtn9.png
 slug: showing-off-those-valued-associates
 title: Company pages on Careers 2.0
 wordpress_id: 13392
-categories:
+tags:
 - company
 - announcement
 - careers

@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/ups12.jpg
 slug: stack-overflow-outage-2
 title: Stack Overflow Outage
 wordpress_id: 5509
-categories:
+tags:
 - company
 - server
 ---

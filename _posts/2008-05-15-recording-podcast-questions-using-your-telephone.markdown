@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/cinch-result-rss-feed-screenshot.png
 slug: recording-podcast-questions-using-your-telephone
 title: Recording Podcast Questions Using Your Telephone
 wordpress_id: 39
-categories:
+tags:
 - company
 - podcasts
 ---

@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/GZWin.jpg
 slug: welcome-valued-associate-guy-zerega
 title: Welcome Valued Associate Guy Zerega!
 wordpress_id: 8071
-categories:
+tags:
 - company
 - background
 ---

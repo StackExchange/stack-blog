@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/2011-Meetup-Map.png
 slug: stack-overflow-meetup-everywhere-april-28-2012
 title: 'Stack Overflow Meetup Everywhere: April 28, 2012'
 wordpress_id: 11415
-categories:
+tags:
 - company
 - announcement
 - community

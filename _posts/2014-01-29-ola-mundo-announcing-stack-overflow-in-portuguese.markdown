@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/hola-mundo-cedilla.png
 slug: ola-mundo-announcing-stack-overflow-in-portuguese
 title: Olá, Mundo!  Announcing Stack Overflow in Portuguese.
 wordpress_id: 14428
-categories:
+tags:
 - company
 - announcement
 - internationalization

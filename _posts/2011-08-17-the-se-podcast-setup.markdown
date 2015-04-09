@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/Whole-Setup-1024x403.jpg
 slug: the-se-podcast-setup
 title: The SE Podcast Setup
 wordpress_id: 9049
-categories:
+tags:
 - company
 - podcasts
 ---

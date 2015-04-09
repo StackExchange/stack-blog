@@ -8,7 +8,7 @@ hero: http://stackexchange.com/users/flair/28003.png
 slug: stack-exchange-now-60-valued-associates-strong
 title: 'Stack Exchange: now 60 Valued Associates strong!'
 wordpress_id: 12053
-categories:
+tags:
 - company
 - background
 ---

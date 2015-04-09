@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/wmd-advanced-demo1.png
 slug: potential-markup-and-editing-choices
 title: Potential Markup and Editing Choices
 wordpress_id: 44
-categories:
+tags:
 - company
 - design
 ---

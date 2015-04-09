@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/stack-overflow-job-ad.png
 slug: jobs-at-stack-overflow
 title: Jobs At Stack Overflow
 wordpress_id: 1412
-categories:
+tags:
 - company
 - community
 ---

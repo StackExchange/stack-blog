@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/blekko-slash-the-web-logo
 slug: blekko-and-stack-overflow
 title: Blekko and Stack Overflow
 wordpress_id: 7222
-categories:
+tags:
 - company
 - background
 ---

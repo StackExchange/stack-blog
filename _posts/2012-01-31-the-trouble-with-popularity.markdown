@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/007-java-ascii-art1.png
 slug: the-trouble-with-popularity
 title: The Trouble With Popularity
 wordpress_id: 10875
-categories:
+tags:
 - company
 - community
 - design

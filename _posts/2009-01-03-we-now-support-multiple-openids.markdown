@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/popeil-infomercial-pricing.jpg
 slug: we-now-support-multiple-openids
 title: We Now Support Multiple OpenIDs
 wordpress_id: 253
-categories:
+tags:
 - company
 - design
 ---

@@ -8,7 +8,7 @@ hero: http://farm8.staticflickr.com/7233/6982707524_ec9829b044_n.jpg
 slug: highlights-from-stack-overflow-worldwide-meetups
 title: Highlights from Stack Overflow Worldwide Meetups
 wordpress_id: 11631
-categories:
+tags:
 - company
 - meetups
 ---

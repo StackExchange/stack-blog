@@ -8,7 +8,7 @@ hero: /blog/images/category/podcasts.jpg
 slug: se-podcast-24
 title: 'SE Podcast #24 - Eric Ries'
 wordpress_id: 10087
-categories:
+tags:
 - company
 - podcasts
 ---

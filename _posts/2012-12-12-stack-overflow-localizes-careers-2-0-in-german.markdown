@@ -8,7 +8,7 @@ hero: http://i.stack.imgur.com/f567I.png
 slug: stack-overflow-localizes-careers-2-0-in-german
 title: Stack Overflow localizes Careers 2.0 in German
 wordpress_id: 12695
-categories:
+tags:
 - company
 - announcement
 - careers

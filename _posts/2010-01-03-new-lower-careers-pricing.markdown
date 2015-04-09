@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/sudden-realization-small1
 slug: new-lower-careers-pricing
 title: New, Lower Careers Pricing
 wordpress_id: 2416
-categories:
+tags:
 - company
 - careers
 ---

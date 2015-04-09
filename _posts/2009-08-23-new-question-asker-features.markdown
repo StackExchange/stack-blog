@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/question-owner-accept-rate.png
 slug: new-question-asker-features
 title: New Question Asker Features
 wordpress_id: 1875
-categories:
+tags:
 - company
 - design
 ---

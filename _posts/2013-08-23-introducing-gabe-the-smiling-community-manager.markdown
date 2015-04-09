@@ -8,7 +8,7 @@ hero: http://i.stack.imgur.com/QqHbc.png
 slug: introducing-gabe-the-smiling-community-manager
 title: Introducing Gabe, The Smiling Community Manager
 wordpress_id: 13958
-categories:
+tags:
 - company
 - background
 - community

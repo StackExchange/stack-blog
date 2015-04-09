@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/stack-overflow-lego-minfigs-hires.jpg
 slug: stack-overflow-trilogy-lego-minifigs
 title: Stack Overflow Trilogy Lego Minifigs
 wordpress_id: 2260
-categories:
+tags:
 - company
 - background
 - community

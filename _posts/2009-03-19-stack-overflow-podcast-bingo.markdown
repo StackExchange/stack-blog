@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/stackoverflow-podcast-bingo-small.png
 slug: stack-overflow-podcast-bingo
 title: Stack Overflow Podcast Bingo
 wordpress_id: 882
-categories:
+tags:
 - company
 - podcasts
 ---

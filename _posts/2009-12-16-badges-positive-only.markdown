@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/basic-instructions-how-to
 slug: badges-positive-only
 title: 'Badges: Positive Only'
 wordpress_id: 2324
-categories:
+tags:
 - company
 - background
 - design

@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/stackoverflow-comment-flags-votes.png
 slug: comments-now-with-flags-and-votes
 title: 'Comments: Now with Flags and Votes'
 wordpress_id: 1066
-categories:
+tags:
 - company
 - community
 - design

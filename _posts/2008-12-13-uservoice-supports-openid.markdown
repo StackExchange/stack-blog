@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/uservoice-openid.png
 slug: uservoice-supports-openid
 title: UserVoice Supports OpenID
 wordpress_id: 160
-categories:
+tags:
 - company
 - background
 ---

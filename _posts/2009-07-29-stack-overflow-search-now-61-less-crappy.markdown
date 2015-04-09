@@ -7,7 +7,7 @@ redirect_from: /2009/07/stack-overflow-search-now-61-less-crappy
 slug: stack-overflow-search-now-61-less-crappy
 title: Stack Overflow Search - Now 61% Less Crappy
 wordpress_id: 1719
-categories:
+tags:
 - company
 - design
 ---

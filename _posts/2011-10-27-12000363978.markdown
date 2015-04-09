@@ -8,7 +8,7 @@ hero: http://26.media.tumblr.com/tumblr_ltqqcz178W1qaxxh4o1_500.jpg
 slug: '12000363978'
 title: Stack Exchange - Bringing Writers and Fans Together!
 wordpress_id: 10546
-categories:
+tags:
 - company
 - chaos
 post_format:

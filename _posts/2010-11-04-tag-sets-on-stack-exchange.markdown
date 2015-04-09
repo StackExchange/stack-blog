@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/stackexchange-tagset-example-1.png
 slug: tag-sets-on-stack-exchange
 title: Tag Sets on Stack Exchange
 wordpress_id: 6029
-categories:
+tags:
 - company
 - stackexchange
 ---

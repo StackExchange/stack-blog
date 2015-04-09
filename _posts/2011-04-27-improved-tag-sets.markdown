@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/stack-exchange-tag-filter
 slug: improved-tag-sets
 title: Improved Tag Sets
 wordpress_id: 7875
-categories:
+tags:
 - company
 - stackexchange
 ---

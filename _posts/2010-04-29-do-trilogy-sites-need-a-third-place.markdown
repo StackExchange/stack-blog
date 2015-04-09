@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/angry_unicorn.png
 slug: do-trilogy-sites-need-a-third-place
 title: Do Trilogy Sites Need a "Third Place"?
 wordpress_id: 3012
-categories:
+tags:
 - company
 - background
 - stackexchange

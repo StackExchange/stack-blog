@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/mod-contact-templates.png
 slug: moderator-messages
 title: Moderator Messages
 wordpress_id: 7074
-categories:
+tags:
 - company
 - community
 - moderators

@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/fb.so_.png
 slug: facebook-stackoverflow
 title: Announcing facebook.stackoverflow.com
 wordpress_id: 9530
-categories:
+tags:
 - company
 - announcement
 ---

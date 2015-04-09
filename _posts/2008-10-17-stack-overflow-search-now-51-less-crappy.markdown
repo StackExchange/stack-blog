@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/stackoverflow-ask-title-related.png
 slug: stack-overflow-search-now-51-less-crappy
 title: Stack Overflow Search - Now 51% Less Crappy
 wordpress_id: 129
-categories:
+tags:
 - company
 - design
 ---

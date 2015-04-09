@@ -8,7 +8,7 @@ published: false
 slug: '8745495085'
 title: Everybody loves swag!
 wordpress_id: 10554
-categories:
+tags:
 - company
 - chaos
 post_format:

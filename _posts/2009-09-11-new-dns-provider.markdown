@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/dynect-uptime.png
 slug: new-dns-provider
 title: New DNS Provider
 wordpress_id: 1954
-categories:
+tags:
 - company
 - background
 - server

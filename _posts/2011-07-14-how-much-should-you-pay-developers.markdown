@@ -7,7 +7,7 @@ redirect_from: /2011/07/how-much-should-you-pay-developers
 slug: how-much-should-you-pay-developers
 title: How much should you pay developers?
 wordpress_id: 8737
-categories:
+tags:
 - company
 - background
 - stackexchange

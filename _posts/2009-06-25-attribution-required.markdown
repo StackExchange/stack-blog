@@ -7,7 +7,7 @@ redirect_from: /2009/06/attribution-required
 slug: attribution-required
 title: Attribution Required
 wordpress_id: 1519
-categories:
+tags:
 - company
 - cc-wiki-dump
 - community

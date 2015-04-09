@@ -7,7 +7,7 @@ redirect_from: /2008/05/update-your-flash-player
 slug: update-your-flash-player
 title: Update Your Flash Player
 wordpress_id: 42
-categories:
+tags:
 - company
 - podcasts
 ---

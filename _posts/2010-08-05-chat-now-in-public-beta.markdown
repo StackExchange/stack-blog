@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/analog-chat-room.jpg
 slug: chat-now-in-public-beta
 title: Chat Now In Public Beta
 wordpress_id: 4417
-categories:
+tags:
 - company
 - Beta
 ---

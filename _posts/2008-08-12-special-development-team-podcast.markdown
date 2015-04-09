@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/bio-jarrod-dixon.jpg
 slug: special-development-team-podcast
 title: Special Development Team Podcast
 wordpress_id: 85
-categories:
+tags:
 - company
 - podcasts
 ---

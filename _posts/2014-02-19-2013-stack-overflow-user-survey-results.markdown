@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/developers_final.png
 slug: 2013-stack-overflow-user-survey-results
 title: 2013 Stack Overflow User Survey Results
 wordpress_id: 14574
-categories:
+tags:
 - company
 - background
 - community

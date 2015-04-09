@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/stackoveflow-question-email-ui.png
 slug: improved-email-notifications
 title: Improved Email Notifications
 wordpress_id: 1363
-categories:
+tags:
 - company
 - design
 ---

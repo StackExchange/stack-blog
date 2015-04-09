@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/global-inbox-notify.png
 slug: new-global-inbox
 title: New Global Inbox
 wordpress_id: 5251
-categories:
+tags:
 - company
 - announcement
 - serverfault.com

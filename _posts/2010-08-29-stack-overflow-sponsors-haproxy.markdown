@@ -7,7 +7,7 @@ redirect_from: /2010/08/stack-overflow-sponsors-haproxy
 slug: stack-overflow-sponsors-haproxy
 title: Stack Overflow Sponsors HAProxy
 wordpress_id: 4929
-categories:
+tags:
 - company
 - announcement
 - server

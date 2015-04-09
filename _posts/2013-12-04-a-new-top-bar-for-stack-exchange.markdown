@@ -8,7 +8,7 @@ hero: http://i.stack.imgur.com/8tGcN.png
 slug: a-new-top-bar-for-stack-exchange
 title: A New Top Bar for Stack Exchange
 wordpress_id: 14223
-categories:
+tags:
 - company
 - announcement
 - design

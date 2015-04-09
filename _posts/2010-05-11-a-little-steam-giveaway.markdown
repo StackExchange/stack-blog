@@ -8,7 +8,7 @@ hero: http://cdn.steampowered.com/v/gfx/apps/41010/header.jpg
 slug: a-little-steam-giveaway
 title: A Little Steam Giveaway
 wordpress_id: 3176
-categories:
+tags:
 - company
 - community
 ---

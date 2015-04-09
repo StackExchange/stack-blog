@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/blog-winners.png
 slug: apptivate-ms-the-results-are-in
 title: 'Apptivate.MS: the results are in!'
 wordpress_id: 12827
-categories:
+tags:
 - company
 - announcement
 - promotion

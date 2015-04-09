@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/stackoverflow-world-user-graph1.png
 slug: where-in-the-world-do-stack-overflow-users-come-from
 title: Where In The World Do Stack Overflow Users Come From?
 wordpress_id: 418
-categories:
+tags:
 - company
 - community
 ---

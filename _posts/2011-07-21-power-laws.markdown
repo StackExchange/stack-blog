@@ -8,7 +8,7 @@ hero: http://math.stackexchange.com/users/flair/232.png
 slug: power-laws
 title: Power Laws
 wordpress_id: 8785
-categories:
+tags:
 - company
 - community
 ---

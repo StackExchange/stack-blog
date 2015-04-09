@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/funny-pictures-cat-wears-a-tie-225x300.jpg
 slug: whats-a-cv-anyway
 title: What's a CV Anyway?
 wordpress_id: 6064
-categories:
+tags:
 - company
 - careers
 ---

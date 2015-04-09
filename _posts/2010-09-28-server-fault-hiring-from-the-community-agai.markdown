@@ -8,7 +8,7 @@ hero: http://serverfault.com/users/flair/5880.png
 slug: server-fault-hiring-from-the-community-agai
 title: 'Server Fault: Hiring From The Community Again'
 wordpress_id: 5211
-categories:
+tags:
 - company
 - serverfault.com
 ---

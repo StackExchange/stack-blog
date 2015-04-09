@@ -8,7 +8,7 @@ hero: http://stackexchange.com/users/flair/f29cc355f1bb4a008135233735f1ceba.png
 slug: welcome-valued-associate-josh-heyer
 title: Welcome Valued Associate Josh Heyer
 wordpress_id: 7523
-categories:
+tags:
 - company
 - background
 - community

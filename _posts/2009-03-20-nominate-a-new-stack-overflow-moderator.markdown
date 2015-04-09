@@ -7,7 +7,7 @@ redirect_from: /2009/03/nominate-a-new-stack-overflow-moderator
 slug: nominate-a-new-stack-overflow-moderator
 title: Nominate a New Stack Overflow Moderator
 wordpress_id: 890
-categories:
+tags:
 - company
 - community
 ---

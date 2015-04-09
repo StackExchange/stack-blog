@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/recent-activity-alert-off.png
 slug: new-replies-notification
 title: New Replies Notification
 wordpress_id: 557
-categories:
+tags:
 - company
 - design
 ---

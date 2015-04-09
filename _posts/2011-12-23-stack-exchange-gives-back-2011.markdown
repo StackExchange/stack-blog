@@ -7,7 +7,7 @@ redirect_from: /2011/12/stack-exchange-gives-back-2011
 slug: stack-exchange-gives-back-2011
 title: Stack Exchange Gives Back 2011
 wordpress_id: 10586
-categories:
+tags:
 - company
 - background
 ---

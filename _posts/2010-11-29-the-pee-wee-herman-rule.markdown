@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/pee-wee-biker-bar.jpg
 slug: the-pee-wee-herman-rule
 title: The Pee-Wee Herman Rule
 wordpress_id: 6182
-categories:
+tags:
 - company
 - community
 - design

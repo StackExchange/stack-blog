@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/de-Stack-Overflow-Careers
 slug: join-stack-overflow-in-berlin-for-a-blowout-bash-on-december-5
 title: Join Stack Overflow in Berlin for a blowout bash on December 5!
 wordpress_id: 12521
-categories:
+tags:
 - company
 - meetups
 ---

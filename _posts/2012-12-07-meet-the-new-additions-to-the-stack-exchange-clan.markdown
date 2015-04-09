@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/Bradley-Maura3-e1354826980270.jpg
 slug: meet-the-new-additions-to-the-stack-exchange-clan
 title: Meet the new additions to the Stack Exchange clan
 wordpress_id: 12613
-categories:
+tags:
 - company
 - background
 ---

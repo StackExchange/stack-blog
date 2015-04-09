@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/IMG_0329.jpg
 slug: merging-season
 title: Merging Season
 wordpress_id: 5144
-categories:
+tags:
 - company
 - Area51
 - community

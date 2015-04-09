@@ -8,7 +8,7 @@ hero: http://i.stack.imgur.com/mLLK5.png
 slug: stack-overflow-in-japanese
 title: Stack Overflowへようこそ
 wordpress_id: 15036
-categories:
+tags:
 - company
 - announcement
 - internationalization

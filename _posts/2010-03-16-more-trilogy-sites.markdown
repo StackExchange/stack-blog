@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/mustard-costume.jpg
 slug: more-trilogy-sites
 title: More Trilogy Sites?
 wordpress_id: 2807
-categories:
+tags:
 - company
 - background
 - community

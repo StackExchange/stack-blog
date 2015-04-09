@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/stackoverflow-firebug-old-server.png
 slug: server-speed-tests
 title: Server Speed Tests
 wordpress_id: 604
-categories:
+tags:
 - company
 - server
 ---

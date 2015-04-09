@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/superuser-logo-voting1.pn
 slug: superuser-com-logo-vote
 title: superuser.com Logo Vote
 wordpress_id: 1558
-categories:
+tags:
 - company
 - community
 - design

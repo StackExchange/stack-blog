@@ -8,7 +8,7 @@ hero: https://cdn.sstatic.net/apiv2/img/se-gear.png
 slug: stack-exchange-api-v2-2-and-the-demise-of-v1-x
 title: Stack Exchange API V2.2 - and the demise of V1.x
 wordpress_id: 14446
-categories:
+tags:
 - company
 - API
 ---

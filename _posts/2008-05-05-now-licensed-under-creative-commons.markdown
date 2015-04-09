@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/cc-attrib.png
 slug: now-licensed-under-creative-commons
 title: Now Licensed Under Creative Commons
 wordpress_id: 28
-categories:
+tags:
 - company
 - legal
 ---

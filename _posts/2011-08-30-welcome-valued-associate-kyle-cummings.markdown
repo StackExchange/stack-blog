@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/KYLE.jpg
 slug: welcome-valued-associate-kyle-cummings
 title: Welcome Valued Associate Kyle Cummings
 wordpress_id: 9659
-categories:
+tags:
 - company
 - background
 ---

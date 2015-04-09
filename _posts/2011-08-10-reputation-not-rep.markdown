@@ -7,7 +7,7 @@ redirect_from: /2011/08/reputation-not-rep
 slug: reputation-not-rep
 title: 'Careers 2.0: It''s About Reputation, Not "Rep"'
 wordpress_id: 9290
-categories:
+tags:
 - company
 - careers
 ---

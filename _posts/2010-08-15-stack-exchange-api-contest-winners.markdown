@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/six-to-eight-screenshot.p
 slug: stack-exchange-api-contest-winners
 title: Stack Exchange API Contest Winners
 wordpress_id: 4645
-categories:
+tags:
 - company
 - announcement
 - API

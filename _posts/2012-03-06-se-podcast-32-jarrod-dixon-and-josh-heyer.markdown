@@ -8,7 +8,7 @@ hero: /blog/images/category/podcasts.jpg
 slug: se-podcast-32-jarrod-dixon-and-josh-heyer
 title: 'SE Podcast #32 - Jarrod Dixon and Josh Heyer'
 wordpress_id: 11379
-categories:
+tags:
 - company
 - podcasts
 ---

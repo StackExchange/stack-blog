@@ -7,7 +7,7 @@ redirect_from: /2009/01/coming-in-march-it-stack-overflow
 slug: coming-in-march-it-stack-overflow
 title: 'Coming In March: IT Stack Overflow'
 wordpress_id: 436
-categories:
+tags:
 - company
 - serverfault.com
 ---

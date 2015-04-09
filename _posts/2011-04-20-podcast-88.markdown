@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/SNAG-0001-300x211.png
 slug: podcast-88
 title: 'SE Podcast #01'
 wordpress_id: 7822
-categories:
+tags:
 - company
 - podcasts
 ---

@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/stackoverflow-comments-top-n.png
 slug: comments-top-n-shown
 title: 'Comments: Top n Shown'
 wordpress_id: 1119
-categories:
+tags:
 - company
 - community
 - design

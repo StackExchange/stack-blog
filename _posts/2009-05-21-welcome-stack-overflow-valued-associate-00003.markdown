@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/geoff-dalgas-and-jeff-atwood-in-nyc.jpg
 slug: welcome-stack-overflow-valued-associate-00003
 title: 'Welcome Stack Overflow Valued Associate #00003'
 wordpress_id: 1338
-categories:
+tags:
 - company
 - background
 ---

@@ -8,7 +8,7 @@ hero: /blog/images/category/podcasts.jpg
 slug: podcast-61-the-what-jays-done-wrong-podcast
 title: 'Podcast #61 - The "What Jay''s Done Wrong" Podcast'
 wordpress_id: 14879
-categories:
+tags:
 - company
 - podcasts
 ---

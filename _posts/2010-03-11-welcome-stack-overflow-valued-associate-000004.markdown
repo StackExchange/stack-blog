@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/kevin-montrose-big.jpg
 slug: welcome-stack-overflow-valued-associate-000004
 title: 'Welcome Stack Overflow Valued Associate #00004'
 wordpress_id: 2777
-categories:
+tags:
 - company
 - background
 ---

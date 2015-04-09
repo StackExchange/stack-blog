@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/devdays-v21.png
 slug: devdays
 title: DevDays will return, but not until 2011
 wordpress_id: 3838
-categories:
+tags:
 - company
 - announcement
 ---

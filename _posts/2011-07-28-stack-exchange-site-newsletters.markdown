@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/newsletter-ads1.png
 slug: stack-exchange-site-newsletters
 title: Stack Exchange Site Newsletters
 wordpress_id: 9080
-categories:
+tags:
 - company
 - stackexchange
 ---

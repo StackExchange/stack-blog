@@ -8,7 +8,7 @@ hero: /blog/images/category/podcasts.jpg
 slug: podcast-49-the-one-where-we-edited-out-the-title-reference
 title: 'Podcast #49 - The One Where We Edited Out The Title Reference'
 wordpress_id: 13434
-categories:
+tags:
 - company
 - podcasts
 ---

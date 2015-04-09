@@ -7,7 +7,7 @@ redirect_from: /2008/09/what-was-stack-overflow-built-with
 slug: what-was-stack-overflow-built-with
 title: What Was Stack Overflow Built With?
 wordpress_id: 102
-categories:
+tags:
 - company
 - server
 ---

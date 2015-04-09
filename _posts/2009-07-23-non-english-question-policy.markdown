@@ -7,7 +7,7 @@ redirect_from: /2009/07/non-english-question-policy
 slug: non-english-question-policy
 title: Non-English Question Policy
 wordpress_id: 1689
-categories:
+tags:
 - company
 - community
 ---

@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/serveraid-8k-error-memory-retention-failure.jpg
 slug: tuesday-outage-its-raid-tastic
 title: 'Tuesday Outage: It''s RAID-tastic!'
 wordpress_id: 925
-categories:
+tags:
 - company
 - server
 ---

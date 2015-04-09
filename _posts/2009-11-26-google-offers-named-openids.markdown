@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/so-openid-google-1.png
 slug: google-offers-named-openids
 title: Google Offers Named OpenIDs
 wordpress_id: 2197
-categories:
+tags:
 - company
 - background
 - community

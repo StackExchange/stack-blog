@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/killington1.jpg
 slug: welcome-valued-associate-jamie-gingerelli
 title: Welcome Valued Associate Jamie Gingerelli
 wordpress_id: 7157
-categories:
+tags:
 - company
 - background
 ---

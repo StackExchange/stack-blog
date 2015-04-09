@@ -7,7 +7,7 @@ redirect_from: /2009/04/in-defense-of-editing
 slug: in-defense-of-editing
 title: In Defense of Editing
 wordpress_id: 986
-categories:
+tags:
 - company
 - community
 ---

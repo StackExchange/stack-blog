@@ -7,7 +7,7 @@ redirect_from: /2010/07/summer-2010-moderator-appointments
 slug: summer-2010-moderator-appointments
 title: Summer 2010 Moderator Appointments
 wordpress_id: 4129
-categories:
+tags:
 - company
 - community
 - moderators

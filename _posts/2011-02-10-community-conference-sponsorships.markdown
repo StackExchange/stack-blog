@@ -8,7 +8,7 @@ hero: http://gis.stackexchange.com/users/flair/59.png
 slug: community-conference-sponsorships
 title: Community Conference Sponsorships
 wordpress_id: 7166
-categories:
+tags:
 - company
 - community
 - reference

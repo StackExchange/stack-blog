@@ -7,7 +7,7 @@ redirect_from: /2008/07/easy-background-tasks-in-aspnet
 slug: easy-background-tasks-in-aspnet
 title: Easy Background Tasks in ASP.NET
 wordpress_id: 70
-categories:
+tags:
 - company
 - background
 ---

@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/i-hope-you-enjoy-your-birthday-infinitely.png
 slug: one-year-of-stack-overflow
 title: One Year of Stack Overflow
 wordpress_id: 1777
-categories:
+tags:
 - company
 - background
 - community

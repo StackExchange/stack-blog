@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/examining-vote-chad.jpg
 slug: more-voting-anomalies
 title: More Voting Anomalies
 wordpress_id: 897
-categories:
+tags:
 - company
 - community
 - design

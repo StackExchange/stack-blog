@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/oss-ad-stats-1.png
 slug: open-source-ad-stats
 title: Open Source Ad Stats
 wordpress_id: 2661
-categories:
+tags:
 - company
 - community
 ---

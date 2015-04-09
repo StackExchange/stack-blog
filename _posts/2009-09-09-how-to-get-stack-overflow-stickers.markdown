@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/trilogy-stickers-gravell1
 slug: how-to-get-stack-overflow-stickers
 title: How to Get Stack Overflow Stickers
 wordpress_id: 1934
-categories:
+tags:
 - company
 - community
 - serverfault.com

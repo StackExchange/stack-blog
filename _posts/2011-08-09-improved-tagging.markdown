@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/old-tag-completer.png
 slug: improved-tagging
 title: Improved Tagging
 wordpress_id: 9213
-categories:
+tags:
 - company
 - community
 - design

@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/superuser-deleted-answers-small.png
 slug: new-protected-question-status
 title: New Protected Question Status
 wordpress_id: 3417
-categories:
+tags:
 - company
 - community
 - design

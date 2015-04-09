@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/lenovo-rs110-server.jpg
 slug: furtheradventures-of-a-raid-noob
 title: Further Adventures of a RAID Noob
 wordpress_id: 453
-categories:
+tags:
 - company
 - server
 ---

@@ -8,7 +8,7 @@ published: false
 slug: '12296496289'
 title: People are basically good...right?
 wordpress_id: 10545
-categories:
+tags:
 - company
 - chaos
 post_format:

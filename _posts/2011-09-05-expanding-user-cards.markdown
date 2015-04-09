@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/user-card-hover-expansion.png
 slug: expanding-user-cards
 title: Expanding User Cards
 wordpress_id: 9726
-categories:
+tags:
 - company
 - community
 - design

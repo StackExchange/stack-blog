@@ -7,7 +7,7 @@ redirect_from: /2011/07/documenting-devdays-2011-1-picking-cities-formats
 slug: documenting-devdays-2011-1-picking-cities-formats
 title: 'Documenting DevDays 2011: #1 - Picking Cities & Formats'
 wordpress_id: 8697
-categories:
+tags:
 - company
 - devdays
 ---

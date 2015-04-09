@@ -8,7 +8,7 @@ hero: http://i.stack.imgur.com/UwU4i.jpg
 slug: please-welcome-jon-ericson-community-manager
 title: Please welcome Jon Ericson, Community Manager
 wordpress_id: 13902
-categories:
+tags:
 - company
 - background
 - community

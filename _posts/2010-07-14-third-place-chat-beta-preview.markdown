@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/bacon-tuxedos-lr.jpg
 slug: third-place-chat-beta-preview
 title: Third Place Chat Beta Preview
 wordpress_id: 4174
-categories:
+tags:
 - company
 - Beta
 - community

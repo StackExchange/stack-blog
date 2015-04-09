@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/stackexchange-flag-post.png
 slug: a-theory-of-moderation
 title: A Theory of Moderation
 wordpress_id: 1297
-categories:
+tags:
 - company
 - community
 - design

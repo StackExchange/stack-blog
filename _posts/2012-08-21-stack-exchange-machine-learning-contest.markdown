@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/fake-mod-tools2.png
 slug: stack-exchange-machine-learning-contest
 title: Stack Exchange Machine Learning Contest
 wordpress_id: 12099
-categories:
+tags:
 - company
 - announcement
 - stackoverflow

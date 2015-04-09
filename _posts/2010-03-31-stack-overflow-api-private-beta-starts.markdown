@@ -7,7 +7,7 @@ redirect_from: /2010/03/stack-overflow-api-private-beta-starts
 slug: stack-overflow-api-private-beta-starts
 title: Stack Overflow API Private Beta Starts
 wordpress_id: 2864
-categories:
+tags:
 - company
 - API
 - Beta

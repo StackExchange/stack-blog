@@ -7,7 +7,7 @@ redirect_from: /2011/01/real-questions-have-answers
 slug: real-questions-have-answers
 title: Real Questions Have Answers
 wordpress_id: 6835
-categories:
+tags:
 - company
 - community
 - design

@@ -7,7 +7,7 @@ redirect_from: /2010/05/academic-papers-using-stack-overflow-data
 slug: academic-papers-using-stack-overflow-data
 title: Academic Papers Using Stack Overflow Data
 wordpress_id: 3340
-categories:
+tags:
 - company
 - cc-wiki-dump
 - community

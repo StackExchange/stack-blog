@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/Area-51-analytics-sample1
 slug: does-this-site-have-a-chance-of-succeeding
 title: Does this site have a chance of succeeding?
 wordpress_id: 8781
-categories:
+tags:
 - company
 - Area51
 - reference

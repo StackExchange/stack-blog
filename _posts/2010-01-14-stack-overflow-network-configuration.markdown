@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/stack-overflow-network-diagram-small.png
 slug: stack-overflow-network-configuration
 title: Stack Overflow Network Configuration
 wordpress_id: 2489
-categories:
+tags:
 - company
 - background
 - server

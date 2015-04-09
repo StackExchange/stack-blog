@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/api-contest-prize-monitors1.jpg
 slug: stack-exchange-api-contest
 title: Stack Exchange API Contest
 wordpress_id: 3277
-categories:
+tags:
 - company
 - API
 - community

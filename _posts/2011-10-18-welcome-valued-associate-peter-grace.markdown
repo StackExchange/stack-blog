@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/Kristy-Pete-Nate.jpg
 slug: welcome-valued-associate-peter-grace
 title: Welcome Valued Associate Peter Grace!
 wordpress_id: 10052
-categories:
+tags:
 - company
 - background
 ---

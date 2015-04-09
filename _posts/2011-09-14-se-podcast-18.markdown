@@ -8,7 +8,7 @@ hero: /blog/images/category/podcasts.jpg
 slug: se-podcast-18
 title: 'SE Podcast #18'
 wordpress_id: 9809
-categories:
+tags:
 - company
 - podcasts
 ---

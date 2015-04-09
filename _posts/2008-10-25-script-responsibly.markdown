@@ -7,7 +7,7 @@ redirect_from: /2008/10/script-responsibly
 slug: script-responsibly
 title: Script Responsibly
 wordpress_id: 140
-categories:
+tags:
 - company
 - community
 ---

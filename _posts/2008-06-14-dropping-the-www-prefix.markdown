@@ -7,7 +7,7 @@ redirect_from: /2008/06/dropping-the-www-prefix
 slug: dropping-the-www-prefix
 title: Dropping the WWW Prefix
 wordpress_id: 52
-categories:
+tags:
 - company
 - design
 ---

@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/Ubuntu-Developer-Summit-L
 slug: stack-exchange-at-ubuntu-developer-summit
 title: Stack Exchange at Ubuntu Developer Summit
 wordpress_id: 5976
-categories:
+tags:
 - company
 - stackexchange
 ---

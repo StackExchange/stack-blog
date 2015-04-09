@@ -7,7 +7,7 @@ redirect_from: /2009/05/welcome-new-community-moderators
 slug: welcome-new-community-moderators
 title: Welcome New Community Moderators
 wordpress_id: 1311
-categories:
+tags:
 - company
 - community
 - moderators

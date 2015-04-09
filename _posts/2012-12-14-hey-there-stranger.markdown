@@ -8,7 +8,7 @@ hero: http://static.adzerk.net/Advertisers/1efaea9356764cb6a86564960eba62bb.png
 slug: hey-there-stranger
 title: Hey there, stranger!
 wordpress_id: 12735
-categories:
+tags:
 - company
 - background
 - stackoverflow

@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/stackoverflow-favorites-closeup.png
 slug: youre-my-favorite
 title: You're My Favorite
 wordpress_id: 110
-categories:
+tags:
 - company
 - design
 ---

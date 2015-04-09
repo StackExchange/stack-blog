@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/powered-by-crystaltech.pn
 slug: our-dedicated-server
 title: Our Dedicated Server
 wordpress_id: 12
-categories:
+tags:
 - company
 - server
 ---

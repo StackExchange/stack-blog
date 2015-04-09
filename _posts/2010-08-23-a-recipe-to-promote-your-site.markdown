@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/Share-link.png
 slug: a-recipe-to-promote-your-site
 title: A Recipe to Promote your Site
 wordpress_id: 4771
-categories:
+tags:
 - company
 - promotion
 - reference

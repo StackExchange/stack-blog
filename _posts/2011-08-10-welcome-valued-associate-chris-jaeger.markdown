@@ -8,7 +8,7 @@ hero: http://stackexchange.com/users/flair/30498037168a4055a8490c31c2b1d863.png
 slug: welcome-valued-associate-chris-jaeger
 title: Welcome Valued Associate Chris Jaeger
 wordpress_id: 9242
-categories:
+tags:
 - company
 - background
 - community

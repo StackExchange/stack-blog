@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/then-a-miracle-occurs-cartoon.png
 slug: then-a-miracle-occurs-public-beta
 title: Then a Miracle Occurs - Public Beta
 wordpress_id: 98
-categories:
+tags:
 - company
 - Beta
 ---

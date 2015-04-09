@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/superman-elevator.jpg
 slug: stack-exchange-naming-for-dummies
 title: Stack Exchange Naming for Dummies
 wordpress_id: 5584
-categories:
+tags:
 - company
 - Area51
 - reference

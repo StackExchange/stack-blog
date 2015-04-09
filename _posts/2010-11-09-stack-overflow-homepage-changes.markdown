@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/interesting-vs-active.png
 slug: stack-overflow-homepage-changes
 title: Stack Overflow Homepage Changes
 wordpress_id: 6071
-categories:
+tags:
 - company
 - community
 - design

@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/question-tags-highlighted2.png
 slug: new-tag-info-pages
 title: New Tag Info Pages
 wordpress_id: 4887
-categories:
+tags:
 - company
 - community
 - design

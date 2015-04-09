@@ -7,7 +7,7 @@ redirect_from: /2008/10/adde-a-second-server
 slug: adde-a-second-server
 title: Added a Second Server
 wordpress_id: 143
-categories:
+tags:
 - company
 - server
 ---

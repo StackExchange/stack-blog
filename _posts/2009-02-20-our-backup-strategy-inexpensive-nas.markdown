@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/qnap-409u.jpg
 slug: our-backup-strategy-inexpensive-nas
 title: Our Backup Strategy - Inexpensive NAS
 wordpress_id: 697
-categories:
+tags:
 - company
 - server
 ---

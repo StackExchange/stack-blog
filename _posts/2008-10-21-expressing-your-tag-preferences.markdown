@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/stackoverflow-ignored-interesting.png
 slug: expressing-your-tag-preferences
 title: Expressing Your Tag Preferences
 wordpress_id: 134
-categories:
+tags:
 - company
 - design
 ---

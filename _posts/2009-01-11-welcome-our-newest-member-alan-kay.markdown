@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/stackoverflow-badges-alan-kay.png
 slug: welcome-our-newest-member-alan-kay
 title: 'Welcome Our Newest Member: Alan Kay'
 wordpress_id: 369
-categories:
+tags:
 - company
 - background
 - community

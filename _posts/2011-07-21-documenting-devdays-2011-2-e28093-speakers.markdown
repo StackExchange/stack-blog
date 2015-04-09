@@ -7,7 +7,7 @@ redirect_from: /2011/07/documenting-devdays-2011-2-e28093-speakers
 slug: documenting-devdays-2011-2-%e2%80%93-speakers
 title: 'Documenting DevDays 2011: #2 – Speakers!'
 wordpress_id: 8955
-categories:
+tags:
 - company
 - devdays
 ---

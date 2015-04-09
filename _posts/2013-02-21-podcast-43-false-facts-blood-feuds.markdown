@@ -8,7 +8,7 @@ hero: /blog/images/category/podcasts.jpg
 slug: podcast-43-false-facts-blood-feuds
 title: 'Podcast #43 - False Facts & Blood Feuds'
 wordpress_id: 13165
-categories:
+tags:
 - company
 - podcasts
 ---

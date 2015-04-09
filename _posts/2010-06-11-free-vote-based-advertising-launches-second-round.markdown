@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/ad1.png
 slug: free-vote-based-advertising-launches-second-round
 title: Free Vote-Based Advertising Launches Second Round
 wordpress_id: 3558
-categories:
+tags:
 - company
 - community
 ---

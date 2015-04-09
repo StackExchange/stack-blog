@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/fight-club-soap.jpg
 slug: cmon-get-meta
 title: C'Mon Get Meta!
 wordpress_id: 1540
-categories:
+tags:
 - company
 - community
 - meta

@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/computer-history-museum-new-exhibit-small1.png
 slug: stack-overflow-and-the-computer-history-museum
 title: Stack Overflow and the Computer History Museum
 wordpress_id: 7400
-categories:
+tags:
 - company
 - background
 - community

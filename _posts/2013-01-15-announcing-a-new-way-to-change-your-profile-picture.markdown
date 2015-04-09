@@ -8,7 +8,7 @@ hero: http://i.stack.imgur.com/n67sl.png
 slug: announcing-a-new-way-to-change-your-profile-picture
 title: Announcing a new way to change your profile picture
 wordpress_id: 12920
-categories:
+tags:
 - company
 - announcement
 ---

@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/stack-tags.png
 slug: tag-folksonomy-and-tag-synonyms
 title: Tag Folksonomy and Tag Synonyms
 wordpress_id: 4361
-categories:
+tags:
 - company
 - community
 - design

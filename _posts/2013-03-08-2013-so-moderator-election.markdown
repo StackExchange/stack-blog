@@ -8,7 +8,7 @@ hero: http://i.stack.imgur.com/SpsPO.png
 slug: 2013-so-moderator-election
 title: VOTE NOW in the 2013 Stack Overflow Moderator Election
 wordpress_id: 13208
-categories:
+tags:
 - company
 - announcement
 - community

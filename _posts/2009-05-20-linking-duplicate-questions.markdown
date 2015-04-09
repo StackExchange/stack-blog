@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/question-close-votes-shown.png
 slug: linking-duplicate-questions
 title: Linking Duplicate Questions
 wordpress_id: 1316
-categories:
+tags:
 - company
 - community
 - design

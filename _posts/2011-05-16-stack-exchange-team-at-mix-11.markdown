@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/jin-vegas.jpg
 slug: stack-exchange-team-at-mix-11
 title: Stack Exchange Team at MIX 11
 wordpress_id: 8145
-categories:
+tags:
 - company
 - background
 ---

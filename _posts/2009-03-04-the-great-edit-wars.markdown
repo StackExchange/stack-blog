@@ -8,7 +8,7 @@ hero: /blog/images/wordpress/wiki-revert-lolcat.jpg
 slug: the-great-edit-wars
 title: The Great Edit Wars
 wordpress_id: 772
-categories:
+tags:
 - company
 - community
 ---

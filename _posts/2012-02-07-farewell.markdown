@@ -7,7 +7,7 @@ redirect_from: /2012/02/farewell
 slug: farewell
 title: Farewell
 wordpress_id: 11004
-categories:
+tags:
 - company
 - announcement
 ---

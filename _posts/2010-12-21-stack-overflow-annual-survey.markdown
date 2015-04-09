@@ -8,7 +8,7 @@ hero: http://blog.stackoverflow.com/wp-content/uploads/Final-banner-PNG-150x150.
 slug: stack-overflow-annual-survey
 title: Stack Overflow Annual Survey
 wordpress_id: 6433
-categories:
+tags:
 - company
 - announcement
 - survey
