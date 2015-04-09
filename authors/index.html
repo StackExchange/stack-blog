@@ -4,6 +4,7 @@ layout: default
 <div class="inner-container padded media-padded">
 	<h1 class="h3">Contributors</h1>
 	{% for author in site.authors %}
+		{% unless author.inactive %}
 		{% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
 		{% if thecycle == 'odd' %}
 		<div class="authors -row">
@@ -19,5 +20,6 @@ layout: default
 		{% if thecycle == 'even' %}
 		</div>
 		{% endif %}
+		{% endunless %}
 	{% endfor %}
 </div>

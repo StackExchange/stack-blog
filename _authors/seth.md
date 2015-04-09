@@ -6,4 +6,5 @@ twitter:
 job: 
 avatar: 
 website: 
+inactive: true
 ---
