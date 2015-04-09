@@ -1,4 +1,4 @@
 ---
-layout: category
+layout: tag
 slug: company
 ---
