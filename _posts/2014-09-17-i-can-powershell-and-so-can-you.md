@@ -6,7 +6,7 @@ hero: /blog/images/window.jpg
 source: http://www.selfcommit.com/
 tags:
 - engineering
-tags: scripting
+- scripting
 ---
 
 Often automating a task is [not worth the time](http://xkcd.com/1205/) and rarely takes [the time planned](http://xkcd.com/1319/).  At StackExchange we have lots of people on our team and in our community [who are amazing at Powershell](http://stackoverflow.com/tags/powershell/hot). **I am not one of those people.**
