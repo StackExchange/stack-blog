@@ -1,4 +1,4 @@
 ---
-layout: tag
+layout: category
 slug: announcement
 ---
