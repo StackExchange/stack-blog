@@ -22,7 +22,8 @@ layout: null
 			"name": "{{ author.name }}",
 			"avatar": "{{ author.avatar }}",
 			"twitter": "{{ author.twitter }}",
-			"url": "{{ site.baseurl }}/authors/{{ author.id }}"
+			"url": "{{ site.baseurl }}/authors/{{ author.id }}",
+			"job": "{{ author.job }}"
 		{% if forloop.last %}}{% else %}},{% endif %}{% endfor %}
 	}
 }

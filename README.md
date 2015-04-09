@@ -78,6 +78,7 @@ To create a new post, you need to create a new markdown file with a particular f
 layout: post
 title: [title of your post]
 author: [your author id]
+draft: [true or false, will hide the post from any display lists]
 hero: [url of a high quality hero image to be used for your post]
 source: [url of the original post so a source banner will be added to the post, optional]
 category: [what category this post is in, optional]

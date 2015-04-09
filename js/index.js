@@ -2,6 +2,7 @@ $(document).ready(function() {
 
 	var page = 1;
 	var data;
+	var prefix = "/blog";
 
 	if ($("div.pagination").length > 0) {
 		check_page();
@@ -18,7 +19,7 @@ $(document).ready(function() {
 				page = page_num;
 			}
 		}
-		$.get("/blog/json/index.json", function(response) {
+		$.get(prefix + "/json/index.json", function(response) {
 			if (response) {
 				var result = [];
 				for (key in response.posts) {
@@ -73,6 +74,8 @@ $(document).ready(function() {
 
 		var offset = (page_num - 1) * 5;
 
+		var authors_posted = [];
+
 		for (var i = 0; i < 5; i++) {
 			var post = data.posts[offset + i];
 			var article = $("article.post:eq(" + i + ")");
@@ -102,6 +105,19 @@ $(document).ready(function() {
 			article.find(".excerpt").html(post.content);
 			article.find("a.read-more").attr("href", post.url);
 			article.css("display", "block");
+
+			var auth = $("#authors-container .author-container:eq(" + i + ")");
+			if (auth && authors_posted.indexOf(author.twitter) == -1) {
+				console.log(author);
+				auth.find(".avatar-link").attr("href", author.url);
+				auth.find(".avatar").attr("src", author.avatar);
+				auth.find(".name-link").attr("href", author.url).html(author.name);
+				auth.find("p.job").html(author.job);
+				authors_posted.push(author.twitter);
+				auth.css("display", "block");
+			} else {
+				auth.css("display", "none");
+			}
 		}
 
 		$(".posts").css("visibility", "visible");
