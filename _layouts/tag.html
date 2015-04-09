@@ -6,7 +6,7 @@ layout: default
 	<div class="-row">
 		<div class="-col8">
 			<div class="posts">
-				<h3>Recent Posts</h3>
+				<h3>{{ page.slug }}</h3>
 				{% include posts.html %}
 			</div>
 
@@ -26,10 +26,6 @@ layout: default
 		</div>
 		<div class="-col4">
 			<div class="sidebar media-padded">
-				<section>
-				<h3>Hello World</h3>
-				<p>Welcome! We are <a href="http://stackexchange.com/">Stack Exchange</a>, home of <a href="https://stackoverflow.com/">Stack Overflow</a>, <a href="https://careers.stackoverflow.com/">Stack Overflow Careers</a>, and <a href="http://stackexchange.com/sites">over 100 Q&amp;A sites</a> part of the Stack Exchange network. In addition to writing a lot of code, we like to write about writing code and the other things we're doing to improve the tech community. We're trying a new thing by collecting those writings here so we can share them with the larger programming community. We hope you like it!</p>
-				</section>
 
 				<section>
 				<h4>Contributors</h4>
@@ -37,7 +33,7 @@ layout: default
 				</section>
 
 				<section>
-				<h4>Topics</h4>
+				<h4>Other Tags</h4>
 				{% for tag in site.tags %}
 				{% assign tagCount = 0 %}
 				{% assign currentTag = tag | first %}
