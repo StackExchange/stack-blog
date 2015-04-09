@@ -106,6 +106,13 @@ $(document).ready(function() {
 			article.find("a.read-more").attr("href", post.url);
 			article.css("display", "block");
 
+			var tagHtml = '';
+			for (key in post.tags) {
+				if (key == 3) break;
+				tagHtml += '<span class="postTag">' + post.tags[key] + '</span>';
+			}
+			article.find(".tags").html(tagHtml);
+
 			var auth = $("#authors-container .author-container:eq(" + i + ")");
 			if (auth && authors_posted.indexOf(author.twitter) == -1) {
 				console.log(author);
