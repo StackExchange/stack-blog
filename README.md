@@ -120,6 +120,8 @@ If you are not a developer, we have a Stack Exchange Imgur account that you can 
 
 **Adding tags**
 
+Every post is required to have at least one tag: either `company` or `engineering` depending on which channel it belongs on (it can also have both). You can then add any additional tags afterwards.
+
 Jekyll has some support for tags, but requires that you do a little bit of work in order to make sure new tags are accommodated. All tags must have a markdown file named after the tag in the `_tags` folder. For example, the `onboarding` tag markdown file `onboarding.md` looks like this:
 ```
 ---
@@ -133,7 +135,10 @@ When writing a new post, you can add space separated tags at the top of the post
 layout: post
 title: [title of post]
 author: [author id]
-tags: [tag1] [tag2] [tag3]
+tags:
+- [tag1]
+- [tag2]
+- [tag3]
 ---
 
 ```
