@@ -82,7 +82,7 @@ draft: [true or false, will hide the post from any display lists]
 hero: [url of a high quality hero image to be used for your post]
 source: [url of the original post so a source banner will be added to the post, optional]
 category: [what category this post is in, optional]
-tags: [what tags are associated with this post separated by spaces, optional]
+tags: [what channel this post belongs to (engineering/company), and any related tags, required]
 ---
 [Content of your post in markdown]
 ```
@@ -94,8 +94,9 @@ title: My First Six Weeks Working at Stack Overflow
 author: jonhmchan
 hero: https://ununsplash.imgix.net/photo-1416339306562-f3d12fefd36f?q=75&fm=jpg&s=dd8bffcffb3d622bea05c74d203121c6https://unsplash.imgix.net/photo-1416339442236-8ceb164046f8?q=75&fm=jpg&s=8eb83df8a744544977722717b1ea4d09
 source: http://www.jonhmchan.com/blog/2014/1/16/my-first-six-weeks-working-at-stack-overflow
-category: engineering
-tags: onboarding
+tags:
+ - engineering
+ - onboarding
 ---
 
 I started working at [Stack Exchange](http://www.stackexchange.com/) (which many know for/as [Stack Overflow](http://stackoverflow.com/)) as a software developer just six weeks ago. This (lengthy) post is about a number of things: what it was like relearning a lot of what I know about web development, the challenges and resources I encountered doing so, and a few pointers others might benefit from on-boarding on a new development team.
