@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JNat and animuson: workin' on ur problemz
+title: "JNat and animuson: workin' on ur problemz"
 author: abbytmiller
 hero: http://i.stack.imgur.com/qfSjP.jpg
 tags:
