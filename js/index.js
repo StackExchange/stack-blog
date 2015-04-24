@@ -91,13 +91,13 @@ $(document).ready(function() {
 			article.find(".title").html(post.title).attr("href", post.url);
 			article.find(".avatar").attr("src", author.avatar);
 
-			var author_info = [];
+			var post_info = [];
 
-			if (author.twitter) author_info.push('<a href="http://twitter.com/' + author.twitter + '">@' + author.twitter + '</a>');
-			author_info.push(post.date);
+			post_info.push(post.date);
+			post_info.push('By ' + author.name);
+			post_info.push('In ' + post.tags.join(", "))
 
-			article.find(".author-link").html(author.name).attr("href", author.url);
-			article.find(".author-info").html(author_info.join(" &bull; "));
+			article.find(".post-info").html(post_info.join(" &bull; "));
 
 			article.find("img.hero").attr("src", post.hero);
 			article.find("a.hero_url").attr("href", post.url);
@@ -105,13 +105,6 @@ $(document).ready(function() {
 			article.find(".excerpt").html(post.content);
 			article.find("a.read-more").attr("href", post.url);
 			article.css("display", "block");
-
-			var tagHtml = '';
-			for (key in post.tags) {
-				if (key == 3) break;
-				tagHtml += '<span class="postTag">' + post.tags[key] + '</span>';
-			}
-			article.find(".tags").html(tagHtml);
 
 			var auth = $("#authors-container .author-container:eq(" + i + ")");
 			if (auth && authors_posted.indexOf(author.twitter) == -1) {
