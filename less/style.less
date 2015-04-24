@@ -5,22 +5,29 @@
 	max-width: 1000px;
 	margin: 0px auto;
 	&.padded {
-		margin: 25px auto;
+		margin: 75px auto;
 	}
 }
 .sidebar {
 	padding-left: 50px;
+	h3 {
+		font-weight: normal;
+		margin-bottom: 25px;
+	}
 	p {
 		.fontSize(xxs);
 		color: @color-grayMid;
 	}
 	section {
-		padding-bottom: 25px;
+		padding-bottom: 50px;
 	}
 }
 
 header {
-	padding: 10px;
+	padding: 25px;
+	padding-bottom: 45px;
+	background: #4989CB;
+	color: #fff;
 	.site-avatar {
 		img {
 			float: left;
@@ -37,7 +44,7 @@ header {
 		a {
 			display: inline-block;
 			padding: 5px 7px;
-			color: @color-grayMid;
+			color: @color-white;
 			font-size: 14px;
 		}
 	}
@@ -113,6 +120,8 @@ div.subheader {
 }
 .pagination {
 	margin-top: 50px;
+	background: @color-grayLight;
+	color: @color-grayMid;
 	a.page {
 		cursor: pointer;
 	}
@@ -298,9 +307,24 @@ article.author {
 	}
 }
 footer {
-	background: @color-grayLight;
+	h4 {
+		.fontSize(s);
+		font-weight: 600;
+	}
+	p {
+		font-size: 14px;
+		margin: 0;
+		a, a:link {
+			color: @color-grayMid;
+		}
+	}
+	.about {
+		padding: 15px 25px;
+		a:link {
+			color: @color-blue;
+		}
+	}
 	padding: 50px 0px;
-	text-align: center;
 }
 
 
