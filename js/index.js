@@ -4,6 +4,16 @@ $(document).ready(function() {
 	var data;
 	var prefix = "/blog";
 
+	if (typeof pagination !== 'undefined') {
+		if (pagination === true) {
+			$(".pagination").css("display", "block");
+		}
+	}
+
+	if (typeof top_active !== 'undefined') {
+		$("nav a." + top_active).addClass("active");
+	}
+
 	if ($("div.pagination").length > 0) {
 		check_page();
 	} else {

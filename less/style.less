@@ -47,6 +47,10 @@ header {
 			color: @color-white;
 			font-size: 14px;
 		}
+		a.active {
+			border: 1px solid @color-white;
+			border-radius: 3px;
+		}
 	}
 }
 div.subheader {
@@ -125,6 +129,7 @@ div.subheader {
 	.fontSize(xxs);
 }
 div.pagination {
+	display: none;
 	padding: 25px 0;
 	background: @color-grayLight;
 	color: @color-grayMid;
@@ -303,12 +308,6 @@ article.author {
 		margin-top: 50px;
 	}
 }
-.authors-container {
-	h2.author-name {
-			color: @color-blue;
-	
-	}
-}
 .author-container {
 	&.small {
 		margin-bottom: 25px;
@@ -372,7 +371,16 @@ footer {
 	}
 	padding: 50px 0px;
 }
-
+#authors-container {
+	.author-container {
+		.info {
+			.author-name {
+				color: @color-blue;
+				margin-bottom: 0;
+			}
+		}
+	}
+}
 
 
 @media (max-width: @mediaQuery-small) {
