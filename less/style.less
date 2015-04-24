@@ -50,18 +50,24 @@ header {
 	}
 }
 div.subheader {
-	text-align: center;
-	.title {
-		border-bottom: 2px solid @color-grayLight;
-	}
+	position: absolute;
+	width: 100%;
+	top: 110px;
+	height: 35px;
 	nav {
+		background: #4989CB;
 		a {
 			.fontSize(xxs);
 			padding: 10px;
 			display: inline-block;
 			text-transform: uppercase;
-			&:link {
-				color: @color-grayMid;
+			&:link, &:hover, &:visited {
+				.fontSize(s);
+				color: @color-grayLight;
+				&.active {
+					color: @color-white;
+					border-bottom: 3px solid blue;
+				}
 			}
 		}
 	}
