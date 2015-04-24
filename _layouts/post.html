@@ -1,6 +1,13 @@
 ---
 layout: default
 ---
+<style>
+	header {
+		position: absolute;
+		background: none;
+		width: 100%;
+	}
+</style>
 <article class="post full-post">
 	<div class="hero" style="background: url('{{ page.hero }}') no-repeat center center;">
 		<div class="inner-container media-padded">
@@ -8,11 +15,11 @@ layout: default
 			{% for author in site.authors %}
 			{% if author.id == page.author %}
 			<div class="author-container">
-			<a href="{{ site.baseurl }}/authors/{{ author.id }}"><img src="{{ author.avatar }}" ></a>
-			<h2 class="h4 author-name"><a href="{{ site.baseurl }}/authors/{{ author.id }}">{{ author.name }}</a></h2>
-			{% endif %}
-			{% endfor %}
-			<div class="date">Written on {{ page.date | date: "%B %e, %Y" }}</div>
+				<a href="{{ site.baseurl }}/authors/{{ author.id }}"><img src="{{ author.avatar }}" ></a>
+				<h2 class="h4 author-name">by <a href="{{ site.baseurl }}/authors/{{ author.id }}">{{ author.name }}</a></h2>
+				{% endif %}
+				{% endfor %}
+				<div class="date">on {{ page.date | date: "%B %e, %Y" }}</div>
 			</div>
 		</div>
 	</div>

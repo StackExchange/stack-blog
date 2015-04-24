@@ -226,6 +226,9 @@ article.post {
 		}
 	}
 	&.full-post {
+		.inner-container {
+			max-width: 700px;
+		}
 		.source {
 			padding: 25px;
 			background: hsla(47, 100%, 89%, 1); 
@@ -237,15 +240,38 @@ article.post {
 			}
 		}
 		.hero {
+			text-align: center;
 		    background-size: cover;
 			height: 100%;
-			padding: 150px 0px;
+			padding: 225px 0px;
+			padding-bottom: 50px;
 			h1, h2, .date {
 				color: #fff;
-				text-shadow: 1px 1px 3px #333;
+			}
+			.author-container {
+				margin-top: 150px;
+				img {
+					float: none;
+					border: 1px solid @color-grayLight;
+				}
+				h2 {
+					.fontSize(s);
+					margin: 0;
+				}
+				.date {
+					.fontSize(xs);
+				}
+			}
+			h1 {
+				font-weight: 600;
 			}
 		}
 		.entry {
+			color: @color-grayMid;
+			font-size: 18px;
+			p {
+				line-height: 1.5;
+			}
 			img {
 				max-width: 100%;
 				&[alt=left-align], &.left-align {
