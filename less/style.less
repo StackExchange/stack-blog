@@ -1,6 +1,12 @@
 @import "base/variables";
 @import "base/mixins";
 
+@blue: #0077cc;
+@baseTextGray: rgba(0,0,0,0.8);
+
+a, .link {
+	color: @blue;
+}
 .inner-container {
 	max-width: 1000px;
 	margin: 0px auto;
@@ -11,18 +17,25 @@
 .sidebar {
 	padding-left: 50px;
 	h3 {
+		color: #2d2d2d;
 		font-weight: normal;
 		margin-bottom: 25px;
 	}
 	p {
-		.fontSize(xxs);
-		color: @color-grayMid;
+		font-size: 12px;
+		color: @baseTextGray;
+		text-align: justify;
+		text-justify: inter-word;
+		line-height: 20px;
 	}
 	section {
 		padding-bottom: 50px;
 	}
+	.postTag {
+		padding: 8px;
+		border-radius: 2px;
+	}
 }
-
 header {
 	padding: 25px;
 	padding-bottom: 45px;
@@ -42,13 +55,16 @@ header {
 	nav {
 		padding-top: 19px;
 		text-align: right;
-		a, a:link, a:hover, a:visited {
+		a, a:link, a:visited {
 			display: inline-block;
 			padding: 5px 7px;
 			color: @color-white;
+			border: 1px solid transparent;
+			border-color: none;
 			font-size: 14px;
 		}
-		a.active {
+		a.active, a:hover {
+			text-decoration: none;
 			border: 1px solid @color-white;
 			border-radius: 3px;
 		}
@@ -131,11 +147,13 @@ div.subheader {
 }
 div.pagination {
 	display: none;
-	padding: 25px 0;
-	background: @color-grayLight;
-	color: @color-grayMid;
-	font-size: 12px;
+	padding: 30px 0;
+	height: 70px;
+	background: #f8f8f8;
+	color: @baseTextGray;
+	font-size: 11px;
 	text-transform: uppercase;
+	font-weight: normal;
 	a.page {
 		color: @color-grayMid;
 		cursor: pointer;
@@ -164,9 +182,9 @@ div.pagination {
 }
 
 article.post {
-	padding-bottom: 25px;
-	margin-bottom: 25px;
-	border-bottom: 1px solid @color-grayLight;
+	padding-bottom: 30px;
+	margin-bottom: 30px;
+	border-bottom: 1px solid #eaeaea;
 	&:first-child {
 		padding-top: 0;
 	}
@@ -226,18 +244,20 @@ article.post {
 		}
 		.post-info {
 			font-size: 12px;
-			color: @color-grayMid;
+			color: #777;
 			margin: 0;
 			text-transform: uppercase;
 		}
 		h1 {
 			font-weight: 600;
+			color: @baseTextGray;
 		}
 		.entry {
 			margin: 10px 0px;
-			color: @color-grayMid;
+			color: @baseTextGray;
 			font-weight: 300;
-			font-size: 14px;
+			font-size: 16px;
+			line-height: 24px;
 		}
 	}
 	&.full-post {
@@ -354,20 +374,25 @@ article.author {
 }
 footer {
 	h4 {
-		.fontSize(s);
+		font-size: 14px;
+		color: #444444;
 		font-weight: 600;
 	}
 	p {
 		font-size: 14px;
 		margin: 0;
 		a, a:link {
-			color: @color-grayMid;
+			color: #5e676d;
 		}
 	}
 	.about {
 		padding: 15px 25px;
+		p {
+			color: #737c82;
+			font-size: 14px;
+		}
 		a:link {
-			color: @color-blue;
+			color: @blue;
 		}
 	}
 	padding: 50px 0px;
@@ -376,7 +401,7 @@ footer {
 	.author-container {
 		.info {
 			.author-name {
-				color: @color-blue;
+				color: @blue;
 				margin-bottom: 0;
 			}
 		}
