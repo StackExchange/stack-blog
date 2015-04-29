@@ -12,7 +12,7 @@ layout: default
 	{% if page.hero == null or page.tags contains 'podcasts' %}
 	<div class="hero no-image">
 	{% else %}
-	<div class="hero" style="background: url('{{ page.hero }}') no-repeat center center;">
+	<div class="hero" style="background-image: url('{{ page.hero }}');">
 	{% endif %}
 		<div class="inner-container media-padded">
 			<h1 class="h2">{{ page.title }}</h1>
