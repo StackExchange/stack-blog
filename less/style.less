@@ -7,6 +7,20 @@
 a, .link {
 	color: @blue;
 }
+i.blog-icon {
+	display: inline-block;
+	background-image: url('../images/blog-sprite.svg');
+	&.logo {
+		background-position: 0px 130px;
+		width: 46px;
+		height: 57px;
+	}
+	&.read-more {
+		background-position: 0px 0px;
+		width: 12px;
+		height: 12px;
+	}
+}
 .inner-container {
 	max-width: 1000px;
 	margin: 0px auto;
@@ -386,7 +400,7 @@ footer {
 		}
 	}
 	.about {
-		padding: 15px 25px;
+		padding: 0px 25px;
 		p {
 			color: #737c82;
 			font-size: 14px;
