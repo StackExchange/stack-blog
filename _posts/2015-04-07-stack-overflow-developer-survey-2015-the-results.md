@@ -4,7 +4,6 @@ comments: true
 date: 2015-04-07 20:00:01+00:00
 layout: post
 redirect_from: 2015/04/stack-overflow-developer-survey-2015-the-results/
-hero: http://blog.stackoverflow.com/wp-content/uploads/devsurvey-01.png
 slug: stack-overflow-developer-survey-2015-the-results
 title: "Stack Overflow Developer Survey 2015: The Results"
 tags:

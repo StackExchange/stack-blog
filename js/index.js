@@ -118,7 +118,9 @@ $(document).ready(function() {
 
 			var podcast = (post.tags.indexOf('podcasts') > -1);
 			article.find(".podcast-container").css("display", podcast ? "block" : "none");
-			article.find(".hero-container").css("display", podcast ? "none" : "block");
+			
+			var no_background = (podcast || post.hero.length == 0);
+			article.find(".hero-container").css("display", no_background ? "none" : "block");
 
 			var auth = $("#authors-container .author-container:eq(" + i + ")");
 			if (auth && authors_posted.indexOf(author.twitter) == -1) {

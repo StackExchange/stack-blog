@@ -9,7 +9,11 @@ layout: default
 	}
 </style>
 <article class="post full-post">
+	{% if page.hero == null or page.tags contains 'podcasts' %}
+	<div class="hero no-image">
+	{% else %}
 	<div class="hero" style="background: url('{{ page.hero }}') no-repeat center center;">
+	{% endif %}
 		<div class="inner-container media-padded">
 			<h1 class="h2">{{ page.title }}</h1>
 			{% for author in site.authors %}
