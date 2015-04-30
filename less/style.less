@@ -60,6 +60,7 @@ header {
 	padding-bottom: 45px;
 	background: #4989CB;
 	color: #fff;
+	height: 136px;
 	.site-avatar {
 		img {
 			margin-top: 20px;
@@ -92,21 +93,20 @@ header {
 div.subheader {
 	position: absolute;
 	width: 100%;
-	top: 110px;
+	top: 97px;
 	height: 35px;
 	nav {
 		background: #4989CB;
 		a {
-			.fontSize(xxs);
+			font-size: 14px;
 			padding: 10px;
 			display: inline-block;
 			text-transform: uppercase;
 			&:link, &:hover, &:visited {
-				.fontSize(s);
-				color: @color-grayLight;
+				color: rgba(255,255,255,0.7);
 				&.active {
 					color: @color-white;
-					border-bottom: 3px solid blue;
+					border-bottom: 3px solid #174879;
 				}
 			}
 		}
@@ -289,6 +289,7 @@ article.post {
 		}
 	}
 	&.full-post {
+		border-bottom: 2px solid #eaeaea;
 		.inner-container {
 			max-width: 700px;
 		}
@@ -304,6 +305,7 @@ article.post {
 		}
 		.hero {
 			text-align: center;
+			background-repeat: no-repeat;
 		    background-size: cover;
 			height: 100%;
 			padding: 225px 0px;
@@ -319,6 +321,7 @@ article.post {
 				img {
 					float: none;
 					border: 1px solid @color-grayLight;
+					margin: 0;
 				}
 				h2 {
 					.fontSize(s);
@@ -330,13 +333,17 @@ article.post {
 			}
 			h1 {
 				font-weight: 600;
+				font-size: 50px;
 			}
 		}
 		.entry {
-			color: @color-grayMid;
+			color: rgba(0,0,0,0.8);
 			font-size: 18px;
+			a, a:link, a:hover, a:visited {
+				color: @blue;
+			}
 			p {
-				line-height: 1.5;
+				line-height: 28px;
 			}
 			img {
 				max-width: 100%;
@@ -354,6 +361,10 @@ article.post {
 			}
 		}
 	}
+}
+hr.footer-border {
+	size: 2px;
+	color: #eaeaea;
 }
 article.author {
 	.author-content {
