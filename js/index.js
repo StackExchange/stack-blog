@@ -2,7 +2,6 @@ $(document).ready(function() {
 
 	var page = 1;
 	var data;
-	var prefix = "/blog";
 
 	if (typeof pagination !== 'undefined') {
 		if (pagination === true) {
