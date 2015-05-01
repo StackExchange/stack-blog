@@ -18,6 +18,9 @@ html {
 p {
 	line-height: 1.6;
 }
+h1,h2,h3,h4,h5,h6,p {
+	margin-top: 0;
+}
 a, .link {
     color: $blue;
     text-decoration: none;
@@ -29,8 +32,24 @@ a, .link {
     }
     &:focus, &._focus { outline: none; }
 }
-
-
+.post-tag, .postTag {
+	display: inline-block;
+	margin: 0.167em;
+	margin-left: 0;
+	line-height: 1;
+	text-decoration: none;
+	text-transform: lowercase;
+	color: #3e6d8e;
+	background-color: #dfeaf1;
+	border: 0 solid #dfeaf1;
+	white-space: nowrap;
+	transition: all 0.1s ease-in;
+	&:hover {
+		background-color: #c3dae9;
+		border-color: #c3dae9;
+		color: #365f7c;
+	}
+}
 ._textRight 	{ text-align: right; }
 ._textLeft 		{ text-align: left; }
 ._textCenter 	{ text-align: center; }
@@ -71,6 +90,11 @@ i.blog-icon {
 		color: #2d2d2d;
 		font-weight: normal;
 		margin-bottom: 25px;
+		text-transform: uppercase;
+		font-size: 0.8461538461538461rem;
+	}
+	.name-link {
+		font-weight: 400;
 	}
 	p {
 		font-size: 12px;
@@ -268,6 +292,9 @@ article.post {
 		}
 		h1 {
 			font-weight: 600;
+			font-size: 1.8461538461538463rem;
+			line-height: 1.15384615;
+			margin-top: 0;
 			a {
 				color: $baseTextGray;
 			}
