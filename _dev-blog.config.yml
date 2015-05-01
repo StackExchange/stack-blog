@@ -64,7 +64,7 @@ collections:
 #
 
 markdown: redcarpet
-highlighter: pygments
+highlighter: rouge
 permalink: /:year/:month/:title/
 
 # The release of Jekyll Now that you're using
