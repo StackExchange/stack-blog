@@ -33,16 +33,16 @@ If you are unsure of whether your post meets the requirements, it's probably not
 
 ###1. Add yourself as a contributor with an author file
 
-You need to create a new markdown file with your username in the `_authors` folder to be included as a contributor on the blog. For example, Jon Chan uses the username `jonhmchan` so he would create a new file named `jonhmchan.md`. In the content of this markdown file should be the following:
+You need to create a new markdown file with your username in the `_authors` folder to be included as a contributor on the blog. For example, Jon Chan uses the username `jonhmchan` so he would create a new file named `jonhmchan.md`. In the content of this markdown file should be the following (you don't need the square brackets):
 ```
 ---
 layout: author
 id: [username, must be same as file name]
 name: [your full name]
 job: [job title]
-avatar: [url to an image to be used with all your posts]
-twitter: [your twitter handle]
-website: [url to your personal site]
+avatar: [url to an image to be used with all your posts. Most people use their twitter pic url]
+twitter: [your twitter handle, without the @]
+website: [url to your personal site, optional. You can remove this entire line if you don't have one.]
 ---
 ```
 So Jon Chan's `jonhmchan.md` file would look like:
