@@ -18,41 +18,14 @@ layout: default
 		<div class="-row author-content">
 			<div class="-col8">
 				<div class="posts">
-				  {% for post in site.posts %}
-					  {% if page.id == post.author %}
-					    <article class="preview-post post {{ post.categories | join: ' ' }}">
-					    <div class="-row post-header no-author">
-					    	<div class="-col6">
-					    		<div class="date media-padded"><p>{{ post.date | date: "%B %e, %Y" }}</p></div>
-					    	</div>
-					    	<div class="-col6">
-					    		<div class="tags media-padded">
-					    			<p>
-					    			{% for tag in post.tags %}
-					    			<a href="{{ site.baseurl }}/tags/{{ tag }}"><span class="postTag">{{ tag }}</span></a>
-					    			{% endfor %}
-					    			</p>
-					    		</div>
-					    	</div>
-					    </div>
-						  <div class="hero-container">
-						  	<a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.hero }}"></a>
-						  </div>
-
-						  <div class="media-padded">
-							  <h1 class="h3"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-						      <div class="entry">
-						        <p>{{ post.excerpt | markdownify | strip_html }}</p>
-						      </div>
-						      
-						      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Continue reading</a>
-					      </div>
-					    </article>
-				     	{% endif %}
-				  {% endfor %}
+				  {% include posts.html %}
 				</div>
 			</div>
 		</div>
 	</div>
 </article>
+<script type="text/javascript">
+var pagination = true;
+var top_active = "contributors";
+var author = "{{ page.id }}";
+</script>

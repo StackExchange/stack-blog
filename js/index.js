@@ -36,7 +36,12 @@ $(document).ready(function() {
 					if (post.draft) continue;
 					if (typeof channel !== 'undefined') {
 						if (post.tags.indexOf(channel) == - 1) {
-							continue
+							continue;
+						}
+					}
+					if (typeof author !== 'undefined') {
+						if (post.author != author) {
+							continue;
 						}
 					}
 					result.push(post);
