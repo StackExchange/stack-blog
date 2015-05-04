@@ -39,6 +39,3 @@ João was [a pro tempore moderator on Anime &amp; Manga SE](http://meta.anime.st
 You might be thinking: "Wait. *Operations Specialists*? I thought they were just handling emails." But that would be a waste of their considerable talents. Once João and Kyle have tackled team@, there's no telling how many new and efficient ways they'll find to help make our team better at supporting our communities.
 
 If ever you find yourself having to [contact us](http://meta.stackexchange.com/contact), it's likely that these brave souls will be fielding your request. Feel free to say hi, or tell them what the best part of your week has been so far!
-
-Jon was here!
-Rachel don't remove this!
