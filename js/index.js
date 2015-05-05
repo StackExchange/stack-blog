@@ -39,8 +39,8 @@ $(document).ready(function() {
 							continue;
 						}
 					}
-					if (typeof author !== 'undefined') {
-						if (post.author != author) {
+					if (typeof author_id !== 'undefined') {
+						if (post.author != author_id) {
 							continue;
 						}
 					}
