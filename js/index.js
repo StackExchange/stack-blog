@@ -28,7 +28,7 @@ $(document).ready(function() {
 				page = page_num;
 			}
 		}
-		$.get(prefix + "/json/index.json", function(response) {
+		$.getJSON(prefix + "/json/index.json", function(response) {
 			if (response) {
 				var result = [];
 				for (key in response.posts) {
