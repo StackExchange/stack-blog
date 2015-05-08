@@ -17,13 +17,11 @@ tags:
 
 The FAQ has contained [one key bit of advice](http://stackoverflow.com/faq#questions) from the very beginning:
 
-
-
 <blockquote>
-  It’s also perfectly fine to ask and answer your own question, as long as you pretend you’re on [_Jeopardy!_](http://en.wikipedia.org/wiki/Jeopardy!) -- phrase it in the form of a question.
-  
-  ![](/images/wordpress/jeopardy-set1.jpg)
+  It’s also perfectly fine to ask and answer your own question, as long as you pretend you’re on <a href="http://en.wikipedia.org/wiki/Jeopardy!"><em>Jeopardy!</em></a> -- phrase it in the form of a question.
 </blockquote>
+
+<img src="/images/wordpress/jeopardy-set1.jpg">
 
 
 
@@ -52,20 +50,14 @@ Friend of the company Dana Robinson recently wrote:
 
 
 <blockquote>
-  On a project I'm working on at my current job, I've come across some really pernicious problems where there is either
+  <p>On a project I'm working on at my current job, I've come across some really pernicious problems where there is either</p>
+   
+  <ul>
+  <li>no good information available or</li>
+  <li>the good information is buried under a sea of bad information.</li>
+  </ul>
   
-  
-> 
-> 
-  
->   * no good information available or 
-> 
-  
->   * the good information is buried under a sea of bad information.  
-> 
-  
-  
-  I've kept these issues in the back of my head and, now that that part of the project is winding down and the issues are resolved, I plan to go on Stack Overflow and create a high-value question and answer pair for each issue.  That way, the next person who has the problem won't have to slog through so much misinformation.  I might even learn some more about the various issues that plagued us if other experts chime in with their own knowledge.
+  <p>I've kept these issues in the back of my head and, now that that part of the project is winding down and the issues are resolved, I plan to go on Stack Overflow and create a high-value question and answer pair for each issue.  That way, the next person who has the problem won't have to slog through so much misinformation.  I might even learn some more about the various issues that plagued us if other experts chime in with their own knowledge.</p>
 </blockquote>
 
 
