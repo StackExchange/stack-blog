@@ -3,6 +3,7 @@ author: shog
 comments: true
 date: 2014-10-07 21:42:26+00:00
 layout: post
+hero: https://cloud.githubusercontent.com/assets/12239801/7544130/7832b152-f598-11e4-8d6f-86c9235f23f9.jpg
 redirect_from: /2014/10/new-editing-badges-and-enhancements-to-suggested-edits
 slug: new-editing-badges-and-enhancements-to-suggested-edits
 title: 'Editing is essential: new badges and review enhancements '
