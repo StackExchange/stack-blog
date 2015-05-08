@@ -5,6 +5,7 @@ date: 2015-01-27 19:04:16+00:00
 layout: post
 redirect_from: /2015/01/targeted-jobs-for-stack-overflow
 slug: targeted-jobs-for-stack-overflow
+hero: https://cloud.githubusercontent.com/assets/12239801/7543954/d38dcb4c-f596-11e4-9af8-cbedf394b233.jpg
 title: Targeted Jobs for Stack Overflow
 wordpress_id: 15318
 tags:
