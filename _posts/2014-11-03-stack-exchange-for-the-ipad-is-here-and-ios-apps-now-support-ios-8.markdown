@@ -4,7 +4,7 @@ comments: true
 date: 2014-11-03 19:57:22+00:00
 layout: post
 redirect_from: /2014/11/stack-exchange-for-the-ipad-is-here-and-ios-apps-now-support-ios-8
-hero: http://i.stack.imgur.com/z831f.png
+hero: https://cloud.githubusercontent.com/assets/12239801/7544101/2e031338-f598-11e4-92dd-5cd50a101249.jpg
 slug: stack-exchange-for-the-ipad-is-here-and-ios-apps-now-support-ios-8
 title: Stack Exchange for the iPad is here - and iOS apps now support iOS 8
 wordpress_id: 14850
