@@ -4,7 +4,7 @@ comments: true
 date: 2014-02-13 17:47:18+00:00
 layout: post
 redirect_from: /2014/02/cant-we-all-be-reasonable-and-speak-english
-hero: /images/wordpress/800px-Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_Vienna_-_Google_Art_Project_-_edited-300x219.jpg
+hero: https://cloud.githubusercontent.com/assets/1703653/7543067/ab205bb8-f58f-11e4-8820-18f05ed3cd37.jpg
 slug: cant-we-all-be-reasonable-and-speak-english
 title: Can't We All be Reasonable and Speak English?
 wordpress_id: 14473
@@ -21,33 +21,27 @@ Two weeks ago, we announced the public launch of [Stack Overflow in Portuguese](
 
 Wasn't the whole point of Stack Overflow to aggregate as much developer knowledge as possible _in one place?_ To get all the potential solutions _together_, and provide one canonical set of answers?
 
-[caption id="attachment_14476" align="alignright" width="300"][![](/images/wordpress/800px-Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_Vienna_-_Google_Art_Project_-_edited-300x219.jpg)](/images/wordpress/800px-Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_Vienna_-_Google_Art_Project_-_edited.jpg) We are aware that, "Let's all try speaking speaking different languages!" hasn't always worked out for the best.[/caption]
+<img src="/images/wordpress/800px-Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_Vienna_-_Google_Art_Project_-_edited-300x219.jpg" alt="We are aware that, 'Let's all try speaking speaking different languages!' hasn't always worked out for the best.">
 
 Yup. When we set out to "[collectively increase the sum total of good programming knowledge in the world](http://www.codinghorror.com/blog/2008/04/introducing-stackoverflow-com.html)," a big part of the plan was _de-fragmenting_ information previously spread across myriad books, sites, and your brains. It's why we mark things as duplicates - we want all the precious gems of knowledge stored in the same cave of wonders.
 
 So know this: we are at least as worried about fragmentation as you are. And we have a plan:
 
-**Eventually, _all of you_ are going to have to learn Portuguese.**
+**Eventually, *all of you* are going to have to learn Portuguese.**
 
 Okay, not really. But, given that one of our core goals was knowledge aggregation, it _does_ seem just a little bit crazypants to start launching sites in new languages, assuming that one very important fact is true:
 
 
 <blockquote>Assumption: All of the serious developers in the world are highly proficient in English.</blockquote>
 
-
 Which... actually sounds plausible. But it's wrong.
-
-
 
 	
   1. **Not every developer in the world speaks English.** Just reading the comments from our announcement, you'll see multiple readers sharing that they or their colleagues (and one dad) couldn't participate on SO due to language constraints. But data beat anecdotes. We don't have recent numbers for Brazil and Portugal, but we do for China, and they illustrate the same point:
-
 	
     * [10% of the world's programmers are in China](http://www.drdobbs.com/tools/planet-earth-has-185-million-developers/240165016)
-
 	
     * 1.4% of our visits come from China
-
 	
     * Only 4.8% of our visits come from China, Japan and Korea _combined_
 
@@ -64,8 +58,7 @@ There's just one problem. Try this:
 
 Again, I couldn't. Well, I came up with [Shigeru Miyamoto](http://en.wikipedia.org/wiki/Shigeru_Miyamoto). But he's apparently a designer. I couldn't _name_ even one. Not like I can _name_ Carmack or Stallman, or Hopper, or even "DHH." (Does DHH have an actual name? I personally imagine him as a very handsome, talented, fast-driving set of initials. But I digress.)
 
-Is it plausible that there aren't _any_ devs good enough to be famous from those countries? Nope. Here's what's happening:
-
+Is it plausible that there aren't *any* devs good enough to be famous from those countries? Nope. Here's what's happening:
 
 <blockquote>It's easy to assume that there aren't any devs who can't speak English because I never see any. But I never see any because I'm hanging around places where devs go _to talk to each other in English_.</blockquote>
 
