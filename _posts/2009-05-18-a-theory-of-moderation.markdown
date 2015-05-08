@@ -4,7 +4,7 @@ comments: true
 date: 2009-05-18 06:59:58+00:00
 layout: post
 redirect_from: /2009/05/a-theory-of-moderation
-hero: /images/wordpress/stackexchange-flag-post.png
+hero: https://cloud.githubusercontent.com/assets/1703653/7544566/2f3bf7fc-f59c-11e4-8a7e-29972b1b0c36.jpg
 slug: a-theory-of-moderation
 title: A Theory of Moderation
 wordpress_id: 1297
