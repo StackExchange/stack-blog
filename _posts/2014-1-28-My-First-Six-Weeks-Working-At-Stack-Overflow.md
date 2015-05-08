@@ -2,7 +2,7 @@
 layout: post
 title: My First Six Weeks Working at Stack Overflow
 author: jonhmchan
-hero: https://unsplash.imgix.net/40/OSASuBX1SGu4kb3ozvne_IMG_1088.jpg?q=75&fm=jpg&s=d6ce591c2de5ee7a465c856782fe765c
+hero: https://cloud.githubusercontent.com/assets/1703653/7543941/bca2caa4-f596-11e4-95ed-34ee2bf89164.jpg
 source: http://www.jonhmchan.com/blog/2014/1/16/my-first-six-weeks-working-at-stack-overflow
 tags:
  - engineering
