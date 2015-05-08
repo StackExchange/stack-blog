@@ -52,11 +52,8 @@ We knew what our goal was, and we had some idea how to start, but the entire thi
 
 
 <blockquote>
-
-> 
-> _It is by programmers, for programmers, **with the ultimate intent of collectively increasing the sum total of good programming knowledge in the world.** No matter what programming language you use, or what operating system you call home. Better programming is our goal._ (from [Introducing Stack Overflow](http://www.codinghorror.com/blog/2008/04/introducing-stackoverflow-com.html), emphasis added)
-> 
-> 
+<p>It is by programmers, for programmers, <strong>with the ultimate intent of collectively increasing the sum total of good programming knowledge in the world.</strong> No matter what programming language you use, or what operating system you call home. Better programming is our goal.</p>
+<p>- from <a href="http://www.codinghorror.com/blog/2008/04/introducing-stackoverflow-com.html">Introducing Stack Overflow</a></p>
 </blockquote>
 
 
@@ -75,7 +72,7 @@ It was a gamble: would people really take time out of their busy lives to answer
 Just kidding. At best, the points, and the gamification, and the focused structure of the site did little more than encourage people to keep doing what they were already doing. People came because they wanted to help other people, because they needed to learn something new, or because they wanted to show off the clever way they'd solved a problem.
 
 
-Which was lucky for us.  Because here's the crazy secret about gamification: ** In the history of the world, gamification has never gotten a single person do anything they didn't already basically like to do.**
+Which was lucky for us.  Because here's the crazy secret about gamification: **In the history of the world, gamification has never gotten a single person do anything they didn't already basically like to do.**
 
 
 In the midst of everyone's individual reason for coming, somewhere among the hundreds, and then thousands of people who showed up to answer each other’s questions and hammer out how the site should actually work, _the miracle actually occurred._
@@ -120,11 +117,7 @@ The next chapter of Stack Exchange is still being written. A few years ago, we w
 
 
 <blockquote>
-
-> 
-> _Make the Internet a better place to get expert answers to your questions._
-> 
-> 
+Make the Internet a better place to get expert answers to your questions.
 </blockquote>
 
 
