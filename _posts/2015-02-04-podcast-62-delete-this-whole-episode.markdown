@@ -4,7 +4,7 @@ comments: true
 date: 2015-02-04 20:00:01+00:00
 layout: post
 redirect_from: /2015/02/podcast-62-delete-this-whole-episode
-hero: http://cdn.sstatic.net/stackexchange/img/hiring/photos/big/1.jpg
+hero: https://cloud.githubusercontent.com/assets/12239801/7543865/08aaa008-f596-11e4-826a-253eb2ec0284.jpg
 slug: podcast-62-delete-this-whole-episode
 title: 'Podcast #62 - Delete This Whole Episode'
 wordpress_id: 15339

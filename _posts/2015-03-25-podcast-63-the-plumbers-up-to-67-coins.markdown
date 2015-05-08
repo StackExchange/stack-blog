@@ -4,7 +4,7 @@ comments: true
 date: 2015-03-25 20:00:01+00:00
 layout: post
 redirect_from: /2015/03/podcast-63-the-plumbers-up-to-67-coins/
-hero: http://i.imgur.com/wCTM1CS.jpg
+hero: https://cloud.githubusercontent.com/assets/12239801/7543823/a30079b2-f595-11e4-8463-c9f25dcfda81.jpg
 slug: podcast-63-the-plumbers-up-to-67-coins
 title: "Podcast #63 - The Plumber's Up To 67 Coins"
 tags:
