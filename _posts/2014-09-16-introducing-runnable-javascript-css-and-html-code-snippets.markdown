@@ -5,6 +5,7 @@ date: 2014-09-16 19:46:15+00:00
 layout: post
 redirect_from: /2014/09/introducing-runnable-javascript-css-and-html-code-snippets
 slug: introducing-runnable-javascript-css-and-html-code-snippets
+hero: https://cloud.githubusercontent.com/assets/12239801/7544187/fddf7380-f598-11e4-97dd-605ac9a7ae52.JPG
 title: Introducing Runnable JavaScript, CSS, and HTML Code Snippets
 wordpress_id: 14786
 tags:
