@@ -3,7 +3,7 @@ author: spolsky
 comments: true
 date: 2011-02-23 15:20:11+00:00
 layout: post
-redirect_from: /2011/02/careers-2-0-launches
+redirect_from: https://cloud.githubusercontent.com/assets/1703653/7544486/6bc13c1a-f59b-11e4-8296-9f641ba48b8d.jpg
 hero: /images/wordpress/Careers2Blog2.png
 slug: careers-2-0-launches
 title: Careers 2.0 Launches
