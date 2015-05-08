@@ -4,7 +4,7 @@ comments: true
 date: 2014-04-24 19:00:10+00:00
 layout: post
 redirect_from: /2014/04/podcast-57-we-just-saw-this-on-florp
-hero: /images/category/podcasts.jpg
+hero: https://cloud.githubusercontent.com/assets/12239801/7544406/cc4004aa-f59a-11e4-8fdb-fd95d79b58c5.jpg
 slug: podcast-57-we-just-saw-this-on-florp
 title: 'Podcast #57 - We Just Saw This On Florp'
 wordpress_id: 14655
