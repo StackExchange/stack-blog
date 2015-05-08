@@ -12,11 +12,11 @@ tags:
 
 I started working at [Stack Exchange](http://www.stackexchange.com/) (which many know for/as [Stack Overflow](http://stackoverflow.com/)) as a software developer just six weeks ago. This (lengthy) post is about a number of things: what it was like relearning a lot of what I know about web development, the challenges and resources I encountered doing so, and a few pointers others might benefit from on-boarding on a new development team.
 
-# About Me
+## About Me
 
 I think to grasp what this experience was like, it's useful to have some context. I won't go into all the details about joining (that's a whole other story), but just the necessary bits. Before I joined Stack, I was working at a [Big Four consulting firm](http://en.wikipedia.org/wiki/Big_Four_(audit_firms)) in their technology division straight out of college. After I built [Bento](https://www.bento.io/), I had the opportunity to join Stack, and I took it. What's also important is that I'm a self-taught developer. Pretty much everything i know is through online tutorials and some books.
 
-# Week 1 & 2: Learning Stack's stack
+## Week 1 & 2: Learning Stack's stack
 
 Here's a quick breakdown of the technologies I was used to before I joined Stack, and what I had to pick up:
 
@@ -48,7 +48,7 @@ One of the largest hurdles was switching database technologies. Of course, I kne
 
 Overall, in terms of learning, it was very similar to picking up any other stack I've wanted to. I think the biggest takeaway was just taking a peek at a faction of development I didn't really touch, and for some others, even shunned. I was switching sides on some age-old wars: Mac vs PC, dynamically vs statically typed languages, unstructured vs relational databases - and I have to say I've been [extremely impressed](http://nickcraver.com/blog/2013/11/22/what-it-takes-to-run-stack-overflow/) by how efficient everything is. As much as it may have pained me just a few months before to say this: I think Microsoft-based stacks get a pretty bad rep that's not entirely deserved.
 
-# Weeks 3 & 4: Learning Stack's version of the stack
+## Weeks 3 & 4: Learning Stack's version of the stack
 
 At this point, I felt pretty comfortable in the technologies in their "platonic" form, but I still didn't understand how everything was organized in Stack's actual codebase and configuration. Learning C# and .NET was just the beginning. Figuring out how it was done to make Stack Overflow what it is...that's s a completely different adventure. There are a number of different teams that work on different parts of the site, but I work specifically on the Careers team. It's newer than the core of the technology running the Q&A sites, and luckily there are more developers physically on site that I could poke when I had questions. Since I was working on an exercise project, it gave me plenty of time to explore and experiment without breaking anything. I also made the critical decision to branch the whole codebase and work inside of the existing environment for my project. Learning C# and .NET in an isolated way was not going to help me - what I needed to know was not about the technologies *per se*: it was about Stack itself.
 
@@ -58,7 +58,7 @@ Another thing was picking up style. One of the things you can't get just by borr
 
 The most important thing after scouring the internet and bothering my coworkers: mimicking. There was already a lot of code that I could study, and simply by following the conventions that were already followed in the existing codebase was incredibly useful. When you start noticing that "var" is used more often than you'd think, you start using it. When you notice that you need X, Y, and Z classes and interfaces to render a particular route, you start doing that with your own routes. By emulating and experimenting, I picked up most of the knowledge I needed.
 
-# Weeks 5 & 6: Jumping out the nest
+## Weeks 5 & 6: Jumping out the nest
 
 It was now time to jump off the deep-end. Stack has come up with something pretty ingenious to handle immediate issues. Every week, there's a rotation where one member of the team is assigned bug duty, and their main responsibility is to fix problems that come up on Meta, monitor the logs, answer sales requests, and anything else that needs to be attended to immediately. You drop everything.
 
@@ -66,7 +66,7 @@ After four weeks, it was my turn.
 
 For the first week, I had the help of another dev while I was tracking which bugs were coming up on the site, and getting a feel for all the monitoring systems we had in place. The week after, I was in the front line. This was a great opportunity to touch many of the dark corners of the codebase I hadn't been exposed to (and quite frankly, a little afraid to touch). It also gave me a chance to get real changes on the site, and in some cases, in rather significant ways. During my down time, I was busy setting up a completely different environment on my Mac that finally came, as well as putting finishing touches on my exercise project. There were a lot of moving parts that week.
 
-# Final Thoughts
+## Final Thoughts
 
 I've really enjoyed my time here so far - I can't say enough good things about working at Stack Exchange. I think that the on-boarding experience is much better than a lot of other places I've been exposed to, but there are a few things that I think would have been interesting additions:
 
