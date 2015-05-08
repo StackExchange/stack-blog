@@ -4,6 +4,7 @@ comments: true
 date: 2011-03-09 05:30:08+00:00
 layout: post
 redirect_from: /2011/03/a-new-name-for-stack-overflow-with-surprise-ending
+hero: https://cloud.githubusercontent.com/assets/1703653/7544605/90d9a64e-f59c-11e4-9cd2-d1557c5df944.jpg
 slug: a-new-name-for-stack-overflow-with-surprise-ending
 title: A New Name for Stack Overflow (with surprise ending)
 wordpress_id: 7439
