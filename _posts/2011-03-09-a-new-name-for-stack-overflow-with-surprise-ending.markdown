@@ -4,7 +4,6 @@ comments: true
 date: 2011-03-09 05:30:08+00:00
 layout: post
 redirect_from: /2011/03/a-new-name-for-stack-overflow-with-surprise-ending
-hero: http://blog.stackoverflow.com/wp-content/uploads/StackExchangeLogo1.png
 slug: a-new-name-for-stack-overflow-with-surprise-ending
 title: A New Name for Stack Overflow (with surprise ending)
 wordpress_id: 7439
@@ -23,7 +22,11 @@ There's a method behind this madness, of course: we want to emphasize the import
 
 That, plus, whenever [we told The New York Times](http://www.nytimes.com/2011/02/07/technology/07question.html) that we were "Stack Overflow," they would go to stackoverflow.com and have a heart attack. At least this way people wondering about the company understand that we're about more than just programmer questions. We have [Battlestar Galactica too!](http://scifi.stackexchange.com/questions/tagged/battlestar-galactica)
 
-Now the surprise ending. When [we first raised venture capital](http://blog.stackoverflow.com/2010/05/announcing-our-series-a/) way back in the long-ago year of 2010, we actually had quite a few great investors interested in buying our stock. And since then, the buzz hasn't abated. We were pretty sure that given the current market conditions, we could easily raise a big pile of new Unicorn-bucks without losing control of the company. ![12 million unicorn bucks](/images/wordpress/12-million-unicorn-bucks.jpg) We made a few phone calls, took a few meetings, I flew to London and Boston, and hey presto, we sold another $12 million worth of the company to some great investors.
+Now the surprise ending. When [we first raised venture capital](http://blog.stackoverflow.com/2010/05/announcing-our-series-a/) way back in the long-ago year of 2010, we actually had quite a few great investors interested in buying our stock. And since then, the buzz hasn't abated. We were pretty sure that given the current market conditions, we could easily raise a big pile of new Unicorn-bucks without losing control of the company.
+
+![12 million unicorn bucks](/images/wordpress/12-million-unicorn-bucks.jpg)
+
+We made a few phone calls, took a few meetings, I flew to London and Boston, and hey presto, we sold another $12 million worth of the company to some great investors.
 
 The new investors are [Index Ventures](http://www.indexventures.com/), based in Geneva and London, and [Spark Capital](http://sparkcapital.com/), based up in Boston. Our first investor, [Union Square Ventures](http://www.usv.com/), will also put in more money so as to keep the same ownership percentage that they had before (this is called a "pro-rata").
 
