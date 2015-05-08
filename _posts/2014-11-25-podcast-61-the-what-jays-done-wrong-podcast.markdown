@@ -4,7 +4,7 @@ comments: true
 date: 2014-11-25 19:37:42+00:00
 layout: post
 redirect_from: /2014/11/podcast-61-the-what-jays-done-wrong-podcast
-hero: /images/category/podcasts.jpg
+hero: https://cloud.githubusercontent.com/assets/12239801/7544037/84f1dde2-f597-11e4-81e0-4584a5ba2a93.jpg
 slug: podcast-61-the-what-jays-done-wrong-podcast
 title: 'Podcast #61 - The "What Jay''s Done Wrong" Podcast'
 wordpress_id: 14879
