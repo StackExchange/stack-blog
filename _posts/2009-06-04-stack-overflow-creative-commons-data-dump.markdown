@@ -4,7 +4,6 @@ comments: true
 date: 2009-06-04 09:56:51+00:00
 layout: post
 redirect_from: /2009/06/stack-overflow-creative-commons-data-dump
-hero: http://blog.stackoverflow.com/wp-content/uploads/cc-wiki-logo.png
 slug: stack-overflow-creative-commons-data-dump
 title: Stack Overflow Creative Commons Data Dump
 wordpress_id: 1432
@@ -27,64 +26,25 @@ All those great Stack Overflow questions, answers, and comments, so generously c
 
 
 <blockquote>
-
-> 
-> 
-<table >
-<tr >
-
-> <td >
-[![cc-wiki-logo](http://blog.stackoverflow.com/wp-content/uploads/cc-wiki-logo.png)](http://creativecommons.org/licenses/by-sa/3.0/)
-
-> </td>
-
-> <td style="padding-left:20px;" >
-
-> 
-> # cc-wiki license
-> 
-> 
-
-> </td>
+<table>
+<tr>
+<td>
+<a href="http://creativecommons.org/licenses/by-sa/3.0/" style="border-bottom:none;"><img src="https://cloud.githubusercontent.com/assets/1703653/7544722/b02d38de-f59d-11e4-8275-61f1637dfeed.png" alt="cc-wiki-logo" title="cc-wiki-logo"  border="0" /></a>
+</td>
+<td style="padding-left:20px;">
+<h1>cc-wiki license</h1>
+</td>
 </table>
-
-> 
-> 
-
-> 
-> ## You are free
-> 
-> 
-
-> 
-> 
-
-> 
-> 
-
->   * **to Share** -- to copy, distribute, and transmit the work
-
->   * **to Remix** -- to adapt the work
-
-
-> 
-> 
-
-> 
-> ## Under the following conditions
-> 
-> 
-
-> 
-> 
-
-> 
-> 
-
->   * **Attribution** -- You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).
-
->   * **Share Alike** -- If you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.
-
+<p><h2>You are free</h2>
+<ul>
+<li><b>to Share</b> &#8212; to copy, distribute, and transmit the work
+<li><b>to Remix</b> &#8212; to adapt the work
+</ul>
+<p><h2>Under the following conditions</h2>
+<ul>
+<li><b>Attribution</b> &#8212; You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).
+<li><b>Share Alike</b> &#8212; If you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.
+</ul>
 </blockquote>
 
 
@@ -134,47 +94,30 @@ And yes, it's still fun to say "data dump". **We look forward to seeing what the
 update: per this message from Cameron Parkins of Creative Commons, **cc-wiki is now an alias for cc-by-sa**.
 
 
-
-
-
-<blockquote>
-Hi Stack Overflow-ers,
-
-> 
-> 
-My name is Cameron Parkins - I do community outreach at Creative Commons and recently stumbled across your latest CC data dump.
-
-> 
-> 
-Very cool that you all are using CC! I wanted to give you a heads up that the license you've chosen, the "CC Wiki-License", isn't _really_ around any more. It is in the sense that [it links directly to our CC BY-SA license](http://creativecommons.org/licenses/by-sa/3.0/), but our attempt to brand it as a separate license for wikis never got off the ground. We don't use or promote it anymore and when we see it, we try and reach out to whoever is using it to let them know.
-
-> 
-> 
-Part of the problem is that the Wiki License doesn't carry any value, while our BY-SA license (which is what the wiki license is) has widespread community support around it. Would you all consider switching your indication as such?
-
-> 
-> 
-Let me know if you have any questions - would like to promote the project through our networks.
-
-> 
-> 
-Best,
-C
-
-> 
-> 
----
-Cameron Parkins
-Cultural Program Assistant
-Creative Commons
-
-> 
-> 
-[aim] cam3ran
-[work] www.creativecommons.org
-[linkedin] http://www.linkedin.com/in/cameronparkins
+<blockquote><p>
+Hi Stack Overflow-ers,</p>
+<p>
+My name is Cameron Parkins &#8211; I do community outreach at Creative Commons and recently stumbled across your latest CC data dump.</p>
+<p>
+Very cool that you all are using CC! I wanted to give you a heads up that the license you&#8217;ve chosen, the &#8220;CC Wiki-License&#8221;, isn&#8217;t <i>really</i> around any more. It is in the sense that <a href="http://creativecommons.org/licenses/by-sa/3.0/">it links directly to our CC BY-SA license</a>, but our attempt to brand it as a separate license for wikis never got off the ground. We don&#8217;t use or promote it anymore and when we see it, we try and reach out to whoever is using it to let them know.</p>
+<p>
+Part of the problem is that the Wiki License doesn&#8217;t carry any value, while our BY-SA license (which is what the wiki license is) has widespread community support around it. Would you all consider switching your indication as such?</p>
+<p>
+Let me know if you have any questions &#8211; would like to promote the project through our networks.</p>
+<p>
+Best,<br />
+C</p>
+<p>
+&#8212;<br />
+Cameron Parkins<br />
+Cultural Program Assistant<br />
+Creative Commons</p>
+<p>
+[aim] cam3ran<br />
+[work] www.creativecommons.org<br />
+[linkedin] http://www.linkedin.com/in/cameronparkins<br />
 [cc newsletter] http://creativecommons.org/about/newsletter
-</blockquote>
+</p></blockquote>
 
 
 
