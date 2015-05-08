@@ -3,6 +3,7 @@ author: shog
 comments: true
 date: 2014-04-08 21:02:35+00:00
 layout: post
+hero: https://cloud.githubusercontent.com/assets/12239801/7544393/a1135cb4-f59a-11e4-9f1f-f19dc83fa15e.jpg
 redirect_from: /2014/04/changes-and-guidelines-for-the-protected-question-status
 slug: changes-and-guidelines-for-the-protected-question-status
 title: Changes and guidelines for the Protected Question status
