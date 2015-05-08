@@ -52,9 +52,9 @@ That's right: Winter Bash is back for another three weeks of millinery-related 
 
 And it's _possible_ that there just might be a couple of secret ones, too. (By "it's possible," we mean  "there definitely are, because we made them, like with computer code and everything, so there's not really much doubt whatsoever.")
 
-**Hats are transferrable:** What? No, you can't _sell_ them to each other.** **Hats are transferrable across sites! ****You read that correctly: this year, if you earn a hat on any site, you can wear it on any participating Stack Exchange site. This was one of our most asked-for feature requests after last year's event, and it's a great way for everyone to highlight their achievements on their favorite site across the network.
+**Hats are transferrable:** What? No, you can't _sell_ them to each other.** Hats are transferrable across sites!** You read that correctly: this year, if you earn a hat on any site, you can wear it on any participating Stack Exchange site. This was one of our most asked-for feature requests after last year's event, and it's a great way for everyone to highlight their achievements on their favorite site across the network.
 
-**Hat position is adjustable on your face: **You remember how crushed you were after finally earning a mustache "hat," only to discover that on _your_ avatar, it was basically an _extremely_ dapper unibrow? NEVER AGAIN.
+**Hat position is adjustable on your face:** You remember how crushed you were after finally earning a mustache "hat," only to discover that on _your_ avatar, it was basically an _extremely_ dapper unibrow? NEVER AGAIN.
 
 
 [![](/images/wordpress/don-draper-position.png)](/images/wordpress/don-draper-position.png)
