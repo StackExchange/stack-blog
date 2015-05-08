@@ -4,7 +4,7 @@ comments: true
 date: 2014-01-29 11:01:23+00:00
 layout: post
 redirect_from: /2014/01/ola-mundo-announcing-stack-overflow-in-portuguese
-hero: /images/wordpress/hola-mundo-cedilla.png
+hero: https://cloud.githubusercontent.com/assets/1703653/7543545/47a6b0a6-f593-11e4-9ae2-c77646421c7d.jpg
 slug: ola-mundo-announcing-stack-overflow-in-portuguese
 title: Olá, Mundo!  Announcing Stack Overflow in Portuguese.
 wordpress_id: 14428
@@ -44,7 +44,7 @@ Nós não achávamos que o site em uma só língua seria um problema, afinal a m
 
 
 <blockquote>
-  Não estávamos escrevendo um manual técnico. _Estávamos construindo uma comunidade_.
+  Não estávamos escrevendo um manual técnico. <em>Estávamos construindo uma comunidade</em>.
 </blockquote>
 
 
