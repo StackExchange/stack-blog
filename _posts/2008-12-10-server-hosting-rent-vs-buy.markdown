@@ -4,7 +4,6 @@ comments: true
 date: 2008-12-10 06:59:19+00:00
 layout: post
 redirect_from: /2008/12/server-hosting-rent-vs-buy
-hero: http://blog.stackoverflow.com/wp-content/uploads/powered-by-crystaltech.png
 slug: server-hosting-rent-vs-buy
 title: Server Hosting -- Rent vs. Buy?
 wordpress_id: 157
