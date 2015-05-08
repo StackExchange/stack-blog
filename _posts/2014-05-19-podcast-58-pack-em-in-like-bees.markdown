@@ -4,7 +4,7 @@ comments: true
 date: 2014-05-19 19:00:11+00:00
 layout: post
 redirect_from: /2014/05/podcast-58-pack-em-in-like-bees
-hero: /images/category/podcasts.jpg
+hero: https://cloud.githubusercontent.com/assets/12239801/7544340/1bd31b20-f59a-11e4-8b75-3b3150f15671.JPG
 slug: podcast-58-pack-em-in-like-bees
 title: 'Podcast #58 - Pack ''Em In Like Bees'
 wordpress_id: 14709
