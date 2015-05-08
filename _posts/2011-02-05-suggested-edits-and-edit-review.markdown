@@ -4,7 +4,7 @@ comments: true
 date: 2011-02-05 20:26:12+00:00
 layout: post
 redirect_from: /2011/02/suggested-edits-and-edit-review
-hero: /images/wordpress/stackoverflow-venn-diagram.png
+hero: https://cloud.githubusercontent.com/assets/12239801/7544595/7fb59df0-f59c-11e4-950c-dbcf33156cd8.jpg
 slug: suggested-edits-and-edit-review
 title: Suggested Edits and Edit Review
 wordpress_id: 7114
