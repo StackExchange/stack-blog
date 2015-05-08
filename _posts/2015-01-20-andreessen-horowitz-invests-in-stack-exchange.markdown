@@ -4,7 +4,6 @@ comments: true
 date: 2015-01-20 16:59:33+00:00
 layout: post
 redirect_from: /2015/01/andreessen-horowitz-invests-in-stack-exchange
-hero: /blog/images/wordpress/Jerusalem-300x212.jpg
 slug: andreessen-horowitz-invests-in-stack-exchange
 title: Andreessen Horowitz Invests in Stack Exchange
 source: http://joelonsoftware.com/items/2015/01/20.html
@@ -84,7 +83,6 @@ In the five years since then, our users have built 133 communities. Stack Overfl
 
 
 
-![right-align](/blog/images/wordpress/Jerusalem-300x212.jpg)
 
 
 Stack Overflow is the big city in the middle. Because the programmer-city worked so well, people wanted to ask questions about other subjects, so we let them build other Q&A villages in the catchment area of the programmer-city. Some of these Q&A villages became cities of their own. The [math](http://math.stackexchange.com/) [cities](http://mathoverflow.net/) barely even have any programmers and they speak their own weird language. They are math-Jerusalem. They make us very proud. Even though they don’t directly serve programmers, we love them and they bring a little tear to our eyes, like the other little villages, and they’re certainly making the Internet—and the world—better, so we’re devoted to them.
@@ -134,7 +132,7 @@ We could just slow down our insane hiring pace and get profitable right now, but
 
 And let’s not forget Stack Overflow Careers. I believe it is, bar-none, the single best job board for developer candidates, which should automatically make it the best place for employers to find developer talent. There’s a LOT more to be done to serve developers here and we’re just getting warmed up.
 
-[![Scent](/blog/images/wordpress/Scent.png)](/blog/images/wordpress/Scent.png)
+
 
 
 
