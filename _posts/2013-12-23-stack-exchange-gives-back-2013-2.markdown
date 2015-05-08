@@ -4,7 +4,7 @@ comments: true
 date: 2013-12-23 22:08:24+00:00
 layout: post
 redirect_from: /2013/12/stack-exchange-gives-back-2013-2
-hero: /images/wordpress/SE-Gives-Back-2013-Blog2.png
+hero: https://cloud.githubusercontent.com/assets/1703653/7544157/b5ea0784-f598-11e4-8805-d01866cffe75.jpg
 slug: stack-exchange-gives-back-2013-2
 title: Stack Exchange Gives Back 2013
 wordpress_id: 14327
