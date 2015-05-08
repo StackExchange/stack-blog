@@ -4,7 +4,6 @@ comments: true
 date: 2014-03-03 19:49:25+00:00
 layout: post
 redirect_from: /2014/03/your-communities-list-is-now-customizable
-hero: http://i.stack.imgur.com/Jbt2w.png
 slug: your-communities-list-is-now-customizable
 title: Your communities list is now customizable
 wordpress_id: 14593
@@ -52,12 +51,9 @@ But click the edit button and the default rules no longer apply. Instead, you ca
 
   1. Add a community to the list by typing the name and clicking Add
 
-
   2. Repeat #1 to add as many as you want
 
-
   3. Change the order of communities in the list by clicking and dragging
-
 
   4. Click the Save button to apply your changes!
 
