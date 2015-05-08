@@ -11,12 +11,6 @@ tags:
 - company
 - cc-wiki-dump
 ---
-
-# 
-
-
-
-
 We’ve been publishing an [anonymized dump of all user-contributed Stack Exchange content](http://blog.stackoverflow.com/2009/06/stack-overflow-creative-commons-data-dump/) since 2009. Unfortunately, at the end of last year our former host, ClearBits, permanently shut down. So we set out to look for a new home for our data dumps, and today we’re happy to announce that the Internet Archive has agreed to host them:
 
 
@@ -32,7 +26,7 @@ We’ve been big fans of the Internet Archive for a long time, and we’re reall
 
 
 
-# Wait, what’s this data dump?
+## Wait, what’s this data dump?
 
 
 
@@ -47,63 +41,28 @@ Each site can be downloaded individually, and includes an archive with Posts, Us
 
 
 
-# What are the attribution requirements?
+## What are the attribution requirements?
 
 
 
 
 In keeping with the spirit of sharing and proper attribution, and as the “attribution” part of the CC BY-SA license, we require that you do the following when you use the data:
 
-
-
-
-
-
 	
-  1. 
+1. Visually indicate that the content is from the Stack Exchange network
 
+2. Link back to the original source question or answer
 
-Visually indicate that the content is from the Stack Exchange network
+3. Display the author names for each question and answer you show
 
-
-
-
-	
-  2. 
-
-
-Link back to the original source question or answer
-
-
-
-
-	
-  3. 
-
-
-Display the author names for each question and answer you show
-
-
-
-
-	
-  4. 
-
-
-Link back to the author’s user page
-
-
-
-
-
-
+4. Link back to the author’s user page
 
 Those links should be ordinary hyperlinks directly to the Stack Exchange site, without “nofollow” or any obfuscation or redirection tricks plainly visible on the page (we’re looking at you, content farms).
 
 
 
 
-# I’m too lazy to download this giant zip file. Can’t I just play with it online?
+## I’m too lazy to download this giant zip file. Can’t I just play with it online?
 
 
 
