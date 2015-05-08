@@ -3,6 +3,7 @@ author: david
 comments: true
 date: 2014-11-11 15:53:53+00:00
 layout: post
+hero: https://cloud.githubusercontent.com/assets/12239801/7544061/d8688cfa-f597-11e4-982a-daae71148d3b.JPG
 redirect_from: /2014/11/announcing-bosun-our-new-open-source-monitoring-alerting-system
 slug: announcing-bosun-our-new-open-source-monitoring-alerting-system
 title: Announcing Bosun, our new open source monitoring & alerting system
