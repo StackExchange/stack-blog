@@ -4,7 +4,7 @@ comments: true
 date: 2008-05-15 04:36:57+00:00
 layout: post
 redirect_from: /2008/05/recording-podcast-questions-using-your-telephone
-hero: /blog/images/wordpress/cinch-result-rss-feed-screenshot.png
+hero: /images/wordpress/cinch-result-rss-feed-screenshot.png
 slug: recording-podcast-questions-using-your-telephone
 title: Recording Podcast Questions Using Your Telephone
 wordpress_id: 39

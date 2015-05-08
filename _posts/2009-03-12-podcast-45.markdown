@@ -4,7 +4,7 @@ comments: true
 date: 2009-03-12 06:59:18+00:00
 layout: post
 redirect_from: /2009/03/podcast-45
-hero: /blog/images/category/podcasts.jpg
+hero: /images/category/podcasts.jpg
 slug: podcast-45
 title: 'Podcast #45'
 wordpress_id: 827

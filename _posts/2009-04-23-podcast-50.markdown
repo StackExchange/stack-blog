@@ -4,7 +4,7 @@ comments: true
 date: 2009-04-23 03:14:15+00:00
 layout: post
 redirect_from: /2009/04/podcast-50
-hero: /blog/images/category/podcasts.jpg
+hero: /images/category/podcasts.jpg
 slug: podcast-50
 title: 'Podcast #50'
 wordpress_id: 1108

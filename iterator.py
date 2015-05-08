@@ -13,7 +13,7 @@ for subdir, dirs, files in os.walk(rootdir):
         if re.search('podcast', filename):
             if not re.search('^hero: ', contents[6]):
                 print filename
-                contents.insert(6, 'hero: /blog/images/category/podcasts.jpg\n')
+                contents.insert(6, 'hero: /images/category/podcasts.jpg\n')
                 f = open(filename, "w")
                 f.write("".join(contents))
                 f.close()

@@ -4,7 +4,7 @@ comments: true
 date: 2011-06-15 19:26:04+00:00
 layout: post
 redirect_from: /2011/06/codeplex-and-other-gateway-drugs
-hero: /blog/images/wordpress/opensourcelinks.png
+hero: /images/wordpress/opensourcelinks.png
 slug: codeplex-and-other-gateway-drugs
 title: CodePlex and other Gateway Drugs
 wordpress_id: 8462

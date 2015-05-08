@@ -4,7 +4,7 @@ comments: true
 date: 2009-09-10 21:42:47+00:00
 layout: post
 redirect_from: /2009/09/podcast-67
-hero: /blog/images/category/podcasts.jpg
+hero: /images/category/podcasts.jpg
 slug: podcast-67
 title: 'Podcast #67'
 wordpress_id: 1949

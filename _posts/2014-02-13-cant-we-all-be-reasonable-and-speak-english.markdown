@@ -4,7 +4,7 @@ comments: true
 date: 2014-02-13 17:47:18+00:00
 layout: post
 redirect_from: /2014/02/cant-we-all-be-reasonable-and-speak-english
-hero: /blog/images/wordpress/800px-Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_Vienna_-_Google_Art_Project_-_edited-300x219.jpg
+hero: /images/wordpress/800px-Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_Vienna_-_Google_Art_Project_-_edited-300x219.jpg
 slug: cant-we-all-be-reasonable-and-speak-english
 title: Can't We All be Reasonable and Speak English?
 wordpress_id: 14473

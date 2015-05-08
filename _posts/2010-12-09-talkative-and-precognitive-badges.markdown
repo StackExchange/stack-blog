@@ -4,7 +4,7 @@ comments: true
 date: 2010-12-09 07:50:43+00:00
 layout: post
 redirect_from: /2010/12/talkative-and-precognitive-badges
-hero: /blog/images/wordpress/chat-header.png
+hero: /images/wordpress/chat-header.png
 slug: talkative-and-precognitive-badges
 title: Talkative and Precognitive Badges
 wordpress_id: 6331

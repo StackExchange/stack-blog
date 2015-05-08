@@ -4,7 +4,7 @@ comments: true
 date: 2009-07-15 06:59:30+00:00
 layout: post
 redirect_from: /2009/07/super-user-semi-private-beta-begins
-hero: /blog/images/wordpress/ewok-closeup.jpg
+hero: /images/wordpress/ewok-closeup.jpg
 slug: super-user-semi-private-beta-begins
 title: Super User Semi-Private Beta Begins
 wordpress_id: 1662

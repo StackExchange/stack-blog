@@ -4,7 +4,7 @@ comments: true
 date: 2012-12-20 14:51:44+00:00
 layout: post
 redirect_from: /2012/12/apptivate-ms-the-results-are-in
-hero: /blog/images/wordpress/blog-winners.png
+hero: /images/wordpress/blog-winners.png
 slug: apptivate-ms-the-results-are-in
 title: 'Apptivate.MS: the results are in!'
 wordpress_id: 12827

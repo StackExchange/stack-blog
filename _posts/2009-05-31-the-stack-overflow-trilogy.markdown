@@ -4,7 +4,7 @@ comments: true
 date: 2009-05-31 03:34:47+00:00
 layout: post
 redirect_from: /2009/05/the-stack-overflow-trilogy
-hero: /blog/images/wordpress/star-wars-poster1.jpg
+hero: /images/wordpress/star-wars-poster1.jpg
 slug: the-stack-overflow-trilogy
 title: The Stack Overflow Trilogy
 wordpress_id: 1368

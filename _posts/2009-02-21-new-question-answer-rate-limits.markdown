@@ -4,7 +4,7 @@ comments: true
 date: 2009-02-21 10:05:09+00:00
 layout: post
 redirect_from: /2009/02/new-question-answer-rate-limits
-hero: /blog/images/wordpress/stack-overflow-malicious-user.png
+hero: /images/wordpress/stack-overflow-malicious-user.png
 slug: new-question-answer-rate-limits
 title: New Question / Answer Rate Limits
 wordpress_id: 731

@@ -4,7 +4,7 @@ comments: true
 date: 2010-05-13 07:31:13+00:00
 layout: post
 redirect_from: /2010/05/our-brick-in-the-computer-history-museum-wall
-hero: /blog/images/wordpress/computer-history-museum-map-wall.png
+hero: /images/wordpress/computer-history-museum-map-wall.png
 slug: our-brick-in-the-computer-history-museum-wall
 title: Our Brick in the Computer History Museum Wall
 wordpress_id: 3193

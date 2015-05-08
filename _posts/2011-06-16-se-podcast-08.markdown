@@ -4,7 +4,7 @@ comments: true
 date: 2011-06-16 13:00:40+00:00
 layout: post
 redirect_from: /2011/06/se-podcast-08
-hero: /blog/images/category/podcasts.jpg
+hero: /images/category/podcasts.jpg
 slug: se-podcast-08
 title: 'SE Podcast #08'
 wordpress_id: 8477

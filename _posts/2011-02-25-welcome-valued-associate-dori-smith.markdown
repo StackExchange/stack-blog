@@ -4,7 +4,7 @@ comments: true
 date: 2011-02-25 16:03:45+00:00
 layout: post
 redirect_from: /2011/02/welcome-valued-associate-dori-smith
-hero: /blog/images/wordpress/Dori-Smith.jpg
+hero: /images/wordpress/Dori-Smith.jpg
 slug: welcome-valued-associate-dori-smith
 title: Welcome Valued Associate Dori Smith
 wordpress_id: 7319

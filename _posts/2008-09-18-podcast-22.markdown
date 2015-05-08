@@ -4,7 +4,7 @@ comments: true
 date: 2008-09-18 02:05:37+00:00
 layout: post
 redirect_from: /2008/09/podcast-22
-hero: /blog/images/category/podcasts.jpg
+hero: /images/category/podcasts.jpg
 slug: podcast-22
 title: 'Podcast #22'
 wordpress_id: 101

@@ -4,7 +4,7 @@ comments: true
 date: 2008-11-27 22:51:21+00:00
 layout: post
 redirect_from: /2008/11/podcast-31
-hero: /blog/images/category/podcasts.jpg
+hero: /images/category/podcasts.jpg
 slug: podcast-31
 title: 'Podcast #31'
 wordpress_id: 150

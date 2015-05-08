@@ -4,7 +4,7 @@ comments: true
 date: 2014-05-29 19:00:29+00:00
 layout: post
 redirect_from: /2014/05/podcast-59-hes-one-of-those-science-ists
-hero: /blog/images/category/podcasts.jpg
+hero: /images/category/podcasts.jpg
 slug: podcast-59-hes-one-of-those-science-ists
 title: 'Podcast #59 - The Decline and Fall of Stack Overflow'
 wordpress_id: 14722

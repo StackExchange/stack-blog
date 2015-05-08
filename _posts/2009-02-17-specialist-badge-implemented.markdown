@@ -4,7 +4,7 @@ comments: true
 date: 2009-02-17 10:14:51+00:00
 layout: post
 redirect_from: /2009/02/specialist-badge-implemented
-hero: /blog/images/wordpress/stackoverflow-tag-based-badges.png
+hero: /images/wordpress/stackoverflow-tag-based-badges.png
 slug: specialist-badge-implemented
 title: Specialist Badge Implemented
 wordpress_id: 683

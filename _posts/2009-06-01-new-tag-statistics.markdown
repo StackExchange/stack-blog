@@ -4,7 +4,7 @@ comments: true
 date: 2009-06-01 10:32:49+00:00
 layout: post
 redirect_from: /2009/06/new-tag-statistics
-hero: /blog/images/wordpress/tag-stats.png
+hero: /images/wordpress/tag-stats.png
 slug: new-tag-statistics
 title: New Tag Statistics
 wordpress_id: 1406

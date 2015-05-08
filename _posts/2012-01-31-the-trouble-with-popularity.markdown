@@ -4,7 +4,7 @@ comments: true
 date: 2012-01-31 21:00:58+00:00
 layout: post
 redirect_from: /2012/01/the-trouble-with-popularity
-hero: /blog/images/wordpress/007-java-ascii-art1.png
+hero: /images/wordpress/007-java-ascii-art1.png
 slug: the-trouble-with-popularity
 title: The Trouble With Popularity
 wordpress_id: 10875

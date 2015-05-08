@@ -4,7 +4,7 @@ comments: true
 date: 2011-11-21 01:42:55+00:00
 layout: post
 redirect_from: /2011/11/improved-reviewing
-hero: /blog/images/wordpress/review1.png
+hero: /images/wordpress/review1.png
 slug: improved-reviewing
 title: Improved Reviewing
 wordpress_id: 10219

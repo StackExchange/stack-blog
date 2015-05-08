@@ -4,7 +4,7 @@ comments: true
 date: 2008-10-06 08:24:56+00:00
 layout: post
 redirect_from: /2008/10/solving-the-fastest-gun-in-the-west-problem
-hero: /blog/images/wordpress/stackoverflow-new-answer-notification.png
+hero: /images/wordpress/stackoverflow-new-answer-notification.png
 slug: solving-the-fastest-gun-in-the-west-problem
 title: Solving the "Fastest Gun in the West" problem
 wordpress_id: 113

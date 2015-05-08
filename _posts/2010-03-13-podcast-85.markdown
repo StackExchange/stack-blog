@@ -4,7 +4,7 @@ comments: true
 date: 2010-03-13 03:38:54+00:00
 layout: post
 redirect_from: /2010/03/podcast-85
-hero: /blog/images/category/podcasts.jpg
+hero: /images/category/podcasts.jpg
 slug: podcast-85
 title: 'Podcast #85'
 wordpress_id: 2787

@@ -4,7 +4,7 @@ comments: true
 date: 2010-10-14 08:39:27+00:00
 layout: post
 redirect_from: /2010/10/new-question-migration-paths
-hero: /blog/images/wordpress/new-public-sites.png
+hero: /images/wordpress/new-public-sites.png
 slug: new-question-migration-paths
 title: New Question Migration Paths
 wordpress_id: 5633

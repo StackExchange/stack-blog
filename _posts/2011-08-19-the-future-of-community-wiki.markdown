@@ -4,7 +4,7 @@ comments: true
 date: 2011-08-19 21:05:48+00:00
 layout: post
 redirect_from: /2011/08/the-future-of-community-wiki
-hero: /blog/images/wordpress/community-wiki-checkbox.png
+hero: /images/wordpress/community-wiki-checkbox.png
 slug: the-future-of-community-wiki
 title: The Future of Community Wiki
 wordpress_id: 9312

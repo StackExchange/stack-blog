@@ -4,7 +4,7 @@ comments: true
 date: 2009-10-07 03:01:20+00:00
 layout: post
 redirect_from: /2009/10/stickers-for-stackers
-hero: /blog/images/wordpress/stack-overflow-stickers-mailed-stuff.jpg
+hero: /images/wordpress/stack-overflow-stickers-mailed-stuff.jpg
 slug: stickers-for-stackers
 title: Stickers for Stackers
 wordpress_id: 2015

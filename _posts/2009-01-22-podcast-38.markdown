@@ -4,7 +4,7 @@ comments: true
 date: 2009-01-22 03:10:48+00:00
 layout: post
 redirect_from: /2009/01/podcast-38
-hero: /blog/images/category/podcasts.jpg
+hero: /images/category/podcasts.jpg
 slug: podcast-38
 title: 'Podcast #38'
 wordpress_id: 464

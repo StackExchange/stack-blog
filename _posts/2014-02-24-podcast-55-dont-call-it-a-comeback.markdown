@@ -4,7 +4,7 @@ comments: true
 date: 2014-02-24 20:00:27+00:00
 layout: post
 redirect_from: /2014/02/podcast-55-dont-call-it-a-comeback
-hero: /blog/images/category/podcasts.jpg
+hero: /images/category/podcasts.jpg
 slug: podcast-55-dont-call-it-a-comeback
 title: 'Podcast #55 - Don''t Call It A Comeback'
 wordpress_id: 14579

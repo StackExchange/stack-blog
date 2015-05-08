@@ -4,7 +4,7 @@ comments: true
 date: 2009-08-25 12:35:58+00:00
 layout: post
 redirect_from: /2009/08/yet-another-reason-to-dislike-france
-hero: /blog/images/wordpress/le-france.png
+hero: /images/wordpress/le-france.png
 slug: yet-another-reason-to-dislike-france
 title: Yet Another Reason to Dislike France
 wordpress_id: 1894

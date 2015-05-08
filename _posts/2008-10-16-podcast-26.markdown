@@ -4,7 +4,7 @@ comments: true
 date: 2008-10-16 01:17:08+00:00
 layout: post
 redirect_from: /2008/10/podcast-26
-hero: /blog/images/category/podcasts.jpg
+hero: /images/category/podcasts.jpg
 slug: podcast-26
 title: 'Podcast #26'
 wordpress_id: 128

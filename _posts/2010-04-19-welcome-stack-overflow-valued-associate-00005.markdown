@@ -4,7 +4,7 @@ comments: true
 date: 2010-04-19 22:41:32+00:00
 layout: post
 redirect_from: /2010/04/welcome-stack-overflow-valued-associate-00005
-hero: /blog/images/wordpress/robert-cartaino.jpg
+hero: /images/wordpress/robert-cartaino.jpg
 slug: welcome-stack-overflow-valued-associate-00005
 title: 'Welcome Stack Overflow Valued Associate #00005'
 wordpress_id: 2948

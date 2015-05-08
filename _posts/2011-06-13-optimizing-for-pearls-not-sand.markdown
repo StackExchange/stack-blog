@@ -4,7 +4,7 @@ comments: true
 date: 2011-06-13 23:54:41+00:00
 layout: post
 redirect_from: /2011/06/optimizing-for-pearls-not-sand
-hero: /blog/images/wordpress/oyster-pearl.jpg
+hero: /images/wordpress/oyster-pearl.jpg
 slug: optimizing-for-pearls-not-sand
 title: Optimizing For Pearls, Not Sand
 wordpress_id: 8429

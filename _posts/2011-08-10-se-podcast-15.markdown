@@ -4,7 +4,7 @@ comments: true
 date: 2011-08-10 20:00:59+00:00
 layout: post
 redirect_from: /2011/08/se-podcast-15
-hero: /blog/images/category/podcasts.jpg
+hero: /images/category/podcasts.jpg
 slug: se-podcast-15
 title: 'SE Podcast #15 - Michael Natkin'
 wordpress_id: 9239

@@ -4,7 +4,7 @@ comments: true
 date: 2011-03-01 23:02:59+00:00
 layout: post
 redirect_from: /2011/03/redesigned-users-page
-hero: /blog/images/wordpress/new-user-page.png
+hero: /images/wordpress/new-user-page.png
 slug: redesigned-users-page
 title: Redesigned Users Page
 wordpress_id: 7369

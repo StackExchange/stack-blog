@@ -4,7 +4,7 @@ comments: true
 date: 2009-01-14 06:59:09+00:00
 layout: post
 redirect_from: /2009/01/where-in-the-world-do-stack-overflow-users-come-from
-hero: /blog/images/wordpress/stackoverflow-world-user-graph1.png
+hero: /images/wordpress/stackoverflow-world-user-graph1.png
 slug: where-in-the-world-do-stack-overflow-users-come-from
 title: Where In The World Do Stack Overflow Users Come From?
 wordpress_id: 418
