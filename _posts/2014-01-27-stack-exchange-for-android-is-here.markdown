@@ -4,7 +4,7 @@ comments: true
 date: 2014-01-27 17:36:23+00:00
 layout: post
 redirect_from: /2014/01/stack-exchange-for-android-is-here
-hero: http://i.stack.imgur.com/XUufS.png
+hero: https://cloud.githubusercontent.com/assets/1703653/7544041/963b3e7c-f597-11e4-86f6-d76f29e6a9fe.jpg
 slug: stack-exchange-for-android-is-here
 title: Stack Exchange for Android is here!
 wordpress_id: 14395
@@ -48,7 +48,7 @@ What? You’re an iPhone user? Don’t worry, the iPhone alpha is coming soon, p
 
 
 
-# One Feed to rule them all
+## One Feed to rule them all
 
 
 
@@ -99,7 +99,7 @@ The Feed scales to your activity: if you’re only participate on one site, it�
 
 
 
-# Notifications
+## Notifications
 
 
 
@@ -120,7 +120,7 @@ Don’t want those notifications? You can easily turn them on and off via settin
 
 
 
-# Search, Ask, Answer, Comment, and Vote
+## Search, Ask, Answer, Comment, and Vote
 
 
 
@@ -141,7 +141,7 @@ If you want, you can configure your phone to automatically open the app when cli
 
 
 
-# Why Android first? What about iPhone?
+## Why Android first? What about iPhone?
 
 
 
@@ -157,7 +157,7 @@ If you’re an iPhone user, [sign up for the iPhone alpha today](https://docs.go
 
 
 
-# What about tablet / chat / missing feature X?
+## What about tablet / chat / missing feature X?
 
 
 
@@ -168,7 +168,7 @@ This is just the first version, and we plan to keep working on both of the apps 
 
 
 
-# Let us know how we’re doing
+## Let us know how we’re doing
 
 
 
