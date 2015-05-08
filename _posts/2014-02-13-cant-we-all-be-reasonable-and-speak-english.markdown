@@ -89,7 +89,7 @@ Which... actually sounds plausible. But it's wrong.
 <li>
 <p><strong>Requiring that all aspiring devs "just go learn English" <em>first</em> isn't who we want to be.</strong></p>
 
-<p><img src="/images/wordpress/Griff3-300x215.jpg)](/images/wordpress/Griff3.jpg" alt="No child should be denied their chance to revolutionize tomorrow's input technologies."></p>
+<p><img src="/images/wordpress/Griff3-300x215.jpg" alt="No child should be denied their chance to revolutionize tomorrow's input technologies."></p>
 
 <p>Even if I believed that every programmer <em>must</em> eventually master English, it still wouldn't make any sense to make them do it <em>first</em>. I believe that everyone - everyone - who can really fall in love with programming should get a chance to. So pre-filtering for the ones willing to <em>learn a foreign freaking language</em> before they first sit down with a code editor to see if it lights some spark in them just feels wrong.Think of the children. The children!! Okay, last quiz, just for the native English speakers:</p>
 
