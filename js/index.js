@@ -128,7 +128,6 @@ $(document).ready(function() {
 
 			var auth = $("#authors-container .author-container:eq(" + i + ")");
 			if (auth && authors_posted.indexOf(author.twitter) == -1) {
-				console.log(author);
 				auth.find(".avatar-link").attr("href", author.url);
 				auth.find(".avatar").attr("src", author.avatar);
 				auth.find(".name-link").attr("href", author.url).html(author.name);
