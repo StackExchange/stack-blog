@@ -5,6 +5,7 @@ date: 2008-10-23 06:59:06+00:00
 layout: post
 redirect_from: /2008/10/stack-overflow-openid-case-study
 slug: stack-overflow-openid-case-study
+hero: https://cloud.githubusercontent.com/assets/12239801/7544640/c58a3746-f59c-11e4-965e-45d8cc707d4c.jpg
 title: Stack Overflow OpenID Case Study
 wordpress_id: 137
 tags:
