@@ -4,7 +4,7 @@ comments: true
 date: 2014-12-16 00:00:28+00:00
 layout: post
 redirect_from: /2014/12/stack-overflow-in-japanese
-hero:https://cloud.githubusercontent.com/assets/12239801/7544002/340e0b9e-f597-11e4-8d60-21d6d951d1a6.jpg
+hero: https://cloud.githubusercontent.com/assets/12239801/7544002/340e0b9e-f597-11e4-8d60-21d6d951d1a6.jpg
 slug: stack-overflow-in-japanese
 title: Stack Overflowへようこそ
 wordpress_id: 15036
