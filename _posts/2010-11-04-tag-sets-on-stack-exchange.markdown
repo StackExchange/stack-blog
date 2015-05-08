@@ -4,7 +4,7 @@ comments: true
 date: 2010-11-04 05:46:21+00:00
 layout: post
 redirect_from: /2010/11/tag-sets-on-stack-exchange
-hero: /blog/images/wordpress/stackexchange-tagset-example-1.png
+hero: /images/wordpress/stackexchange-tagset-example-1.png
 slug: tag-sets-on-stack-exchange
 title: Tag Sets on Stack Exchange
 wordpress_id: 6029

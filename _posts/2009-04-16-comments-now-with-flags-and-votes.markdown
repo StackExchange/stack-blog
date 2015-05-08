@@ -4,7 +4,7 @@ comments: true
 date: 2009-04-16 09:20:13+00:00
 layout: post
 redirect_from: /2009/04/comments-now-with-flags-and-votes
-hero: /blog/images/wordpress/stackoverflow-comment-flags-votes.png
+hero: /images/wordpress/stackoverflow-comment-flags-votes.png
 slug: comments-now-with-flags-and-votes
 title: 'Comments: Now with Flags and Votes'
 wordpress_id: 1066

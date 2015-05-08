@@ -4,7 +4,7 @@ comments: true
 date: 2008-07-12 10:04:44+00:00
 layout: post
 redirect_from: /2008/07/stack-overflow-badge-feedbac
-hero: /blog/images/wordpress/stackoverflow-badges-alpha.png
+hero: /images/wordpress/stackoverflow-badges-alpha.png
 slug: stack-overflow-badge-feedbac
 title: Stack Overflow Badge Feedback
 wordpress_id: 66

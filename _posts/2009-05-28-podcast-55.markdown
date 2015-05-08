@@ -4,7 +4,7 @@ comments: true
 date: 2009-05-28 14:55:55+00:00
 layout: post
 redirect_from: /2009/05/podcast-55
-hero: /blog/images/category/podcasts.jpg
+hero: /images/category/podcasts.jpg
 slug: podcast-55
 title: 'Podcast #55'
 wordpress_id: 1357

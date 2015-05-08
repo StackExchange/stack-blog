@@ -4,7 +4,7 @@ comments: true
 date: 2012-02-24 21:12:00+00:00
 layout: post
 redirect_from: /2012/02/stack-exchanges-greatest-hits
-hero: /blog/images/wordpress/eagles-greatest-hits-japanese.jpg
+hero: /images/wordpress/eagles-greatest-hits-japanese.jpg
 slug: stack-exchanges-greatest-hits
 title: Stack Exchange's Greatest Hits
 wordpress_id: 11143

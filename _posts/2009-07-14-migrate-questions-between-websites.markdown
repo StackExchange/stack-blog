@@ -4,7 +4,7 @@ comments: true
 date: 2009-07-14 10:03:17+00:00
 layout: post
 redirect_from: /2009/07/migrate-questions-between-websites
-hero: /blog/images/wordpress/stack-overflow-close-belongs-on-vote.png
+hero: /images/wordpress/stack-overflow-close-belongs-on-vote.png
 slug: migrate-questions-between-websites
 title: Migrate Questions Between Websites
 wordpress_id: 1649

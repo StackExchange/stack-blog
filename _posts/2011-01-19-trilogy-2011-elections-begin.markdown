@@ -4,7 +4,7 @@ comments: true
 date: 2011-01-19 00:19:43+00:00
 layout: post
 redirect_from: /2011/01/trilogy-2011-elections-begin
-hero: /blog/images/wordpress/vote-keyboard.jpg
+hero: /images/wordpress/vote-keyboard.jpg
 slug: trilogy-2011-elections-begin
 title: Trilogy 2011 Elections Begin
 wordpress_id: 6875

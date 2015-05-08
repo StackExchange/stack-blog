@@ -4,7 +4,7 @@ comments: true
 date: 2008-04-30 08:11:05+00:00
 layout: post
 redirect_from: /2008/04/logo-design-contest-winner
-hero: /blog/images/wordpress/stackoverflow-logo-300.png
+hero: /images/wordpress/stackoverflow-logo-300.png
 slug: logo-design-contest-winner
 title: Logo Design Contest Winner
 wordpress_id: 16

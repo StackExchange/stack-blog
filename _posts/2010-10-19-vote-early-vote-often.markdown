@@ -4,7 +4,7 @@ comments: true
 date: 2010-10-19 14:41:33+00:00
 layout: post
 redirect_from: /2010/10/vote-early-vote-often
-hero: /blog/images/wordpress/voting-controls.png
+hero: /images/wordpress/voting-controls.png
 slug: vote-early-vote-often
 title: Vote Early, Vote Often
 wordpress_id: 5697

@@ -4,7 +4,7 @@ comments: true
 date: 2009-03-21 11:00:09+00:00
 layout: post
 redirect_from: /2009/03/more-voting-anomalies
-hero: /blog/images/wordpress/examining-vote-chad.jpg
+hero: /images/wordpress/examining-vote-chad.jpg
 slug: more-voting-anomalies
 title: More Voting Anomalies
 wordpress_id: 897

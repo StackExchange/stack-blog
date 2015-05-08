@@ -3,7 +3,7 @@ author: jeffatwood
 comments: true
 date: 2008-07-30 17:54:32+00:00
 redirect_from: /2008/07/podcast-16
-hero: /blog/images/category/podcasts.jpg
+hero: /images/category/podcasts.jpg
 layout: post
 slug: podcast-16
 title: 'Podcast #16'

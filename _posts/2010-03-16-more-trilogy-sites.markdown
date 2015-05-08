@@ -4,7 +4,7 @@ comments: true
 date: 2010-03-16 17:53:41+00:00
 layout: post
 redirect_from: /2010/03/more-trilogy-sites
-hero: /blog/images/wordpress/mustard-costume.jpg
+hero: /images/wordpress/mustard-costume.jpg
 slug: more-trilogy-sites
 title: More Trilogy Sites?
 wordpress_id: 2807

@@ -4,7 +4,7 @@ comments: true
 date: 2009-01-30 11:02:23+00:00
 layout: post
 redirect_from: /2009/01/updated-wmd-editor
-hero: /blog/images/wordpress/wmd-toolbar-http-request-count-before.png
+hero: /images/wordpress/wmd-toolbar-http-request-count-before.png
 slug: updated-wmd-editor
 title: Updated WMD Editor
 wordpress_id: 580

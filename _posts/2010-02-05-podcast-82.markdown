@@ -4,7 +4,7 @@ comments: true
 date: 2010-02-05 23:59:56+00:00
 layout: post
 redirect_from: /2010/02/podcast-82
-hero: /blog/images/category/podcasts.jpg
+hero: /images/category/podcasts.jpg
 slug: podcast-82
 title: 'Podcast #82'
 wordpress_id: 2703

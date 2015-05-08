@@ -4,7 +4,7 @@ comments: true
 date: 2009-01-08 04:49:52+00:00
 layout: post
 redirect_from: /2009/01/podcast-36
-hero: /blog/images/category/podcasts.jpg
+hero: /images/category/podcasts.jpg
 slug: podcast-36
 title: 'Podcast #36'
 wordpress_id: 340

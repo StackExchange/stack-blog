@@ -4,7 +4,7 @@ comments: true
 date: 2008-12-24 12:46:53+00:00
 layout: post
 redirect_from: /2008/12/a-stack-overflow-holiday
-hero: /blog/images/wordpress/tempest_holiday.jpg
+hero: /images/wordpress/tempest_holiday.jpg
 slug: a-stack-overflow-holiday
 title: A Stack Overflow Holiday
 wordpress_id: 185

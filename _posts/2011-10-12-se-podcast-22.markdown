@@ -4,7 +4,7 @@ comments: true
 date: 2011-10-12 19:00:19+00:00
 layout: post
 redirect_from: /2011/10/se-podcast-22
-hero: /blog/images/category/podcasts.jpg
+hero: /images/category/podcasts.jpg
 slug: se-podcast-22
 title: 'SE Podcast #22 - Paul Biggar'
 wordpress_id: 10044

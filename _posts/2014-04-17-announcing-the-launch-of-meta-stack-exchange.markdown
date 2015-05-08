@@ -4,7 +4,7 @@ comments: true
 date: 2014-04-17 13:22:03+00:00
 layout: post
 redirect_from: /2014/04/announcing-the-launch-of-meta-stack-exchange
-hero: /blog/images/wordpress/Meta-Stack-Overflow.png
+hero: /images/wordpress/Meta-Stack-Overflow.png
 slug: announcing-the-launch-of-meta-stack-exchange
 title: Announcing The Launch Of Meta Stack Exchange
 wordpress_id: 14633

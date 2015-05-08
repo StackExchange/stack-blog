@@ -4,7 +4,7 @@ comments: true
 date: 2010-03-31 23:06:04+00:00
 layout: post
 redirect_from: /2010/03/reminder-its-april-1st
-hero: /blog/images/wordpress/unicornify-stackoverflow-eric-lippert1.png
+hero: /images/wordpress/unicornify-stackoverflow-eric-lippert1.png
 slug: reminder-its-april-1st
 title: 'Reminder: It''s April 1st'
 wordpress_id: 2880

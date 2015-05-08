@@ -4,7 +4,7 @@ comments: true
 date: 2011-11-23 20:00:33+00:00
 layout: post
 redirect_from: /2011/11/se-podcast-28-brent-ozar
-hero: /blog/images/category/podcasts.jpg
+hero: /images/category/podcasts.jpg
 slug: se-podcast-28-brent-ozar
 title: 'SE Podcast #28 - Brent Ozar'
 wordpress_id: 10237

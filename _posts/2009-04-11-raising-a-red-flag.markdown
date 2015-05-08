@@ -4,7 +4,7 @@ comments: true
 date: 2009-04-11 11:29:00+00:00
 layout: post
 redirect_from: /2009/04/raising-a-red-flag
-hero: /blog/images/wordpress/craigslist-flagging.png
+hero: /images/wordpress/craigslist-flagging.png
 slug: raising-a-red-flag
 title: Raising a Red Flag
 wordpress_id: 1011

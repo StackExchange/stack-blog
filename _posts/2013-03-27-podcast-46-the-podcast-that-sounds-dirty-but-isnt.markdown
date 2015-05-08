@@ -4,7 +4,7 @@ comments: true
 date: 2013-03-27 21:14:59+00:00
 layout: post
 redirect_from: /2013/03/podcast-46-the-podcast-that-sounds-dirty-but-isnt
-hero: /blog/images/category/podcasts.jpg
+hero: /images/category/podcasts.jpg
 slug: podcast-46-the-podcast-that-sounds-dirty-but-isnt
 title: 'Podcast #46 - The Podcast That Sounds Dirty But Isn''t'
 wordpress_id: 13238

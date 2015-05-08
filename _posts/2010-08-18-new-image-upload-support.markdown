@@ -4,7 +4,7 @@ comments: true
 date: 2010-08-18 00:03:25+00:00
 layout: post
 redirect_from: /2010/08/new-image-upload-support
-hero: /blog/images/wordpress/native-image-uploads-imgur.png
+hero: /images/wordpress/native-image-uploads-imgur.png
 slug: new-image-upload-support
 title: New Image Upload Support
 wordpress_id: 4700

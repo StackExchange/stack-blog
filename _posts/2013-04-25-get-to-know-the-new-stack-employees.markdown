@@ -4,7 +4,7 @@ comments: true
 date: 2013-04-25 19:51:29+00:00
 layout: post
 redirect_from: /2013/04/get-to-know-the-new-stack-employees
-hero: /blog/images/wordpress/Brady-Jessica.jpg
+hero: /images/wordpress/Brady-Jessica.jpg
 slug: get-to-know-the-new-stack-employees
 title: Get to know the new Stack employees
 wordpress_id: 13284

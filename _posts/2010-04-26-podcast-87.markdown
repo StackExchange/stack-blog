@@ -4,7 +4,7 @@ comments: true
 date: 2010-04-26 21:04:22+00:00
 layout: post
 redirect_from: /2010/04/podcast-87
-hero: /blog/images/category/podcasts.jpg
+hero: /images/category/podcasts.jpg
 slug: podcast-87
 title: 'Podcast #87'
 wordpress_id: 3008

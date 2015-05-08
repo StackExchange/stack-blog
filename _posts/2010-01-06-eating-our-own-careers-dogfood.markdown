@@ -4,7 +4,7 @@ comments: true
 date: 2010-01-06 00:19:09+00:00
 layout: post
 redirect_from: /2010/01/eating-our-own-careers-dogfood
-hero: /blog/images/wordpress/dogfood.jpg
+hero: /images/wordpress/dogfood.jpg
 slug: eating-our-own-careers-dogfood
 title: Eating Our Own Careers Dogfood
 wordpress_id: 2454

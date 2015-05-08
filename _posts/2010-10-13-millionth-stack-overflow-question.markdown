@@ -4,7 +4,7 @@ comments: true
 date: 2010-10-13 04:26:19+00:00
 layout: post
 redirect_from: /2010/10/millionth-stack-overflow-question
-hero: /blog/images/wordpress/one-million-questions.png
+hero: /images/wordpress/one-million-questions.png
 slug: millionth-stack-overflow-question
 title: Millionth Stack Overflow Question
 wordpress_id: 5554

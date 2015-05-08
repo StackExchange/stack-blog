@@ -4,7 +4,7 @@ comments: true
 date: 2011-08-17 15:00:04+00:00
 layout: post
 redirect_from: /2011/08/the-se-podcast-setup
-hero: /blog/images/wordpress/Whole-Setup-1024x403.jpg
+hero: /images/wordpress/Whole-Setup-1024x403.jpg
 slug: the-se-podcast-setup
 title: The SE Podcast Setup
 wordpress_id: 9049

@@ -4,7 +4,7 @@ comments: true
 date: 2008-06-11 23:15:22+00:00
 layout: post
 redirect_from: /2008/06/podcast-9
-hero: /blog/images/category/podcasts.jpg
+hero: /images/category/podcasts.jpg
 slug: podcast-9
 title: 'Podcast #9'
 wordpress_id: 51

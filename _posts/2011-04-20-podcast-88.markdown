@@ -4,7 +4,7 @@ comments: true
 date: 2011-04-20 15:32:37+00:00
 layout: post
 redirect_from: /2011/04/podcast-88
-hero: /blog/images/wordpress/SNAG-0001-300x211.png
+hero: /images/wordpress/SNAG-0001-300x211.png
 slug: podcast-88
 title: 'SE Podcast #01'
 wordpress_id: 7822

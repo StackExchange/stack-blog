@@ -4,7 +4,7 @@ comments: true
 date: 2010-01-16 15:24:06+00:00
 layout: post
 redirect_from: /2010/01/new-improved-comments-with-reply
-hero: /blog/images/wordpress/comments-mini-markdown.png
+hero: /images/wordpress/comments-mini-markdown.png
 slug: new-improved-comments-with-reply
 title: New, Improved Comments with @reply
 wordpress_id: 2578

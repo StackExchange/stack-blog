@@ -4,7 +4,7 @@ comments: true
 date: 2011-07-11 08:55:43+00:00
 layout: post
 redirect_from: /2011/07/faster-edits-with-inline-editing
-hero: /blog/images/wordpress/regular-edits-stack-overflow-feb-july-2011.png
+hero: /images/wordpress/regular-edits-stack-overflow-feb-july-2011.png
 slug: faster-edits-with-inline-editing
 title: Faster Edits with Inline Editing
 wordpress_id: 8702

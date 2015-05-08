@@ -4,7 +4,7 @@ comments: true
 date: 2009-06-16 06:46:33+00:00
 layout: post
 redirect_from: /2009/06/the-perfect-web-spider-storm
-hero: /blog/images/wordpress/stackoverflow-cacti-graph-june-15-2009.png
+hero: /images/wordpress/stackoverflow-cacti-graph-june-15-2009.png
 slug: the-perfect-web-spider-storm
 title: The Perfect Web Spider Storm
 wordpress_id: 1476

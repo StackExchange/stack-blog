@@ -4,7 +4,7 @@ comments: true
 date: 2011-05-31 21:46:28+00:00
 layout: post
 redirect_from: /2011/05/community-promotion-ads
-hero: /blog/images/wordpress/promotion-ad-in-situ1.png
+hero: /images/wordpress/promotion-ad-in-situ1.png
 slug: community-promotion-ads
 title: Community Promotion Ads
 wordpress_id: 8261

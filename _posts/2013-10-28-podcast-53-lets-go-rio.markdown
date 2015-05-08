@@ -4,7 +4,7 @@ comments: true
 date: 2013-10-28 18:20:25+00:00
 layout: post
 redirect_from: /2013/10/podcast-53-lets-go-rio
-hero: /blog/images/category/podcasts.jpg
+hero: /images/category/podcasts.jpg
 slug: podcast-53-lets-go-rio
 title: 'Podcast #53 - Let''s Go Rio'
 wordpress_id: 14186

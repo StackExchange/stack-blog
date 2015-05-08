@@ -4,7 +4,7 @@ comments: true
 date: 2008-11-13 01:30:07+00:00
 layout: post
 redirect_from: /2008/11/podcast-29
-hero: /blog/images/category/podcasts.jpg
+hero: /images/category/podcasts.jpg
 slug: podcast-29
 title: 'Podcast #29'
 wordpress_id: 147

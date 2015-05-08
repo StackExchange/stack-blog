@@ -4,7 +4,7 @@ comments: true
 date: 2010-10-07 19:57:50+00:00
 layout: post
 redirect_from: /2010/10/membership-has-its-privileges
-hero: /blog/images/wordpress/8-bit-congratulations-treasure-island.png
+hero: /images/wordpress/8-bit-congratulations-treasure-island.png
 slug: membership-has-its-privileges
 title: Membership Has Its Privileges
 wordpress_id: 5447

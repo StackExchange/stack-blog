@@ -4,7 +4,7 @@ comments: true
 date: 2009-08-23 11:13:09+00:00
 layout: post
 redirect_from: /2009/08/new-question-asker-features
-hero: /blog/images/wordpress/question-owner-accept-rate.png
+hero: /images/wordpress/question-owner-accept-rate.png
 slug: new-question-asker-features
 title: New Question Asker Features
 wordpress_id: 1875

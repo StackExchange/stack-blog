@@ -4,7 +4,7 @@ comments: true
 date: 2010-10-14 14:17:36+00:00
 layout: post
 redirect_from: /2010/10/the-best-damn-careers-site
-hero: /blog/images/wordpress/lolcat-job-300x236.jpg
+hero: /images/wordpress/lolcat-job-300x236.jpg
 slug: the-best-damn-careers-site
 title: The Best Damn Careers Site
 wordpress_id: 5591

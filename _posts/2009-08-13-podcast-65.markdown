@@ -4,7 +4,7 @@ comments: true
 date: 2009-08-13 01:29:05+00:00
 layout: post
 redirect_from: /2009/08/podcast-65
-hero: /blog/images/category/podcasts.jpg
+hero: /images/category/podcasts.jpg
 slug: podcast-65
 title: 'Podcast #65'
 wordpress_id: 1838

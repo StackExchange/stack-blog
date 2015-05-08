@@ -4,7 +4,7 @@ comments: true
 date: 2008-06-30 15:54:46+00:00
 layout: post
 redirect_from: /2008/06/listen-to-podcasts-in-less-time
-hero: /blog/images/wordpress/windows-media-player-fast-playback.png
+hero: /images/wordpress/windows-media-player-fast-playback.png
 slug: listen-to-podcasts-in-less-time
 title: Listen to Podcasts in Less Time
 wordpress_id: 61
