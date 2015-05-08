@@ -13,7 +13,7 @@ tags:
 
 Every year we ask our users to tell us a little about themselves. This year we asked our users to tell us a lot.
 
-For 2 weeks in February 2015, we ran a 45 question survey. We asked where you live, what programming languages & frameworks you use, how much money you make, how much coffee you drink, and whether you prefer tabs or spaces when writing code.**More than 26,000 of you responded**, making this year's survey quite possibly the most authoritative developer survey ever conducted.
+For 2 weeks in February 2015, we ran a 45 question survey. We asked where you live, what programming languages & frameworks you use, how much money you make, how much coffee you drink, and whether you prefer tabs or spaces when writing code. **More than 26,000 of you responded**, making this year's survey quite possibly the most authoritative developer survey ever conducted.
 
 A few findings:
 
