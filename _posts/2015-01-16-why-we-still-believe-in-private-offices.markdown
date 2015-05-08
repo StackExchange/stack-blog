@@ -20,8 +20,8 @@ There was a time where it seemed like we barely even needed to talk about this: 
 
 
 [![](http://i.stack.imgur.com/1qD5w.png)](http://www.joelonsoftware.com/articles/BionicOffice.html)
-_The original Fog Creek [Bionic Office](http://www.joelonsoftware.com/articles/BionicOffice.html), way back in ye olde 2003. We   
-didn't have iPhones, but at least the offices had doors._
+
+_The original Fog Creek [Bionic Office](http://www.joelonsoftware.com/articles/BionicOffice.html), way back in ye olde 2003. We didn't have iPhones, but at least the offices had doors._
 
 
 
@@ -70,6 +70,7 @@ Everybody has their own rhythm. People come in at different times, take breaks a
 
 
 [![](http://i.stack.imgur.com/OGdGk.png)](http://i.stack.imgur.com/yLpKY.jpg)
+
 _Motorized standing/sitting desks come standard, including for remote employees._
 
 
@@ -117,6 +118,7 @@ This really is the best of both worlds, and one of the reasons that I’m a big 
 
 
 [![](http://i.stack.imgur.com/7WPyJ.jpg)](http://i.stack.imgur.com/joQex.jpg)
+
 _Glass walls let in tons of natural light. It's not as creepy as you think._
 
 
@@ -154,6 +156,7 @@ Finally we have an [annual engineering + community team meetup](https://twitter.
 
 
 [![](http://i.stack.imgur.com/R4OVZ.jpg)](http://i.stack.imgur.com/dlW0T.jpg)
+
 _Lunch served every day at Stack Exchange._
 
 
@@ -185,6 +188,7 @@ In closing, I’ll leave you with a few choice pictures of our office. If you'd 
 
 
 [![](http://i.stack.imgur.com/FC8Qs.jpg)](http://i.stack.imgur.com/oajqv.jpg)
+
 _Serious work being done._
 
 
@@ -192,6 +196,7 @@ _Serious work being done._
 
 
 [![](http://i.stack.imgur.com/FnnXk.jpg)](http://i.stack.imgur.com/pnGux.jpg)
+
 _Obligatory ping-pong table._
 
 
@@ -199,6 +204,7 @@ _Obligatory ping-pong table._
 
 
 [![](http://i.stack.imgur.com/G1RHc.jpg)](http://i.stack.imgur.com/UPdHB.jpg)
+
 _Meeting space and cluster of offices. Would also qualify for [Random Cups at Stack Exchange](http://randomcupsatstackexchange.tumblr.com/)_
 
 
@@ -206,6 +212,7 @@ _Meeting space and cluster of offices. Would also qualify for [Random Cups at St
 
 
 [![](http://i.stack.imgur.com/ikwji.jpg)](http://i.stack.imgur.com/XhoAb.jpg)
+
 _Can't beat that view._
 
 
@@ -218,6 +225,7 @@ Oh, and if you're worried about our remote developers, we make sure to set them 
 
 
 [![](http://i.stack.imgur.com/HP5uL.jpg)](http://i.stack.imgur.com/DLJDh.jpg)
+
 _A [remote developer](http://stackoverflow.com/users/2/geoff-dalgas)'s home setup._
 
 
@@ -225,6 +233,7 @@ _A [remote developer](http://stackoverflow.com/users/2/geoff-dalgas)'s home setu
 
 
 [![](http://i.stack.imgur.com/MTxLE.jpg)](http://i.stack.imgur.com/Q2Blh.jpg)
+
 _Obviously a [designer](http://graphicdesign.stackexchange.com/users/3/jin). And yes, he has a sketch of himself on his wall._
 
 
