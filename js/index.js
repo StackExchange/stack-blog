@@ -76,7 +76,9 @@ $(document).ready(function() {
 
 		page = page_num;
 
-		window.location.hash = "#page" + page_num.toString();
+		if (typeof pagination !== 'undefined' && pagination === true) {
+			window.location.hash = "#page" + page_num.toString();
+		}
 
 		var next = page_num + 1;
 		var previous = page_num - 1;
