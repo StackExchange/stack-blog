@@ -4,7 +4,7 @@ comments: true
 date: 2014-07-16 19:00:44+00:00
 layout: post
 redirect_from: /2014/07/podcast-60-are-we-that-predictable
-hero: http://blog.stackoverflow.com/wp-content/uploads/podcast-og.png
+hero: https://cloud.githubusercontent.com/assets/12239801/7544421/ee57b6aa-f59a-11e4-8d24-4cf85b5646a9.jpg
 slug: podcast-60-are-we-that-predictable
 title: 'Podcast #60: Are We That Predictable?'
 wordpress_id: 14732
