@@ -15,7 +15,7 @@ tags:
 
 This **Saturday, October 23rd**, starting at about 2 PM Pacific, we will be migrating all of our primary sites from the **Corvallis, OR** datacenter to the **New York, NY** datacenter.
 
-![](/blog/images/wordpress/oregon-to-nyc-server-trail.png)
+![](/images/wordpress/oregon-to-nyc-server-trail.png)
 
 Please be advised that this is a major move, and while we will do everything we can to prevent major service interruptions (largely with a read-only site mode we're introducing), **there may be a few hours of unavoidable downtime**.
 

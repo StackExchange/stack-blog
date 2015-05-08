@@ -34,7 +34,7 @@ And, in a very broad sense, it's there to promote camaraderie and cross-pollinat
 
 We now support a form of **global authentication** across the entire network, so when you visit stackexchange.com, as long as you've recently logged in to _any_ site in our network, you should get automatically logged in, like so:
 
-![](/blog/images/wordpress/automatic-global-login.png)
+![](/images/wordpress/automatic-global-login.png)
 
 Automatic logins are necessary to support our most requested stackexchange.com feature: **customization!** Largely through [Tag Filters](http://blog.stackoverflow.com/2011/04/improved-tag-sets/). 
 
@@ -59,7 +59,7 @@ Site moderators, take note: new users who find your community and generate signi
 
 We also show **reputation spectrums for the specified league interval**.
 
-![](/blog/images/wordpress/se-reputation-spectrums.png)
+![](/images/wordpress/se-reputation-spectrums.png)
 
 This is an indication of how well the site's overall reputation economy is doing, and indirectly, how much voting and activity is going on. It's instructive to compare the numbers generated from stackoverflow.com here to the other sites, just so you can see the big city / small city / new town economy dynamics at work. In particular, one of the key numbers here is how many editors (2k rep) and closers (3k rep) you have.
 

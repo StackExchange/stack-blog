@@ -16,7 +16,7 @@ tags:
 2012 has come and gone, and we have accomplished many incredible things together. Our little corner of the Internet has changed the way people teach and share information with their peers. This has become a place to share the interests you are passionate about — a place to get better what you do, and you do it all with a bit of fun and humor and a chance to show off a bit on occasion.
 
 
-![](/blog/images/wordpress/new-years-2013-300x228.png)
+![](/images/wordpress/new-years-2013-300x228.png)
 
 
 But the biggest motivation that drives what we do is a sense of _purpose_ — a sense that we are _all_ doing something really important here. Stack Exchange isn't created from the hard work of one individual. It takes the collective effort of much larger community working together.

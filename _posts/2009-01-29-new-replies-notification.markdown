@@ -18,7 +18,7 @@ We just rolled out a new replies notification feature. You'll notice that there 
 
 
 
-![recent-activity-alert-off](/blog/images/wordpress/recent-activity-alert-off.png)
+![recent-activity-alert-off](/images/wordpress/recent-activity-alert-off.png)
 
 
 
@@ -26,7 +26,7 @@ Every 30 minutes, we check to see if **new comments** have been added to your po
 
 
 
-![recent-activity-alert-on](/blog/images/wordpress/recent-activity-alert-on.png)
+![recent-activity-alert-on](/images/wordpress/recent-activity-alert-on.png)
 
 
 
@@ -34,7 +34,7 @@ Clicking on the envelope in either state will take you to your **recent activity
 
 
 
-![recent-activity-page](/blog/images/wordpress/recent-activity-page.png)
+![recent-activity-page](/images/wordpress/recent-activity-page.png)
 
 
 
@@ -65,7 +65,7 @@ We also have a handy topbar notification if you've been away from Stack Overflow
 
 
 
-![replies-topbar-alert](/blog/images/wordpress/replies-topbar-alert.png)
+![replies-topbar-alert](/images/wordpress/replies-topbar-alert.png)
 
 
 

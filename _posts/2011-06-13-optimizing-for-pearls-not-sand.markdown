@@ -58,7 +58,7 @@ Continuing in that same vein, we have two more changes to formally announce toda
 
 Perhaps you've noticed a theme here. Incoming questions are a universal constant, all around us in countless billions. But answers -- truly brilliant, amazing, correct answers -- are as rare as pearls. Thus, **questions are merely the sand that produces the pearl**.  If we have learned anything in the last three years, it is that **_you optimize for pearls, not sand_**. 
 
-![](/blog/images/wordpress/oyster-pearl.jpg)
+![](/images/wordpress/oyster-pearl.jpg)
 
 Consider the question [Does torture work well as an interrogation technique?](http://skeptics.stackexchange.com/questions/4498/does-torture-work-well-as-an-interrogation-technique) on Skeptics. Is this a brilliant question? Is it even an original question? No, it's just a mundane grain of sand question that could have been asked by anyone at any time. **What _makes_ it remarkable is the incredible answer** on that question by [Larian LeQuella](http://skeptics.stackexchange.com/users/386/larian-lequella) with over 100 upvotes. 
 

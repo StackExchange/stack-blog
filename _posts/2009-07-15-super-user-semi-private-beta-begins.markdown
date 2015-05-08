@@ -36,7 +36,7 @@ At any rate, **if you wanted a community where (almost) anything goes, you're ab
 
 > 
 > 
-![ewok-closeup](/blog/images/wordpress/ewok-closeup.jpg)
+![ewok-closeup](/images/wordpress/ewok-closeup.jpg)
 > 
 > 
 

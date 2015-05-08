@@ -17,7 +17,7 @@ The fun continues -- in the past month and a half we've welcomed seven new hires
 
 
 
-** ![](/blog/images/wordpress/Bradley-Maura3-e1354826980270.jpg)Maura Bradley, Sales Representative**
+** ![](/images/wordpress/Bradley-Maura3-e1354826980270.jpg)Maura Bradley, Sales Representative**
 
 _New York_
 
@@ -25,7 +25,7 @@ __Originally from the City of Brotherly Love, Maura graduated from the Universit
 
 
 
-**![](/blog/images/wordpress/Eisen-Natalie2-e1354827175469.jpg)Natalie Eisen, Sales Representative**
+**![](/images/wordpress/Eisen-Natalie2-e1354827175469.jpg)Natalie Eisen, Sales Representative**
 
 _New York_
 
@@ -33,7 +33,7 @@ A recent graduate of Barnard College, where she majored in Urban Studies and Soc
 
 
 
-**![](/blog/images/wordpress/Humphries-Joe2-e1354827364802.jpg)Joe Humphries, Recruiter**
+**![](/images/wordpress/Humphries-Joe2-e1354827364802.jpg)Joe Humphries, Recruiter**
 
 _New York_
 
@@ -49,7 +49,7 @@ Steven joins the crack sysadmin team at Stack Exchange, bringing his humble skil
 
 
 
-**![](/blog/images/wordpress/Schnelle-Peter1-e1354827743767.jpg)****Peter Schnelle, Sales Representative**
+**![](/images/wordpress/Schnelle-Peter1-e1354827743767.jpg)****Peter Schnelle, Sales Representative**
 
 _Denver_
 
@@ -69,7 +69,7 @@ Jeremy is originally from Tennessee. After getting his engineering degree, he pr
 
 
 
-**![](/blog/images/wordpress/Martin-Chris5-e1354829567911.jpg)Chris Martin, Sales Representative**
+**![](/images/wordpress/Martin-Chris5-e1354829567911.jpg)Chris Martin, Sales Representative**
 
 _London_
 

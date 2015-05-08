@@ -19,7 +19,7 @@ There is now a small, informative tooltip that appears when you **hover your mou
 
 
 
-![favorite or subscribe a tag via the tag info box](/blog/images/wordpress/tag-favorites-subscribe2.png)
+![favorite or subscribe a tag via the tag info box](/images/wordpress/tag-favorites-subscribe2.png)
 
 
 

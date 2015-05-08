@@ -38,7 +38,7 @@ I was amused to discover [this hilarious Onion article](http://www.theonion.com/
 
 > 
 > 
-![](/blog/images/wordpress/mustard-costume.jpg)
+![](/images/wordpress/mustard-costume.jpg)
 
 > 
 > 

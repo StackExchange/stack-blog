@@ -16,7 +16,7 @@ tags:
 
 To celebrate the holidays, [Gaming Stack Exchange](http://gaming.stackexchange.com) is throwing a little holiday party -- specifically, a _[Hat Dash](http://hatdash.com)_:
 
-![](/blog/images/wordpress/hat-dash-hats-smaller.jpg)
+![](/images/wordpress/hat-dash-hats-smaller.jpg)
 
 Between December 16 and January 6, users can unlock hats for their gravatars on [gaming.stackexchange.com](http://gaming.stackexchange.com) by asking and answering questions, voting, sharing links, etc.  For more info, read the full blog post:
 

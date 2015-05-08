@@ -56,7 +56,7 @@ We believe the barrier is necessary to reduce noise. But it's _also_ a goal to *
 
 
 
-![I love code](/blog/images/wordpress/i-love-code-candy.jpg)
+![I love code](/images/wordpress/i-love-code-candy.jpg)
 
 
 

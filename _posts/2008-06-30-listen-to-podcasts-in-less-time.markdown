@@ -22,7 +22,7 @@ One way to speed up listening to the podcast is to [use the fast playback option
 
 
 
-![windows-media-player-fast-playback](/blog/images/wordpress/windows-media-player-fast-playback.png)
+![windows-media-player-fast-playback](/images/wordpress/windows-media-player-fast-playback.png)
 
 
 
@@ -34,7 +34,7 @@ To see more detailed options, select View | Enhancements | Play Speed Settings:
 
 
 
-![windows-media-player-play-speed](/blog/images/wordpress/windows-media-player-play-speed.png)
+![windows-media-player-play-speed](/images/wordpress/windows-media-player-play-speed.png)
 
 
 

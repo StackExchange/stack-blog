@@ -47,7 +47,7 @@ Public CVs can be made visible, with full privacy controls, at **the custom URL 
 
 
 
-![careers-publish-cv-tab](/blog/images/wordpress/careers-publish-cv-tab.png)
+![careers-publish-cv-tab](/images/wordpress/careers-publish-cv-tab.png)
 
 
 

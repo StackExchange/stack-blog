@@ -19,7 +19,7 @@ Remember our [League of (web) Justice?](http://blog.stackoverflow.com/2009/07/wh
 
 
 
-![justice-league-small](/blog/images/wordpress/justice-league-small.jpg)
+![justice-league-small](/images/wordpress/justice-league-small.jpg)
 
 
 

@@ -26,7 +26,7 @@ Susan works worked as a Drupal hacker from Indianapolis, Indiana with a passion 
 
 Susan dislikes writing about herself almost as much as having her picture taken, so this is a rare opportunity to see Susan out from behind her [Binary Redneck](http://www.binaryredneck.net) persona: _"One part hacker, one part farmer."_
 
-![](/blog/images/wordpress/Susan_Stewart.png)
+![](/images/wordpress/Susan_Stewart.png)
 
 I'm excited to have Susan join our team. She aced the interview to put it mildly. Her unique insight was already well-known to us, and after talking to her, there was no doubt that Susan would make a great addition to our team. Not many people love their job enough to log in on a Sunday night just to see what's up. I've already caught her running down our virtual halls proclaiming — and this is a direct quote:
 

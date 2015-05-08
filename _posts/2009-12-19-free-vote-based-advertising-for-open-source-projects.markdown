@@ -59,7 +59,7 @@ In other words, it goes directly from **this answer on the meta question**:
 
 
 
-![stack-overflow-open-source-ad-answer](/blog/images/wordpress/stack-overflow-open-source-ad-answer.png)
+![stack-overflow-open-source-ad-answer](/images/wordpress/stack-overflow-open-source-ad-answer.png)
 
 
 
@@ -67,7 +67,7 @@ To an advertisement to your fellow programmers on most pages of the Stack Overfl
 
 
 
-![stack-overflow-open-source-ad-live](/blog/images/wordpress/stack-overflow-open-source-ad-live.png)
+![stack-overflow-open-source-ad-live](/images/wordpress/stack-overflow-open-source-ad-live.png)
 
 
 

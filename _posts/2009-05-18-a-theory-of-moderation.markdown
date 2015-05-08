@@ -67,7 +67,7 @@ The most common moderator task is to follow up on [flagged posts](http://blog.st
 
 
 
-![](/blog/images/wordpress/stackexchange-flag-post.png)
+![](/images/wordpress/stackexchange-flag-post.png)
 
 
 
@@ -75,7 +75,7 @@ Posts can be flagged as spam, offensive, or just general "needs moderator attent
 
 
 
-![I am flagging this because...](/blog/images/wordpress/i-am-flagging-this-because1.png)
+![I am flagging this because...](/images/wordpress/i-am-flagging-this-because1.png)
 
 
 
@@ -83,7 +83,7 @@ Once flagged, a post increments a flag count that shows up in the topbar for eve
 
 
 
-![](/blog/images/wordpress/stackexchange-mod-flag-count-header.png)
+![](/images/wordpress/stackexchange-mod-flag-count-header.png)
 
 
 

@@ -27,17 +27,17 @@ Did you know that real time web chat is a standard "out of the box" feature on e
 
 To visit chat, simply click on the chat link in the header:
 
-![](/blog/images/wordpress/chat-header.png)
+![](/images/wordpress/chat-header.png)
 
 Or, on some sites, we have a live preview of two chat rooms in the sidebar; click through to visit and start chatting.
 
-![](/blog/images/wordpress/chat-sidebar1.png)
+![](/images/wordpress/chat-sidebar1.png)
 
 But it doesn't matter what _I_ think. Everyone should check chat out for themselves and decide if it's worthy or not. That's why we introduced the **Talkative** badge.
 
 <table >
 <tr >
-<td >![talkative badge](/blog/images/wordpress/badge-talkative.png)
+<td >![talkative badge](/images/wordpress/badge-talkative.png)
 <td >Posted 10 messages, with 1 or more starred, in [chat](http://chat.stackexchange.com)</tr>
 </table>
 
@@ -57,7 +57,7 @@ The success of this community process depends, as they all do, on participation.
 
 <table >
 <tr >
-<td >![precognitive badge](/blog/images/wordpress/badge-precognitive.png)
+<td >![precognitive badge](/images/wordpress/badge-precognitive.png)
 <td >Followed the [Area 51](http://area51.stackexchange.com) proposal for this site before it entered the commitment phase</tr>
 </table>
 

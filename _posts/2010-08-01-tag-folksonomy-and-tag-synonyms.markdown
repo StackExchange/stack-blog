@@ -16,7 +16,7 @@ tags:
 
 Every question on Stack Overflow, or any other Stack Exchange site, **must be tagged with at least one tag**. Tags are simple keywords or labels that help categorize your question with other, similar questions. 
 
-![](/blog/images/wordpress/stack-tags.png)
+![](/images/wordpress/stack-tags.png)
 
 It's important that questions get tagged correctly, because that makes it easier for everyone to find the questions they're interested in -- and potentially answer them.
 

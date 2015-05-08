@@ -22,7 +22,7 @@ This is the sixth episode of the StackOverflow podcast, wherein Joel and I discu
 
 
 
-  * A mercifully brief critique of Joel's Skype avatar. Of course, he should be using [this image](http://www.codinghorror.com/blog/images/spolsky-wtf.jpg).
+  * A mercifully brief critique of Joel's Skype avatar. Of course, he should be using [this image](http://www.codinghorror.com/images/spolsky-wtf.jpg).
 
   * The other programmer I'm working with, Jarrod, will be visiting me this week. It's his first visit to California! Welcome to the San Francisco Bay area -- [geek mecca](http://www.amazon.com/exec/obidos/ASIN/0762742399/codinghorror-20). We will get some pair programming time in.
 

@@ -18,7 +18,7 @@ tags:
 Last year’s Stack Overflow Meetups [were a success](http://blog.stackoverflow.com/2011/04/stack-overflow-world-wide-meetups-success/), with over 2000 people participating around the world. We’re happy to announce that the Second Annual Stack Overflow Meetup Day is April 28, 2012.
 
 
-[![2011 Meetup Locations](/blog/images/wordpress/2011-Meetup-Map.png)](/blog/images/wordpress/2011-Meetup-Map.png)
+[![2011 Meetup Locations](/images/wordpress/2011-Meetup-Map.png)](/images/wordpress/2011-Meetup-Map.png)
 
 
 Because the Stack Exchange network [grew so much over 2011](http://blog.stackoverflow.com/2012/01/state-of-the-stack-2011-a-message-from-your-ceo-2/), we’ve decided our Meetup day should grow, too. This year we’re calling on every hacker, programmer, or designer in the Stack Exchange tech community to meet up with other users, say hello, and maybe learn something. Whether you’re a member of Stack Overflow, Server Fault, Super User, Programmers, Ask Ubuntu, Game Development, or [any other technology-themed Stack Exchange site](http://www.meetup.com/stackoverflow/days/), we want you to be a part of this event.*
@@ -38,7 +38,7 @@ Just like last year, we’re using Meetup.com to make it easy for users to organ
 If there was a meetup in your community last year, it will be shown in the list on [meetup.com/stackoverflow](http://meetup.com/stackoverflow). An event has automatically been created for this year; all you need to do is RVSP and suggest a location.
 
 
-[![](/blog/images/wordpress/existing_community-e1331924926860.png)](/blog/images/wordpress/existing_community-e1331924926860.png)
+[![](/images/wordpress/existing_community-e1331924926860.png)](/images/wordpress/existing_community-e1331924926860.png)
 
 
 
@@ -49,7 +49,7 @@ If you search for your city (or a city near you) and don’t see it in the resul
 
 
 
-[![](/blog/images/wordpress/start_new_community-e1331925638679.png)](/blog/images/wordpress/start_new_community-e1331925638679.png)
+[![](/images/wordpress/start_new_community-e1331925638679.png)](/images/wordpress/start_new_community-e1331925638679.png)
 
 
 

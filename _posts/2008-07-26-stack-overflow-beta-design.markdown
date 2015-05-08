@@ -35,7 +35,7 @@ And even earlier:
 
 
 
-![](/blog/images/wordpress/original-so-design-jeremy-kratz.png)
+![](/images/wordpress/original-so-design-jeremy-kratz.png)
 
 
 

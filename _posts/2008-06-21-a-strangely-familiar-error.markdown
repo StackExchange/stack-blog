@@ -18,7 +18,7 @@ Geoff Dalgas, the newest member of the Stack Overflow team, shared **this strang
 
 
 
-![stack overflow error](/blog/images/wordpress/stack-overflow-error.png)
+![stack overflow error](/images/wordpress/stack-overflow-error.png)
 
 
 

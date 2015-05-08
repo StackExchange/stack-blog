@@ -16,7 +16,7 @@ tags:
 
 We've observed a particular pattern of questions emerging on several Stack Exchange sites.
 
-![](/blog/images/wordpress/the-guessing-game.png)
+![](/images/wordpress/the-guessing-game.png)
 
 All these questions are effectively **guessing games**.
 

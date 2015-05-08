@@ -17,7 +17,7 @@ tags:
 
 In the spirit of [our recent redesign of the users page](http://blog.stackoverflow.com/2011/03/redesigned-users-page/), we felt it was **time to enhance the tags page**, too.
 
-![](/blog/images/wordpress/redesigned-tags-page.png)
+![](/images/wordpress/redesigned-tags-page.png)
 
 As you can see, the tags page now shows a bit more information about each tag, namely:
 
@@ -32,7 +32,7 @@ As you can see, the tags page now shows a bit more information about each tag, n
 
 It is my strong belief that the tags page is **an essential map of what your community is, and is not, about**.
 
-![](/blog/images/wordpress/old-map.png)
+![](/images/wordpress/old-map.png)
 
 Thus, putting the tag wiki excerpts front and center on the tag page is an opportunity to educate your community about the tags you've selected and what they are for. Tags are the de-facto map of allowed (and implicitly disallowed by omission) topics on your site. Reliable tag cartography is essential to navigation and exploration in any expert Q&A; community.
 

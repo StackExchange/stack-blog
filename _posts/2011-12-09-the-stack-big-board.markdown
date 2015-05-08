@@ -22,7 +22,7 @@ And so our current version was born (technically, this is version 2.13 - the fir
 There are two pieces of 2 meter box truss that make the main upright supports (and each have one of the vertical monitors mounted to them) and one piece of 3.5 meter ladder truss that makes up the span holding the three landscape monitors.  All of the TVs are hung directly to the truss using O-clamps (which are secured to the TVs using standard M6 bolts).  Wire management is also pretty easy as all of the wiring is run directly through the truss or ziptied to it.
 
 
-[![](/blog/images/wordpress/Truss-218x300.jpg)](/blog/images/wordpress/Truss.jpg)
+[![](/images/wordpress/Truss-218x300.jpg)](/images/wordpress/Truss.jpg)
 
 
 So what makes up the Big Board?

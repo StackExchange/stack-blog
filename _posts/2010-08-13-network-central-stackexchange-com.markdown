@@ -19,7 +19,7 @@ I'm proud to announce that [stackexchange.com](http://stackexchange.com) is now 
 
 
 
-[![](/blog/images/wordpress/stackexchange-new-homepage.png)
+[![](/images/wordpress/stackexchange-new-homepage.png)
 ](http://stackexchange.com)
 
 
@@ -53,11 +53,11 @@ Just check for **the genuinetm Stack Exchange logo in the upper left hand corner
 
 
 
-![](/blog/images/wordpress/genuwine-stack-exchange-questions.png)
+![](/images/wordpress/genuwine-stack-exchange-questions.png)
 
 
 
-![](/blog/images/wordpress/genuwine-stack-exchange-sites.png)
+![](/images/wordpress/genuwine-stack-exchange-sites.png)
 
 
 

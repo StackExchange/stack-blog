@@ -20,7 +20,7 @@ But while recording [podcast #15](http://blog.stackoverflow.com/2011/08/se-podca
 
 To rectify that, we now have improved User Cards that **expand when you hover over the avatar**, displaying location, key links, and an excerpt of the "About Me" field:
 
-![](/blog/images/wordpress/user-card-hover-expansion.png)
+![](/images/wordpress/user-card-hover-expansion.png)
 
 So now you can quickly discover a bit more about the human being who wrote that post -- without needing to click all the way through to their user page.
 

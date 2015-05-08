@@ -56,7 +56,7 @@ The problem is coming up enough in the network that we're thinking about adding 
 
 User [Borror0](http://scifi.stackexchange.com/users/678/borror0) ran with this concept and came up with [this clever mini-flowchart](http://meta.scifi.stackexchange.com/questions/328/how-should-we-handle-questions-that-are-easily-answered-by-wikipedia/330#330) for determining if a question is too simple to be answered on our sites:
 
-![is this question too simple to answer on a Stack Exchange website?](/blog/images/wordpress/interesting-question-decision-tree-flowchart.png)
+![is this question too simple to answer on a Stack Exchange website?](/images/wordpress/interesting-question-decision-tree-flowchart.png)
 
 The key distinction to make here, in my mind, is that **all questions are ultimately in service of the people _answering_ them**. That is the audience you need to satisfy if you want to have any hope of creating and sustaining a community of peers learning from each other. The minimum bar for a question is not "is this on-topic?", but rather "is this _somewhat interesting_ and on-topic?". I'm not saying every question needs to be utterly fascinating, but please endeavor to make your questions more than a constant stream of no-duh underhanded softballs requiring nothing more than a quick cut and paste from Wikipedia, IMDB, or some other standard internet reference site.
 

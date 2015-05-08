@@ -23,7 +23,7 @@ There were some suggestions that the [Single Transferable Vote](http://en.wikipe
 
 
 
-![](/blog/images/wordpress/ballot-box.jpg)
+![](/images/wordpress/ballot-box.jpg)
 
 
 

@@ -61,4 +61,4 @@ Who's picking the speakers? You, of course. This is a community project! We're s
 
 Each curriculum committee will work to decide what talks they want to hear, select speakers, and invite them. We'll take care of the speakers' and committee members expenses, of course, and we'll do all the work of actually putting on the conference.
 
-![London DevDays 2009](/blog/images/wordpress/London2009-e1304447642997.jpg)
+![London DevDays 2009](/images/wordpress/London2009-e1304447642997.jpg)

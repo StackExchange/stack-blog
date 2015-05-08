@@ -18,7 +18,7 @@ We just finished migrating our [new servers](http://blog.stackoverflow.com/2009/
 
 
 
-![new-datacenter-racked-servers-glamour-shots](/blog/images/wordpress/new-datacenter-racked-servers-glamour-shots.jpg)
+![new-datacenter-racked-servers-glamour-shots](/images/wordpress/new-datacenter-racked-servers-glamour-shots.jpg)
 
 
 
@@ -26,7 +26,7 @@ The installation was aided greatly by [Stack Overflow team member](http://stacko
 
 
 
-![new-datacenter-geoff-and-babby1](/blog/images/wordpress/new-datacenter-geoff-and-babby1.jpg)
+![new-datacenter-geoff-and-babby1](/images/wordpress/new-datacenter-geoff-and-babby1.jpg)
 
 
 

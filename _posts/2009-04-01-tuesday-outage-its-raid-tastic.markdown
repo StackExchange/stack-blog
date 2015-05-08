@@ -18,7 +18,7 @@ We had a brief outage early Tuesday morning from 3 AM - 5 AM PST, because the da
 
 
 
-![serveraid-8k-error-memory-retention-failure](/blog/images/wordpress/serveraid-8k-error-memory-retention-failure.jpg)
+![serveraid-8k-error-memory-retention-failure](/images/wordpress/serveraid-8k-error-memory-retention-failure.jpg)
 
 
 

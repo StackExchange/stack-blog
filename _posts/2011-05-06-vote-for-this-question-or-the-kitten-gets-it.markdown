@@ -73,7 +73,7 @@ So how _do_ we encourage people to remember the questions when voting? Perhaps w
 
 
 
-![](/blog/images/wordpress/or-this-kitten-gets-it.jpg)
+![](/images/wordpress/or-this-kitten-gets-it.jpg)
 
 
 
@@ -85,7 +85,7 @@ Because we love kittens, we decided to make basic voting statistics a bit more v
 
 
 
-![](/blog/images/wordpress/user-drop-down-voting-stats.png)
+![](/images/wordpress/user-drop-down-voting-stats.png)
 
 
 
@@ -93,7 +93,7 @@ Second, on your user page, where we've broken out your voting in a similar publi
 
 
 
-![](/blog/images/wordpress/user-page-voting-stats.png)
+![](/images/wordpress/user-page-voting-stats.png)
 
 
 
@@ -105,7 +105,7 @@ Most importantly, we have added a gentle reminder to the voting process itself.
 
 
 
-![](/blog/images/wordpress/question-voting-reminder.png)
+![](/images/wordpress/question-voting-reminder.png)
 
 
 
@@ -117,7 +117,7 @@ We also added a **voters tab to the users page**, so you can get an idea which o
 
 
 
-![](/blog/images/wordpress/users-voters-tab.png)
+![](/images/wordpress/users-voters-tab.png)
 
 
 

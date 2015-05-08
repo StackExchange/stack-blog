@@ -22,7 +22,7 @@ The first is a "batting average", if you will.
 
 
 
-![](/blog/images/wordpress/question-owner-accept-rate.png)
+![](/images/wordpress/question-owner-accept-rate.png)
 
 
 
@@ -75,7 +75,7 @@ Another change we made is to **highlight comment responses** from the user who a
 
 
 
-![](/blog/images/wordpress/question-owner-comment-highlighting.png)
+![](/images/wordpress/question-owner-comment-highlighting.png)
 
 
 

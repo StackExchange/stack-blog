@@ -18,7 +18,7 @@ And then a miracle occurred.
 
 
 
-![I think you should be more explicit here in step two.](/blog/images/wordpress/then-a-miracle-occurs-cartoon.png)
+![I think you should be more explicit here in step two.](/images/wordpress/then-a-miracle-occurs-cartoon.png)
 
 
 
@@ -77,7 +77,7 @@ I deeply appreciate the effort that you are putting into testing our crappy newb
 
 
 
-If you are unfortunate enough to receive [the yellow screen of death](http://www.codinghorror.com/blog/images/yellow-screen-of-death-large.png), know that all these errors are automatically logged and we _will_ be looking at them individually. You should also know that these are all, like, totally Jarrod's fault. Because he sucks.
+If you are unfortunate enough to receive [the yellow screen of death](http://www.codinghorror.com/images/yellow-screen-of-death-large.png), know that all these errors are automatically logged and we _will_ be looking at them individually. You should also know that these are all, like, totally Jarrod's fault. Because he sucks.
 
 
 

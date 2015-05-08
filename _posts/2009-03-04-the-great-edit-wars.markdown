@@ -18,7 +18,7 @@ Alas, Stack Overflow has fallen prey to that dread disease that plagues all wiki
 
 
 
-![wiki-revert-lolcat](/blog/images/wordpress/wiki-revert-lolcat.jpg)
+![wiki-revert-lolcat](/images/wordpress/wiki-revert-lolcat.jpg)
 
 
 

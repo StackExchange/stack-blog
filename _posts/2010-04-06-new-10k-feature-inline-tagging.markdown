@@ -18,7 +18,7 @@ We've had **inline tagging** as a moderator-only feature for quite a while, and 
 
 
 
-![](/blog/images/wordpress/inline-tagging.png)
+![](/images/wordpress/inline-tagging.png)
 
 
 
@@ -26,7 +26,7 @@ If you have the requisite 10k reputation, just mouse over the tags on any questi
 
 
 
-![](/blog/images/wordpress/inline-tagging-2.png)
+![](/images/wordpress/inline-tagging-2.png)
 
 
 

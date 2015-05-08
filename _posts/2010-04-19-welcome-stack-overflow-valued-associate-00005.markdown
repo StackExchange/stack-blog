@@ -22,7 +22,7 @@ I'm pleased to announce that we've hired **our first full time community coordin
 
 
 
-![](/blog/images/wordpress/robert-cartaino.jpg)
+![](/images/wordpress/robert-cartaino.jpg)
 
 
 

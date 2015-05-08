@@ -50,8 +50,8 @@ Each hat has different criteria to unlock it, and there are even some _secret ha
 
 
 
-![](/blog/images/wordpress/watson.png)
-![](/blog/images/wordpress/leaderboard.png)
+![](/images/wordpress/watson.png)
+![](/images/wordpress/leaderboard.png)
 
 
 
@@ -59,7 +59,7 @@ Hats show up all over the site, wherever your gravatar is shown (well, except fo
 
 
 
-![](/blog/images/wordpress/hats202.png)
+![](/images/wordpress/hats202.png)
 
 
 
@@ -67,7 +67,7 @@ You'll also get a notification when you earn a new item:
 
 
 
-![](/blog/images/wordpress/notice2.png)
+![](/images/wordpress/notice2.png)
 
 
 
@@ -75,7 +75,7 @@ For all those of you who [really hate hats](http://blog.stackoverflow.com/wp-con
 
 
 
-![](/blog/images/wordpress/popup4.png)
+![](/images/wordpress/popup4.png)
 
 
 

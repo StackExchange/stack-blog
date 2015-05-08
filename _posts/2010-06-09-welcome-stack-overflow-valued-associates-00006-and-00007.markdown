@@ -26,7 +26,7 @@ I'm pleased to announce that Stack Overflow Inc has added two more valued associ
 
 
 
-![](/blog/images/wordpress/bio-marc-gravell.jpg)
+![](/images/wordpress/bio-marc-gravell.jpg)
 
 
 
@@ -42,7 +42,7 @@ I'm pleased to announce that Stack Overflow Inc has added two more valued associ
 
 
 
-![](/blog/images/wordpress/bio-ben-dumke.jpg)
+![](/images/wordpress/bio-ben-dumke.jpg)
 
 
 

@@ -19,11 +19,11 @@ Courtesy of [Stack Overflow user MicTech](http://stackoverflow.com/users/69684/m
 
 
 
-![stack-overflow-lego-minifigs](/blog/images/wordpress/stack-overflow-lego-minfigs-hires.jpg)
+![stack-overflow-lego-minifigs](/images/wordpress/stack-overflow-lego-minfigs-hires.jpg)
 
 
 
-![stack-overflow-lego-minifigs-2](/blog/images/wordpress/stack-overflow-lego-minfigs-2-hires.jpg)
+![stack-overflow-lego-minifigs-2](/images/wordpress/stack-overflow-lego-minfigs-2-hires.jpg)
 
 
 

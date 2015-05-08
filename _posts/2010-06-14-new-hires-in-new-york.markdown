@@ -19,24 +19,24 @@ New York, in addition to being the official corporate headquarters and the locat
 
 Working on Stack Exchange 2.0, we've got [David Fullerton](http://stackoverflow.com/users/91687/david):
 
-[![](/blog/images/wordpress/bio-david-fullerton.jpg)](/blog/images/wordpress/bio-david-fullerton.jpg)
+[![](/images/wordpress/bio-david-fullerton.jpg)](/images/wordpress/bio-david-fullerton.jpg)
 
 and [Emmett Nicholas](http://stackoverflow.com/users/2749/emmett):
 
-[![](/blog/images/wordpress/bio-emmett-nicholas.jpg)](/blog/images/wordpress/bio-emmett-nicholas.jpg)
+[![](/images/wordpress/bio-emmett-nicholas.jpg)](/images/wordpress/bio-emmett-nicholas.jpg)
 
 Both David and Emmett are veterans of Stack Exchange 1.0.
 
 Working on [Stack Overflow Careers](http://careers.stackoverflow.com/), we'd like to welcome new associates [Matt Sherman](http://stackoverflow.com/users/70613/matt-sherman):
 
-[![](/blog/images/wordpress/bio-matt-sherman.jpg)](/blog/images/wordpress/bio-matt-sherman.jpg)
+[![](/images/wordpress/bio-matt-sherman.jpg)](/images/wordpress/bio-matt-sherman.jpg)
 
 [Jason Punyon](http://stackoverflow.com/users/6212/jason-punyon):
 
-[![](/blog/images/wordpress/bio-jason-punyon.jpg)](/blog/images/wordpress/bio-jason-punyon.jpg)
+[![](/images/wordpress/bio-jason-punyon.jpg)](/images/wordpress/bio-jason-punyon.jpg)
 
 and product manager [Korneel Bouman](http://stackoverflow.com/users/220619/korneel-bouman):
 
-[![](/blog/images/wordpress/bio-korneel-bouman.jpg)](/blog/images/wordpress/bio-korneel-bouman.jpg)
+[![](/images/wordpress/bio-korneel-bouman.jpg)](/images/wordpress/bio-korneel-bouman.jpg)
 
 You'll probably see David, Emmett, Matt, Jason, and Korneel hanging out on [meta](http://meta.stackoverflow.com/) and, more importantly, you'll see the great software they ship. Welcome aboard!

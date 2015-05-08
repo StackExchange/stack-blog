@@ -47,5 +47,5 @@ All done; behold the beautiful results of Geoff's hard work -- and [compare with
 
 
 
-![](/blog/images/wordpress/stack-overflow-server-rack-back-small-improved-v2.jpg)
+![](/images/wordpress/stack-overflow-server-rack-back-small-improved-v2.jpg)
 

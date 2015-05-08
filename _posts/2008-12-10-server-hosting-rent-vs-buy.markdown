@@ -42,7 +42,7 @@ I'm currently looking at the [Lenovo ThinkServer RD120](http://www.buy.com/prod/
 
 
 
-![lenovo thinkserver rd120](/blog/images/wordpress/lenovo-thinkserver-rd120.jpg)
+![lenovo thinkserver rd120](/images/wordpress/lenovo-thinkserver-rd120.jpg)
 
 
 

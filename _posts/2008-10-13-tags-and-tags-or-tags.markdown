@@ -18,7 +18,7 @@ Until recently, **we hadn't done a good job of providing a user interface for co
 
 
 
-![stackoverflow-related-tags](/blog/images/wordpress/stackoverflow-related-tags1.png)
+![stackoverflow-related-tags](/images/wordpress/stackoverflow-related-tags1.png)
 
 
 
@@ -26,7 +26,7 @@ Let's say I clicked on the [Python](http://stackoverflow.com/questions/tagged/py
 
 
 
-![stackoverflow-tagged-related-series](/blog/images/wordpress/stackoverflow-tagged-related-series.png)
+![stackoverflow-tagged-related-series](/images/wordpress/stackoverflow-tagged-related-series.png)
 
 
 
@@ -74,7 +74,7 @@ Show me all the questions tagged _either_ "python" **OR** "django"
 
 
 
-![stackoverflow-tagged-or-clause](/blog/images/wordpress/stackoverflow-tagged-or-clause1.png)
+![stackoverflow-tagged-or-clause](/images/wordpress/stackoverflow-tagged-or-clause1.png)
 
 
 
@@ -96,7 +96,7 @@ Show me all the questions tagged "python" **BUT NOT** tagged "django"
 
 
 
-![stackoverflow-tagged-not-clause](/blog/images/wordpress/stackoverflow-tagged-not-clause.png)
+![stackoverflow-tagged-not-clause](/images/wordpress/stackoverflow-tagged-not-clause.png)
 
 
 

@@ -39,7 +39,7 @@ A quick update on the [IT / SysAdmin themed Stack Overflow](http://blog.stackove
 
 
 
-![nice-server-rack](/blog/images/wordpress/nice-server-rack.jpg)
+![nice-server-rack](/images/wordpress/nice-server-rack.jpg)
 
 
 

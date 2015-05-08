@@ -23,7 +23,7 @@ The Creative Commons site defines [four main clauses](http://creativecommons.org
 <blockquote>
 
 > 
-> ![Attribution](/blog/images/wordpress/cc-attrib.png) **Attribution**
+> ![Attribution](/images/wordpress/cc-attrib.png) **Attribution**
 
 > 
 > 
@@ -37,7 +37,7 @@ You let others copy, distribute, display, and perform your copyrighted work — 
 
 > 
 > 
-![Noncommercial](/blog/images/wordpress/cc-noncommercial.png)**Noncommercial**
+![Noncommercial](/images/wordpress/cc-noncommercial.png)**Noncommercial**
 
 > 
 > 
@@ -51,7 +51,7 @@ You let others copy, distribute, display, and perform your work — and derivati
 
 > 
 > 
-![No Derivative Works](/blog/images/wordpress/cc-noderivativeworks.png) **No Derivative Works**
+![No Derivative Works](/images/wordpress/cc-noderivativeworks.png) **No Derivative Works**
 
 > 
 > 
@@ -65,7 +65,7 @@ You let others copy, distribute, display, and perform only verbatim copies of yo
 
 > 
 > 
-![Share Alike](/blog/images/wordpress/cc-sharealike.png) **Share Alike**
+![Share Alike](/images/wordpress/cc-sharealike.png) **Share Alike**
 
 > 
 > 

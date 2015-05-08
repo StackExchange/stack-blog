@@ -115,7 +115,7 @@ I'm pleased to announce that, as of tonight, we have stormed the castle gates an
 
 
 
-![](/blog/images/wordpress/villagers-with-pitchforks.jpg)
+![](/images/wordpress/villagers-with-pitchforks.jpg)
 
 
 

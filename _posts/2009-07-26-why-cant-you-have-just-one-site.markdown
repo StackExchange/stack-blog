@@ -21,7 +21,7 @@ Now that we have four sites in [the Stack Overflow trilogy](http://blog.stackove
 
 
 
-![so-trilogy-logos](/blog/images/wordpress/so-trilogy-logos.png)
+![so-trilogy-logos](/images/wordpress/so-trilogy-logos.png)
 
 
 
@@ -81,7 +81,7 @@ Furthermore, there's plenty of precedent for the "many sites, each dedicated to 
 
 
 
-![gigaom-network](/blog/images/wordpress/gigaom-network.png)
+![gigaom-network](/images/wordpress/gigaom-network.png)
 
 
 
@@ -93,7 +93,7 @@ Furthermore, there's plenty of precedent for the "many sites, each dedicated to 
 
 
 
-![gawker-media-network](/blog/images/wordpress/gawker-media-network.png)
+![gawker-media-network](/images/wordpress/gawker-media-network.png)
 
 
 
@@ -105,7 +105,7 @@ Furthermore, there's plenty of precedent for the "many sites, each dedicated to 
 
 
 
-![weblogs-inc-network](/blog/images/wordpress/weblogs-inc-network.png)
+![weblogs-inc-network](/images/wordpress/weblogs-inc-network.png)
 
 
 
@@ -113,7 +113,7 @@ We're doing something like that, but we don't think of it as a mundane "network"
 
 
 
-![justice-league-small](/blog/images/wordpress/justice-league-small.jpg)
+![justice-league-small](/images/wordpress/justice-league-small.jpg)
 
 
 

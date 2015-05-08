@@ -32,13 +32,13 @@ I propose a pop-up saying something like **"You have earned the power to retag q
 
 I deferred on this for a long time because I thought of it primarily as a way of documenting the system. But I recently realized it's far more than that -- it's also a way of _congratulating our community members for being awesome_.
 
-![](/blog/images/wordpress/8-bit-congratulations-treasure-island.png)
+![](/images/wordpress/8-bit-congratulations-treasure-island.png)
 
 You know what? It _is_ a big deal when users reach the 500, 1k, 2k, 3k, and 10k reputation thresholds, and users _should_ be acknowledged when they garner enough upvotes from their peers to reach these important milestones.
 
 And yes, it is _also_ an opportunity to share some just-in-time protips.
 
-![](/blog/images/wordpress/protip.jpg)
+![](/images/wordpress/protip.jpg)
 
 
 Before, it was like you gained superpowers overnight, but [nobody bothered explaining how you use them](http://www.youtube.com/watch?v=0_ZUSQQdoS4). You could fly, indeed, but you had no idea how to take off, land, or avoid smashing into high rise buildings.
@@ -53,7 +53,7 @@ You'll see a complete list of privileges you can earn through reputation, along 
 
 We absolutely intend these privilege wiki pages to be permanent, shareable resources about how the site works and its topic-specific cultural norms. But you don't necessarily need to know or care about these pages. As you earn reputation on the site and gain new privileges, we'll **congratulate you and point you _directly_ to the page describing what that privilege is all about**.
 
-![congrats, you've gained the privilege to do stuff!](/blog/images/wordpress/privilege-notifications-small.png)
+![congrats, you've gained the privilege to do stuff!](/images/wordpress/privilege-notifications-small.png)
 
 It is our hope that with wiki privilege guides in place on all network sites, and an automatic "congrats!" notification system linking directly to the relevant guide ...
 

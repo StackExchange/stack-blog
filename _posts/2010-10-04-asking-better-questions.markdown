@@ -40,7 +40,7 @@ Unlike a EULA, our [How to Ask](http://stackoverflow.com/questions/how-to-ask) p
 
 Now, whether or not new users will actually _read_ this, I cannot say. 
 
-![](/blog/images/wordpress/what-we-say-to-dogs.jpg)
+![](/images/wordpress/what-we-say-to-dogs.jpg)
 
 From my perspective, if at least one in ten new users read it and think, "hey, I should at least _try_ to form a decent question" -- it's a win. If some very poor questions are discarded based on seeing this page -- it's a win. And honestly, when you have 2k+ new questions per day, you can _afford_ to throw a few away in the name of increased overall quality. 
 

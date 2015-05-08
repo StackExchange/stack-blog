@@ -19,7 +19,7 @@ Every Stack Exchange question is required to have at least one tag; tags are how
 
 When you start typing in the tags field we display a simple list of existing tags that match what you've typed so far, ordered by frequency. 
 
-![](/blog/images/wordpress/old-tag-completer.png)
+![](/images/wordpress/old-tag-completer.png)
 
 Simple indeed. No explanation, just … `activerecord (485)`. 
 
@@ -27,11 +27,11 @@ It became increasingly clear to us that were doing a poor job of educating users
 
 That's why we went back to the drawing board and built a bigger, better, badder tag completer. One that not only uses a consistent visual tag style throughout, but crucially **includes the tag wiki excerpt along with the tag!**
 
-![](/blog/images/wordpress/new-tag-completion-updated.png)
+![](/images/wordpress/new-tag-completion-updated.png)
 
 It'll also assist when you're asking a question on a meta, by helpfully displaying the required tags on a meta question as soon as you enter the tag field.
 
-![](/blog/images/wordpress/new-tag-completer-meta.png)
+![](/images/wordpress/new-tag-completer-meta.png)
 
 It handles synonyms much more elegantly, too.
 

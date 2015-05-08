@@ -19,7 +19,7 @@ Today's new feature will be useful for those of you who happen to have a lot of 
 
 
 
-![stackoverflow-ignored-interesting-wildcards](/blog/images/wordpress/stackoverflow-ignored-interesting-wildcards.png)
+![stackoverflow-ignored-interesting-wildcards](/images/wordpress/stackoverflow-ignored-interesting-wildcards.png)
 
 
 

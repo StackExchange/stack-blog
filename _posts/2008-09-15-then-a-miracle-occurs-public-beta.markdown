@@ -18,7 +18,7 @@ tags:
 
 
 
-![I think you should be more explicit here in step two.](/blog/images/wordpress/then-a-miracle-occurs-cartoon.png)
+![I think you should be more explicit here in step two.](/images/wordpress/then-a-miracle-occurs-cartoon.png)
 
 
 
@@ -29,7 +29,7 @@ Our heartfelt thanks to all the software developers who so patiently helped us t
 
 
 
-![society-for-asking-stupid-questions](/blog/images/wordpress/stupid.jpg)
+![society-for-asking-stupid-questions](/images/wordpress/stupid.jpg)
 
 
 

@@ -46,7 +46,7 @@ Aqualad it is, then.
 
 
 
-![](/blog/images/wordpress/aquaman-and-aqualad.jpg)
+![](/images/wordpress/aquaman-and-aqualad.jpg)
 
 
 

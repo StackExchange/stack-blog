@@ -30,7 +30,7 @@ Instead of yet another scintillating hour of Jeff and Joel constantly talking ov
 
 
 
-![bio-jarrod-dixon](/blog/images/wordpress/bio-jarrod-dixon.jpg)
+![bio-jarrod-dixon](/images/wordpress/bio-jarrod-dixon.jpg)
 
 
 
@@ -38,7 +38,7 @@ Instead of yet another scintillating hour of Jeff and Joel constantly talking ov
 
 
 
-![bio-geoff-dalgas](/blog/images/wordpress/bio-geoff-dalgas.jpg)
+![bio-geoff-dalgas](/images/wordpress/bio-geoff-dalgas.jpg)
 
 
 

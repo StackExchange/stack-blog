@@ -23,11 +23,11 @@ I present them here for your unbridled enjoyment and pleasure:
 
 
 
-![stack-overflow-server-rack-front-small](/blog/images/wordpress/stack-overflow-server-rack-front-small.jpg)
+![stack-overflow-server-rack-front-small](/images/wordpress/stack-overflow-server-rack-front-small.jpg)
 
 
 
-![stack-overflow-server-rack-front-small](/blog/images/wordpress/stack-overflow-server-rack-back-small.jpg)
+![stack-overflow-server-rack-front-small](/images/wordpress/stack-overflow-server-rack-back-small.jpg)
 
 
 
@@ -35,7 +35,7 @@ update: Based on feedback from this post, we [went back and improved our rack hy
 
 
 
-![](/blog/images/wordpress/stack-overflow-server-rack-back-small-improved-v2.jpg)
+![](/images/wordpress/stack-overflow-server-rack-back-small-improved-v2.jpg)
 
 
 

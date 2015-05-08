@@ -51,7 +51,7 @@ If you're a Stack Overflow user, you have _lots_ of [soul-searching to do](http:
 
 
 
-![stack overflow recaptcha: reportedly geekiest](/blog/images/wordpress/stack-overflow-captcha-reportedly-geekiest.jpg)
+![stack overflow recaptcha: reportedly geekiest](/images/wordpress/stack-overflow-captcha-reportedly-geekiest.jpg)
 
 
 
@@ -63,7 +63,7 @@ Other times, they might be uncomfortably accurate:
 
 
 
-![stack overflow recaptcha: climax received](/blog/images/wordpress/stack-overflow-captcha-climax-received.jpg)
+![stack overflow recaptcha: climax received](/images/wordpress/stack-overflow-captcha-climax-received.jpg)
 
 
 

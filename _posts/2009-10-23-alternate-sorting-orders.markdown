@@ -47,7 +47,7 @@ We need to balance the proportion of positive ratings with the uncertainty of a 
 
 
 
-![new-scoring-math-formula](/blog/images/wordpress/new-scoring-math-formula1.png)
+![new-scoring-math-formula](/images/wordpress/new-scoring-math-formula1.png)
 
 
 

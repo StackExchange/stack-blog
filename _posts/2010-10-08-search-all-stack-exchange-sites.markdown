@@ -16,7 +16,7 @@ tags:
 
 For as long as we've been working on Stack Overflow, we've been telling people that **web search is our "homepage"**. Just to prove it, I dug up our old **Project Ask Elevator Pitch** from [FogBugz](http://www.fogcreek.com/FogBugz/) -- and it's right there at the top:
 
-![Don't try to replace forums. Answer people's questions! That's our focus. Get those answers to the top of Google search so people can find the information they're looking for with a minimum of noise. How will people arrive at the site? 1) Google -- ideally directly to the question and answer.](/blog/images/wordpress/project-ask-elevator-pitch2.png)
+![Don't try to replace forums. Answer people's questions! That's our focus. Get those answers to the top of Google search so people can find the information they're looking for with a minimum of noise. How will people arrive at the site? 1) Google -- ideally directly to the question and answer.](/images/wordpress/project-ask-elevator-pitch2.png)
 
 The above document was last edited April 15th, 2008. Ah, memories...
 

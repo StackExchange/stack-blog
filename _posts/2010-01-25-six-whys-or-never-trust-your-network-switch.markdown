@@ -33,7 +33,7 @@ Guess what we woke up this morning (well, you don't really "wake up" at 3 AM, un
 
 
 
-[![](/blog/images/wordpress/switch-autodetect-fail.png)](/blog/images/wordpress/switch-autodetect-fail-large.png)
+[![](/images/wordpress/switch-autodetect-fail.png)](/images/wordpress/switch-autodetect-fail-large.png)
 
 
 

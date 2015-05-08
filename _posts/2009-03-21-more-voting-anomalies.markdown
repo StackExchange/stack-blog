@@ -23,7 +23,7 @@ I've been getting a few reports of further voting issues via the email link prov
 
 
 
-![examining-vote-chad](/blog/images/wordpress/examining-vote-chad.jpg)
+![examining-vote-chad](/images/wordpress/examining-vote-chad.jpg)
 
 
 

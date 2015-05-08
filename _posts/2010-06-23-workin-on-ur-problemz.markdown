@@ -18,7 +18,7 @@ If you've ever been unfortunate enough to see our "workin on ur problemz" [Stack
 
 
 
-![](/blog/images/wordpress/error-lolcat-problemz.jpg)
+![](/images/wordpress/error-lolcat-problemz.jpg)
 
 
 
@@ -38,7 +38,7 @@ But nothing is impossible for our talented community of users -- they totally na
 
 
 
-![](/blog/images/wordpress/v-tech-talking-whiz-kid-mouse-pro-deluxe.jpg)
+![](/images/wordpress/v-tech-talking-whiz-kid-mouse-pro-deluxe.jpg)
 
 
 
@@ -53,7 +53,7 @@ Zoe, a domestic shorthair cat, touches the mouse of a computer during a media pr
 
 > 
 > 
-![](/blog/images/wordpress/cat-zoe.jpg)
+![](/images/wordpress/cat-zoe.jpg)
 </blockquote>
 
 
@@ -64,7 +64,7 @@ I found that eBay auction I mentioned above too tempting to resist ...
 
 
 
-![](/blog/images/wordpress/rock-hard-awesome-workin-on-ur-problemz.jpg)
+![](/images/wordpress/rock-hard-awesome-workin-on-ur-problemz.jpg)
 
 
 

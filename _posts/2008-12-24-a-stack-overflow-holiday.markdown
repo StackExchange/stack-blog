@@ -22,7 +22,7 @@ But I do have a bit of good news -- I am planning a little holiday present for t
 
 
 
-![tempest_holiday](/blog/images/wordpress/tempest_holiday.jpg)
+![tempest_holiday](/images/wordpress/tempest_holiday.jpg)
 
 
 

@@ -22,7 +22,7 @@ I started to feel really bad when I'd see people post duplicate questions, even 
 
 
 
-![stackoverflow-ask-title-related](/blog/images/wordpress/stackoverflow-ask-title-related.png)
+![stackoverflow-ask-title-related](/images/wordpress/stackoverflow-ask-title-related.png)
 
 
 
@@ -42,7 +42,7 @@ I made a special effort to improve the "no search results found" page. It shows 
 
 
 
-![stackoverflow-enhanced-search-no-matches](/blog/images/wordpress/stackoverflow-enhanced-search-no-matches.png)
+![stackoverflow-enhanced-search-no-matches](/images/wordpress/stackoverflow-enhanced-search-no-matches.png)
 
 
 
@@ -58,7 +58,7 @@ That said, there are things our search can do better than Google. In particular,
 
 
 
-![stackoverflow-search-with-tags](/blog/images/wordpress/stackoverflow-search-with-tags.png)
+![stackoverflow-search-with-tags](/images/wordpress/stackoverflow-search-with-tags.png)
 
 
 

@@ -139,7 +139,7 @@ One of the most common requests we got was to provide more details on who exactl
 
 
 
-![](/blog/images/wordpress/stack-overflow-careers-search-stats.png)
+![](/images/wordpress/stack-overflow-careers-search-stats.png)
 
 
 
@@ -151,7 +151,7 @@ We haven't forgotten employers, either. Employers who subscribe to careers for l
 
 
 
-![](/blog/images/wordpress/stack-overflow-careers-saved-employer-searches1.png)
+![](/images/wordpress/stack-overflow-careers-saved-employer-searches1.png)
 
 
 

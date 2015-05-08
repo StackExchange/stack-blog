@@ -80,7 +80,7 @@ We've been [collecting a list](http://meta.stackoverflow.com/questions/131846/re
 
 I'm starting to get fed up with these sites. Not because they're abusing our website, but because they're abusing you guys, our community -- by reposting _your_ questions and _your_ answers with no attribution! The whole point of Stack Overflow, Server Fault, Super User, and every other [Stack Exchange site](http://stackexchange.com/) is to **give credit directly to the talented people providing all these fantastic answers**. When a scraper site rips a great answer, removes all attribution and context, plasters it with cheap ads -- and it shows up in a public web search result, as they increasingly do -- _everyone loses_.
 
-![](/blog/images/wordpress/used-car-salesman.jpg)
+![](/images/wordpress/used-car-salesman.jpg)
 
 I'm not going to stand for this, at least not without a fight. We're starting to email these sites and **ask them very politely to please follow our simple attribution guidelines**.
 

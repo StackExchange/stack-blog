@@ -55,7 +55,7 @@ Another neat (and recently added) feature of Gravatars is a fallback. If someone
 
 
 
-![identicon-samples](/blog/images/wordpress/identicon-samples.png)
+![identicon-samples](/images/wordpress/identicon-samples.png)
 
 
 

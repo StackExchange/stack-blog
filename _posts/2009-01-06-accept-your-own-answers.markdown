@@ -32,7 +32,7 @@ As they say, a picture is worth a thousand words; here's what I just did to one 
 
 
 
-![accept-own-answer-before](/blog/images/wordpress/accept-own-answer-before.png)
+![accept-own-answer-before](/images/wordpress/accept-own-answer-before.png)
 
 
 
@@ -45,7 +45,7 @@ As they say, a picture is worth a thousand words; here's what I just did to one 
 
 
 
-![accept-own-answer-after](/blog/images/wordpress/accept-own-answer-after.png)
+![accept-own-answer-after](/images/wordpress/accept-own-answer-after.png)
 
 
 

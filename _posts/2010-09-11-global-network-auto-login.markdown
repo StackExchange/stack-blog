@@ -34,7 +34,7 @@ By that I mean, as long as ...
 
 ... the site you're navigating to will **automagically log you in!** You'll see a notification bar at the top to let you know when you've automatically logged into a site.
 
-![](/blog/images/wordpress/global-auth-in-action.png)
+![](/images/wordpress/global-auth-in-action.png)
 
 (We just forced every registered account in the entire network to log off and log back in to ensure that everyone has logged in under this new regime -- so everyone should meet criteria #1 by definition.)
 
@@ -80,6 +80,6 @@ As with all things technically complex, there are some caveats. Global auth shou
 
 If you have issues with global auth and need to troubleshoot, I suggest starting by **forcing a global logout** -- you can do this by clicking "log out", then clicking the big "log out everywhere" button.
 
-![](/blog/images/wordpress/log-out-everywhere-button.png)
+![](/images/wordpress/log-out-everywhere-button.png)
 
 Bear in mind that you must hold accounts on the sites  -- global authentication will not automatically create accounts for you (with the lone exception of http://stackexchange.com itself). That said, as long as you're logged into one account in our network, you should now be automatically logged into _all_ your accounts.

@@ -44,7 +44,7 @@ Do bear in mind that **we heavily promote stackapps.com both with house ads, and
 
 
 
-![](/blog/images/wordpress/api-house-ads-links.png)
+![](/images/wordpress/api-house-ads-links.png)
 
 
 

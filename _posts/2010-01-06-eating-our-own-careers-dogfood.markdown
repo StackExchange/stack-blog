@@ -23,7 +23,7 @@ I was ecstatic the first time I used Stack Overflow to ask a programming questio
 
 
 
-![](/blog/images/wordpress/dogfood.jpg)
+![](/images/wordpress/dogfood.jpg)
 
 
 

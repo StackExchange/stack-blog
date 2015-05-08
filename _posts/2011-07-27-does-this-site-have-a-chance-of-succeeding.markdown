@@ -104,7 +104,7 @@ All those other statistics will come in time. Don't worry about the actual numbe
 
 As far as the "worrying" statistics above, it's not really all that unexpected. Most Stack Exchange sites are not _expected_ to be an overnight success. Most go through a steady period of building up content before reaching critical mass.
 
-![](/blog/images/wordpress/number-of-visits-graph.png)
+![](/images/wordpress/number-of-visits-graph.png)
 
 What we generally see with Stack Exchange sites is nice, steady traffic going kind of horizontally for a while; then, at some unpredictable point, we hit critical mass and POW all the indicators start climbing inexorably. This is the right point for a site to come out of public beta.
 

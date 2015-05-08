@@ -19,7 +19,7 @@ Are you familiar with the way [craigslist](http://craigslist.org) handles [post 
 
 
 
-![craigslist-flagging](/blog/images/wordpress/craigslist-flagging.png)
+![craigslist-flagging](/images/wordpress/craigslist-flagging.png)
 
 
 
@@ -27,7 +27,7 @@ Based on recent feedback, we're **enhancing Stack Overflow's flagging support** 
 
 
 
-![stackoverflow-flagging](/blog/images/wordpress/stackoverflow-flagging.png)
+![stackoverflow-flagging](/images/wordpress/stackoverflow-flagging.png)
 
 
 

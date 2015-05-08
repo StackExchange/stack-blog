@@ -44,7 +44,7 @@ Since Stack Overflow has **elements of wiki in its hybrid design, we also have t
 
 
 
-![Venn diagram: Wiki, Digg/Reddit, Blog, Forum](/blog/images/wordpress/venn-diagram.png)
+![Venn diagram: Wiki, Digg/Reddit, Blog, Forum](/images/wordpress/venn-diagram.png)
 
 
 
@@ -106,7 +106,7 @@ Note that the user who deleted a question is always identified, in giant type --
 
 
 
-![question-deletion-example](/blog/images/wordpress/question-deletion-example1.png)
+![question-deletion-example](/images/wordpress/question-deletion-example1.png)
 
 
 
@@ -114,7 +114,7 @@ If someone deletes an individual answer -- this can, by definition, only be done
 
 
 
-![answer-deletion-example](/blog/images/wordpress/answer-deletion-example.png)
+![answer-deletion-example](/images/wordpress/answer-deletion-example.png)
 
 
 
