@@ -431,7 +431,7 @@ article.author {
 		}
 	}
 	&.large {
-		margin-bottom: 25px;
+		padding-top: 50px;
 		img {
 			width: 100px;
 			height: 100px;
@@ -440,11 +440,12 @@ article.author {
 		}
 		.info {
 			padding-top: 5px;
-			.author-name {
-				font-size: 24px;
+			h2 {
+				font-size: 18px;
 			}
-			.author-info {
+			h3 {
 				font-size: 14px;
+				font-weight: normal;
 			}
 		}
 	}
