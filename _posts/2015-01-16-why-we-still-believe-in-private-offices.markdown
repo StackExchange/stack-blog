@@ -242,4 +242,5 @@ _Obviously a [designer](http://graphicdesign.stackexchange.com/users/3/jin). And
 
 
 [![](http://i.stack.imgur.com/HImCP.jpg)](http://i.stack.imgur.com/w2hBT.jpg)
+
 _Obviously [less of a designer](http://stackoverflow.com/users/3279/ben-collins). But look at all dem monitors!_
