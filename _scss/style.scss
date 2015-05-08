@@ -367,11 +367,25 @@ article.post {
 		.entry {
 			color: rgba(0,0,0,0.8);
 			font-size: 18px;
+			h1 {
+				font-size: 40px;
+			}
+			h2 {
+				font-size: 32px;
+			}
+			h3 {
+				font-size: 22px;
+			}
 			a, a:link, a:hover, a:visited {
 				color: $blue;
 			}
 			p {
 				line-height: 28px;
+			}
+			ul {
+				li {
+					line-height: 28px;
+				}
 			}
 			img {
 				max-width: 100%;
