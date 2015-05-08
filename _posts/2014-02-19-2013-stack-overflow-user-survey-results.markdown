@@ -35,4 +35,4 @@ As our Stack Exchange team is growing and [we have more employees working remote
 
 Here’s a special infographic to sum up our survey findings. If you’d like to do your own analysis you can [download the survey results](https://docs.google.com/spreadsheets/d/16C6ZeNSvd-qIg45J9E-vx2YCsD8w5oZaSTUtJ-52e-w/edit?usp=sharing).
 
-[![developers_final](/images/wordpress/developers_final.png)](/images/wordpress/developers_final.png)
+<a href="/images/wordpress/developers_final.png"><img src="/images/wordpress/developers_final.png" style="width: 100%;"></a>
