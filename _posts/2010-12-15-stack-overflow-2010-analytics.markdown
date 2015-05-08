@@ -34,7 +34,7 @@ These numbers are from Google Analytics for the period of January 1, 2010 to Dec
 
 
 
-![](/blog/images/wordpress/stack-overflow-world-visitors-20101.png)
+![](/images/wordpress/stack-overflow-world-visitors-20101.png)
 
 
 

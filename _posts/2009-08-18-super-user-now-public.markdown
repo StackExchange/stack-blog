@@ -26,7 +26,7 @@ It's exciting to [complete the trilogy](http://blog.stackoverflow.com/2009/05/th
 
 
 
-![](/blog/images/wordpress/ewoks.jpg)
+![](/images/wordpress/ewoks.jpg)
 
 
 

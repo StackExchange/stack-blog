@@ -37,7 +37,7 @@ Realizing the need for a brand was easy, coming up with it was another story. Go
 
 
 
-![](/blog/images/wordpress/arqade-blue-300x256.png)
+![](/images/wordpress/arqade-blue-300x256.png)
 
 
 We made a [meta post](http://meta.arqade.com/q/4589/16718) announcing a [special chat room](http://chat.stackexchange.com/rooms/info/3237/naming-for-gaming?tab=general) dedicated to a week-long brainstorming session. The rules for the chat room were simple: no discussion, only suggestions. Star suggestions you like, and ignore the ones you don’t. The criteria for the domain name were a bit more complicated:

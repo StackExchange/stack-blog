@@ -52,7 +52,7 @@ Please read, this is not the usual yadda yadda! Three things:
 
   3. As of November 2010, we enhanced the format of the data dump to include more requested fields, full revision history, and [many other pending meta requests tagged [data-dump]](http://meta.stackoverflow.com/questions/tagged/data-dump%2bstatus-completed?sort=active). That's why the dump is so much larger, but we did break it out in individual files per site within the torrent, so you can download just the files you need. 
 
-![](/blog/images/wordpress/clearbits-torrent-files.png)
+![](/images/wordpress/clearbits-torrent-files.png)
 
 
 

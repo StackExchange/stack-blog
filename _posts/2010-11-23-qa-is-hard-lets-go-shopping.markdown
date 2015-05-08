@@ -20,7 +20,7 @@ Over the last 2.5 years, we've identified a few problematic classes of questions
 
 However, as we launched [the great Super User experiment](http://superuser.com/), a new, previously unknown class of problematic questions emerged -- the **shopping recommendation**.
 
-![](/blog/images/wordpress/barbie-shopping.jpg)
+![](/images/wordpress/barbie-shopping.jpg)
 
 That is, on [Super User](http://superuser.com/) we began encountering questions like:
 

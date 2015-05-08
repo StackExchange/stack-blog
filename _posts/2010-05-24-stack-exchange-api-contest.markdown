@@ -54,7 +54,7 @@ To ensure that we get lots of feedback on our public API beta, and produce some 
 
 
 
-![](/blog/images/wordpress/api-contest-prize-monitors1.jpg)
+![](/images/wordpress/api-contest-prize-monitors1.jpg)
 
 
 

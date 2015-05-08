@@ -50,7 +50,7 @@ That's where the problem starts.
 But software and programming isn't always a hard science, either. Once you get past the _does this code compile or not_ questions, you're dealing with issues of best practices, experiences, and behaviors. Perhaps because our communities have become so accustomed to getting quick, accurate, and timely answers, they feel that even a subjective Stack Overflow is better than the alternatives. So much so, that our fellow programmers created [a sister site specifically for their pent up subjective questions](http://programmers.stackexchange.com). Take one heaping pile of subjective questions, bottle it up for over two years and… _kablooey!_
 
 [
-![](/blog/images/wordpress/programmers-se.png)
+![](/images/wordpress/programmers-se.png)
 ](http://programmers.stackexchange.com)
 
 The [programmers.stackexchange.com](http://programmers.stackexchange.com/) site exploded overnight, hosting some of the best (and worst) questions on the Stack Exchange network. 
@@ -74,7 +74,7 @@ The folks at Moms4mom owned up to the subjective issue and came up with a set of
 
 They talk about how "opinion, by itself, is noise." They're not saying that subjective opinions are to be avoided; they're attempting to mold  and shape their inherently subjective Q&A; into something constructive, informative and helpful. As it turns out, there is an entire field of subjective "expertise" that has the hallmarks of making **great Q&A sites**:
 
-![](/blog/images/wordpress/screenshot-0.png)
+![](/images/wordpress/screenshot-0.png)
 
 If we can avoid conversations that are -- and this is the really tricky part -- _too subjective_, we can maintain the ideals of great Q&A in the face of completely subjective topics. We can _avoid_ falling into the predictable destructive patterns of random discussion, debate, and opinion that turn a site from a learning experience into a glorified cheap-thrills gossip rag.
 

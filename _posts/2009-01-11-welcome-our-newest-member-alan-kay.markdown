@@ -19,7 +19,7 @@ I was amused to see this pop up on the [Stack Overflow](http://stackoverflow.com
 
 
 
-![stackoverflow-badges-alan-kay](/blog/images/wordpress/stackoverflow-badges-alan-kay.png)
+![stackoverflow-badges-alan-kay](/images/wordpress/stackoverflow-badges-alan-kay.png)
 
 
 

@@ -19,7 +19,7 @@ We noticed something unusual on our [Cacti](http://www.cacti.net/) graphs today.
 
 
 
-![stackoverflow-cacti-graph-june-15-2009](/blog/images/wordpress/stackoverflow-cacti-graph-june-15-2009.png)
+![stackoverflow-cacti-graph-june-15-2009](/images/wordpress/stackoverflow-cacti-graph-june-15-2009.png)
 
 
 

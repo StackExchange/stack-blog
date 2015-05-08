@@ -19,7 +19,7 @@ You'll notice that **the top 5 comments are now shown under each question or ans
 
 
 
-![stackoverflow-comments-top-n](/blog/images/wordpress/stackoverflow-comments-top-n.png)
+![stackoverflow-comments-top-n](/images/wordpress/stackoverflow-comments-top-n.png)
 
 
 

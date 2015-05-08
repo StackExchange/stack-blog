@@ -18,7 +18,7 @@ If you ever listened to our [sadly defunct podcast](http://blog.stackoverflow.co
 
 We decided to create Twitter accounts for each Stack Exchange 2.0 site that will **broadcast interesting questions every so often**. Believe me -- I despise spam as much as anyone, and I fully realize that [Twitter is not RSS](http://twitter.com/#!/isnotrss) ...
 
-![Stop spamming Twitter with auto-generated tweets saying nothing more than that you posted something somewhere else.](/blog/images/wordpress/twitter-is-not-rss.png)
+![Stop spamming Twitter with auto-generated tweets saying nothing more than that you posted something somewhere else.](/images/wordpress/twitter-is-not-rss.png)
 
 ... but the fact is that **a lot of questions generated on our sites are really quite interesting**. The more people that discover our high quality Q&A; _and join us_ -- the better the community becomes for everyone!
 

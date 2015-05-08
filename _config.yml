@@ -9,7 +9,7 @@ name: Stack Exchange Blog
 description: A destination for all things related to development at Stack Exchange
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /blog/images/blog-logo.svg
+avatar: /images/blog-logo.svg
 
 #
 # Flags below are optional

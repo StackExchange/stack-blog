@@ -56,7 +56,7 @@ If you're wondering what's so special about Stack Overflow, the answer is -- wel
 
 
 
-![stackoverflow-venn-diagram](/blog/images/wordpress/stackoverflow-venn-diagram.png)
+![stackoverflow-venn-diagram](/images/wordpress/stackoverflow-venn-diagram.png)
 
 
 

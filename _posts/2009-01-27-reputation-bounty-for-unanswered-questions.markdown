@@ -54,7 +54,7 @@ You'll see the "start a bounty" link at the bottom of the question.
 
 
 
-![bounty-collapsed](/blog/images/wordpress/bounty-collapsed.png)
+![bounty-collapsed](/images/wordpress/bounty-collapsed.png)
 
 
 
@@ -62,7 +62,7 @@ Clicking on it expands the bounty panel. Use the slider to establish a reputatio
 
 
 
-![bounty-expanded](/blog/images/wordpress/bounty-expanded.png)
+![bounty-expanded](/images/wordpress/bounty-expanded.png)
 
 
 
@@ -70,7 +70,7 @@ Everyone who visits the question will see the active bounty details posted direc
 
 
 
-![bounty-question-countdown](/blog/images/wordpress/bounty-question-countdown.png)
+![bounty-question-countdown](/images/wordpress/bounty-question-countdown.png)
 
 
 
@@ -82,7 +82,7 @@ There are some definite perks to being a bountied question:
 
 
 
-![bounty-tab-and-markers](/blog/images/wordpress/bounty-tab-and-markers.png)
+![bounty-tab-and-markers](/images/wordpress/bounty-tab-and-markers.png)
 
 
 
@@ -126,7 +126,7 @@ Note that all bounty awards are immune to the daily reputation cap, of course. A
 
 
 
-![bounty-accepted](/blog/images/wordpress/bounty-accepted.png)
+![bounty-accepted](/images/wordpress/bounty-accepted.png)
 
 
 

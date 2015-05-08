@@ -49,7 +49,7 @@ It's amazing [how cheap server hardware has gotten](http://www.codinghorror.com/
 
 
 
-![Stackoverflow server task manager](/blog/images/wordpress/stackoverflow-server-task-manager.png)
+![Stackoverflow server task manager](/images/wordpress/stackoverflow-server-task-manager.png)
 
 
 

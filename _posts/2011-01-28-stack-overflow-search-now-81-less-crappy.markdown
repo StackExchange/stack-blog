@@ -63,7 +63,7 @@ Kudos to [Nick Craver](http://blog.stackoverflow.com/2011/01/welcome-valued-asso
 
 Please try out our new, improved search on your favorite [Stack Exchange site](http://stackexchange.com/sites) and let us know what you think. Just look for the ubiquitous search box in the upper right hand corner of every site; type what you want to find and press Enter.
 
-![](/blog/images/wordpress/unix-linux-search-box.png)
+![](/images/wordpress/unix-linux-search-box.png)
 
 Remember that search drives three areas of the site:
 

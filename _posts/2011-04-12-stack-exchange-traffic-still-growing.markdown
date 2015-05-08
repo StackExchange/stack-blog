@@ -25,7 +25,7 @@ Quantcast doesn't provide very robust measurement tools, so we use Google Analyt
 
 Also, for reasons we have never figured out, Google Analytics just gets larger numbers than Quantcast. Right now GA is showing more visitors (15 million) on stackoverflow.com _alone_ than Quantcast sees on the whole network:
 
-![](/blog/images/wordpress/GA-Visitors1.png)
+![](/images/wordpress/GA-Visitors1.png)
 
 Why? I don't know. Either Google Analytics loses cookies sometimes, or Quantcast misses visitors. Counting is an inexact science.
 

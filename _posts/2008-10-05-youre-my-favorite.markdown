@@ -18,7 +18,7 @@ We just implemented another highly requested feature -- **the ability to mark a 
 
 
 
-![stackoverflow-favorites-closeup](/blog/images/wordpress/stackoverflow-favorites-closeup.png)
+![stackoverflow-favorites-closeup](/images/wordpress/stackoverflow-favorites-closeup.png)
 
 
 
@@ -26,7 +26,7 @@ Click to favorite. Click again to un-favorite. Once favorited, these questions w
 
 
 
-![stackoverflow-favorites](/blog/images/wordpress/stackoverflow-favorites.png)
+![stackoverflow-favorites](/images/wordpress/stackoverflow-favorites.png)
 
 
 

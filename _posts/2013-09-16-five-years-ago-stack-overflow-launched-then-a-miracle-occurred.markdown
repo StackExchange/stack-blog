@@ -128,7 +128,7 @@ The next chapter of Stack Exchange is still being written. A few years ago, we w
 </blockquote>
 
 
-![fredrogers shadow](/blog/images/wordpress/fredrogers-shadow-300x266.jpg)
+![fredrogers shadow](/images/wordpress/fredrogers-shadow-300x266.jpg)
 
 
 We asked people what other sites they wanted, and carefully started launching them, one at a time. Each time, we were counting on a group of experts to come together and start asking and answering each other’s questions. There have been a few failures along the way, but overall, the successes have been amazing.

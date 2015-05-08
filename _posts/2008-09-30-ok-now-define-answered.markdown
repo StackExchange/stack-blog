@@ -22,7 +22,7 @@ For a community predicated on the value of getting answers to your programming q
 
 
 
-![riddler](/blog/images/wordpress/riddler.png)
+![riddler](/images/wordpress/riddler.png)
 
 
 

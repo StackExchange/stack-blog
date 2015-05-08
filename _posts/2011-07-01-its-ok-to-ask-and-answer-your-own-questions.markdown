@@ -22,7 +22,7 @@ The FAQ has contained [one key bit of advice](http://stackoverflow.com/faq#quest
 <blockquote>
   It’s also perfectly fine to ask and answer your own question, as long as you pretend you’re on [_Jeopardy!_](http://en.wikipedia.org/wiki/Jeopardy!) -- phrase it in the form of a question.
   
-  ![](/blog/images/wordpress/jeopardy-set1.jpg)
+  ![](/images/wordpress/jeopardy-set1.jpg)
 </blockquote>
 
 

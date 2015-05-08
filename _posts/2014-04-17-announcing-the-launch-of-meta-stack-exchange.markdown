@@ -20,13 +20,13 @@ We’re very pleased to announce that as of today, we’re (finally) splitting t
 **[Meta Stack Overflow](http://meta.stackoverflow.com)** is a brand-spanking new site for discussions specific to the Stack Overflow (programming) community:
 
 
- [![Meta Stack Overflow](/blog/images/wordpress/Meta-Stack-Overflow.png)](/blog/images/wordpress/Meta-Stack-Overflow.png)
+ [![Meta Stack Overflow](/images/wordpress/Meta-Stack-Overflow.png)](/images/wordpress/Meta-Stack-Overflow.png)
 
 
 **[Meta Stack Exchange](http://meta.stackexchange.com)** will cover feature requests, bugs, and any discussion topics that affect the entire network:
 
 
- [![Meta Stack Exchange](/blog/images/wordpress/Meta-Stack-Exchange.png)](/blog/images/wordpress/Meta-Stack-Exchange.png)
+ [![Meta Stack Exchange](/images/wordpress/Meta-Stack-Exchange.png)](/images/wordpress/Meta-Stack-Exchange.png)
 
 
 Meta has always been one of the most important things that make our network… work. Almost all of our most important features, improvements, and community rules were partly or entirely based on our users telling us how we could help you help more people. Hell, even the idea of Meta itself came from the community - and we fought it hard before we realized how right you guys were. But meta has always had two key functions:

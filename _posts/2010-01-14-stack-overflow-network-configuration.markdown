@@ -23,7 +23,7 @@ Here's a diagram of our current network layout:
 
 
 
-[![](/blog/images/wordpress/stack-overflow-network-diagram-small.png)](/blog/images/wordpress/stack-overflow-network-diagram.png)
+[![](/images/wordpress/stack-overflow-network-diagram-small.png)](/images/wordpress/stack-overflow-network-diagram.png)
 
 
 

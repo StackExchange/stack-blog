@@ -65,7 +65,7 @@ As for setting up the QNAP TS-409U, I was a little annoyed that you have to run 
 
 
 
-![ts409u-sata-config](/blog/images/wordpress/ts409u-sata-config.png)
+![ts409u-sata-config](/images/wordpress/ts409u-sata-config.png)
 
 
 

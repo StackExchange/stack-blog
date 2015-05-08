@@ -21,7 +21,7 @@ That's why I am in the process of **identifying and organizing a team of provisi
 
 Moderators in Stack Exchange have an interesting challenge. Beside the [normal activities of a Moderator](http://blog.stackoverflow.com/2009/05/a-theory-of-moderation/), part of their function is to act as _liaison_ — a role which links the Stack Exchange team with the individual communities.
 
-![](/blog/images/wordpress/se-2-moderator.png)
+![](/images/wordpress/se-2-moderator.png)
 
 A Moderator is the site's representative to the Network.
 
@@ -39,7 +39,7 @@ A Moderator is the site's representative to the Network.
 
 **We need leadership from within the community to help each site succeed_,_** and Moderators assure that that _their_ site is well represented.
 
-![](/blog/images/wordpress/leadership.jpg)
+![](/images/wordpress/leadership.jpg)
 
 Of course, if the idea involves the core engine or applies to a broader range of sites, the idea should be raised in [meta.stackexchange.com](http://meta.stackexchange.com/): the "capital city" of Stack Exchange.
 

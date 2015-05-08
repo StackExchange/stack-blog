@@ -50,7 +50,7 @@ It's clear that having two sites is a proven, workable, and necessary arrangemen
 
 
 
-![](/blog/images/wordpress/angry_unicorn.png)
+![](/images/wordpress/angry_unicorn.png)
 
 
 

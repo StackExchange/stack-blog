@@ -18,7 +18,7 @@ I noticed that our friends at [UserVoice](http://uservoice.com) now support [Ope
 
 
 
-![uservoice-openid](/blog/images/wordpress/uservoice-openid.png)
+![uservoice-openid](/images/wordpress/uservoice-openid.png)
 
 
 

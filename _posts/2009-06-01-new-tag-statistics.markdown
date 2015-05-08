@@ -19,7 +19,7 @@ We've added a **new stats tab to the tag view** that shows some basic statistics
 
 
 
-![tag-stats](/blog/images/wordpress/tag-stats.png)
+![tag-stats](/images/wordpress/tag-stats.png)
 
 
 

@@ -18,7 +18,7 @@ It's been a little over a year since [our last improvement to the bounty system]
 
 We used to limit people to one question bounty at a time, but now you can have up to **three simultaneous question bounties**. We also show the history and number of bounties you've started or participated in on your user page, on the **bounties tab**.
 
-![](/blog/images/wordpress/user-page-bounty-tab.png)
+![](/images/wordpress/user-page-bounty-tab.png)
 
 Upon further reflection, we realized that it can be difficult to tell exactly what a question bounty is _for_. That is, what is the bounty owner -- who may or may not be the question owner -- looking for in the answers to this question? What's the intent of this bounty? How will it be awarded? So we added a choice of **bounty reasons** that explain _why_ the bounty exists:
 
@@ -54,7 +54,7 @@ One or more of the answers is exemplary and worthy of an additional bounty.
 
 Beyond these standard reasons, which we think are typical and should work for most types of question bounties, you can also enter some **optional, additional custom text** that describes in more detail what you want from the bounty. Both are displayed at the bottom of the bounty notice to help explain what's going on, and how you can potentially earn the bounty:
 
-![](/blog/images/wordpress/bounty-reason.png)
+![](/images/wordpress/bounty-reason.png)
 
 There have also been a few other minor tweaks to bounties:
 

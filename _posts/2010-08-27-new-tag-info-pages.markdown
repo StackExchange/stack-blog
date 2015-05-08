@@ -32,7 +32,7 @@ Clicking on a given tag …
 
 
 
-![](/blog/images/wordpress/question-tags-highlighted2.png)
+![](/images/wordpress/question-tags-highlighted2.png)
 
 
 
@@ -40,7 +40,7 @@ Clicking on a given tag …
 
 
 
-![](/blog/images/wordpress/tag-page-house-ad1.png)
+![](/images/wordpress/tag-page-house-ad1.png)
 
 
 
@@ -95,7 +95,7 @@ Answers are considered hot for a tag when they are top-voted, not community wiki
 
 
 
-![](/blog/images/wordpress/tag-hot-answers.png)
+![](/images/wordpress/tag-hot-answers.png)
 
 
 
@@ -111,7 +111,7 @@ It's exactly what you might think -- a simple chronological list of new answers 
 
 
 
-![](/blog/images/wordpress/tag-new-answers.png)
+![](/images/wordpress/tag-new-answers.png)
 
 
 

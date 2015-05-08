@@ -22,7 +22,7 @@ The winner was [Joshua Cliff](http://www.joshuacliff.com/), with entry #184. Wha
 
 
 
-![stackoverflow-serverfault-logos](/blog/images/wordpress/stackoverflow-serverfault-logos1.png)
+![stackoverflow-serverfault-logos](/images/wordpress/stackoverflow-serverfault-logos1.png)
 
 
 
@@ -34,7 +34,7 @@ Runner up #1 is from [Umasankar Arumugam](http://99designs.com/users/245213), wh
 
 
 
-![serverfault-logo-runner-up-1](/blog/images/wordpress/serverfault-logo-runner-up-1.png)
+![serverfault-logo-runner-up-1](/images/wordpress/serverfault-logo-runner-up-1.png)
 
 
 
@@ -42,7 +42,7 @@ Runner up #2 is from [Daniel L](http://99designs.com/users/305484), another firs
 
 
 
-![serverfault-logo-runner-up-2](/blog/images/wordpress/serverfault-logo-runner-up-2.png)
+![serverfault-logo-runner-up-2](/images/wordpress/serverfault-logo-runner-up-2.png)
 
 
 

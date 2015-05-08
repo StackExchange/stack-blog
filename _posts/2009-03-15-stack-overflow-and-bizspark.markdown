@@ -19,7 +19,7 @@ Stack Overflow is language and platform agnostic by design. We feel that **build
 
 
 
-![screwdrivers](/blog/images/wordpress/screwdrivers.jpg)
+![screwdrivers](/images/wordpress/screwdrivers.jpg)
 
 
 
@@ -35,7 +35,7 @@ One downside of a Microsoft stack for a young, poor startup (have I mentioned th
 
 
 
-![moxie](/blog/images/wordpress/moxie.jpg)
+![moxie](/images/wordpress/moxie.jpg)
 
 
 

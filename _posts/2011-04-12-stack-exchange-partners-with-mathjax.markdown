@@ -56,7 +56,7 @@ It is quite an honor to be on the sponsors page alongside organizations like [Pr
 
 If you'd like to test out math notation on one of our sites, refer to a [LaTeX2 mathematical notation reference](http://www.math.harvard.edu/texman/) and remember that `$$` and `$$` are the delimiters that indicate when you enter and leave LaTeX2 mode.
 
-![](/blog/images/wordpress/mathjax-math-stackexchange-preview.png)
+![](/images/wordpress/mathjax-math-stackexchange-preview.png)
 
 Pause a few seconds for the real-time preview to kick in and see what kind of math you've wrought in your answer. Or, just view MathJax in action on the existing Q&A; at [quant](http://quant.stackexchange.com/), [electronics](http://electronics.stackexchange.com/), [stats](http://stats.stackexchange.com/),  [physics](http://physics.stackexchange.com/), [cstheory](http://cstheory.stackexchange.com/), and of course [math](http://math.stackexchange.com/). Click the edit link (recently made [available to all users](http://blog.stackoverflow.com/2011/02/suggested-edits-and-edit-review/)) on any post to see the underlying markup.
 

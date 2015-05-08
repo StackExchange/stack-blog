@@ -23,7 +23,7 @@ As of now, every new badge award -- and most historically awarded badges -- will
 
 
 
-![](/blog/images/wordpress/necromancer-badge-awards.png)
+![](/images/wordpress/necromancer-badge-awards.png)
 
 
 
@@ -37,22 +37,22 @@ As part of this major overhaul, we also added some bronze badges for our [improv
 
 <table cellpadding="2" cellspacing="2" >
 <tr >
-<td >![promoter](/blog/images/wordpress/promoter.png)
+<td >![promoter](/images/wordpress/promoter.png)
 </td>
 <td >First bounty you offered on your own question
 </td></tr>
 <tr >
-<td >![benefactor](/blog/images/wordpress/benefactor.png)
+<td >![benefactor](/images/wordpress/benefactor.png)
 </td>
 <td >First bounty you manually awarded on your own question
 </td></tr>
 <tr >
-<td >![investor](/blog/images/wordpress/investor.png)
+<td >![investor](/images/wordpress/investor.png)
 </td>
 <td >First bounty you offered on another person's question
 </td></tr>
 <tr >
-<td >![altruist](/blog/images/wordpress/altruist.png)
+<td >![altruist](/images/wordpress/altruist.png)
 </td>
 <td >First bounty accepted on another person's question (not by the system)
 </td></tr>
@@ -74,7 +74,7 @@ We've also added a gold badge to reward the master editors, in tandem with the e
 
 <table cellpadding="2" cellspacing="2" >
 <tr >
-<td >![copy-editor](/blog/images/wordpress/copy-editor.png)
+<td >![copy-editor](/images/wordpress/copy-editor.png)
 </td>
 <td >Edited 600 entries
 </td></tr>
@@ -88,12 +88,12 @@ Finally, we introduced another set of badges based on accepted answers to specif
 
 <table cellpadding="2" cellspacing="2" >
 <tr >
-<td >![tenacious](/blog/images/wordpress/tireless.png)
+<td >![tenacious](/images/wordpress/tireless.png)
 </td>
 <td >Zero score accepted answers: more than 5 and 20% of total
 </td></tr>
 <tr >
-<td >![unsung hero](/blog/images/wordpress/unsung-hero.png)
+<td >![unsung hero](/images/wordpress/unsung-hero.png)
 </td>
 <td >Zero score accepted answers: more than 10 and 25% of total
 </td></tr>

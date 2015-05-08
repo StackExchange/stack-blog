@@ -15,7 +15,7 @@ tags:
 
 We've been busy! So busy, in fact, that this post only takes us through the hires we made in June and July. More announcements are coming soon ... in the meantime, get to know these 13 wonderful people who now call Stack Exchange home.
 
-**![Ericson, Jon](/blog/images/wordpress/Ericson-Jon.png)**
+**![Ericson, Jon](/images/wordpress/Ericson-Jon.png)**
 
 **Jon Ericson, Community Manager, **_Burbank, CA_
 
@@ -23,7 +23,7 @@ As an Air Force brat, Jon grew up all over the world but has lived in the Los A
 
 
 
-**![Grant, Dean](/blog/images/wordpress/Grant-Dean.jpg)**
+**![Grant, Dean](/images/wordpress/Grant-Dean.jpg)**
 
 
 
@@ -35,7 +35,7 @@ Dean joined Stack Exchange this summer after spending 10 years in the _Wall Stre
 
 
 
-**![Holley, Max](/blog/images/wordpress/Holley-Max.jpg)**
+**![Holley, Max](/images/wordpress/Holley-Max.jpg)**
 
 
 
@@ -45,7 +45,7 @@ Max grew up in Austin, TX and survived on live music, breakfast tacos, and Tex-M
 
   
 
-**![Hynes, Joshua](/blog/images/wordpress/Hynes-Joshua.png)**
+**![Hynes, Joshua](/images/wordpress/Hynes-Joshua.png)**
 
 
 
@@ -55,7 +55,7 @@ After growing up with a love for art and problem-solving, Josh has been designin
 
 
 
-******![Medrano, Marvin](/blog/images/wordpress/Medrano-Marvin.jpg)**
+******![Medrano, Marvin](/images/wordpress/Medrano-Marvin.jpg)**
 
 
 
@@ -67,7 +67,7 @@ Marvin graduated from John Jay College. His past employers include East End Kitc
 
 
 
-**![Nothnagle, Jessica](/blog/images/wordpress/Nothnagle-Jessica.jpg)**
+**![Nothnagle, Jessica](/images/wordpress/Nothnagle-Jessica.jpg)**
 
 **Jessica Nothnagle, Sales Representative (Careers 2.0), **_Denver_
 
@@ -77,13 +77,13 @@ Jessica was born and raised in Rochester, NY and just recently made the move to 
 
 
 
-**![Nyman, Angela](/blog/images/wordpress/Nyman-Angela.jpg)Angela Nyman, EMEA Marketing Manager, **_London_
+**![Nyman, Angela](/images/wordpress/Nyman-Angela.jpg)Angela Nyman, EMEA Marketing Manager, **_London_
 
 Angela was born and raised in Sweden but decided to leave it all behind at the age of 18. She lived in the US for a year before heading off to a private university in Italy. She worked as a marketing manager in Spain, France, and the UK, fitting in a couple of ski seasons in between, before deciding to travel the world. In 2009 she settled down in what is now properly her home: London!  Angela has a background in marketing for the gaming industry, having run one of Europe's largest poker tours, The WPT, for years. She is super excited about taking on another challenge in a new industry doing what she loves. Outside of work, Angela loves exploring new places and doing everything yoga, fitness, mind & health related.
 
 
 
-**![Prelog, Samo](/blog/images/wordpress/Prelog-Samo.jpg)**
+**![Prelog, Samo](/images/wordpress/Prelog-Samo.jpg)**
 
 **Samo Prelog, Web Developer (Core), **_Ljutomer, Slovenia_
 
@@ -91,13 +91,13 @@ Samo (left) grew up in Ljutomer, studied in Maribor, and now lives in Lenart - a
 
 
 
-**![Rahman, Tania](/blog/images/wordpress/Rahman-Tania.jpg)Tania Rahman, Sales Representative (Careers 2.0), **_London_
+**![Rahman, Tania](/images/wordpress/Rahman-Tania.jpg)Tania Rahman, Sales Representative (Careers 2.0), **_London_
 
 Born and raised in a tiny village in Hampshire complete with thatched-roofed cottages, Tania has been living in London in the heart of the Olympic Village for over 4 years. Tania designed an award winning doughnut aptly named 'Death By Chocolate' which was available in petrol (gas) stations across the UK for a limited period. Due to the over consumption of doughnuts, Tania decided the best way to work the extra calories off was by running the London Marathon, which she did in 2013. When she's not busy checking out the latest pop up restaurant she can be found with her nose in a good book or learning to swim...sometimes both!
 
 
 
-![Sireci, Phil](/blog/images/wordpress/Sireci-Phil.jpg)
+![Sireci, Phil](/images/wordpress/Sireci-Phil.jpg)
 
 
 
@@ -109,7 +109,7 @@ Phil graduated from the French Culinary Institute. His impressive career include
 
 
 
-![Sobel, Shanna](/blog/images/wordpress/Sobel-Shanna.jpg)
+![Sobel, Shanna](/images/wordpress/Sobel-Shanna.jpg)
 
 
 
@@ -119,7 +119,7 @@ Shanna graduated from FIT with Bachelor in Fine Arts. She went on to receive a d
 
 
 
-![Toney, Angela](/blog/images/wordpress/Toney-Angela.jpg)
+![Toney, Angela](/images/wordpress/Toney-Angela.jpg)
 
 
 
@@ -129,7 +129,7 @@ Angela grew up in the American Southwest, attended college in rural Virginia, an
 
 
 
-![Zizzo, Jonathan](/blog/images/wordpress/Zizzo-Jonathan.jpg)
+![Zizzo, Jonathan](/images/wordpress/Zizzo-Jonathan.jpg)
 
 
 

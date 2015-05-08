@@ -18,7 +18,7 @@ tags:
 
 Several [Area 51 sites](http://area51.stackexchange.com/) have made it from being mere proposals to vibrant, thriving websites.
 
-![](/blog/images/wordpress/new-public-sites.png)
+![](/images/wordpress/new-public-sites.png)
 
 Namely, [webapps](http://webapps.stackexchange.com), [gaming](http://gaming.stackexchange.com), [ubuntu](http://askubuntu.com), [webmasters](http://webmasters.stackexchange.com), and very soon, [cooking](http://cooking.stackexchange.com).
 
@@ -55,7 +55,7 @@ We realized that **off-topic** is the launching point for deciding "if this ques
 
 We've consolidated and enhanced off-topic to better cover this scenario. Now, when you click off-topic as a close reason, we also present possible migration paths -- that is, other sites in our network that might work for these wayward off-topic questions.
 
-![](/blog/images/wordpress/new-offtopic-dialog.png)
+![](/images/wordpress/new-offtopic-dialog.png)
 
 Now, we are only "unlocking" migration paths that have some history of actually happening on the site. In other words, the odds of a [bicycles](http://bicycles.stackexchange.com) or [cooking](http://cooking.stackexchange.com) question being accidentally asked on Stack Overflow is so vanishingly slim that we don't need to put it in the dialog or even allow it to happen at all. Whereas I constantly regretted the fact that we had amazingly good webmaster questions asked ALL THE TIME on Stack Overflow that simply had _nothing to do with programming_, and had to be closed as off-topic. This pained me.
 

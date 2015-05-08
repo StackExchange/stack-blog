@@ -61,7 +61,7 @@ website: http://www.jonhmchan.com/
 
 If you are a developer, you can do this simply by submitting a PR or adding this file to the `_authors` directory. If you are not a developer, you can use [this link on GitHub](https://github.com/StackExchange/blog/new/gh-pages/_authors) to create this file, then submit your changes by adding a commit message like `Added [your name] to authors` and hitting the `Commit new file` button:
 
-![Adding yourself as an author](http://stackexchange.github.io/blog/images/adding_authors.png)
+![Adding yourself as an author](http://stackexchange.github.io/images/adding_authors.png)
 
 Once you do commit this file, you may be asked to create a pull request. Click `Create Pull Request` to do so:
 
@@ -146,7 +146,7 @@ Any tags that already have an associated markdown file in the `_tags` folder wil
 
 **Where to get good hero images**
  - [Unsplash](https://unsplash.com/grid)
- - You can also upload them to `images` and it will be accessible using `/blog/images/path-to-your-image`
+ - You can also upload them to `images` and it will be accessible using `/images/path-to-your-image`
  - Search our internal drive for "Photos" there are a number of professional photos we have in store
 
 **Code snippets**

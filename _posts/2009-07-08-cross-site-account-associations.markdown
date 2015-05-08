@@ -20,7 +20,7 @@ If you check your user page, you'll find a new **accounts tab**.
 
 
 
-![stack-overflow-account-association-google-openid](/blog/images/wordpress/stack-overflow-account-association-google-openid.png)
+![stack-overflow-account-association-google-openid](/images/wordpress/stack-overflow-account-association-google-openid.png)
 
 
 
@@ -47,7 +47,7 @@ The associations, once made, are **public and visible for anyone to see on your 
 
 
 
-![so-related-accounts](/blog/images/wordpress/so-related-accounts1.png)
+![so-related-accounts](/images/wordpress/so-related-accounts1.png)
 
 
 

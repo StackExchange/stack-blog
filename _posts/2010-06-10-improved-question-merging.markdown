@@ -67,7 +67,7 @@ If you believe these should be merged, [flag them for moderator attention](http:
 
 
 
-[![](/blog/images/wordpress/question-merge-example-small.png)](/blog/images/wordpress/question-merge-example.png)
+[![](/images/wordpress/question-merge-example-small.png)](/images/wordpress/question-merge-example.png)
 
 
 

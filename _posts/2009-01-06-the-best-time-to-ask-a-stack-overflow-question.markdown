@@ -32,7 +32,7 @@ I did a quick query on non-deleted revisions, grouped by hour of day GMT time. H
 
 
 
-![stack-overflow-revision-dates-by-hour](/blog/images/wordpress/stack-overflow-revision-dates-by-hour.png)
+![stack-overflow-revision-dates-by-hour](/images/wordpress/stack-overflow-revision-dates-by-hour.png)
 
 
 

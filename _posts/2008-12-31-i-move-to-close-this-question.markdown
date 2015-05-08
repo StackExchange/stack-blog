@@ -19,7 +19,7 @@ As an active Stack Overflow user, one of the abilities you'll gain at 3,000 repu
 
 
 
-![stackoverflow-close-menu](/blog/images/wordpress/stackoverflow-close-menu.png)
+![stackoverflow-close-menu](/images/wordpress/stackoverflow-close-menu.png)
 
 
 
@@ -59,7 +59,7 @@ So as of tonight, I've taken Mike's advice. Jarrod implemented **vote-based ques
 
 
 
-![stackoverflow-move-to-close](/blog/images/wordpress/stackoverflow-move-to-close.png)
+![stackoverflow-move-to-close](/images/wordpress/stackoverflow-move-to-close.png)
 
 
 
@@ -67,7 +67,7 @@ Now, when you click "close", it's counted as a vote. **If three people agree tha
 
 
 
-![stackoverflow-move-to-open](/blog/images/wordpress/stackoverflow-move-to-open.png)
+![stackoverflow-move-to-open](/images/wordpress/stackoverflow-move-to-open.png)
 
 
 

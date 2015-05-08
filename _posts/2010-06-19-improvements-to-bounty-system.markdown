@@ -65,7 +65,7 @@ Assuming you have the minimum reputation required to award a bounty (currently 1
 
 
 
-![](/blog/images/wordpress/bounty-start-bounty.png)
+![](/images/wordpress/bounty-start-bounty.png)
 
 
 
@@ -73,7 +73,7 @@ Here, you can slice off a (non-refundable) piece of your own reputation -- from 
 
 
 
-![](/blog/images/wordpress/bounty-award-question-text.png)
+![](/images/wordpress/bounty-award-question-text.png)
 
 
 
@@ -85,7 +85,7 @@ If you're the bounty owner, you can award the bounty to a particular answer by s
 
 
 
-![](/blog/images/wordpress/bounty-award-indicators.png)
+![](/images/wordpress/bounty-award-indicators.png)
 
 
 
@@ -116,7 +116,7 @@ Once awarded, you'll see the bounty amount icon permanently affixed to the answe
 
 
 
-![](/blog/images/wordpress/bounty-answer-awarded.png)
+![](/images/wordpress/bounty-answer-awarded.png)
 
 
 

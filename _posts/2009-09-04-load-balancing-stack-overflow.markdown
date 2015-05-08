@@ -22,7 +22,7 @@ This _shouldn't_ cause any problems, but ...
 
 
 
-![Failure is always an option](/blog/images/wordpress/il_fullxfull.73753810.jpg)
+![Failure is always an option](/images/wordpress/il_fullxfull.73753810.jpg)
 
 
 

@@ -20,7 +20,7 @@ To kick off this “promotion seminar” series, here is a summary of previous
 **Sponsoring (or Crashing) Events**
 
 
-![](/blog/images/wordpress/lightsaber-1024x373.jpg)
+![](/images/wordpress/lightsaber-1024x373.jpg)
 
 
 
@@ -41,7 +41,7 @@ Also remember that the end goal is to drive users to your site. All the swag we
 
 **Surfing an Excitement Wave**
 
-![](/blog/images/wordpress/SkyrimVsMW31.jpg)
+![](/images/wordpress/SkyrimVsMW31.jpg)
 
 At the beginning of November, everyone in the Gaming community was really excited about the back to back launch of two epic games: Call of Duty: Modern Warfare 3 and The Elder Scrolls V: Skyrim.  We capitalized on that excitement by throwing a [launch party](http://blog.stackoverflow.com/2011/11/elder-scrolls-vs-call-of-duty-livestream-4-est/) on behalf of Gaming.SE to see which game generated the most interest. We converted the Fog Creek cafeteria into a gaming hub with food and commentators, and streamed it live. Oh, we also crashed (and filmed) the midnight releases of [both](http://chaos.stackexchange.com/2011/11/12566614716/) [games](http://chaos.stackexchange.com/2011/11/12655882964/).
 
@@ -65,7 +65,7 @@ _Give out swag_
 Site-specific swag, to be exact. Talk to the community, ask what would be useful, and then [get it for them](http://blog.stackexchange.com/2011/08/8745495085/).
 
 
-![](/blog/images/wordpress/comicconswag-768x1024.jpg)
+![](/images/wordpress/comicconswag-768x1024.jpg)
 
 
 _Connect people_

@@ -40,7 +40,7 @@ For the period of sponsorship, we've renamed this [the woot! badge](http://serve
 
 
 
-![woot-badge-grant-small](/blog/images/wordpress/woot-badge-grant-small.png)
+![woot-badge-grant-small](/images/wordpress/woot-badge-grant-small.png)
 
 
 
@@ -52,7 +52,7 @@ In fact, we liked the results from the Enthusiast badge so much we added another
 
 
 
-![fanatic-badge](/blog/images/wordpress/fanatic-badge.png)
+![fanatic-badge](/images/wordpress/fanatic-badge.png)
 
 
 
@@ -60,7 +60,7 @@ And remember, this is a continuous award: if you don't visit the site for a sing
 
 
 
-![combo-breaker](/blog/images/wordpress/combo-breaker.png)
+![combo-breaker](/images/wordpress/combo-breaker.png)
 
 
 

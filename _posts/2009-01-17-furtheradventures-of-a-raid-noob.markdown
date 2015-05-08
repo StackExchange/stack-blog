@@ -18,7 +18,7 @@ I mentioned in the last podcast that I wasn't sure how the **two-drive RAID mirr
 
 
 
-![lenovo-rs110-server](/blog/images/wordpress/lenovo-rs110-server.jpg)
+![lenovo-rs110-server](/images/wordpress/lenovo-rs110-server.jpg)
 
 
 
@@ -63,7 +63,7 @@ The server booted the OS fine. I entered the MegaRAID manager, and lo and behold
 
 
 
-![megaraid-mirror-live-rebuild](/blog/images/wordpress/megaraid-mirror-live-rebuild.png)
+![megaraid-mirror-live-rebuild](/images/wordpress/megaraid-mirror-live-rebuild.png)
 
 
 

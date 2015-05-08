@@ -121,7 +121,7 @@ To make these sensitive moderation scenarios easier, we just rolled out **on-sit
 
 
 
-![](/blog/images/wordpress/mod-contact-templates.png)
+![](/images/wordpress/mod-contact-templates.png)
 
 
 

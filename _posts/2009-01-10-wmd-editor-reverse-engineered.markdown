@@ -52,7 +52,7 @@ It turns out Dana is a huge fan of [fake plastic rock](http://www.fakeplasticroc
 
 
 
-![blood-voodoo-red-metallic-guitar](/blog/images/wordpress/bloodvoodooguitarjx81.jpg)
+![blood-voodoo-red-metallic-guitar](/images/wordpress/bloodvoodooguitarjx81.jpg)
 
 
 

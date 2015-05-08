@@ -23,7 +23,7 @@ Here's an example from the current Super User question [Now that MS Money is goi
 
 
 
-![](/blog/images/wordpress/superuser-linked-related-1.png)
+![](/images/wordpress/superuser-linked-related-1.png)
 
 
 
@@ -58,7 +58,7 @@ I think this highly manual, human-being-entered form of linking questions is com
 
 
 
-![](/blog/images/wordpress/superuser-linked-related-2.png)
+![](/images/wordpress/superuser-linked-related-2.png)
 
 
 

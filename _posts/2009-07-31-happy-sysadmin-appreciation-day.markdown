@@ -61,7 +61,7 @@ So unless you want your servers to end up looking like this ...
 
 
 
-![burned-server](/blog/images/wordpress/burned-server.jpg)
+![burned-server](/images/wordpress/burned-server.jpg)
 
 
 

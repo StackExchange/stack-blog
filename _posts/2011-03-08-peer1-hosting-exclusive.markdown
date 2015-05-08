@@ -31,4 +31,4 @@ We think it’s a [win-win](http://www.peer1.com/stackoverflow)!
 
 Here's a look at our servers hosted at PEER 1 Hosting:
 
-[![Stack Exchange Peer 1 Servers](/blog/images/wordpress/shiny-peer-1-e1298400639158.jpg)](/blog/images/wordpress/shiny-peer-1.jpg)
+[![Stack Exchange Peer 1 Servers](/images/wordpress/shiny-peer-1-e1298400639158.jpg)](/images/wordpress/shiny-peer-1.jpg)

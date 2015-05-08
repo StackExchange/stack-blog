@@ -25,11 +25,11 @@ _Almost._
 
 But there's a deeper, more insidious problem that creeps into systems when the community is unmoderated. Stuff like, say, [compilable James Bond Java ASCII art](http://stackoverflow.com/questions/8867695/java-7-compilable-james-bond-ascii-art) …
 
-![](/blog/images/wordpress/007-java-ascii-art1.png)
+![](/images/wordpress/007-java-ascii-art1.png)
 
 … or [mountain-climbing Skyrim horses](http://gaming.stackexchange.com/questions/36304/is-a-horse-actually-faster-than-running) and [wounded Skyrim NPCs with vivid imaginations](http://gaming.stackexchange.com/questions/41666/how-to-know-if-someone-is-good-or-bad).
 
-![](/blog/images/wordpress/gaming-horse-physics1.jpg)
+![](/images/wordpress/gaming-horse-physics1.jpg)
 
 Let us not forget the classics, either:
 

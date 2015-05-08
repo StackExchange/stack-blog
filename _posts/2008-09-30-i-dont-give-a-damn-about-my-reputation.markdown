@@ -18,7 +18,7 @@ Geoff Dalgas did a bang-up job implementing [the #1 UserVoice requested item](ht
 
 
 
-![reputation-graph](/blog/images/wordpress/reputation-graph.png)
+![reputation-graph](/images/wordpress/reputation-graph.png)
 
 
 

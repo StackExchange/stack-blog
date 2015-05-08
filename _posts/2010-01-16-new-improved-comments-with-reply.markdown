@@ -63,7 +63,7 @@ Like so:
 
 
 
-![](/blog/images/wordpress/comments-mini-markdown.png)
+![](/images/wordpress/comments-mini-markdown.png)
 
 
 
@@ -83,7 +83,7 @@ As frequently requested, **we now allow editing of your comments** for a 5 minut
 
 
 
-![](/blog/images/wordpress/comment-editing.png)
+![](/images/wordpress/comment-editing.png)
 
 
 
@@ -103,7 +103,7 @@ Normally, you only get notified of comments when you own the post that is being 
 
 
 
-![](/blog/images/wordpress/comments-replies-formatting.png)
+![](/images/wordpress/comments-replies-formatting.png)
 
 
 

@@ -35,7 +35,7 @@ In fact, we've added a bevy of new badges in the last 6 months or so that we hav
 
 <tr >
 <td >
-![](/blog/images/wordpress/analytical-badge.png)
+![](/images/wordpress/analytical-badge.png)
 
 </td>
 <td >
@@ -45,7 +45,7 @@ Visited every section of the FAQ
 
 <tr >
 <td >
-![](/blog/images/wordpress/excavator-badge.png)
+![](/images/wordpress/excavator-badge.png)
 
 </td>
 <td >
@@ -55,7 +55,7 @@ Edited first post that was inactive for 6 months
 
 <tr >
 <td >
-![](/blog/images/wordpress/archaeologist-badge.png)
+![](/images/wordpress/archaeologist-badge.png)
 
 </td>
 <td >
@@ -65,7 +65,7 @@ Edited 100 posts that were inactive for 6 months
 
 <tr >
 <td >
-![](/blog/images/wordpress/deputy-badge.png)
+![](/images/wordpress/deputy-badge.png)
 
 </td>
 <td >
@@ -75,7 +75,7 @@ Achieved a flag weight of 500 by reviewing and flagging appropriately
 
 <tr >
 <td >
-![](/blog/images/wordpress/marshal-badge.png)
+![](/images/wordpress/marshal-badge.png)
 
 </td>
 <td >
@@ -85,7 +85,7 @@ Achieved a flag weight of 749 by reviewing and flagging appropriately
 
 <tr >
 <td >
-![](/blog/images/wordpress/proofreader-badge.png)
+![](/images/wordpress/proofreader-badge.png)
 
 </td>
 <td >
@@ -95,7 +95,7 @@ Approved or rejected 100 [suggested edits](http://blog.stackoverflow.com/2011/02
 
 <tr >
 <td >
-![](/blog/images/wordpress/synonymizer-badge.png)
+![](/images/wordpress/synonymizer-badge.png)
 
 </td>
 <td >
@@ -105,7 +105,7 @@ First approved [tag synonym](http://blog.stackoverflow.com/2010/08/tag-folksonom
 
 <tr >
 <td >
-![](/blog/images/wordpress/tag-editor-badge.png)
+![](/images/wordpress/tag-editor-badge.png)
 
 </td>
 <td >
@@ -115,7 +115,7 @@ First [tag wiki edit](http://blog.stackoverflow.com/2010/08/new-tag-info-pages/)
 
 <tr >
 <td >
-![](/blog/images/wordpress/vox-populi-badge.png)
+![](/images/wordpress/vox-populi-badge.png)
 
 </td>
 <td >
@@ -125,7 +125,7 @@ Used the maximum [40 votes in a day](http://blog.stackoverflow.com/2011/05/vote-
 
 <tr >
 <td >
-![](/blog/images/wordpress/quorum-badge.png)
+![](/images/wordpress/quorum-badge.png)
 
 </td>
 <td >
@@ -135,7 +135,7 @@ One post with score of 2 [on meta](http://blog.stackoverflow.com/2010/07/new-per
 
 <tr >
 <td >
-![](/blog/images/wordpress/convention-badge.png)
+![](/images/wordpress/convention-badge.png)
 
 </td>
 <td >
@@ -164,16 +164,16 @@ Most of these are fairly self-explanatory, but I believe the flag weight and rev
 
 Your flag weight, if it is something other than the default of 100, will be visible on your user profile under your reputation score.
 
-![](/blog/images/wordpress/flag-weight-profile.png)
+![](/images/wordpress/flag-weight-profile.png)
 
 You can view the status of your flags by clicking the flag weight link. There are two flag dispositions, **helpful** and **declined**. Generally, so long as you are flagging in a genuinely useful manner that helps make the site better, most of your flags should be of the former and not the latter.
 
 If you're looking for posts to flag -- or vote, edit, and comment on -- I _highly_ recommend using the review link on the site. At the top of every page you'll see one of two links: either **review** (from 200 to 9,999 reputation) or **tools** (from 10,000+ reputation and beyond). Both can get you to the review page.
 
-![](/blog/images/wordpress/review-link.png)
+![](/images/wordpress/review-link.png)
 
 Click around on the review page and read the explanation on the sidebar to get the gist of it. 
 
-![](/blog/images/wordpress/review-answer-flag.png)
+![](/images/wordpress/review-answer-flag.png)
 
 Please do bear in mind that **flagging is no substitute for the normal editing and voting process**. We encourage responsible flagging, but if a question should be closed, or a post downvoted, don't hesitate to take action yourself. Actions from the broader community as a whole speak much louder than actions from community moderators!

@@ -48,7 +48,7 @@ There are likely _other_ activities of interest to your community beyond asking 
 
 The goal is to help visitors find out about the cool stuff your community is doing and help promote activities they find important. And it's all visible right there on the sidebar next to every question, and the homepage.
 
-![](/blog/images/wordpress/promotion-ad-in-situ1.png)
+![](/images/wordpress/promotion-ad-in-situ1.png)
 
 
 
@@ -67,7 +67,7 @@ Here are a few examples:
 <tr >
 
 <td >
-![AskUbuntu](/blog/images/wordpress/askubuntu.com_.png)
+![AskUbuntu](/images/wordpress/askubuntu.com_.png)
 
 </td>
 
@@ -85,7 +85,7 @@ Here are a few examples:
 <tr >
 
 <td >
-![WordPress](/blog/images/wordpress/wordpress.stackexchange.com_.png)
+![WordPress](/images/wordpress/wordpress.stackexchange.com_.png)
 
 </td>
 
@@ -103,7 +103,7 @@ Here are a few examples:
 <tr >
 
 <td >
-![TeX](/blog/images/wordpress/tex.stackexchange.com_.png)
+![TeX](/images/wordpress/tex.stackexchange.com_.png)
 
 </td>
 

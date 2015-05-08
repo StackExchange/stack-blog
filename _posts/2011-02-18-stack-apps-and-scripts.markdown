@@ -55,7 +55,7 @@ GM_addStyle(
 
 That's a very, very simple browser user script which hides the question answer form on Stack Overflow. If you're using Google Chrome for example, all you need to do to install that little fragment of code in your web browser is click the [no-so-answers.user.js](http://nedbatchelder.com/code/misc/no_so_answers.user.js) link -- like so:
 
- ![](/blog/images/wordpress/chrome-install-user-scripts.png)
+ ![](/images/wordpress/chrome-install-user-scripts.png)
 
 User scripts can be managed by clicking the wrench icon in the toolbar and selecting Tools | Extensions, or of course by entering `chrome://extensions` in the title bar.
 

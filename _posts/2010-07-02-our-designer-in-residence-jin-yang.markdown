@@ -19,7 +19,7 @@ I'm pleased to announce we now have a full-time, bona fide designer on our team:
 
 
 
-![](/blog/images/wordpress/jin-yang.jpg)
+![](/images/wordpress/jin-yang.jpg)
 
 
 
@@ -27,11 +27,11 @@ I worked with Jin a bit in constructing the [Super User](http://superuser.com) d
 
 
 
-[![](/blog/images/wordpress/web-apps-private-beta-screenshot-small.png)](/blog/images/wordpress/web-apps-private-beta-screenshot.png)
+[![](/images/wordpress/web-apps-private-beta-screenshot-small.png)](/images/wordpress/web-apps-private-beta-screenshot.png)
 
 
 
-[![](/blog/images/wordpress/web-apps-meta-private-beta-screenshot-small.png)](/blog/images/wordpress/web-apps-meta-private-beta-screenshot.png)
+[![](/images/wordpress/web-apps-meta-private-beta-screenshot-small.png)](/images/wordpress/web-apps-meta-private-beta-screenshot.png)
 
 
 

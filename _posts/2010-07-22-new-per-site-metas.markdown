@@ -51,7 +51,7 @@ got a question about the site itself? meta.topic is the place to talk about thin
 
 
 
-![](/blog/images/wordpress/meta-switch-link.png)
+![](/images/wordpress/meta-switch-link.png)
 
 
 
@@ -59,7 +59,7 @@ got a question about the site itself? meta.topic is the place to talk about thin
 
 
 
-![](/blog/images/wordpress/meta-links.png)
+![](/images/wordpress/meta-links.png)
 
 
 

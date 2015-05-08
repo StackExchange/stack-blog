@@ -21,7 +21,7 @@ Based on popular demand, we have [added](http://careers.stackoverflow.com/cv?has
 
  
 
-![opensourcelinks](/blog/images/wordpress/opensourcelinks.png)
+![opensourcelinks](/images/wordpress/opensourcelinks.png)
 
  
 
@@ -37,7 +37,7 @@ We think that if you are active in open source, you deserve to be on Careers 2.0
 
  
 
-![gateway](/blog/images/wordpress/gateway.png)
+![gateway](/images/wordpress/gateway.png)
 
  
 
@@ -49,7 +49,7 @@ Also? A [new section](http://careers.stackoverflow.com/cv?hash=projects) on your
 
  
 
-![apps](/blog/images/wordpress/apps.png)
+![apps](/images/wordpress/apps.png)
 
  
 
@@ -61,7 +61,7 @@ And? A place for your [writing](http://careers.stackoverflow.com/cv?hash=writing
 
  
 
-![writing](/blog/images/wordpress/writing.png)
+![writing](/images/wordpress/writing.png)
 
  
 

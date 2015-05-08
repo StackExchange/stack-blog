@@ -51,7 +51,7 @@ Here's our current alpha list of badges:
 
 
 
-![stackoverflow-badges-alpha](/blog/images/wordpress/stackoverflow-badges-alpha.png)
+![stackoverflow-badges-alpha](/images/wordpress/stackoverflow-badges-alpha.png)
 
 
 

@@ -51,7 +51,7 @@ Just check out [one example](http://superuser.com/questions/95685/windows-7-admi
 
 
 
-[![](/blog/images/wordpress/superuser-deleted-answers-small.png)](/blog/images/wordpress/superuser-deleted-answers.png)
+[![](/images/wordpress/superuser-deleted-answers-small.png)](/images/wordpress/superuser-deleted-answers.png)
 
 
 

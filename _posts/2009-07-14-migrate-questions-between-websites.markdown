@@ -73,7 +73,7 @@ It works through the same question voting mechanism as before. If you think a qu
 
 
 
-![stack-overflow-close-belongs-on-vote](/blog/images/wordpress/stack-overflow-close-belongs-on-vote.png)
+![stack-overflow-close-belongs-on-vote](/images/wordpress/stack-overflow-close-belongs-on-vote.png)
 
 
 
@@ -89,7 +89,7 @@ Let's look at a specific example of **migrating a question from Stack Overflow t
 
 
 
-![stack-overflow-close-migration-example-1](/blog/images/wordpress/stack-overflow-close-migration-example-1.png)
+![stack-overflow-close-migration-example-1](/images/wordpress/stack-overflow-close-migration-example-1.png)
 
 
 
@@ -120,7 +120,7 @@ Now let's look at the destination side, in this case, Meta Stack Overflow.
 
 
 
-![stack-overflow-close-migration-example-2](/blog/images/wordpress/stack-overflow-close-migration-example-2.png)
+![stack-overflow-close-migration-example-2](/images/wordpress/stack-overflow-close-migration-example-2.png)
 
 
 

@@ -114,7 +114,7 @@ We also mix in a few random questions from the last 3,000 -- 10% (9) for logged 
 
 The resulting change in the homepage is fairly dramatic. Here's a screenshot of the old Stack Overflow homepage (the **active** tab) compared to the new Stack Overflow homepage (the **interesting** tab):
 
-[![](/blog/images/wordpress/interesting-vs-active.png)](/blog/images/wordpress/interesting-vs-active-large.png)
+[![](/images/wordpress/interesting-vs-active.png)](/images/wordpress/interesting-vs-active-large.png)
 
 Quite the sea of red unanswered questions, which seems to meet our goal of giving questions which _haven't_ yet gotten a good answer, more time on the homepage to get one.
 

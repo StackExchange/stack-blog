@@ -29,11 +29,11 @@ Over the last few months, we've been continually improving our central network h
 
 After a two week public beta test, we're adding yet another ability -- [**tag sets**](http://stackexchange.com/tagsets). A tag set is exactly what it sounds like: all questions matching a set of tags across one or more sites in the Stack Exchange network.
 
-![](/blog/images/wordpress/stackexchange-tagset-example-1.png)
+![](/images/wordpress/stackexchange-tagset-example-1.png)
 
-![](/blog/images/wordpress/stackexchange-tagset-example-2.png)
+![](/images/wordpress/stackexchange-tagset-example-2.png)
 
-![](/blog/images/wordpress/stackexchange-tagset-example-3.png)
+![](/images/wordpress/stackexchange-tagset-example-3.png)
 
 We got a lot of feedback that community members also wanted to view:
 
@@ -54,18 +54,18 @@ Click on the **tagged questions** navigation link, then select **my tag sets** t
 
 Look in the sidebar on the right for a tag-centric autocomplete area.
 
-![](/blog/images/wordpress/stackexchange-tagset-ui-0.png)
+![](/images/wordpress/stackexchange-tagset-ui-0.png)
 
 You can enter any tag (or wildcard tag, yep, it supports wildcards) that exists on any site in our network. And once you do, you can choose which site(s) you want to see it on.
 
-![](/blog/images/wordpress/stackexchange-tagset-ui-1.png)
+![](/images/wordpress/stackexchange-tagset-ui-1.png)
 
 You can also create multiple tag sets and toggle between them.  Just click **name this tag set** to give it a name.
 
-![](/blog/images/wordpress/name-this-tagset.png)
+![](/images/wordpress/name-this-tagset.png)
 
 You can then quickly toggle between your tag sets to keep track of multiple topics.  To start a new tag set just click **New tag set**.
 
-![](/blog/images/wordpress/tag-sets.png)
+![](/images/wordpress/tag-sets.png)
 
 If you've ever wanted to narrow down your interests on a site to a few specific topics, or follow a topic across multiple Stack Exchange sites -- now you can. Just set up your own tag set, or discover a tag set someone else has already set up!

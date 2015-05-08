@@ -31,7 +31,7 @@ Joel is on an extended vacation. Our apologies, but the logistics of recording r
 
 
 
-![beary-sorry](/blog/images/wordpress/beary-sorry.gif)
+![beary-sorry](/images/wordpress/beary-sorry.gif)
 
 
 

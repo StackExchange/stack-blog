@@ -18,7 +18,7 @@ We get the nicest email. (Well, mostly.) This one made me laugh, so I wanted to 
 
 
 
-![stackoverflow-heart](/blog/images/wordpress/stackoverflow-heart1.png)
+![stackoverflow-heart](/images/wordpress/stackoverflow-heart1.png)
 
 
 

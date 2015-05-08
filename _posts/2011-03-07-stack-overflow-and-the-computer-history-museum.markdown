@@ -16,15 +16,15 @@ tags:
 
 Last summer, [we sponsored the Computer History Museum](http://blog.stackoverflow.com/2010/05/our-brick-in-the-computer-history-museum-wall/).  The sponsorship coincided with a massive 25,000 square foot museum renovation for a new exhibit which opened in January, [Revolution: The First 2000 Years of Computing](http://www.computerhistory.org/visit/). I finally got a chance to visit, and it is _stunning_. They took all the computers in their giant visual storage area and meticulously placed them in historical context, with lots of nifty multimedia guidance through the timeline of each section.
 
-[![](/blog/images/wordpress/computer-history-museum-new-exhibit-small1.png)](/blog/images/wordpress/computer-history-museum-new-exhibit.png)
+[![](/images/wordpress/computer-history-museum-new-exhibit-small1.png)](/images/wordpress/computer-history-museum-new-exhibit.png)
 
 I could have easily spent hours there -- I had _no_ idea the scale of this new exhibit. It is incredible. Amazing, even. If the Computer History Museum was a "must-visit" for geeks in the area before, it is now mandatory on penalty of death. There's nothing like it anywhere else in the world. And that's on top of the the functioning PDP-1 (with Space Wars!) and Babbage Machine they already had!
 
 But we were on a toddler schedule, so we had to rush a bit. We took tons of photographs, which [you can view on my wife's Flickr page](http://www.flickr.com/photos/betsyphd/sets/72157625862100807/). If you can't come to Mountain View, California and see it in person, you should at least visit it in spirit! The most important photographs, of course, are these two:
 
-![](/blog/images/wordpress/computer-history-museum-sponsor-wall.jpg)
+![](/images/wordpress/computer-history-museum-sponsor-wall.jpg)
 
-![](/blog/images/wordpress/computer-history-museum-stackoverflow-plaque.jpg)
+![](/images/wordpress/computer-history-museum-stackoverflow-plaque.jpg)
 
 [As decided on meta](http://meta.stackoverflow.com/questions/46920/a-stack-overflow-brick-in-the-computer-history-museum-wall), the text for our sponsor brickplaque is:
 

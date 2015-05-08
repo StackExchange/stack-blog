@@ -20,7 +20,7 @@ It's summer here at StackHQ. Have a flower!
 
 
 
-![Flower](/blog/images/wordpress/flower.jpg)
+![Flower](/images/wordpress/flower.jpg)
 
 
 

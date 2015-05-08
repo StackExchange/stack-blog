@@ -20,7 +20,7 @@ If you're a top user on any of the Trilogy sites, I've got some good news for yo
 
 
 
-![](/blog/images/wordpress/stickers-near-loose.jpg)
+![](/images/wordpress/stickers-near-loose.jpg)
 
 
 

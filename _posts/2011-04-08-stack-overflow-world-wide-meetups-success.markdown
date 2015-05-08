@@ -19,47 +19,47 @@ While not every MeetUp had tons of people, it seemed like everyone had a great t
 
 **Sydney, Australia:**
 
-[![](/blog/images/wordpress/SydneyMeetupPic-223x300.jpg)](/blog/images/wordpress/SydneyMeetupPic.jpg)
+[![](/images/wordpress/SydneyMeetupPic-223x300.jpg)](/images/wordpress/SydneyMeetupPic.jpg)
 
 **Bangkok, Thailand:**
 
-[![](/blog/images/wordpress/BangkokMeetUpPic-300x200.jpg)](/blog/images/wordpress/BangkokMeetUpPic.jpg)
+[![](/images/wordpress/BangkokMeetUpPic-300x200.jpg)](/images/wordpress/BangkokMeetUpPic.jpg)
 
-[](/blog/images/wordpress/BangkokMeetUpPic.jpg)[![](/blog/images/wordpress/BangkokMeetUpPic2-199x300.jpg)](/blog/images/wordpress/BangkokMeetUpPic2.jpg)
+[](/images/wordpress/BangkokMeetUpPic.jpg)[![](/images/wordpress/BangkokMeetUpPic2-199x300.jpg)](/images/wordpress/BangkokMeetUpPic2.jpg)
 
 **Kozhikode, India:**
 
-[![](/blog/images/wordpress/KozhikodeMeetupPic-300x168.jpg)](/blog/images/wordpress/KozhikodeMeetupPic.jpg)
+[![](/images/wordpress/KozhikodeMeetupPic-300x168.jpg)](/images/wordpress/KozhikodeMeetupPic.jpg)
 
 **Washington DC, USA:**
 
-**[![](/blog/images/wordpress/DCMeetupTweet.png)](/blog/images/wordpress/DCMeetupTweet.png)**
+**[![](/images/wordpress/DCMeetupTweet.png)](/images/wordpress/DCMeetupTweet.png)**
 
 **New York City, New York, USA:**
 
-**[![](/blog/images/wordpress/NYCMeetUpPic-300x225.jpg)](/blog/images/wordpress/NYCMeetUpPic.jpg)
+**[![](/images/wordpress/NYCMeetUpPic-300x225.jpg)](/images/wordpress/NYCMeetUpPic.jpg)
 **
 
 **Chicago, Illinois, USA:**
 
-[![](/blog/images/wordpress/ChicagoMeetupTweet.png)](/blog/images/wordpress/ChicagoMeetupTweet.png)
+[![](/images/wordpress/ChicagoMeetupTweet.png)](/images/wordpress/ChicagoMeetupTweet.png)
 
 **Seattle, Washington, USA:**
 
-[![](/blog/images/wordpress/SeattleMeetUpPic-300x225.jpg)](/blog/images/wordpress/SeattleMeetUpPic.jpg)
+[![](/images/wordpress/SeattleMeetUpPic-300x225.jpg)](/images/wordpress/SeattleMeetUpPic.jpg)
 
 **Vancouver:**
 
-[![](/blog/images/wordpress/VancouverMeetUpPic-224x300.jpg)](/blog/images/wordpress/VancouverMeetUpPic.jpg)
+[![](/images/wordpress/VancouverMeetUpPic-224x300.jpg)](/images/wordpress/VancouverMeetUpPic.jpg)
 
-[![](/blog/images/wordpress/VancouverMeetUpTweet.png)](/blog/images/wordpress/VancouverMeetUpTweet.png)
+[![](/images/wordpress/VancouverMeetUpTweet.png)](/images/wordpress/VancouverMeetUpTweet.png)
 
 **Mountain View, California, USA:**
 
-**[![](/blog/images/wordpress/MountainViewMeetUpPic-300x224.jpg)](/blog/images/wordpress/MountainViewMeetUpPic.jpg)
+**[![](/images/wordpress/MountainViewMeetUpPic-300x224.jpg)](/images/wordpress/MountainViewMeetUpPic.jpg)
 **
 
-**[![](/blog/images/wordpress/MountainViewMeetupTweet.png)](/blog/images/wordpress/MountainViewMeetupTweet.png)
+**[![](/images/wordpress/MountainViewMeetupTweet.png)](/images/wordpress/MountainViewMeetupTweet.png)
 **
 
 This was very much an experiment for us, and I think it went great.  A couple of communities have gone in and set up another MeetUp for next month.  That’s awesome!  We have seen interest in doing MeetUps again, and we’d love your feedback on how we can improve.  Does an annual MeetUp make sense?  Let us know in the comments or in a Meta Stack Overflow post what you’d like to see happen.

@@ -18,7 +18,7 @@ Over the last few months, I've noticed a few users that have been exceptionally 
 
 
 
-![uservoice: top users by activity](/blog/images/wordpress/uservoice-top-users-by-activity1.png)
+![uservoice: top users by activity](/images/wordpress/uservoice-top-users-by-activity1.png)
 
 
 

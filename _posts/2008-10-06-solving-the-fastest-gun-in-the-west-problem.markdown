@@ -85,7 +85,7 @@ That said, the one implementable recommendation that came out of this discussion
 
 
 
-![stackoverflow-new-answer-notification](/blog/images/wordpress/stackoverflow-new-answer-notification.png)
+![stackoverflow-new-answer-notification](/images/wordpress/stackoverflow-new-answer-notification.png)
 
 
 
@@ -93,7 +93,7 @@ We explicitly used GMail as our model, since that's what we were familiar with. 
 
 
 
-![yosemite-sam-with-guns](/blog/images/wordpress/yosemite-sam-with-guns.png)
+![yosemite-sam-with-guns](/images/wordpress/yosemite-sam-with-guns.png)
 
 
 
