@@ -4,7 +4,7 @@ comments: true
 date: 2009-06-24 17:18:06+00:00
 layout: post
 redirect_from: /2009/06/podcast-59
-hero: /images/category/podcasts.jpg
+hero: https://cloud.githubusercontent.com/assets/12239801/7544303/bc5d6092-f599-11e4-96e6-95ed55104e2c.jpg
 slug: podcast-59
 title: 'Podcast #59'
 wordpress_id: 1512
