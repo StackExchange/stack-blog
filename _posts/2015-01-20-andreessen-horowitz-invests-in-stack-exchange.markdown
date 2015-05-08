@@ -4,6 +4,7 @@ comments: true
 date: 2015-01-20 16:59:33+00:00
 layout: post
 redirect_from: /2015/01/andreessen-horowitz-invests-in-stack-exchange
+hero: https://cloud.githubusercontent.com/assets/12239801/7542933/aba942c6-f58e-11e4-9fb7-57b1623ae5e8.jpg
 slug: andreessen-horowitz-invests-in-stack-exchange
 title: Andreessen Horowitz Invests in Stack Exchange
 source: http://joelonsoftware.com/items/2015/01/20.html
