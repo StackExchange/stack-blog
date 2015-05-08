@@ -337,6 +337,10 @@ article.post {
 			padding-bottom: 50px;
 			&.no-image {
 				background: #4889cb;
+				padding-top: 125px;
+				.author-container {
+					margin-top: 0;
+				}
 			}
 			h1, h2, .date {
 				color: #fff;
