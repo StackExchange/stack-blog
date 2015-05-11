@@ -25,7 +25,7 @@ layout: default
 						{% assign tagCount = tagCount | plus: 1 %}
 						{% endif %}
 					{% endfor %}
-				<a href="{{ site.baseurl }}/tags/{{ tag | first | replace: '.', '- '}}"><span class="postTag">{{ tag | first }}</span></a>
+				<a href="{{ site.baseurl }}/tags/{{ tag | first | replace: '.', '-' }}"><span class="postTag">{{ tag | first }}</span></a>
 				{% endfor %}
 				</section>
 
