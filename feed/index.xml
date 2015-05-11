@@ -56,7 +56,7 @@ Stack Exchange is a fast-growing network of over 100 question and answer sites o
 	<itunes:explicit>no</itunes:explicit>
 	<itunes:image href="http://cdn.sstatic.net/stackexchange/img/apple-touch-icon.png" />
 	{% for post in site.posts limit:40 %}
-		{% if !post.draft %}
+		{% if post.draft %}
 		<item>
 			<title><![CDATA[{{ post.title | raw }}]]></title>
 			<link>{{ site.url }}{{ post.url }}</link>
