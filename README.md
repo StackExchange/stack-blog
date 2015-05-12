@@ -8,6 +8,8 @@ This blog runs on [Jekyll](http://jekyllrb.com/) and [GitHub Pages](https://page
 ## Links
  - [Add yourself as a contributor on the blog](https://github.com/StackExchange/blog/new/master/_authors) ([See example file](https://github.com/StackExchange/blog/edit/master/_authors/jonhmchan.md))
  - [Publish a new post](https://github.com/StackExchange/blog/new/master/_posts) ([See example post file](https://github.com/StackExchange/blog/edit/master/_posts/2014-1-28-My-First-Six-Weeks-Working-At-Stack-Overflow.md), [published version](http://stackexchange.github.io/blog/01/28/My-First-Six-Weeks-Working-At-Stack-Overflow/))
+ - [How to upload images using issues](http://solutionoptimist.com/2013/12/28/awesome-github-tricks/)
+ - [Company editorial board and calendar (post ideas and see schedule)](https://trello.com/b/WYAPaUEC/blog-editorial-and-calendar)
 
 ## What this blog is for
 This is a blog for the developers of Stack Exchange to share their work on anything technology-related at the company. This is the scope that we're playing around with for now, and it's meant to be narrow by design. We may certainly expand it later on if we see that there's interest from different places as this grows (outreach, diversity, interactive pieces, guest contributors, etc.) But for now these are the requirements:
