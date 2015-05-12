@@ -11,25 +11,16 @@ This blog runs on [Jekyll](http://jekyllrb.com/) and [GitHub Pages](https://page
  - [How to upload images using issues](http://solutionoptimist.com/2013/12/28/awesome-github-tricks/)
  - [Company editorial board and calendar (post ideas and see schedule)](https://trello.com/b/WYAPaUEC/blog-editorial-and-calendar)
 
-## What this blog is for
-This is a blog for the developers of Stack Exchange to share their work on anything technology-related at the company. This is the scope that we're playing around with for now, and it's meant to be narrow by design. We may certainly expand it later on if we see that there's interest from different places as this grows (outreach, diversity, interactive pieces, guest contributors, etc.) But for now these are the requirements:
+## What is this blog for?
+This is the official company blog for Stack Exchange. Everything related to new features, announcements, engineering projects, and all things Stack Exchange live on this blog. The contributors on this blog are Stack Exchange employees, but in the future, we may open this up to outside contributors as well.
 
- - Your post is about something related to Stack Exchange or the work you do there
- - It is about technology or the technology community
-
-If you are unsure of whether your post meets the requirements, it's probably not a great fit. If you are very comfortable modifying the content you want to contribute to fit more cleanly, go ahead and do it! Here are some examples of things that do or don't fit in with these requirements:
-
-:heavy_multiplication_x: Why CSS frameworks are awesome generally  
-:heavy_check_mark: How design and development worked together to create a pattern library
-
-:heavy_multiplication_x: How awesome the food is at Stack Exchange  
-:heavy_check_mark: Why we still believe in private offices and remote work
-
-:heavy_multiplication_x: How I built *another* 2046 clone, but in Cobol!  
-:heavy_check_mark: How I helped build Winter Bash snow animations
-
-:heavy_multiplication_x: Why I think diversity is important to building technology products  
-:heavy_check_mark: How we approach hiring engineers to avoid bias
+### I have an idea for / want to write a post, what should I do?
+1. Go to our [Blog Editorial and Calendar Trello board](https://trello.com/b/WYAPaUEC/blog-editorial-and-calendar) and add any and all of your ideas to the `Ideas/Backlog` column.
+2. In the card, (1) add yourself as a member and anyone else you think might be helpful in writing the post. Every card must have a single **author** in the description that is going to be responsible for writing the post. (2) You should also put a description of what the post is going to be about. (3) Add any relevant tags like `announcement`, `diversity`, or `engineering` onto the card.
+3. As cards get added, Rachel Maleady and Jon Chan will go through all the cards in the `Ideas/Backlog` column, and move anything we want to discuss into the `Being Scheduled This Week` column. Sometimes things that *have* to get scheduled (like the regular podcast posts) will get added directly into this column. If your card got moved into the `Being Scheduled This Week` column, feel free to join Rachel and Jon in the meeting to chat about your ideas.
+4. Every week during the editorial meeting, Rachel and Jon will move cards from `Being Scheduled This Week` into a `Publishing This Month` or `Publishing Next Month` column. We're also going to figure out where a post should be (channel, tags, or if it should live in a different blog) and add a due date to the card for when we think it should go out. At this point, you should start writing your post and we're going to ocassionally heckle you about it until it's published :)
+5. As you write your post, feel free to commit it here. *Just make sure it's marked as a draft before you push*. Jon and Rachel will constantly be looking at what gets added here, so don't worry too much about making mistakes and stuff - it happens to everyone. Every time you make a commit to this repository, it automatically builds at http://dev.blog.stackexchange.com/. If you have a draft post you want to see there, just go to the URL of the individual post (draft posts don't show up on the lists of posts anywhere on the blog).
+6. Once you're ready to post, just take your post out of draft mode.
 
 ## Quickstart
 
@@ -85,7 +76,7 @@ To create a new post, you need to create a new markdown file with a particular f
 layout: post
 title: [title of your post]
 author: [your author id]
-draft: [true or false, will hide the post from any display lists]
+draft: [true or false, will hide the post from any display lists. If not a draft, you can also remove this whole line]
 hero: [url of a high quality hero image to be used for your post. Optional, you can remove this whole line]
 source: [url of the original post so a source banner will be added to the post. Optional, you can remove this whole line]
 tags: [what channel this post belongs to (engineering/company), and any related tags, required]
@@ -115,7 +106,7 @@ You can see what [this post](http://stackexchange.github.io/blog/01/28My-First-S
 
 Adding this file is very similar to adding your original authors markdown file. You can use git to add your post markdown file in the `_posts` folder, or you can use the [GitHub user interface](https://github.com/StackExchange/blog/new/master/_posts) to do so. Note that the moment you commit this file, it will be published to the blog.
 
-**Writing your post**
+**Writing your post with Markdown**
 
 Everything following the second set of three dashes in your post markdown file will be the content of your post. We use [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to format the post.
 
@@ -130,6 +121,10 @@ In addition to the different methods, there are some basic guidelines to what is
  - Your images should *never* be bigger than 500KB
  - Maximum width of any image should be 1200 pixels
  - Do your best to avoid images with text in them, it makes it difficult to use as a background
+
+**Drafts**
+
+You can always set your posts as drafts. You can do this by adding the line `draft: true` into the metadata of your post. Putting your post into draft mode means it won't show up anywhere that blog posts are listed, but you can still see the post at its individual URL.
 
 **Adding tags**
 
