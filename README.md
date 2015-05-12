@@ -6,8 +6,8 @@ This is a prototype for a new blog in the Stack Exchange ecosystem centered on d
 This blog runs on [Jekyll](http://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/). If you are actively involved in improving the infrastructure of this project, you should read the documentation for these platforms thoroughly (they're pretty short as it is). If you are simply contributing, this guide should be enough to get you going.
 
 ## Links
- - [Add yourself as a contributor on the blog](https://github.com/StackExchange/blog/new/gh-pages/_authors) ([See example file](https://github.com/StackExchange/blog/edit/gh-pages/_authors/jonhmchan.md))
- - [Publish a new post](https://github.com/StackExchange/blog/new/gh-pages/_posts) ([See example post file](https://github.com/StackExchange/blog/edit/gh-pages/_posts/2014-1-28-My-First-Six-Weeks-Working-At-Stack-Overflow.md), [published version](http://stackexchange.github.io/blog/01/28/My-First-Six-Weeks-Working-At-Stack-Overflow/))
+ - [Add yourself as a contributor on the blog](https://github.com/StackExchange/blog/new/master/_authors) ([See example file](https://github.com/StackExchange/blog/edit/master/_authors/jonhmchan.md))
+ - [Publish a new post](https://github.com/StackExchange/blog/new/master/_posts) ([See example post file](https://github.com/StackExchange/blog/edit/master/_posts/2014-1-28-My-First-Six-Weeks-Working-At-Stack-Overflow.md), [published version](http://stackexchange.github.io/blog/01/28/My-First-Six-Weeks-Working-At-Stack-Overflow/))
 
 ## What this blog is for
 This is a blog for the developers of Stack Exchange to share their work on anything technology-related at the company. This is the scope that we're playing around with for now, and it's meant to be narrow by design. We may certainly expand it later on if we see that there's interest from different places as this grows (outreach, diversity, interactive pieces, guest contributors, etc.) But for now these are the requirements:
@@ -59,7 +59,7 @@ website: http://www.jonhmchan.com/
 ```
 **How to add this file**
 
-If you are a developer, you can do this simply by submitting a PR or adding this file to the `_authors` directory. If you are not a developer, you can use [this link on GitHub](https://github.com/StackExchange/blog/new/gh-pages/_authors) to create this file, then submit your changes by adding a commit message like `Added [your name] to authors` and hitting the `Commit new file` button:
+If you are a developer, you can do this simply by submitting a PR or adding this file to the `_authors` directory. If you are not a developer, you can use [this link on GitHub](https://github.com/StackExchange/blog/new/master/_authors) to create this file, then submit your changes by adding a commit message like `Added [your name] to authors` and hitting the `Commit new file` button:
 
 ![Adding yourself as an author](http://stackexchange.github.io/images/adding_authors.png)
 
@@ -102,11 +102,11 @@ I started working at [Stack Exchange](http://www.stackexchange.com/) (which many
 
 ...
 ```
-You can see what [this post](http://stackexchange.github.io/blog/01/28My-First-Six-Weeks-Working-At-Stack-Overflow/) looks like as a full markdown file by going to [this link](https://github.com/StackExchange/blog/edit/gh-pages/_posts/2014-1-28-My-First-Six-Weeks-Working-At-Stack-Overflow.md).
+You can see what [this post](http://stackexchange.github.io/blog/01/28My-First-Six-Weeks-Working-At-Stack-Overflow/) looks like as a full markdown file by going to [this link](https://github.com/StackExchange/blog/edit/master/_posts/2014-1-28-My-First-Six-Weeks-Working-At-Stack-Overflow.md).
 
 **How to add this file**
 
-Adding this file is very similar to adding your original authors markdown file. You can use git to add your post markdown file in the `_posts` folder, or you can use the [GitHub user interface](https://github.com/StackExchange/blog/new/gh-pages/_posts) to do so. Note that the moment you commit this file, it will be published to the blog.
+Adding this file is very similar to adding your original authors markdown file. You can use git to add your post markdown file in the `_posts` folder, or you can use the [GitHub user interface](https://github.com/StackExchange/blog/new/master/_posts) to do so. Note that the moment you commit this file, it will be published to the blog.
 
 **Writing your post**
 
