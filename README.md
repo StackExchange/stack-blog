@@ -1,4 +1,4 @@
-# [Stack Exchange Blog](http://stackexchange.github.io/blog)
+# [Stack Exchange Blog](http://dev.blog.stackexchange.com/)
 
 This is a prototype for a new blog in the Stack Exchange ecosystem centered on developer topics. "Stack Exchange Blog" is a working name for this prototype.
 
