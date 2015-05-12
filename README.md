@@ -33,6 +33,8 @@ If you are unsure of whether your post meets the requirements, it's probably not
 
 ###1. Add yourself as a contributor with an author file
 
+[Add yourself as a contributor on the blog](https://github.com/StackExchange/blog/new/master/_authors) ([See example file](https://github.com/StackExchange/blog/edit/master/_authors/jonhmchan.md))
+
 You need to create a new markdown file with your username in the `_authors` folder to be included as a contributor on the blog. For example, Jon Chan uses the username `jonhmchan` so he would create a new file named `jonhmchan.md`. In the content of this markdown file should be the following (you don't need the square brackets):
 ```
 ---
@@ -72,6 +74,9 @@ Then on the next screen, you can submit the pull request:
 ![Submitting a pull request](https://help.github.com/assets/images/help/pull_requests/pullrequest-send.png)
 
 ###2. Publishing a post
+
+[Publish a new post](https://github.com/StackExchange/blog/new/master/_posts) ([See example post file](https://github.com/StackExchange/blog/edit/master/_posts/2014-1-28-My-First-Six-Weeks-Working-At-Stack-Overflow.md), [published version](http://stackexchange.github.io/blog/01/28/My-First-Six-Weeks-Working-At-Stack-Overflow/))
+
 To create a new post, you need to create a new markdown file with a particular format in the `_posts` folder in order to publish. The file needs to include the date and title seperated by dashes: `YYYY-MM-DD-Title-With-Dashes-As-Spaces.md`. For example, Jon Chan published a post on January 28th, 2014 titled "My First Six Weeks Working at Stack Overflow". So the title of his file was `2014-1-28-My-First-Six-Weeks-At-Stack-Overflow.md`.  In the content of this markdown file should be the following (you don't need the square brackets): 
 ```
 ---
@@ -116,7 +121,13 @@ Everything following the second set of three dashes in your post markdown file w
 
 Adding images to your post requires you to upload the image and use the URL in your markdown. If you are a developer, you can go ahead and add images to the `images` folder in this repository and access it that way.
 
-If you are not a developer, we have a Stack Exchange Imgur account that you can use to upload images, then use the URL of the uploaded image in your post.
+If you are not a developer, --we have a Stack Exchange Imgur account that you can use to upload images, then use the URL of the uploaded image in your post.-- you can create a GitHub issue and drag your images into comment box to upload files and get a URL generated for you. You can [get a walkthrough of this process here here](http://solutionoptimist.com/2013/12/28/awesome-github-tricks/). This is a temporary solution until we figure out a long term solution for image hosting.
+
+In addition to the different methods, there are some basic guidelines to what is allowed:
+
+ - Your images should *never* be bigger than 500KB
+ - Maximum width of any image should be 1200 pixels
+ - Do your best to avoid images with text in them, it makes it difficult to use as a background
 
 **Adding tags**
 
