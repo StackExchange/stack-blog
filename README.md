@@ -16,11 +16,14 @@ This is the official company blog for Stack Exchange. Everything related to new 
 
 ### I have an idea for / want to write a post, what should I do?
 1. Go to our [Blog Editorial and Calendar Trello board](https://trello.com/b/WYAPaUEC/blog-editorial-and-calendar) and add any and all of your ideas to the `Ideas/Backlog` column.
-2. In the card, (1) add yourself as a member and anyone else you think might be helpful in writing the post. Every card must have a single **author** in the description that is going to be responsible for writing the post. (2) You should also put a description of what the post is going to be about. (3) Add any relevant tags like `announcement`, `diversity`, or `engineering` onto the card.
+2. In the card, you need to do the following:
+ - Add yourself as a member and anyone else you think might be helpful in writing the post
+ - Designate a single **author** in the description that is going to be responsible for writing the post
+ - You should also put a description of what the post is going to be about
+ - Add any relevant tags like `announcement`, `diversity`, or `engineering` onto the card
 3. As cards get added, Rachel Maleady and Jon Chan will go through all the cards in the `Ideas/Backlog` column, and move anything we want to discuss into the `Being Scheduled This Week` column. Sometimes things that *have* to get scheduled (like the regular podcast posts) will get added directly into this column. If your card got moved into the `Being Scheduled This Week` column, feel free to join Rachel and Jon in the meeting to chat about your ideas.
-4. Every week during the editorial meeting, Rachel and Jon will move cards from `Being Scheduled This Week` into a `Publishing This Month` or `Publishing Next Month` column. We're also going to figure out where a post should be (channel, tags, or if it should live in a different blog) and add a due date to the card for when we think it should go out. At this point, you should start writing your post and we're going to ocassionally heckle you about it until it's published :)
-5. As you write your post, feel free to commit it here. *Just make sure it's marked as a draft before you push*. Jon and Rachel will constantly be looking at what gets added here, so don't worry too much about making mistakes and stuff - it happens to everyone. Every time you make a commit to this repository, it automatically builds at http://dev.blog.stackexchange.com/. If you have a draft post you want to see there, just go to the URL of the individual post (draft posts don't show up on the lists of posts anywhere on the blog).
-6. Once you're ready to post, just take your post out of draft mode.
+4. Every week during the editorial meeting, Rachel and Jon will move cards from `Being Scheduled This Week` into a `Publishing This Month` or `Publishing Next Month` column. When we do this, we're going to help you set up the post and send you the link to the file that you should edit. Once that's done, you should start writing your post and we're going to ocassionally heckle you about it until it's published :)
+5. As you write your post, feel free to commit it here. Jon and Rachel will constantly be looking at what gets added here and nothing will get published publicly until it's quality checked by us, so don't worry too much about making mistakes and stuff. As you write and make commits, it automatically builds at http://dev.blog.stackexchange.com/, so if you want to see what it looks like, you can see it there. If you have a draft post you want to see there, just go to the URL of the individual post (draft posts don't show up on the lists of posts anywhere on the blog).
 
 ## Quickstart
 
