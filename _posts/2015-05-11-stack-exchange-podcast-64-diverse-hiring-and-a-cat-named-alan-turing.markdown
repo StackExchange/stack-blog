@@ -12,9 +12,11 @@ tags:
 - podcasts
 ---
 
+Welcome to Stack Exchange Podcast Episode #64, recorded in the podcast studio at Stack Exchange HQ in New York City, NY. 
+
 <img src="http://i.stack.imgur.com/MumAz.jpg" alt="Podcast studio construction project" />
 
-Welcome to Stack Exchange Podcast Episode #64, recorded in the [podcast studio](http://i.stack.imgur.com/MumAz.jpg) at Stack Exchange HQ in New York City, NY. Our podcast today is brought to you by string cheese! (It can be eaten by pulling strips from the cheese along its length and eating those strings.) Our hosts are Jay Hanlon, David Fullerton, and Joel Spolsky, joined today by guest Roberta Arcoverde.
+Our podcast today is brought to you by string cheese! (It can be eaten by pulling strips from the cheese along its length and eating those strings.) Our hosts are Jay Hanlon, David Fullerton, and Joel Spolsky, joined today by guest Roberta Arcoverde.
 
 Roberta is visiting NYC on vacation, and she's obviously doing a terrible job taking time off because here she is at work. Roberta joined the team in March 2014 and has been working on Careers ever since. She's currently our only employee in Brazil. (We used to have another employee in Brazil, but he moved to Ithaca, which has Cornell University, rain, and [its own currency](http://en.wikipedia.org/wiki/Ithaca_Hours).)
 
