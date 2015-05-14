@@ -122,8 +122,8 @@ If you are not a developer, --we have a Stack Exchange Imgur account that you ca
 
 In addition to the different methods, there are some basic guidelines to what is allowed:
 
- - Your images should *never* be bigger than 500KB
- - Maximum width of any image should be 1200 pixels
+ - Your images should *never* be bigger than 50KB
+ - Maximum width of any image should be 800 pixels
  - Do your best to avoid images with text in them, it makes it difficult to use as a background
 
 **Drafts**
