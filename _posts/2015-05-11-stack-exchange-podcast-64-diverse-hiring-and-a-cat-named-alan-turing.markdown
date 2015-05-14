@@ -44,7 +44,7 @@ So, how can we fix it? How can we make sure we're not turning more amazing progr
 
 One thing we need to work on is shouting at each other less on hangouts, because not everybody likes to make decisions that way. We have a lot of healthy disagreement, and we're proud of that, but we have to figure out better ways to do that without making everyone feel like they have to defend themselves.
 
-So what can we get better at? We put Roberta on the spot but she'd rather talk about all the stuff we're working on so far. If you (the podcast listeners) have ideas, we're always happy to hear them in the comments or [on meta](http://meta.stackexchange.com)
+So what can we get better at? We put Roberta on the spot but she'd rather talk about all the stuff we're working on so far. If you (the podcast listeners) have ideas, we're always happy to hear them in the comments or [on meta](http://meta.stackexchange.com).
 
 Thanks for listening to Stack Exchange Podcast #64, brought to you by string cheese. See you next time!
 
