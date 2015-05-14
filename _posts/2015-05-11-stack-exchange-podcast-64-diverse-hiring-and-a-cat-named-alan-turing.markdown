@@ -7,7 +7,7 @@ redirect_from: /2015/05/stack-exchange-podcast-64-not-recorded-in-ithaca/
 hero: http://i.stack.imgur.com/FCLQG.jpg
 slug: podcast-64-diverse-hiring-and-a-cat-named-alan-turing
 title: 'Podcast #64 - Diverse Hiring and a Cat Named Alan Turing'
-categories:
+tags:
 - company
 - podcasts
 ---
