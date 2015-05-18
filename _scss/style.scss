@@ -82,6 +82,16 @@ i.blog-icon {
 		width: 15px;
 		height: 31px;
 	}
+	&.left-arrow {
+		background-position: 0px -220px;
+		width: 11px;
+		height: 11px;
+	}
+	&.right-arrow {
+		background-position: 3px -240px;
+		width: 14px;
+		height: 11px;
+	}
 }
 .inner-container {
 	max-width: 1000px;
