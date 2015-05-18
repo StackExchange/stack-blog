@@ -121,7 +121,7 @@ Even the definition of what is too subjective on Stack Exchange is somewhat ... 
 
 
 
-  5. **Great subjective questions insist that opinion be backed up with facts and references**. Opinion isn't _all_ bad, so long as it's backed up with something other than "because I'm an expert", or "because I said so", or "just because". Use your specific experiences to back up your opinions, as above, or point to some research you've done on the web or elsewhere that provides evidence to support your claims. We like you. We _want_ to believe you. But like wikipedia itself, {{citation needed}}. And good subjective questions make this clear from the outset: _back it up!_
+  5. **Great subjective questions insist that opinion be backed up with facts and references**. Opinion isn't _all_ bad, so long as it's backed up with something other than "because I'm an expert", or "because I said so", or "just because". Use your specific experiences to back up your opinions, as above, or point to some research you've done on the web or elsewhere that provides evidence to support your claims. We like you. We _want_ to believe you. But like wikipedia itself, {% raw %}{{citation needed}}{% endraw %}. And good subjective questions make this clear from the outset: _back it up!_
 
 
 
