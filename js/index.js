@@ -62,6 +62,13 @@ $(document).ready(function() {
 						set_page(selected_page);
 					}
 				});
+
+				$(window).hashchange(function() {
+					var selected_page = parseInt(window.location.hash.substr(5));
+					if (valid_page(selected_page)) {
+						set_page(selected_page);
+					}
+				})
 			}
 		});
 	}
