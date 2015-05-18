@@ -9,20 +9,6 @@ layout: default
 				<h3>{{ page.slug }}</h3>
 				{% include posts.html %}
 			</div>
-
-			<div class="pagination">
-				<div class="-row">
-					<div class="-col4 _textLeft">
-						<a class="page newer">Newer</a>
-					</div>
-					<div class="-col4 _textCenter">
-			  			<span class="page_number"><strong>Page <span class="page current_page">1</span> of <span class="page total_pages">1</span></strong></span>
-			  		</div>
-			  		<div class="-col4 _textRight">
-			  			<a class="page older">Older</a>
-			  		</div>
-			  	</div>
-			</div>
 		</div>
 		<div class="-col4">
 			<div class="sidebar media-padded">
@@ -51,5 +37,6 @@ layout: default
 </div>
 
 <script type="text/javascript">
+var pagination = true;
 var channel = "{{ page.slug }}";
 </script>
