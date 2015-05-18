@@ -10,6 +10,7 @@ title: "Stack Overflow Developer Survey 2015: The Results"
 tags:
  - company
  - survey
+ - stackoverflow
 ---
 
 Every year we ask our users to tell us a little about themselves. This year we asked our users to tell us a lot.
