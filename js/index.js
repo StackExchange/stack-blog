@@ -87,6 +87,8 @@ $(document).ready(function() {
 			window.location.hash = "#page" + page_num.toString();
 		}
 
+		$(window).scrollTop(0);
+
 		var next = page_num + 1;
 		var previous = page_num - 1;
 
