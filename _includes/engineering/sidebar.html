@@ -1,5 +1,9 @@
 <div class="sidebar media-padded">
 	<section>
+		{% include search.html %}
+	</section>
+
+	<section>
 	<h3>Hello World</h3>
 	<p>Welcome to <a href="http://stackexchange.com/">Stack Exchange</a> Engineering! We assume if you’ve arrived at this page, you probably already know all about the <a href="http://stackoverflow.com/">Stack Overflow</a>, and likely some of the other <a href="http://stackexchange.com/sites">Q&amp;A sites</a>. In addition to writing a lot of code, we like to write about writing code and the other things we're doing to improve the tech community. We're trying a new thing by collecting those writings here so we can share them with the larger programming community. We hope you like it!</p>
 	</section>
@@ -10,7 +14,7 @@
 	</section>
 
 	<section>
-	<h4>Contributors</h4>
+	<h3>Contributors</h3>
 	{% include authors.html %}
 	</section>
 </div>
