@@ -3,7 +3,7 @@ layout: author
 id: alison
 name: Alison Sperling
 job: Director of Marketing (former)
-avatar: https://pbs.twimg.com/profile_images/1461873657/notsosrspic.jpg
+avatar: http://i.stack.imgur.com/e5M4s.jpg
 twitter: A_Sper
 inactive: true
 ---
