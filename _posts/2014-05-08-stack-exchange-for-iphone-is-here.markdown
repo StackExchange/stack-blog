@@ -4,7 +4,7 @@ comments: true
 date: 2014-05-08 19:25:09+00:00
 layout: post
 redirect_from: /2014/05/stack-exchange-for-iphone-is-here
-hero: https://cloud.githubusercontent.com/assets/12239801/7543584/a31521a2-f593-11e4-8e14-ebc26fc3b977.JPG
+hero: http://i.stack.imgur.com/UB27G.jpg
 slug: stack-exchange-for-iphone-is-here
 title: Stack Exchange for iPhone is here!
 wordpress_id: 14688
