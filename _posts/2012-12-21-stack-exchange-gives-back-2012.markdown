@@ -4,7 +4,7 @@ comments: true
 date: 2012-12-21 23:14:10+00:00
 layout: post
 redirect_from: /2012/12/stack-exchange-gives-back-2012
-hero: /images/wordpress/new-years-2013-300x228.png
+hero: http://i.stack.imgur.com/SXC5b.jpg
 slug: stack-exchange-gives-back-2012
 title: Stack Exchange Gives Back 2012
 wordpress_id: 12853
