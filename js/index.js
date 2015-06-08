@@ -50,6 +50,8 @@ $(document).ready(function() {
 
 				data = response;
 
+				console.log(data);
+
 				set_page(page);
 
 				// Set total pages
