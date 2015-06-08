@@ -4,7 +4,7 @@ comments: true
 date: 2013-01-29 22:04:42+00:00
 layout: post
 redirect_from: /2013/01/about-page-2-0-the-quickstartening
-hero: /images/wordpress/2013-01-28_20-36-00.jpeg
+hero: http://i.stack.imgur.com/bjb0T.jpg
 slug: about-page-2-0-the-quickstartening
 title: 'About Page 2.0: The QuickStartening'
 wordpress_id: 12972
