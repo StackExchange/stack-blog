@@ -2,7 +2,7 @@
 layout: author
 id: rebecca
 name: Rebecca Chernoff
-avatar: https://pbs.twimg.com/profile_images/2767243252/485587d854ed195edfb3707d32b3e992.jpeg
+avatar: http://i.stack.imgur.com/2901Q.jpg
 twitter: rchern
 job: 
 website: 
