@@ -4,7 +4,7 @@ comments: true
 date: 2013-05-20 17:26:55+00:00
 layout: post
 redirect_from: /2013/05/showing-off-those-valued-associates
-hero: http://i.stack.imgur.com/oNtn9.png
+hero: http://i.stack.imgur.com/Bvb87.jpg
 slug: showing-off-those-valued-associates
 title: Company pages on Careers 2.0
 wordpress_id: 13392
