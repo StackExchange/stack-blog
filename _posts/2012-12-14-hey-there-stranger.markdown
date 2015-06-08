@@ -4,7 +4,7 @@ comments: true
 date: 2012-12-14 23:28:14+00:00
 layout: post
 redirect_from: /2012/12/hey-there-stranger
-hero: http://static.adzerk.net/Advertisers/1efaea9356764cb6a86564960eba62bb.png
+hero: 
 slug: hey-there-stranger
 title: Hey there, stranger!
 wordpress_id: 12735
