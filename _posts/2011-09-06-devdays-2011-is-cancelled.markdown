@@ -5,7 +5,7 @@ date: 2011-09-06 14:59:12+00:00
 layout: post
 redirect_from: /2011/09/devdays-2011-is-cancelled
 slug: devdays-2011-is-cancelled
-hero: https://cloud.githubusercontent.com/assets/12239801/7544665/0fe55fdc-f59d-11e4-9cd7-bc6de4426990.jpg
+hero: http://i.stack.imgur.com/J4Gfh.jpg
 title: DevDays 2011 is Cancelled
 wordpress_id: 9768
 tags:
