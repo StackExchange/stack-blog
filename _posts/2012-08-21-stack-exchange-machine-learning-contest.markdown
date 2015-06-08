@@ -4,7 +4,7 @@ comments: true
 date: 2012-08-21 16:15:48+00:00
 layout: post
 redirect_from: /2012/08/stack-exchange-machine-learning-contest
-hero: http://blog.stackoverflow.com/wp-content/uploads/fake-mod-tools2.png
+hero: 
 slug: stack-exchange-machine-learning-contest
 title: Stack Exchange Machine Learning Contest
 wordpress_id: 12099
