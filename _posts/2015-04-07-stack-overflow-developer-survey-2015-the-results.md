@@ -4,7 +4,7 @@ comments: true
 date: 2015-04-07 20:00:01+00:00
 layout: post
 redirect_from: 2015/04/stack-overflow-developer-survey-2015-the-results/
-hero: https://cloud.githubusercontent.com/assets/12239801/7543757/026dac4a-f595-11e4-8a29-33620123c173.jpg
+hero: http://i.stack.imgur.com/LaFPg.jpg
 slug: stack-overflow-developer-survey-2015-the-results
 title: "Stack Overflow Developer Survey 2015: The Results"
 tags:
