@@ -4,7 +4,7 @@ name: Demis Bellot
 id: demis
 twitter: demisbellot
 job: Web Developer (Former)
-avatar: https://pbs.twimg.com/profile_images/1765666853/image1326949938_400x400.png
+avatar: http://i.stack.imgur.com/0iEsc.png
 website: http://mythz.servicestack.net/
 inactive: true
 ---
