@@ -3,7 +3,7 @@ layout: author
 id: ascordato
 name: Alexa Scordato
 job: Director of Product Marketing 
-avatar: https://pbs.twimg.com/profile_images/422450510696681472/ujPA89M-.png
+avatar: http://i.stack.imgur.com/Zeqxs.png
 twitter: alexa
 website: http://alexascordato.com 
 ---
