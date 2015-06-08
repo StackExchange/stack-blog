@@ -4,7 +4,7 @@ comments: true
 date: 2015-02-12 17:30:42+00:00
 layout: post
 redirect_from: /2015/02/education-begins-at-home-improving-developer-training-in-nyc
-hero: https://cloud.githubusercontent.com/assets/12239801/7542362/12f7fa8a-f58a-11e4-8706-4c809dcbae23.jpg
+hero: http://i.stack.imgur.com/2118x.jpg
 slug: education-begins-at-home-improving-developer-training-in-nyc
 title: 'Education begins at home: Improving developer training in NYC'
 wordpress_id: 15359
