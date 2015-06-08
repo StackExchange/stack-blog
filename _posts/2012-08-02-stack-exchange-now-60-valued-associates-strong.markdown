@@ -4,7 +4,7 @@ comments: true
 date: 2012-08-02 14:50:30+00:00
 layout: post
 redirect_from: /2012/08/stack-exchange-now-60-valued-associates-strong
-hero: http://stackexchange.com/users/flair/28003.png
+hero: 
 slug: stack-exchange-now-60-valued-associates-strong
 title: 'Stack Exchange: now 60 Valued Associates strong!'
 wordpress_id: 12053
