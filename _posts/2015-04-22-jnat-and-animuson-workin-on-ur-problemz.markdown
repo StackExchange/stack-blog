@@ -2,7 +2,7 @@
 layout: post
 title: "JNat and animuson: workin' on ur problemz"
 author: abbytmiller
-hero: http://i.stack.imgur.com/nwk1W.jpg
+hero: http://i.stack.imgur.com/9lDma.jpg
 tags:
  - company
  - announcement
