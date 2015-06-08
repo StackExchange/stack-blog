@@ -4,7 +4,7 @@ comments: true
 date: 2015-01-06 16:51:25+00:00
 layout: post
 redirect_from: /2015/01/so-long-winter-bash-2014
-hero: https://cloud.githubusercontent.com/assets/12239801/7542968/f5b505ee-f58e-11e4-8ef2-2fe71f2e9c5b.jpg
+hero: http://i.stack.imgur.com/9T6Na.jpg
 slug: so-long-winter-bash-2014
 title: So long Winter Bash 2014
 wordpress_id: 15097
