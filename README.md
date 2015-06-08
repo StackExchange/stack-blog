@@ -8,7 +8,7 @@ This blog runs on [Jekyll](http://jekyllrb.com/) and [GitHub Pages](https://page
 ## Links
  - [Add yourself as a contributor on the blog](https://github.com/StackExchange/blog/new/master/_authors) ([See example file](https://github.com/StackExchange/blog/edit/master/_authors/jonhmchan.md))
  - [Publish a new post](https://github.com/StackExchange/blog/new/master/_posts) ([See example post file](https://github.com/StackExchange/blog/edit/master/_posts/2014-1-28-My-First-Six-Weeks-Working-At-Stack-Overflow.md), [published version](http://stackexchange.github.io/blog/01/28/My-First-Six-Weeks-Working-At-Stack-Overflow/))
- - [How to upload images using issues](http://solutionoptimist.com/2013/12/28/awesome-github-tricks/)
+ - [Internal image uploader (must be on VPN or on office network)](http://blogtools.ds.stackexchange.com/)
  - [Company editorial board and calendar (post ideas and see schedule)](https://trello.com/b/WYAPaUEC/blog-editorial-and-calendar)
 
 ## What is this blog for?
@@ -116,9 +116,7 @@ Everything following the second set of three dashes in your post markdown file w
 
 **Uploading Images**
 
-Adding images to your post requires you to upload the image and use the URL in your markdown. If you are a developer, you can go ahead and add images to the `images` folder in this repository and access it that way.
-
-If you are not a developer, --we have a Stack Exchange Imgur account that you can use to upload images, then use the URL of the uploaded image in your post.-- you can create a GitHub issue and drag your images into comment box to upload files and get a URL generated for you. You can [get a walkthrough of this process here here](http://solutionoptimist.com/2013/12/28/awesome-github-tricks/). This is a temporary solution until we figure out a long term solution for image hosting.
+Adding images to your post requires you to upload the image and use the URL in your markdown. We have an internal image uploader tool that you can access at the following link: http://blogtools.ds.stackexchange.com/ . You will need to be connected to the VPN or wired to the internal office network.
 
 In addition to the different methods, there are some basic guidelines to what is allowed:
 
