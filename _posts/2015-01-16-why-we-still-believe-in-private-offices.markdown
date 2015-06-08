@@ -4,7 +4,7 @@ comments: true
 date: 2015-01-16 15:40:14+00:00
 layout: post
 redirect_from: /2015/01/why-we-still-believe-in-private-offices
-hero: https://cloud.githubusercontent.com/assets/12239801/7542781/abe9be60-f58d-11e4-8ebc-1436ac01aea8.jpg
+hero: http://i.stack.imgur.com/ecpKO.jpg
 slug: why-we-still-believe-in-private-offices
 title: Why We (Still) Believe in Private Offices
 wordpress_id: 15237
