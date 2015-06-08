@@ -4,7 +4,7 @@ comments: true
 date: 2012-06-26 14:04:36+00:00
 layout: post
 redirect_from: /2012/06/welcome-to-the-arqade
-hero: /images/wordpress/arqade-blue-300x256.png
+hero: 
 slug: welcome-to-the-arqade
 title: 'Welcome to the Arqade: Rebranding a Successful Site'
 wordpress_id: 11878
