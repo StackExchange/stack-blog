@@ -2,7 +2,7 @@
 layout: post
 title: "Introducing Beyond Coding: Free professional skills training for emerging devs in NYC"
 author: bethanymarz
-hero: http://i.stack.imgur.com/7WXsu.jpg
+hero: http://i.stack.imgur.com/wRppB.jpg
 tags:
  - company
  - announcement
