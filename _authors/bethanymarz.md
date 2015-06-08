@@ -2,7 +2,7 @@
 layout: author
 id: bethanymarz
 name: Bethany Marzewski
-avatar: https://pbs.twimg.com/profile_images/557208653430669312/R2C28lu3_400x400.jpeg
+avatar: http://i.stack.imgur.com/K1Fn7.jpg
 twitter: bethanymarz
 job: Segment Marketing Manager
 ---
