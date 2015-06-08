@@ -4,7 +4,7 @@ comments: true
 date: 2014-04-22 16:00:07+00:00
 layout: post
 redirect_from: /2014/04/putting-the-community-back-in-wiki
-hero: https://cloud.githubusercontent.com/assets/12239801/7543623/00e90b7c-f594-11e4-8214-f899751979be.jpg
+hero: http://i.stack.imgur.com/IGh2C.jpg
 slug: putting-the-community-back-in-wiki
 title: Putting the Community back in Wiki
 wordpress_id: 14660
