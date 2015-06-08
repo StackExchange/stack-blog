@@ -13,6 +13,13 @@ $(document).ready(function() {
 		$("nav a." + top_active).addClass("active");
 	}
 
+	if (typeof channel !== 'undefined') {
+		if (channel != 'company' && channel != 'engineering') {
+			$(".subheader a.category").removeClass("active");
+			$(".subheader a.category#" + channel).addClass("active");
+		}
+	}
+
 	if ($("div.pagination").length > 0) {
 		check_page();
 	} else {
