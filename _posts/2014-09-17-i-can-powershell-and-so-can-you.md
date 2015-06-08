@@ -2,7 +2,7 @@
 layout: post
 title: I Can Powershell and So Can You!
 author: selfcommit
-hero: https://cloud.githubusercontent.com/assets/12239801/7543263/2892a898-f591-11e4-84a1-38729d61a841.jpg
+hero: http://i.stack.imgur.com/Ci8hT.jpg
 source: http://www.selfcommit.com/
 tags:
 - engineering
