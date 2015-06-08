@@ -4,7 +4,7 @@ comments: true
 date: 2012-09-26 16:57:47+00:00
 layout: post
 redirect_from: /2012/09/apptivate-ms-a-windows-8-app-development-contest
-hero: http://blog.stackoverflow.com/wp-content/uploads/apptivate-logo1.png
+hero: http://i.stack.imgur.com/3lQIE.jpg
 slug: apptivate-ms-a-windows-8-app-development-contest
 title: 'Apptivate.ms: A Windows 8 App Development Contest'
 wordpress_id: 12274
