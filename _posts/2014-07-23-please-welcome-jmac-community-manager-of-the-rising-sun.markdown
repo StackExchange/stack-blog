@@ -5,7 +5,7 @@ date: 2014-07-23 20:04:44+00:00
 layout: post
 redirect_from: /2014/07/please-welcome-jmac-community-manager-of-the-rising-sun
 slug: please-welcome-jmac-community-manager-of-the-rising-sun
-hero: https://cloud.githubusercontent.com/assets/12239801/7544218/2c8933ce-f599-11e4-8d9d-acd7e86405de.JPG
+hero: http://i.stack.imgur.com/3bryG.jpg
 title: Please welcome jmac, Community Manager of the Rising Sun
 wordpress_id: 14754
 tags:
