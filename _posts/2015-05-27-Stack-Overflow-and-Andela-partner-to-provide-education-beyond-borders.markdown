@@ -2,12 +2,13 @@
 author: jonhmchan
 date: 2015-05-27 00:00:00+00:00
 layout: post
-hero: http://i.stack.imgur.com/qJHKl.jpg
+hero: http://i.stack.imgur.com/wHVgr.png
 title: Stack Overflow and Andela partner to provide education beyond borders
+slug: stack-overflow-and-andela-partner-to-provide-education-beyond-borders
 tags:
- - company
- - announcement
- - diversity
+- company
+- announcement
+- diversity
 ---
 
 *[Jon](http://twitter.com/jonhmchan) is a web developer and heads up developer evangelism efforts at Stack Exchange.*
