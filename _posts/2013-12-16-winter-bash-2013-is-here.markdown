@@ -4,7 +4,7 @@ comments: true
 date: 2013-12-16 00:00:28+00:00
 layout: post
 redirect_from: /2013/12/winter-bash-2013-is-here
-hero: /images/wordpress/header.png
+hero: http://i.stack.imgur.com/85zXJ.jpg
 slug: winter-bash-2013-is-here
 title: Winter Bash 2013 is here!
 wordpress_id: 14269
