@@ -4,7 +4,7 @@ comments: true
 date: 2013-08-23 20:59:58+00:00
 layout: post
 redirect_from: /2013/08/introducing-gabe-the-smiling-community-manager
-hero: http://i.stack.imgur.com/QqHbc.png
+hero: 
 slug: introducing-gabe-the-smiling-community-manager
 title: Introducing Gabe, The Smiling Community Manager
 wordpress_id: 13958
