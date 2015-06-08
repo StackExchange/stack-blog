@@ -5,7 +5,7 @@ date: 2015-01-08 16:26:54+00:00
 layout: post
 redirect_from: /2015/01/year-in-review-2014
 slug: year-in-review-2014
-hero: https://cloud.githubusercontent.com/assets/12239801/7543928/9d469280-f596-11e4-965b-7b9993bbd541.JPG
+hero: http://i.stack.imgur.com/6c0Sy.jpg
 title: Stack Exchange Year in Review 2014
 wordpress_id: 15210
 tags:
