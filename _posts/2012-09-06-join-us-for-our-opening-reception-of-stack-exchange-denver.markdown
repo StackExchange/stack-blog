@@ -4,7 +4,7 @@ comments: true
 date: 2012-09-06 14:59:30+00:00
 layout: post
 redirect_from: /2012/09/join-us-for-our-opening-reception-of-stack-exchange-denver
-hero: http://i.imgur.com/1bJSW.jpg
+hero: http://i.stack.imgur.com/OU73L.jpg
 slug: join-us-for-our-opening-reception-of-stack-exchange-denver
 title: 'Join us for our opening reception of Stack Exchange: Denver!'
 wordpress_id: 12205
