@@ -4,7 +4,7 @@ comments: true
 date: 2014-04-17 13:22:03+00:00
 layout: post
 redirect_from: /2014/04/announcing-the-launch-of-meta-stack-exchange
-hero: https://cloud.githubusercontent.com/assets/12239801/7543666/4aa14afe-f594-11e4-9103-df73c710e673.jpg
+hero: http://i.stack.imgur.com/JqDXy.jpg
 slug: announcing-the-launch-of-meta-stack-exchange
 title: Announcing The Launch Of Meta Stack Exchange
 wordpress_id: 14633
