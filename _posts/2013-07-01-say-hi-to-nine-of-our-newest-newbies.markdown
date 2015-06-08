@@ -4,7 +4,7 @@ comments: true
 date: 2013-07-01 17:40:53+00:00
 layout: post
 redirect_from: /2013/07/say-hi-to-nine-of-our-newest-newbies
-hero: /images/wordpress/Charette-Matt.jpg
+hero: 
 slug: say-hi-to-nine-of-our-newest-newbies
 title: Say Hi to Nine of Our Newest Newbies
 wordpress_id: 13769
