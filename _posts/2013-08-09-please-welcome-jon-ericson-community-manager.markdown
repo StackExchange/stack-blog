@@ -4,7 +4,7 @@ comments: true
 date: 2013-08-09 17:41:21+00:00
 layout: post
 redirect_from: /2013/08/please-welcome-jon-ericson-community-manager
-hero: http://i.stack.imgur.com/UwU4i.jpg
+hero: 
 slug: please-welcome-jon-ericson-community-manager
 title: Please welcome Jon Ericson, Community Manager
 wordpress_id: 13902
