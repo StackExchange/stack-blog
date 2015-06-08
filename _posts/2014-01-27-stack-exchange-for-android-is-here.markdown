@@ -4,7 +4,7 @@ comments: true
 date: 2014-01-27 17:36:23+00:00
 layout: post
 redirect_from: /2014/01/stack-exchange-for-android-is-here
-hero: https://cloud.githubusercontent.com/assets/1703653/7544041/963b3e7c-f597-11e4-86f6-d76f29e6a9fe.jpg
+hero: http://i.stack.imgur.com/z5Aa2.jpg
 slug: stack-exchange-for-android-is-here
 title: Stack Exchange for Android is here!
 wordpress_id: 14395
