@@ -4,7 +4,7 @@ comments: true
 date: 2013-09-16 16:20:31+00:00
 layout: post
 redirect_from: /2013/09/five-years-ago-stack-overflow-launched-then-a-miracle-occurred
-hero: http://blog.stackoverflow.com/wp-content/uploads/then-a-miracle-occurs-cartoon.png
+hero: http://i.stack.imgur.com/RGUCj.jpg
 slug: five-years-ago-stack-overflow-launched-then-a-miracle-occurred
 title: Five years ago, Stack Overflow launched. Then, a miracle occurred.
 wordpress_id: 13995
