@@ -4,7 +4,7 @@ comments: true
 date: 2012-06-08 23:05:49+00:00
 layout: post
 redirect_from: /2012/06/election-participation-badges
-hero: http://i.stack.imgur.com/qV3Lm.png
+hero: http://i.stack.imgur.com/Ccz9b.jpg
 slug: election-participation-badges
 title: Election participation badges
 wordpress_id: 11860
