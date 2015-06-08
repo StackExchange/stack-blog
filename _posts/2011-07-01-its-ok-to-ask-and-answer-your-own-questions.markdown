@@ -4,7 +4,7 @@ comments: true
 date: 2011-07-01 16:55:01+00:00
 layout: post
 redirect_from: /2011/07/its-ok-to-ask-and-answer-your-own-questions
-hero: /images/wordpress/jeopardy-set1.jpg
+hero: http://i.stack.imgur.com/hrHQI.jpg
 slug: its-ok-to-ask-and-answer-your-own-questions
 title: It's OK to Ask and Answer Your Own Questions
 wordpress_id: 8636
