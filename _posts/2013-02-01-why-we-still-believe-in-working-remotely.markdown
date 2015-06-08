@@ -3,7 +3,7 @@ author: david
 comments: true
 date: 2013-02-01 19:43:01+00:00
 layout: post
-hero: https://cloud.githubusercontent.com/assets/12239801/7544528/e026fa36-f59b-11e4-9bad-3603b273c3ce.JPG
+hero: http://i.stack.imgur.com/m3E5l.jpg
 redirect_from: /2013/02/why-we-still-believe-in-working-remotely
 slug: why-we-still-believe-in-working-remotely
 title: Why We (Still) Believe in Working Remotely
