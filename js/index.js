@@ -57,7 +57,7 @@ $(document).ready(function() {
 
 				data = response;
 
-				console.log(data);
+				console.log(response);
 
 				set_page(page);
 
