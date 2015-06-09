@@ -35,7 +35,9 @@ $(document).ready(function() {
 				page = page_num;
 			}
 		}
+		console.log(prefix + "/json/index.json");
 		$.getJSON(prefix + "/json/index.json", function(response) {
+			console.log(response)
 			if (response) {
 				var result = [];
 				for (key in response.posts) {
