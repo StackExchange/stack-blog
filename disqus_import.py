@@ -1,11 +1,29 @@
 import requests, pprint
 import xml.etree.ElementTree as ET
+import logging
 
 dev = True
-api_key = "zPVMSrI6akiK2z3dT6kSRz9h4a5AiXmBaQQCqBbcIhtVpaKY46dvWdUlMNa6R8dC"
-api_secret = "ijUMgGSaJ2ta5Fm3cxnJu3jJ8HKMOp9B80PAoJ0jxzzaYXQkF6lm7NUsiaQ3DfG0"
+api_key = "kxEiKFv9wfahgkphY5mHNw1XQa7eX2w9XSt6xVO0DIgavfR6IBPwIITjOPrJpk37"
+api_secret = "BdqGO6i11HdMSoXTbrQUR8THHIGiS3NHADnACpwEHHYjbqGVaymWR3ZwQGZogujm"
 access_token = "d9f448464a2c4e7eb767217c445c6218"
 forum = "stackoverflowblog"
+
+# These two lines enable debugging at httplib level (requests->urllib3->http.client)
+# You will see the REQUEST, including HEADERS and DATA, and RESPONSE with HEADERS but without DATA.
+# The only thing missing will be the response.body which is not logged.
+try:
+    import http.client as http_client
+except ImportError:
+    # Python 2
+    import httplib as http_client
+http_client.HTTPConnection.debuglevel = 1
+
+# You must initialize logging, otherwise you'll not see debug output.
+logging.basicConfig() 
+logging.getLogger().setLevel(logging.DEBUG)
+requests_log = logging.getLogger("requests.packages.urllib3")
+requests_log.setLevel(logging.DEBUG)
+requests_log.propagate = True
 
 e = ET.parse('blog.xml').getroot()
 posts = e[0].findall('item')
@@ -66,11 +84,16 @@ while cursor:
 			"access_token": access_token,
 			"thread": thread_data.get("id")
 		}
+		continue
 		response = requests.post("https://disqus.com/api/3.0/threads/remove.json", params = payload_2)
 		print response.text
 
 # Create new threads in disqus based on the XML
+count = 0
 for post in blog_data:
+
+	code = None
+
 	payload_3 = {
 		"api_key": api_key,
 		"api_secret": api_secret,
@@ -80,7 +103,48 @@ for post in blog_data:
 		"url": post.get("url"),
 		"date": post.get("date")
 	}
+
 	thread_data = requests.post("https://disqus.com/api/3.0/threads/create.json", params = payload_3)
-	print thread_data.json()
-	break
+	created_thread = thread_data.json()
+
+	print created_thread
+
+	if created_thread.get("code") == 2:
+		restore_data = requests.post("https://disqus.com/api/3.0/threads/restore.json", params = {
+				"api_key": api_key,
+				"api_secret": api_secret,
+				"access_token": access_token,
+				"thread:link": post.get("url")
+			})
+		restore = restore_data.json()
+		code = restore.get("response")[0].get("id")
+	else:
+		code = created_thread.get("response").get("id")
+
+	for comment in post.get("comments"):
+		payload_4 = {
+			"api_key": api_key,
+			"message": comment.get("message"),
+			"thread": code,
+			"author_email": comment.get("author_email"),
+			"author_name": comment.get("author_name"),
+			"state": "approved",
+			"author_url": comment.get("author_url"),
+			"date": comment.get("date"),
+			"ip_address": comment.get("ip_address") 
+		}
+
+		headers = {
+			"Host": ".disqus.com",
+			"Referrer": "stackexchange.com"
+		}
+
+		comment_data = requests.post("https://disqus.com/api/3.0/posts/create.json", params = payload_4, headers = headers)
+		print comment_data.json()
+		# print comment_data.headers
+		break
+
+	count += 1
+	if count > 1:
+		break
 
