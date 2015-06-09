@@ -4,6 +4,6 @@ name: Kevin Montrose
 id: kevinmontrose
 twitter: kevinmontrose
 job: Developer
-avatar: https://pbs.twimg.com/profile_images/557245946052886528/Jv2UweBV_400x400.jpeg
+avatar: http://i.stack.imgur.com/L4Uq1.jpg
 website: kevinmontrose.com
 ---
