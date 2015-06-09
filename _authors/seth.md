@@ -4,7 +4,7 @@ name: Seth Rogers
 id: seth
 twitter: 
 job: 
-avatar: 
+avatar: http://i.stack.imgur.com/myAJc.jpg
 website: 
 inactive: true
 ---
