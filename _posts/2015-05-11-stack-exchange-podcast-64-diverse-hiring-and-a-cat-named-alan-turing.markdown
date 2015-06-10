@@ -10,6 +10,7 @@ title: 'Podcast #64 - Diverse Hiring and a Cat Named Alan Turing'
 tags:
 - company
 - podcasts
+- diversity
 ---
 
 Welcome to Stack Exchange Podcast Episode #64, recorded in the podcast studio at Stack Exchange HQ in New York City, NY. 
