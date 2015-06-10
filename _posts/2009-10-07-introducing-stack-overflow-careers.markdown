@@ -4,7 +4,7 @@ comments: true
 date: 2009-10-07 18:58:31+00:00
 layout: post
 redirect_from: /2009/10/introducing-stack-overflow-careers
-hero: http://blog.stackoverflow.com/wp-content/uploads/stack-overflow-careers.png
+hero: 
 slug: introducing-stack-overflow-careers
 title: Introducing Stack Overflow Careers
 wordpress_id: 2021
