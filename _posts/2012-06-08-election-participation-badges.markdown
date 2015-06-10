@@ -12,6 +12,7 @@ tags:
 - company
 - announcement
 - stackexchange
+- community
 - stackoverflow
 ---
 

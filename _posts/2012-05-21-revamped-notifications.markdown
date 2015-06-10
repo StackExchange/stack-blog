@@ -12,6 +12,7 @@ tags:
 - company
 - announcement
 - stackexchange
+- community
 ---
 
 About a year and half ago [we introduced the Global Inbox](http://blog.stackoverflow.com/2010/09/new-global-inbox/), that lovely little red number our analytics tell us everybody loves.
