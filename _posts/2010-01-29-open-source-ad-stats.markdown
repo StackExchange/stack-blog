@@ -4,7 +4,7 @@ comments: true
 date: 2010-01-29 01:12:57+00:00
 layout: post
 redirect_from: /2010/01/open-source-ad-stats
-hero: http://blog.stackoverflow.com/wp-content/uploads/oss-ad-stats-1.png
+hero: 
 slug: open-source-ad-stats
 title: Open Source Ad Stats
 wordpress_id: 2661
