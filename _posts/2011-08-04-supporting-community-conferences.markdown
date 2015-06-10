@@ -4,7 +4,7 @@ comments: true
 date: 2011-08-04 04:50:42+00:00
 layout: post
 redirect_from: /2011/08/supporting-community-conferences
-hero: http://blog.stackoverflow.com/wp-content/uploads/gis-flyer.png
+hero: 
 slug: supporting-community-conferences
 title: Supporting Community Conferences
 wordpress_id: 9160
