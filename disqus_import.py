@@ -1,6 +1,6 @@
 import requests, pprint
 import xml.etree.ElementTree as ET
-import logging, hashlib, json, os
+import logging, hashlib, json, os, time
 
 dev = True
 api_key = "kxEiKFv9wfahgkphY5mHNw1XQa7eX2w9XSt6xVO0DIgavfR6IBPwIITjOPrJpk37"
@@ -64,6 +64,9 @@ for post in blog_data:
 	for comment in post["comments"]:
 		del(comment["author_email"])
 		del(comment["ip_address"])
+		date_posted = time.strptime(comment["date"], "%Y-%m-%d %H:%M:%S")
+		comment["date"] = time.strftime("%b %d, %Y")
+
 		result[slug].append(comment)
 
 	json_result = json.dumps({"response": result[slug]})
