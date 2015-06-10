@@ -4,7 +4,7 @@ comments: true
 date: 2010-03-01 06:15:20+00:00
 layout: post
 redirect_from: /2010/03/our-sidekick-ifixit-com
-hero: /images/wordpress/aquaman-and-aqualad.jpg
+hero:
 slug: our-sidekick-ifixit-com
 title: Our Sidekick, iFixit.com
 wordpress_id: 2758
