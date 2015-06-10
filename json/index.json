@@ -1,6 +1,7 @@
 ---
 layout: null
 ---
+
 {
 	"posts": [
 		{% for post in site.posts %}
