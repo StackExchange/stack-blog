@@ -4,7 +4,7 @@ comments: true
 date: 2010-10-30 08:23:24+00:00
 layout: post
 redirect_from: /2010/10/database-upgrade
-hero: http://blog.stackoverflow.com/wp-content/uploads/spud-server.jpg
+hero: 
 slug: database-upgrade
 title: Database Upgrade
 wordpress_id: 5909
