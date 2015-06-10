@@ -4,7 +4,7 @@ comments: true
 date: 2010-10-13 17:09:40+00:00
 layout: post
 redirect_from: /2010/10/stack-exchange-naming-for-dummies
-hero: /images/wordpress/superman-elevator.jpg
+hero: 
 slug: stack-exchange-naming-for-dummies
 title: Stack Exchange Naming for Dummies
 wordpress_id: 5584
