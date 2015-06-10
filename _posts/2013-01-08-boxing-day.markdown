@@ -12,6 +12,7 @@ tags:
 - company
 - background
 - stackexchange
+- community
 ---
 
 So. We've torn through the advent calendar, tossed aside all the wrapping paper, and (hopefully) obsessively screencapped our gravatars wearing various kinds of silly hats. As of last Friday, [Winter Bash 2012](http://blog.stackoverflow.com/2012/12/welcome-to-winter-bash-2012/) is officially over!

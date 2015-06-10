@@ -11,6 +11,7 @@ wordpress_id: 12480
 tags:
 - company
 - announcement
+- community
 ---
 
 Ads. Like 'em or not, they keep the lights on.

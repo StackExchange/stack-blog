@@ -11,6 +11,7 @@ wordpress_id: 12920
 tags:
 - company
 - announcement
+- community
 ---
 
 One of our New Year’s resolutions here at Stack Exchange is to take a hard look at our user experience.  As the network has grown and our audience expanded, the system has grown with it - but there are some rough edges in places that can use a bit of smoothing. You’ll be seeing a lot of improvements over the next few months, but today I’d like to announce the first bit of polish: built-in profile pictures.

@@ -12,6 +12,7 @@ tags:
 - company
 - announcement
 - stackexchange
+- community
 ---
 
 Another holiday season has drawn to a close. We’ve had three glorious weeks with our beloved hats. Now as we pack away the tinsel and the party horns, it’s time to put the hats back in their boxes for another year. Before we move on to 2014 with our bare heads (and our full hearts), let’s take a few moments to reminisce.
