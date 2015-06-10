@@ -34,7 +34,7 @@ $(document).ready(function() {
 					for (key in comments) {
 						comment = comments[key];
 						var html = '<div class="comment">';
-							html += '<a name="#comment_' + key + '"></a>';
+							html += '<a name="comment_' + key + '"></a>';
 							html += '<div class="-row">';
 								html += '<div class="header">';
 									html += '<img src="http://www.gravatar.com/avatar/' + comment.gravatar_hash + '"/>';
