@@ -10,6 +10,7 @@ wordpress_id: 10305
 tags:
 - company
 - announcement
+- community
 ---
 
 Last week, there was a lot of [hubbub on Meta Stack Overflow](http://meta.stackoverflow.com/questions/tagged/sopa) about a system message that ran on Stack Overflow. The system message read:
