@@ -4,7 +4,7 @@ comments: true
 date: 2011-01-14 09:54:06+00:00
 layout: post
 redirect_from: /2011/01/improved-flagging
-hero: /images/wordpress/flag-post-link.png
+hero: 
 slug: improved-flagging
 title: Improved Flagging
 wordpress_id: 6779
