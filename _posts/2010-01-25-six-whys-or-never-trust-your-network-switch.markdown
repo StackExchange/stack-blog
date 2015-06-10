@@ -4,7 +4,7 @@ comments: true
 date: 2010-01-25 18:13:43+00:00
 layout: post
 redirect_from: /2010/01/six-whys-or-never-trust-your-network-switch
-hero: /images/wordpress/switch-autodetect-fail.png
+hero: 
 slug: six-whys-or-never-trust-your-network-switch
 title: Six Whys - Or, Never Trust Your Network Switch
 wordpress_id: 2652
