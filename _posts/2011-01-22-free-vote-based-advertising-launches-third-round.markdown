@@ -4,7 +4,7 @@ comments: true
 date: 2011-01-22 05:17:06+00:00
 layout: post
 redirect_from: /2011/01/free-vote-based-advertising-launches-third-round
-hero: /images/wordpress/2h2010_ads.png
+hero: 
 slug: free-vote-based-advertising-launches-third-round
 title: Free Vote-Based Advertising Launches Third Round
 wordpress_id: 6914

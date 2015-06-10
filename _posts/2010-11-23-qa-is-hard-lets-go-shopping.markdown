@@ -4,7 +4,7 @@ comments: true
 date: 2010-11-23 09:04:52+00:00
 layout: post
 redirect_from: /2010/11/qa-is-hard-lets-go-shopping
-hero: /images/wordpress/barbie-shopping.jpg
+hero: 
 slug: qa-is-hard-lets-go-shopping
 title: Q&A is Hard, Let's Go Shopping!
 wordpress_id: 6146

@@ -4,14 +4,14 @@ comments: true
 date: 2011-03-30 14:39:00+00:00
 layout: post
 redirect_from: /2011/03/careers-2-0-now-does-github
-hero: http://blog.stackoverflow.com/wp-content/uploads/resigtweet.png
+hero:
 slug: careers-2-0-now-does-github
 title: Careers 2.0 now does GitHub
 wordpress_id: 7583
 tags:
 - company
-- careers
 ---
+- careers
 
 In our continuing effort to allow awesome developers to demonstrate their …awesomeness… we’ve added the ability to include your [GitHub](https://github.com/) projects on your Careers 2.0 profile.
 

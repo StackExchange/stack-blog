@@ -4,7 +4,7 @@ comments: true
 date: 2011-01-11 02:39:44+00:00
 layout: post
 redirect_from: /2011/01/tag-favorites-and-tag-subscriptions
-hero: /images/wordpress/tag-favorites-subscribe2.png
+hero: 
 slug: tag-favorites-and-tag-subscriptions
 title: Tag Favorites and Tag Subscriptions
 wordpress_id: 6668

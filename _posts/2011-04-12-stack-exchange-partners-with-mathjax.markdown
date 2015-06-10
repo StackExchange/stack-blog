@@ -4,7 +4,7 @@ comments: true
 date: 2011-04-12 09:04:47+00:00
 layout: post
 redirect_from: /2011/04/stack-exchange-partners-with-mathjax
-hero: http://blog.stackoverflow.com/wp-content/uploads/mathjax-logo.png
+hero: 
 slug: stack-exchange-partners-with-mathjax
 title: Stack Exchange Partners with MathJax
 wordpress_id: 7752

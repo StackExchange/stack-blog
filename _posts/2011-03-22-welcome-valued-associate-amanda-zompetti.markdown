@@ -4,7 +4,7 @@ comments: true
 date: 2011-03-22 13:22:54+00:00
 layout: post
 redirect_from: /2011/03/welcome-valued-associate-amanda-zompetti
-hero: /images/wordpress/egg-cream-e1300723988366.jpg
+hero:
 slug: welcome-valued-associate-amanda-zompetti
 title: Welcome Valued Associate Amanda Zompetti!
 wordpress_id: 7488

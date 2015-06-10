@@ -4,7 +4,7 @@ comments: true
 date: 2011-04-06 19:31:00+00:00
 layout: post
 redirect_from: /2011/04/a-bookshelf-on-your-careers-2-0-profile
-hero: http://blog.stackoverflow.com/wp-content/uploads/bookcut.png
+hero: 
 slug: a-bookshelf-on-your-careers-2-0-profile
 title: A bookshelf on your Careers 2.0 profile
 wordpress_id: 7651

@@ -4,7 +4,7 @@ comments: true
 date: 2010-11-29 11:26:12+00:00
 layout: post
 redirect_from: /2010/11/the-pee-wee-herman-rule
-hero: http://blog.stackoverflow.com/wp-content/uploads/pee-wee-biker-bar.jpg
+hero: 
 slug: the-pee-wee-herman-rule
 title: The Pee-Wee Herman Rule
 wordpress_id: 6182

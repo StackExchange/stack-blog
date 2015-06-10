@@ -4,7 +4,7 @@ comments: true
 date: 2011-02-04 07:59:54+00:00
 layout: post
 redirect_from: /2011/02/welcome-our-new-trilogy-moderators-for-2011
-hero: http://stackoverflow.com/users/flair/34397.png
+hero: 
 slug: welcome-our-new-trilogy-moderators-for-2011
 title: Welcome Our New Trilogy Moderators for 2011!
 wordpress_id: 7093
@@ -13,6 +13,7 @@ tags:
 - moderators
 - serverfault.com
 - superuser.com
+- community
 ---
 
 The [trilogy elections](http://blog.stackoverflow.com/2011/01/trilogy-2011-elections-begin/) are now complete. Welcome our **new trilogy moderators for 2011!**

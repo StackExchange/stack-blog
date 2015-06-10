@@ -4,7 +4,7 @@ comments: true
 date: 2010-12-21 16:34:09+00:00
 layout: post
 redirect_from: /2010/12/stack-overflow-annual-survey
-hero: http://blog.stackoverflow.com/wp-content/uploads/Final-banner-PNG-150x150.png
+hero: 
 slug: stack-overflow-annual-survey
 title: Stack Overflow Annual Survey
 wordpress_id: 6433

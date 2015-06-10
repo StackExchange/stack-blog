@@ -4,13 +4,14 @@ comments: true
 date: 2011-01-16 06:08:09+00:00
 layout: post
 redirect_from: /2011/01/creative-commons-data-dump-jan-11
-hero: http://www.clearbits.net/images/btn/CB-download.png
+hero: 
 slug: creative-commons-data-dump-jan-11
 title: Creative Commons Data Dump Jan '11
 wordpress_id: 6817
 tags:
 - company
 - cc-wiki-dump
+- community
 ---
 
 IMPORTANT: This torrent was originally uploaded incomplete. Our apologies. If you downloaded it before ~ 8 pm Pacific on January 16th, 2011, you should re-download it now. The correct size is > 3 GB; anything smaller is incorrect.

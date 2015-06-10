@@ -4,7 +4,7 @@ comments: true
 date: 2010-11-16 03:49:40+00:00
 layout: post
 redirect_from: /2010/11/dr-strangedupe-or-how-i-learned-to-stop-worrying-and-love-duplication
-hero: http://blog.stackoverflow.com/wp-content/uploads/dr-strangelove-bomb.jpg
+hero: 
 slug: dr-strangedupe-or-how-i-learned-to-stop-worrying-and-love-duplication
 title: 'Dr. Strangedupe: Or, How I Learned to Stop Worrying And Love Duplication'
 wordpress_id: 6131
