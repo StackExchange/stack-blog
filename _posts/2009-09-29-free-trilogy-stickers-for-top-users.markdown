@@ -4,7 +4,7 @@ comments: true
 date: 2009-09-29 06:59:10+00:00
 layout: post
 redirect_from: /2009/09/free-trilogy-stickers-for-top-users
-hero: /images/wordpress/stickers-near-loose.jpg
+hero: 
 slug: free-trilogy-stickers-for-top-users
 title: Free Trilogy Stickers for Top Users
 wordpress_id: 1979
