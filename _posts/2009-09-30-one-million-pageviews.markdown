@@ -4,13 +4,14 @@ comments: true
 date: 2009-09-30 21:59:45+00:00
 layout: post
 redirect_from: /2009/09/one-million-pageviews
-hero: http://blog.stackoverflow.com/wp-content/uploads/dr-evil-pinky.jpg
+hero: 
 slug: one-million-pageviews
 title: One Million Pageviews
 wordpress_id: 2002
 tags:
 - company
 - background
+- community
 ---
 
 
