@@ -26,6 +26,35 @@ $(document).ready(function() {
 		$(".posts").css("visibility", "visible");
 	}
 
+	if (typeof slug !== 'undefined') {
+		if (slug.length > 0 && $(".disqus").length > 0) {
+			$.getJSON(prefix + "/json/comments" + slug + ".json", function(response) {
+				if (response) {
+					comments = response.response
+					for (key in comments) {
+						comment = comments[key];
+						var html = '<div class="comment">';
+							html += '<a name="#comment_' + key + '"></a>';
+							html += '<div class="-row">';
+								html += '<div class="header">';
+									html += '<img src="http://www.gravatar.com/avatar/' + comment.gravatar_hash + '"/>';
+									html += '<p>';
+									if (comment.author_url !== null) html += '<a href="' + comment.author_url + '">';
+									html += comment.author_name;
+									if (comment.author_url !== null) html += '</a>';
+									html += '</p>';
+									html += '<p><a href="#comment_' + key + '">' + comment.date + '</a></p>'
+								html += '</div>';
+							html += '</div>';
+							html += '<div>' + comment.message + '</div>';
+						html += '</div>';
+						$(".disqus").prepend(html);
+					}
+				}
+			})
+		}
+	}
+
 	function check_page() {
 		var href = window.location.hash;
 		var matched = href.match('^#page');

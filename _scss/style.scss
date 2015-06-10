@@ -424,6 +424,27 @@ article.post {
 			}
 			.disqus {
 				margin-top: 75px;
+				.comment {
+					> div {
+						margin: 10px;
+					}
+					.header {
+						border-bottom: 1px solid rgba(0,0,0,0.1);
+						img {
+							width: 45px;
+							height: 45px;
+							float: left;
+							margin-right: 15px;
+						}
+						p {
+							font-size: 16px;
+							margin-bottom: 0;
+						}
+					}
+					border: 1px solid rgba(0,0,0,0.1);;
+					margin-bottom: 15px;
+					font-size: 14px;
+				}
 			}
 		}
 	}
