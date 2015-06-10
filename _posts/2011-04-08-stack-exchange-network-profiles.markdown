@@ -4,7 +4,7 @@ comments: true
 date: 2011-04-08 07:15:06+00:00
 layout: post
 redirect_from: /2011/04/stack-exchange-network-profiles
-hero: http://blog.stackoverflow.com/wp-content/uploads/stack-exchange-global-profile-page-0.png
+hero: 
 slug: stack-exchange-network-profiles
 title: Stack Exchange Network Profiles
 wordpress_id: 7715
