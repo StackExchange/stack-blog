@@ -4,7 +4,7 @@ comments: true
 date: 2010-09-29 09:58:38+00:00
 layout: post
 redirect_from: /2010/09/good-subjective-bad-subjective
-hero: http://blog.stackoverflow.com/wp-content/uploads/fields-arranged-by-purity.png
+hero: 
 slug: good-subjective-bad-subjective
 title: Good Subjective, Bad Subjective
 wordpress_id: 5236
