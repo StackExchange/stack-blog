@@ -4,13 +4,14 @@ comments: true
 date: 2010-09-16 12:43:18+00:00
 layout: post
 redirect_from: /2010/09/super-user-chat-now-available
-hero: http://blog.stackoverflow.com/wp-content/uploads/super-user-room-card-xxl.png
+hero: 
 slug: super-user-chat-now-available
 title: Super User Chat Now Available
 wordpress_id: 5131
 tags:
 - company
 - stackexchange
+- community
 - superuser.com
 ---
 
