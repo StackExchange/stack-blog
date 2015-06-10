@@ -4,7 +4,7 @@ comments: true
 date: 2011-01-04 18:56:13+00:00
 layout: post
 redirect_from: /2011/01/welcome-valued-associate-rebecca-chernoff
-hero: /images/wordpress/rebecca-chernoff-pic.jpg
+hero: 
 slug: welcome-valued-associate-rebecca-chernoff
 title: Welcome Valued Associate Rebecca Chernoff
 wordpress_id: 6572
