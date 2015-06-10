@@ -11,6 +11,7 @@ wordpress_id: 13933
 tags:
 - company
 - careers
+- announcement
 ---
 
 We launched Stack Overflow Careers with the goal of **fixing how companies hire developers**. Traditional resumes only tell half the story, so we created [Careers 2.0 Profiles](http://blog.stackoverflow.com/2011/02/careers-2-0-launches/) to fill in the gaps. A few months ago, we released [Company Pages](http://careers.stackoverflow.com/products/company-pages) with the goal of reinventing the traditional job listing the same way we reinvented the resume. Today, we’re excited to announce a new way to advertise your company to developers with [Company Page Ads](http://careers.stackoverflow.com/company/promote).
