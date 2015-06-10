@@ -11,6 +11,7 @@ wordpress_id: 12972
 tags:
 - company
 - announcement
+- community
 ---
 
 We've just rolled out a new Quick Start guide to help new users learn the basics. Here’s [one example](http://askdifferent.com/about), but you can find any site's version by going to sitename.com**/about**.

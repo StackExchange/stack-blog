@@ -11,6 +11,7 @@ tags:
 - company
 - announcement
 - design
+- community
 ---
 
 A few months ago, we rolled out [a new top bar](http://blog.stackoverflow.com/2013/12/a-new-top-bar-for-stack-exchange/) for all of the Stack Exchange communities. The mission was consistency: Every community gets the same Stack Exchange brand at the top, the same navigation between sites, and the same live updates about new inbox items and reputation changes

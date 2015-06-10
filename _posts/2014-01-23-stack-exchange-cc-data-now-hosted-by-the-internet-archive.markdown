@@ -10,6 +10,8 @@ wordpress_id: 14382
 tags:
 - company
 - cc-wiki-dump
+- announcements
+- community
 ---
 We’ve been publishing an [anonymized dump of all user-contributed Stack Exchange content](http://blog.stackoverflow.com/2009/06/stack-overflow-creative-commons-data-dump/) since 2009. Unfortunately, at the end of last year our former host, ClearBits, permanently shut down. So we set out to look for a new home for our data dumps, and today we’re happy to announce that the Internet Archive has agreed to host them:
 

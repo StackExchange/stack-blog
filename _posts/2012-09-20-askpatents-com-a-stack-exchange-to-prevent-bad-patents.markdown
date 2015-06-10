@@ -12,6 +12,7 @@ tags:
 - company
 - announcement
 - stackexchange
+- community
 ---
 
 We’ve all heard the [stories](http://www.thisamericanlife.org/radio-archives/episode/441/when-patents-attack/) of seemingly trivial patents being used to mug technology companies. There was the patent on the “Interactive Web” which a troll named Eolas used to extract $521 million from Microsoft--until a jury in East Texas [threw out the patents](http://www.wired.com/threatlevel/2012/02/interactive-web-patent/). There are the four patents Lodsys is using to send [threatening letters to software developers everywhere](http://www.applepatent.com/2011/05/lodsys-targets-small-ios-developers.html)--trivial patents that Google says [never should have been granted](http://www.groklaw.net/articlebasic.php?story=20110817200754569), in fact, Google and Oracle have submitted [mountains of prior art](http://www.groklaw.net/articlebasic.php?story=2012060618210330) to show that the patents should be invalid.
