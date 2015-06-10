@@ -12,6 +12,7 @@ tags:
 - company
 - announcement
 - stackexchange
+- community
 ---
 
 Remember [this old picture](http://stackoverflow.com/about)?

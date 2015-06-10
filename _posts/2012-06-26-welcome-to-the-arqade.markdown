@@ -13,6 +13,7 @@ tags:
 - announcement
 - chaos
 - stackexchange
+- community
 ---
 
 **Question:** What do Stack Overflow, Super User, and Server Fault have in common that most of the sites on our network don’t?

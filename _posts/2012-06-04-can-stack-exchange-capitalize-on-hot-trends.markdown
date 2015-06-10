@@ -13,6 +13,7 @@ tags:
 - chaos
 - promotion
 - stackexchange
+- community
 ---
 
 Hello. [Sam Brand](http://stackexchange.com/users/482412/samthebrand) here. For those of you who don’t know me, I’m part of [the CHAOS at Stack Exchange](http://blog.stackoverflow.com/2011/11/the-art-of-organizing-chaos/). I handle certain “special projects” across the network, oversee syndication, and occasionally poke my head into our communities to make sure our platform works to deliver killer content to the outside world. A couple weeks ago, I embarked upon one of these experiments.
