@@ -4,7 +4,7 @@ comments: true
 date: 2010-05-04 02:20:45+00:00
 layout: post
 redirect_from: /2010/05/announcing-our-series-a
-hero: http://blog.stackoverflow.com/wp-content/uploads/sonetwork1.png
+hero: 
 slug: announcing-our-series-a
 title: Announcing the Stack Overflow Series A Financing
 wordpress_id: 3038
