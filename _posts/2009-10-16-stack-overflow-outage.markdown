@@ -4,7 +4,7 @@ comments: true
 date: 2009-10-16 06:33:24+00:00
 layout: post
 redirect_from: /2009/10/stack-overflow-outage
-hero: http://blog.stackoverflow.com/wp-content/uploads/melted-switch-circuits-2.jpg
+hero: 
 slug: stack-overflow-outage
 title: Stack Overflow Outage
 wordpress_id: 2067
