@@ -4,13 +4,14 @@ comments: true
 date: 2011-04-12 16:15:46+00:00
 layout: post
 redirect_from: /2011/04/stack-exchange-traffic-still-growing
-hero: http://blog.stackoverflow.com/wp-content/uploads/Quantcast-255.png
+hero: 
 slug: stack-exchange-traffic-still-growing
 title: Stack Exchange Traffic Still Growing
 wordpress_id: 7778
 tags:
 - company
 - stackexchange
+- community
 ---
 
 We had a crazy month last month, growing about 18% across the board. Today I was excited to log onto Quantcast, which measures our traffic, to see that for the first time, our network rank now fits into a single unsigned byte!

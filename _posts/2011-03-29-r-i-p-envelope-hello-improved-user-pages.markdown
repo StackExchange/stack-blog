@@ -4,7 +4,7 @@ comments: true
 date: 2011-03-29 19:42:37+00:00
 layout: post
 redirect_from: /2011/03/r-i-p-envelope-hello-improved-user-pages
-hero: /images/wordpress/envelope-i-hate-you.png
+hero: 
 slug: r-i-p-envelope-hello-improved-user-pages
 title: R.I.P. Envelope, Hello Improved User Pages
 wordpress_id: 7546

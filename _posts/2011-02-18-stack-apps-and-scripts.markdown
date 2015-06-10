@@ -4,7 +4,7 @@ comments: true
 date: 2011-02-18 23:12:43+00:00
 layout: post
 redirect_from: /2011/02/stack-apps-and-scripts
-hero: http://blog.stackoverflow.com/wp-content/uploads/stackapps-scripts.png
+hero: 
 slug: stack-apps-and-scripts
 title: Stack Apps and Scripts
 wordpress_id: 7244
@@ -12,6 +12,7 @@ tags:
 - company
 - API
 - stackexchange
+- community
 ---
 
 As part of our ongoing improvement to [our 1.1 API release](http://blog.stackoverflow.com/2011/02/stack-exchange-api-1-1-and-improved-app-gallery/), and the site that supports our API, [stackapps.com](http://stackapps.com), **we've extended Stack Apps to support the listing of browser scripts**.
