@@ -4,7 +4,7 @@ comments: true
 date: 2011-12-25 15:57:59+00:00
 layout: post
 redirect_from: /2011/12/intro-to-chaos-promotion-seminar
-hero: /images/wordpress/lightsaber-1024x373.jpg
+hero:
 slug: intro-to-chaos-promotion-seminar
 title: 'Intro to CHAOS Promotion Seminar '
 wordpress_id: 10407

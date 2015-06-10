@@ -4,13 +4,14 @@ comments: true
 date: 2011-11-30 19:12:43+00:00
 layout: post
 redirect_from: /2011/11/question-closed-and-its-probably-best-that-way
-hero: http://chaos.blogoverflow.com/files/2011/11/no-unicorns.jpg
+hero: 
 slug: question-closed-and-its-probably-best-that-way
 title: Question [Closed]… and it's probably best that way
 wordpress_id: 10556
 tags:
 - company
 - chaos
+- community
 ---
 
 [![](http://chaos.blogoverflow.com/files/2011/11/no-unicorns.jpg)](http://chaos.blogoverflow.com/files/2011/11/no-unicorns.jpg)

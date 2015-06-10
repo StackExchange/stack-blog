@@ -16,7 +16,7 @@ tags:
 
 It has been a year and a half since we launched [Data Explorer](http://blog.stackoverflow.com/2010/06/introducing-stack-exchange-data-explorer/). In the past few months [Tim Stone](http://meta.stackoverflow.com/users/150235/tim-stone)  (on a community grant) and I have pushed a major round of changes. Thanks Tim!
 
-
+ 
 
 ### Recap on last years changes
 
