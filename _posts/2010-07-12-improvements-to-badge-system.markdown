@@ -4,7 +4,7 @@ comments: true
 date: 2010-07-12 22:56:00+00:00
 layout: post
 redirect_from: /2010/07/improvements-to-badge-system
-hero: /images/wordpress/necromancer-badge-awards.png
+hero:
 slug: improvements-to-badge-system
 title: Improvements to Badge System
 wordpress_id: 4135
