@@ -4,7 +4,7 @@ comments: true
 date: 2010-08-13 05:01:57+00:00
 layout: post
 redirect_from: /2010/08/network-central-stackexchange-com
-hero: /images/wordpress/stackexchange-new-homepage.png
+hero: 
 slug: network-central-stackexchange-com
 title: 'Network Central: stackexchange.com '
 wordpress_id: 4504
