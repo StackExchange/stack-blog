@@ -4,7 +4,7 @@ comments: true
 date: 2011-01-24 07:59:25+00:00
 layout: post
 redirect_from: /2011/01/stack-exchange-2011-elections-begin
-hero: http://blog.stackoverflow.com/wp-content/uploads/election-sites.png
+hero: 
 slug: stack-exchange-2011-elections-begin
 title: Stack Exchange 2011 Elections Begin
 wordpress_id: 6954
@@ -12,6 +12,7 @@ tags:
 - company
 - moderators
 - stackexchange
+- community
 ---
 
 
