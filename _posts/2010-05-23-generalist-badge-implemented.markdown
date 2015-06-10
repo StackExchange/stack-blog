@@ -4,7 +4,7 @@ comments: true
 date: 2010-05-23 06:59:08+00:00
 layout: post
 redirect_from: /2010/05/generalist-badge-implemented
-hero: /images/wordpress/top-40-tags.png
+hero: 
 slug: generalist-badge-implemented
 title: Generalist Badge Implemented
 wordpress_id: 3268
