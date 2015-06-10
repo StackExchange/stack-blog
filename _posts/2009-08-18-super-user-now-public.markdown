@@ -4,7 +4,7 @@ comments: true
 date: 2009-08-18 07:08:52+00:00
 layout: post
 redirect_from: /2009/08/super-user-now-public
-hero: http://superuser.com/content/superuser/img/logo.png
+hero: 
 slug: super-user-now-public
 title: Super User Now Public
 wordpress_id: 1848
