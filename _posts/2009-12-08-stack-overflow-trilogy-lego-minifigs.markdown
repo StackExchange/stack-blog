@@ -4,7 +4,7 @@ comments: true
 date: 2009-12-08 18:52:58+00:00
 layout: post
 redirect_from: /2009/12/stack-overflow-trilogy-lego-minifigs
-hero: /images/wordpress/stack-overflow-lego-minfigs-hires.jpg
+hero: 
 slug: stack-overflow-trilogy-lego-minifigs
 title: Stack Overflow Trilogy Lego Minifigs
 wordpress_id: 2260
