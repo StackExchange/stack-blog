@@ -4,7 +4,7 @@ comments: true
 date: 2009-12-13 02:10:00+00:00
 layout: post
 redirect_from: /2009/12/blog-outage-backup-policies
-hero: /images/wordpress/our-disaster-recovery-plan.png
+hero: 
 slug: blog-outage-backup-policies
 title: Blog Outage - Backup Policies
 wordpress_id: 2279
