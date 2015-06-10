@@ -4,7 +4,7 @@ comments: true
 date: 2010-06-10 06:59:48+00:00
 layout: post
 redirect_from: /2010/06/improved-question-merging
-hero: /images/wordpress/question-merge-example-small.png
+hero: 
 slug: improved-question-merging
 title: Improved Question Merging
 wordpress_id: 3534
