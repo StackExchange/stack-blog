@@ -4,7 +4,7 @@ comments: true
 date: 2010-10-01 09:35:55+00:00
 layout: post
 redirect_from: /2010/10/an-area-51-apology-and-clarification
-hero: http://blog.stackoverflow.com/wp-content/uploads/charlie-brown-lucy-football.png
+hero: 
 slug: an-area-51-apology-and-clarification
 title: An Area 51 Apology -- and Clarification
 wordpress_id: 5325
