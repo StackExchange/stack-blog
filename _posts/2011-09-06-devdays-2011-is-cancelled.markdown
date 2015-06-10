@@ -10,7 +10,7 @@ title: DevDays 2011 is Cancelled
 wordpress_id: 9768
 tags:
 - company
-- announcement
+- announcement 
 - devdays
 ---
 
