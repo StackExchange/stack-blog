@@ -4,7 +4,7 @@ comments: true
 date: 2010-06-14 18:21:02+00:00
 layout: post
 redirect_from: /2010/06/new-hires-in-new-york
-hero: /images/wordpress/bio-david-fullerton.jpg
+hero: 
 slug: new-hires-in-new-york
 title: New Hires in New York
 wordpress_id: 3694
