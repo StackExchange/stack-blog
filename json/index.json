@@ -1,7 +1,6 @@
 ---
 layout: null
 ---
-
 {
 	"posts": [
 		{% for post in site.posts %}
@@ -14,7 +13,7 @@ layout: null
 				"date": "{{ post.date | date: "%B %e, %Y" }}",
 				"author": "{{ post.author }}",
 				"draft": {% if post.draft or post.date > site.time %}true{% else %}false{% endif %},
-				"content": "{{ post.excerpt | strip_html | strip_newlines }}"
+				"content": "{{ post.excerpt | strip_html | strip_newlines | escape }}"
 			{% if forloop.last %}}{% else %}},{% endif %}{% endfor %}
 	],
 	"authors": {
