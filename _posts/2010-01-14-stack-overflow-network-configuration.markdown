@@ -4,7 +4,7 @@ comments: true
 date: 2010-01-14 08:47:46+00:00
 layout: post
 redirect_from: /2010/01/stack-overflow-network-configuration
-hero: /images/wordpress/stack-overflow-network-diagram-small.png
+hero: 
 slug: stack-overflow-network-configuration
 title: Stack Overflow Network Configuration
 wordpress_id: 2489
