@@ -11,6 +11,7 @@ wordpress_id: 13121
 tags:
 - company
 - background
+- culture
 ---
 
 It’s 2013, almost three years after we first raised money and started growing beyond [the](http://stackoverflow.com/u/1) [first](http://stackoverflow.com/u/2) [four ](http://stackoverflow.com/u/3)[employees](http://stackoverflow.com/u/4). At the time, Jeff wrote a [great blog post](http://www.codinghorror.com/blog/2010/05/on-working-remotely.html) about working remotely, basically laying out our plan for how we were going to make it work. Now we’re a few years in and it’s time to update it with, well, what actually happened.
