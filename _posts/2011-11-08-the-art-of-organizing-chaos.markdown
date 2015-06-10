@@ -4,13 +4,14 @@ comments: true
 date: 2011-11-08 21:26:00+00:00
 layout: post
 redirect_from: /2011/11/the-art-of-organizing-chaos
-hero: http://4customers.files.wordpress.com/2008/11/brass-tacks.jpg
+hero: 
 slug: the-art-of-organizing-chaos
 title: The Art of Organizing CHAOS
 wordpress_id: 10135
 tags:
 - company
 - stackexchange
+- community
 ---
 
 Three months ago, CHAOS was born unto this world. There were just three of us to begin with, and nobody had any clue what our team was supposed to be accomplishing. Well, that's not completely true: from [Joel's blog post](http://joelonsoftware.com/items/2011/05/26.html), we knew that our eventual goal was to grow the Stack Exchange communities past some sort of imaginary tipping point at which they would begin to magically thrive on their own.
