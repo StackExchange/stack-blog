@@ -4,7 +4,7 @@ comments: true
 date: 2010-07-07 20:25:00+00:00
 layout: post
 redirect_from: /2010/07/area-51-first-public-beta
-hero: http://blog.stackoverflow.com/wp-content/uploads/WebApps1.png
+hero: 
 slug: area-51-first-public-beta
 title: 'Area 51: First Public Beta'
 wordpress_id: 3991
