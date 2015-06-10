@@ -12,6 +12,7 @@ tags:
 - company
 - announcement
 - stackexchange
+- community
 ---
 
 It’s been an amazing year for Stack Exchange, both as a network of experts and enthusiasts and as an organization. We launched twenty new sites, rolled out tons of user-requested features, and are helping 99% more visitors get answers than we were a year ago. 
