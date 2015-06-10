@@ -4,7 +4,7 @@ comments: true
 date: 2010-08-01 08:32:05+00:00
 layout: post
 redirect_from: /2010/08/tag-folksonomy-and-tag-synonyms
-hero: /images/wordpress/stack-tags.png
+hero: 
 slug: tag-folksonomy-and-tag-synonyms
 title: Tag Folksonomy and Tag Synonyms
 wordpress_id: 4361
