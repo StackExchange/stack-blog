@@ -4,7 +4,7 @@ comments: true
 date: 2010-01-04 21:37:59+00:00
 layout: post
 redirect_from: /2010/01/stack-overflow-where-we-hate-fun
-hero: http://blog.stackoverflow.com/wp-content/uploads/clowns-vomit-rainbows.png
+hero: 
 slug: stack-overflow-where-we-hate-fun
 title: 'Stack Overflow: Where We Hate Fun'
 wordpress_id: 2434
