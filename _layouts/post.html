@@ -56,8 +56,16 @@ layout: default
 				    </div>
 				</div>
 				<div class="disqus media-padded">
-				  {% include disqus.html disqus_identifier=page.disqus_identifier %}
+
+ 					{% include disqus.html disqus_identifier=page.disqus_identifier %}
 				</div>
 		</div>
 	</div>
 </article>
+<script type="text/javascript">
+	var slug = "{{ page.id }}";
+	$(document).ready(function(){
+		$.getJSON(prefix + "/json/index.json", function(response) {
+		}
+	})
+</script>

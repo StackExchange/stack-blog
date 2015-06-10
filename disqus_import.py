@@ -1,6 +1,6 @@
 import requests, pprint
 import xml.etree.ElementTree as ET
-import logging
+import logging, hashlib, json, os
 
 dev = True
 api_key = "kxEiKFv9wfahgkphY5mHNw1XQa7eX2w9XSt6xVO0DIgavfR6IBPwIITjOPrJpk37"
@@ -33,6 +33,7 @@ for post in posts:
 	post_data["forum"] = "stackoverflowblog"
 	post_data["title"] = post.find("title").text
 	post_data["url"] = post.find("link").text.replace("blog.stackoverflow.com", "blog.stackexchange.com")
+	post_data["slug"] = post.find
 	if dev: post_data["url"] = post_data["url"].replace("blog.stackexchange.com", "dev.blog.stackexchange.com")
 	post_data["date"] = post.find("{http://wordpress.org/export/1.2/}post_date").text
 	post_data["comments"] = []
@@ -45,15 +46,36 @@ for post in posts:
 		comment_data["author_url"] = comment.find("{http://wordpress.org/export/1.2/}comment_author_url").text
 		comment_data["date"] = comment.find("{http://wordpress.org/export/1.2/}comment_date").text
 		comment_data["ip_address"] = comment.find("{http://wordpress.org/export/1.2/}comment_author_IP").text
+		comment_data["gravatar_hash"] = None
+		if comment_data["author_email"]:
+			m = hashlib.md5()
+			m.update(comment_data["author_email"].lower())
+			comment_data["gravatar_hash"] = m.hexdigest()
 		post_data["comments"].append(comment_data)
 	blog_data.append(post_data)
 
 # pprint.pprint(blog_data)
 
+result = {}
+for post in blog_data:
+	slug = post["url"].replace("http://blog.stackexchange.com", "").replace("http://dev.blog.stackexchange.com", "")
+	slug = slug[:-1] if slug[:1] == "/" else slug
+	result[slug] = []
+	for comment in post["comments"]:
+		del(comment["author_email"])
+		del(comment["ip_address"])
+		result[slug].append(comment)
+
+	json_result = json.dumps({"response": result[slug]})
+	f = open("json/comments" + slug + ".json", "w")
+	f.write(json_result)
+	f.close()
+
 # First, get all existing threads and clear them
 cursor = True
 cursor_id = None
 while cursor:
+	break
 	payload = {
 		"api_key": api_key,
 		"forum": forum,
@@ -91,7 +113,7 @@ while cursor:
 # Create new threads in disqus based on the XML
 count = 0
 for post in blog_data:
-
+	break
 	code = None
 
 	payload_3 = {
