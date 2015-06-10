@@ -11,6 +11,7 @@ tags:
 - company
 - Area51
 - stackexchange
+- community
 ---
 
 Soon, we're going to close down one of the 24 [Stack Exchange sites](http://stackexchange.com/sites) that were created over the last two months. Sadly, the [Gadgets Stack Exchange](http://gadgets.stackexchange.com) will go dark soon. A lot of the questions on that site were about Apple gear and Android gear; those questions can be migrated to the (beta) [Apple site](http://apple.stackexchange.com), or the (private beta) [Android site](http://android.stackexchange.com), as appropriate. Gadgets will be closed and will no longer be accessible, except for our usual creative commons data dumps where an archive will be made available.
