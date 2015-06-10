@@ -12,6 +12,7 @@ tags:
 - company
 - reference
 - stackexchange
+- community
 ---
 
 We've observed a particular pattern of questions emerging on several Stack Exchange sites.
