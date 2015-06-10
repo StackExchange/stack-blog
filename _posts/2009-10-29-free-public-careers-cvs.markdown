@@ -4,7 +4,7 @@ comments: true
 date: 2009-10-29 04:33:18+00:00
 layout: post
 redirect_from: /2009/10/free-public-careers-cvs
-hero: http://blog.stackoverflow.com/wp-content/uploads/stack-overflow-careers.png
+hero: 
 slug: free-public-careers-cvs
 title: Free Public Careers CVs
 wordpress_id: 2096
