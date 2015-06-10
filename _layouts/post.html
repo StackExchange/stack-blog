@@ -65,7 +65,10 @@ layout: default
 <script type="text/javascript">
 	var slug = "{{ page.id }}";
 	$(document).ready(function(){
-		$.getJSON(prefix + "/json/index.json", function(response) {
+		if (slug.length > 0) {
+			$.getJSON(prefix + "/json/index.json", function(response) {
+			
+			})
 		}
 	})
 </script>
