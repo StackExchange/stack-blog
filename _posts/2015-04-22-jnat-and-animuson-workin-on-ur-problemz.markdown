@@ -6,6 +6,7 @@ hero: http://i.stack.imgur.com/9lDma.jpg
 tags:
  - company
  - announcement
+ - community
 ---
 
 The Community Team's first and most important job [is to help you, the users](http://meta.stackexchange.com/questions/99338/who-are-the-community-managers-and-what-do-they-do/99341#99341). Every day, we hang out on meta sites and in chat, watching to make sure that [someone is working on your problems](http://stackoverflow.com/error). Until very recently, community managers also fielded each and every request that came through our [support ticketing system](http://stackoverflow.com/contact).

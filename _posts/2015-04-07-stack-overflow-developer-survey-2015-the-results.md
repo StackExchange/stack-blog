@@ -9,6 +9,8 @@ slug: stack-overflow-developer-survey-2015-the-results
 title: "Stack Overflow Developer Survey 2015: The Results"
 tags:
  - company
+ - announcement
+ - community
  - survey
  - stackoverflow
  
