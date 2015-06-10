@@ -4,13 +4,14 @@ comments: true
 date: 2011-01-24 11:55:48+00:00
 layout: post
 redirect_from: /2011/01/state-of-the-stack-2010-a-message-from-your-ceo
-hero: /images/wordpress/01traffic.png
+hero: 
 slug: state-of-the-stack-2010-a-message-from-your-ceo
 title: State of the Stack 2010 (a message from your CEO)
 wordpress_id: 6754
 tags:
 - company
 - background
+- community
 ---
 
 2010 was an absolutely amazing year here at Stack Overflow. We grew from 7 million visitors to over 16 million, putting us in Quantcast's top 400. We raised $6 million in venture capital, and we went from three full time employees to 27. We built a 7500 square foot office in New York, and we launched a ton of new features and sites, like [Stack Exchange, a network of 33 Q&A; sites on diverse topics from cooking to computer science](http://stackexchange.com/sites). Stack Exchange grew 51% in December alone. Wow.
