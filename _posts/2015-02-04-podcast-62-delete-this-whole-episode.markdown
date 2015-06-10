@@ -11,6 +11,7 @@ wordpress_id: 15339
 tags:
 - company
 - podcasts
+- announcement
 ---
 
 Welcome to Stack Exchange Podcast #62, recorded live on January 20th--with a [live studio audience (kinda)!](http://chat.stackexchange.com/transcript/message/19636047#19636047). Today's podcast was brought to you by the American Venture Capital Association. With you today are our hosts Jay Hanlon, David Fullerton, and Joel Spolsky.
