@@ -4,7 +4,7 @@ comments: true
 date: 2011-08-22 18:07:04+00:00
 layout: post
 redirect_from: /2011/08/careers-2-0-export-and-apply-with-your-profile
-hero: http://i.imgur.com/Gzw6u.png
+hero: 
 slug: careers-2-0-export-and-apply-with-your-profile
 title: 'Careers 2.0: Export And Apply With Your Profile'
 wordpress_id: 9387

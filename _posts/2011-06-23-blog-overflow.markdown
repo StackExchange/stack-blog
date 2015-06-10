@@ -4,7 +4,7 @@ comments: true
 date: 2011-06-23 18:17:02+00:00
 layout: post
 redirect_from: /2011/06/blog-overflow
-hero: http://blog.stackoverflow.com/wp-content/uploads/blog-overflow-screenshot1.png
+hero: 
 slug: blog-overflow
 title: Blog Overflow
 wordpress_id: 8578

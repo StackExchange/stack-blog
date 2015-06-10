@@ -4,7 +4,7 @@ comments: true
 date: 2011-08-01 15:16:42+00:00
 layout: post
 redirect_from: /2011/08/how-to-write-a-great-developer-job-listing
-hero: http://blog.stackoverflow.com/wp-content/uploads/careers-tall-ad.png
+hero:
 slug: how-to-write-a-great-developer-job-listing
 title: How to Write a Great Developer Job Listing
 wordpress_id: 9104
