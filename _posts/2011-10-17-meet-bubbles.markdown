@@ -4,7 +4,7 @@ comments: true
 date: 2011-10-17 17:03:35+00:00
 layout: post
 redirect_from: /2011/10/meet-bubbles
-hero: http://i.stack.imgur.com/qnnjw.jpg
+hero: 
 slug: meet-bubbles
 title: Meet Bubbles (The Stack Exchange Mascot)
 wordpress_id: 10064
