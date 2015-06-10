@@ -14,7 +14,11 @@ layout: default
 			  	<div class="info">
 			  		<h2 class="h4 author-name"><a href="{{ site.baseurl}}/authors/{{ author.id }}">{{ author.name }}</a></h2>
 			  		<h3 class="h5">{{ author.job }}</h3>
-			  		<h3 class="h5 author-info"><a href="http://twitter.com/{{ author.twitter }}">@{{ author.twitter }}</a> &bull; <a href="{{ author.website }}">{{ author.website }}</a></h3>
+			  		<h3 class="h5 author-info">
+			  			{% if author.twitter %}<a href="http://twitter.com/{{ author.twitter }}">@{{ author.twitter }}</a>{% endif %}
+			  			{% if author.twitter and author.website %} &bull; {% endif %}
+			  			{% if author.website %}<a href="{{ author.website }}">Website</a>{% endif %}
+			  		</h3>
 			  	</div>
 			</div>
 		{% if thecycle == 'even' %}
