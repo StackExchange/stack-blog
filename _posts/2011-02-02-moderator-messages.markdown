@@ -4,7 +4,7 @@ comments: true
 date: 2011-02-02 10:26:33+00:00
 layout: post
 redirect_from: /2011/02/moderator-messages
-hero: /images/wordpress/mod-contact-templates.png
+hero: 
 slug: moderator-messages
 title: Moderator Messages
 wordpress_id: 7074
