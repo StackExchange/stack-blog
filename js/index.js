@@ -78,6 +78,11 @@ $(document).ready(function() {
 							continue;
 						}
 					}
+					if (typeof top_active !== 'undefined') {
+						if (post.tags.indexOf(top_active) == - 1) {
+							continue;
+						}
+					}
 					if (typeof author_id !== 'undefined') {
 						if (post.author != author_id) {
 							continue;
