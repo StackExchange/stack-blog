@@ -4,7 +4,7 @@ comments: true
 date: 2011-02-28 18:30:43+00:00
 layout: post
 redirect_from: /2011/02/our-advertisers-want-to-know
-hero: http://blog.stackoverflow.com/wp-content/uploads/220x250_.NET-development.jpg
+hero: 
 slug: our-advertisers-want-to-know
 title: Our advertisers want to know...
 wordpress_id: 7384
