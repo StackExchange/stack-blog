@@ -4,7 +4,7 @@ comments: true
 date: 2012-03-26 14:59:16+00:00
 layout: post
 redirect_from: /2012/03/stack-overflow-meetup-everywhere-april-28-2012
-hero: /images/wordpress/2011-Meetup-Map.png
+hero: 
 slug: stack-overflow-meetup-everywhere-april-28-2012
 title: 'Stack Overflow Meetup Everywhere: April 28, 2012'
 wordpress_id: 11415
