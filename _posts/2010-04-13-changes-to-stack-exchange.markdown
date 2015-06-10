@@ -4,7 +4,7 @@ comments: true
 date: 2010-04-13 22:36:02+00:00
 layout: post
 redirect_from: /2010/04/changes-to-stack-exchange
-hero: /wp-content/uploads/se2-venn-diagram.png
+hero: 
 slug: changes-to-stack-exchange
 title: Changes to Stack Exchange
 wordpress_id: 2935
