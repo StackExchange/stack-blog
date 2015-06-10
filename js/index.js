@@ -50,6 +50,7 @@ $(document).ready(function() {
 						html += '</div>';
 						$(".disqus").prepend(html);
 					}
+					$(".disqus").prepend("<h3>" + comments.length + " archived comments</h3>");
 				}
 			})
 		}
