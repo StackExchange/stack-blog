@@ -4,13 +4,14 @@ comments: true
 date: 2010-04-06 12:56:51+00:00
 layout: post
 redirect_from: /2010/04/new-10k-feature-inline-tagging
-hero: /images/wordpress/inline-tagging.png
+hero:
 slug: new-10k-feature-inline-tagging
 title: 'New 10k Feature: Inline Tagging'
 wordpress_id: 2905
 tags:
 - company
 - design
+- community
 ---
 
 
