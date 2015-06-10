@@ -12,6 +12,7 @@ tags:
 - company
 - reference
 - stackexchange
+- community
 ---
 
 We have a [lot of Q&A; sites](http://stackexchange.com/sites) in the Stack Exchange network now. 84 at the current moment.  That's … a lot of Q&A; sites. But most people* don't find us by browsing the site directory; they find us by encountering a Stack Exchange page in their web search results.
