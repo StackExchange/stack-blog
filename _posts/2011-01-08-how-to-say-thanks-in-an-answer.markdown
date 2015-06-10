@@ -4,7 +4,7 @@ comments: true
 date: 2011-01-08 09:26:14+00:00
 layout: post
 redirect_from: /2011/01/how-to-say-thanks-in-an-answer
-hero: http://blog.stackoverflow.com/wp-content/uploads/thank-you-badge.png
+hero: 
 slug: how-to-say-thanks-in-an-answer
 title: How to Say Thanks in an Answer
 wordpress_id: 6599
