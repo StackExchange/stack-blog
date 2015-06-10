@@ -4,13 +4,14 @@ comments: true
 date: 2010-09-04 06:03:21+00:00
 layout: post
 redirect_from: /2010/09/customizing-stackexchange-com
-hero: http://blog.stackoverflow.com/wp-content/uploads/stackexchange-genuine-example11.png
+hero: 
 slug: customizing-stackexchange-com
 title: Customizing stackexchange.com
 wordpress_id: 4982
 tags:
 - company
 - stackexchange
+- community
 ---
 
 Remember our [shiny new stackexchange.com network hub](http://blog.stackoverflow.com/2010/08/network-central-stackexchange-com/)? Sure you do, it's right there **in the upper left hand corner of every page**. Indeed, that's how you know you're on a gen-u-winetm Stack Exchange network website.
