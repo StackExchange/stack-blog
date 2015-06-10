@@ -4,7 +4,7 @@ comments: true
 date: 2011-03-08 10:10:38+00:00
 layout: post
 redirect_from: /2011/03/peer1-hosting-exclusive
-hero: /images/wordpress/shiny-peer-1-e1298400639158.jpg
+hero: 
 slug: peer1-hosting-exclusive
 title: PEER 1 Hosting – Making your data center more awesome!
 wordpress_id: 7305
@@ -12,6 +12,7 @@ tags:
 - company
 - announcement
 - server
+- engineering
 ---
 
 In 2003, [Fog Creek Software](http://www.fogcreek.com/) (aka Joel’s other baby) moved offices, and decided to ditch its internal T1 and look for a colocation provider. Joel [was impressed](http://www.joelonsoftware.com/articles/Peer1.html) with PEER 1 Hosting’s customer service, the shiny new data center in NYC, and PEER 1 Hosting even volunteered to host [Joel on Software](http://www.joelonsoftware.com/) – for free!
