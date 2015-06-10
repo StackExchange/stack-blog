@@ -4,7 +4,7 @@ comments: true
 date: 2009-09-04 12:38:15+00:00
 layout: post
 redirect_from: /2009/09/i-heart-stack-overflow
-hero: /images/wordpress/stackoverflow-heart1.png
+hero: 
 slug: i-heart-stack-overflow
 title: I [heart] Stack Overflow
 wordpress_id: 1923
