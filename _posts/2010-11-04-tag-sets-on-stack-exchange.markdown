@@ -4,13 +4,14 @@ comments: true
 date: 2010-11-04 05:46:21+00:00
 layout: post
 redirect_from: /2010/11/tag-sets-on-stack-exchange
-hero: /images/wordpress/stackexchange-tagset-example-1.png
+hero: 
 slug: tag-sets-on-stack-exchange
 title: Tag Sets on Stack Exchange
 wordpress_id: 6029
 tags:
 - company
 - stackexchange
+- community
 ---
 
 Over the last few months, we've been continually improving our central network hub at [stackexchange.com](http://stackexchange.com):
