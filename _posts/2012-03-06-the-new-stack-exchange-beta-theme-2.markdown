@@ -12,6 +12,7 @@ tags:
 - company
 - announcement
 - design
+- community
 ---
 
 I wanted to give you a quick look at the **new Stack Exchange Beta theme.** Yes, we are retiring the familiar "Sketchy" theme and rolling out a more-polished and finished design for the beta sites.
