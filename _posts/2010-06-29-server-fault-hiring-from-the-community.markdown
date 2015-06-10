@@ -4,7 +4,7 @@ comments: true
 date: 2010-06-29 17:43:07+00:00
 layout: post
 redirect_from: /2010/06/server-fault-hiring-from-the-community
-hero: http://blog.stackoverflow.com/wp-content/uploads/serverfault-logo.png
+hero: 
 slug: server-fault-hiring-from-the-community
 title: 'Server Fault: Hiring From the Community'
 wordpress_id: 3895
