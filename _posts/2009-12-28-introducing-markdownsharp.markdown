@@ -4,7 +4,7 @@ comments: true
 date: 2009-12-28 02:03:36+00:00
 layout: post
 redirect_from: /2009/12/introducing-markdownsharp
-hero: http://blog.stackoverflow.com/wp-content/uploads/markdown-sharp-logo.png
+hero:
 slug: introducing-markdownsharp
 title: Introducing MarkdownSharp
 wordpress_id: 2388
