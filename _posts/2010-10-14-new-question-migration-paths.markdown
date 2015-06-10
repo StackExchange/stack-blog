@@ -4,7 +4,7 @@ comments: true
 date: 2010-10-14 08:39:27+00:00
 layout: post
 redirect_from: /2010/10/new-question-migration-paths
-hero: /images/wordpress/new-public-sites.png
+hero: 
 slug: new-question-migration-paths
 title: New Question Migration Paths
 wordpress_id: 5633
@@ -14,6 +14,7 @@ tags:
 - serverfault.com
 - stackexchange
 - superuser.com
+- community
 ---
 
 Several [Area 51 sites](http://area51.stackexchange.com/) have made it from being mere proposals to vibrant, thriving websites.
