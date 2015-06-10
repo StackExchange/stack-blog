@@ -4,7 +4,7 @@ comments: true
 date: 2009-08-28 05:29:24+00:00
 layout: post
 redirect_from: /2009/08/in-stickers-we-trust
-hero: /images/wordpress/stickers-boxes.jpg
+hero: 
 slug: in-stickers-we-trust
 title: In Stickers We Trust
 wordpress_id: 1902
