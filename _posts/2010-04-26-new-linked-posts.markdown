@@ -4,7 +4,7 @@ comments: true
 date: 2010-04-26 05:45:44+00:00
 layout: post
 redirect_from: /2010/04/new-linked-posts
-hero: /images/wordpress/superuser-linked-related-1.png
+hero: 
 slug: new-linked-posts
 title: New Linked Posts
 wordpress_id: 2982
