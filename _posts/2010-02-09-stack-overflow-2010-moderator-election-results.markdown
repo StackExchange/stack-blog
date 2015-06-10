@@ -4,7 +4,7 @@ comments: true
 date: 2010-02-09 05:27:46+00:00
 layout: post
 redirect_from: /2010/02/stack-overflow-2010-moderator-election-results
-hero: http://blog.stackoverflow.com/wp-content/uploads/openstv-stack-overflow-moderator-election-2010-screenshot.png
+hero: 
 slug: stack-overflow-2010-moderator-election-results
 title: Stack Overflow 2010 Moderator Election Results
 wordpress_id: 2717
