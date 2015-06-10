@@ -11,6 +11,7 @@ wordpress_id: 10985
 tags:
 - company
 - stackexchange
+- community
 ---
 
 Scott Hanselman's [article about keyboard shortcuts and web sites](http://www.hanselman.com/blog/TheWebIsTheNewTerminalAreYouUsingTheWebsKeyboardShortcutsAndHotkeys.aspx) reminded me that I inexplicably forgot to blog about **our very own [totally awesome set of keyboard shortcuts for Stack Exchange!](http://stackapps.com/questions/2567/official-keyboard-shortcuts)**
