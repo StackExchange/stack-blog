@@ -4,7 +4,7 @@ comments: true
 date: 2012-03-06 20:58:28+00:00
 layout: post
 redirect_from: /2012/03/the-new-stack-exchange-beta-theme-2
-hero: /images/wordpress/sethemebeforeafter3.png
+hero: 
 slug: the-new-stack-exchange-beta-theme-2
 title: The New Stack Exchange Beta Theme
 wordpress_id: 11317

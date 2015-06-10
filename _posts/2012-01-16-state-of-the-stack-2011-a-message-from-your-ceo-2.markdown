@@ -4,13 +4,14 @@ comments: true
 date: 2012-01-16 20:11:35+00:00
 layout: post
 redirect_from: /2012/01/state-of-the-stack-2011-a-message-from-your-ceo-2
-hero: http://blog.stackoverflow.com/wp-content/uploads/1-16-2012-12-47-24-PM.png
+hero: 
 slug: state-of-the-stack-2011-a-message-from-your-ceo-2
 title: State of the Stack 2011 (a message from your CEO)
 wordpress_id: 10841
 tags:
 - company
 - announcement
+- community
 ---
 
 2011 was another year of fantastic growth at Stack Exchange. We continued our tradition of doubling every year, going from 16 million to over 32 million monthly visitors. We added 42 new sites, bringing us to a grand total of 78. We hired 22 new employees, and raised another $12 million in venture capital, some of which was invested in a remote-controlled, floating shark and clownfish for the office.

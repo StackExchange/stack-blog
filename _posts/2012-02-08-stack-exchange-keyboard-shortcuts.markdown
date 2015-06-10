@@ -4,7 +4,7 @@ comments: true
 date: 2012-02-08 09:00:33+00:00
 layout: post
 redirect_from: /2012/02/stack-exchange-keyboard-shortcuts
-hero: http://blog.stackoverflow.com/wp-content/uploads/stack-exchange-keyboard-shortcuts.png
+hero: 
 slug: stack-exchange-keyboard-shortcuts
 title: Stack Exchange Keyboard Shortcuts
 wordpress_id: 10985

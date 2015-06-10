@@ -4,7 +4,7 @@ comments: true
 date: 2012-03-22 19:15:57+00:00
 layout: post
 redirect_from: /2012/03/respect-the-community-your-own-and-others
-hero: http://i.stack.imgur.com/5yNpA.png
+hero: 
 slug: respect-the-community-your-own-and-others
 title: Respect the community - your own, and others’
 wordpress_id: 11446
