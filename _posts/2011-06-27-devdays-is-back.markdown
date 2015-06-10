@@ -4,7 +4,7 @@ comments: true
 date: 2011-06-27 16:56:52+00:00
 layout: post
 redirect_from: /2011/06/devdays-is-back
-hero: http://icanhascheezburger.wordpress.com/files/2007/09/128339897745781250screwdisno.jpg
+hero: 
 slug: devdays-is-back
 title: DevDays is Back!
 wordpress_id: 8597
