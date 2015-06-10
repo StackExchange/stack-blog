@@ -4,7 +4,7 @@ comments: true
 date: 2011-04-07 17:44:10+00:00
 layout: post
 redirect_from: /2011/04/stack-overflow-around-the-world
-hero: http://blog.stackoverflow.com/wp-content/uploads/2011-04-06_14-48-14.png
+hero: 
 slug: stack-overflow-around-the-world
 title: Stack Overflow Around the World
 wordpress_id: 7670
@@ -12,6 +12,7 @@ tags:
 - company
 - reference
 - stackexchange
+- community
 ---
 
 It's really inspiring to see Stack Overflow meetup events being held in almost 100 cities around the world. Here's where the meetup groups are:
