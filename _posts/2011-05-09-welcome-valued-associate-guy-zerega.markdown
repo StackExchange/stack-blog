@@ -4,7 +4,7 @@ comments: true
 date: 2011-05-09 19:13:34+00:00
 layout: post
 redirect_from: /2011/05/welcome-valued-associate-guy-zerega
-hero: /images/wordpress/GZWin.jpg
+hero:
 slug: welcome-valued-associate-guy-zerega
 title: Welcome Valued Associate Guy Zerega!
 wordpress_id: 8071
