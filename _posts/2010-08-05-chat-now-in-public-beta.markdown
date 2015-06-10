@@ -4,13 +4,14 @@ comments: true
 date: 2010-08-05 05:47:08+00:00
 layout: post
 redirect_from: /2010/08/chat-now-in-public-beta
-hero: http://blog.stackoverflow.com/wp-content/uploads/analog-chat-room.jpg
+hero: 
 slug: chat-now-in-public-beta
 title: Chat Now In Public Beta
 wordpress_id: 4417
 tags:
 - company
 - Beta
+- community
 ---
 
 Our "third place", after a [successful three day beta preview](http://blog.stackoverflow.com/2010/07/third-place-chat-beta-preview/), is now on the final path to launch.
