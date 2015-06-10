@@ -4,7 +4,7 @@ comments: true
 date: 2010-06-16 19:42:53+00:00
 layout: post
 redirect_from: /2010/06/area-51-we-come-in-peace
-hero: http://blog.stackoverflow.com/wp-content/uploads/Area-51-Banner1.png
+hero: 
 slug: area-51-we-come-in-peace
 title: 'Area 51: We Come in Peace'
 wordpress_id: 3611
@@ -12,6 +12,7 @@ tags:
 - company
 - Area51
 - stackexchange
+- community
 ---
 
 [![](http://blog.stackoverflow.com/wp-content/uploads/Area-51-Banner1.png)](http://area51.stackexchange.com)
