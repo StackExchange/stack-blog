@@ -11,6 +11,7 @@ tags:
 - company
 - announcement
 - design
+- community
 ---
 
 The top bar of a Stack Exchange site has always been a bit of an odd place. It somehow combines user info, navigation, search, and a one-size-fits-all popup that includes hot network questions, a list of 100+ Stack Exchange sites, personal inbox messages, and other system notifications (lovingly referred to as [The StackExchange™ MultiCollider SuperDropdown™](http://meta.stackoverflow.com/search?q=StackExchange%E2%84%A2+MultiCollider+SuperDropdown%E2%84%A2)).
