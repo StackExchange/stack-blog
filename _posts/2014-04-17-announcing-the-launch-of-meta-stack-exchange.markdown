@@ -13,6 +13,7 @@ tags:
 - announcement
 - background
 - meta
+- community
 ---
 
 We’re very pleased to announce that as of today, we’re (finally) splitting the site formerly known as Meta Stack Overflow into two sites:
