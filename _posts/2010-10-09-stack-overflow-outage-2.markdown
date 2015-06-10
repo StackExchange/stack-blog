@@ -4,7 +4,7 @@ comments: true
 date: 2010-10-09 13:26:22+00:00
 layout: post
 redirect_from: /2010/10/stack-overflow-outage-2
-hero: /images/wordpress/ups12.jpg
+hero: 
 slug: stack-overflow-outage-2
 title: Stack Overflow Outage
 wordpress_id: 5509
