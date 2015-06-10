@@ -4,7 +4,7 @@ comments: true
 date: 2010-01-15 10:09:14+00:00
 layout: post
 redirect_from: /2010/01/what-would-a-stack-overflow-api-look-like
-hero: http://blog.stackoverflow.com/wp-content/uploads/which-api-did-they-use.png
+hero: 
 slug: what-would-a-stack-overflow-api-look-like
 title: What Would a Stack Overflow API Look Like?
 wordpress_id: 2544
