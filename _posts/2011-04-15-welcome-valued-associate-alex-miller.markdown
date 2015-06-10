@@ -4,7 +4,7 @@ comments: true
 date: 2011-04-15 02:25:21+00:00
 layout: post
 redirect_from: /2011/04/welcome-valued-associate-alex-miller
-hero: http://sstatic.net/stackexchange/Img/people/bio-alex-miller.jpg
+hero: 
 slug: welcome-valued-associate-alex-miller
 title: Welcome Valued Associate Alex Miller!
 wordpress_id: 7804
