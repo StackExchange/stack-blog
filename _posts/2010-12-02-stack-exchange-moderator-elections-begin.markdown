@@ -4,7 +4,7 @@ comments: true
 date: 2010-12-02 10:44:09+00:00
 layout: post
 redirect_from: /2010/12/stack-exchange-moderator-elections-begin
-hero: http://blog.stackoverflow.com/wp-content/uploads/election-celebration.jpg
+hero: 
 slug: stack-exchange-moderator-elections-begin
 title: Stack Exchange Moderator Elections Begin
 wordpress_id: 6225
@@ -12,6 +12,7 @@ tags:
 - company
 - moderators
 - stackexchange
+- community
 ---
 
 Back in July, we [appointed Moderators Pro Tempore](http://blog.stackoverflow.com/2010/07/moderator-pro-tempore/) for the nascent [Stack Exchange 2.0 communities](http://stackexchange.com/sites). Leadership is critical to any community's success, and the bootstrapping of a community often requires those leaders to be appointed before the community is large enough or organized enough to elect them itself.
