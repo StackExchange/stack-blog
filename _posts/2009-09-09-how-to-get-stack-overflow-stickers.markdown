@@ -4,7 +4,7 @@ comments: true
 date: 2009-09-09 06:59:22+00:00
 layout: post
 redirect_from: /2009/09/how-to-get-stack-overflow-stickers
-hero: http://blog.stackoverflow.com/wp-content/uploads/trilogy-stickers-gravell1.jpg
+hero: 
 slug: how-to-get-stack-overflow-stickers
 title: How to Get Stack Overflow Stickers
 wordpress_id: 1934
