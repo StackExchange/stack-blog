@@ -4,7 +4,7 @@ comments: true
 date: 2011-04-29 08:22:33+00:00
 layout: post
 redirect_from: /2011/04/inline-comment-and-post-markdown-help
-hero: /images/wordpress/comments-inline-help.png
+hero: 
 slug: inline-comment-and-post-markdown-help
 title: Inline Comment and Post Markdown Help
 wordpress_id: 7965
@@ -12,6 +12,7 @@ tags:
 - company
 - design
 - stackexchange
+- community
 ---
 
 We use Markdown for text formatting on all [Stack Exchange sites](http://stackexchange.com/sites). Markdown isn't difficult to figure out, particularly since it apes common ASCII formatting conventions -- and its simplicity means it is amenable to wiki style differencing and editing, which is a big part of our engine. But that doesn't mean we can't do a better job of helping new users figure Markdown out.
