@@ -4,7 +4,7 @@ comments: true
 date: 2011-07-27 14:32:58+00:00
 layout: post
 redirect_from: /2011/07/does-this-site-have-a-chance-of-succeeding
-hero: http://blog.stackoverflow.com/wp-content/uploads/Area-51-analytics-sample1.png
+hero: 
 slug: does-this-site-have-a-chance-of-succeeding
 title: Does this site have a chance of succeeding?
 wordpress_id: 8781
@@ -13,6 +13,7 @@ tags:
 - Area51
 - reference
 - stackexchange
+- community
 ---
 
 Anytime you find yourself answering the same question over and over and over and over … blog post time.
