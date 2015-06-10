@@ -11,6 +11,8 @@ wordpress_id: 14872
 tags:
 - company
 - engineering
+- announcement
+- community
 ---
 
 > If trees could scream, would we be so cavalier about cutting them down?
