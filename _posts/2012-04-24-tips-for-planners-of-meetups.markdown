@@ -4,7 +4,7 @@ comments: true
 date: 2012-04-24 06:13:14+00:00
 layout: post
 redirect_from: /2012/04/tips-for-planners-of-meetups
-hero: http://blog.stackoverflow.com/wp-content/uploads/meetup-2012.png
+hero:
 slug: tips-for-planners-of-meetups
 title: Tips for Planners of 350+ Stack Overflow Worldwide Meetups!
 wordpress_id: 11594

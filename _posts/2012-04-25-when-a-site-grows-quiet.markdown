@@ -13,6 +13,7 @@ tags:
 - Area51
 - background
 - stackexchange
+- community
 ---
 
 In the lifecycle of a Stack Exchange site, we've long held the philosophy that "it takes as long as it takes" to build a sustainable community:

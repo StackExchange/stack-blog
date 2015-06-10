@@ -4,7 +4,7 @@ comments: true
 date: 2012-04-10 20:19:47+00:00
 layout: post
 redirect_from: /2012/04/stack-exchange-api-v2-0-contest-winners
-hero: http://i.stack.imgur.com/vI5MO.png
+hero: 
 slug: stack-exchange-api-v2-0-contest-winners
 title: Stack Exchange API V2.0 Contest Winners
 wordpress_id: 11494

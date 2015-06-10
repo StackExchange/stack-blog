@@ -4,7 +4,7 @@ comments: true
 date: 2012-05-21 19:05:05+00:00
 layout: post
 redirect_from: /2012/05/revamped-notifications
-hero: http://blog.stackoverflow.com/wp-content/uploads/inbox.png
+hero: 
 slug: revamped-notifications
 title: Revamped Notifications
 wordpress_id: 11718
