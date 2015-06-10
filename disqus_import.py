@@ -70,9 +70,9 @@ for post in blog_data:
 
 	parts = slug.split("/")
 	directory = "json/comments/" + parts[1] + "/" + parts[2]
-	
+
 	if not os.path.exists(directory):
-    	os.makedirs(directory)
+		os.makedirs(directory)
 
 	f = open("json/comments" + slug + ".json", "w")
 	f.write(json_result)
