@@ -4,7 +4,7 @@ comments: true
 date: 2009-08-12 08:05:34+00:00
 layout: post
 redirect_from: /2009/08/stack-overflow-and-doctype
-hero: /images/wordpress/justice-league-small.jpg
+hero: 
 slug: stack-overflow-and-doctype
 title: Stack Overflow and Doctype
 wordpress_id: 1832
