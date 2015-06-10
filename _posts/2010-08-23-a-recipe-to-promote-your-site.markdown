@@ -4,7 +4,7 @@ comments: true
 date: 2010-08-23 07:49:00+00:00
 layout: post
 redirect_from: /2010/08/a-recipe-to-promote-your-site
-hero: http://blog.stackoverflow.com/wp-content/uploads/Share-link.png
+hero: 
 slug: a-recipe-to-promote-your-site
 title: A Recipe to Promote your Site
 wordpress_id: 4771
@@ -12,6 +12,7 @@ tags:
 - company
 - promotion
 - reference
+- community
 - stackexchange
 ---
 
