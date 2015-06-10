@@ -4,7 +4,7 @@ comments: true
 date: 2011-05-16 11:11:46+00:00
 layout: post
 redirect_from: /2011/05/stack-exchange-team-at-mix-11
-hero: /images/wordpress/jin-vegas.jpg
+hero: 
 slug: stack-exchange-team-at-mix-11
 title: Stack Exchange Team at MIX 11
 wordpress_id: 8145
