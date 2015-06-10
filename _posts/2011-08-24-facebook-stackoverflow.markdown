@@ -4,13 +4,14 @@ comments: true
 date: 2011-08-24 17:30:17+00:00
 layout: post
 redirect_from: /2011/08/facebook-stackoverflow
-hero: http://blog.stackoverflow.com/wp-content/uploads/fb.so_.png
+hero: 
 slug: facebook-stackoverflow
 title: Announcing facebook.stackoverflow.com
 wordpress_id: 9530
 tags:
 - company
 - announcement
+- community
 ---
 
 Without question, the greatest asset we have here at Stack Exchange is the members of our community, their collective knowledge, and their desire to help others.  Similarly, there's no greater feeling for us than when others recognize that strength and wonder how they can use it to help their users too -- ultimately, it just helps make the internet a better place.
