@@ -13,6 +13,7 @@ tags:
 - announcement
 - internationalization
 - stackoverflow
+- community
 ---
 
 Two weeks ago, we announced the public launch of [Stack Overflow in Portuguese](http://pt.stackoverflow.com), our first-ever non-English Stack Overflow community. Which raises one very obvious question:
