@@ -4,7 +4,7 @@ comments: true
 date: 2010-09-11 02:21:25+00:00
 layout: post
 redirect_from: /2010/09/global-network-auto-login
-hero: /images/wordpress/global-auth-in-action.png
+hero: 
 slug: global-network-auto-login
 title: Global Network Auto-Login
 wordpress_id: 5075
