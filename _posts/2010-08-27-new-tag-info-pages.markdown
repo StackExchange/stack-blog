@@ -4,7 +4,7 @@ comments: true
 date: 2010-08-27 06:59:46+00:00
 layout: post
 redirect_from: /2010/08/new-tag-info-pages
-hero: /images/wordpress/question-tags-highlighted2.png
+hero: 
 slug: new-tag-info-pages
 title: New Tag Info Pages
 wordpress_id: 4887
