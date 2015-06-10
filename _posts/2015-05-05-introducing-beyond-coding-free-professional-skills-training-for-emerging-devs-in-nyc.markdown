@@ -6,6 +6,9 @@ hero: http://i.stack.imgur.com/aPdyc.jpg
 tags:
  - company
  - announcement
+ - diversity
+ - engineering
+ - evangelism
 ---
 
 Today, we’re excited to announce that online registration is now open for <a href="https://www.beyondcoding.io/"><em>Beyond Coding</em></a>, a free new summer program designed to equip emerging computer programmers in New York City with professional skills needed to help them succeed in their first job working with code. The program, slated to launch June 11, is <a href="http://blog.stackoverflow.com/2015/02/education-begins-at-home-improving-developer-training-in-nyc/">part of our collaboration</a> with New York City’s <a href="http://www.techtalentpipeline.nyc/">Tech Talent Pipeline initiative</a> to support the growth of the city’s tech ecosystem. And we’re thrilled to be taking part, along with some other top-notch New York startups: Crest CC, Foursquare, Kickstarter, Tumblr, and <a href="http://behindthescenesrecruiter.com/post/118208180824/announcing-beyond-coding#.VUj1rdpVikp">Trello</a>.
