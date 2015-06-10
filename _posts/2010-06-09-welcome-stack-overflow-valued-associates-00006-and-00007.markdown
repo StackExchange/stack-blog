@@ -4,7 +4,7 @@ comments: true
 date: 2010-06-09 09:03:58+00:00
 layout: post
 redirect_from: /2010/06/welcome-stack-overflow-valued-associates-00006-and-00007
-hero: /images/wordpress/bio-marc-gravell.jpg
+hero: 
 slug: welcome-stack-overflow-valued-associates-00006-and-00007
 title: 'Welcome Stack Overflow Valued Associates #00006 and #00007'
 wordpress_id: 3507
