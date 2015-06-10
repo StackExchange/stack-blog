@@ -4,7 +4,7 @@ comments: true
 date: 2011-09-19 16:30:06+00:00
 layout: post
 redirect_from: /2011/09/android-vs-ios
-hero: http://blog.stackoverflow.com/wp-content/uploads/Android-vs-iOS.png
+hero: 
 slug: android-vs-ios
 title: Android > iOS (And Other Statistics)
 wordpress_id: 9828
