@@ -4,7 +4,7 @@ comments: true
 date: 2010-04-23 08:33:30+00:00
 layout: post
 redirect_from: /2010/04/stack-overflow-and-dvcs
-hero: http://blog.stackoverflow.com/wp-content/uploads/kiln-logo.gif
+hero:
 slug: stack-overflow-and-dvcs
 title: Stack Overflow and DVCS
 wordpress_id: 2958
