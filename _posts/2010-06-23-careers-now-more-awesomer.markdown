@@ -4,7 +4,7 @@ comments: true
 date: 2010-06-23 22:23:58+00:00
 layout: post
 redirect_from: /2010/06/careers-now-more-awesomer
-hero: http://blog.stackoverflow.com/wp-content/uploads/careers-11-update-job-count.png
+hero: 
 slug: careers-now-more-awesomer
 title: 'Careers: Now More Awesome(r)'
 wordpress_id: 3819
