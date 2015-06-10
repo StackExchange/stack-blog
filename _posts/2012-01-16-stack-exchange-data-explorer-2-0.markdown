@@ -4,7 +4,7 @@ comments: true
 date: 2012-01-16 04:39:13+00:00
 layout: post
 redirect_from: /2012/01/stack-exchange-data-explorer-2-0
-hero: http://blog.stackoverflow.com/wp-content/uploads/fork11.png
+hero: 
 slug: stack-exchange-data-explorer-2-0
 title: 'Stack Exchange Data Explorer 2.0 '
 wordpress_id: 10782
