@@ -4,7 +4,7 @@ comments: true
 date: 2010-10-08 19:21:33+00:00
 layout: post
 redirect_from: /2010/10/search-all-stack-exchange-sites
-hero: /images/wordpress/project-ask-elevator-pitch2.png
+hero: 
 slug: search-all-stack-exchange-sites
 title: Search All Stack Exchange Sites
 wordpress_id: 5481
@@ -12,6 +12,7 @@ tags:
 - company
 - design
 - stackexchange
+- community
 ---
 
 For as long as we've been working on Stack Overflow, we've been telling people that **web search is our "homepage"**. Just to prove it, I dug up our old **Project Ask Elevator Pitch** from [FogBugz](http://www.fogcreek.com/FogBugz/) -- and it's right there at the top:
