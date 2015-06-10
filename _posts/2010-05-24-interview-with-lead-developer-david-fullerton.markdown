@@ -4,7 +4,7 @@ comments: true
 date: 2010-05-24 16:15:14+00:00
 layout: post
 redirect_from: /2010/05/interview-with-lead-developer-david-fullerton
-hero: /wp-content/uploads/proposal.png
+hero: 
 slug: interview-with-lead-developer-david-fullerton
 title: Interview with Lead Developer David Fullerton
 wordpress_id: 3384
