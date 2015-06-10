@@ -67,6 +67,13 @@ for post in blog_data:
 		result[slug].append(comment)
 
 	json_result = json.dumps({"response": result[slug]})
+
+	parts = slug.split("/")
+	directory = "json/comments/" + parts[1] + "/" + parts[2]
+	
+	if not os.path.exists(directory):
+    	os.makedirs(directory)
+
 	f = open("json/comments" + slug + ".json", "w")
 	f.write(json_result)
 	f.close()
