@@ -4,7 +4,7 @@ comments: true
 date: 2011-07-16 17:12:29+00:00
 layout: post
 redirect_from: /2011/07/mobile-stack-exchange
-hero: /images/wordpress/iphone-mobile-stack-exchange.png
+hero: 
 slug: mobile-stack-exchange
 title: Mobile Stack Exchange
 wordpress_id: 8745
