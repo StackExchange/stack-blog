@@ -4,7 +4,7 @@ comments: true
 date: 2010-07-14 09:56:42+00:00
 layout: post
 redirect_from: /2010/07/third-place-chat-beta-preview
-hero: /images/wordpress/bacon-tuxedos-lr.jpg
+hero:
 slug: third-place-chat-beta-preview
 title: Third Place Chat Beta Preview
 wordpress_id: 4174
