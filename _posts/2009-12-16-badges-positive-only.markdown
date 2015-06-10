@@ -4,7 +4,7 @@ comments: true
 date: 2009-12-16 00:44:31+00:00
 layout: post
 redirect_from: /2009/12/badges-positive-only
-hero: http://blog.stackoverflow.com/wp-content/uploads/basic-instructions-how-to-discipline-your-employees.png
+hero: 
 slug: badges-positive-only
 title: 'Badges: Positive Only'
 wordpress_id: 2324
