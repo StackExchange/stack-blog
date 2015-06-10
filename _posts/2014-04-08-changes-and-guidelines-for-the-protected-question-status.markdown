@@ -12,6 +12,7 @@ tags:
 - company
 - announcement
 - background
+- community
 ---
 
 [Protected status](http://blog.stackoverflow.com/2010/06/new-protected-question-status/) is an often-overlooked feature of Stack Exchange. It's based loosely on [Wikipedia's semi-protection](http://en.wikipedia.org/wiki/Wikipedia:Rough_guide_to_semi-protection), and like that tool is meant to be a _reaction_ to persistent abuse from anonymous or unproven participants: when a page attracts a lot of noise or vandalism from outside the community, Protecting it reduces the amount of clean-up needed later on. 
