@@ -10,6 +10,7 @@ wordpress_id: 3357
 tags:
 - company
 - stackexchange
+- community
 ---
 
 In a few months, we will start evaluating the first community-created sites to see if they have enough traffic to leave beta and become a full site. It's too early to apply actual numbers to that decision but it will almost certainly be some combination traffic and how fast questions are answered. We use the term "question liquidity" and it is the key to measuring the success or failure of a Stack Exchange site.
