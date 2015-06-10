@@ -4,13 +4,14 @@ comments: true
 date: 2010-12-20 11:48:48+00:00
 layout: post
 redirect_from: /2010/12/subscribe-to-tags-via-emai
-hero: http://blog.stackoverflow.com/wp-content/uploads/popular-tag-sets.png
+hero: 
 slug: subscribe-to-tags-via-emai
 title: Subscribe to Tags via Email
 wordpress_id: 6409
 tags:
 - company
 - stackexchange
+- community
 ---
 
 You can now **subscribe to a tag (or set of tags) and get an email when new questions arrive**.
