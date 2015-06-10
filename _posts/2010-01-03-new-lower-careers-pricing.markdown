@@ -4,7 +4,7 @@ comments: true
 date: 2010-01-03 10:17:55+00:00
 layout: post
 redirect_from: /2010/01/new-lower-careers-pricing
-hero: http://blog.stackoverflow.com/wp-content/uploads/sudden-realization-small1.png
+hero: 
 slug: new-lower-careers-pricing
 title: New, Lower Careers Pricing
 wordpress_id: 2416
