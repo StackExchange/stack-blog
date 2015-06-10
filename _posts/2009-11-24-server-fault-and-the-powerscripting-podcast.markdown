@@ -4,7 +4,7 @@ comments: true
 date: 2009-11-24 06:59:07+00:00
 layout: post
 redirect_from: /2009/11/server-fault-and-the-powerscripting-podcast
-hero: http://blog.stackoverflow.com/wp-content/uploads/powerscripting-podcast.jpg
+hero:
 slug: server-fault-and-the-powerscripting-podcast
 title: Server Fault and the PowerScripting Podcast
 wordpress_id: 2188
