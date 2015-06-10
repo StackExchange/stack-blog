@@ -4,7 +4,7 @@ comments: true
 date: 2010-09-09 08:36:51+00:00
 layout: post
 redirect_from: /2010/09/announcer-booster-and-publicist-badges
-hero: /images/wordpress/announcer-badge.png
+hero: 
 slug: announcer-booster-and-publicist-badges
 title: Announcer, Booster, and Publicist Badges
 wordpress_id: 5036
