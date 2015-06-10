@@ -4,7 +4,7 @@ comments: true
 date: 2010-06-27 20:08:26+00:00
 layout: post
 redirect_from: /2010/06/area-51-trusting-the-community
-hero: http://blog.stackoverflow.com/wp-content/uploads/Area-51-Banner1.png
+hero: 
 slug: area-51-trusting-the-community
 title: 'Area 51: Trusting the Community'
 wordpress_id: 3866
