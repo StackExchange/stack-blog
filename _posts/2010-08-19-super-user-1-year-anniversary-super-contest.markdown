@@ -4,13 +4,14 @@ comments: true
 date: 2010-08-19 06:59:54+00:00
 layout: post
 redirect_from: /2010/08/super-user-1-year-anniversary-super-contest
-hero: http://sstatic.net/superuser/img/logo.png
+hero: 
 slug: super-user-1-year-anniversary-super-contest
 title: Super User 1 Year Anniversary Super Contest
 wordpress_id: 4716
 tags:
 - company
 - superuser.com
+- community
 ---
 
 
