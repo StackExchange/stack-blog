@@ -4,8 +4,7 @@ comments: true
 date: 2010-09-17 17:03:47+00:00
 layout: post
 redirect_from: /2010/09/merging-season
-hero: /images/wordpress/IMG_0329.jpg
-slug: merging-season
+hero:
 title: Merging Season
 wordpress_id: 5144
 tags:
