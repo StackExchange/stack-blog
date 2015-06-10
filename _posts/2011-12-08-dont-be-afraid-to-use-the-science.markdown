@@ -4,7 +4,7 @@ comments: true
 date: 2011-12-08 06:25:44+00:00
 layout: post
 redirect_from: /2011/12/dont-be-afraid-to-use-the-science
-hero: http://blog.stackoverflow.com/wp-content/uploads/science-it-works-bitches.png
+hero: 
 slug: dont-be-afraid-to-use-the-science
 title: Don't Be Afraid to Use The Science
 wordpress_id: 10322

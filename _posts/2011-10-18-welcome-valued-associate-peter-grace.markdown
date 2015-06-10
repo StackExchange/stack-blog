@@ -4,7 +4,7 @@ comments: true
 date: 2011-10-18 12:50:54+00:00
 layout: post
 redirect_from: /2011/10/welcome-valued-associate-peter-grace
-hero: http://blog.stackoverflow.com/wp-content/uploads/Kristy-Pete-Nate.jpg
+hero: 
 slug: welcome-valued-associate-peter-grace
 title: Welcome Valued Associate Peter Grace!
 wordpress_id: 10052
