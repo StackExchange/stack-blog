@@ -80,9 +80,11 @@ To create a new post, you need to create a new markdown file with a particular f
 layout: post
 title: [title of your post]
 author: [your author id]
+date: [the date you want this to be published in YYYY-MM-DD HH:MM:SS format. If in the future, will be put in draft mode and will publish at that time. Optional, you can remove this whole line]
 draft: [true or false, will hide the post from any display lists. If not a draft, you can also remove this whole line]
 hero: [url of a high quality hero image to be used for your post. Optional, you can remove this whole line]
 source: [url of the original post so a source banner will be added to the post. Optional, you can remove this whole line]
+description: [a description that will show up in search results, up to 160 characters. Optional, you can remove this whole line]
 tags: [what channel this post belongs to (engineering/company), and any related tags, required]
 ---
 [Content of your post in markdown]
