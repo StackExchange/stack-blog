@@ -4,7 +4,7 @@ comments: true
 date: 2009-09-18 03:54:49+00:00
 layout: post
 redirect_from: /2009/09/help-stackexchange-with-colors
-hero: /images/wordpress/stackexchange-1.png
+hero: 
 slug: help-stackexchange-with-colors
 title: Help StackExchange With Colors
 wordpress_id: 1967
