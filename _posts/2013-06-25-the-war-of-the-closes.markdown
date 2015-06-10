@@ -11,6 +11,7 @@ wordpress_id: 13438
 tags:
 - company
 - announcement
+- community
 ---
 
 It pains me when I hear people say that our sites are unfriendly, or that we chase new users away. But it's a hard problem, because** our highest priority has always been the quality of content on our sites.**  And it still is. We _can't _lower our standards. We won't.
