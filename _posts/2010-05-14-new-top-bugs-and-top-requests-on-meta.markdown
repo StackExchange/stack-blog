@@ -4,7 +4,7 @@ comments: true
 date: 2010-05-14 09:15:36+00:00
 layout: post
 redirect_from: /2010/05/new-top-bugs-and-top-requests-on-meta
-hero: http://blog.stackoverflow.com/wp-content/uploads/meta-bugs-reqs-tabs.png
+hero: 
 slug: new-top-bugs-and-top-requests-on-meta
 title: New Top Bugs and Top Requests on Meta
 wordpress_id: 3205
