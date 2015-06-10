@@ -4,7 +4,7 @@ comments: true
 date: 2009-12-02 15:50:08+00:00
 layout: post
 redirect_from: /2009/12/careers-now-open-for-businesses
-hero: http://blog.stackoverflow.com/wp-content/uploads/dilbert-new-employee.png
+hero: 
 slug: careers-now-open-for-businesses
 title: 'Careers: Now Open for Business(es)'
 wordpress_id: 2233
