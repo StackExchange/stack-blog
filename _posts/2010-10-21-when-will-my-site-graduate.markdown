@@ -4,7 +4,7 @@ comments: true
 date: 2010-10-21 03:20:15+00:00
 layout: post
 redirect_from: /2010/10/when-will-my-site-graduate
-hero: http://blog.stackoverflow.com/wp-content/uploads/screenshot-19.png
+hero: 
 slug: when-will-my-site-graduate
 title: When Will My Site Graduate?
 wordpress_id: 5744
@@ -13,6 +13,7 @@ tags:
 - Area51
 - reference
 - stackexchange
+- community
 ---
 
 At 90 days into beta, we're supposed to evaluate each Area 51 beta site and either "pass" or "fail" them as full [Stack Exchange sites](http://stackexchange.com/sites). Some sites [feel they're not going to make it](http://meta.stackoverflow.com/questions/68079/please-do-not-close-gis-se).

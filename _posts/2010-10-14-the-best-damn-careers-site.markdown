@@ -4,7 +4,7 @@ comments: true
 date: 2010-10-14 14:17:36+00:00
 layout: post
 redirect_from: /2010/10/the-best-damn-careers-site
-hero: /images/wordpress/lolcat-job-300x236.jpg
+hero: 
 slug: the-best-damn-careers-site
 title: The Best Damn Careers Site
 wordpress_id: 5591
@@ -29,7 +29,7 @@ Once we have the above in place we’ll work on making both sides better and on 
 
 And then we’ll take all of Careers and figure out how we can better integrate it with Stack Overflow proper so that relevant jobs appear when and where you need them, and relevant SO behavior correlates back to your CV.
 
-[caption id="attachment_5592" align="alignnone" width="300" caption="(picture for Jeff)"]![This is mah job](/images/wordpress/lolcat-job-300x236.jpg)[/caption]
+(/images/wordpress/lolcat-job-300x236.jpg)
 
 So what about quality? It is perhaps the largest determinant when talking about being the best damn site on the web. Without high quality candidates and employers we’re nowhere. I’m not only talking about high quality CVs and Job postings, but also high quality behavior. We want employers that will carefully select the best few candidates rather than spamming our entire database with “Do you know anyone that might be interested?” emails. Likewise, we want candidates that are responsive when they receive a relevant query rather than ignoring the message because they’re not currently looking.  While we can, and most likely will, try to identify undesirable behavior and put measures in place to prevent it, we like the idea of augmenting that with a more self-governing approach (we can’t possibly identify all the ways in which people might misbehave… But once we know what the community determines to be undesirable we can put further preventative measures in place).
 
