@@ -4,7 +4,7 @@ comments: true
 date: 2010-04-29 12:44:09+00:00
 layout: post
 redirect_from: /2010/04/do-trilogy-sites-need-a-third-place
-hero: /images/wordpress/angry_unicorn.png
+hero: 
 slug: do-trilogy-sites-need-a-third-place
 title: Do Trilogy Sites Need a "Third Place"?
 wordpress_id: 3012
