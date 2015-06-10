@@ -4,13 +4,14 @@ comments: true
 date: 2011-04-27 11:38:59+00:00
 layout: post
 redirect_from: /2011/04/improved-tag-sets
-hero: http://blog.stackoverflow.com/wp-content/uploads/stack-exchange-tag-filters.png
+hero: 
 slug: improved-tag-sets
 title: Improved Tag Sets
 wordpress_id: 7875
 tags:
 - company
 - stackexchange
+- community
 ---
 
 Earlier this month, Emmett [asked for feedback](http://meta.stackoverflow.com/questions/87239/suggest-the-next-feature-for-the-stackexchange-com-master-website) on what we should improve next on [stackexchange.com](http://stackexchange.com).

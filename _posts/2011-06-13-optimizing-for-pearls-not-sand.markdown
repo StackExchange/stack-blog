@@ -4,13 +4,14 @@ comments: true
 date: 2011-06-13 23:54:41+00:00
 layout: post
 redirect_from: /2011/06/optimizing-for-pearls-not-sand
-hero: /images/wordpress/oyster-pearl.jpg
+hero: 
 slug: optimizing-for-pearls-not-sand
 title: Optimizing For Pearls, Not Sand
 wordpress_id: 8429
 tags:
 - company
 - stackexchange
+- community
 ---
 
 In March 2010, we [rebalanced our reputation system](http://blog.stackoverflow.com/2010/03/important-reputation-rule-changes/) to favor answers.

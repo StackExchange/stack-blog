@@ -4,7 +4,7 @@ comments: true
 date: 2011-05-06 09:02:01+00:00
 layout: post
 redirect_from: /2011/05/vote-for-this-question-or-the-kitten-gets-it
-hero: /images/wordpress/or-this-kitten-gets-it.jpg
+hero: 
 slug: vote-for-this-question-or-the-kitten-gets-it
 title: Vote For This Question or The Kitten Gets It
 wordpress_id: 8039
