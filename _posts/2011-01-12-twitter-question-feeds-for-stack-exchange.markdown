@@ -4,7 +4,7 @@ comments: true
 date: 2011-01-12 04:56:48+00:00
 layout: post
 redirect_from: /2011/01/twitter-question-feeds-for-stack-exchange
-hero: /images/wordpress/twitter-is-not-rss.png
+hero: 
 slug: twitter-question-feeds-for-stack-exchange
 title: Twitter Question Feeds for Stack Exchange
 wordpress_id: 6704
