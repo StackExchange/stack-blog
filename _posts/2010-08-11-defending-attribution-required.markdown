@@ -4,7 +4,7 @@ comments: true
 date: 2010-08-11 09:20:57+00:00
 layout: post
 redirect_from: /2010/08/defending-attribution-required
-hero: http://img94.imageshack.us/img94/309/attributionrequiredfoot.png
+hero: 
 slug: defending-attribution-required
 title: Defending Attribution Required
 wordpress_id: 4456
