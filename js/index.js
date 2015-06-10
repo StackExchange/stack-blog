@@ -78,7 +78,7 @@ $(document).ready(function() {
 							continue;
 						}
 					}
-					if (typeof top_active !== 'undefined') {
+					if (typeof top_active !== 'undefined' && (top_active == "engineering" || top_active == "company")) {
 						if (post.tags.indexOf(top_active) == - 1) {
 							continue;
 						}
