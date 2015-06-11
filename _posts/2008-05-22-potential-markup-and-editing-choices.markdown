@@ -4,7 +4,7 @@ comments: true
 date: 2008-05-22 10:43:02+00:00
 layout: post
 redirect_from: /2008/05/potential-markup-and-editing-choices
-hero: http://blog.stackoverflow.com/wp-content/uploads/wmd-advanced-demo1.png
+hero: 
 slug: potential-markup-and-editing-choices
 title: Potential Markup and Editing Choices
 wordpress_id: 44
