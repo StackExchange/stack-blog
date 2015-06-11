@@ -4,7 +4,7 @@ comments: true
 date: 2009-04-13 06:59:13+00:00
 layout: post
 redirect_from: /2009/04/stack-overflow-voting-pattern-analysis
-hero: http://blog.stackoverflow.com/wp-content/uploads/so_graph1.png
+hero: 
 slug: stack-overflow-voting-pattern-analysis
 title: Stack Overflow Voting Pattern Analysis
 wordpress_id: 1025
