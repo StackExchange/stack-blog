@@ -4,7 +4,7 @@ comments: true
 date: 2008-12-23 09:55:47+00:00
 layout: post
 redirect_from: /2008/12/vote-fraud-and-you
-hero: http://blog.stackoverflow.com/wp-content/uploads/061107pollfaults-x.png
+hero: 
 slug: vote-fraud-and-you
 title: Vote Fraud and You
 wordpress_id: 170
