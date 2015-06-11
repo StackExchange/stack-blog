@@ -4,7 +4,7 @@ comments: true
 date: 2009-07-08 04:14:46+00:00
 layout: post
 redirect_from: /2009/07/cross-site-account-associations
-hero: /images/wordpress/stack-overflow-account-association-google-openid.png
+hero: 
 slug: cross-site-account-associations
 title: Cross-Site Account Associations
 wordpress_id: 1620
