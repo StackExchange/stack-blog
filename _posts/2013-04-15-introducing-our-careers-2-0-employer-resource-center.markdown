@@ -4,7 +4,7 @@ comments: true
 date: 2013-04-15 20:47:15+00:00
 layout: post
 redirect_from: /2013/04/introducing-our-careers-2-0-employer-resource-center
-hero: http://i.stack.imgur.com/4tuK9.jpg
+hero: 
 slug: introducing-our-careers-2-0-employer-resource-center
 title: Introducing our Careers 2.0 Employer Resource Center
 wordpress_id: 13251
