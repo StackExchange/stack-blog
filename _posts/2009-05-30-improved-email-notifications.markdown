@@ -4,7 +4,7 @@ comments: true
 date: 2009-05-30 10:31:11+00:00
 layout: post
 redirect_from: /2009/05/improved-email-notifications
-hero: /images/wordpress/stackoveflow-question-email-ui.png
+hero: 
 slug: improved-email-notifications
 title: Improved Email Notifications
 wordpress_id: 1363
