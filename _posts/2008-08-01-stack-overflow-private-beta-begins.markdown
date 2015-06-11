@@ -4,7 +4,7 @@ comments: true
 date: 2008-08-01 06:59:36+00:00
 layout: post
 redirect_from: /2008/08/stack-overflow-private-beta-begins
-hero: /images/wordpress/then-a-miracle-occurs-cartoon.png
+hero: 
 slug: stack-overflow-private-beta-begins
 title: Stack Overflow Private Beta Begins
 wordpress_id: 82
