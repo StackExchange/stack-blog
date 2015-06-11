@@ -4,7 +4,7 @@ comments: true
 date: 2008-06-21 07:21:03+00:00
 layout: post
 redirect_from: /2008/06/a-strangely-familiar-error
-hero: /images/wordpress/stack-overflow-error.png
+hero: 
 slug: a-strangely-familiar-error
 title: A Strangely Familiar Error
 wordpress_id: 57
