@@ -4,7 +4,7 @@ comments: true
 date: 2008-10-13 03:59:56+00:00
 layout: post
 redirect_from: /2008/10/tags-and-tags-or-tags
-hero: /images/wordpress/stackoverflow-related-tags1.png
+hero: 
 slug: tags-and-tags-or-tags
 title: Tags AND Tags OR Tags
 wordpress_id: 119
