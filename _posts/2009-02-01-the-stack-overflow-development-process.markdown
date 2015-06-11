@@ -4,7 +4,7 @@ comments: true
 date: 2009-02-01 05:29:30+00:00
 layout: post
 redirect_from: /2009/02/the-stack-overflow-development-process
-hero: http://blog.stackoverflow.com/wp-content/uploads/bug-bash-stackoverflow-development-process.png
+hero:
 slug: the-stack-overflow-development-process
 title: The Stack Overflow Development Process
 wordpress_id: 593
