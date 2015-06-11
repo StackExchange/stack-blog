@@ -4,7 +4,7 @@ comments: true
 date: 2009-03-16 10:01:50+00:00
 layout: post
 redirect_from: /2009/03/it-stack-overflow-update-naming-is-hard
-hero: /images/wordpress/nice-server-rack.jpg
+hero: 
 slug: it-stack-overflow-update-naming-is-hard
 title: 'IT Stack Overflow Update: Naming is Hard'
 wordpress_id: 868
