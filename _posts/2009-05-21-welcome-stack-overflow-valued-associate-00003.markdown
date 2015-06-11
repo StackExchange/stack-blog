@@ -4,7 +4,7 @@ comments: true
 date: 2009-05-21 14:08:49+00:00
 layout: post
 redirect_from: /2009/05/welcome-stack-overflow-valued-associate-00003
-hero: /images/wordpress/geoff-dalgas-and-jeff-atwood-in-nyc.jpg
+hero: 
 slug: welcome-stack-overflow-valued-associate-00003
 title: 'Welcome Stack Overflow Valued Associate #00003'
 wordpress_id: 1338
