@@ -4,7 +4,7 @@ comments: false
 date: 2009-04-06 23:44:40+00:00
 layout: post
 redirect_from: /2009/04/a-day-in-the-penalty-box
-hero: http://blog.stackoverflow.com/wp-content/uploads/penalty-box.jpg
+hero: 
 slug: a-day-in-the-penalty-box
 title: A Day in the Penalty Box
 wordpress_id: 970
