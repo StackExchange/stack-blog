@@ -4,7 +4,7 @@ comments: true
 date: 2012-11-02 22:09:07+00:00
 layout: post
 redirect_from: /2012/11/stack-exchange-partners-with-denver-startup-week
-hero: http://i.stack.imgur.com/DlSZ7.jpg
+hero: 
 slug: stack-exchange-partners-with-denver-startup-week
 title: Stack Exchange partners with Denver Startup Week
 wordpress_id: 12452
