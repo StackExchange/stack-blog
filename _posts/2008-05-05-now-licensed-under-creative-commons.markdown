@@ -4,7 +4,7 @@ comments: true
 date: 2008-05-05 10:37:50+00:00
 layout: post
 redirect_from: /2008/05/now-licensed-under-creative-commons
-hero: /images/wordpress/cc-attrib.png
+hero: 
 slug: now-licensed-under-creative-commons
 title: Now Licensed Under Creative Commons
 wordpress_id: 28
