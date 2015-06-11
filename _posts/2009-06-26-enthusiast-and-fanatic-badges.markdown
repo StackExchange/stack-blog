@@ -4,7 +4,7 @@ comments: true
 date: 2009-06-26 09:34:54+00:00
 layout: post
 redirect_from: /2009/06/enthusiast-and-fanatic-badges
-hero: /images/wordpress/woot-badge-grant-small.png
+hero: 
 slug: enthusiast-and-fanatic-badges
 title: Enthusiast and Fanatic Badges
 wordpress_id: 1528
