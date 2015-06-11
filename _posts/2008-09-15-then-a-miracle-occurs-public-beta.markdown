@@ -4,7 +4,7 @@ comments: true
 date: 2008-09-15 09:17:26+00:00
 layout: post
 redirect_from: /2008/09/then-a-miracle-occurs-public-beta
-hero: /images/wordpress/then-a-miracle-occurs-cartoon.png
+hero: 
 slug: then-a-miracle-occurs-public-beta
 title: Then a Miracle Occurs - Public Beta
 wordpress_id: 98
