@@ -4,7 +4,7 @@ comments: true
 date: 2011-12-20 20:54:20+00:00
 layout: post
 redirect_from: /2011/12/gaming-holiday-promotion-hat-dash
-hero: /images/wordpress/hat-dash-hats-smaller.jpg
+hero: 
 slug: gaming-holiday-promotion-hat-dash
 title: 'Gaming Holiday Promotion: Hat Dash!'
 wordpress_id: 10477
