@@ -4,7 +4,7 @@ comments: true
 date: 2008-12-13 00:16:34+00:00
 layout: post
 redirect_from: /2008/12/uservoice-supports-openid
-hero: /images/wordpress/uservoice-openid.png
+hero: 
 slug: uservoice-supports-openid
 title: UserVoice Supports OpenID
 wordpress_id: 160
