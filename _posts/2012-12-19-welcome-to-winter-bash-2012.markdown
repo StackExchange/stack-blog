@@ -4,7 +4,7 @@ comments: true
 date: 2012-12-19 00:42:22+00:00
 layout: post
 redirect_from: /2012/12/welcome-to-winter-bash-2012
-hero: http://i.stack.imgur.com/XkFJ3.jpg
+hero: 
 slug: welcome-to-winter-bash-2012
 title: Welcome to Winter Bash 2012!
 wordpress_id: 12750
