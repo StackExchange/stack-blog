@@ -4,7 +4,7 @@ comments: true
 date: 2009-07-26 14:30:29+00:00
 layout: post
 redirect_from: /2009/07/why-cant-you-have-just-one-site
-hero: /images/wordpress/so-trilogy-logos.png
+hero: 
 slug: why-cant-you-have-just-one-site
 title: Why Can't You Have Just One Site?
 wordpress_id: 1698
