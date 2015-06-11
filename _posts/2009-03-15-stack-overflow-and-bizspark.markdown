@@ -4,7 +4,7 @@ comments: true
 date: 2009-03-15 06:59:01+00:00
 layout: post
 redirect_from: /2009/03/stack-overflow-and-bizspark
-hero: /images/wordpress/screwdrivers.jpg
+hero:
 slug: stack-overflow-and-bizspark
 title: Stack Overflow and BizSpark
 wordpress_id: 846
