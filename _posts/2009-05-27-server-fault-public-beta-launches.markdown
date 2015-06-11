@@ -4,7 +4,7 @@ comments: true
 date: 2009-05-27 05:06:47+00:00
 layout: post
 redirect_from: /2009/05/server-fault-public-beta-launches
-hero: http://blog.stackoverflow.com/wp-content/uploads/sysadminday.jpg
+hero: 
 slug: server-fault-public-beta-launches
 title: Server Fault Public Beta Launches
 wordpress_id: 1349
