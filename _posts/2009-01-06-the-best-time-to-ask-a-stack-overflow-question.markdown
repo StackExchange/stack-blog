@@ -4,7 +4,7 @@ comments: true
 date: 2009-01-06 00:11:22+00:00
 layout: post
 redirect_from: /2009/01/the-best-time-to-ask-a-stack-overflow-question
-hero: /images/wordpress/stack-overflow-revision-dates-by-hour.png
+hero: 
 slug: the-best-time-to-ask-a-stack-overflow-question
 title: The Best Time to Ask a Stack Overflow Question?
 wordpress_id: 303
