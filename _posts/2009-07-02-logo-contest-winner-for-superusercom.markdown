@@ -4,7 +4,7 @@ comments: true
 date: 2009-07-02 07:30:34+00:00
 layout: post
 redirect_from: /2009/07/logo-contest-winner-for-superusercom
-hero: http://blog.stackoverflow.com/wp-content/uploads/superuser-voting-results.png
+hero: 
 slug: logo-contest-winner-for-superusercom
 title: Logo Contest Winner for superuser.com
 wordpress_id: 1567
