@@ -4,7 +4,7 @@ comments: true
 date: 2009-01-12 06:59:34+00:00
 layout: post
 redirect_from: /2009/01/new-stack-overflow-server-glamour-shots
-hero: /images/wordpress/stackoverflow-lenovo-servers-overview.jpg
+hero: 
 slug: new-stack-overflow-server-glamour-shots
 title: New Stack Overflow Server Glamour Shots
 wordpress_id: 381
