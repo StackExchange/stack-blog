@@ -4,7 +4,7 @@ comments: true
 date: 2009-06-30 04:51:13+00:00
 layout: post
 redirect_from: /2009/06/superuser-com-logo-vote
-hero: http://blog.stackoverflow.com/wp-content/uploads/superuser-logo-voting1.png
+hero: 
 slug: superuser-com-logo-vote
 title: superuser.com Logo Vote
 wordpress_id: 1558
