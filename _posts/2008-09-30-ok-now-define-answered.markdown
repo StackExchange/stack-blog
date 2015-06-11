@@ -4,7 +4,7 @@ comments: true
 date: 2008-09-30 07:05:12+00:00
 layout: post
 redirect_from: /2008/09/ok-now-define-answered
-hero: /images/wordpress/riddler.png
+hero: 
 slug: ok-now-define-answered
 title: OK, Now Define "Answered"
 wordpress_id: 106
