@@ -4,7 +4,7 @@ comments: true
 date: 2012-12-10 14:00:57+00:00
 layout: post
 redirect_from: /2012/12/windows-devs-on-stack-overflow-when-did-this-happen
-hero: http://i.stack.imgur.com/pmiKD.jpg
+hero: 
 slug: windows-devs-on-stack-overflow-when-did-this-happen
 title: Announcing the Apptivate.MS competition semi-finals
 wordpress_id: 12570
