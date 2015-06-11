@@ -4,7 +4,7 @@ comments: true
 date: 2009-07-31 09:46:56+00:00
 layout: post
 redirect_from: /2009/07/happy-sysadmin-appreciation-day
-hero: /images/wordpress/burned-server.jpg
+hero: 
 slug: happy-sysadmin-appreciation-day
 title: Happy SysAdmin Appreciation Day!
 wordpress_id: 1766
@@ -12,6 +12,7 @@ tags:
 - company
 - community
 - serverfault.com
+- sysadmin
 ---
 
 
