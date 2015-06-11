@@ -4,7 +4,7 @@ comments: true
 date: 2008-10-21 06:59:06+00:00
 layout: post
 redirect_from: /2008/10/expressing-your-tag-preferences
-hero: /images/wordpress/stackoverflow-ignored-interesting.png
+hero: 
 slug: expressing-your-tag-preferences
 title: Expressing Your Tag Preferences
 wordpress_id: 134
