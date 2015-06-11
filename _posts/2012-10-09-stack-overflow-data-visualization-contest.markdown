@@ -4,7 +4,7 @@ comments: true
 date: 2012-10-09 20:04:25+00:00
 layout: post
 redirect_from: /2012/10/stack-overflow-data-visualization-contest
-hero: http://i.stack.imgur.com/uuU4Q.jpg
+hero: 
 slug: stack-overflow-data-visualization-contest
 title: Stack Overflow Data Visualization Contest
 wordpress_id: 12355
