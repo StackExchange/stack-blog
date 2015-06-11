@@ -4,7 +4,7 @@ comments: true
 date: 2009-04-04 13:19:19+00:00
 layout: post
 redirect_from: /2009/04/logo-design-contest-for-serverfaultcom
-hero: http://blog.stackoverflow.com/wp-content/uploads/99-designs-logo.png
+hero: 
 slug: logo-design-contest-for-serverfaultcom
 title: Logo Design Contest for serverfault.com
 wordpress_id: 952
