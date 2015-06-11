@@ -4,7 +4,7 @@ comments: true
 date: 2009-06-16 08:23:16+00:00
 layout: post
 redirect_from: /2009/06/logo-design-contest-for-superuser-com
-hero: http://blog.stackoverflow.com/wp-content/uploads/crowdspring-logo.png
+hero: 
 slug: logo-design-contest-for-superuser-com
 title: Logo Design Contest for superuser.com
 wordpress_id: 1489
