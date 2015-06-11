@@ -4,7 +4,7 @@ comments: true
 date: 2012-11-12 16:13:40+00:00
 layout: post
 redirect_from: /2012/11/get-rid-of-ads-you-dont-like-and-encourage-ads-you-do-like
-hero: http://i.stack.imgur.com/KZsy2.jpg
+hero: 
 slug: get-rid-of-ads-you-dont-like-and-encourage-ads-you-do-like
 title: Get rid of ads you don’t like (and encourage ads you do like)
 wordpress_id: 12480
