@@ -4,7 +4,7 @@ comments: true
 date: 2013-01-25 15:00:40+00:00
 layout: post
 redirect_from: /2013/01/2012-stack-overflow-user-survey-results
-hero: http://i.stack.imgur.com/J817w.jpg
+hero: 
 slug: 2012-stack-overflow-user-survey-results
 title: 2012 Stack Overflow User Survey Results
 wordpress_id: 12948
