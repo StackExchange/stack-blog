@@ -4,7 +4,7 @@ comments: true
 date: 2009-03-04 03:24:25+00:00
 layout: post
 redirect_from: /2009/03/the-great-edit-wars
-hero: /images/wordpress/wiki-revert-lolcat.jpg
+hero: 
 slug: the-great-edit-wars
 title: The Great Edit Wars
 wordpress_id: 772
