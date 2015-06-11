@@ -4,7 +4,7 @@ comments: true
 date: 2009-05-07 12:05:42+00:00
 layout: post
 redirect_from: /2009/05/interesting-and-ignored-tags-now-support-wildcards
-hero: /images/wordpress/stackoverflow-ignored-interesting-wildcards.png
+hero: 
 slug: interesting-and-ignored-tags-now-support-wildcards
 title: Interesting and Ignored Tags Now Support Wildcards
 wordpress_id: 1225
