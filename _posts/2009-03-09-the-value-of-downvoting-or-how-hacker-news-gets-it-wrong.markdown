@@ -4,7 +4,7 @@ comments: true
 date: 2009-03-09 04:36:19+00:00
 layout: post
 redirect_from: /2009/03/the-value-of-downvoting-or-how-hacker-news-gets-it-wrong
-hero: /images/wordpress/graph-axis-0-to-15.png
+hero: 
 slug: the-value-of-downvoting-or-how-hacker-news-gets-it-wrong
 title: The Value of Downvoting, or, How Hacker News Gets It Wrong
 wordpress_id: 802
