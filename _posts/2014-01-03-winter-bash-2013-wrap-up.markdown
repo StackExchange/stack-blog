@@ -4,7 +4,7 @@ comments: true
 date: 2014-01-03 17:05:37+00:00
 layout: post
 redirect_from: https://cloud.githubusercontent.com/assets/1703653/7544080/04fb0c3e-f598-11e4-9ab6-c3f56847d175.jpg
-hero: http://i.stack.imgur.com/PIMjd.jpg
+hero: 
 slug: winter-bash-2013-wrap-up
 title: Winter Bash 2013 Wrap-Up
 wordpress_id: 14346
