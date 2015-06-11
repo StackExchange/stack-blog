@@ -4,13 +4,14 @@ comments: true
 date: 2009-02-16 06:59:09+00:00
 layout: post
 redirect_from: /2009/02/when-is-an-account-abandoned
-hero: http://i.stack.imgur.com/dlqrE.png
+hero: 
 slug: when-is-an-account-abandoned
 title: When Is An Account "Abandoned"?
 wordpress_id: 666
 tags:
 - company
 - design
+- community
 ---
 
 Let's talk about deletion.
