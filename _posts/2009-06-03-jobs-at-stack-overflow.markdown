@@ -4,7 +4,7 @@ comments: true
 date: 2009-06-03 06:59:59+00:00
 layout: post
 redirect_from: /2009/06/jobs-at-stack-overflow
-hero: http://blog.stackoverflow.com/wp-content/uploads/stack-overflow-job-ad.png
+hero: 
 slug: jobs-at-stack-overflow
 title: Jobs At Stack Overflow
 wordpress_id: 1412
