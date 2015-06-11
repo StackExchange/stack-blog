@@ -4,13 +4,14 @@ comments: true
 date: 2009-02-13 10:18:54+00:00
 layout: post
 redirect_from: /2009/02/now-showing-email-notifications
-hero: /images/wordpress/stackoverflow-email-summary.png
+hero: 
 slug: now-showing-email-notifications
 title: 'Now Showing: Email Notifications'
 wordpress_id: 654
 tags:
 - company
 - design
+- community
 ---
 
 
