@@ -4,7 +4,7 @@ comments: false
 date: 2008-06-18 06:59:24+00:00
 layout: post
 redirect_from: /2008/06/gravatars-identicons-and-you
-hero: /images/wordpress/identicon-samples.png
+hero:
 slug: gravatars-identicons-and-you
 title: Gravatars, Identicons, and You
 wordpress_id: 53
