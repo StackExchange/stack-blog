@@ -35,7 +35,8 @@ As estatísticas do site são impressionantes, mas ainda mais impressionante é 
 
 Sob qualquer ponto de vista, o Stack Overflow em Português é um site espetacular. Foi o segundo site mais rápido a atingir 10 mil perguntas, perdendo apenas para seu irmão de língua inglesa. Hoje, com mais de 20 mil perguntas, é uma das comunidades mais ativas, em um nível de participação maior que outros sites 3 vezes mais antigos.
 
-<a href="http://i.stack.imgur.com/F8YJH.png"><img class="size-full wp-image-15893" src="http://i.stack.imgur.com/F8YJH.png" alt="20 mil perguntas! 20 mil!" width="298" height="76" /></a> E isso é só o começo!
+<a href="http://i.stack.imgur.com/F8YJH.png"><img class="size-full wp-image-15893" src="http://i.stack.imgur.com/F8YJH.png" alt="20 mil perguntas! 20 mil!" width="298" height="76" /></a>
+<p><caption>E isso é só o começo!</caption></p>
 
 Todas essas perguntas - e respostas - vêm de pessoas com níveis bem variados de familiaridade com o site original, em Inglês. Pouco mais da metade de todos os posts vem de pessoas que nunca tiveram a oportunidade de participar ativamente da comunidade Stack Overflow. São milhares de programadores criando coletivamente um excelente acervo de conhecimento sobre programação, e que não teria existido sem o SOpt.
 
