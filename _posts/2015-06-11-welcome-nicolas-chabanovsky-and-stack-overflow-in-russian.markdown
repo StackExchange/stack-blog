@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Tim Post
+author: tpost
 title: "Welcome, Nicolas Chabanovsky and Stack Overflow in Russian!"
 hero: 
 tags:
