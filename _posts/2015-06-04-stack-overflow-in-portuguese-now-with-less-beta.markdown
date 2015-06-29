@@ -23,7 +23,7 @@ Criar novas comunidades onde mesmo quem não fala Inglês possa se expressar em 
 
 E é aí que a língua faz diferença. <strong>Muita diferença</strong>.
 
-<a href="http://i.stack.imgur.com/6cO2E.png"><img class=" size-full wp-image-15896 aligncenter" src="http://i.stack.imgur.com/6cO2E.png" alt="Look! No beta!" width="880" height="316" /></a>
+<a href="http://i.stack.imgur.com/6cO2E.png"><img class=" size-full wp-image-15896 aligncenter" src="http://i.stack.imgur.com/6cO2E.png" alt="Look! No beta!"/></a>
 
 O primeiro destes novos sites foi o <a href="http://pt.stackoverflow.com" target="_blank">Stack Overflow em Português</a>. O período de beta privado começou há um ano e meio e algumas semanas atrás ele foi graduado com mérito! Estamos profundamente orgulhosos de tudo que a comunidade do SOpt construiu até agora e temos certeza de que estes são apenas os primeiros passos de um site excepcional.
 
