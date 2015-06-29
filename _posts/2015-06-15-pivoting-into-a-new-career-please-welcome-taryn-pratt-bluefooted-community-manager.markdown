@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Shog9
+author: shog
 title: "PIVOTing into a new career: please welcome Taryn Pratt, bluefooted Community Manager"
 hero: 
 tags:

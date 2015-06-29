@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Abby T. Miller
+author: abbytmiller
 title: "Stack Exchange Podcast #65: The Word Has Two Meanings, You See"
 hero: 
 tags:
