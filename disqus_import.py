@@ -25,6 +25,8 @@ requests_log = logging.getLogger("requests.packages.urllib3")
 requests_log.setLevel(logging.DEBUG)
 requests_log.propagate = True
 
+# Make sure when doing the export that you are only exporting posts that have a status of published
+
 e = ET.parse('blog.xml').getroot()
 posts = e[0].findall('item')
 blog_data = []
@@ -72,6 +74,9 @@ for post in blog_data:
 	json_result = json.dumps({"response": result[slug]})
 
 	parts = slug.split("/")
+	if len(parts) < 3:
+		print slug
+		print parts
 	directory = "json/comments/" + parts[1] + "/" + parts[2]
 
 	if not os.path.exists(directory):
