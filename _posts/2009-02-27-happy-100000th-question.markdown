@@ -4,7 +4,6 @@ comments: true
 date: 2009-02-27 10:33:44+00:00
 layout: post
 redirect_from: /2009/02/happy-100000th-question
-hero: \
 slug: happy-100000th-question
 title: Happy 100,000th Question!
 wordpress_id: 760
