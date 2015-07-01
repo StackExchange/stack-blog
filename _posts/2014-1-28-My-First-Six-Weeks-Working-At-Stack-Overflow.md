@@ -6,10 +6,8 @@ hero: http://i.stack.imgur.com/qOAcI.jpg
 source: http://www.jonhmchan.com/blog/2014/1/16/my-first-six-weeks-working-at-stack-overflow
 tags:
  - engineering
- - culture
  - onboarding
  - development
- - company
  - culture
 ---
 
