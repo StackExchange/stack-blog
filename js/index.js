@@ -99,7 +99,7 @@ $(document).ready(function() {
 				set_page(page);
 
 				// Set total pages
-				$("span.page.total_pages").html(Math.max(Math.floor(data.posts.length / 5), 1));
+				$("span.page.total_pages").html(Math.max(Math.ceil(data.posts.length / 5), 1));
 
 				// Bind page clicks
 				$("a.page").click(function() {
@@ -120,7 +120,7 @@ $(document).ready(function() {
 	}
 
 	function set_page(page_num) {
-		var max = Math.floor(data.posts.length / 5);
+		var max = Math.ceil(data.posts.length / 5);
 
 		if (data == null) return;
 		if (!valid_page(page_num)) {
@@ -200,6 +200,6 @@ $(document).ready(function() {
 	}
 
 	function valid_page(page_num) {
-		return (page_num > 0 && page_num <= Math.max(Math.floor(data.posts.length / 5), 1))
+		return (page_num > 0 && page_num <= Math.max(Math.ceil(data.posts.length / 5), 1))
 	}
 });
