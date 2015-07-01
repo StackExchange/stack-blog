@@ -41,7 +41,7 @@ Before it went into beta, stackoverflow.com had a comic on the landing page that
 
 
 
-# [![](http://blog.stackoverflow.com/wp-content/uploads/then-a-miracle-occurs-cartoon.png)](http://blog.stackoverflow.com/2008/09/then-a-miracle-occurs-public-beta/)
+# [![](https://blog.stackexchange.com/images/wordpress/then-a-miracle-occurs-cartoon.png)](http://blog.stackoverflow.com/2008/09/then-a-miracle-occurs-public-beta/)
 
 
 
