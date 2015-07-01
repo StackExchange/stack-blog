@@ -2,8 +2,8 @@
 layout: author
 id: jonhmchan
 name: Jon Chan
-avatar: http://i.stack.imgur.com/xsE50.jpg
+avatar: http://i.stack.imgur.com/UK4Xi.jpg
 twitter: jonhmchan
-job: Web Developer
+job: Developer, Head of Evaneglism
 website: http://www.jonhmchan.com/
 ---
