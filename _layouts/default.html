@@ -10,6 +10,23 @@
     <meta name="author" content="{{ site.name }}" />
     <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines }}{% else %}{% if page.excerpt %}{{ page.excerpt | markdownify | strip_html | strip_newlines }}{% else %}{{ site.description }}{% endif %}{% endif %}">
 
+    <!-- Facebook metadata -->
+    <meta property="fb:admins" content="" />
+    <meta property="og:image" content="{{ page.hero }}"/>
+    <meta property="og:title" content="{{ page.title }}"/>
+    <meta property="og:url" content="{{ page.url }}"/>
+    <meta property="og:site_name" content="Stack Exchange Blog"/>
+    <meta property="og:description" content="{{ page.description }}">
+    <meta property="og:type" content="website"/>
+
+    <!-- Twitter metadata -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@StackExchange">
+    <meta name="twitter:creator" content="@StackExchange">
+    <meta name="twitter:title" content="{{ page.title }}">
+    <meta name="twitter:description" content="{{ page.description }}">
+    <meta name="twitter:image:src" content="{{ page.hero }}">
+
     <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
