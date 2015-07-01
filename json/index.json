@@ -13,7 +13,7 @@ layout: null
 				"date": "{{ post.date | date: "%B %e, %Y" }}",
 				"author": "{{ post.author }}",
 				"draft": {% if post.draft or post.date > site.time %}true{% else %}false{% endif %},
-				"content": "{{ post.excerpt | markdownify | strip_html | strip_newlines }}"
+				"content": "{% if post.description %}{{ post.description | strip_html | strip_newlines }}{% else %}{% if post.excerpt %}{{ post.excerpt | markdownify | strip_html | strip_newlines }}{% else %}{{ site.description }}{% endif %}{% endif %}"
 			{% if forloop.last %}}{% else %}},{% endif %}{% endfor %}
 	],
 	"authors": {
