@@ -3,6 +3,7 @@ layout: post
 author: jonhmchan
 title: How We Built Our New Blog
 hero: http://i.stack.imgur.com/FYbC3.jpg
+draft: true
 description: "There was a lot that went into building our new blog - including the new engineering channel. See why it took us six to eight weeks to move to a new system, migrate our old content, and redesign the whole system."
 tags:
 - engineering
@@ -21,10 +22,8 @@ A few months ago, I took up a de facto role heading up developer evangelism effo
 
 So the first natural solution to address these goals would be to blog about it. We were inspired by a lot of great technical blogs out there like [Code as Craft](https://codeascraft.com/) and [OkTrends](http://oktrends.okcupid.com/) and the idea of an engineering blog that were similar to these examples had been thrown around. However, there were reservations about creating a completely separate blog: why fragment our readership even further? We had the official Stack Exchange company blog, the ServerFault blog for our SRE team, and the many personal blogs that our individual developers had where they did walkthroughs of the things they've built internally. There were so many different avenues to publish our work, and we couldn't figure out where this content would live. It seemed as though if we ever wanted to create new kinds of content to write about, the blog ecosystem that we had would force us to fragment our audience even further or simply be inappropriate in one of the existing channels. What we *really* needed was a single destination that could accomodate many different kinds of content instead of creating multiple destinations that specialized in one kind.
 
-The ideal solution would be to take our most popular blog, the official Stack Exchange blog, and use it to house the new content we wanted. That turned out to be a much larger project that took [six to eight weeks](http://meta.stackexchange.com/questions/19478/the-many-memes-of-meta/19514#19514).
-
-### The Stack Exchange Blog and Channels
-After sending out the original proposal, I quickly realized I might have stepped on landmine. The blog ecosystem was something that we've wanted to address for a very long time, and trying to touch the official company blog meant that pretty much every part of the company would be directly affected and had strong opinions about where it
+### Revisit the Stack Exchange Blog
+After sending out the original proposal, I quickly realized I might have stepped on landmine of a project. The blog ecosystem was something that we've wanted to address for a very long time, and trying to touch the official company blog meant that pretty much every part of the company would be directly affected and had strong opinions about the project. After considering all the comments I received, we came to a general conclusion: the ideal solution would be to take our most popular blog, the official Stack Exchange blog, and use it to house the new content we wanted - including the engineering posts. That turned out to be a much larger project that took [six to eight weeks](http://meta.stackexchange.com/questions/19478/the-many-memes-of-meta/19514#19514). There were some key components to this solution that made it 
 
 ## RIP Wordpress, Hello Jekyll
 
