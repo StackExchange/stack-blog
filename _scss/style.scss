@@ -555,6 +555,22 @@ footer {
 				border-radius: 0;
 			}
 		}
+		&.full-post {
+			.hero {
+				background: #4889cb!important;
+				padding-top: 150px;
+				height: auto;
+				h1 {
+					font-size: 25px;
+				}
+				.author-container {
+					margin-top: 25px;
+				}
+			}
+			.entry {
+				padding: 25px;
+			}
+		}
 		.entry {
 			margin-top: 0;
 		}
