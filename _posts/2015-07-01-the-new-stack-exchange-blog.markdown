@@ -11,7 +11,7 @@ tags:
 
 *Jon is a developer and heads up evangelism efforts at Stack Exchange. You can follow him on [Twitter](http://twitter.com/jonhmchan).*
 
-Today, we're proud to announce the new Stack Exchange blog, all shiny and new! It's been [six to eight weeks](http://meta.stackexchange.com/a/19514/242868) in the making and we're really happy to our community finally see it. Here's an overview of the major changes that we've made to the site:
+Today, we're proud to announce the new Stack Exchange blog, all shiny and new! It's been [six to eight weeks](http://meta.stackexchange.com/a/19514/242868) in the making and we're really happy our community can finally see it. Here's an overview of the major changes that we've made to the site:
 
 ## Channels
 The biggest change we've made is the introduction of channels on the blog. In the previous blog, we pretty much put everything in one column, organized by tags. We still have all the posts in chronological order on [the homepage](http://blog.stackexchange.com/) of the new blog, but we realized there are two big buckets of content that we want to post here: company news and engineering posts. We want to recast our blog not just as a place to post updates as they come, but to become an amazing source of news, technical knowledge, and insight into the communities we've built.
