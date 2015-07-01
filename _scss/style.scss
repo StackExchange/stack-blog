@@ -540,6 +540,9 @@ footer {
 
 
 @media (max-width: $mediaQuery-small) {
+	div.inner-container.padded {
+		margin-top: 0;
+	}
 	.add-padding {
 		padding: 0 25px;
 	}
@@ -567,5 +570,21 @@ footer {
 	.sidebar {
 		border-top: 1px solid $color-grayLight;
 		padding-top: 25px;
+	}
+	.pagination {
+		.-col2 {
+			display: block;
+			width: 50%!important;
+			float: left;
+			padding: 0 25px;
+			box-sizing: border-box;
+		}
+		.-col8 {
+			display: none;
+			clear: both;
+		}
+	}
+	footer .about {
+		margin-bottom: 15px;
 	}
 }
