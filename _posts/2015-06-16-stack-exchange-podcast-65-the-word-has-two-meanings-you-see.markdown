@@ -10,7 +10,7 @@ Welcome to the Stack Exchange Podcast, episode #65, recorded Tuesday, May 12, 20
 
 We’ll start off with the extremely important and community-relevant subject of why Joel hates frequent flyer programs. It’s a fascinating story and I can’t do it justice in summary. But I will say, for those of you who find it TOO ENTERTAINING AND DRAMATIC, that this story ends around 7 minutes into the show. 7:16 to be exact.
 
-<h5>Things we are working on that are very similar to airline miles programs:</h5>
+<h3>Things we are working on that are very similar to airline miles programs:</h3>
 
 <strong>Site designs!</strong> We’re updating them. All of them. The down side of giving every graduated site a custom design is that when we want to design something new–a new user profile, for instance–we have to design it fifty times. So we’re standardizing all of our designs and modernizing a few of them so we can roll new stuff out more easily. <a href="http://apple.stackexchange.com/" target="_blank">Ask Different</a> and <a href="http://android.stackexchange.com/" target="_blank">Android Enthusiasts</a> are good examples of what we’ve been up to. You can find the full list of updated sites (and those still waiting for updates) <a href="http://meta.stackexchange.com/questions/253359/list-of-communities-with-base-css-updates-completed" target="_blank">on meta</a>.
 
@@ -18,7 +18,7 @@ We’ll start off with the extremely important and community-relevant subject of
 
 <strong>Data stuff!</strong> We’re working behind the scenes to make your experience on Stack Overflow and Careers better (or at least more relevant to you). We’re improving Careers matching, which makes us able to match you with better job ads in the sidebar, and to recommend more relevant jobs to people who go to Careers. It’s also related to the stuff we’re using to recommend you questions on the Stack Overflow homepage that you might want to answer, and THAT in turn is related to the Next Answer Hook, in which we try to find you more questions to answer that are similar to the question you just answered.
 
-<h5>Things that already happened which we haven’t yet talked about (enough):</h5>
+<h3>Things that already happened which we haven’t yet talked about (enough):</h3>
 
 <strong>The new user profile!</strong> It’s the big thing that we launched since the last podcast. Jay’s going to talk about it <a href="http://blog.stackoverflow.com/2015/04/two-new-user-pages-one-new-stat-this-ones-big/" target="_blank">because he wrote the blog post</a>. We’ve been working on this for a looooong time. Joel will give the overview, for those who haven’t been paying attention, and who also didn’t read the blog post I just linked. The short version is that we split your profile into two parts: the part you care about (Activity), and the part other people care about (Profile).
 
@@ -30,7 +30,7 @@ The moral of the story is that we–specifically Jay and David–learned a lot a
 
 It’s finally time for…
 
-<h5>Community Milestones!</h5>
+<h3>Community Milestones!</h3>
 
 * We have a <a href="http://health.stackexchange.com/" target="_blank">Health site</a> in public beta.
 * <a href="http://civicrm.stackexchange.com/" target="_blank">CiviCRM</a> is in public beta too – and we have no idea how to pronounce it.
