@@ -17,14 +17,14 @@ avatar: /images/blog-logo.svg
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble: 
-  email: 
-  facebook: 
-  flickr: 
+  dribbble:
+  email:
+  facebook:
+  flickr:
   github: stackexchange/blog
-  instagram: 
-  linkedin: 
-  pinterest: 
+  instagram:
+  linkedin:
+  pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: stackexchange
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
@@ -39,7 +39,7 @@ google_analytics: UA-5620270-51
 # Used for Sitemap.xml and your RSS feed
 url: http://blog.stackexchange.com
 
-# If you're hosting your site at a Project repository on GitHub pages 
+# If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
@@ -55,6 +55,12 @@ collections:
   categories:
     output: true
     permalink: /category/:title/
+
+# options for _layouts/compress.html
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
 
 #
 # !! You don't need to change any of the configuration flags below !!
