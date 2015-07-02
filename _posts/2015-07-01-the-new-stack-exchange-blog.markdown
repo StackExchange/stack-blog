@@ -9,8 +9,6 @@ tags:
 - announcements
 ---
 
-*Jon is a developer and heads up evangelism efforts at Stack Exchange. You can follow him on [Twitter](http://twitter.com/jonhmchan).*
-
 Today, we're proud to announce the new Stack Exchange blog, all shiny and new! It's been [six to eight weeks](http://meta.stackexchange.com/a/19514/242868) in the making and we're really happy our community can finally see it. Here's an overview of the major changes that we've made to the site:
 
 ## Channels
@@ -51,3 +49,4 @@ If you have suggestions for how to make the new blog better, [create an issue](h
 ## More to come
 There's so much more we want to do with this blog in the future. It's one of the few places we have as a company to talk directly to the community we've helped build and love so much. As always, sound off in the comments about what you think of the changes, ideas you have about how to make it better, or take an extra step and become a contributor writing code. Until next time!
 
+*Jon is a developer and heads up evangelism efforts at Stack Exchange. You can follow him on [Twitter](http://twitter.com/jonhmchan).*
