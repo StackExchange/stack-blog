@@ -26,16 +26,28 @@ So the first natural solution to address these goals would be to blog about the 
 After sending out the original proposal, I quickly realized I might have stepped on landmine of a project. The blog ecosystem was something that we've wanted to address for a very long time, and that meant that pretty much every part of the company would be directly affected and had strong opinions about the project. After considering all the comments I received, we came to a general conclusion: the ideal solution would be to take our most popular blog, the official Stack Exchange blog, and use it to house the new content we wanted - including the engineering posts. That turned out to be a much larger project that took [six to eight weeks](http://meta.stackexchange.com/questions/19478/the-many-memes-of-meta/19514#19514). There were some key components to this solution that made would make it work:
 
 ### Channels
+![](http://i.stack.imgur.com/jfB91.png)
 
-### 
+In the previous blog, we had all of our posts in a single column organized by tag. That meant *everything* we posted would go out to *anyone* reading our blog. The concern here was that if we just started writing very technical posts and put them in this channel, it would be relevant to a technical subset of our audience, but not to everyone. On the flip side, developers that would come to our blog to read technical content wouldn't necessarily want to read or care about everything else we're doing - they're here for the engineering stuff.
+
+What we came up were "channels" - high level categories that would let us separate the major kinds of posts we'd be publishing. There are two main ones: company news and engineering. The company news channel would house all of the legacy content like podcasts, company announcements, and so forth. It would also let us add new kinds of content like those for internal culture and diversity related efforts. The engineering channel effectively became our solution for an engineering blog, and would host all of our technical walkthroughs, write-ups of evangelism efforts, and technical opinion pieces like we originally wanted.
+
+### Reposts
+![](http://i.stack.imgur.com/3mgAD.png)
+Another key part of this solution was the ability to repost. Many of the most popular posts related to Stack Exchange and especially the technical posts were decentralized, housed in our many developers' personal blogs. There was good reason for this: we very much believe that our developers should publicly get credit for the things that they build internally, and one of the best ways to claim it is to write about it on their personal blogs. Once we created an engineering channel, we didn't want to make our developers feel like they had to choose between posting on the company blog or their personal blog. It seemed like the wrong move.
+
+Instead, we came up with a different policy: post on your personal blog about your work just like you always have, and if you want to repost on the company blog for more exposure, we will do so with a prominent link to the original source. It does two things: it gives our technical audience the ability to get an inside look into how we build things while still giving credit to the people that build them.
+
+### Jekyll
+![](http://i.stack.imgur.com/L7DnN.png)
+Because WordPress makes us sad.
 
 ## RIP Wordpress, hello Jekyll
+During the original proposal stage for the engineering blog, we als
 
 ## Stack Exchange? Stack Overflow?
 The most notable thing that we changed is the overall design. We wanted to make something that people enjoy reading, exploring, and learning from. Most of all the things from the previous blog still exist: previous posts with archived comments, tagged posts sortable by category, and so on. We've also added some additional functionality here: new navigation that emphasizes our new channels and content, posts sortable by author, and better feeds with individual post pages for readability. Take a look around, there's a lot of changes we've made here.
 
-
-![](http://i.stack.imgur.com/jfB91.png)
 *A new navigation that emphasizes the new channels and subsections we want to emphasize*
 
 
