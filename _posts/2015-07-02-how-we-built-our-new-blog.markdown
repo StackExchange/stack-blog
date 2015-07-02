@@ -168,44 +168,9 @@ layout: null
 	<title>{{ site.name }}</title>
 	<atom:link href="{{ site.url }}/feed/" rel="self" type="application/rss+xml" />
 	<link>{{ site.url }}</link>
-	<description>free, community powered Q&#38;A</description>
-	<lastBuildDate>{{ site.time | date: "%a, %d %b %Y %T +0000" }}</lastBuildDate>
-	<language>en-US</language>
-		<sy:updatePeriod>hourly</sy:updatePeriod>
-		<sy:updateFrequency>1</sy:updateFrequency>
-	<generator></generator>
-	<copyright>Copyright © Stack Exchange, {{ site.time | date: "%Y" }}</copyright>
-	<managingEditor>podcast@stackoverflow.com (The Stack Exchange Team)</managingEditor>
-	<webMaster>podcast@stackoverflow.com (The Stack Exchange Team)</webMaster>
-	<ttl>1440</ttl>
-	<image>
-		<url>http://cdn.sstatic.net/stackexchange/img/apple-touch-icon.png</url>
-		<title>Blog - Stack Exchange</title>
-		<link>{{ site.url }}</link>
-		<width>144</width>
-		<height>144</height>
-	</image>
-	<itunes:subtitle>A look inside the Stack Exchange Network</itunes:subtitle>
-	<itunes:summary>Hosted by Joel Spolsky with Jay Hanlon and David Fullerton, the Stack Exchange podcast lets you listen in on discussions and decisions about the Stack Exchange Network. The Stack Exchange podcast gives you an unparalleled view into how a startup is created and built.
+	
+	...
 
-About Stack Exchange:
-Stack Exchange is a fast-growing network of over 100 question and answer sites on diverse topics from software programming to cooking to photography and gaming. We are an expert knowledge exchange: a place where physics researchers can ask each other about quantum entanglement, computer programmers can ask about JavaScript date formats, and photographers can share knowledge about taking great pictures in the snow.</itunes:summary>
-	<itunes:keywords>Programming, Stack, Exchange, Stack, Overflow, Computers, Technology, Information, Internet, Question, Answer, Q&#38;A</itunes:keywords>
-	<itunes:category text="Technology">
-		<itunes:category text="Software How-To" />
-	</itunes:category>
-	<itunes:category text="Technology">
-		<itunes:category text="Podcasting" />
-	</itunes:category>
-	<itunes:category text="Business" />
-	<itunes:author>The Stack Exchange Team</itunes:author>
-	<itunes:owner>
-		<itunes:name>The Stack Exchange Team</itunes:name>
-		<itunes:email>podcast@stackoverflow.com</itunes:email>
-	</itunes:owner>
-	<itunes:block>no</itunes:block>
-	<itunes:explicit>no</itunes:explicit>
-	<itunes:image href="http://cdn.sstatic.net/stackexchange/img/apple-touch-icon.png" />
 	{% for post in site.posts limit:40 %}
 		{% unless post.draft %}
 		<item>
@@ -307,35 +272,7 @@ $(document).ready(function() {
 		$(".posts").css("visibility", "visible");
 	}
 
-	if (typeof slug !== 'undefined') {
-		if (slug.length > 0 && $(".disqus").length > 0) {
-			$.getJSON(prefix + "/json/comments" + slug + ".json", function(response) {
-				if (response) {
-					comments = response.response
-					for (key in comments) {
-						comment = comments[key];
-						var html = '<div class="comment">';
-							html += '<a name="comment_' + key + '"></a>';
-							html += '<div class="-row">';
-								html += '<div class="header">';
-									html += '<img src="http://www.gravatar.com/avatar/' + comment.gravatar_hash + '?s=48&d=identicon&r=PG&f=1"/>';
-									html += '<p>';
-									if (comment.author_url !== null) html += '<a href="' + comment.author_url + '">';
-									html += comment.author_name;
-									if (comment.author_url !== null) html += '</a>';
-									html += '</p>';
-									html += '<p><a href="#comment_' + key + '">' + comment.date + '</a></p>'
-								html += '</div>';
-							html += '</div>';
-							html += '<div>' + comment.message + '</div>';
-						html += '</div>';
-						$(".disqus").prepend(html);
-					}
-					$(".disqus").prepend("<h3>" + comments.length + " archived comments</h3>");
-				}
-			})
-		}
-	}
+	...
 
 	function check_page() {
 		var href = window.location.hash;
@@ -346,7 +283,6 @@ $(document).ready(function() {
 				page = page_num;
 			}
 		}
-		console.log(prefix + "/json/index.json");
 		$.getJSON(prefix + "/json/index.json", function(response) {
 			console.log(response)
 			if (response) {
@@ -374,8 +310,6 @@ $(document).ready(function() {
 				response.posts = result;
 
 				data = response;
-
-				console.log(response);
 
 				set_page(page);
 
