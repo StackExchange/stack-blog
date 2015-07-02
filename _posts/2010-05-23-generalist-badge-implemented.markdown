@@ -26,7 +26,7 @@ The Generalist badge works as follows:
 
 
 <blockquote>
-Provided non-wiki answers of **15** total score in **20** of the top **40** tags.
+Provided non-wiki answers of <strong>15</strong> total score in <strong>20</strong> of the top <strong>40</strong> tags.
 </blockquote>
 
 
