@@ -126,6 +126,8 @@ In addition to the different methods, there are some basic guidelines to what is
  - Maximum width of any image should be 800 pixels
  - Do your best to avoid images with text in them, it makes it difficult to use as a background
 
+ Note that using our internal tool will host the images in the right place and also deal with resizing/compressing.
+
 **Drafts**
 
 You can always set your posts as drafts. You can do this by adding the line `draft: true` into the metadata of your post. Putting your post into draft mode means it won't show up anywhere that blog posts are listed, but you can still see the post at its individual URL.
@@ -191,6 +193,7 @@ If you are interested in making changes to the design, functionality, or structu
 gem install jekyll
 gem install jekyll-sitemap
 gem install jekyll-redirect-from
+gem install rouge
 ```
 
 **2. Run a local version of the blog.** Using Git, clone the latest version of this repository to your local machine using the following command:
