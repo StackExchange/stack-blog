@@ -4,6 +4,7 @@
 	<script type="text/javascript">
     
 	    var disqus_shortname = '{{ site.disqus }}'; 
+        var disqus_identifier = '{% if page.disqus_identifier %}{{ page.disqus_identifier}}{% else %}{{ site.url }}{{ page.url }}{% endif %}';
 
 	    (function() {
 	        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
