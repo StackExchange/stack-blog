@@ -4,7 +4,7 @@ import logging, hashlib, json, os, time
 
 dev = True
 api_key = "kxEiKFv9wfahgkphY5mHNw1XQa7eX2w9XSt6xVO0DIgavfR6IBPwIITjOPrJpk37"
-api_secret = "BdqGO6i11HdMSoXTbrQUR8THHIGiS3NHADnACpwEHHYjbqGVaymWR3ZwQGZogujm"
+api_secret = "" # Deprecated
 access_token = "d9f448464a2c4e7eb767217c445c6218"
 forum = "stackoverflowblog"
 
