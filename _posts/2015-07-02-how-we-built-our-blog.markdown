@@ -12,8 +12,6 @@ tags:
 - evangelism
 ---
 
-*Jon is a developer and heads up evangelism efforts at Stack Exchange. You can follow him on [Twitter](http://twitter.com/jonhmchan).*
-
 Yesterday, we [announced](http://blog.stackexchange.com/2015/07/the-new-stack-exchange-blog/) the redesign of our blog and the addition of our engineering channel. This is the first post related to engineering detailing a walkthrough of what we've built, and what better than to blog about rebuilding our blog on our new blog? How meta.
 
 ## It started with an engineering blog
@@ -478,3 +476,5 @@ For commenting moving forward, we would use Disqus with a blank slate. If they e
 This was a much larger project than I had originally anticipated, but I'm very happy with the results. Early feedback has been pretty positive, and while there were inevitably bugs with such a huge migration, with Meta and the code open sourced, we're fixing them quickly. We've even received pull requests already with changes and bug fixes.
 
 In the end, I'm glad that there's finally a single destination for our engineering team to reach out to the technical community we love being a part of. You'll see much more content like this from our engineering team moving forward, and we'd love to hear your feedback. Until next time!
+
+*Jon is a developer and heads up evangelism efforts at Stack Exchange. You can follow him on [Twitter](http://twitter.com/jonhmchan).*
