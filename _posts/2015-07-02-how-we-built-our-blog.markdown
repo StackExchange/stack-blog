@@ -451,7 +451,7 @@ for post in blog_data:
 		del(comment["author_email"])
 		del(comment["ip_address"])
 		date_posted = time.strptime(comment["date"], "%Y-%m-%d %H:%M:%S")
-		comment["date"] = time.strftime("%b %d, %Y")
+		comment["date"] = time.strftime("%b %d, %Y", date_posted)
 
 		result[slug].append(comment)
 
