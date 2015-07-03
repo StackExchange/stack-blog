@@ -5,9 +5,9 @@ for subdir, dirs, files in os.walk(rootdir):
     for file in files:
         filename = os.path.join(subdir, file)
 
-    	f = open(filename, "r")
-    	contents = f.readlines()
-    	f.close()
+	contents = ""
+    	with open(filename, "r") as f:
+    		contents = f.readlines()
 
     	# Get WordPress 
     	slug = filename.replace("_posts/", "").replace(".markdown", "")
