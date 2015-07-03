@@ -1,19 +1,20 @@
-import os, re, requests
+import os 
+import re 
+import requests
 rootdir = '_posts'
 
 for subdir, dirs, files in os.walk(rootdir):
     for file in files:
         filename = os.path.join(subdir, file)
 
-    	f = open(filename, "r")
-    	contents = f.readlines()
-    	f.close()
+        contents = ""
+    	with open(filename, "r") as f:
+    	    contents = f.readlines()
 
     	# Find first image
         if re.search('podcast', filename):
             if not re.search('^hero: ', contents[6]):
                 print filename
                 contents.insert(6, 'hero: /images/category/podcasts.jpg\n')
-                f = open(filename, "w")
-                f.write("".join(contents))
-                f.close()
+                with open(filename, "w") as f:
+                    f.write("".join(contents))
