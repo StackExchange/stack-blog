@@ -32,9 +32,9 @@ I can understand the curiosity. As a computer enthusiast, I am somewhat intrigue
 AI's problems began almost immediately when users started [asking the first questions](http://blog.stackoverflow.com/2010/07/area-51-asking-the-first-questions/):
 
 
-<blockquote>It has long been established that no question is too entry-level nor too basic. Everyone is welcome. But, in these earliest days, we are DESIGNING a site for experts. To attract experts, you need a site where people are asking very interesting and challenging questions, not the basic questions found on every other Q&A site. Remember, the pro sites WILL attract the enthusiasts, but not the other way around!
+>It has long been established that no question is too entry-level nor too basic. Everyone is welcome. But, in these earliest days, we are DESIGNING a site for experts. To attract experts, you need a site where people are asking very interesting and challenging questions, not the basic questions found on every other Q&A site. Remember, the pro sites WILL attract the enthusiasts, but not the other way around!
 
-**The earliest questions on a site will set the tone and topic of the site for a long time.**</blockquote>
+> **The earliest questions on a site will set the tone and topic of the site for a long time.**
 
 
 The AI site conspicuously lacked that "tone and topic" from day one, so it had nowhere to go and was closed down.

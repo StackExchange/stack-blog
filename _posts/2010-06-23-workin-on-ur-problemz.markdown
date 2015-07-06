@@ -48,13 +48,12 @@ But nothing is impossible for our talented community of users -- they totally na
 
 
 
-<blockquote>
+>
 Zoe, a domestic shorthair cat, touches the mouse of a computer during a media preview for The Cat Fanciers’ Association’s championship in New York October 10, 2007.
 
 > 
 > 
 ![](/images/wordpress/cat-zoe.jpg)
-</blockquote>
 
 
 

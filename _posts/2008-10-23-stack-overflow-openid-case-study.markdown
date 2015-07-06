@@ -20,7 +20,7 @@ tags:
 
 
 
-<blockquote>
+>
 Stack Overflow, much like Wikipedia, lets anyone edit anything – but unlike Wikipedia, we require users to earn a certain number of votes from other users before the system trusts them (we call this "reputation"). The concept of identity and logins is an essential part of how our site works.
 
 > 
@@ -34,7 +34,7 @@ With OpenID, we didn't have to write any login code, nor do we have to store use
 > 
 > 
 We were encouraged to use OpenID because our audience is fairly technical, and OpenID is quite common among technical bloggers and frequent blog participants, our early adopters. Also, there's a rich ecosystem of third party OpenID providers, not to mention Yahoo, AOL, Google, Sun, and soon MySpace.
-</blockquote>
+
 
 
 

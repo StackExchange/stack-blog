@@ -24,7 +24,7 @@ The premise of the BOF session is intriguing; it's not at all what I expected:
 
 
 
-<blockquote>
+>
 In concert with users online across the country, this session will lead **a flashmob to populate Stack Overflow with [R language content](http://stackoverflow.com/questions/tagged/r)**.
 
 > 
@@ -42,7 +42,7 @@ In the first hour, participants will pair up to claim a question, formulate it o
 > 
 > 
 While Stackoverflow currently lacks content for the R language, we believe this effort will provide the spark to attract more R users, and emerge as a valuable resource to the growing R community.
-</blockquote>
+
 
 
 

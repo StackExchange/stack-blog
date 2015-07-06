@@ -19,7 +19,7 @@ We knew in our hearts this day would come: _Stack Overflow has defeated Google!_
 
 
 
-<blockquote>
+>
 On July 2, from 6:45 AM PDT until 12:35 PM PDT, Google App Engine (App Engine) experienced an outage that ranged from partial to complete.
 
 > 
@@ -33,7 +33,6 @@ The GFS failure was abrupt for reasons described below, and as a consequence the
 > 
 > 
 The root cause of the outage was a bug in the GFS Master server caused by another client in the datacenter sending it an improperly formed filehandle which had not been safely sanitized on the server side, and **thus caused a stack overflow on the Master when processed.** 
-</blockquote>
 
 
 

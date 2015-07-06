@@ -26,7 +26,7 @@ There's a rather nice definition of the term **sysadmin** on the page, so if you
 
 
 
-<blockquote>
+>
  A **sysadmin** unpacked the server for this website from its box, installed an operating system, patched it for security, made sure the power and air conditioning was working in the server room, monitored it for stability, set up the software, and kept backups in case anything went wrong. All to serve this webpage.
 
 > 
@@ -52,7 +52,7 @@ A **sysadmin** is a professional, who plans, worries, hacks, fixes, pushes, advo
 > 
 > 
 So if you can read this, thank your **sysadmin** -- and know he or she is only one of dozens or possibly hundreds whose work brings you the email from your aunt on the West Coast, the instant message from your son at college, the free phone call from the friend in Australia, and this webpage.
-</blockquote>
+
 
 
 

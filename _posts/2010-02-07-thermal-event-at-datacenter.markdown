@@ -69,7 +69,7 @@ Update: PEAK official statement
 
 
 
-<blockquote>
+>
 The PEAK HVAC system consist of two cooling systems which both operate to provide cooling to the pressurized floor of data center. One system is a 5-ton and the second is a 10-ton unit.
 
 > 
@@ -87,7 +87,7 @@ Our HVAC vendor was dispatched and arrived on-site by 4:00am.  The vendor locate
 > 
 > 
 PEAK Engineers are looking into why this failure caused a significant rise in the Data Center temperature.  Based on our findings, PEAK will take the necessary actions to ensure a failure of  one systems does not cause a significant change in the Data Center temperature.  We will provide this information once it becomes available.
-</blockquote>
+
 
 
 

@@ -23,7 +23,7 @@ But I do want to share with you one of those emails, the one that made me proude
 
 
 
-<blockquote>
+>
 I'm not sure if you have thought about this side effect or not, but **Stack Overflow has taught me more about writing effectively than any class I've taken, book I've read, or any other experience I have had before**.
 
 > 
@@ -37,7 +37,7 @@ Over the course of the past 5 months all the answers I've been writing have been
 > 
 > 
 I know that you said that writing your Coding Horror blog helped you greatly in [refining your writing over the years](http://www.codinghorror.com/blog/archives/001184.html).  Stack Overflow has been doing the same for me and I just wanted to thank you for the opportunity.  I've decided to setup a coding blog in your footsteps and I just registered a domain today.  Hopefully that will go as well as writing on SO has. There are no tougher critics than fellow programmers who scrutinize every detail, every technical remark and grammar structure looking for mistakes.  If you can effectively write for and be accepted by a group of programmers you can write for anyone.
-</blockquote>
+
 
 
 
@@ -49,13 +49,13 @@ There's nothing I respect more than a great programmer. But if you can manage to
 
 
 
-<blockquote>
+>
 The difference between a tolerable programmer and a great programmer is not how many programming languages they know, and it's not whether they prefer Python or Java. **It's whether they can communicate their ideas.** By persuading other people, they get leverage. By writing clear comments and technical specs, they let other programmers understand their code, which means other programmers can use and work with their code instead of rewriting it. Absent this, their code is worthless. By writing clear technical documentation for end users, they allow people to figure out what their code is supposed to do, which is the only way those users can see the value in their code. There's a lot of wonderful, useful code buried on sourceforge somewhere that nobody uses because it was created by programmers who don't write very well (or don't write at all), and so nobody knows what they've done and their brilliant code languishes.
 
 > 
 > 
 I won't hire a programmer unless they can write, and write well, in English. If you can write, wherever you get hired, you'll soon find that you're getting asked to write the specifications and that means you're already leveraging your influence and getting noticed by management. 
-</blockquote>
+
 
 
 

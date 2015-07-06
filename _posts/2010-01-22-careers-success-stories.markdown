@@ -24,7 +24,7 @@ Here are a few recent success stories people have shared with us:
 
 
 
-<blockquote>
+>
 I was part of a mass layoff around Thanksgiving. That means another job search. So, I published my CV on SO Careers.
 
 > 
@@ -42,7 +42,7 @@ This same employer made me an offer 30 minutes after I left the interview. I am 
 > 
 > 
 --  Sean Massa
-</blockquote>
+
 
 
 
@@ -54,8 +54,8 @@ And another:
 
 
 
-<blockquote>
 I wanted to take a couple minutes to thank you all for your work on Stackoverflow careers.  I filed my CV last year and got my first hit last week.  The employer called me and brought me in for an interview.  Now I'm facing a job offer providing a 30% raise ... what sucks is I like my current job! 
+>
 
 > 
 > 
@@ -64,7 +64,7 @@ I just wanted you all to know your hard work and innovative ideas have impacted 
 > 
 > 
 --  a programmer in Georgia
-</blockquote>
+
 
 
 
@@ -76,7 +76,7 @@ And another:
 
 
 
-<blockquote>
+>
 I was currently employed but was in that 25% at DevDays that "hated their job and couldn’t wait to find something better." It wasn't the people I worked with or the work that I did necessarily; it was the culture and the nature of being in a "corporate" job; it was so political and difficult to get the tools I needed to do my job in the best way that I could (I ended up buying my own tools such as R# and even my own keyboard and mouse).
 
 > 
@@ -94,7 +94,7 @@ Thanks to all of you for building this community that has provided me and other 
 > 
 > 
 -- Jon Erickson
-</blockquote>
+
 
 
 
@@ -103,7 +103,7 @@ Thanks to all of you for building this community that has provided me and other 
 And another:
 
 
-<blockquote>
+>
 Stack Overflow Careers was directly responsible for me landing the perfect job at a local company here in Washington, DC. I am finally escaping the pain and suffering of being a government programmer.
 
 > 
@@ -121,7 +121,7 @@ I will absolutely recommend your product to all of my co-workers at my old offic
 > 
 > 
 -- Ryan Michela
-</blockquote>
+
 
 
 

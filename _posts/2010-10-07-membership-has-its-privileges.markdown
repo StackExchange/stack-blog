@@ -20,13 +20,12 @@ Our very own Benjamin Dumke opened [a meta topic about a year ago](http://meta.s
 
 
 
-<blockquote>
-Right now, crossing one of the magical rep borders happens more or less unnoticed. People just gain the particular powers. Now, of course they have eagerly been awaiting this moment, and want to start using their new powers instantly.
+> Right now, crossing one of the magical rep borders happens more or less unnoticed. People just gain the particular powers. Now, of course they have eagerly been awaiting this moment, and want to start using their new powers instantly.
 
-However, this leads to people -- usually with good intentions -- doing stuff that is actually discouraged ...
+> However, this leads to people -- usually with good intentions -- doing stuff that is actually discouraged ...
 
-I propose a pop-up saying something like **"You have earned the power to retag questions. Please read our retagging guidelines [link] for a short introduction"**.
-</blockquote>
+> I propose a pop-up saying something like **"You have earned the power to retag questions. Please read our retagging guidelines [link] for a short introduction"**.
+
 
 
 

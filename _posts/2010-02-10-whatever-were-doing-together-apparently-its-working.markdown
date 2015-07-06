@@ -19,13 +19,13 @@ We are in the enviable position of getting some very nice emails, as [I might ha
 
 
 
-<blockquote>
+>
 Just wanted to commend you on the fantastic site. I have heard a little of the behind-the-scenes so I know a lot of thought has gone into it, and I really like the result-- the community feels both professional and neighborly, with folks just helping out folks. And the really nice bit is that it's a one-stop-shop for many platforms/environments, completely obsoleting my need to be on random closed mailing lists and plunge through badly threaded forum archive viewers for the stuff I care about.
 
 > 
 > 
 You've really moved the vanguard forward for tech resources. Keep up the great work.
-</blockquote>
+
 
 
 
@@ -37,7 +37,7 @@ And also:
 
 
 
-<blockquote>
+>
 Just wanted to drop a note to the team and say thanks for building this site! It's very nearly free from a lot of things that forum/community solutions are plagued with, namely:
 
 > 
@@ -62,7 +62,7 @@ I've only been using it for a few weeks, but it feels like pure, unfiltered codi
 > 
 > 
 It's a breath of fresh air that encourages this really positive feeling in me - which makes me stop and take the time to answer others' questions, just because I find the site so damn helpful.
-</blockquote>
+
 
 
 

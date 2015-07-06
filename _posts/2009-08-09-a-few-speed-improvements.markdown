@@ -43,7 +43,7 @@ One of the [last remaining YSlow / Page Speed recommendations](http://meta.stack
 
 
 
-<blockquote>
+>
 When the browser makes a request for a static image and sends cookies together with the request, the server doesn't have any use for those cookies. So they only create network traffic for no good reason. You should make sure static components are requested with cookie-free requests. Create a subdomain and host all your static components there.
 
 > 

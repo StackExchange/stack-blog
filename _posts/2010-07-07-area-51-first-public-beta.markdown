@@ -25,13 +25,13 @@ Q&A site for experts and advanced users of web applications.Web Apps was one of 
 We've already received coverage on LifeHacker -- [Web Apps is a Q&A Forum for Web Application Enthusiasts](http://lifehacker.com/5580421/web-apps-is-a-qa-forum-for-web-application-enthusiasts). I don't think I can sum up our enthusiasm any better than they did:
 
 
-<blockquote>"Web Apps runs on the same engine and is developed by the same folks who  unleashed the incredible Stack Overflow on the world, and if Web Apps is  as helpful for advanced web users as Stack Overflow is for programmers,  it's definitely a site worth bookmarking."
+>"Web Apps runs on the same engine and is developed by the same folks who  unleashed the incredible Stack Overflow on the world, and if Web Apps is  as helpful for advanced web users as Stack Overflow is for programmers,  it's definitely a site worth bookmarking."
 
 > 
 > _Lifehacker, July, 2010_
 > 
 > 
-</blockquote>
+
 
 
 Come check it out while low user numbers are still available!

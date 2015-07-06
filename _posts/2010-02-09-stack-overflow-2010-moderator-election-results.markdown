@@ -53,13 +53,13 @@ Per the [OpenSTV FAQ](http://www.openstv.org/faq), we used the most accurate for
 
 
 
-<blockquote>
+>
 If you are electing one person and simplicity is not important, then we recommend Condorcet voting. Most people agree that Condorcet is the best method for electing one person, but it is more difficult to explain.
 
 > 
 > 
 If you are electing multiple people and simplicity is not important, then we recommend Meek STV. **Most people agree that Meek STV is the best variant of STV, but it can only be implemented with a computer program.**
-</blockquote>
+
 
 
 

@@ -62,7 +62,7 @@ Chris adds the following comments:
 
 
 
-<blockquote>
+>
 1. How will we coordinate the changes? Do we want to have a forum where people can post links to their repositories? (My repository is writable by me only -- but Git being a distributed VCS, this is not a problem, people just clone their own.) Or do you prefer to have a central repository that everyone checks into? In this case, I'm happy to check things into it -- or you can import it from my repository.
 
 > 
@@ -72,7 +72,7 @@ Chris adds the following comments:
 > 
 > 
 I'll try to get more changes checked in periodically, but I still have a ton of projects to clear, so getting the ball rolling with other coders would probably be a good idea.
-</blockquote>
+
 
 
 

@@ -17,13 +17,13 @@ tags:
 
 
 
-<blockquote>
+>
 Q: How do geeks know it's a holiday?
 
 > 
 > 
 A: Because the Google logo changed.
-</blockquote>
+
 
 
 

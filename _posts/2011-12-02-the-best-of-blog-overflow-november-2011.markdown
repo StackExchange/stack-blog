@@ -37,9 +37,9 @@ I'm going to be honest: despite my math minor, I didn't fully grasp this entry. 
 This past month, the TeX (pronounced like "tech" for those unaware) blog [interviewed one of their top users](http://tex.blogoverflow.com/2011/11/textalk-an-interview-with-lockstep/), lockstep. The interview itself is long but really interesting; he talks about his vocation, his work with TeX, and why he uses our TeX site. It's absolutely worth a read, even if (La)TeX isn't necessarily immediate in your life.
 
 
-<blockquote>**Paulo:** As Joseph mentioned, you are the biblatex expert and the one-man tagging machine on TeX.sx. How did you become aware of this community? :)
+>**Paulo:** As Joseph mentioned, you are the biblatex expert and the one-man tagging machine on TeX.sx. How did you become aware of this community? :)
 
-**lockstep:** I occasionally peruse comp.text.tex via Google (I do not participate, though). There was a post about a proposed stackexchange group dealing with TeX, and (half a year later or so) another post that the private beta had started. I decided to give tex.sx a try – it was already in public beta then. The rest is history. ;-)</blockquote>
+> **lockstep:** I occasionally peruse comp.text.tex via Google (I do not participate, though). There was a post about a proposed stackexchange group dealing with TeX, and (half a year later or so) another post that the private beta had started. I decided to give tex.sx a try – it was already in public beta then. The rest is history. ;-)
 
 
 **[English Language & Usage](http://english.blogoverflow.com/)**
