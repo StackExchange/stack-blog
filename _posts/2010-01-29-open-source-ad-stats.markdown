@@ -49,7 +49,7 @@ Remember, all it takes is a valid ad image and link posted to [current meta ads 
 
 
 <blockquote>
-It must be an advertisement **soliciting the participation and contribution of programmers writing actual source code.** This is not intended as a general purpose ad for consumer products which just happen to be open source. It's for finding programmers who will help contribute code or other programmery things (documentation, code review, bugfixes, etc).
+It must be an advertisement <strong>soliciting the participation and contribution of programmers writing actual source code.</strong> This is not intended as a general purpose ad for consumer products which just happen to be open source. It's for finding programmers who will help contribute code or other programmery things (documentation, code review, bugfixes, etc).
 </blockquote>
 
 

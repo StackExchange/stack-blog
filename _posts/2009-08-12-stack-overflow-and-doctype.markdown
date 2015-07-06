@@ -39,13 +39,13 @@ Well, I'm pleased to announce we have recruited another superhero into our leagu
 
 
 
-<blockquote>
+>
 Doctype is a free question and answer site for web designers. You can get fast solutions to your CSS, HTML, web design and email design problems.
 
 > 
 > 
 For each question, **Doctype can generate screenshots of your design on any browser or email client**. This makes it much easier for other people to see the problem and help you fix it.
-</blockquote>
+
 
 
 

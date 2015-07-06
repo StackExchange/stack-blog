@@ -28,7 +28,7 @@ We're not exactly like wikipedia, because we are a hybrid system, but it's worth
 
 
 
-<blockquote>
+>
 Edit warring is the confrontational use of edits to win a content dispute. Administrators often must make a judgment call to identify edit warring when cooling disputes. Administrators currently use several measures to determine if a user is edit warring.
 
 > 
@@ -42,7 +42,7 @@ Edit warring is different from a bold, revert, discuss (BRD) cycle. Reverting va
 > 
 > 
 Edit warring is a behavior, not a simple measure of the number of reverts on a single page in a specific period of time.
-</blockquote>
+
 
 
 
@@ -54,13 +54,13 @@ And then there's the list of [the lamest Wikipedia Edit Wars](http://en.wikipedi
 
 
 
-<blockquote>
+>
 [Pavlova (food)](http://en.wikipedia.org/wiki/Pavlova_(food))
 
 > 
 > 
 Not the dancer, but rather the tasty antipodean dessert, which was invented in Australia[[4]](http://en.wikipedia.org/w/index.php?title=Pavlova_%28food%29&diff=48848026&oldid=48838557), New Zealand [[5]](http://en.wikipedia.org/w/index.php?title=Pavlova_%28food%29&diff=next&oldid=57435397), Australia[[6]](http://en.wikipedia.org/w/index.php?title=Pavlova_%28food%29&diff=next&oldid=51738981), [[7]](http://en.wikipedia.org/w/index.php?title=Pavlova_%28food%29&diff=next&oldid=66646396), [[8]](http://en.wikipedia.org/w/index.php?title=Pavlova_%28food%29&diff=next&oldid=74867687), New Zealand [[9]](http://en.wikipedia.org/w/index.php?title=Pavlova_%28food%29&diff=next&oldid=57435397), [Rabbit Season](http://en.wikipedia.org/wiki/Rabbit_Fire), Duck Season, fire!
-</blockquote>
+
 
 
 

@@ -39,9 +39,9 @@ Simply **mail a Self-Addressed Stamped Envelope** to:
 
 
 <blockquote>
-Stack Overflow Stickers
-Stack Exchange, Inc
-110 William St, 28th Floor
+Stack Overflow Stickers<br/>
+Stack Exchange, Inc<br/>
+110 William St, 28th Floor<br/>
 New York, NY 10038
 </blockquote>
 

@@ -29,7 +29,7 @@ I was amused to discover [this hilarious Onion article](http://www.theonion.com/
 
 
 
-<blockquote>
+>
 "I don't know how I wound up at that point, but thank God I escaped when I did," Gibson, 41, said Friday. "There I was, a grown man, planning a trip to the Mustard Museum in Wisconsin, when suddenly I heard a voice deep within me say, 'This is not what you want your life to be about.'"
 
 > 
@@ -43,7 +43,7 @@ I was amused to discover [this hilarious Onion article](http://www.theonion.com/
 > 
 > 
 Gibson's descent into the depths of mustard obsession started innocently enough, when he got involved in an Internet exchange about the best kind of mustard to use on a grilled bratwurst. When someone posted a link encouraging him to "click on this if you really want to spice things up," he took the stranger's advice and suddenly found himself on MustardMonster.com, a discussion group devoted to the cultivation, preparation, and enjoyment of the table-side condiment.
-</blockquote>
+
 
 
 

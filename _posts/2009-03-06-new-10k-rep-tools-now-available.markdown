@@ -19,7 +19,7 @@ Those 10,000 reputation tools I promised, [lo those many moons ago?](http://blog
 
 
 
-<blockquote>
+>
 
 > 
 > Congratulations on achieving 10,000 reputation!
@@ -66,7 +66,6 @@ Those 10,000 reputation tools I promised, [lo those many moons ago?](http://blog
 >   * recent questions with most vote velocity
 > 
 
-</blockquote>
 
 
 
@@ -86,9 +85,9 @@ These are **the same tools we use** to keep an eye on the system and make sure n
 
 
 
-<blockquote>
 We don't run Stack Overflow. _You_ do. Stack Overflow is **collaboratively built and maintained by your fellow programmers**. Once the system learns to trust you, you'll be able to edit anything, much like Wikipedia. With your help, we can build good answers to every imaginable programming question together. No matter what programming language you use, or what operating system you call home -- better programming is our goal. 
-</blockquote>
+>
+
 
 
 

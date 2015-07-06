@@ -26,7 +26,7 @@ Protected questions are indicated in the standard question footer like so:
 
 
 
-<blockquote>
+>
 
 > 
 > ## protected by {moderator name} 3 days ago
@@ -37,7 +37,7 @@ Protected questions are indicated in the standard question footer like so:
 > This question is protected to prevent "thanks", "me too!", and spam posts from new users. To answer it, you must have more than 10 reputation.
 > 
 > 
-</blockquote>
+
 
 
 

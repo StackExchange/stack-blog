@@ -19,7 +19,7 @@ Joel mentioned this in passing on one of the podcasts, but I didn't want to stea
 
 
 
-<blockquote>
+>
 We decided to launch a series of Stack Overflow events: the first gathering of the tribe of great developers making Stack Overflow so successful that [over 90% of questions get answered](http://blog.stackoverflow.com/2009/05/joel-talks-about-stack-overflow-at-google/).
 
 > 
@@ -62,7 +62,7 @@ For smart programmers who are interested in learning about something a little bi
 > 
 > 
 The conference is for programmers. The conversation is going to be hard core. Speakers are going to be writing code.
-</blockquote>
+
 
 
 

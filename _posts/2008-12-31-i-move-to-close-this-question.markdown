@@ -29,9 +29,9 @@ I had a long email exchange with an avid Stack Overflow user, [Mike Stone](http:
 
 
 
-<blockquote>
+>
 Visit any online forum and you'll find lots of locked threads. Closing is equivalent to locking a thread. **Would you really argue that every online bulletin board should allow any topic whatsoever to be opened and discussed?** If so then maybe Stack Overflow is not the place for you, because that is definitely not the intent. Based on all the data I've seen, closing is working. So is voting. They complement each other!
-</blockquote>
+
 
 
 

@@ -20,13 +20,13 @@ Based on the discussion about [The Stack Overflow Question Lifecycle](http://blo
 
 
 
-<blockquote>
+>
 [Programming Related](http://blog.stackoverflow.com/2008/10/a-question-about-questions/) Queston -> Answers!
 
 > 
 > 
 [Non-Programming Related](http://blog.stackoverflow.com/2008/10/a-question-about-questions/) Question -> Closed -> Deleted (eventually, depending)
-</blockquote>
+
 
 
 

@@ -76,7 +76,7 @@ I started to wonder if there were other edge conditions in advanced Markdown syn
 
 
 
-<blockquote>
+>
 **1) Markdown's single biggest flaw is its intra-word emphasis.**
 
 > 
@@ -215,10 +215,9 @@ I think this is a symptom of Markdown's being designed for blog posts.  You can 
 > 
 In my mind, this last one is huge.  If we allowed Markdown within block-level HTML, we could write a non-lossy version of [html2text](http://www.aaronsw.com/2002/html2text/) and make my dream of Markdown as a transient editing format a reality.
 
-> 
-> 
-Oh, also?  The HTML parser is pretty broken, so what gets recognized as a complete block of HTML can sometimes be surprising.  But Showdown uses an older, even-more-broken algorithm than the latest Markdown.pl beta, so I probably shouldn't point fingers.
-</blockquote>
+>
+> Oh, also?  The HTML parser is pretty broken, so what gets recognized as a complete block of HTML can sometimes be surprising.  But Showdown uses an older, even-more-broken algorithm than the latest Markdown.pl beta, so I probably shouldn't point fingers.
+
 
 
 

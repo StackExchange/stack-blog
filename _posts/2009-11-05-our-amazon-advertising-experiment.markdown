@@ -40,7 +40,7 @@ Thus, Portman generously offered to build a custom ad-serving site for us, which
 
 
 
-<blockquote>
+>
 Rads has three main components:
 
 > 
@@ -59,7 +59,7 @@ Rads has three main components:
 > 
 > 
 The spider was fed the top 5000 tags on Stack Overflow. For each tag, it preformed a keyword search on the “Computers & Internet” node, returning the top 10 books with five-star reviews, sorted by number of reviews.
-</blockquote>
+
 
 
 

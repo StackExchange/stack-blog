@@ -21,7 +21,7 @@ We're launching the Server Fault private beta tonight. What is Server Fault?
 
 
 
-<blockquote>
+>
 **Server Fault is for system administrators and IT professionals, people who manage or maintain computers in a professional capacity**. If you are in charge of ...
 
 > 
@@ -37,7 +37,7 @@ We're launching the Server Fault private beta tonight. What is Server Fault?
 >   * many desktop PCs (other than your own)
 
 ... then you're in the right place to ask your question! Well, as long as the question is about your servers, your networks, or your desktops, anyway.
-</blockquote>
+
 
 
 

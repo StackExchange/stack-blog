@@ -77,7 +77,7 @@ The source merge question isn't deleted, yet; once its answers have been merged 
 
 
 
-<blockquote>
+>
 
 > 
 > ## merged by Jeff Atwood ♦ 8 secs ago
@@ -88,7 +88,7 @@ The source merge question isn't deleted, yet; once its answers have been merged 
 > this question was merged with [Regular expression to find URLs not inside a hyperlink](http://stackoverflow.com/questions/1315653/regular-expression-to-find-urls-not-inside-a-hyperlink) because it is an exact duplicate of that question.
 > 
 > 
-</blockquote>
+
 
 
 

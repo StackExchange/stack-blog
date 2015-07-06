@@ -18,11 +18,11 @@ Paul Graham's [Hacker News](http://news.ycombinator.com/) is a great website to 
 It is true that **discussion on Hacker News is more serious and less incendiary than the wild-west anything goes of programming.reddit.com**. I've seen this firsthand, on blog articles I've written that have been posted to both sites. In [What I've Learned from Hacker News](http://www.paulgraham.com/hackernews.html), Paul explains:
 
 
-<blockquote>It's pretty clear now that the broken windows theory applies to community sites as well. The theory is that minor forms of bad behavior encourage worse ones: that a neighborhood with lots of graffiti and broken windows becomes one where robberies occur. I was living in New York when Giuliani introduced the reforms that made the broken windows theory famous, and the transformation was miraculous. And I was a Reddit user when the opposite happened there, and the transformation was equally dramatic.
+> It's pretty clear now that the broken windows theory applies to community sites as well. The theory is that minor forms of bad behavior encourage worse ones: that a neighborhood with lots of graffiti and broken windows becomes one where robberies occur. I was living in New York when Giuliani introduced the reforms that made the broken windows theory famous, and the transformation was miraculous. And I was a Reddit user when the opposite happened there, and the transformation was equally dramatic.
 
-I'm not criticizing Steve and Alexis. What happened to Reddit didn't happen out of neglect. From the start they had a policy of censoring nothing except spam. Plus Reddit had different goals from Hacker News. Reddit was a startup, not a side project; its goal was to grow as fast as possible. Combine rapid growth and zero censorship, and the result is a free for all. But I don't think they'd do much differently if they were doing it again. Measured by traffic, Reddit is much more successful than Hacker News.
+> I'm not criticizing Steve and Alexis. What happened to Reddit didn't happen out of neglect. From the start they had a policy of censoring nothing except spam. Plus Reddit had different goals from Hacker News. Reddit was a startup, not a side project; its goal was to grow as fast as possible. Combine rapid growth and zero censorship, and the result is a free for all. But I don't think they'd do much differently if they were doing it again. Measured by traffic, Reddit is much more successful than Hacker News.
 
-But what happened to Reddit won't inevitably happen to HN.</blockquote>
+> But what happened to Reddit won't inevitably happen to HN.
 
 
 It's a good read for anyone interested in building communities online. As you might imagine, I read it with particular interest since we've been running a full blown (and far larger than I would have predicted) programming community over the last 7 months.
@@ -32,9 +32,9 @@ Perhaps the most notable difference between Hacker News and Reddit is that **it'
 (update: Apparently it _is_ possible to downvote comments, which I never realized. It is [buried in the faq](http://ycombinator.com/newsfaq.html):)
 
 
-<blockquote>**Why don't I see down arrows?**
+> **Why don't I see down arrows?**
 
-There are no down arrows on submissions. They only appear on comments after users reach a certain karma threshold [ed: this is unstated for some bizarre reason, but it is currently 100].</blockquote>
+> There are no down arrows on submissions. They only appear on comments after users reach a certain karma threshold [ed: this is unstated for some bizarre reason, but it is currently 100].
 
 
 (I apologize for my misunderstanding, but there's no visible UI for downvoting, and I can't recall ever seeing a single negative voted comment in all the times I've visited Hacker News! Also, I put these comments in parens to make them extra-LISPy so Paul Graham would see my corrections.)
@@ -54,11 +54,11 @@ If you add back in the negatives, suddenly the range is doubled. An evil or inco
 But getting downvoted isn't anyone's idea of a good time. It's tempting to disallow it entirely, to avoid [this inevitable discussion](http://stackoverflow.uservoice.com/pages/general/suggestions/133310-discourage-downvoting):
 
 
-<blockquote>Please do something else to discourage downvoting. Maybe increase the cost to the downvoter (there's already a "declined" on force user to comment on downvoting).
+> Please do something else to discourage downvoting. Maybe increase the cost to the downvoter (there's already a "declined" on force user to comment on downvoting).
 
-This isn't about points. It's about participation. Downvoting should be reserved for nasty/offensive/stupid/poorly-thought-out/totally-off-base comments. If someone spends the time to make an honest effort to answer a question, but it's not that great an answer, just don't upvote them... Downvoting sends a message, "We disapprove. You spent your valuable time, but we don't care." It makes me think, why should I bother spending the time to write up answers for this forum?
+> This isn't about points. It's about participation. Downvoting should be reserved for nasty/offensive/stupid/poorly-thought-out/totally-off-base comments. If someone spends the time to make an honest effort to answer a question, but it's not that great an answer, just don't upvote them... Downvoting sends a message, "We disapprove. You spent your valuable time, but we don't care." It makes me think, why should I bother spending the time to write up answers for this forum?
 
-I stopped posting on several usenet newsgroups because the major participants were just nasty and sarcastic. Don't let this happen to Stack Overflow.</blockquote>
+> I stopped posting on several usenet newsgroups because the major participants were just nasty and sarcastic. Don't let this happen to Stack Overflow.
 
 
 You could argue that the saner level of discussion on Hacker News is because downvotes are disallowed. I'm not so sure; I think it's more attributable to the fact that Hacker News is relatively young, having launched in February 2007, and the small (but growing) size of the community.

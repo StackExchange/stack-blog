@@ -63,13 +63,13 @@ If this thing we've been doing for the past year has been a success, I can't tak
 
 
 
-<blockquote>
+>
 This is the scary part, the great leap of faith that Stack Overflow is predicated on: **trusting your fellow programmers**. The programmers who choose to participate in Stack Overflow are the “secret sauce” that makes it work. You are the reason I continue to believe in developer community as the greatest source of learning and growth. You are the reason I continue to get so many positive emails and testimonials about Stack Overflow. I can’t take credit for that. But you can.
 
 > 
 > 
 I learned the collective power of my fellow programmers long ago writing on Coding Horror. The community is far, far smarter than I will ever be. All I can ask — all any of us can ask — is to help each other along the path.
-</blockquote>
+
 
 
 

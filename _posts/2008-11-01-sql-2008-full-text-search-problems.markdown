@@ -19,7 +19,7 @@ You may have noticed that things have been less responsive than usual on stackov
 
 
 
-<blockquote>
+>
 **Before 2008, full text search wasn't inside the database - it wasn't subject to things like transactions.**  Heck, it was more like Lucene where it lived outside on its own.  Now, it's stored inside data files and it's subject to transactions.  From what im hearing, blocking and locking is a completely new issue in 2008 FTS.  There's a big overhead involved with making it subject to transactions.
 
 > 
@@ -29,7 +29,7 @@ In most environments, you don't see full text being used for transactions.  At S
 > 
 > 
 If you do a full text search on Revisions and you include a common keyword like, say, SQL, you're going to match tens of thousands of records.  When I look at the query plans for these, I'm seeing 50-100k reads.  Doing that inside a table that's also getting heavy inserts - boom, transactional disaster.
-</blockquote>
+
 
 
 

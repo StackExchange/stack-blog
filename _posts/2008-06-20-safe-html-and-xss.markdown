@@ -44,7 +44,7 @@ That's [cross-site-scripting (XSS)](http://en.wikipedia.org/wiki/Cross-site_scri
 
 
 <blockquote>
-In recent years XSS surpassed buffer overflows to become the most common of all publicly reported security vulnerabilities. [ed: [the last time I wrote about this](http://www.codinghorror.com/blog/archives/000841.html), in early 2007, buffer overflows were more common.] Likely at least 70% of websites are open to XSS attacks on their users. Site administrators rarely fix XSS problems and, when they do, the hole is likely to have been open for more than a month and a half. In general, cross-site scripting holes can be seen as vulnerabilities present in web pages which allow attackers to bypass security mechanisms. By finding clever ways of injecting malicious scripts into web pages, an attacker can gain elevated access privileges to sensitive page content, session cookies, and a variety of other objects.
+In recent years XSS surpassed buffer overflows to become the most common of all publicly reported security vulnerabilities. [ed: <a href="http://www.codinghorror.com/blog/archives/000841.html">the last time I wrote about this</a>, in early 2007, buffer overflows were more common.] Likely at least 70% of websites are open to XSS attacks on their users. Site administrators rarely fix XSS problems and, when they do, the hole is likely to have been open for more than a month and a half. In general, cross-site scripting holes can be seen as vulnerabilities present in web pages which allow attackers to bypass security mechanisms. By finding clever ways of injecting malicious scripts into web pages, an attacker can gain elevated access privileges to sensitive page content, session cookies, and a variety of other objects.
 </blockquote>
 
 

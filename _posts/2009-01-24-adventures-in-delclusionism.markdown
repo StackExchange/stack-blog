@@ -20,13 +20,11 @@ In Wikipedia, there are two opposing camps: [the inclusionists and the deletioni
 
 
 
-<blockquote>
-**Inclusionists** believe that there should be no constraints on the breadth of the encyclopedia - that Wikipedia should include any entry that any contributor wants to submit. An article on a small-town elementary school is no less worthy for inclusion than an article on Stanford University.
+> **Inclusionists** believe that there should be no constraints on the breadth of the encyclopedia - that Wikipedia should include any entry that any contributor wants to submit. An article on a small-town elementary school is no less worthy for inclusion than an article on Stanford University.
 
 > 
 > 
 **Deletionists** believe in weeding out entries that they view as trivial or otherwise inappropriate for a serious encyclopedia.
-</blockquote>
 
 
 
@@ -78,8 +76,7 @@ But let me share with you a thoughtful email I received from Christian Nunciato 
 
 
 
-<blockquote>
-On to my question.  I realize users have the ability to delete their own questions, which does seem right and good on the surface of things, but I have to say, it's a shame when some of us put such time and consideration into submitting thoughtful and complete answers, only to have the questions removed from the site inexplicably.  I'm writing in reference specifically to this one:
+> On to my question.  I realize users have the ability to delete their own questions, which does seem right and good on the surface of things, but I have to say, it's a shame when some of us put such time and consideration into submitting thoughtful and complete answers, only to have the questions removed from the site inexplicably.  I'm writing in reference specifically to this one:
 
 > 
 > 
@@ -89,10 +86,9 @@ On to my question.  I realize users have the ability to delete their own questio
 > 
 ... which I thought was an excellent question, and one other site users might ultimately benefit from; it digs a bit into the arcana of the language, and it's interesting stuff for those looking to deepen their understanding.  For some reason, though, it looks like the OP chose to take it down, which is a shame, because I personally spent a good deal of time drafting a submission for it, one that was upvoted and appeared to fix the user's problem and then some.
 
-> 
-> 
-I'm not asking for anything, though -- I just wanted to share that it's mildly discouraging to have put such work into something, in an attempt to contribute to the community, only to have the product taken down inexplicably and without recourse.  While the knowledge of having written it stays with me, which is great, it doesn't get out into the world, and it'll also make me think twice about spending as much time next time -- something that, as site owners, you might want to be aware of.  
-</blockquote>
+>
+>
+I'm not asking for anything, though -- I just wanted to share that it's mildly discouraging to have put such work into something, in an attempt to contribute to the community, only to have the product taken down inexplicably and without recourse.  While the knowledge of having written it stays with me, which is great, it doesn't get out into the world, and it'll also make me think twice about spending as much time next time -- something that, as site owners, you might want to be aware of.
 
 
 

@@ -19,7 +19,7 @@ Geoff, Jarrod and I recently [recorded an episode of Hanselminutes](http://www.h
 
 
 
-<blockquote>
+>
 
 > 
 > **StackOverflow uses ASP.NET MVC - Jeff Atwood and his technical team**
@@ -34,7 +34,7 @@ Geoff, Jarrod and I recently [recorded an episode of Hanselminutes](http://www.h
 > 
 > 
 [Listen or download](http://www.hanselminutes.com/default.aspx?showID=152)
-</blockquote>
+
 
 
 

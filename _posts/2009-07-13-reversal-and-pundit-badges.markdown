@@ -20,7 +20,6 @@ Two new badges today:
 
 
 
-<blockquote>
 
 > 
 > ## [Reversal](http://stackoverflow.com/badges/95/reversal)
@@ -30,7 +29,6 @@ Two new badges today:
 > 
 > 
 Provided an answer upvoted 20 or more times to a question that was downvoted 5 or more times. (gold)
-</blockquote>
 
 
 
@@ -41,7 +39,6 @@ Provided an answer upvoted 20 or more times to a question that was downvoted 5 o
 
 
 
-<blockquote>
 
 > 
 > ## [Pundit](http://stackoverflow.com/badges/94/pundit)
@@ -51,7 +48,6 @@ Provided an answer upvoted 20 or more times to a question that was downvoted 5 o
 > 
 > 
 Left 10 comments with a score of 10 or more. (silver)
-</blockquote>
 
 
 

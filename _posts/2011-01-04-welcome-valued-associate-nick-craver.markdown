@@ -29,21 +29,13 @@ Apparently Nick's membership to Stack Overflow predates even Jon Skeet's, but he
 
 
 
-<blockquote>
-Every day, my guild leader faced a decision: play WoW, or work toward becoming a paramedic. If she played WoW, she'd have fun, and advance a character or improve the guild in some small but measurable way. If she worked toward becoming a paramedic, her progress would be much less visible. It's easy to say that on any given day, the decision doesn't really matter. But every day spent on WoW drove her in circles, and every day spent studying paramedicine would have brought her one day closer to her goal. **And days add up, like it or not. We cannot stop them from doing so. What we can do is decide what they add up to.**
-
-> 
-> 
-I didn't want to look around one day and discover I'd turned into my guild leader, dreams on the horizon but unachieved because my days added up to nothing. The idea frightened and depressed me.
-
-> 
-> 
-So I quit. I quit hard enough that the way the game had pulled me in the last time wasn't an option anymore. And instead of spending an hour every day doing my daily quests in-game, I spent an hour every day doing "daily quests" in real life - I started working out. I started leveling my actual skills and stats.
-
-> 
-> 
--- [Doing My Dailies: Why I Quit WoW And Started Working Out](http://www.pixelpoppers.com/2010/12/doing-my-dailies-why-i-quit-wow-and.html)
-</blockquote>
+> Every day, my guild leader faced a decision: play WoW, or work toward becoming a paramedic. If she played WoW, she'd have fun, and advance a character or improve the guild in some small but measurable way. If she worked toward becoming a paramedic, her progress would be much less visible. It's easy to say that on any given day, the decision doesn't really matter. But every day spent on WoW drove her in circles, and every day spent studying paramedicine would have brought her one day closer to her goal. **And days add up, like it or not. We cannot stop them from doing so. What we can do is decide what they add up to.**
+>
+> I didn't want to look around one day and discover I'd turned into my guild leader, dreams on the horizon but unachieved because my days added up to nothing. The idea frightened and depressed me.
+>
+> So I quit. I quit hard enough that the way the game had pulled me in the last time wasn't an option anymore. And instead of spending an hour every day doing my daily quests in-game, I spent an hour every day doing "daily quests" in real life - I started working out. I started leveling my actual skills and stats.
+>
+> -- [Doing My Dailies: Why I Quit WoW And Started Working Out](http://www.pixelpoppers.com/2010/12/doing-my-dailies-why-i-quit-wow-and.html)
 
 
 
