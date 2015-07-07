@@ -39,7 +39,7 @@ layout: author
 id: [username, must be same as file name]
 name: [your full name]
 job: [job title]
-avatar: [url to an image to be used with all your posts. Most people use their twitter pic url]
+avatar: [url to an image to be used with all your posts. Most people use their Gravatar pic url]
 twitter: [your twitter handle, without the @]
 website: [url to your personal site, optional. You can remove this entire line if you don't have one.]
 ---
@@ -51,7 +51,7 @@ layout: author
 id: jonhmchan
 name: Jon Chan
 job: Web Developer
-avatar: https://pbs.twimg.com/profile_images/519220131243646977/79kxjMuY_400x400.jpeg
+avatar: https://www.gravatar.com/avatar/0090f1f22a03e38ca61dc955e1d0a346?s=100
 twitter: jonhmchan
 website: http://www.jonhmchan.com/
 ---
