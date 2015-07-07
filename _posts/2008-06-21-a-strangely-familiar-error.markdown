@@ -29,7 +29,7 @@ Ah yes, [the elusive stack overflow](http://en.wikipedia.org/wiki/Stack_overflow
 
 
 <blockquote>
-In software, a stack overflow occurs when too much memory is used on the [call stack](http://en.wikipedia.org/wiki/Call_stack). In many programming languages the call stack contains a limited amount of memory, usually determined at the start of the program. The size of the call stack depends on many factors, including the programming language, machine architecture, multi-threading, and amount of available memory. When too much memory is used on the call stack the stack is said to overflow; typically resulting in a program crash. This class of software bug is usually caused by one of two types of programming errors: **infinite recursion**, or **very large stack variables**.
+In software, a stack overflow occurs when too much memory is used on the <a href="http://en.wikipedia.org/wiki/Call_stack">call stack</a>. In many programming languages the call stack contains a limited amount of memory, usually determined at the start of the program. The size of the call stack depends on many factors, including the programming language, machine architecture, multi-threading, and amount of available memory. When too much memory is used on the call stack the stack is said to overflow; typically resulting in a program crash. This class of software bug is usually caused by one of two types of programming errors: <strong>infinite recursion</strong>, or <strong>very large stack variables</strong>.
 </blockquote>
 
 

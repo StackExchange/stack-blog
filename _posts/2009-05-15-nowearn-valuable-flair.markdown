@@ -20,7 +20,7 @@ You know what you need? Besides a haircut, I mean? [More flair](http://www.imsdb
 
 
 
-<blockquote>
+>
 
 > 
 > 
@@ -75,7 +75,7 @@ terrific smile.
 **People can get a cheeseburger anywhere, ok? They come to Chotchkie's 
 for the atmosphere and the attitude. That's what the flair's about. 
 It's about fun.
-</blockquote>
+
 
 
 

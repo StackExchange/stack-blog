@@ -50,7 +50,7 @@ First, to understand our position on OpenID, please read [Does The World Really 
 
 
 <blockquote>
-I realize that OpenID is far from an ideal solution. But **right now, the one-login-per-website problem is so bad that I am willing to accept these tradeoffs for a partial worse is better solution**. There's absolutely no way I'd put my banking credentials behind an OpenID. But there are also dozens of sites that I don't need anything remotely approaching banking-grade security for, and I use these sites far more often than my bank. The collective pain of remembering all these logins -- and the way my email inbox becomes a de-facto collecting point and security gateway for all of them -- is substantial.
+I realize that OpenID is far from an ideal solution. But <strong>right now, the one-login-per-website problem is so bad that I am willing to accept these tradeoffs for a partial worse is better solution</strong>. There's absolutely no way I'd put my banking credentials behind an OpenID. But there are also dozens of sites that I don't need anything remotely approaching banking-grade security for, and I use these sites far more often than my bank. The collective pain of remembering all these logins -- and the way my email inbox becomes a de-facto collecting point and security gateway for all of them -- is substantial.
 </blockquote>
 
 

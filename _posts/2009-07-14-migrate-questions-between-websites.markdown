@@ -22,13 +22,13 @@ First, I've got a little joke for you, [courtesy of Kip and TheTxi](http://meta.
 
 
 
-<blockquote>
+>
 A doctor, a lawyer, and a rabbi log into Stack Overflow.
 
 > 
 > 
 The bartender looks at them and says "sorry, you guys are not programming related."
-</blockquote>
+
 
 
 

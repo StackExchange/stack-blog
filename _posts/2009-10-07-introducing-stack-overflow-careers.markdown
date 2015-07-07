@@ -22,7 +22,7 @@ When we integrated [jobs.stackoverflow.com](http://jobs.stackoverflow.com/), I d
 
 
 <blockquote>
-That said, this is just a start on the careers front. We have some more innovative things we are working on in this area that we hope to roll out in the next 6 to 8 weeks. Like, say, wouldn’t it be cool if your CV listed the stuff programmers really care about, such as [your first computer](http://stackoverflow.com/questions/102714/what-was-your-first-home-computer) …
+That said, this is just a start on the careers front. We have some more innovative things we are working on in this area that we hope to roll out in the next 6 to 8 weeks. Like, say, wouldn’t it be cool if your CV listed the stuff programmers really care about, such as <a href="http://stackoverflow.com/questions/102714/what-was-your-first-home-computer">your first computer</a> …
 </blockquote>
 
 
@@ -47,7 +47,7 @@ Sam Saffron correctly identified our key goals in a [speculative meta post](http
 
 
 
-<blockquote>
+>
 I know what you're thinking, there is already the woeful non-international, poorly targeted, tiny note on every page and a check box on your profile that does nothing.
 
 > 
@@ -65,7 +65,7 @@ Nonetheless, employers are willing to pay lots of money to find good people, and
 >   * Create a new entity that does jobs better, partner with local job agencies.
 
 >   * Collect more information from the end users. Eg. Would you be willing to move? Would you be willing to work from home? Looking for contract or full time? Etc …
-</blockquote>
+
 
 
 

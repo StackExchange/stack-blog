@@ -20,47 +20,21 @@ tags:
 
 
 
-<blockquote>
-                **What kind of questions can I ask here?**
-            
-> 
-> 
-                Programming questions, of course! As long as your question is:
-> 
-> 
-            
-> 
-> 
-                
+> **What kind of questions can I ask here?**
+>
+> Programming questions, of course! As long as your question is:
+>
 >   * detailed and specific
-> 
-                
 >   * written clearly and simply
-> 
-                
 >   * of interest to at least one other programmer somewhere
-> 
-            
-            
-> 
-> 
-                ... it is welcome here. No question is too trivial or too "newbie". Oh yes, and it should be about **programming**. You know, with a computer.
-> 
-> 
-            
-> 
-> 
-                Do look around to see if your question has already been asked (and maybe even answered!) _before_ you ask. However, as long as you've looked, if you end up asking a question that has been asked before, that is OK and deliberately allowed. Other users will hopefully edit in links to related or similar questions to help future visitors find their way.
-            
-> 
-> 
-            
-> 
-> 
-                It's also perfectly fine to ask and answer your own programming question, but pretend you're on [Jeopardy](http://en.wikipedia.org/wiki/Jeopardy!): phrase it in the form of a question.
-> 
-> 
-</blockquote>
+>
+> ... it is welcome here. No question is too trivial or too "newbie". Oh yes, and it should be about **programming**. You know, with a computer.
+>
+>
+> Do look around to see if your question has already been asked (and maybe even answered!) _before_ you ask. However, as long as you've looked, if you end up asking a question that has been asked before, that is OK and deliberately allowed. Other users will hopefully edit in links to related or similar questions to help future visitors find their way.
+>
+> It's also perfectly fine to ask and answer your own programming question, but pretend you're on [Jeopardy](http://en.wikipedia.org/wiki/Jeopardy!): phrase it in the form of a question.
+
 
 
 

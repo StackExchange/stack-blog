@@ -37,7 +37,7 @@ I agree this is not exactly an ideal question for Stack Overflow, [per the FAQ](
 
 
 <blockquote>
-**Avoid asking questions that are subjective, argumentative, or require extended discussion**. This is not a discussion board, this is a place for questions that can be answered! 
+<strong>Avoid asking questions that are subjective, argumentative, or require extended discussion</strong>. This is not a discussion board, this is a place for questions that can be answered!
 </blockquote>
 
 

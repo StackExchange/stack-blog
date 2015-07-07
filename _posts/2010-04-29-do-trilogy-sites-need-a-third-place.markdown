@@ -61,7 +61,7 @@ After discussing this with quite a few folks, I am wondering if we might need _a
 
 
 <blockquote>
-The third place is a term used in the concept of community building to refer to social surroundings separate from the two usual social environments of **home** and the **workplace**. In his influential book The Great Good Place, Ray Oldenburg argues that third places are important for civil society, democracy, civic engagement, and establishing feelings of a sense of place.
+The third place is a term used in the concept of community building to refer to social surroundings separate from the two usual social environments of <strong>home</strong> and the <strong>workplace</strong>. In his influential book The Great Good Place, Ray Oldenburg argues that third places are important for civil society, democracy, civic engagement, and establishing feelings of a sense of place.
 </blockquote>
 
 

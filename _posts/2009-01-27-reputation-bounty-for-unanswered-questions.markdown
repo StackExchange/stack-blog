@@ -24,9 +24,9 @@ If so, you're not alone. As Corey Trager noted [in a blog comment](http://ifdefi
 
 
 
-<blockquote>
+>
 Speaking for myself, you don't have to reward me for ASKING questions on Stackoverflow: Getting an answer is enough of a reward in itself. **Just do whatever you can to keep the answer-ers motivated.**
-</blockquote>
+
 
 
 

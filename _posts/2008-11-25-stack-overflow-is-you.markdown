@@ -27,7 +27,7 @@ Apparently this "question" is.. somewhat controversial; as of now it has [31 rev
 
 
 
-<blockquote>
+>
 These are written in the third person so as not to disrupt the style of the thing. But hey, as we all know, Jon Skeet can make 1 == 3 anyway, so it makes no difference.
 
 > 
@@ -48,7 +48,7 @@ These are written in the third person so as not to disrupt the style of the thin
 
 >   * Users don't mark Jon Skeet's answers as accepted. The universe accepts them out of a sense of truth and justice.
 
-</blockquote>
+
 
 
 

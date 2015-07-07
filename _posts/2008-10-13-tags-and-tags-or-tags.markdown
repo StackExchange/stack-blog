@@ -36,13 +36,13 @@ This isn't exactly new; you could always do this manually in the URL by space de
 
 
 
-<blockquote>
+>
 Show me all the questions tagged _both_ "python" **AND** "django"
 
 > 
 > 
 [http://stackoverflow.com/questions/tagged/python django](http://stackoverflow.com/questions/tagged/python django)
-</blockquote>
+
 
 
 
@@ -62,13 +62,13 @@ But maybe that's too specific for your tastes. Now you use **the new or pseudo t
 
 
 
-<blockquote>
+>
 Show me all the questions tagged _either_ "python" **OR** "django"
 
 > 
 > 
 [http://stackoverflow.com/questions/tagged/python or django](http://stackoverflow.com/questions/tagged/python or django)
-</blockquote>
+
 
 
 
@@ -84,13 +84,13 @@ We also support **NOT** if you prefix the tag with a dash, like so:
 
 
 
-<blockquote>
+>
 Show me all the questions tagged "python" **BUT NOT** tagged "django"
 
 > 
 > 
 [http://stackoverflow.com/questions/tagged/python -django](http://stackoverflow.com/questions/tagged/python -django)
-</blockquote>
+
 
 
 

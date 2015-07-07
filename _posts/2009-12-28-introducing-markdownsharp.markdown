@@ -28,7 +28,7 @@ Since [the original C# library we used for Markdown](http://aspnetresources.com/
 
 
 
-<blockquote>
+>
 Hi there, guys!
 
 > 
@@ -40,7 +40,7 @@ Sure, I don’t mind at all. I’ve always wanted the community to improve and c
 Cheers!  
 
 Milan
-</blockquote>
+
 
 
 

@@ -62,15 +62,15 @@ I've noted many times that naming is one of the hardest things in programming, a
 
 
 <blockquote>
-The Naming of Cats is a difficult matter,
-It isn't just one of your holiday games
-...
-When you notice a cat in profound meditation,
-The reason, I tell you, is always the same:
-His mind is engaged in a rapt contemplation
-Of the thought, of the thought, of the thought of his name:
-His ineffable effable
-Effanineffable
+The Naming of Cats is a difficult matter,<br/>
+It isn't just one of your holiday games<br/>
+...<br/>
+When you notice a cat in profound meditation,<br/>
+The reason, I tell you, is always the same:<br/>
+His mind is engaged in a rapt contemplation<br/>
+Of the thought, of the thought, of the thought of his name:<br/>
+His ineffable effable<br/>
+Effanineffable<br/>
 Deep and inscrutable singular Name.
 </blockquote>
 
