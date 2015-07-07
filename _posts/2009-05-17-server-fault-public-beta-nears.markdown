@@ -30,7 +30,7 @@ But we can do better. I am making some tentative efforts to reach out to the sys
 
 
 <blockquote>
-Richard and Greg talk to Jeff Atwood of Stack Overflow fame about being a developer who also maintains infrastructure. Jeff also talks about his new site, [Server Fault](http://serverfault.com), which is a Question and Answer site for the IT Professional. Great discussions about adventures in RAID controllers and NIC drivers and how FireBug can diagnose your network problems.
+Richard and Greg talk to Jeff Atwood of Stack Overflow fame about being a developer who also maintains infrastructure. Jeff also talks about his new site, <a href="http://serverfault.com">Server Fault</a>, which is a Question and Answer site for the IT Professional. Great discussions about adventures in RAID controllers and NIC drivers and how FireBug can diagnose your network problems.
 </blockquote>
 
 

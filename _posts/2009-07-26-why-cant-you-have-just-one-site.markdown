@@ -124,7 +124,7 @@ Do you think anyone sets up camp outside the League of Justice with a bullhorn, 
 
 
 <blockquote>
-It's too confusing to keep track of all you super heroes! Which one has which power, and should be used to fight which enemy? Which one is the right one to help us out in an hour of need? **Why can't there just be one giant superhero, SuperBatGreenMartianFlashHawkManWoman??**
+It's too confusing to keep track of all you super heroes! Which one has which power, and should be used to fight which enemy? Which one is the right one to help us out in an hour of need? <strong>Why can't there just be one giant superhero, SuperBatGreenMartianFlashHawkManWoman??</strong>
 </blockquote>
 
 

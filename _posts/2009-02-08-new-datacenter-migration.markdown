@@ -48,13 +48,13 @@ Note that we have moved a bit further to the west coast of the USA in this migra
 
 
 
-<blockquote>
+>
  "There's nothing you can do about latency," says John Romero, referring to physical restraints that slow down network play. "It's inherent in the system."
 
 > 
 > 
 "Yeah," says John Carmack wistfully, "**the speed of light sucks**." 
-</blockquote>
+
 
 
 

@@ -117,7 +117,7 @@ If you'd like to get started, [check the BizSpark website](http://www.microsoft.
 
 
 <blockquote>
-Bizspark friends please RT: if you need a invitation code to join Bizspark, just email [BizSpark@microsoft.com](mailto:bizspark@microsoft.com), we will sign you up !
+Bizspark friends please RT: if you need a invitation code to join Bizspark, just email <a href="mailto:bizspark@microsoft.com">BizSpark@microsoft.com</a>, we will sign you up !
 </blockquote>
 
 

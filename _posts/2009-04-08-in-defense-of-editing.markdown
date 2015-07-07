@@ -27,7 +27,7 @@ As it says in [the FAQ](http://stackoverflow.com/faq):
 
 
 
-<blockquote>
+>
 
 > 
 > ## Other people can edit my stuff?!
@@ -37,7 +37,7 @@ As it says in [the FAQ](http://stackoverflow.com/faq):
 > 
 > 
 Like Wikipedia, this site is collaboratively edited. If you are not comfortable with the idea of your questions and answers being edited by other trusted users, this may not be the site for you.
-</blockquote>
+
 
 
 

@@ -20,7 +20,7 @@ Some Stack Overflow users are concerned about what they call [the "Fastest Gun i
 
 
 
-<blockquote>
+>
 Each question's answers are sorted by descending score and then descending time of posting. **This means that if a person sits down and answers a question in a long, thorough way, going through every nook and cranny, once they post their answer, it will already be one of about seven different ones, some of which have already been upmodded.** This wouldn't be a problem if those answers were as thorough as the one this guy's posting, but they usually aren't. Some of them are downright wrong, some aren't even answers to the question asked because their poster didn't bother to read the question all the way through.
 
 > 
@@ -30,7 +30,7 @@ This causes a problem I like to call SO's Fastest Gun in the West Problem.
 > 
 > 
 I've come to a point where I'd rather just send a short, simple, correct explanation, than to go and do some proper research, write a whole blog post about it or even make sure the code I post even compiles, just so it will be noticed, as opposed to the incorrect ones.
-</blockquote>
+
 
 
 
@@ -42,7 +42,7 @@ A number of solutions were proposed, but I believe many of them were worse than 
 
 
 
-<blockquote>
+>
 **I do NOT want to, in any way, discourage the quick and dirty answer.**
 
 > 
@@ -52,7 +52,7 @@ I've asked questions that have received an immediate answer with enough informat
 > 
 > 
 This is extraordinarily helpful - I know I can post something on here, day or night, and get an answer within minutes, often seconds, that will be better than searching through books, online, etc, even though it's a throw-away post that took someone 35 seconds, who may have only answered for the reputation. If it's at all helpful, I upvote it.
-</blockquote>
+
 
 
 

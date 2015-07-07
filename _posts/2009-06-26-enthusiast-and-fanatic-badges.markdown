@@ -29,7 +29,7 @@ They also have a clever crap-selling website that we've referred to more than on
 
 
 <blockquote>
-**Enthusiast** -- visited the site each day for 30 days.
+<strong>Enthusiast</strong> -- visited the site each day for 30 days.
 </blockquote>
 
 

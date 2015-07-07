@@ -22,7 +22,7 @@ Remember [Joel Spolsky's fine article "Five Whys"?](http://www.joelonsoftware.co
 
 
 <blockquote>
-Michael spent some time doing a post-mortem, and discovered that the problem was a simple configuration problem on the switch. **There are several possible speeds that a switch can use to communicate (10, 100, or 1000 megabits/second). You can either set the speed manually, or you can let the switch automatically negotiate the highest speed that both sides can work with.** The switch that failed had been set to autonegotiate. This usually works, but not always, and on the morning of January 10th, it didn't.
+Michael spent some time doing a post-mortem, and discovered that the problem was a simple configuration problem on the switch. <strong>There are several possible speeds that a switch can use to communicate (10, 100, or 1000 megabits/second). You can either set the speed manually, or you can let the switch automatically negotiate the highest speed that both sides can work with.</strong> The switch that failed had been set to autonegotiate. This usually works, but not always, and on the morning of January 10th, it didn't.
 </blockquote>
 
 

@@ -72,7 +72,7 @@ He also provided some sample Ruby code that implements the above formula:
 
 
 <blockquote>
-**pos** is the number of positive rating, **n** is the total number of ratings, and power refers to the statistical power: pick 0.10 to have a 95% chance that your lower bound is correct, 0.05 to have a 97.5% chance, etc.
+<strong>pos</strong> is the number of positive rating, <strong>n</strong> is the total number of ratings, and power refers to the statistical power: pick 0.10 to have a 95% chance that your lower bound is correct, 0.05 to have a 97.5% chance, etc.
 </blockquote>
 
 

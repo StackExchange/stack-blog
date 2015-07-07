@@ -40,13 +40,13 @@ The CV filing fee is not there to make us obscene profits (as _if_), but to ensu
 
 
 
-<blockquote>
+>
 When hiring managers search through CVs, they want to know that they're looking at active, serious job applicants. If it were free to file a CV, a lot of applicants that weren't looking for jobs, or who knew that they had no reasonable chance of getting a job, would post them, making it harder for the employers to find serious applicants.
 
 > 
 > 
-That's why we charge a nominal amount to file a CV. It is, however, absolutely guaranteed, and if you're unhappy or don’t get the result you want, just let us know, and you'll get your money back on the spot. 
-</blockquote>
+That's why we charge a nominal amount to file a CV. It is, however, absolutely guaranteed, and if you're unhappy or don’t get the result you want, just let us know, and you'll get your money back on the spot.
+
 
 
 

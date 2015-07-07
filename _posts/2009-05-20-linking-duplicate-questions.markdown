@@ -58,7 +58,7 @@ Remember, in some cases we may want [duplicate questions](http://blog.stackoverf
 
 
 <blockquote>
-There’s often benefit to having multiple subtle variants of a question around, as people **tend to ask and search using completely different words**, and the better our coverage, the better odds our fellow programmers can find the answer they’re looking for. 
+There’s often benefit to having multiple subtle variants of a question around, as people <strong>tend to ask and search using completely different words</strong>, and the better our coverage, the better odds our fellow programmers can find the answer they’re looking for.
 </blockquote>
 
 

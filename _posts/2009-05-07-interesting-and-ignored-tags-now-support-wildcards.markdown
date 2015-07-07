@@ -54,7 +54,7 @@ Unfortunately, the solution proposed there, [JQuery filters](http://docs.jquery.
 
 
 <blockquote>
-A recent question on Stack Overflow posed a common question concerning DOM insertion and specifically the dire performance of IE6 when using innerHTML to parse a large amount of HTML markup. [Head over there](http://stackoverflow.com/questions/788614/ways-to-increase-performance-when-set-big-value-to-innerhtml) to read the question for yourself. I thought it worth sharing my solution;
+A recent question on Stack Overflow posed a common question concerning DOM insertion and specifically the dire performance of IE6 when using innerHTML to parse a large amount of HTML markup. <a href="http://stackoverflow.com/questions/788614/ways-to-increase-performance-when-set-big-value-to-innerhtml">Head over there</a> to read the question for yourself. I thought it worth sharing my solution;
 </blockquote>
 
 

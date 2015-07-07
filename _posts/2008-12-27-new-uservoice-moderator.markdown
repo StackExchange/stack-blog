@@ -32,9 +32,9 @@ I wasn't kidding when I said this in the [Stack Overflow FAQ](http://stackoverfl
 
 
 
-<blockquote>
-At the high end of this reputation spectrum there is little difference between users with high reputation and moderators. That is very much intentional. **We don't run Stack Overflow. The community does.** 
-</blockquote>
+>
+At the high end of this reputation spectrum there is little difference between users with high reputation and moderators. That is very much intentional. **We don't run Stack Overflow. The community does.**
+
 
 
 
@@ -46,7 +46,7 @@ These two guys have gone _far_ out of their way to help other users on UserVoice
 
 
 
-<blockquote>
+>
 _adjunct_ (adjective)
 
 > 
@@ -56,7 +56,7 @@ _adjunct_ (adjective)
 
 >   2. Attached to a faculty or staff in a temporary or auxiliary capacity: an adjunct professor of history.
 
-</blockquote>
+
 
 
 

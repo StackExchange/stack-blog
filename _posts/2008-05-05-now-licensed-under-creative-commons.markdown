@@ -20,7 +20,7 @@ The Creative Commons site defines [four main clauses](http://creativecommons.org
 
 
 
-<blockquote>
+>
 
 > 
 > ![Attribution](/images/wordpress/cc-attrib.png) **Attribution**
@@ -73,9 +73,9 @@ You let others copy, distribute, display, and perform only verbatim copies of yo
 > 
 > 
 You allow others to distribute derivative works only under a license identical to the license that governs your work.
-> 
-> 
-</blockquote>
+>
+>
+
 
 
 

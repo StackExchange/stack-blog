@@ -22,13 +22,13 @@ The reputation scores follow the expected power law distribution. No surprise th
 
 
 
-<blockquote>
+>
 This graph was based on a snapshot of the user reputations one day last week. The largest group, 15,219 users, had reputation less than 100. There were 2,494 users with reputation between 100 and 200, etc. The number of users in a 100-point reputation range generally decreases as the reputation score increases. The majority of users have reputation less than 100, and yet the top percentile have reputations over 4,800 and the highest reputation was 38,700. This sort of extreme disparity suggests a power law distribution.
 
 > 
 > 
 The test for whether the reputation scores follow a power law is to plot the logarithms of the number of people with each score and look for a straight line. And after an initial steep drop off, **the logs of the counts do fall roughly on a straight line**.
-</blockquote>
+
 
 
 
@@ -42,7 +42,7 @@ John's summary:
 
 
 
-<blockquote>
+>
 
 > 
 > 
@@ -61,7 +61,7 @@ I think this last fact speaks well of the users on the site. The people who rece
 > 
 > 
 **You could view reputation as a measure of how invested someone is in the site, not just a measure of their perceived competence.**
-</blockquote>
+
 
 
 

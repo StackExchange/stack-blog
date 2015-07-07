@@ -22,11 +22,7 @@ Since the Stack Exchange API went into [public beta](http://blog.stackoverflow.c
 
 
 <blockquote>
-
-> 
-> ## How can I use the Stack Overflow | Server Fault | Super User name and logo in my application?
-> 
-> 
+  <h2>How can I use the Stack Overflow | Server Fault | Super User name and logo in my application?</h2>
 </blockquote>
 
 
@@ -73,7 +69,7 @@ We tried our best to avoid [legalese](http://en.wikipedia.org/wiki/Legal_writing
 
 
 <blockquote>
-Legalese is an English term first used in 1914 for legal writing that is designed to be difficult for laymen to read and understand, the implication being that this abstruseness is deliberate for excluding the legally untrained and to justify high fees. Legalese, as a term, has been adopted in other languages. Legalese is characterized by long sentences, many modifying clauses, complex vocabulary, high abstraction, and insensitivity to the layman's need to understand the document's gist. Legalese arises most commonly in legal drafting, yet appears in both types of legal analysis. Today, the [Plain Language Movement](http://en.wikipedia.org/wiki/Plain_Language_Movement) in legal writing is progressing and experts are busy trying to demystify legalese.
+Legalese is an English term first used in 1914 for legal writing that is designed to be difficult for laymen to read and understand, the implication being that this abstruseness is deliberate for excluding the legally untrained and to justify high fees. Legalese, as a term, has been adopted in other languages. Legalese is characterized by long sentences, many modifying clauses, complex vocabulary, high abstraction, and insensitivity to the layman's need to understand the document's gist. Legalese arises most commonly in legal drafting, yet appears in both types of legal analysis. Today, the <a href="http://en.wikipedia.org/wiki/Plain_Language_Movement">Plain Language Movement</a> in legal writing is progressing and experts are busy trying to demystify legalese.
 </blockquote>
 
 

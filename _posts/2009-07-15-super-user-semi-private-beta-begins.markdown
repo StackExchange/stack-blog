@@ -29,7 +29,7 @@ That's right, it is officially [Ewok Time](http://blog.stackoverflow.com/2009/05
 
 
 
-<blockquote>
+>
 At any rate, **if you wanted a community where (almost) anything goes, you're about to get exactly what you asked for in the form of [superuser.com](http://superuser.com)**. If your question has to do with _computers_, it will be allowed there.
 > 
 > 
@@ -45,7 +45,7 @@ At any rate, **if you wanted a community where (almost) anything goes, you're ab
 But then again, _so are Ewoks_. Be careful what you ask for, I guess.
 > 
 > 
-</blockquote>
+
 
 
 
