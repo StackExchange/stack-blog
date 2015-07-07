@@ -83,7 +83,7 @@ I've already made a few changes to properly package it as a decent open source p
 
 
 
-One nice side effect of this process is that I've been able to incorporate [quite a few bug fixes](http://code.google.com/p/markdownsharp/source/list), some of them fairly serious. The [failure to escape backticks](http://meta.stackoverflow.com/questions/12694/escaping-backticks-fails) was a big one, and there was a subtle [bug involving a single character of whitespace](http://code.google.com/p/markdownsharp/source/detail?r=20) that caused all <hr/>s to be wrapped in paragraph tags since.. well, forever.
+One nice side effect of this process is that I've been able to incorporate [quite a few bug fixes](http://code.google.com/p/markdownsharp/source/list), some of them fairly serious. The [failure to escape backticks](http://meta.stackoverflow.com/questions/12694/escaping-backticks-fails) was a big one, and there was a subtle [bug involving a single character of whitespace](http://code.google.com/p/markdownsharp/source/detail?r=20) that caused all `<hr/>`s to be wrapped in paragraph tags since.. well, forever.
 
 
 

@@ -51,7 +51,7 @@ In recent years XSS surpassed buffer overflows to become the most common of all 
 
 
 
-Incredibly scary stuff. And it's all due to **insufficient sanitization of user input**, where HTML, or some subset of HTML, is allowed. Check out [some of the standard XSS exploits](http://ha.ckers.org/xss.html) for examples of clever ways hackers can exploit the tiniest of oversights in your HTML input sanitizing. Think there's just five or six ways to build an <a> or <img> tag? Think again. There are _hundreds!_
+Incredibly scary stuff. And it's all due to **insufficient sanitization of user input**, where HTML, or some subset of HTML, is allowed. Check out [some of the standard XSS exploits](http://ha.ckers.org/xss.html) for examples of clever ways hackers can exploit the tiniest of oversights in your HTML input sanitizing. Think there's just five or six ways to build an `<a>` or `<img>` tag? Think again. There are _hundreds!_
 
 
 
@@ -67,7 +67,7 @@ I'd like your feedback on how best to do this. Here's my general approach, in ps
 
 
 
-  1. Run a regular expression to match all the HTML <tags> in the HTML string.
+  1. Run a regular expression to match all the HTML `<tags>` in the HTML string.
 
   2. For each individual tag match, verify that it passes our tag regular expression **whitelist**.
 

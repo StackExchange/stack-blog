@@ -87,28 +87,21 @@ This is, of course, assuming you _want to share_ what you've created in some way
 
 According to the [Wikipedia page on Creative Commons Licenses](http://en.wikipedia.org/wiki/Creative_Commons_licenses), the **attribution clause proved so popular that it's always on by default**. So the [Choose a License](http://creativecommons.org/license/) page essentially guides you through selecting the remaining three reuse clauses, with the following questions as a guide:
 
-
-
-
-
-
-
-  1. Will you allow commercial uses of your work? 
-
-
-    * Yes 
-
-    * No
-
-
-  2. Will you allow modifications of your work?
-
-
-    * Yes
-
-    * Yes, as long as others share alike
-
-    * No
+<ol>
+  <li>Will you allow commercial uses of your work?
+    <ul>
+      <li>Yes</li>
+      <li>No</li>
+    </ul>
+  </li>
+  <li>Will you allow modifications of your work?
+    <ul>
+      <li>Yes</li>
+      <li>Yes, as long as others share alike</li>
+      <li>No</li>
+    </ul>
+  </li>
+</ol>
 
 
 
