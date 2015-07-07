@@ -5,9 +5,9 @@ for subdir, dirs, files in os.walk(rootdir):
     for file in files:
         filename = os.path.join(subdir, file)
 
-    	f = open(filename, "r")
-    	contents = f.readlines()
-    	f.close()
+	contents = ""
+    	with open(filename, "r") as f:
+    		contents = f.readlines()
 
     	# Get WordPress 
     	slug = filename.replace("_posts/", "").replace(".markdown", "")
@@ -17,9 +17,7 @@ for subdir, dirs, files in os.walk(rootdir):
     	month = splits[1]
     	end = "-".join(splits[3:])
 
-    	link = "/".join([year, month, end])
-    	link = "/" + link
-    	wordpress_url = "http://blog.stackoverflow.com" + link
+    	wordpress_url = "http://blog.stackoverflow.com" + "/" + "/".join([year, month, end])
 
     	if re.search('podcast', wordpress_url):
     		print wordpress_url
