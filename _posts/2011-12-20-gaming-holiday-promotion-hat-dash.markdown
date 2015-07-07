@@ -23,10 +23,7 @@ Between December 16 and January 6, users can unlock hats for their gravatars on 
 
 <blockquote>
 
-> 
-> ## [Holiday 2011 Hat Dash: The Hattening](http://blog.gaming.stackexchange.com/2011/12/holiday-2011-hat-dash-the-hattening/)
-> 
-> 
+<h2><a href="http://blog.gaming.stackexchange.com/2011/12/holiday-2011-hat-dash-the-hattening/">Holiday 2011 Hat Dash: The Hattening</a></h2>
 </blockquote>
 
 

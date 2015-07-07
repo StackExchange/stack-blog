@@ -36,20 +36,14 @@ As you can see, our fellow users have already contributed a nice little wiki for
 
 
 
-<blockquote>
-Tag wikis help introduce newcomers to the tag. They contain frequently asked questions about the tag and guidelines on its usage.
+> Tag wikis help introduce newcomers to the tag. They contain frequently asked questions about the tag and guidelines on its usage.
 
-Tag wikis can be edited by users with more than 2000 reputation, provided:
-
-
-> 
-> 
+> Tag wikis can be edited by users with more than 2000 reputation, provided:
 
 >   * They are in the top 20 answerers for this tag or
 
 >   * They have more than 100 answer upvotes in this tag
 
-</blockquote>
 
 
  

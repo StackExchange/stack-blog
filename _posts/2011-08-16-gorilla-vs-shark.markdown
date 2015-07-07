@@ -22,13 +22,15 @@ OK, maybe you're thinking that's a ridiculous question. Perhaps it is. But vario
 
 
 
-<blockquote>
+>
 Okay, so I'm finally making the jump into scripting languages and I have decided to focus on either Python or Perl. The problem is: I don't know which to cut my teeth on.
 
+>
 Most of my programming experience is in C, Java, and C++. There's no specific task I would be learning Python/Perl for, other that possibly applying it to my dev work to make life easier in general.
 
+>
 What do you think? Which do you use? Is one more industry relevant than another?
-</blockquote>
+
 
 
 
@@ -38,11 +40,12 @@ This question, or anything like it, would be _instantly_ closed as "not construc
 
 
 
-<blockquote>
+>
 **not constructive**
 
+>
 This question is not a good fit to our Q&A; format. We expect answers to generally involve facts, references, or specific expertise; this question will likely solicit opinion, debate, arguments, polling, or extended discussion.
-</blockquote>
+
 
 
 

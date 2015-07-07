@@ -19,7 +19,7 @@ In [Good Subjective, Bad Subjective](http://blog.stackoverflow.com/2010/09/good-
 
 
 
-<blockquote>
+>
 Constructive subjective questions:
 
 
@@ -38,7 +38,7 @@ Constructive subjective questions:
 
 >   6. are more than just mindless social fun.
 
-</blockquote>
+
 
 
 
@@ -48,7 +48,7 @@ That was before I saw [Aarobot's epic meta answer on poll questions](http://meta
 
 
 
-<blockquote>
+>
 
 > 
 > **Should all poll questions be closed?** That is where it starts to get dicey.  For you see, the term "poll" is itself subjective, and whether or not a given question is in fact a poll is often open to debate.
@@ -75,8 +75,8 @@ That was before I saw [Aarobot's epic meta answer on poll questions](http://meta
  
 
 > 
-> Recently I've actually taken to using [Metafilter's guidelines](http://faq.metafilter.com/tags/chatfilter) as a rule of thumb. 
-</blockquote>
+
+> Recently I've actually taken to using [Metafilter's guidelines](http://faq.metafilter.com/tags/chatfilter) as a rule of thumb.
 
 
 
@@ -90,7 +90,6 @@ I'm just kicking myself for not discovering the particular page Aarobot referenc
 
 
 
-<blockquote>
 
 > 
 > ## What kind of questions should I _not_ ask here?
@@ -99,11 +98,10 @@ I'm just kicking myself for not discovering the particular page Aarobot referenc
 
 > 
 > 
-    You should only ask practical, answerable questions based on actual problems that you face. Chatty, open-ended questions diminish the usefulness of our site and push other questions off the front page. To prevent your question from being flagged and possibly removed, **avoid** asking subjective questions where …
     
 > 
 > 
-        
+  You should only ask practical, answerable questions based on actual problems that you face. Chatty, open-ended questions diminish the usefulness of our site and push other questions off the front page. To prevent your question from being flagged and possibly removed, **avoid** asking subjective questions where …
 >   * every answer is equally valid: "What's your favorite ______?"
 > 
         
@@ -129,7 +127,6 @@ If your motivation for asking the question is "I would like to participate in a 
 
 > 
 > 
-</blockquote>
 
 
 

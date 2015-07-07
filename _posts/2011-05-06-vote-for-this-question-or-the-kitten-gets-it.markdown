@@ -21,13 +21,13 @@ When the wordpress.stackexchange.com community asked [Why are questions not bein
 
 
 
-<blockquote>
+>
 I have noticed a trend that questions (even good ones) that have multiple answers are not being voted on.
 
 > 
 > 
 Out of our 5,550 questions only 41% have at least 1 vote which leaves around 3,000 with 0 votes and a few hundred with negative votes.
-</blockquote>
+
 
 
 

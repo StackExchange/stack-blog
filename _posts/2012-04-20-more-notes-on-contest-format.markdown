@@ -20,11 +20,7 @@ A few months ago, I[ outlined a contest formula](http://blog.stackoverflow.com/2
 
 
 <blockquote>
-
-> 
-> Pick a topic of the week, and enter everyone who asks a question related to that topic into a random drawing to win a prize. The number of entries a person gets is equal to the number of questions they ask about the topic of the week.
-> 
-> 
+Pick a topic of the week, and enter everyone who asks a question related to that topic into a random drawing to win a prize. The number of entries a person gets is equal to the number of questions they ask about the topic of the week.
 </blockquote>
 
 
@@ -95,11 +91,7 @@ To rectify the shortcomings of Hot Topics, we’ve come up with a new kind of pr
 
 
 <blockquote>
-
-> 
-> The Mission promotion is pretty simple: design a series of levels, each one more difficult than the last, and give prizes to everyone who completes them.
-> 
-> 
+The Mission promotion is pretty simple: design a series of levels, each one more difficult than the last, and give prizes to everyone who completes them.
 </blockquote>
 
 

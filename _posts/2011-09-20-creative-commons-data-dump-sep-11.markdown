@@ -15,7 +15,7 @@ tags:
 ---
 
 <blockquote>
-While we will always continue to produce Stack Exchange creative commons data dumps, we are moving to a quarterly schedule for all future dumps. We won't be blogging each and every one, as it gets a bit monotonous. Please **[subscribe to our Clear Bits creator feed](http://www.clearbits.net/creators/146-stack-exchange-data-dump)** to be automatically notified when new Stack Exchange creative commons data dumps become available!
+While we will always continue to produce Stack Exchange creative commons data dumps, we are moving to a quarterly schedule for all future dumps. We won't be blogging each and every one, as it gets a bit monotonous. Please <strong><a href="http://www.clearbits.net/creators/146-stack-exchange-data-dump">subscribe to our Clear Bits creator feed</a></strong> to be automatically notified when new Stack Exchange creative commons data dumps become available!
 </blockquote>
 
 

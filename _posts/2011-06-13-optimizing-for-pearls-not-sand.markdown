@@ -18,11 +18,11 @@ In March 2010, we [rebalanced our reputation system](http://blog.stackoverflow.c
 
 
 
-<blockquote>
-While we value good questions (and asking a great question is absolutely an art), we want to explicitly encourage people to provide the _best possible answers_. Without people interested in providing good answers, the questions are moot. We know that answers have more intrinsic value than questions, and the reputation balance should reflect that.
+> While we value good questions (and asking a great question is absolutely an art), we want to explicitly encourage people to provide the _best possible answers_. Without people interested in providing good answers, the questions are moot. We know that answers have more intrinsic value than questions, and the reputation balance should reflect that.
 
+>
 The question asker already enjoys a substantial benefit beyond reputation gain from upvotes on their question — namely, they get _great answers to their question!_ Thus, the asker shouldn’t need as much reputation gain.
-</blockquote>
+
 
 
 
@@ -31,7 +31,7 @@ In November 2010, we began to [actively block low quality questions](http://blog
 
 
 <blockquote>
-We believe asking questions on our site is a privilege, not a right. If, after a few fair attempts, you haven’t been able to prove that your contributions to a particular Stack Exchange make it at least … _not-worse_ … then we reserve the right to refuse your questions. If we don’t do our part to cull the bad questions, then we risk alienating the true experts who provide what really matters: the answers!
+We believe asking questions on our site is a privilege, not a right. If, after a few fair attempts, you haven’t been able to prove that your contributions to a particular Stack Exchange make it at least … <em>not-worse</em> … then we reserve the right to refuse your questions. If we don’t do our part to cull the bad questions, then we risk alienating the true experts who provide what really matters: the answers!
 </blockquote>
 
 
@@ -69,13 +69,15 @@ That's why we're determined to keep question quality high, even at the cost of r
 
 
 
-<blockquote>
+>
 To put it another way, when I go to a Stack Exchange home page, I see a **list of questions**. If most of those are terrible questions with little to no indication that I'd be wasting my time by reading them, the value proposition of visiting and participating is diminished: I have better things to do.
 
+>
 Compare that to _answers_ on a specific question: I've made a conscious choice to look into what I think is an interesting question. I already made the decision that the question is worth my time. If I find the answers to be useless, I have a few different options, as an interested party, to register my displeasure, including writing my own answer. Being able to write your own answer is key: if your answer is good enough, it'll rise above the junk answers and everyone will be better off for it.
 
+>
 There is no such action for question lists. I can't say "these questions suck, show me this question I just thought up instead": that'd be silly. So, it's imperative the question list have a high signal-to-noise ratio, and removing the penalty for those users who do take the time to read a question and later find it to be useless so they can down-vote is conducive to that.
-</blockquote>
+
 
 
 

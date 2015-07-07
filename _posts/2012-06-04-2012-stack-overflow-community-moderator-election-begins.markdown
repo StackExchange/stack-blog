@@ -20,7 +20,7 @@ Hard to believe it's been only six months since the last moderator election on S
 Remember [A Theory of Moderation](http://blog.stackoverflow.com/2009/05/a-theory-of-moderation/)? It talks about how moderators are the "human exception handlers" on Stack Overflow, elected to deal with those rare situations the normal community moderation can't handle. It also notes:
 
 
-<blockquote>The most common moderator task is to follow up on [flagged posts](http://blog.stackoverflow.com/2011/01/improved-flagging/). Every post contains a small **flag link**, which anyone with 15 reputation can use.</blockquote>
+<blockquote>The most common moderator task is to follow up on <a href="http://blog.stackoverflow.com/2011/01/improved-flagging/">flagged posts</a>. Every post contains a small <strong>flag link</strong>, which anyone with 15 reputation can use.</blockquote>
 
 
 Over 200K users with at least 15 reputation have accessed Stack Overflow in the past three months. That's a lot of folks able to [raise a red flag](http://blog.stackoverflow.com/2009/04/raising-a-red-flag/) - and a lot of them _do_.

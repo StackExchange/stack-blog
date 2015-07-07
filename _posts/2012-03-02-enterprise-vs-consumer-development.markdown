@@ -21,13 +21,14 @@ One of my first projects after joining Stack Exchange was giving the job applica
 Probably the most eloquent explanation of the differences between Consumer and Enterprise product development comes from one of my most favourite people in tech, the late Steve Jobs:
 
 
-<blockquote>
+>
 
 > 
 > 
 We're about making better products, and what I love about the consumer market that I always hated about the enterprise market, is that we come up with a product, we try to tell everybody about it, and every person votes for themselves. They go, "Yes" or "No"!
 
-And if enough of them say "yes" we get to come to work tomorrow! ...</blockquote>
+>
+And if enough of them say "yes" we get to come to work tomorrow! ...
 
 
 
@@ -80,11 +81,7 @@ In the blockbuster movie hit "Jaws", Stephen Spielberg attributed much of the su
 
 
 <blockquote>
-
-> 
-> "The shark not working was a godsend. It made me become more like Alfred Hitchcock than like Ray Harryhausen."
-> 
-> 
+"The shark not working was a godsend. It made me become more like Alfred Hitchcock than like Ray Harryhausen."
 </blockquote>
 
 
@@ -94,11 +91,7 @@ The first was a legal issue only discovered after I implementing a Google Docs v
 
 
 <blockquote>
-
-> 
-> "By submitting, posting or displaying the content you give Google a perpetual, irrevocable, worldwide, royalty-free, and non-exclusive license to reproduce, adapt, modify, translate, publish, publicly perform, publicly display and distribute any Content which you submit, post or display on or through, the Services."
-> 
-> 
+"By submitting, posting or displaying the content you give Google a perpetual, irrevocable, worldwide, royalty-free, and non-exclusive license to reproduce, adapt, modify, translate, publish, publicly perform, publicly display and distribute any Content which you submit, post or display on or through, the Services."
 </blockquote>
 
 

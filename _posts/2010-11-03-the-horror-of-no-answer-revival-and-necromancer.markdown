@@ -22,13 +22,13 @@ However, we have noticed a sizable uptick in the number of questions that have n
 
 
 
-<blockquote>
-Questions asked more than **30** days ago with no answers:
+>
+Questions asked more than **30** days ago with no answers:<br/>
 64k / 1m+
 
-Questions asked more than **120** days ago with no answers:
+>
+Questions asked more than **120** days ago with no answers:<br/>
 40k / 1m+
-</blockquote>
 
 
  

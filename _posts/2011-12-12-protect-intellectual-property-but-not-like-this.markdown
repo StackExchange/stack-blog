@@ -16,7 +16,7 @@ tags:
 Last week, there was a lot of [hubbub on Meta Stack Overflow](http://meta.stackoverflow.com/questions/tagged/sopa) about a system message that ran on Stack Overflow. The system message read:
 
 
-<blockquote>SOPA is a dangerous law. It breaks the Internet and threatens sites like Stack Overflow. [Protect the Internet](http://americancensorship.org/)!</blockquote>
+<blockquote>SOPA is a dangerous law. It breaks the Internet and threatens sites like Stack Overflow. <a href="http://americancensorship.org/">Protect the Internet</a>!</blockquote>
 
 
 For the intents and purposes of this post, let’s bypass the controversy surrounding whether or not this is an [appropriate use of system messages](http://meta.stackoverflow.com/questions/114020/please-do-not-use-stack-overflow-to-promote-social-causes) and simply focus on the important parts: why [SOPA](http://en.wikipedia.org/wiki/Stop_Online_Piracy_Act) and [PROTECT IP](http://en.wikipedia.org/wiki/PROTECT_IP_Act) are bad news for Stack Exchange, the United States, the Internet, and the world.

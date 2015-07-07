@@ -19,7 +19,7 @@ In recognition of this, [Super User is running its own little promotion](http://
 
 
 
-<blockquote>[We’re having a party](http://win8challenge.com/) and you’re invited. Ask and answer questions to complete the challenge levels, and complete different tasks like editing, voting, and blogging to win the eight tile challenges. Each level you beat and each tile you finish enters you for sweet prizes, including the grand prize of a Microsoft Surface RT!</blockquote>
+<blockquote><a href="http://win8challenge.com/">We’re having a party</a> and you’re invited. Ask and answer questions to complete the challenge levels, and complete different tasks like editing, voting, and blogging to win the eight tile challenges. Each level you beat and each tile you finish enters you for sweet prizes, including the grand prize of a Microsoft Surface RT!</blockquote>
 
 
 

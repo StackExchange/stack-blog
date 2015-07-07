@@ -18,7 +18,7 @@ Let's say I told you we were going to create a programming website that **merged
 
 
 
-<blockquote>
+>
 I disagree with merging. I think [Java] should be a niche site that will attract the relatively expert crowd that doesn't usually care (or not as much) about other types of developer language questions. Yes, I'm talking specifically about myself, but also know about several others I know in the community who can speak for themselves if they wish.
 
 > 
@@ -28,7 +28,7 @@ By not merging it, we are giving a good one place to find answers only about [Ja
 > 
 > 
 It might sound superficial, but I think we're more likely to see the likes of [Java Expert #1] and [Java Expert #2] in a separate, unmerged [Java] site than in a broader developer site.
-</blockquote>
+
 
 
 
@@ -69,11 +69,12 @@ None of the example questions in the Developer Testing proposal lacks a home. Th
 
 
 
-<blockquote>
-**duplicate**  
+>
+**duplicate**
 
+>
 This proposal would tend to drain audience from another Stack Exchange site.
-</blockquote>
+
 
 
 

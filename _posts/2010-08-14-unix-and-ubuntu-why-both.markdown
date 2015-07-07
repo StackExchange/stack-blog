@@ -123,15 +123,15 @@ When it was clear that both the Unix and Ubuntu proposals were both moving forwa
 
 
 
-<blockquote>Dear Ubuntu Supporter,
+>Dear Ubuntu Supporter,
 
-We are about to launch the Area 51 proposal for "Ubuntu":
+> We are about to launch the Area 51 proposal for "Ubuntu":
 [area51.stackexchange.com/proposals/7716/ubuntu](http://area51.stackexchange.com/proposals/7716/ubuntu).
 
-But before we launch it, there has been a bit of discussion about whether members would be interested in merging it into a more generic Unix/Linux site. We are looking at whether more needs to be done to make sure the community is getting what they want or is the Ubuntu proposal ready to go as-is.
+> But before we launch it, there has been a bit of discussion about whether members would be interested in merging it into a more generic Unix/Linux site. We are looking at whether more needs to be done to make sure the community is getting what they want or is the Ubuntu proposal ready to go as-is.
 
-_Stack Exchange Team_
-</blockquote>
+> _Stack Exchange Team_
+
 
 
 
@@ -143,15 +143,15 @@ I'm paraphrasing...
 
 
 
-<blockquote>
+>
 Dear Stack Exchange Team,
 
-Ubuntu is an end-user operating system used by everyday people who are not typically interested in hacking around a kernel, nor configuring a large collection of tools, projects and packages, nor citing documentation references and command line arguments. The Linux proposal, in comparison, explicitly targets "advanced users," in which I have no interest. 
+> Ubuntu is an end-user operating system used by everyday people who are not typically interested in hacking around a kernel, nor configuring a large collection of tools, projects and packages, nor citing documentation references and command line arguments. The Linux proposal, in comparison, explicitly targets "advanced users," in which I have no interest.
 
-In short, we need our own space. Thank you.
+> In short, we need our own space. Thank you.
 
-_Ubuntu Supporter_
-</blockquote>
+> _Ubuntu Supporter_
+
 
 
 

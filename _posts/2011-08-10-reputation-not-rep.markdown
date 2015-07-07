@@ -16,9 +16,10 @@ I get an email like [Arik](http://blogs.microsoft.co.il/blogs/arik/)'s every day
 
 
 
-<blockquote>The problem I see is that Careers 2.0 give advantage to developers with high Stack Overflow statistics (which I guess was the point, showing that you know stuff).
- 
-Unfortunately, SO succeeded so well, that practically no good question remained unanswered. Thus, gaining a respectful reputation in SO is practically impossible these days. Which gives an unfair advantage to veteran SO users.</blockquote>
+> The problem I see is that Careers 2.0 give advantage to developers with high Stack Overflow statistics (which I guess was the point, showing that you know stuff).
+
+>
+Unfortunately, SO succeeded so well, that practically no good question remained unanswered. Thus, gaining a respectful reputation in SO is practically impossible these days. Which gives an unfair advantage to veteran SO users.
 
 
 

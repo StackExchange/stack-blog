@@ -18,7 +18,7 @@ tags:
 In [“Why Can’t You Have Just One Site?”](http://blog.stackoverflow.com/2009/07/why-cant-you-have-just-one-site/) Jeff wrote about the rationale for creating three sites instead of one, and the process for determining where a question belongs:
 
 
-<blockquote>Is it really so hard to figure out which community you belong to, and thus, where your question belongs? Ask yourself this:
+>Is it really so hard to figure out which community you belong to, and thus, where your question belongs? Ask yourself this:
 
 > 
 > 
@@ -32,7 +32,8 @@ In [“Why Can’t You Have Just One Site?”](http://blog.stackoverflow.com/200
 >   * what are you trying to accomplish?
 > 
 
-You can use the same mountain to go downhill really fast on snow — but it’s plainly evident to the participant which culture they consider themselves a part of, “skiers” or “snowboarders”.</blockquote>
+>
+You can use the same mountain to go downhill really fast on snow — but it’s plainly evident to the participant which culture they consider themselves a part of, “skiers” or “snowboarders”.
 
 
 ![](http://i.stack.imgur.com/5yNpA.png)We’ve since grown from a Trilogy to a network of 84 sites. Our audience is large enough to allow a considerable amount of specialization: [Apple](http://askdifferent.com/), [Ubuntu](http://askubuntu.com/), [WordPress ](http://wordpress.stackexchange.com/)and [Database Administrators](http://dba.stackexchange.com/) all cover topics that previously belonged on [Super User](http://superuser.com/), [Stack Overflow](http://stackoverflow.com/) or [Server Fault](http://serverfault.com/). But the same philosophy still applies: before you can decide where to ask, you need to know who to ask. And _who_ you ask will depend (at least in part) on who _you_ are...
