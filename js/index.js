@@ -30,7 +30,8 @@ $(document).ready(function() {
 		if (slug.length > 0 && $(".disqus").length > 0) {
 			$.getJSON(prefix + "/json/comments" + slug + ".json", function(response) {
 				if (response) {
-					comments = response.response
+					var key;
+					comments = response.response;
 					for (key in comments) {
 						comment = comments[key];
 						var html = '<div class="comment">';
@@ -43,7 +44,7 @@ $(document).ready(function() {
 									html += comment.author_name;
 									if (comment.author_url !== null) html += '</a>';
 									html += '</p>';
-									html += '<p><a href="#comment_' + key + '">' + comment.date + '</a></p>'
+									html += '<p><a href="#comment_' + key + '">' + comment.date + '</a></p>';
 								html += '</div>';
 							html += '</div>';
 							html += '<div>' + comment.message + '</div>';
@@ -52,7 +53,7 @@ $(document).ready(function() {
 					}
 					$(".disqus").prepend("<h3>" + comments.length + " archived comments</h3>");
 				}
-			})
+			});
 		}
 	}
 
@@ -67,9 +68,10 @@ $(document).ready(function() {
 		}
 		console.log(prefix + "/json/index.json");
 		$.getJSON(prefix + "/json/index.json", function(response) {
-			console.log(response)
+			console.log(response);
 			if (response) {
 				var result = [];
+				var key;
 				for (key in response.posts) {
 					var post = response.posts[key];
 					if (post.draft) continue;
@@ -114,7 +116,7 @@ $(document).ready(function() {
 					if (valid_page(selected_page)) {
 						set_page(selected_page);
 					}
-				})
+				});
 			}
 		});
 	}
@@ -166,7 +168,7 @@ $(document).ready(function() {
 
 			post_info.push(post.date);
 			post_info.push('By ' + author.name);
-			post_info.push('In ' + post.tags.join(", "))
+			post_info.push('In ' + post.tags.join(", "));
 
 			article.find(".post-info").html(post_info.join(" &bull; "));
 
@@ -200,6 +202,6 @@ $(document).ready(function() {
 	}
 
 	function valid_page(page_num) {
-		return (page_num > 0 && page_num <= Math.max(Math.ceil(data.posts.length / 5), 1))
+		return (page_num > 0 && page_num <= Math.max(Math.ceil(data.posts.length / 5), 1));
 	}
 });
