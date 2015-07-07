@@ -134,7 +134,7 @@ for subdir, dirs, files in os.walk(rootdir):
 
 ### Feeds and links
 
-Another hard requirement was making sure that we didn't break deep linking. The posts on our blog are referenced a *lot* across the Stack Exchange network as well on the Internet generally. To break our URL scheme for posts would have been absolutely disastrous. In addition to that, we needed to preserve the XML feed on our blog. There are integrations for the community bulletin, it's a dependecy for parts of the Stack Exchange sites themselves, and there are thousands of people that rely on the feed to get news from us. Preserving the links to our content and at least our main feed was extremely important.
+Another hard requirement was making sure that we didn't break deep linking. The posts on our blog are referenced a *lot* across the Stack Exchange network as well on the Internet generally. To break our URL scheme for posts would have been absolutely disastrous. In addition to that, we needed to preserve the XML feed on our blog. There are integrations for the community bulletin, it's a dependency for parts of the Stack Exchange sites themselves, and there are thousands of people that rely on the feed to get news from us. Preserving the links to our content and at least our main feed was extremely important.
 
 Again, Jekyll thankfully had a feature to customize post URL structures. This was simply a setting in our `_config.yml` file, and it took a single line of code:
 
