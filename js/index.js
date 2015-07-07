@@ -30,6 +30,7 @@ $(document).ready(function() {
 		if (slug.length > 0 && $(".disqus").length > 0) {
 			$.getJSON(prefix + "/json/comments" + slug + ".json", function(response) {
 				if (response) {
+					var key;
 					comments = response.response
 					for (key in comments) {
 						comment = comments[key];
@@ -70,6 +71,7 @@ $(document).ready(function() {
 			console.log(response)
 			if (response) {
 				var result = [];
+				var key;
 				for (key in response.posts) {
 					var post = response.posts[key];
 					if (post.draft) continue;
