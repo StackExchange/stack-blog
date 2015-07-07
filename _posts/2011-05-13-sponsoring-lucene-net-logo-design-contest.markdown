@@ -19,7 +19,7 @@ We are also big fans of the Lucene.Net project, which has [had some rocky times 
 
 
 
-<blockquote>
+>
 We'd love to take advantage of your offer for help. I've been trying to think of the most awesome thing that Stack Overflow could do for us, and I think I've finally found it.
 
 > 
@@ -33,7 +33,7 @@ We've been debating the logo used by Lucene.Net, which all agree is terrible. We
 > 
 > 
 So, what I ask of Stack Overflow, is to host, promote, manage, and pay for our logo design contest exactly as if it was a design contest for your company's products. Would this be a reasonable request?
-</blockquote>
+
 
 
 

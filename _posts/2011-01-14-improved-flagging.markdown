@@ -30,19 +30,22 @@ Clicking each option expands some explanatory text that provides context:
 
 
 
-<blockquote>
-**it needs ♦ moderator attention**
+> **it needs ♦ moderator attention**<br/>
+>
 A few canned common reasons, including "low quality", "not an answer" (for answers), and a 500 character (expanded from 150 characters) area for anything else you'd like to let the moderators know about.
 
-**it doesn't belong here**
+> **it doesn't belong here**<br/>
+>
 (generate a mod flag using [any existing close reason](http://blog.stackoverflow.com/2010/10/new-question-migration-paths/) as a template)
 
-**it is spam**
+> **it is spam**<br/>
+>
 This question is effectively an advertisement with no disclosure. It is not useful or relevant, but promotional.
 
-**it is not welcome in our community**
+> **it is not welcome in our community**<br/>
+>
 This question contains content that a reasonable person would consider offensive, abusive, or hate speech.
-</blockquote>
+
 
 
 
@@ -54,11 +57,12 @@ Another change we've instituted, [based on the popular Newgrounds flash game por
 
 
 
-<blockquote>
+>
 Due to the large amount of abuse to Newgrounds by malicious users we have implemented features that allow users to help police the site. A user's Whistle level can go up or down depending on how accurately the user flags questionable content. If a user abuses their use of the whistle to flag portal entries and reviews that do not violate our terms they will lose points and eventually be stuck with a broken whistle.
 
+>
 Users with broken whistles have no effect on anything they attempt to flag. However, users with a broken whistle may still receive negative or positive points so they can either dig themselves a deeper hole or try to regain a normal level and effectively flag entries once again. Users who blow the whistle accurately many times can increase their whistle level to bronze, silver, gold or deity levels. Users with a higher whistle level pull more weight when they use it.
-</blockquote>
+
 
 
 

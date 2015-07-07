@@ -23,15 +23,18 @@ All these questions are effectively **guessing games**.
 
 
 
-<blockquote>
+>
   I remember myself playing this a bit childish, but in some ways awesome game, where you control a tank, and can pick up and stack turrets (and maybe something else) from enemy tanks you kill. Maybe they also had different platforms (and if it's one with wheels then technically it's not a tank, but hey). It was around 2000 (or maybe even earlier) and the game had 3D graphics.
   
+>
   Trying to remember a book I read in the 80s, reptiles are dominant, have language, have human slaves. Northern human tribes attack the reptile settlements. The reptiles have gourds of partially digested food...they use some type of slug creature to clean hair and fur off mammals.
   
+>
   Please help me finding the single word for representing a person who guides at right time (at the time of need).
   
+>
   I am looking for a children's book that features a mouse. He lives in a red ticket booth and sleeps in a drawer and rides a motorcycle. It is either a chapter book or a collection of short stories about this mouse.
-</blockquote>
+
 
 
 

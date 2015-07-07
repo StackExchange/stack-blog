@@ -19,13 +19,12 @@ tags:
 In the lifecycle of a Stack Exchange site, we've long held the philosophy that "it takes as long as it takes" to build a sustainable community:
 
 
-<blockquote>
 
 > 
 > ## [How long can a site stay in beta?](http://blog.stackoverflow.com/2010/10/when-will-my-site-graduate/)
 > 
 > 
-The simple answer is, _it takes as long as it takes_. We’ll wait. If a site needs more activity, go out and [evangelize it](http://blog.stackoverflow.com/2010/08/a-recipe-to-promote-your-site/). As long as your site shows **steady progress** and continues to make the Internet a better place to get expert answers to your questions, it will march on.</blockquote>
+The simple answer is, _it takes as long as it takes_. We’ll wait. If a site needs more activity, go out and [evangelize it](http://blog.stackoverflow.com/2010/08/a-recipe-to-promote-your-site/). As long as your site shows **steady progress** and continues to make the Internet a better place to get expert answers to your questions, it will march on.
 
 
 But when a site struggles to maintain any semblance of _steady progress_ — when it's struggling to garner an audience, a healthy core of experts, and a steady stream of questions — it becomes increasingly unlikely that the site will find a core audience to sustain it.

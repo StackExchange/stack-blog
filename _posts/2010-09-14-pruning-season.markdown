@@ -26,11 +26,12 @@ First of all, because it's what we said we would do in [the original Stack Excha
 
 
 
-<blockquote>
+>
 **Why is the plan to close down sites that don’t get enough traffic?**
 
+>
 This harks back to our corporate goal to “make the Internet a better place to get expert answers to your questions.” A ghost town, without traffic, does not get people answers, but it does draw a few people away from other sites that might do so. We do not believe that the Internet benefits from putting up placeholder sites with negligible traffic that do not attract high quality communities. And we want the Stack Exchange brand to be synonymous with great community Q&A; sites, even if we don’t necessarily cover every topic under the sun.
-</blockquote>
+
 
 
 

@@ -29,11 +29,13 @@ Chris is a bit private in nature, but that's okay; We hire community managers fo
 ![](/images/wordpress/Chris-Jaeger-duck.jpg)
 
 
-<blockquote>Chris is a gamer by heart and heritage, and thus a lot of her life comes from his love for video games. Learning artistic skills, practicing creative writing, coding small tests, and a fair amount of documentation occupies the majority of her time. The one thing more he cherishes more is her family, and he greatly enjoys that her new job lets him keep their new Southwick home from being a lonely place during the day, even if she can't keep his mother company during the day proper. It may seem like a quiet boring life, but she manages to keep it interesting enough for stories, whether it's setting his hair on fire during Biology class or being hounded by a white wasp for the entire length of a highway drive.
+>Chris is a gamer by heart and heritage, and thus a lot of her life comes from his love for video games. Learning artistic skills, practicing creative writing, coding small tests, and a fair amount of documentation occupies the majority of her time. The one thing more he cherishes more is her family, and he greatly enjoys that her new job lets him keep their new Southwick home from being a lonely place during the day, even if she can't keep his mother company during the day proper. It may seem like a quiet boring life, but she manages to keep it interesting enough for stories, whether it's setting his hair on fire during Biology class or being hounded by a white wasp for the entire length of a highway drive.
 
+>
 Chris first found Stack Overflow in a very traditional success story — When she needed assistance for his SharePoint application on a previous employment. When the site continued to come up on future problems, she eventually gave a shot at answering, an experience that soon cascaded to the birth and guidance of the Gaming Stack Exchange that is her main haunt. He looks forward to working with everyone to help continue to sculpt the growth and communities of all of the Network.
 
-Chris is not fond of posting her picture online (very strongly emphasized by his lack of presence on any social network), but she endeavored nonetheless to procure an image from his past — from graduation, as it were. She hopes it'll be satisfactory. ♪</blockquote>
+>
+Chris is not fond of posting her picture online (very strongly emphasized by his lack of presence on any social network), but she endeavored nonetheless to procure an image from his past — from graduation, as it were. She hopes it'll be satisfactory. ♪
 
 
 Welcome to the team, Chris! ♪

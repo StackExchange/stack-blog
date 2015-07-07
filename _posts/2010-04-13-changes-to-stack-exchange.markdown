@@ -93,26 +93,19 @@ Want to create a Stack Exchange community? Propose it! If your idea gets suffici
 
 
 <blockquote>
+<p>I’m just a bill.<br/>
+Yes, I’m only a bill.<br/>
+And I’m sitting here on Capitol Hill.<br/>
+Well, it’s a long, long journey<br/>
+To the capital city.<br/>
+It’s a long, long wait<br/>
+While I’m sitting in committee,<br/>
+But I know I’ll be a law someday<br/>
+At least I hope and pray that I will,<br/>
+But today I am still just a bill.</p>
 
-> 
-> 
-
-
-> 
-> 
-_I’m just a bill.
-Yes, I’m only a bill.
-And I’m sitting here on Capitol Hill.
-Well, it’s a long, long journey
-To the capital city.
-It’s a long, long wait
-While I’m sitting in committee,
-But I know I’ll be a law someday
-At least I hope and pray that I will,
-But today I am still just a bill.
-
-—I’m Just a Bill_
-(from Schoolhouse Rock)
+—I’m Just a Bill<br/>
+(from Schoolhouse Rock)<br/>
 Dave Frishberg</blockquote>
 
 
