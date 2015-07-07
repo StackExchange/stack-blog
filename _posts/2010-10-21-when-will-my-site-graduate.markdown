@@ -20,7 +20,7 @@ At 90 days into beta, we're supposed to evaluate each Area 51 beta site and eith
 
 
 
-<blockquote>
+>
 
 > 
 > ## Please do not close GIS SE
@@ -44,7 +44,7 @@ At 90 days into beta, we're supposed to evaluate each Area 51 beta site and eith
 > **Please don't!** We may be small, but we're good and growing. I've been working in the GIS field for almost 15 years and been active on every applicable BBS, mailing list, online forum and wiki for that time. I can honestly state that GIS SE has something that all those others didn't, and that something is valuable and worth nurturing. Give us some more time, please. Thanks.
 > 
 > 
-</blockquote>
+
 
 
 
@@ -249,7 +249,7 @@ If the site _needs_ interim reputation levels, that is a strong indication that 
 
 
 
-<blockquote>... it would just be yet another beta stage on top of the private and public betas. We don't need 4 beta stages. **If the site is going to graduate, it needs to graduate. **Perhaps basing graduation off of number of users at the different rep levels instead of a hard 90 days would be a better indication of a community's ability to self-police and readiness to be a real site. — [rchern](http://meta.stackoverflow.com/questions/67054/can-we-grandfather-in-rep-abilities-as-sites-leave-beta/67057#67057) (webapps moderator)</blockquote>
+<blockquote>... it would just be yet another beta stage on top of the private and public betas. We don't need 4 beta stages. **If the site is going to graduate, it needs to graduate. **Perhaps basing graduation off of number of users at the different rep levels instead of a hard 90 days would be a better indication of a community's ability to self-police and readiness to be a real site. — <a href="http://meta.stackoverflow.com/questions/67054/can-we-grandfather-in-rep-abilities-as-sites-leave-beta/67057#67057">rchern</a> (webapps moderator)</blockquote>
 
 
 

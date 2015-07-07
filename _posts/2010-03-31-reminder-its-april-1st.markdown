@@ -75,7 +75,7 @@ He's created so much cool stuff, in fact, the meta community took it upon themse
 
 
 
-<blockquote>
+>
 It has come to the attention of the AWESOME committee that you have recently exceeded your awesome quotient. Normally this letter would simply serve as a warning and reminder as to your obligations in the LEAGUE OF AWESOME with regards to your display of AWESOME, however **your recent display(s) of AWESOME have exceeded the limit beyond all normal care and due reason.**
 
 > 
@@ -85,7 +85,7 @@ It is with heavy hearts that we are forced to take the following, regrettable, d
 > 
 > 
 Mr. Balpha, on this day, March 31st, 2010, and henceforth, your membership in THE LEAGUE OF AWESOME is terminated, including all benefits, responsibilities, and services as described in your recently violated contract. You are hereby stricken from all records and are required to turn in your membership license or proof of its destruction. Also any and all other artifacts, including the LOA belt buckle, is to be returned immediately.
-</blockquote>
+
 
 
 

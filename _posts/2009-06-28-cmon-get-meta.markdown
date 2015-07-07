@@ -38,7 +38,7 @@ We have this policy not because we are jerks (or at least, not _just_ because we
 
 
 <blockquote>
-Also, try to **refrain from asking questions about Stack Overflow itself unless you absolutely, positively have to**. Most programmers don't come here to learn about the intricacies of Stack Overflow; they come here to get answers to their programming questions. Let's try to help them out by not cluttering up the system with navelgazing meta-discussion. If you want to suggest a feature or discuss how Stack Overflow works, visit our UserVoice site.
+Also, try to <strong>refrain from asking questions about Stack Overflow itself unless you absolutely, positively have to</strong>. Most programmers don't come here to learn about the intricacies of Stack Overflow; they come here to get answers to their programming questions. Let's try to help them out by not cluttering up the system with navelgazing meta-discussion. If you want to suggest a feature or discuss how Stack Overflow works, visit our UserVoice site.
 </blockquote>
 
 
@@ -51,7 +51,7 @@ Despite this rule, the desire for an "official" meta-discussion site has been st
 
 
 
-<blockquote>
+>
 I know this has been declined multiple times, but I really think it's time to consider the problem of meta-discussions on the site. To understand why something else is needed, let's look at what doesn't work:
 
 > 
@@ -72,7 +72,6 @@ I know this has been declined multiple times, but I really think it's time to co
 > 
 > 
 The current system completely cuts off meta-conversations to the detriment of the SO community.
-</blockquote>
 
 
 
@@ -145,7 +144,7 @@ Kyle had some ideas about changes to the SO engine to help it adapt from the Q&A
 
 
 
-<blockquote>
+>
 
 > 
 > 
@@ -163,7 +162,7 @@ Kyle had some ideas about changes to the SO engine to help it adapt from the Q&A
 >   * remove accepting an answer
 
 >   * some of the close reasons will have to be removed or tweaked
-</blockquote>
+
 
 
 

@@ -25,10 +25,10 @@ However, as we launched [the great Super User experiment](http://superuser.com/)
 That is, on [Super User](http://superuser.com/) we began encountering questions like:
 
 
-<blockquote>Macbook Air vs. Macbook Pro?
-What's the best dual-band wireless router?
-Dell GX280 Processor upgrade?
-What RAM should I buy?
+<blockquote>Macbook Air vs. Macbook Pro?<br/>
+What's the best dual-band wireless router?<br/>
+Dell GX280 Processor upgrade?<br/>
+What RAM should I buy?<br/>
 Nvidia or ATI video card?</blockquote>
 
 
@@ -55,7 +55,7 @@ These questions may seem tolerable at first glance. Isn't it our mandate to help
 Let's say the question asker provided all that information. Fat chance, I know, but let's pretend for a moment they did -- and we were able to provide the _perfect, ideal shopping recommendation_ to them. Even if that was the case, technology moves so rapidly that **the best shopping recommendations will be utterly obsolete within a year!** What's the point of a bunch of labor intensive questions that provide only temporary benefit to a limited (some might say Too Localized) audience? There isn't any. That's what we concluded, and we [explicitly disallowed](http://meta.superuser.com/questions/1103/should-we-add-a-no-shopping-recommendation-clause-to-the-super-user-faq) shopping questions in the [Super User FAQ](http://superuser.com/faq):
 
 
-<blockquote>Super User is for computer enthusiasts and power users. If you have a question about …
+>Super User is for computer enthusiasts and power users. If you have a question about …
 
 > 
 > 
@@ -66,6 +66,7 @@ Let's say the question asker provided all that information. Fat chance, I know, 
 >   * computer software
 > 
 
+>
 and it is **not about** …
 
 > 
@@ -83,7 +84,7 @@ and it is **not about** …
 >   * a shopping or buying recommendation 
 > 
 
-… then you're in the right place to ask your question!</blockquote>
+… then you're in the right place to ask your question!
 
 
 
@@ -93,16 +94,18 @@ and it is **not about** …
 Here's one way to ask:
 
 
-<blockquote>**Q: What's the best low light point-and-shoot camera?**
+>**Q: What's the best low light point-and-shoot camera?**
 
-A: Canon S90 and Lumix LX3.</blockquote>
+>
+A: Canon S90 and Lumix LX3.
 
 
 Here's [another way](http://photo.stackexchange.com/questions/1373/what-point-and-shoots-are-good-in-low-light-conditions) to ask:
 
 
-<blockquote>**Q: How do I tell which point-and-shoot cameras take good low light photos?**
+>**Q: How do I tell which point-and-shoot cameras take good low light photos?**
 
+>
 A: I strongly recommend looking for something with
 
 > 
@@ -117,7 +120,8 @@ A: I strongly recommend looking for something with
 >   * the biggest sensor available
 > 
 
-The sum of these factors are really critical for low light situations.</blockquote>
+>
+The sum of these factors are really critical for low light situations.
 
 
 The former question provides the path of least resistance: a laundry list of products I can buy without thinking about it too much. But that answer will only be valid for a year at best. The latter question may take some thinking, but its answer will be valid _forever_ … or at least until camera technology somehow shifts beyond lenses and sensors as we know them today. Thus, when it comes to shopping questions, don't ask us what you should buy -- ask us _what you need to learn_ to tell what you should buy.

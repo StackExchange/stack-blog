@@ -65,8 +65,8 @@ We're also using Imgur's [brand spanking new API](http://api.imgur.com/) to impl
 
 
 
-<blockquote>
 Ever since [Imgur accounts](http://imgur.com/register/upgrade) were released, people have been asking non-stop about the ability to upload into their accounts by using the tools. Your request did not go unheard. Today, I’m pleased to announce the new Imgur API, which not only includes support for uploading into accounts, but also includes support for managing every aspect of your account. 
+>
 
 > 
 > 
@@ -92,7 +92,7 @@ Here are just a few of the things you can do:
 > 
 > 
 Don’t worry if you’re a not a technical person and you don’t care about what an API is. What it means is that, very soon, you will have access to many more tools that enable you to upload into your account from your desktop, mobile phone, iPad, etc.
-</blockquote>
+
 
 
 

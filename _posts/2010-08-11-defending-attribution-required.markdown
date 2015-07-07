@@ -22,7 +22,7 @@ What does this mean? In short, it's a way of **guaranteeing that we can't ever d
 We wouldn't want that done to us. And there's no way we're doing it to our community. To prove it, **we adopted a licensing scheme that makes it impossible for us to do anything even partially-quasi-evil with our community's content**. Namely, [cc-by-sa](http://creativecommons.org/licenses/by-sa/3.0/) (aka cc-wiki), which gives everyone the following rights to all Stack Exchange data:
 
 
-<blockquote>You are free:
+>You are free:
 
 > 
 > 
@@ -42,7 +42,6 @@ Under the following conditions:
 >   * **Share Alike** — If you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.
 > 
 
-</blockquote>
 
 
 This isn't news, of course; it's explained on the footer of every web page we serve. And note that we explicitly _allow_ commercial usage -- after all, _we're_ a commercial entity, so it felt only sporting to allow others the same rights we enjoyed.
@@ -52,7 +51,7 @@ What _is_ news, is this: lately we're getting a lot of reports of sites repostin
 [What are our attribution requirements?](http://blog.stackoverflow.com/2009/06/attribution-required/)
 
 
-<blockquote>Let me clarify what we mean by attribution. If you republish this content, we **require** that you:
+>Let me clarify what we mean by attribution. If you republish this content, we **require** that you:
 
 > 
 > 
@@ -69,7 +68,7 @@ What _is_ news, is this: lately we're getting a lot of reports of sites repostin
 >   4. **Hyperlink each author name** directly back to their user profile page on the source site (e.g., http://stackoverflow.com/users/12345/username)
 > 
 
-By “directly”, I mean each hyperlink must point directly to our domain in standard HTML visible even with JavaScript disabled, and not use a tinyurl or any other form of obfuscation or redirection. Furthermore, the links must _not_ be [nofollowed](http://googleblog.blogspot.com/2005/01/preventing-comment-spam.html).</blockquote>
+> By “directly”, I mean each hyperlink must point directly to our domain in standard HTML visible even with JavaScript disabled, and not use a tinyurl or any other form of obfuscation or redirection. Furthermore, the links must _not_ be [nofollowed](http://googleblog.blogspot.com/2005/01/preventing-comment-spam.html).
 
 
 They're not complicated, nor are these attribution requirements particularly hard to find: they're linked from the footer of every web page we serve, and included as a plaintext file in every [public data dump we share](http://blog.stackoverflow.com/2009/06/stack-overflow-creative-commons-data-dump/).
@@ -87,11 +86,11 @@ I'm not going to stand for this, at least not without a fight. We're starting to
 And if they don't follow our simple attribution requirements when we've asked them nicely, well -- we're going to start asking them _not_ so nicely. Namely, we will hit them where it hurts, in the pocketbook. [Our pal How-to-Geek](http://www.howtogeek.com/) explains:
 
 
-<blockquote>For the quickest results, you can send the DMCA to their web host, which you can generally figure out with [whoishostingthis.com](http://whoishostingthis.com). Every single legit hosting center will have a "legal" or "copyright" page, and they will have a specific way to send in DMCA requests. Some of them require fax, though many are starting to accept email instead... and they will often have the content removed almost instantly. Wordpress.com will instantly cancel their entire account, and other hosts tend to take very swift action, often disabling their whole site until they comply.
+> For the quickest results, you can send the DMCA to their web host, which you can generally figure out with [whoishostingthis.com](http://whoishostingthis.com). Every single legit hosting center will have a "legal" or "copyright" page, and they will have a specific way to send in DMCA requests. Some of them require fax, though many are starting to accept email instead... and they will often have the content removed almost instantly. Wordpress.com will instantly cancel their entire account, and other hosts tend to take very swift action, often disabling their whole site until they comply.
 
-If you really want to cause them some pain, however, you can send the DMCA to their advertisers. Adsense is usually the first target for this, since so many of the jerks are using it. The only problem with Adsense is they [require a DMCA fax](http://www.google.com/adsense_dmca.html ).
+> If you really want to cause them some pain, however, you can send the DMCA to their advertisers. Adsense is usually the first target for this, since so many of the jerks are using it. The only problem with Adsense is they [require a DMCA fax](http://www.google.com/adsense_dmca.html ).
 
-There's been once or twice where I've found a site that was hosted somewhere that doesn't care about copyright... but every single ad network of any value is based in the US, and the jerk website owner isn't going to mess around with their income stream.</blockquote>
+> There's been once or twice where I've found a site that was hosted somewhere that doesn't care about copyright... but every single ad network of any value is based in the US, and the jerk website owner isn't going to mess around with their income stream.
 
 
 Please help us defend your right to have your name and source attached to the content you've so generously contributed to our sites. We will absolutely do our part, but many hands make light work:

@@ -30,7 +30,7 @@ If you're wondering what the heck this thing is, do [read the introductory blog 
 
 
 <blockquote>
-Stack Exchange Data Explorer is **a web tool for sharing, querying, and analyzing the Creative Commons data from every website in the Stack Exchange network**. It's also useful as for learning SQL and sharing SQL queries as a 'reference database'.
+Stack Exchange Data Explorer is <strong>a web tool for sharing, querying, and analyzing the Creative Commons data from every website in the Stack Exchange network</strong>. It's also useful as for learning SQL and sharing SQL queries as a 'reference database'.
 </blockquote>
 
 
@@ -41,19 +41,23 @@ Mostly because we decided to move off the [Windows Azure](http://www.microsoft.c
 
 
 
-<blockquote>
+>
 
 > 
 > ## Teething issues
 > 
 > 
 
+>
 When we first started working with Azure, tooling was very rough. Tooling for Visual Studio and .NET 4.0 support only appeared a month after we started development. [Remote access to Azure instances](http://msdn.microsoft.com/en-us/library/gg443832.aspx) was only granted a few weeks ago together with the ability to run non-user processes.
 
+>
 There are still plenty of teething issues left, for example: on the SQL Azure side we can't run cross database queries, add full-text indexes or backup our dbs using the `BACKUP` command. I am sure these will eventually be worked out. There's also the 30 minute deploy cycle. Found a typo on the website? Correcting it is going to take 30 minutes, minimum.
 
+>
 Due to many of these teething issues, debugging problems with our Azure instances quickly became a nightmare. I spent days trying to work out why we were having uptime issues, which since have been mostly sorted.
 
+>
 It is important to note that these issues are by no means specific to Azure; **similar teething issues affect other Platform-As-A-Service providers** such as [Google App Engine](http://aralbalkan.com/1504) and [Heroku](http://heroku.com/). When you are using a PAAS you are giving up a lot of control to the service provider. The service provider chooses which applications you can run and imposes a series of restrictions.
 
 
@@ -62,8 +66,10 @@ It is important to note that these issues are by no means specific to Azure; **s
 > 
 > 
 
+>
 Whenever there is a new data dump, I would log on to my Rackspace instance, download the data dump, decompress it, rename a bunch of folders, run [my database importer](https://github.com/SamSaffron/So-Slow), and wait an hour for it to load. If there were any new sites, I would open up a SQL window and hack that into the DB. This process was time consuming and fairly tricky to automate. It could be automated, but it would require lots of work from our side.
 
+>
 Now that we migrated to servers we control, the process is almost simple -- all we do is select a bunch of data from export views (containing public data) and insert them into a fresh DB. We are not stuck coordinating work between 4 machines across 3 different geographical locations.
 
 
@@ -72,10 +78,11 @@ Now that we migrated to servers we control, the process is almost simple -- all 
 > 
 > 
 
+>
 At Stack Overflow [we take pride in our servers](http://blog.serverfault.com/). We spend weeks tweaking our hardware and software to ensure we get the best performance and in turn you, the end user, get the most awesome experience.
 
+>
 It was disorienting moving to a platform where we had no idea what kind of hardware was running our app. Giving up control of basic tools and processes we use to tune our environment was extremely painful.
-</blockquote>
 
 
 

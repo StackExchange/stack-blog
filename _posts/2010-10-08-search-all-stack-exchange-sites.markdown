@@ -23,11 +23,11 @@ The above document was last edited April 15th, 2008. Ah, memories...
 
 
 
-<blockquote>
+>
 Don't try to replace forums. Answer people's questions! That's our focus. Get those answers to the top of Google search so people can find the information they're looking for with a minimum of noise.
 
-How will people arrive at the site? **1) Google -- ideally directly to the question and answer.**
-</blockquote>
+> How will people arrive at the site? **1) Google -- ideally directly to the question and answer.**
+
 
 
 

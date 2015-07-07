@@ -49,11 +49,11 @@ On the upside, nothing makes me happier than knowing we have a large group of v
 Through all the confusion and arguments, one user came through with a rational and useful piece of feedback. It is deceptively simple:
 
 
-<blockquote>I have a feeling that the real heart of the issue is that everyone thinks **naming is hard**. That's not completely true, **the truth is finding a .com domain name for a matching good name is hard**...
+>I have a feeling that the real heart of the issue is that everyone thinks **naming is hard**. That's not completely true, **the truth is finding a .com domain name for a matching good name is hard**...
 
-Since finding a .com domain naming for a matching site name is so hard, perhaps the community should come up with a good name and later consider which types of domain names they can get for that name. Two distinct things, not one.** **
+> Since finding a .com domain naming for a matching site name is so hard, perhaps the community should come up with a good name and later consider which types of domain names they can get for that name. Two distinct things, not one.
 
-[Brian R. Bondy](http://meta.webapps.stackexchange.com/questions/624/webapps-stackexchange-com-versus-nothingtoinstall-com/672#672)</blockquote>
+> [Brian R. Bondy](http://meta.webapps.stackexchange.com/questions/624/webapps-stackexchange-com-versus-nothingtoinstall-com/672#672)
 
 
 It turns out, we, the supposed experts of all things Q&A, had made the most newbie mistake there is -- **we've been asking the wrong damn question all along!**

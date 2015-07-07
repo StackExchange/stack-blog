@@ -30,9 +30,10 @@ And best of all, it's a valid [Internet Driver's License](http://www.codinghorro
 
 
 
-<blockquote>
+>
   Once you create your Stack Exchange account you can use it to log in on thousands of websites.
-  
+
+>
   To log in to a [Stack Exchange site](http://stackexchange.com/sites):
   
   
@@ -42,7 +43,8 @@ And best of all, it's a valid [Internet Driver's License](http://www.codinghorro
 >   * click the 'Log in with Stack Exchange' button.
 > 
   
-  
+>
+>
   To log in to other websites that accept OpenID:
   
   
@@ -50,7 +52,7 @@ And best of all, it's a valid [Internet Driver's License](http://www.codinghorro
 >   * enter this URL [https://openid.stackexchange.com/](https://openid.stackexchange.com/)
 > 
   
-</blockquote>
+
 
 
 

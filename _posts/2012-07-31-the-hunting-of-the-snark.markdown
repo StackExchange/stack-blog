@@ -23,7 +23,7 @@ There are different ways of massaging the data, but I do want to give you a flav
 
 
 
-<blockquote>
+>
 
 > 
 > 
@@ -130,7 +130,6 @@ There are different ways of massaging the data, but I do want to give you a flav
 >   * @M.H: Don't blame the language because you don't know how to use it. Don't blame the gun w…
 > 
 
-</blockquote>
 
 
 
@@ -150,7 +149,7 @@ The "friendliness" situation is much better, mainly because our reviewers tend t
 
 
 
-<blockquote>
+>
 
 > 
 > 
@@ -227,7 +226,6 @@ The "friendliness" situation is much better, mainly because our reviewers tend t
 >   * @meagar wow that looks awesome! I'm only about a several hour drive from there, I'll see if I can make it. Juggling for the win!!! :)
 > 
 
-</blockquote>
 
 
 

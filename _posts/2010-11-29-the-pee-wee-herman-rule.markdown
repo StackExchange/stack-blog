@@ -23,7 +23,7 @@ I recently had a [long discussion](http://meta.gaming.stackexchange.com/question
 
 
 <blockquote>
-If we get an excellent user who asks a _good, thoughtful_ [game] identification question and sticks around in our community to participate, then it's worth allowing it in those rare cases as a high quality "getting to know you" fun question.
+If we get an excellent user who asks a <em>good, thoughtful</em> [game] identification question and sticks around in our community to participate, then it's worth allowing it in those rare cases as a high quality "getting to know you" fun question.
 </blockquote>
 
 
@@ -61,31 +61,39 @@ That's why I recommend considering these gray area questions in the context of t
 
 
 
-<blockquote>
+>
 [Pee-Wee Herman walks into a noisy, rowdy, crowded biker bar. He puts a coin in the pay phone and begins dialing.]
 
-Pee-Wee: 
+>
+Pee-Wee:
 What? I'm sorry, operator. I can't hear you. [turns to the bikers, yelling in exaggerated fashion] _Shhh!_ I'm _trying_ to use the phone!
 
-[The bikers all grow quiet and circle around Pee-Wee at the pay phone. The lead biker hangs up the phone.]   
-                   
+>
+[The bikers all grow quiet and circle around Pee-Wee at the pay phone. The lead biker hangs up the phone.]
+
+>
 Biker:
 Did anybody tell you that this is the private club of the Satan's Helpers?
                    
+>
 Pee-Wee:
 Nobody hipped me to that, dude!   
                    
+>
 Biker:
 It's off-limits!
            
+>
 Pee-Wee:
 Oh. Well, _my mistake_. Ha ha! Guess I'll be on my way, then! Ha ha!
 
+>
 [Pee-Wee tries to innocently exit, pushing his way gently outward against the tightly grouped circle of bikers surrounding him.]
 
+>
 Pee-Wee:
 Excuse me! Excuse me. Ha ha! _Excuse_ me! Excuse me.
-</blockquote>
+
 
 
 

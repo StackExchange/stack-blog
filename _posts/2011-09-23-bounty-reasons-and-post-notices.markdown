@@ -24,31 +24,30 @@ Upon further reflection, we realized that it can be difficult to tell exactly wh
 
 
 
-<blockquote>
-**Authoritative reference needed**  
+> **Authoritative reference needed**
 
-Looking for an answer drawing from credible and/or official sources.
+> Looking for an answer drawing from credible and/or official sources.
 
-**Canonical answer required**  
+> **Canonical answer required**
 
-The question is widely applicable to a large audience. A detailed canonical answer is required to address all the concerns.
+> The question is widely applicable to a large audience. A detailed canonical answer is required to address all the concerns.
 
-**Current answers are outdated**  
+> **Current answers are outdated**
 
-The current answer(s) are out-of-date and require revision given recent changes.
+> The current answer(s) are out-of-date and require revision given recent changes.
 
-**Draw attention**  
+> **Draw attention**
 
-This question has not received enough attention.
+> This question has not received enough attention.
 
-**Improve details**  
+> **Improve details**
 
-The current answers do not contain enough detail.
+> The current answers do not contain enough detail.
 
-**Reward existing answer**  
+> **Reward existing answer**
 
-One or more of the answers is exemplary and worthy of an additional bounty.
-</blockquote>
+> One or more of the answers is exemplary and worthy of an additional bounty.
+
 
 
 

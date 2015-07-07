@@ -34,7 +34,7 @@ But of course, we’d be running an election soon anyway; as amazing as [the cur
 Jeff laid out the basic philosophy in [A Theory of Moderation](http://blog.stackoverflow.com/2009/05/a-theory-of-moderation/):
 
 
-<blockquote>**Moderators are human exception handlers**, there to deal with those (hopefully rare) exceptional conditions that should not _normally_ happen, but when they do, they can bring your entire community to a screaming halt — _if_ you don’t have human exception handling in place.</blockquote>
+<blockquote><strong>Moderators are human exception handlers</strong>, there to deal with those (hopefully rare) exceptional conditions that should not <em>normally</em> happen, but when they do, they can bring your entire community to a screaming halt — <em>if</em> you don’t have human exception handling in place.</blockquote>
 
 
 As the previous graph indicates, _flags_ - the primary embodiment of those exceptions - are a fairly frequent occurrence on Stack Overflow, purely because of its size. That said, a lot of flags aren't identifying things that are particularly _exceptional_: in particular, posts that need to be closed (duplicates, off-topic questions, etc) or are of extremely poor quality aren't all that uncommon on a site that gets over 7000 new questions and 11K answers each day. While moderators are well-equipped to handle these _quickly_, they don't actually _require_ moderators when a sufficient number of experienced users are willing and able to help.
@@ -50,7 +50,7 @@ As the previous graph indicates, _flags_ - the primary embodiment of those excep
 As Jeff wrote:
 
 
-<blockquote>We designed the [Stack Exchange network](http://stackexchange.com/sites) engine to be mostly self-regulating, in that we amortize the overall moderation cost of the system across thousands of teeny-tiny slices of effort contributed by regular, everyday users.</blockquote>
+<blockquote>We designed the <a href="http://stackexchange.com/sites">Stack Exchange network</a> engine to be mostly self-regulating, in that we amortize the overall moderation cost of the system across thousands of teeny-tiny slices of effort contributed by regular, everyday users.</blockquote>
 
 
 That’s _not_ empty rhetoric - on a site the size of Stack Overflow, it’s **absolutely essential**. Geoff Dalgas came up with the design for the new review system based on his observations of wikiHow’s [Community Dashboard](http://www.wikihow.com/Special:CommunityDashboard): individual tasks, each focused on a specific need with specific actions to be taken and specific guidance provided for new users. The philosophy: don’t just give people stuff to do - help them learn how to do it.

@@ -67,10 +67,10 @@ But the questions you want to discuss in meta are those issues specific to your 
 Take [Super User's "About" page](http://superuser.com/about) as an example:
 
 
-<blockquote>Super User is for computer enthusiasts and power users.
- …
+>Super User is for computer enthusiasts and power users.
+> …
 
-Ask about...
+> Ask about...
 
 
 > 
@@ -82,7 +82,7 @@ Ask about...
 >   * Real problems or questions that you’ve encountered
 > 
 
-Don't ask about...
+> Don't ask about...
 
     
 >   * Anything not directly related to computer software or computer hardware
@@ -105,7 +105,7 @@ Don't ask about...
     
 >   * Issues specific to corporate IT support and networks
 > 
-</blockquote>
+>
 
 
 These are then elaborated on in SU's [What topics can I ask about here?](http://superuser.com/help/on-topic) page.

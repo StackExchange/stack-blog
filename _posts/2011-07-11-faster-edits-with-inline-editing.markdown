@@ -19,11 +19,11 @@ Every Stack Exchange question and answer pair is intended to be an [evergreen, e
 
 
 
-<blockquote>
+>
 The editing feature is there so that old question/answer pairs can get better and better. For every person who asks a question and gets an answer on Stack Exchange, hundreds or thousands of people will come read that conversation later. Even if the original asker got a decent answer and moved on, the question lives on and may continue to be useful for decades.
 
+>
 This is fundamentally different from Usenet or any of the web-based forums. It means that Stack Exchange is not just a historical record of questions and answers. It's a lot more than that: it's actually a community-edited wiki of narrow, "long-tail" questions -- questions that aren’t quite important enough to deserve a page on Wikipedia, but which come up over and over again.
-</blockquote>
 
 
 

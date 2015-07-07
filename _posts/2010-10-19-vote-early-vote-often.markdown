@@ -98,14 +98,14 @@ These new voting badges will be applied retroactively, and complement the existi
 
 
 
-<blockquote>
+>
 Let each citizen remember at the moment he is offering his vote that he is not making a present or a compliment to please an individual -- or at least that he ought not so to do; but that he is executing one of the most solemn trusts in human society.
 
 > 
 > - Samuel Adams
 > 
 > 
-</blockquote>
+
 
 
 

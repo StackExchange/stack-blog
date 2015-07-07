@@ -29,7 +29,7 @@ Why? Well, **sometimes questions are asked that _just don't belong_**. In the sp
 
 
 
-<blockquote>
+>
 **exact duplicate**
 This question covers exactly the same ground as earlier questions on this topic; its answers may be merged with another identical question.
 
@@ -40,15 +40,17 @@ Questions on Stack Overflow are expected to generally relate to programming or s
 > 
 > 
 
-**not constructive**
+>
+**not constructive**<br/>
 This question is not a good fit to our Q&A; format. We expect answers to generally involve facts, references, or specific expertise; this question will likely solicit opinion, debate, arguments, polling, or extended discussion.
 
-**not a real question**
+>
+**not a real question**<br/>
 It's difficult to tell what is being asked here. This question is ambiguous, vague, incomplete, overly broad, or rhetorical and cannot be reasonably answered in its current form.
 
-**too localized**
+>
+**too localized**<br/>
 This question would only be relevant to a small geographic area, a specific moment in time, or an extraordinarily narrow situation that is not generally applicable to the worldwide audience of the internet.
-</blockquote>
 
 
 

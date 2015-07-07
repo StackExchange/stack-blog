@@ -17,7 +17,7 @@ tags:
 If you've been around Meta Stack Overflow the past few days, you've seen a fair bit of conversation sparked by [the recent changes to how reputation is calculated](http://meta.stackoverflow.com/questions/123319/recent-reputation-history-changes):
 
 
-<blockquote>To be clear: **reputation values are not changing, every action in the system is still worth the same amount**. Here’s what _will_ be different:
+>To be clear: **reputation values are not changing, every action in the system is still worth the same amount**. Here’s what _will_ be different:
 
 > 
 > 
@@ -40,7 +40,6 @@ If you've been around Meta Stack Overflow the past few days, you've seen a fair 
 >   * The reputation history in your profile will be more detailed and accurate (e.g. when a post is deleted, you'll see that in the reputation tab of your profile)
 > 
 
-</blockquote>
 
 
 This may sound pretty boring - and it is - but it's a big deal for some of our most avid users, for whom that number at the top of the screen is an at-a-glance indicator of how their contributions are faring on the site. Up until now, the reputation visible next to your name on your profile was a rough aproximation of your _real_ reputation - [only a recalculation](http://blog.stackoverflow.com/2010/03/the-great-reputation-recalc-begins/) would resolve all the discrepancies that crept in over time.

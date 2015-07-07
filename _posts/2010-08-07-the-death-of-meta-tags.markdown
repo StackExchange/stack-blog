@@ -42,7 +42,7 @@ There are some weak arguments in favor of keeping [subjective], but that's about
 
 
 
-<blockquote>
+>
 I think the [subjective] tag is useless at best and actively harmful at worst.
 
 > 
@@ -56,7 +56,7 @@ And harmful, because there are some users who actually believe that, like commun
 > 
 > 
 It's been used pejoratively and defensively, without any real consistency, for a long long time now. Time to go.
-</blockquote>
+
 
 
 
@@ -68,7 +68,7 @@ However, it wasn't until I saw [this absolutely brilliant post by Aaronut](http:
 
 
 
-<blockquote>
+>
 There's been a major uptick recently in tags that are not useful and just add noise. I want to stress that these are usually added in good faith, and I am not questioning anybody's motivation - I know that they all mean well. But this particular category of tags is one that has been historically referred to as meta-tags on MSO, and these tags cause a lot of problems.
 
 > 
@@ -78,7 +78,7 @@ There's been a major uptick recently in tags that are not useful and just add no
 > 
 > 
 Meta-tags are actually a subset of a larger problem that I usually call dependent tags. These are tags that don't say anything by themselves - you can't tell what the question is about unless they're paired with some other tag (or several of them). These tags are a problem because people don't realize this and will often use that as the question's only tag.
-</blockquote>
+
 
 
 

@@ -17,11 +17,12 @@ It seems like only [five short months ago](http://blog.stackoverflow.com/2010/04
 
 
 
-<blockquote>
+>
 The third place is a term used in the concept of community building to refer to social surroundings separate from the two usual social environments of **home** and the **workplace**. In his influential book The Great Good Place, Ray Oldenburg argues that **third places** are important for civil society, democracy, civic engagement, and establishing feelings of a sense of place.
 
+>
 Most needed are those [‘third places’](http://en.wikipedia.org/wiki/Third_place) which lend a public balance to the increased privatization of home life. Third places are nothing more than informal public gathering places. The phrase ‘third places’ derives from considering our homes to be the ‘first’ places in our lives, and our work places the ‘second.’
-</blockquote>
+
 
 
 

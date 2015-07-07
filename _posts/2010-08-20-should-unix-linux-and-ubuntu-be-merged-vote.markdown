@@ -19,7 +19,7 @@ Remember last week when we asked: [Unix and Ubuntu: Why Both?](http://blog.stack
 
 
 
-<blockquote>
+>
 
 > 
 > You may have noticed that two similar [Area 51](http://area51.stackexchange.com) site proposals have reached commitment and launched betas:
@@ -40,7 +40,7 @@ Remember last week when we asked: [Unix and Ubuntu: Why Both?](http://blog.stack
 > You might well ask: _aren't these the very same thing?_ Why have two communities on the same topic? What, then, is the difference between unix and ubuntu? The answer to this question cuts to the very heart of what community _is_.
 > 
 > 
-</blockquote>
+
 
 
 

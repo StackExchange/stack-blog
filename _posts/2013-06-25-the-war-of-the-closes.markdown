@@ -53,7 +53,7 @@ It _is_ off-putting to be told that your question is "not constructive".  To 
 **Ironically, we picked those terms _explicitly because they were nicer ways to convey what we meant. _**And they _were__ _nicer than, "You're kind of ranting and being a jackass," or, "No one can answer that ambiguous nonsense."  But so is prefacing my feedback to my wife with:
 
 
-<blockquote>**_It could be just me, but I feel_** like you're acting completely nutballs crazy.</blockquote>
+<blockquote><strong><em>It could be just me, but I feel</em></strong> like you're acting completely nutballs crazy.</blockquote>
 
 
 In both cases, we've gotten nicer than we started, but we're still pretty far shy of where someone might actually _accept our feedback_.

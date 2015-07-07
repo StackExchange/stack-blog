@@ -18,11 +18,10 @@ As I mentioned in [The Horror of No Answer: Revival and Necromancer](http://blog
 
 
 
-<blockquote>
-It’s fine — expected, even — for there to be a “long tail” of questions that are too obscure, too narrow, or just plain unanswerable for whatever reason. Sometimes you have to be patient; it takes the time it takes. But seeing the number of zero-answer questions grow by 50% over a 3 month period is definitely concerning.
+> It’s fine — expected, even — for there to be a “long tail” of questions that are too obscure, too narrow, or just plain unanswerable for whatever reason. Sometimes you have to be patient; it takes the time it takes. But seeing the number of zero-answer questions grow by 50% over a 3 month period is definitely concerning.
 
-Part of this is our fault for not adapting the homepage to the massive amount of question activity that Stack Overflow now enjoys. We’re working on it, but it will take some time to figure out the right approach.
-</blockquote>
+> Part of this is our fault for not adapting the homepage to the massive amount of question activity that Stack Overflow now enjoys. We’re working on it, but it will take some time to figure out the right approach.
+
 
 
 

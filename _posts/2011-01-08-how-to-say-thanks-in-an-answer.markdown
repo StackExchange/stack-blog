@@ -36,13 +36,12 @@ Based on our experience with "thanks" answers, we knew that very short answers w
 
 
 
-<blockquote>
+>
 Long but mistaken arguments [on Hacker News] are actually quite rare. **There is a strong correlation between comment quality and length**; if you wanted to compare the quality of comments on community sites, average length would be a good predictor. Probably the cause is human nature rather than anything specific to comment threads. Probably it's simply that stupidity more often takes the form of having few ideas than wrong ones.
 
 > 
 > 
-Whatever the cause, stupid comments tend to be short. And since it's hard to write a short comment that's distinguished for the amount of information it conveys, people try to distinguish them instead by being funny. 
-</blockquote>
+Whatever the cause, stupid comments tend to be short. And since it's hard to write a short comment that's distinguished for the amount of information it conveys, people try to distinguish them instead by being funny.
 
 
 
