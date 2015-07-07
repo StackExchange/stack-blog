@@ -72,9 +72,10 @@ A steady influx of questions is a natural side effect of a growing, healthy site
 Joel suggested a _healthier_ alternative by rallying users around specific _events_ as a catalyst for asking interesting questions you come across in your day to day work. Any event that gets your community going — a hot new release, an upcoming convention, any news-worthy event — [Here’s how he did it on Ask Different](http://meta.apple.stackexchange.com/questions/589/now-that-lion-is-out-help-promote-ask-different):
 
 
-<blockquote>Now that OS X Lion is shipping, there will be zillions of Mac users upgrading, and they'll have lots of questions. And since all those questions will be new, Ask Different will have as good a shot at having the best answer than any of those, you know, competitive sites. Essentially, this is a great time to recruit new members!
+>Now that OS X Lion is shipping, there will be zillions of Mac users upgrading, and they'll have lots of questions. And since all those questions will be new, Ask Different will have as good a shot at having the best answer than any of those, you know, competitive sites. Essentially, this is a great time to recruit new members!
 
-As you install and learn Lion, whenever you have questions, no matter how silly, _ask them here_. You're not the only one having that question. Millions of other people will, too. Ask them even if you think you're going to be able to find the answer yourself... and if you do find the answer, go ahead and answer it yourself …</blockquote>
+>
+As you install and learn Lion, whenever you have questions, no matter how silly, _ask them here_. You're not the only one having that question. Millions of other people will, too. Ask them even if you think you're going to be able to find the answer yourself... and if you do find the answer, go ahead and answer it yourself …
 
 
 [Read the post](http://meta.apple.stackexchange.com/questions/589/now-that-lion-is-out-help-promote-ask-different) and issue a call for questions around interesting events that will be super-popular in_ your_ community. Those questions will bring in lots of traffic from search engines and will attract some great new users who will add value for years to come.

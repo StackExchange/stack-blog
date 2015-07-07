@@ -37,11 +37,11 @@ As Joel explained in [Merging Season](http://blog.stackoverflow.com/2010/09/merg
 
 
 
-<blockquote>
+>
 1. Almost all X questions are on-topic for site Y
 2. Y already exists, it already has a tag for X, and nobody is complaining
 3. There’s a high probability that users of site Y would enjoy seeing the occasional question about X
-</blockquote>
+
 
 
 

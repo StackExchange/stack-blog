@@ -18,7 +18,7 @@ tags:
 Stack Overflow Careers was announced [five years ago](http://blog.stackoverflow.com/2009/10/introducing-stack-overflow-careers/) with a simple mission statement:
 
 
-<blockquote>We believe that **every professional programmer should have a job they love**</blockquote>
+<blockquote>We believe that <strong>every professional programmer should have a job they love</strong></blockquote>
 
 
 To help you find a job you love, we need to match you with the right job at the right time. We do that by [helping you create a profile that brings the right employers to you](http://blog.stackoverflow.com/2011/02/careers-2-0-launches/), and by showing you relevant job ads from our [job board](http://careers.stackoverflow.com/jobs) on Stack Overflow. With [over 6,000 companies](https://careers.stackoverflow.com/companies) that advertise on Stack Overflow Careers, we're getting closer to our goal of having a great job for every developer.

@@ -46,26 +46,27 @@ This past month, the TeX (pronounced like "tech" for those unaware) blog [interv
 
 We'll finish on something a bit more lighthearted:
 
-_Our English Language blog's so cool!
-I'll read it and learn a new rule
-[Or other awesome thing](http://english.blogoverflow.com/2011/11/the-basics-of-limerick-composition/)
-That I can then bring
+_Our English Language blog's so cool!<br/>
+I'll read it and learn a new rule<br/>
+[Or other awesome thing](http://english.blogoverflow.com/2011/11/the-basics-of-limerick-composition/)<br/>
+That I can then bring<br/>
 To the "Best of Site Blogs" pool!_
 
 Or, if you prefer:
 
-_We have here an awesome blog post
-That could teach one to be the toast
-Of any cool parties
-And seem a real smartie,
+_We have here an awesome blog post<br/>
+That could teach one to be the toast<br/>
+Of any cool parties<br/>
+And seem a real smartie,<br/>
 While staying refined, unlike most!_
 
 
-<blockquote>Two things that can indicate a good grasp of a language, at least in the case of English, are the abilities to pun and to rhyme.
+> Two things that can indicate a good grasp of a language, at least in the case of English, are the abilities to pun and to rhyme.
 
+>
 Punning is probably more difficult than rhyming, since it requires not only a good grasp of pronunciation and a swift vocabulary, but also knowledge of the meaning of a great many words and idioms.
 
-One of my favourite British pastimes that involves a lot of rhyming and occasional punning, is that of writing limericks.</blockquote>
+> One of my favourite British pastimes that involves a lot of rhyming and occasional punning, is that of writing limericks.
 
 
 There you have it -- a nice assortment of awesome entries from BlogOverflow. Don't get me wrong; these aren't the _only_ entries posted this month. [Gaming](http://blog.gaming.stackexchange.com/), for example, had a number of really interesting entries this past month, covering everything from [videos about game launches](http://blog.gaming.stackexchange.com/2011/11/its-skyrim-time/) to [ruining a good game with background "music"](http://blog.gaming.stackexchange.com/2011/11/scoregasm/).

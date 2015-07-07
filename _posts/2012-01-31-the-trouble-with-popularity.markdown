@@ -53,19 +53,22 @@ Ironically, the Reddit community itself now recognizes that [moderation is funda
 ):
 
 
-<blockquote>One thing thing that does concern me, however, is that [as this subreddit gets more popular] the amount of image macros, memes, rage comics and generally low-quality content hitting the front page has grown to annoying proportions.
+> One thing thing that does concern me, however, is that [as this subreddit gets more popular] the amount of image macros, memes, rage comics and generally low-quality content hitting the front page has grown to annoying proportions.
 
+>
 **The problem with image macros and rage comics (besides generally lacking wit or anything genuinely insightful) is that they're quick and easy to digest, and thus tend to get upvoted faster than self posts and actual discussions which take thought and time before an appropriate response can meted out.** If you're not careful you end up with something akin to /r/gaming, which is now a burbling, deformed wreck of its former self, with anything remotely resembling intelligent discussion being buried under a sea of vacuous meme-repetition.
 
-In my view what this subreddit needs is a touch more moderation to ensure that we don't end up with a front page full of imgur/memegenerator links, and that people who want to use this subreddit as a medium to discuss the [topic] can do so without having to sift through the crap with a shovel.</blockquote>
+>
+In my view what this subreddit needs is a touch more moderation to ensure that we don't end up with a front page full of imgur/memegenerator links, and that people who want to use this subreddit as a medium to discuss the [topic] can do so without having to sift through the crap with a shovel.
 
 
 This is as clear a call for active moderation as I've ever seen. And the moderators, to their credit, [took charge and instituted changes](http://www.reddit.com/r/battlefield3/comments/o7y4x/new_community_rules_please_read/) to help guide their community away from the fatty junk food content:
 
 
-<blockquote>We’ve heard your concerns over the direction the community is heading. We were hoping we could ride it out and things would balance themselves, but it just isn't working, and things need to change. **It’s plain to see that meme-based content attracts many upvotes, and we all love a good laugh, but it is not what we want this community to be.** But this isn't just about memes, it's about the general tone of the community. We’re making changes to our rules for posting, commenting, and voting here -- necessary changes to make [this] the community we first envisioned.
+> We’ve heard your concerns over the direction the community is heading. We were hoping we could ride it out and things would balance themselves, but it just isn't working, and things need to change. **It’s plain to see that meme-based content attracts many upvotes, and we all love a good laugh, but it is not what we want this community to be.** But this isn't just about memes, it's about the general tone of the community. We’re making changes to our rules for posting, commenting, and voting here -- necessary changes to make [this] the community we first envisioned.
 
-This community is for sharing thought-provoking stories, high-level tactics discussions, videos/images of the awesomeness of [topic], suggestions or discussions on mechanics, and it can all be done without resorting to memes or complaining. Reddit never ceases to amaze, I expect to be surprised! If you have any questions, message the mods! We hope you agree and understand these changes.</blockquote>
+>
+This community is for sharing thought-provoking stories, high-level tactics discussions, videos/images of the awesomeness of [topic], suggestions or discussions on mechanics, and it can all be done without resorting to memes or complaining. Reddit never ceases to amaze, I expect to be surprised! If you have any questions, message the mods! We hope you agree and understand these changes.
 
 
 We know that closing the cookie jar is painful. We feel your pain. Nobody likes having their fun taken away. But it's too addictive and too easy, and in the absence of any moderation, the community would do nothing but add and upvote the easy, fun stuff.
@@ -73,7 +76,7 @@ We know that closing the cookie jar is painful. We feel your pain. Nobody likes 
 This is why community moderators have real power; they _need_ that power to intervene, educate, and refocus the community's exuberance on more substantive content. People will fight you almost literally to the death over their right to be entertained, and to entertain others:
 
 
-<blockquote>Why can't you just not look at these fun posts? Why do they have to be _deleted?_ You guys suck!</blockquote>
+<blockquote>Why can't you just not look at these fun posts? Why do they have to be <em>deleted?</em> You guys suck!</blockquote>
 
 
 The same reason the moderators and community on that subreddit didn't decide to "not look" at the fun posts, really:

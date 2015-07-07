@@ -28,7 +28,7 @@ I'm pleased to announce that this new HAProxy feature we sponsored is [now avail
 
 
 
-<blockquote>
+>
 Geoff Dalgas and Jeff Atwood described to me in great details what they needed to do : perform request throttling per IP address, possibly based on various criteria, in order to limit risks of service abuse. That was very interesting, because that feature was being thought about for about 4 years without enough time to completely develop it …
 
 > 
@@ -38,7 +38,7 @@ Geoff Dalgas and Jeff Atwood described to me in great details what they needed t
 > 
 > 
 The last words naturally go to the really cool guys at Stack Overflow. It's very nice to see some sites and companies involve time and money and take risks to make Open Source products better. Of course they benefit from this work, but at no point during the whole development did they try to reduce the focus to their specific needs, quite the opposite. From the very first exchanges, their goal clearly was to make the product better, and that must be outlined. That's now achieved and I really appreciate their involvement. Thank you guys!
-</blockquote>
+
 
 
 

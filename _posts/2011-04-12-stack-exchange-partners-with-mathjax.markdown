@@ -24,25 +24,30 @@ We love MathJax, and we use it on six sites in [the Stack Exchange network](http
 
 
 
-<blockquote>
+>
 **[Quantitative Finance](http://quant.stackexchange.com/)**
 Q&A; for finance professionals and academics
 
+>
 **[Electronics Design](http://electronics.stackexchange.com/)**
 Q&A; for electronic hardware hacking enthusiasts
 
+>
 **[Statistical Analysis](http://stats.stackexchange.com/)**
 Q&A; for statisticians, data analysts, data miners and data visualization experts
 
+>
 **[Physics](http://physics.stackexchange.com/)**
 Q&A; for active researchers, academics and students of physics
 
+>
 **[Mathematics](http://math.stackexchange.com/)**
 Q&A; for people studying math at any level and professionals in related fields
 
+>
 **[Theoretical Computer Science](http://cstheory.stackexchange.com/)**
 Q&A; for theoretical computer scientists and researchers in related fields
-</blockquote>
+
 
 
 

@@ -29,19 +29,15 @@ But we were on a toddler schedule, so we had to rush a bit. We took tons of phot
 
 
 
-<blockquote>
-stackoverflow.com  
+>
+stackoverflow.com
 
-Dedicated to the  
+> Dedicated to the <br/>
+> expert programmers <br/>
+> whose tireless work <br/>
+> made this plaque <br/>
+> possible
 
-expert programmers  
-
-whose tireless work  
-
-made this plaque  
-
-possible
-</blockquote>
 
 
 

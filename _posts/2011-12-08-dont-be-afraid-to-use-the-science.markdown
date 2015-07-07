@@ -126,7 +126,7 @@ We do what we can to help new users understand how to base their answer on somet
 
 
 
-<blockquote>
+>
 Thanks for contributing an answer to {sitename}!
 
 > 
@@ -140,7 +140,6 @@ Provide details and share your research. Avoid statements based solely on opinio
 > 
 > 
 To learn more, see our [tips on writing great answers](http://superuser.com/questions/how-to-answer).
-</blockquote>
 
 
 

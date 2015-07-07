@@ -19,7 +19,7 @@ Ever had one of these days?
 
 
 
-<blockquote>
+>
 **Are you a human being?**
 
 > 
@@ -41,7 +41,7 @@ Ever had one of these days?
 > Enter the [CAPTCHA](http://en.wikipedia.org/wiki/Captcha) displayed below, and we'll be out of your way.
 > 
 > 
-</blockquote>
+
 
 
 

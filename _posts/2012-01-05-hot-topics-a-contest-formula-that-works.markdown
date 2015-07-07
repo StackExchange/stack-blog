@@ -18,9 +18,10 @@ tags:
 CHAOS has been searching for the perfect way to promote activity on our sites for a while now. After all, before you can try to recruit new users, you need to engage your existing community. Since we’re a network of Q&A websites, a natural place to start is having question-asking contests. Some of our contests have been more successful than [others](http://meta.math.stackexchange.com/questions/3212/battle-of-the-sites-cancelled), but it seems like we’ve finally found one that works:
 
 
-<blockquote>**What**: Hot Topic of the Week
+> **What**: Hot Topic of the Week
 
-**How it works**: Pick a topic of the week, and enter everyone who asks a question related to that topic into a random drawing to win a prize. The number of entries a person gets is equal to the number of questions they ask about the topic of the week.</blockquote>
+>
+**How it works**: Pick a topic of the week, and enter everyone who asks a question related to that topic into a random drawing to win a prize. The number of entries a person gets is equal to the number of questions they ask about the topic of the week.
 
 
 This is similar to the weekly topic challenge being held on [Jewish Life & Learning](http://meta.judaism.stackexchange.com/questions/441/weekly-topic-challenge-call-for-proposals), but adapted to a contest model. It’s pretty simple, but surprisingly effective, and there are a few key reasons why it works.

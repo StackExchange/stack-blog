@@ -34,9 +34,9 @@ When we opened up the process to allow the community to design their own sites, 
 Conclusion? There isn't a majority on both sides to merge. The Unix world loves to take sides. I don't have to blog about this; Freud already did, in 1930. He called it "the narcissism of minor differences":
 
 
+>
+It is clearly not easy for man to give up the satisfaction of this inclination to aggression.  They do not feel comfortable without it.  The advantage which a comparatively small cultural group offers of allowing this instinct an outlet in the form of hostility against intruders is not to be despised. It is always possible to bind together a considerable number of people in love, so long as there are other people left over to receive the manifestations of their aggressiveness.  I once discussed the phenomenon that is precisely communities with adjoining territories, and related to each other in other ways as well, who are engaged in constant feuds and in ridiculing each other -- like the Spaniards and Portuguese, for instance, the North Germans and South Germans, the English and Scotch, and so on.  I gave this phenomenon the name of "the narcissism of minor differences", a name which does not do much to explain it.  We can now see that it is a convenient and relatively harmless satisfaction of the inclination to aggression, by means of which cohesion between the members of the community is made easier.
 
-<blockquote>
-It is clearly not easy for man to give up the satisfaction of this inclination to aggression.  They do not feel comfortable without it.  The advantage which a comparatively small cultural group offers of allowing this instinct an outlet in the form of hostility against intruders is not to be despised. It is always possible to bind together a considerable number of people in love, so long as there are other people left over to receive the manifestations of their aggressiveness.  I once discussed the phenomenon that is precisely communities with adjoining territories, and related to each other in other ways as well, who are engaged in constant feuds and in ridiculing each other -- like the Spaniards and Portuguese, for instance, the North Germans and South Germans, the English and Scotch, and so on.  I gave this phenomenon the name of "the narcissism of minor differences", a name which does not do much to explain it.  We can now see that it is a convenient and relatively harmless satisfaction of the inclination to aggression, by means of which cohesion between the members of the community is made easier.  
   
 
 
@@ -44,7 +44,6 @@ It is clearly not easy for man to give up the satisfaction of this inclination t
 > [—Civilization and its Discontents](http://en.wikipedia.org/wiki/Civilization_and_Its_Discontents)
 > 
 > 
-</blockquote>
 
 
 
@@ -52,9 +51,9 @@ Monty Python might have put it better in [this scene (YouTube)](http://www.youtu
 
 
 
-<blockquote>
+>
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/pfj.jpg)](http://www.youtube.com/watch?v=gb_qHP7VaZE)
+> [![](http://blog.stackoverflow.com/wp-content/uploads/pfj.jpg)](http://www.youtube.com/watch?v=gb_qHP7VaZE)
 
 
 > 
@@ -365,7 +364,6 @@ as much as anybody.
 > 
 > 
 
-</blockquote>
 
 
 

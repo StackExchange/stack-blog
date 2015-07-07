@@ -19,7 +19,7 @@ In [A Recipe to Promote your Site](http://blog.stackoverflow.com/2010/08/a-recip
 
 
 
-<blockquote>
+>
 
 > 
 > Any community that shows sufficient effort and innovative ideas to promote their site will be offered a budget and resources to make those ideas happen. Think of it as matching funds -- except we're matching effort, innovation, resources, and ideas from the community. And it _has_ to come from within your community. You're the experts, not us!
@@ -32,7 +32,6 @@ In [A Recipe to Promote your Site](http://blog.stackoverflow.com/2010/08/a-recip
 
 > 
 > 
-</blockquote>
 
 
 

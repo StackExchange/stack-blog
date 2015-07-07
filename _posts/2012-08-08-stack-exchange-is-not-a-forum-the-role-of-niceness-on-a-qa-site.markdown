@@ -50,8 +50,10 @@ As a traditional forum evolves over time, insular rudeness becomes the weapon of
 Everyone loves to quote from [the FAQ's etiquette section](http://stackoverflow.com/faq#etiquette), particularly the first "be nice" bit. But it's the last section that has all the action items:
 
 
-<blockquote>**Be honest.**
-Above all, be honest. If you see misinformation, vote it down. Add comments indicating what, specifically, is wrong. Provide better answers of your own. Best of all — edit and improve the existing questions and answers!</blockquote>
+>**Be honest.**
+
+>
+Above all, be honest. If you see misinformation, vote it down. Add comments indicating what, specifically, is wrong. Provide better answers of your own. Best of all — edit and improve the existing questions and answers!
 
 
 Tired of seeing crappy questions? Close them. Irritated by lousy answers? Down-vote them. Depressed by the meaningless junk that some people post whenever they see an empty text field? Delete it! Embarrassed by poor grammar or formatting? Edit it! **See someone being rude? Flag it!** All of these tools exist, and [we're working hard on making them better and more effective](http://meta.stackoverflow.com/questions/139536/new-feature-community-review-tasks-now-in-beta).

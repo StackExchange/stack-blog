@@ -19,11 +19,11 @@ Stack Exchange is about questions with objective, factual answers. We've been cr
 
 
 
-<blockquote>
+>
 **What kind of questions should I not ask here?**
 
+>
 Avoid asking questions that are subjective, argumentative, or require extended discussion. This is not a discussion board, this is a place for questions that can be answered!
-</blockquote>
 
 
 

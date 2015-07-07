@@ -22,7 +22,7 @@ Our fellow [moderators Pro Tempore](http://blog.stackoverflow.com/2010/07/modera
 
 
 <blockquote>
-We don't run Stack Overflow. _You_ do.
+We don't run Stack Overflow. <em>You</em> do.
 </blockquote>
 
 

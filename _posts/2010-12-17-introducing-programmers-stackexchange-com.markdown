@@ -45,9 +45,10 @@ Remember, these are just guidelines, not hard and fast arbitrary rules; refer to
 
 
 
-<blockquote>
+>
 Programmers - Stack Exchange is for expert programmers who are interested in subjective discussions on software development.
 
+>
 This can include topics such as:
 
 
@@ -72,7 +73,7 @@ This can include topics such as:
 
 >   * Freelancing and business concerns
 
-</blockquote>
+
 
 
 
