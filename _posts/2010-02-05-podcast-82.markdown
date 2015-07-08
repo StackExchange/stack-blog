@@ -21,7 +21,7 @@ In this episode of the Stack Overflow podcast, Joel and Jeff sit down with Mac d
   * Daniel launched Red Sweater software way back in 1999 (and has been an active Mac developer since 1995), but it didn't become his primary business until 2005-ish. The big apps in his stable are [MarsEdit](http://www.red-sweater.com/marsedit/), blog composing software, and [Black Ink](http://www.red-sweater.com/blackink/), a crossword app. There has been no iPhone version of these OSX apps to date because it wasn't a good fit, but the iPad is going to be a nearly perfect fit.
 
 	
-  * In Daniel's experience, the primary change in Apple's software developer support story over the last 15 years is that Apple has become much more pragmatic in adopting developer tools from the UNIX and open source world. Remember when Apple had its own unix, [a/ux](http://en.wikipedia.org/wiki/A/UX)?
+  * In Daniel's experience, the primary change in Apple's software developer support story over the last 15 years is that Apple has become much more pragmatic in adopting developer tools from the UNIX and open source world. Remember when Apple had its own Unix, [a/ux](http://en.wikipedia.org/wiki/A/UX)?
 
 	
   * Apple has a whole new alternative to gcc, the [clang](http://en.wikipedia.org/wiki/Clang) compiler.

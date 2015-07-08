@@ -42,7 +42,7 @@ Our guest today is [James Portnow](https://twitter.com/#%21/JamesPortnow) of 
   * The dark side of gamification... is conditioned actions that make players continue to play FarmVille, slot machines, some MMOs, etc. Players become aware that they are not enjoying the experience, but they are compelled to continue nonetheless.
 
 	
-  * The danger in the [Khan Academy](http://en.wikipedia.org/wiki/Khan_Academy) is that for the American education system, this is the way to reduce our budget: have people record videos and have other people learn via these gamified websites. This is James's concernabout the Khan Academy.
+  * The danger in the [Khan Academy](http://en.wikipedia.org/wiki/Khan_Academy) is that for the American education system, this is the way to reduce our budget: have people record videos and have other people learn via these gamified websites. This is James's concern about the Khan Academy.
 
 	
   * When gamifying education, everybody should start off at 1 and work up from 1 - _not_ get docked points down from A+ or whatever. You also have to incentivize the class to help get each other's points up, not just each individual's own points. A high sense of agency is the sense of having control over your own existence and the world around you. When a student falls behind a little bit and does not feel like he or she can catch back up, they lose their sense of agency, and it becomes a monumental task to get the student back on track. Games teach us that outcome is directly related to our own actions, but with more instant results. (Programming is another way to demonstrate this direct impact.)

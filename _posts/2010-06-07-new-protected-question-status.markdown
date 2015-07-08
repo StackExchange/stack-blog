@@ -16,7 +16,7 @@ tags:
 ---
 
 
-At the behest of the Super User moderators, we've instituted a new question status of **protected**. A protected question is like a [protected wikipedia article](http://en.wikipedia.org/wiki/Protection_policy) -- it **no longer allows additions by anonymous users**.
+At the behest of the Super User moderators, we've instituted a new question status of **protected**. A protected question is like a [protected Wikipedia article](http://en.wikipedia.org/wiki/Protection_policy) -- it **no longer allows additions by anonymous users**.
 
 
 

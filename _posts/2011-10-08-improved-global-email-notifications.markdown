@@ -45,7 +45,7 @@ Bear in mind that we will only email you if you have not checked your global inb
 
 ![](/images/wordpress/global-inbox-email-example.png)
 
-(This also offers a more aggressive "every 3 hours" option which satisified a major outstanding request for our previous email notification support -- which was not only per question, but at best sent every 24-36 hours, and often much later depending on the timing.)
+(This also offers a more aggressive "every 3 hours" option which satisfied a major outstanding request for our previous email notification support -- which was not only per question, but at best sent every 24-36 hours, and often much later depending on the timing.)
 
 If you're worried nobody will be able to find this link buried in their profile, fret not. There is a reminder at the bottom of every single question you own, if you haven't enabled global inbox email notifications yet:
 
