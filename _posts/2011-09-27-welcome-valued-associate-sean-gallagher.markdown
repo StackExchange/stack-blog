@@ -25,7 +25,7 @@ The process of finding Sean did remind me of  the movie Seven Samurai, where t
 
 [![Sean's Japanese robot collection](http://blog.stackoverflow.com/wp-content/uploads/sean-toys-300x224.jpg)](http://blog.stackoverflow.com/2011/09/welcome-valued-associate-sean-gallagher/sean-toys/)
 
-Sean lives in NYC and loves Japanese food and robot toys as much as I do. He's a serious vintage japanese robo toys collector. Check out his [whole collection](http://www.toybotstudios.com/2011/08/wondrous-vintage-collection-of-diceone.html)!
+Sean lives in NYC and loves Japanese food and robot toys as much as I do. He's a serious vintage Japanese robo toys collector. Check out his [whole collection](http://www.toybotstudios.com/2011/08/wondrous-vintage-collection-of-diceone.html)!
 
 Welcome aboard Sean!
 

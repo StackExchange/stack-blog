@@ -27,7 +27,7 @@ In this episode of the Stack Overflow podcast, Joel and Jeff discuss the ethics 
   * There was a excellent, huge Wired article on the pros and cons of Craigslist, titled [Why Craigslist is Such a Mess](http://www.wired.com/entertainment/theweb/magazine/17-09/ff_craigslist). I am mentioned in the article, as an example of someone who created an tool to do [all-city search](http://www.codinghorror.com/craigslist/) that got shut down by Craiglist, which is quite militant about controlling the service.
 
 
-  * Joel feels that what Craig Newmark is doing with Craigslist is a brand of evil, in that it has destroyed the income stream (classified ads) that supported professional journalism. Craigslist was one of the models we studied extensively when building Stack Overflow, even [cribbing their flagging mechanism](http://blog.stackoverflow.com/2009/04/raising-a-red-flag/). Joel and I have an extended discussion about the ethics of Cragislist.
+  * Joel feels that what Craig Newmark is doing with Craigslist is a brand of evil, in that it has destroyed the income stream (classified ads) that supported professional journalism. Craigslist was one of the models we studied extensively when building Stack Overflow, even [cribbing their flagging mechanism](http://blog.stackoverflow.com/2009/04/raising-a-red-flag/). Joel and I have an extended discussion about the ethics of Craigslist.
 
 
   * Joel and I disagree about the future of professional journalism; I think the newspaper business model was fundamentally flawed. It is tempting to [blame Craigslist for the downfall of newspapers](http://blogs.vertigosoftware.com/jatwood/archive/2005/12/16/1747.aspx), but if it wasn't Craigslist, someone else would have done the same thing. For a thoughtful discussion of the topic, check out Clay Shirky's article [Newspapers and Thinking the Unthinkable](http://www.shirky.com/weblog/2009/03/newspapers-and-thinking-the-unthinkable/).
@@ -39,7 +39,7 @@ In this episode of the Stack Overflow podcast, Joel and Jeff discuss the ethics 
   * Joel's [Stack Exchange](http://stackexchange.com/) playground is [biztravel.stackexchange.com](http://biztravel.stackexchange.com/), but we need better color schemes. I think we need to have a contest to set some reasonable default color schemes for Stack Exchange customers to choose from.
 
 
-  * One thing Joel has learned from selling Fogbugz: software designed to be installed on a server in-house at a customer's site, under full control of that customer, is almost never worth the hassle. Virtual machines, or the software-as-applicance models, are more sustainible. But most companies won't allow outside vendors to remote into the app to troubleshoot it, either.
+  * One thing Joel has learned from selling Fogbugz: software designed to be installed on a server in-house at a customer's site, under full control of that customer, is almost never worth the hassle. Virtual machines, or the software-as-appliance models, are more sustainable. But most companies won't allow outside vendors to remote into the app to troubleshoot it, either.
 
 
   * A tremendously important part of designing a large public website is optimizing for anonymous user access, which will be a large proportion of your traffic. At Stack Overflow, even before our public launch in September, we spent a lot of time ensuring that anonymous usage is aggressively and heavily cached. 

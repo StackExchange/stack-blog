@@ -73,7 +73,7 @@ What does this mean in practical terms?
 
   * Our /faq will direct designers with pure HTML/CSS web design questions to Doctype, to better serve this subset of our audience.
 
-  * Our “hero roster” at the bottom of every page will offically list doctype.com as a member of the team. 
+  * Our “hero roster” at the bottom of every page will officially list doctype.com as a member of the team. 
 
   * We will host Doctype discussion on meta, so the Doctype [developers](http://stackoverflow.com/users/20345/davidsmalley) can participate and respond to community reactions and feedback for their site. 
 

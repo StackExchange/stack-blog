@@ -79,7 +79,7 @@ He also provided some sample Ruby code that implements the above formula:
 
 
 
-(other implementations in different languages were provided in [this reddit thread](http://www.reddit.com/r/programming/comments/7ww4d/how_not_to_sort_by_average_rating/).)
+(other implementations in different languages were provided in [this Reddit thread](http://www.reddit.com/r/programming/comments/7ww4d/how_not_to_sort_by_average_rating/).)
 
 
 

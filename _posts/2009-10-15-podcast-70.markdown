@@ -34,7 +34,7 @@ In this episode of the podcast, Joel and Jeff discuss DevDays, the diversity of 
 
 
 
-  * What's the minimum number of knowledgable, invested users you need to have a functional online Q&A community? Joel says one (!). I think it's more on the order of a few dozen. The software part is easy, the real hurdle is this: can you rustle together a core community of a few dozen enthusiastic, knowledgable folks?
+  * What's the minimum number of knowledgeable, invested users you need to have a functional online Q&A community? Joel says one (!). I think it's more on the order of a few dozen. The software part is easy, the real hurdle is this: can you rustle together a core community of a few dozen enthusiastic, knowledgeable folks?
 
 
   * An extended discussion of our new careers section of Stack Overflow, which [we launched last week](http://blog.stackoverflow.com/2009/10/introducing-stack-overflow-careers/). Joel sort of wrote the book on this topic, with [Smart and Gets Things Done: Joel Spolsky's Concise Guide to Finding the Best Technical Talent](http://www.amazon.com/dp/1590598385/?tag=codinghorror-20). Our careers approach grows out of Joel (and my) dissatisfaction with the current status quo. It sucks, and we'd like to build something better.
@@ -43,7 +43,7 @@ In this episode of the podcast, Joel and Jeff discuss DevDays, the diversity of 
   * This is the philosophy behind [careers.stackoverflow.com](http://careers.stackoverflow.com/) : smart companies should be pursuing good programmers, and not the other way around. We also want to cut out the cheesy for-pay contingency recruiters (or any other middlemen, for that matter) from the mix, and directly connect passionate programmers with companies that understand the value of programmers who [hit the high notes](http://www.joelonsoftware.com/articles/HighNotes.html).
 
 
-  * This is Fog Creek's guarantee for every service they charge money for: "The Fog Creek Promise: If you're not satisfied, for any reason, within 90 days you get a full refund, period, no questions asked. We don't want your money if you're not amazingly happy." Stack Overflow has adopted this promise as well. Why don't all companies do this? Why would you want to keep an unsatisified customer's money -- it generates ill will _far_ out of proportion to the tiny amount of money involved.
+  * This is Fog Creek's guarantee for every service they charge money for: "The Fog Creek Promise: If you're not satisfied, for any reason, within 90 days you get a full refund, period, no questions asked. We don't want your money if you're not amazingly happy." Stack Overflow has adopted this promise as well. Why don't all companies do this? Why would you want to keep an unsatisfied customer's money -- it generates ill will _far_ out of proportion to the tiny amount of money involved.
 
 
   * As a part of careers, we're planning to roll out free, public CVs with user-selectable "vanity" URLs in a week or two. In retrospect, we should have done this from day one, as it compliments the public record of your Q&A on Stack Overflow. As Joel notes, the best way to control your online presence is to fill it yourself with all the cool stuff you've been doing! Don't let others tell the story of you when you can tell it yourself.

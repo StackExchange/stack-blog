@@ -49,5 +49,5 @@ Now, if askers _try_ to use English and put in "sorry, my English isn't very goo
 
 
 
-But the idea that we should be forced to accommodate random human languages in our community is completely unsustainible. Now if _you_ want to form an any-human-language-goes community like that, be my guest. I fully support your effort and we'll be more than happy to direct any non-English questions your way.
+But the idea that we should be forced to accommodate random human languages in our community is completely unsustainable. Now if _you_ want to form an any-human-language-goes community like that, be my guest. I fully support your effort and we'll be more than happy to direct any non-English questions your way.
 

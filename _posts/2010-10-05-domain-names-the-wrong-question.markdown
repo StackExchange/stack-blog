@@ -101,11 +101,11 @@ And that, once decided, can become:
 
 Nothing is cast in stone, as evident by how often we change our minds. There's no urgent need to solve these issues right this minute. I'm convinced the world will not end if we don't convince everyone right now that this _exact decision_ is the most perfect decision ever made. Maybe we'll come up with a better naming schema. Maybe we'll end up acquiring an awesome top level domain name. Who knows?
 
-This naming issues is not as dire as it seems. It really isn't. There are so many arguments on both sides of the issue. But I can sympethize with the angst. We have an awesome community of highly passionate people who can't go to sleep when they feel like something is going in the wrong direction. I can totally relate.
+This naming issues is not as dire as it seems. It really isn't. There are so many arguments on both sides of the issue. But I can sympathize with the angst. We have an awesome community of highly passionate people who can't go to sleep when they feel like something is going in the wrong direction. I can totally relate.
 
 I don't like when community members come way feeling discouraged that they are not being heard. I listen and empathize and try and turn feedback into action. Listening to the community may not always mean doing what the loudest members want. It may not even mean doing what the _majority_ of the members want or taking a vote every time. But it _does_ absolutely always mean **we are listening.**
 
-Ultimately, it's our fault for asking the community the wrong question. And for that, we apologize. For the forseeable future, don't even attempt to "Pick a domain name!". If we have learned anything, it is that asking the wrong question produces endless variations of the wrong answer. The _correct_ question, the one we should have been asking the community all along, is this:
+Ultimately, it's our fault for asking the community the wrong question. And for that, we apologize. For the foreseeable future, don't even attempt to "Pick a domain name!". If we have learned anything, it is that asking the wrong question produces endless variations of the wrong answer. The _correct_ question, the one we should have been asking the community all along, is this:
 
 
 ## Tell us what your community is about in one brief sentence!
