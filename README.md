@@ -1,14 +1,15 @@
-# [Stack Exchange Blog](http://dev.blog.stackexchange.com/)
-
-This is a prototype for a new blog in the Stack Exchange ecosystem centered on developer topics. "Stack Exchange Blog" is a working name for this prototype.
+# [Stack Exchange Blog](http://blog.stackexchange.com/)
 
 ## Getting Started
-This blog runs on [Jekyll](http://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/). If you are actively involved in improving the infrastructure of this project, you should read the documentation for these platforms thoroughly (they're pretty short as it is). If you are simply contributing, this guide should be enough to get you going.
+This blog runs on [Jekyll](http://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/). Posts are written in [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
-## Links
- - [Add yourself as a contributor on the blog](https://github.com/StackExchange/blog/new/master/_authors) ([See example file](https://github.com/StackExchange/blog/edit/master/_authors/jonhmchan.md))
- - [Publish a new post](https://github.com/StackExchange/blog/new/master/_posts) ([See example post file](https://github.com/StackExchange/blog/edit/master/_posts/2014-1-28-My-First-Six-Weeks-Working-At-Stack-Overflow.md), [published version](http://stackexchange.github.io/blog/01/28/My-First-Six-Weeks-Working-At-Stack-Overflow/))
- - [Internal image uploader (must be on VPN or on office network)](http://blogtools.ds.stackexchange.com/)
+If you are actively involved in improving the infrastructure of this project, you should read the documentation for these platforms thoroughly (they're pretty short as it is). If you are simply contributing, this guide should be enough to get you going.
+
+## Quick Links
+ - [Add yourself as a contributor on the blog](https://github.com/StackExchange/blog/new/master/_authors) ([See an example file](https://github.com/StackExchange/blog/edit/master/_authors/jonhmchan.md))
+ - [Publish a new post](https://github.com/StackExchange/blog/new/master/_posts) ([See an example file](https://github.com/StackExchange/blog/edit/master/_posts/2014-1-28-My-First-Six-Weeks-Working-At-Stack-Overflow.md), [published version](http://stackexchange.github.io/blog/01/28/My-First-Six-Weeks-Working-At-Stack-Overflow/))
+ - [Dev blog (for employees only, where to preview posts before going live)](http://dev.blog.stackexchange.com/)
+ - [Internal image uploader (for employees only, must be on VPN or on office network)](http://blogtools.ds.stackexchange.com/)
  - [Company editorial board and calendar (post ideas and see schedule)](https://trello.com/b/WYAPaUEC/blog-editorial-and-calendar)
 
 ## What is this blog for?
@@ -50,7 +51,7 @@ So Jon Chan's `jonhmchan.md` file would look like:
 layout: author
 id: jonhmchan
 name: Jon Chan
-job: Web Developer
+job: Developer, Head of Evangelism
 avatar: https://www.gravatar.com/avatar/0090f1f22a03e38ca61dc955e1d0a346?s=100
 twitter: jonhmchan
 website: http://www.jonhmchan.com/
@@ -94,6 +95,7 @@ So Jon Chan's post `2014-1-28-My-First-Six-Weeks-At-Stack-Overflow.md` would loo
 ---
 layout: post
 title: My First Six Weeks Working at Stack Overflow
+date: 2014-01-28
 author: jonhmchan
 hero: https://ununsplash.imgix.net/photo-1416339306562-f3d12fefd36f?q=75&fm=jpg&s=dd8bffcffb3d622bea05c74d203121c6https://unsplash.imgix.net/photo-1416339442236-8ceb164046f8?q=75&fm=jpg&s=8eb83df8a744544977722717b1ea4d09
 source: http://www.jonhmchan.com/blog/2014/1/16/my-first-six-weeks-working-at-stack-overflow
