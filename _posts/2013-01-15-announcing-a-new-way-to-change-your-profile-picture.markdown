@@ -22,13 +22,13 @@ There's one problem: if you don't have a Gravatar account, you can't have a cust
 
 So from now on, anyone who wants a custom picture can simply upload one from their computer or the web.  If you hover your mouse over your picture on your profile page, you’ll see a new link to ”change picture”:
 
-![new change picture option](http://i.stack.imgur.com/n67sl.png)
+![new change picture option](https://i.stack.imgur.com/n67sl.png)
 
 Click on that, click the “Upload a new picture” button, select a picture from your computer (or enter the URL of an image on the web), and finally click the “Upload” button. That’s it.
 
 If you decide to switch back to your Gravatar, you can do that at any time:
 
-![selection UI](http://i.stack.imgur.com/DaUj4.png)
+![selection UI](https://i.stack.imgur.com/DaUj4.png)
 
 As always, you can have a different picture and bio for each site, or use the button at the bottom of your profile edit page to copy everything network wide. And since we default to Gravatar for profile pictures, your existing photos (or abstract patterns) will remain unchanged until you want them to change.
 

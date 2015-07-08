@@ -26,7 +26,7 @@ Jarrod and I met on the job in 2002, and became fast friends. Here was the rare 
 
 
 
-![I <3 code](http://i.stack.imgur.com/KVyDa.jpg)
+![I <3 code](https://i.stack.imgur.com/KVyDa.jpg)
 
 
 

@@ -91,7 +91,7 @@ And now we turn to our special guests! [Jin Yang](http://stackexchange.com/users
 
 So, what does the design team do? Jin gives us his memorized elevator pitch for what Stack Exchange designers do all day. (It includes beer pong, but probably not in the way you're thinking.) Stéphane designed the [new look and feel for Academia](http://academia.stackexchange.com/) and tells us about the process creating the look and feel for that fully graduated community. Courtny's worked on the new Careers 2.0 city pages, and Careers search results. Josh worked on reporting, messaging for Careers, and the new user profile page on the Q&A sites. Both of them are working on new features for Careers right now. We also delve deeper into Stack Exchange design culture and history. Anecdotes! Anecdotes galore!
 
-Thanks for listening to Stack Exchange Podcast #58, brought to you by our iOS app... and [Jay's crappy Batman drawing](http://i.stack.imgur.com/unndy.jpg).
+Thanks for listening to Stack Exchange Podcast #58, brought to you by our iOS app... and [Jay's crappy Batman drawing](https://i.stack.imgur.com/unndy.jpg).
 
 
 

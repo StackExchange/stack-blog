@@ -4,7 +4,7 @@ comments: true
 date: 2014-04-17 13:22:03+00:00
 layout: post
 redirect_from: /2014/04/announcing-the-launch-of-meta-stack-exchange
-hero: http://i.stack.imgur.com/JqDXy.jpg
+hero: https://i.stack.imgur.com/JqDXy.jpg
 slug: announcing-the-launch-of-meta-stack-exchange
 title: Announcing The Launch Of Meta Stack Exchange
 wordpress_id: 14633
@@ -59,7 +59,7 @@ Now, we realize that we weren't exactly hurting for “more challenges in figuri
 
 You can always find your local meta right under the main site in the site switcher in the upper left corner of the site:
 
-![](http://i.stack.imgur.com/urV64.png)
+![](https://i.stack.imgur.com/urV64.png)
 
 If you have any input or ideas to share, _just go right to your favorite site's meta and do it there_; there's no need for you to go to Meta Stack Exchange at all.
 

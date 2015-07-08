@@ -4,7 +4,7 @@ comments: true
 date: 2014-02-13 17:47:18+00:00
 layout: post
 redirect_from: /2014/02/cant-we-all-be-reasonable-and-speak-english
-hero: http://i.stack.imgur.com/PKfH6.jpg
+hero: https://i.stack.imgur.com/PKfH6.jpg
 slug: cant-we-all-be-reasonable-and-speak-english
 title: Can't We All be Reasonable and Speak English?
 wordpress_id: 14473

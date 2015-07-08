@@ -4,7 +4,7 @@ comments: true
 date: 2011-02-23 15:20:11+00:00
 layout: post
 redirect_from: https://cloud.githubusercontent.com/assets/1703653/7544486/6bc13c1a-f59b-11e4-8296-9f641ba48b8d.jpg
-hero: http://i.stack.imgur.com/nYlD2.jpg
+hero: https://i.stack.imgur.com/nYlD2.jpg
 slug: careers-2-0-launches
 title: Careers 2.0 Launches
 wordpress_id: 7341

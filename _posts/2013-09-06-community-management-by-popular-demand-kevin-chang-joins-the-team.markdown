@@ -21,4 +21,4 @@ Kevin lives on the east coast of the US, not too far from where he grew up. He's
 
 Kevin has been a pillar of the Stack Exchange community for many years, with some especially notable work on [our venerable Meta site](http://meta.stackoverflow.com/users/131713/pops). His ability to understand human behavior and cut to the root of an issue with his writing has proved invaluable in the past, and we're extremely happy to have him lending his expertise here full-time. As a sign of just how much he cares about the folks he's here to serve, his first action as a community manager was to shorten his name to the much easier to remember and type "Pops". Please give him a warm welcome when you see him pop up around the network!
 
-[![](http://i.stack.imgur.com/75Ong.jpg)](http://meta.stackoverflow.com/users/131713/pops)
+[![](https://i.stack.imgur.com/75Ong.jpg)](http://meta.stackoverflow.com/users/131713/pops)

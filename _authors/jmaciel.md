@@ -4,6 +4,6 @@ name: Josh Maciel
 id: jmaciel
 twitter: henkakyuu
 job: 'Community Manager'
-avatar: http://i.stack.imgur.com/kwaJV.jpg
+avatar: https://i.stack.imgur.com/kwaJV.jpg
 website: 
 ---

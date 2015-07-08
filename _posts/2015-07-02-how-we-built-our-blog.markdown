@@ -2,7 +2,7 @@
 layout: post
 author: jonhmchan
 title: How We Built Our Blog
-hero: http://i.stack.imgur.com/FYbC3.jpg
+hero: https://i.stack.imgur.com/FYbC3.jpg
 description: "There was a lot that went into building our new blog - including the new engineering channel. See why it took us six to eight weeks to move to a new system, migrate our old content, and redesign the site."
 tags:
 - engineering
@@ -23,14 +23,14 @@ So the first natural solution to address these goals would be to blog about the 
 After sending out the original proposal to the company, I quickly realized I might have stepped on a landmine of a project. The blog ecosystem was something that we've wanted to address for a very long time, and that meant that pretty much every part of the company would be affected by it and had strong opinions about the project. After considering all the comments I received, we came to a general conclusion: the ideal solution would be to take our most popular blog, the official Stack Exchange blog, and use it to house the new content we wanted - including the engineering posts. That turned out to be a much larger project that took [six to eight weeks](http://meta.stackexchange.com/questions/19478/the-many-memes-of-meta/19514#19514). There were some key parts to this solution that would make it work:
 
 ### Channels
-![](http://i.stack.imgur.com/jfB91.png)
+![](https://i.stack.imgur.com/jfB91.png)
 
 In the previous blog, we had all of our posts in a single column organized by tag. That meant *everything* we posted would go out to *anyone* reading our blog. The concern here was that if we just started writing very technical posts and put them in this channel, it would be relevant to a technical subset of our audience, but not to everyone. On the flip side, developers that would come to our blog to read technical content wouldn't necessarily want to read or care about everything else we're doing - they're here for the engineering stuff.
 
 What we came up with were "channels" - high level categories that would let us separate the major kinds of posts we'd be publishing. There are two main ones: company news and engineering. The company news channel would house all of the familiar content like podcasts, company announcements, and so forth. It would also let us add new kinds of content like those for internal culture and diversity related efforts. The engineering channel effectively became our solution for an engineering blog, and would host all of our technical walkthroughs, write-ups of evangelism efforts, and technical opinion pieces like we originally wanted.
 
 ### Reposts
-![](http://i.stack.imgur.com/B8QdQ.png)
+![](https://i.stack.imgur.com/B8QdQ.png)
 
 Another key part of this solution was the ability to repost. Many of the most popular posts related to Stack Exchange - especially the technical posts - were decentralized, housed in our many developers' personal blogs. There was a good reason for this: we believe that our developers should publicly get credit for the things they build internally, and one of the best ways to claim it is to write about it on their personal blogs. Once we created an engineering channel, we didn't want to make our developers feel like they had to choose between posting on the company blog or on their personal blog. It seemed like the wrong move.
 
@@ -40,11 +40,11 @@ Instead, we came up with a different approach: post on your personal blog about 
 ## A new blogging engine
 During the original proposal stage for the engineering blog, we also had a conversation about what engine we would use. At the time, all of our blogs were running WordPress...which we weren't so happy about. It was very buggy, difficult to log in to, not very performant, and has caused our SRE team more than a few headaches. If we were really going to revamp the new company blog, it seemed like a lot of work to try and wrestle with our WordPress installation.
 
-![](http://i.stack.imgur.com/I2BnX.png)
+![](https://i.stack.imgur.com/I2BnX.png)
 
 ### In comes Jekyll
 
-![](http://i.stack.imgur.com/2NfU8.png)
+![](https://i.stack.imgur.com/2NfU8.png)
 
 Because we weren't happy with WordPress, we started looking at other engines. We looked at static site generation in Go and even considered building our own engine, but what we decided to do was switch to [Jekyll](http://jekyllrb.com/). It's an open source static site generator built in Ruby that was great for building blogs on. A lot of developers I know were switching over to Jekyll for their personal sites and it was something we had played around with on some design projects. Switching to Jekyll had a number of advantages:
 
@@ -58,7 +58,7 @@ Jekyll seemed to fit the bill for what we wanted, and I started building a proto
 
 ### Open Source
 
-![](http://i.stack.imgur.com/ggOC0.png)
+![](https://i.stack.imgur.com/ggOC0.png)
 
 We have a policy of being "default public" at Stack Exchange. That means we try and work in the open when we can, and that includes our technical work. Because the blog prototype I was building was [already on GitHub](https://github.com/StackExchange/blog), it made sense to just keep it publicly available. It was different from the work I was used to - having code available to those outside of our internal team changed the way I approached building the blog:
 

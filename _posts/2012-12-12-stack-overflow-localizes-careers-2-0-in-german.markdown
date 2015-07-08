@@ -4,7 +4,7 @@ comments: true
 date: 2012-12-12 17:00:33+00:00
 layout: post
 redirect_from: /2012/12/stack-overflow-localizes-careers-2-0-in-german
-hero: http://i.stack.imgur.com/NzQG1.jpg
+hero: https://i.stack.imgur.com/NzQG1.jpg
 slug: stack-overflow-localizes-careers-2-0-in-german
 title: Stack Overflow localizes Careers 2.0 in German
 wordpress_id: 12695
@@ -18,7 +18,7 @@ After months of work from our dev team, last week marked the official launch of 
 
 
 
-![](http://i.stack.imgur.com/f567I.png)
+![](https://i.stack.imgur.com/f567I.png)
 ([More pictures here](http://www.flickr.com/photos/stackexchange/sets/72157632215888055/with/8264586890/).)
 
 

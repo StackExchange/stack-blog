@@ -2,7 +2,7 @@
 layout: post
 title: My First Six Weeks Working at Stack Overflow
 author: jonhmchan
-hero: http://i.stack.imgur.com/qOAcI.jpg
+hero: https://i.stack.imgur.com/qOAcI.jpg
 source: http://www.jonhmchan.com/blog/2014/1/16/my-first-six-weeks-working-at-stack-overflow
 tags:
  - onboarding

@@ -24,7 +24,7 @@ A couple of months ago, we started soliciting applications for a Community Manag
 
 I'm happy to announce that [**Gabe Koscky**](http://stackoverflow.com/users/9835/gabe) stepped up to fill this role. 
 
-[![](http://i.stack.imgur.com/QqHbc.png)](http://stackoverflow.com/users/9835/gabe)Gabe hails from sunny Vila Velha in Espírito Santo, Brazil. Some 15 years ago, he discovered the web and became fascinated by it: all of a sudden he could talk to people from around the world, learn new stuff and find new, more efficient ways to procrastinate. He tried every single piece of instant message, chat or forum software he could find just to see how they worked and what made them different.
+[![](https://i.stack.imgur.com/QqHbc.png)](http://stackoverflow.com/users/9835/gabe)Gabe hails from sunny Vila Velha in Espírito Santo, Brazil. Some 15 years ago, he discovered the web and became fascinated by it: all of a sudden he could talk to people from around the world, learn new stuff and find new, more efficient ways to procrastinate. He tried every single piece of instant message, chat or forum software he could find just to see how they worked and what made them different.
 
 That interest developed into a passion for the inner workings of the web, leading to a career as a web developer and a lot of research on how people interact with each other using the internet. After many years as a programmer he started to notice he was enjoying helping people out more than he was enjoying coding. So he decided to leave programming for a while and go chase new adventures here with us at Stack Exchange!
 

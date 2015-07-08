@@ -81,7 +81,7 @@ I think these criteria are safe. I was, however, surprised to discover there are
 
 When someone _wants_ their account deleted we normally ask that they [edit the profile and email us](http://meta.stackoverflow.com/questions/5999/can-i-delete-my-account) - this adds a human sanity-check to the process, since accounts are **hard-deleted** (unlike [posts](http://meta.stackoverflow.com/questions/5221/what-can-cause-a-post-to-be-deleted-and-what-does-that-actually-mean)). However, if you signed up to post a single question and never used your account again, it's a bit simpler: users with _next-to-no presence on the site_ (left at most one post or one vote, received at most one up-vote, etc.) will see a delete option on their profile:
 
-![profile delete link](http://i.stack.imgur.com/dlqrE.png)
+![profile delete link](https://i.stack.imgur.com/dlqrE.png)
 
 This ended up being a fairly common request from folks who created an account but never used it, or accidentally created a new account before remembering that they already had one.
 

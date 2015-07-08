@@ -29,7 +29,7 @@ Then, visit the [ad summary page](http://rads.stackoverflow.com/ossads/all) and 
 
 Congratulations to ELMAH and JS Studio for earning the top votes in the last round!
 
-[![](http://i.stack.imgur.com/Wi329.png)](http://meta.stackoverflow.com/a/93322/98786)     [![](http://i.stack.imgur.com/RQJwt.png)](http://meta.stackoverflow.com/a/93369/98786)
+[![](https://i.stack.imgur.com/Wi329.png)](http://meta.stackoverflow.com/a/93322/98786)     [![](https://i.stack.imgur.com/RQJwt.png)](http://meta.stackoverflow.com/a/93369/98786)
 
 The next round has already begun, so drop by our [Graphic Design site](http://graphicdesign.stackexchange.com/) and brush up on your image manipulation and illustrator skills. There are a lot of open source projects that need your help to bring them some much-needed publicity!
 

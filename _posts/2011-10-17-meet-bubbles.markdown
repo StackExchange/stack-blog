@@ -15,7 +15,7 @@ tags:
 
 This past weekend, CHAOS was working the New York Comic Con (NYCC) here in New York City. It was kind of amazing. But CHAOS wasn't the only one working hard this weekend....
 
-[![](http://i.stack.imgur.com/qnnjw.jpg)](http://i.stack.imgur.com/qnnjw.jpg)Meet Bubbles, the Stack Exchange mascot! Some of you might recognize her from her cameo on the podcast video stream a few weeks ago, but her official debut was this weekend at Comic Con. We'll be honest: not everyone here at Global Domination Headquarters was completely sold on getting Bubbles. I'm not naming any names, _Joel_, but some people just didn't see the value in it. Well, the joke's on those people, 'cause Bubbles was a smash hit.
+[![](https://i.stack.imgur.com/qnnjw.jpg)](https://i.stack.imgur.com/qnnjw.jpg)Meet Bubbles, the Stack Exchange mascot! Some of you might recognize her from her cameo on the podcast video stream a few weeks ago, but her official debut was this weekend at Comic Con. We'll be honest: not everyone here at Global Domination Headquarters was completely sold on getting Bubbles. I'm not naming any names, _Joel_, but some people just didn't see the value in it. Well, the joke's on those people, 'cause Bubbles was a smash hit.
 
 [![](http://farm7.static.flickr.com/6037/6253547867_8f0aa50cba_b.jpg)](http://farm7.static.flickr.com/6037/6253547867_8f0aa50cba_b.jpg)[![](http://farm7.static.flickr.com/6105/6254066398_0f15ea2a77_b.jpg)](http://farm7.static.flickr.com/6105/6254066398_0f15ea2a77_b.jpg)[![](http://farm7.static.flickr.com/6174/6254070222_9a425cecf7_b.jpg)](http://farm7.static.flickr.com/6174/6254070222_9a425cecf7_b.jpg) 
 
