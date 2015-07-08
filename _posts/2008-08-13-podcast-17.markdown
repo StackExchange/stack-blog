@@ -26,7 +26,7 @@ This is the seventeenth episode of the StackOverflow podcast. Joel is on vacatio
 
 
 
-  * Geoff and Jarrod, like me, both g[rew up with BASIC programming](http://www.codinghorror.com/blog/archives/001104.html) on early computers like the Apple // and Commodore 64. Can programmers who grew up programming somehow recognize each other?
+  * Geoff and Jarrod, like me, both [grew up with BASIC programming](http://www.codinghorror.com/blog/archives/001104.html) on early computers like the Apple // and Commodore 64. Can programmers who grew up programming somehow recognize each other?
 
 
   * The private beta is going well. We think the beta will continue through the month of August. We'll continue to add 150 users per day until the private beta is over.   

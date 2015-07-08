@@ -30,7 +30,7 @@ Joel and Jeff discuss.. stuff!
   * I noticed that someone [posted the halting problem to GetACoder.com](http://www.getacoder.com/projects/bug_finder_92913.html), so if nothing else good came of this, at least humor was delivered.
 
 
-  * How useful is math to most programmers? In other words, how often does a typical software developer use something they learned in, say, Calculus class or beyond? Joel cites the [original Google PageRank algrorithm paper](http://citeseer.ist.psu.edu/cache/papers/cs/7144/http:zSzzSzwww-db.stanford.eduzSz~backrubzSzpageranksub.pdf/page98pagerank.pdf) (pdf) and [Google's MapReduce](http://labs.google.com/papers/mapreduce-osdi04.pdf) (pdf) as good examples of math in practice for mainstream programming.
+  * How useful is math to most programmers? In other words, how often does a typical software developer use something they learned in, say, Calculus class or beyond? Joel cites the [original Google PageRank algorithm paper](http://citeseer.ist.psu.edu/cache/papers/cs/7144/http:zSzzSzwww-db.stanford.eduzSz~backrubzSzpageranksub.pdf/page98pagerank.pdf) (pdf) and [Google's MapReduce](http://labs.google.com/papers/mapreduce-osdi04.pdf) (pdf) as good examples of math in practice for mainstream programming.
 
 
   * I believe it's important for programmers to develop skills that aren't programming, necessarily, but that are complementary to programming, [such as graphic design](http://www.codinghorror.com/blog/archives/000849.html). (Or databases, or HTML/CSS, etcetera) Remember, good programmers write code; great programmers _steal_ code. This applies triply to design.
@@ -45,7 +45,7 @@ Joel and Jeff discuss.. stuff!
   * Joel believes most small to midsize software companies will deal with an economic downturn by (temporarily) deferring development of new versions of their products. For companies that have a lot of "extra" staff, the economy might be an excuse to get rid of the worst performing 10% of your employees.
 
 
-  * Joel justifies having a nice office space as 1) a recruiting tool 2) enabling higher programmer productivity and 3) the cost of a nice office space is a tiny number relative to all your other expenses running a company. I argue that companies which don't intuitively understand why nice office space is important to their employees who spend 8+ hours every day there.. well, those companies taren't smart enough to survive anyway.
+  * Joel justifies having a nice office space as 1) a recruiting tool 2) enabling higher programmer productivity and 3) the cost of a nice office space is a tiny number relative to all your other expenses running a company. I argue that companies which don't intuitively understand why nice office space is important to their employees who spend 8+ hours every day there.. well, those companies aren't smart enough to survive anyway.
 
 
   * My favorite Stack Overflow question this week is [Are Parameters really enough to prevent Sql injections](http://stackoverflow.com/questions/306668/are-parameters-really-enough-to-prevent-sql-injections)? Joel and I have a long discussion about the importance of parameterized SQL, both for performance and for security (beware [Little Bobby Tables](http://xkcd.com/327/)!). But you should know that it's not 100% foolproof; it is possible (though rare) to have latent SQL injection exploits even when fully parameterized.

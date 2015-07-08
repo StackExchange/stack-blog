@@ -54,7 +54,7 @@ This is the fifth episode of the StackOverflow podcast, wherein Joel and I discu
 
   * Apps like [RescueTime](http://www.rescuetime.com/) which track what applications you're running over time.
 
-  * Discusssion of an email from Michael Dorfman, wherein he is embarrassed on my behalf for my lack of computer science rigor.
+  * Discussion of an email from Michael Dorfman, wherein he is embarrassed on my behalf for my lack of computer science rigor.
 
   * Joel questions the sense of humor of his readers.
 

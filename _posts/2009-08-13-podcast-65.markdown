@@ -40,7 +40,7 @@ In this episode of the podcast, Joel and Jeff discuss lessons from a year of bui
   * We recently spent some time [improving performance on Stack Overflow](http://blog.stackoverflow.com/2009/08/a-few-speed-improvements/), and as always we've learned that whatever we think is slow, is not, and the part that is slow is in a totally unexpected area of our code. Never assume you know where a performance problem is, because I can almost guarantee you're wrong. Profile it and look at the data!
 
 
-  * We've seen huge benefits, more than anticipated, by moving our static web content to a seperate, cookieless domain. (We registered [sstatic.net](http://sstatic.net) for this purpose, which explains the rationale.) This is one of the key recommendations from tools like [YSlow](http://developer.yahoo.com/yslow/) and [Google Page Speed](http://code.google.com/speed/page-speed/). It's a surprisingly effective form of poor man's web farm scaling.
+  * We've seen huge benefits, more than anticipated, by moving our static web content to a separate, cookieless domain. (We registered [sstatic.net](http://sstatic.net) for this purpose, which explains the rationale.) This is one of the key recommendations from tools like [YSlow](http://developer.yahoo.com/yslow/) and [Google Page Speed](http://code.google.com/speed/page-speed/). It's a surprisingly effective form of poor man's web farm scaling.
 
 
   * A brief digression into the "why does anyone still use IE6" argument. Here's [Microsoft's official position](http://blogs.msdn.com/ie/archive/2009/08/10/engineering-pov-ie6.aspx), as crazy as it may seem.

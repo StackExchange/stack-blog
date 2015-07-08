@@ -111,7 +111,7 @@ Most needed are those 'third places' which lend a public balance to the increase
 
 
 
-Like meta, you can ignore this aspect of the site entirely. It's a seperate area, so there's no noise, and you never have to see it unless you want to.
+Like meta, you can ignore this aspect of the site entirely. It's a separate area, so there's no noise, and you never have to see it unless you want to.
 
 
 

@@ -116,7 +116,7 @@ We also answered the following listener questions:
 
 
 
-  3. **Jim McKeeth**: "A reproducable way of generating a secure password: [passwordmaker.org](http://passwordmaker.org)"
+  3. **Jim McKeeth**: "A reproducible way of generating a secure password: [passwordmaker.org](http://passwordmaker.org)"
 
 
 

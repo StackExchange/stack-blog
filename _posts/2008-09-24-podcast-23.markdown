@@ -38,7 +38,7 @@ This is the twenty-third episode of the StackOverflow podcast, wherein Joel and 
   * There have been a lot of requests for a packaged, customized version of Stack Overflow, but we have some reservations about the difficulty of delivering a packaged solution, and whether the current design will scale down to smaller private communities at all.
 
 
-  * Should trusted users be allowed to close questions? Or should the community simply vote them down? I argue we need both of these methods; Joel feels we ony need voting.
+  * Should trusted users be allowed to close questions? Or should the community simply vote them down? I argue we need both of these methods; Joel feels we only need voting.
 
 
   * It's ok to have some "fun" programming questions every now and then. It can't be a community if you don't stop every so often to have some (at least partially on topic) fun.

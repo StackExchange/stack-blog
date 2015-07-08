@@ -24,7 +24,7 @@ This is the 2^5 episode of the StackOverflow podcast, where Joel and Jeff discus
   * A brief digression about the analog to digital television switch. Make sure you watch [this brief instructional video](http://www.youtube.com/watch?v=iTSS8E7bKXg) so you're prepared.
 
 
-  * Joel gives an overview of Fog Creek's attitude towards software piracy and licensing. At its root, we believe that buying your software has to be easier than stealing it. Stop thinking of it as fighting an enemy and think of it as simily being better than the alternative.  
+  * Joel gives an overview of Fog Creek's attitude towards software piracy and licensing. At its root, we believe that buying your software has to be easier than stealing it. Stop thinking of it as fighting an enemy and think of it as simply being better than the alternative.  
 
 
 

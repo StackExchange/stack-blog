@@ -48,7 +48,7 @@ Server Fault [has launched!](http://blog.stackoverflow.com/2009/05/server-fault-
   * It really is amazing how many problems go away when your software is all open source. Except for the "how do we pay our employees" one.
 
 
-  * How much feedback should job interview candidates get when the interview doesn't work out? Joel and I have an extended discussion. This is a lot tricker than it seems at first glance. At some level, perhaps you have to treat job interviews (particularly at extremely selective companies like Fog Creek) like romantic relationships -- sometimes there just isn't chemistry. Rather than over-analyze it, learn what you can, and move on to the next relationship.
+  * How much feedback should job interview candidates get when the interview doesn't work out? Joel and I have an extended discussion. This is a lot trickier than it seems at first glance. At some level, perhaps you have to treat job interviews (particularly at extremely selective companies like Fog Creek) like romantic relationships -- sometimes there just isn't chemistry. Rather than over-analyze it, learn what you can, and move on to the next relationship.
 
 
   * Don't ask what programming language beginning programmers should learn -- ask what type of programming do you want to train people to do! Do you want to teach theory, or skill?   

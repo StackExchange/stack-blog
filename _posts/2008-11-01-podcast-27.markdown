@@ -36,7 +36,7 @@ This is the twenty-seventh episode of the StackOverflow podcast, where Joel and 
   * Reddit, like us, ran for quite a while on a single server. Moving to a second server, splitting the database, provided solid gains for Reddit and is [something we just did as well](http://blog.stackoverflow.com/2008/10/adde-a-second-server/). According to Steve, splitting off the database is easy -- making sure you can scale to multiple _application_ web servers is the difficult part, because of shared state caching.
 
 
-  * Steve is a big fan of [HAProxy](http://haproxy.1wt.eu/) which is a single software load balancer in front of all ~20 reddit servers.
+  * Steve is a big fan of [HAProxy](http://haproxy.1wt.eu/) which is a single software load balancer in front of all ~20 Reddit servers.
 
 
   * Reddit's first big partner is [The Independent](http://www.reddit.com/r/independent/), for branded content. Although there is also [WeHeartGossip](http://www.weheartgossip.com/). Joel and I feel these sorts of communities -- to be truly successful -- need personalities associated with them that are emblematic of the values and goals of that community.

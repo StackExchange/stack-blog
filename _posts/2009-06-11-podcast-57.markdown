@@ -55,7 +55,7 @@ This is the 57th episode of the StackOverflow podcast where Joel and Jeff discus
 We answered the following listener questions on this podcast:
 
 	
-  1. Josh Hunt: "The first answer to my question, the answer that got the higest number of votes, was not correct -- has Stack Overflow failed in the 'first answer is best' aspect?" and "We've been taught algorithms in our high school using pseudocode. What do you think of this?"
+  1. Josh Hunt: "The first answer to my question, the answer that got the highest number of votes, was not correct -- has Stack Overflow failed in the 'first answer is best' aspect?" and "We've been taught algorithms in our high school using pseudocode. What do you think of this?"
 
 	
   2. "If I've applied for a job at Fog Creek (or anywhere else) and didn't quite make it, what can I do to improve myself as a programmer and have a better chance next time?"

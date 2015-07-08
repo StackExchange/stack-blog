@@ -62,7 +62,7 @@ Jeff discuss dealing with incompetent programmers, whether salaries should be pu
   * On matters of customer service, we do endeavor to [not make the situation worse](http://www.joelonsoftware.com/articles/customerservice.html). Start practicing saying "I'm sorry, it's our fault."
 
 
-  * Updates may slow down on Stack Overflow for a little while. We have built up [a lot of technical debt](http://blogs.construx.com/blogs/stevemcc/archive/2007/11/01/technical-debt-2.aspx) around our database, and we have to hunker down and refactor a few core database tables that affect 80% of our code. If you don't pay down your techical debt every so often, you could end up like Twitter -- a reliability laughingstock. But, somehow, still successful.
+  * Updates may slow down on Stack Overflow for a little while. We have built up [a lot of technical debt](http://blogs.construx.com/blogs/stevemcc/archive/2007/11/01/technical-debt-2.aspx) around our database, and we have to hunker down and refactor a few core database tables that affect 80% of our code. If you don't pay down your technical debt every so often, you could end up like Twitter -- a reliability laughingstock. But, somehow, still successful.
 
 
   * There's something liberating and energizing about going in and tearing down huge parts of your application to rebuild it and make it better. Unlike our previous discussion on learning languages, I'm more of an advocate of the big bang model here, whereas Joel proposes something more incremental.
@@ -86,7 +86,7 @@ We answered the following listener questions on this podcast:
 
 
 
-Our favorite Stack Overflow qustions this week are:
+Our favorite Stack Overflow questions this week are:
 
 
 
@@ -99,7 +99,7 @@ Our favorite Stack Overflow qustions this week are:
 
 
 
-If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser. We also have adedicated phone number you can call to leave audio questions at **646-826-3879**.
+If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser. We also have a dedicated phone number you can call to leave audio questions at **646-826-3879**.
 
 
 

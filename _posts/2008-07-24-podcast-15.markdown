@@ -33,7 +33,7 @@ This is the fifteenth episode of the StackOverflow podcast, wherein Joel and Jef
   * Joel's essential time management tip: get things done by not reading [Getting Things Done](http://www.amazon.com/dp/0142000280/?tag=codinghorror-20). Personally, my time management is terrible, but I do have one guiding principle: produce some kind of small public artifact every day. We can recommend [Merlin Mann's excellent site 43Folders](http://www.43folders.com/), which is sort of a long running geek love letter to that book.
 
 
-  * I argure that [regions are the GOTO of code formatting](http://www.codinghorror.com/blog/archives/001147.html). I navigate in Visual Studio using search as my metaphor. Between CTRL+I [incremental search](http://www.codinghorror.com/blog/archives/000432.html) and CTRL+SHIFT+F find in project, I'm never more than a few keystrokes away from whatever code I need to see. Your code is full of highly unique keywords, just like the web is full of unique search terms.
+  * I argue that [regions are the GOTO of code formatting](http://www.codinghorror.com/blog/archives/001147.html). I navigate in Visual Studio using search as my metaphor. Between CTRL+I [incremental search](http://www.codinghorror.com/blog/archives/000432.html) and CTRL+SHIFT+F find in project, I'm never more than a few keystrokes away from whatever code I need to see. Your code is full of highly unique keywords, just like the web is full of unique search terms.
 
 
   * Joel and I both agree: one of the most effective coding practices you can adopt on your team is interactive, sit-down-with-your-coworker code review. 90% of the things you will learn have nothing to do with the code. I believe programming is a far more social activity than most realize. If you write code, and nobody but you _ever_ sees that code -- did you really extract all the benefit from writing that code?
@@ -61,7 +61,7 @@ We answered the following listener questions:
 
 
 
-  1. **Gordon Milne**: "I have an opportunity to pursue a more manegerial role; how do you feel about making the transition from developer to being responsible for other developers?"
+  1. **Gordon Milne**: "I have an opportunity to pursue a more managerial role; how do you feel about making the transition from developer to being responsible for other developers?"
 
 
 

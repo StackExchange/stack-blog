@@ -20,7 +20,7 @@ You may have noticed that things have been less responsive than usual on stackov
 
 
 >
-**Before 2008, full text search wasn't inside the database - it wasn't subject to things like transactions.**  Heck, it was more like Lucene where it lived outside on its own.  Now, it's stored inside data files and it's subject to transactions.  From what im hearing, blocking and locking is a completely new issue in 2008 FTS.  There's a big overhead involved with making it subject to transactions.
+**Before 2008, full text search wasn't inside the database - it wasn't subject to things like transactions.**  Heck, it was more like Lucene where it lived outside on its own.  Now, it's stored inside data files and it's subject to transactions.  From what I'm hearing, blocking and locking is a completely new issue in 2008 FTS.  There's a big overhead involved with making it subject to transactions.
 
 > 
 > 

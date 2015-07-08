@@ -50,7 +50,7 @@ Pop quiz, hotshot. If you were starting a company, **who would you pick to come 
 
 
 
-For me, it's these two guys. Geoff, Jarrod and I all know each other from working together at previous jobs. They are without a doubt two of the very best developers I've ever worked with, and it's an honor to have them on the team. Particuarly at the slave wages I'm paying them.  (Actually, I'm not sure even a slave could survive on what I pay.)
+For me, it's these two guys. Geoff, Jarrod and I all know each other from working together at previous jobs. They are without a doubt two of the very best developers I've ever worked with, and it's an honor to have them on the team. Particularly at the slave wages I'm paying them.  (Actually, I'm not sure even a slave could survive on what I pay.)
 
 
 
