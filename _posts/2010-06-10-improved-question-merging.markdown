@@ -19,13 +19,7 @@ The ability to cast a question deletion vote against a closed question is earned
 
 
 
-As usual, _I blame myself_*, but my original advice stands: **if there's anything of worth in the answers, the question should be merged with another question rather than being deleted!** (and if there's nothing of worth in the question or answers, pull the deletion trigger with my blessing. Heck, while you're at it, give it a double-tap to make sure it stays down.) But our old merge process was kind of, er, broken. Our old merge …
-
-
-
-
-
-
+As usual, _I blame myself_\*, but my original advice stands: **if there's anything of worth in the answers, the question should be merged with another question rather than being deleted!** (and if there's nothing of worth in the question or answers, pull the deletion trigger with my blessing. Heck, while you're at it, give it a double-tap to make sure it stays down.) But our old merge process was kind of, er, broken. Our old merge …
 
   * _destroyed_ one of the questions
 
@@ -45,11 +39,6 @@ But no more! Our kinder, gentler question merge has none of these problems! It b
 
 
 Let's try an example. These two questions are fairly similar, so I'll merge them on our development tier:
-
-
-
-
-
 
 
   1. [Regular expression to find URLs not inside a hyperlink](http://stackoverflow.com/questions/1315653/regular-expression-to-find-urls-not-inside-a-hyperlink)
@@ -73,12 +62,6 @@ If you believe these should be merged, [flag them for moderator attention](http:
 
 The source merge question isn't deleted, yet; once its answers have been merged into the target, it's left around as a stub for people to find -- with a little signpost directing them to the merge target:
 
-
-
-
-
->
-
 > 
 > ## merged by Jeff Atwood ♦ 8 secs ago
 > 
@@ -86,12 +69,6 @@ The source merge question isn't deleted, yet; once its answers have been merged 
 
 > 
 > this question was merged with [Regular expression to find URLs not inside a hyperlink](http://stackoverflow.com/questions/1315653/regular-expression-to-find-urls-not-inside-a-hyperlink) because it is an exact duplicate of that question.
-> 
-> 
-
-
-
-
 
 
 We also record detailed migration records in the revision history of both questions and the migrated answers, so you can always get an audit trail of what happened, and the process is theoretically reversible. (Except for comments on the source question, which are unavoidably de-parented as they are migrated to the target question.)
@@ -110,4 +87,4 @@ Anyway, now that we finally have **a much saner question merge process**, I urge
 
 
 
-* somehow we forgot to limit the # of delete votes 10k users could cast every day, which was a disaster waiting to happen. Almost every other vote type is rate limited, and [for good reason](http://www.codinghorror.com/blog/2009/02/rate-limiting-and-velocity-checking.html).
+\* <sub>somehow we forgot to limit the # of delete votes 10k users could cast every day, which was a disaster waiting to happen. Almost every other vote type is rate limited, and [for good reason](http://www.codinghorror.com/blog/2009/02/rate-limiting-and-velocity-checking.html).</sub>

@@ -15,7 +15,7 @@ tags:
 ---
 
 
-We're bringing back a feature we had to [put on ice](http://blog.stackoverflow.com/2009/04/googles-openids-are-unique-per-domain/) way back when we launched Server Fault*: **automatic account association**. Due largely to the vagaries of how Google implemented OpenID, we reluctantly made [account association a manual process](http://blog.stackoverflow.com/2009/07/cross-site-account-associations/).
+We're bringing back a feature we had to [put on ice](http://blog.stackoverflow.com/2009/04/googles-openids-are-unique-per-domain/) way back when we launched Server Fault\*: **automatic account association**. Due largely to the vagaries of how Google implemented OpenID, we reluctantly made [account association a manual process](http://blog.stackoverflow.com/2009/07/cross-site-account-associations/).
 
 
 
@@ -72,5 +72,5 @@ As you might imagine, this sort of "identity that follows me from website to web
 
 
 
-* no, I haven't forgotten it's almost the one year anniversary of [Server Fault going public](http://blog.stackoverflow.com/2009/05/server-fault-public-beta-launches/). We have something very special planned, so stay tuned...
+\* <sub>no, I haven't forgotten it's almost the one year anniversary of [Server Fault going public](http://blog.stackoverflow.com/2009/05/server-fault-public-beta-launches/). We have something very special planned, so stay tuned...<sub>
 

@@ -25,9 +25,9 @@ _Raise the curtain, cue the trumpet fanfare…_
 
 Alas, poor Sketchy…
 
-Over the course of the next few weeks, we will be rolling out the new Stack Exchange Beta theme to all the sites** still in beta.**
+Over the course of the next few weeks, we will be rolling out the new Stack Exchange Beta theme to all the sites **still in beta.**
 
-At first glance, the new beta theme looks like an unembellished version of any graduated site: Finished, but without any particular "beta" theme,_ per se_. But that's sort of the point.
+At first glance, the new beta theme looks like an unembellished version of any graduated site: Finished, but without any particular "beta" theme, _per se_. But that's sort of the point.
 
 
 [![](http://blog.stackoverflow.com/wp-content/uploads/Judaism-Beta-Theme-new-cropped.png)](http://judaism.stackexchange.com)

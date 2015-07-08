@@ -53,7 +53,7 @@ Here’s what resulted when I asked six “hot” questions across six sites ove
   6. Friday, May 11 - "**Flesh-Eating Bacteria**" - The Outdoors - [What can an injured person in the outdoors do to prevent infection by flesh-eating bacteria?](http://outdoors.stackexchange.com/questions/1497/what-can-an-injured-person-in-the-outdoors-do-to-prevent-infection-by-flesh-eati)
 
 
-Click through, or take my word for it when I tell you : **Creating high-quality content **(based around hot keywords or not)** is a challenge**.
+Click through, or take my word for it when I tell you: **Creating high-quality content** (based around hot keywords or not) **is a challenge**.
 
 [![](http://blog.stackoverflow.com/wp-content/uploads/seths-drawing-bigger-1024x665.jpg)](http://blog.stackoverflow.com/2012/06/can-stack-exchange-capitalize-on-hot-trends/seths-drawing-bigger/)Asking is a challenge. (Quick! Come up with a clever question about [Chagas Disease](http://www.google.com/trends/hottrends?q=chagas+disease). Go!) Answering is a challenge. (We are very aware how much work our users put into helping others.) There is no silver bullet when it comes creating smart niche content or newsstand-quality content that your aunt wants to read while she gets a perm in a hair chair.
 

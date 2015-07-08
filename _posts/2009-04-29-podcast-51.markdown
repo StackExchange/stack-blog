@@ -72,7 +72,7 @@ We answered the following listener questions on this podcast:
 
 
 
-  1. ** Peter**: "What do you think about the practice of finding an answer, and re-posting it on Stack Overflow?"
+  1. **Peter**: "What do you think about the practice of finding an answer, and re-posting it on Stack Overflow?"
 
 
   2. **Juma**: "Should software engineers learn how the underlying hardware works?"  

@@ -12,7 +12,7 @@ tags:
 
 Often automating a task is [not worth the time](http://xkcd.com/1205/) and rarely takes [the time planned](http://xkcd.com/1319/).  At StackExchange we have lots of people on our team and in our community [who are amazing at Powershell](http://stackoverflow.com/tags/powershell/hot). **I am not one of those people.**
 
-*Is it possible to save time using Powershell, even if you're not a guru? **Sure!***
+*Is it possible to save time using Powershell, even if you're not a guru?* **Sure!**
 
 #Framing the Problem
 At Stack we use [Google Apps for Work](http://www.google.com/enterprise/apps/business/).  Google Apps for Work includes a great tool for linking your existing Active Directory structure to your Google Accounts.  That tool, [Google Apps Directory Sync](https://support.google.com/a/answer/106368?hl=en) (GADS) allows a company to sync Active Directory Users and Groups with Google email accounts and mailing lists.  We already sync our users with email addresses, but my task is to also link our security groups with email distribution lists.  
@@ -41,6 +41,7 @@ I start by grabbing a list of groups that arn't in AD.  GADS simulated Sync logs
 ![](http://4.bp.blogspot.com/-Pmb4Odbat8k/VBj_pFaGwrI/AAAAAAAAE0k/ytn4GoF_Qgo/s1600/copy-csv.gif)
 
 **Now that we have the groups we can get them into AD:**
+
 * Read the CSV into powershell
 * For each group, generate a security group with matching name.
 
@@ -61,7 +62,6 @@ foreach ($i in $csv) {
 $Group = $i.Groups
 New-ADGroup -Name $Group -GroupCategory Security -GroupScope Global -DisplayName $Group -Path "OU=GADS_Groups,OU=IT,DC=Something,DC=YourDomain,DC=com" -Description $Group
 }
-view rawADGroups.ps1 hosted with ❤ by GitHub
 {% endhighlight %}
 
 **So Close.. But wait there's more!**

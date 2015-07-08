@@ -22,24 +22,18 @@ We commonly say that Stack Overflow is run by the community. We also commonly sa
 
 [![](/images/wordpress/MeetUpBlogPic3-300x181.png)](/images/wordpress/MeetUpBlogPic3.png)
 
-Stack Overflow users are [a diverse group of people](http://blog.stackoverflow.com/2010/12/stack-overflow-2010-analytics/), spread all over the world (_there’s a lot of green on that map!_). To get everyone involved in this year's MeetUp, we would like to organize into local groups by getting everyone in each area together... all at the same time. We are making it easy for anyone to organize a local group or find one of the groups already meeting up face-to-face. Meetups.com provides just that service.** **
-
-** **
+Stack Overflow users are [a diverse group of people](http://blog.stackoverflow.com/2010/12/stack-overflow-2010-analytics/), spread all over the world (_there’s a lot of green on that map!_). To get everyone involved in this year's MeetUp, we would like to organize into local groups by getting everyone in each area together... all at the same time. We are making it easy for anyone to organize a local group or find one of the groups already meeting up face-to-face. Meetups.com provides just that service.
 
 **Get Involved**
 
 Go to [meetup.com/stackoverflow](http://www.meetup.com/stackoverflow) to find your local Stack Overflow MeetUp group. If there is no group in your area, start one! Once some other folks in your area say they're interested, you can choose an exact location (library, community center, restaurant, etc) to meet. Someone can even step up to be the organizer to help move the process along.
 
-** **** **
-
 **Get to Know the Community**
 
 There is a lot of flexibility in what you can do with your MeetUp. Meet just to chat, host a special guest speaker, organize volunteer activities, or just organize a social gathering with some virtual friends (RockBand anyone?).  We've set up [a room on Stack Overflow's chat](http://chat.stackoverflow.com/rooms/632/worldwide-meetup-day) where you can trade ideas.
 
-** **
 
-**Get the Word Out!
-**
+**Get the Word Out!**
 
 Join your local community (or create a new community location) on [meetup.com/stackoverflow.](http://www.meetup.com/stackoverflow) If there’s not yet an organizer, you can sign up to organize the event or leave that for later. Once you've joined your community, help us spread the word to other members of the Stack Overflow community so that they get involved too! The more people that join, the better the MeetUp will be.
 
