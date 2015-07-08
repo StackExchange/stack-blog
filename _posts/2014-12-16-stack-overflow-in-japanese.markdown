@@ -4,7 +4,7 @@ comments: true
 date: 2014-12-16 00:00:28+00:00
 layout: post
 redirect_from: /2014/12/stack-overflow-in-japanese
-hero: http://i.stack.imgur.com/SvX1q.jpg
+hero: https://i.stack.imgur.com/SvX1q.jpg
 slug: stack-overflow-in-japanese
 title: Stack Overflowへようこそ
 wordpress_id: 15036
@@ -35,7 +35,7 @@ _Hi English-language readers! This blog post is not for you; perhaps you'd like
 
 
 
-[![](http://i.stack.imgur.com/mLLK5.png)](http://ja.stackoverflow.com/)
+[![](https://i.stack.imgur.com/mLLK5.png)](http://ja.stackoverflow.com/)
 
 
 

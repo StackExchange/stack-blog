@@ -58,9 +58,9 @@ So, that's what we're doing. Members of each community will **vote yea or nea**:
 
 
 
-  * [unix.stackexchange.com -- Should Unix/Linux and Ubuntu Merge?](http://i.stack.imgur.com/EhLcW.png)
+  * [unix.stackexchange.com -- Should Unix/Linux and Ubuntu Merge?](https://i.stack.imgur.com/EhLcW.png)
 
-  * [ubuntu.stackexchange.com -- Should Unix/Linux and Ubuntu Merge?](http://i.stack.imgur.com/TTOek.png)
+  * [ubuntu.stackexchange.com -- Should Unix/Linux and Ubuntu Merge?](https://i.stack.imgur.com/TTOek.png)
 
 
 

@@ -21,7 +21,7 @@ Today, we’re taking this one step further:
 
 
 ## [Announcing the Employer Resource Center on Careers 2.0
-![screenshot of the employer resource center](http://i.stack.imgur.com/OunjM.png)](http://careers.stackoverflow.com/resources)
+![screenshot of the employer resource center](https://i.stack.imgur.com/OunjM.png)](http://careers.stackoverflow.com/resources)
 
 
 

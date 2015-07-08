@@ -3,7 +3,7 @@ author: david
 comments: true
 date: 2014-11-11 15:53:53+00:00
 layout: post
-hero: http://i.stack.imgur.com/kM2mK.jpg
+hero: https://i.stack.imgur.com/kM2mK.jpg
 redirect_from: /2014/11/announcing-bosun-our-new-open-source-monitoring-alerting-system
 slug: announcing-bosun-our-new-open-source-monitoring-alerting-system
 title: Announcing Bosun, our new open source monitoring & alerting system
@@ -34,7 +34,7 @@ That's the theory, anyway. About a year ago we realized that our monitoring syst
 
 
 
-![alert hell](http://i.stack.imgur.com/oR3cl.png)
+![alert hell](https://i.stack.imgur.com/oR3cl.png)
 
 
 

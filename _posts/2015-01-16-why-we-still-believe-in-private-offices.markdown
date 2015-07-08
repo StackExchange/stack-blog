@@ -4,7 +4,7 @@ comments: true
 date: 2015-01-16 15:40:14+00:00
 layout: post
 redirect_from: /2015/01/why-we-still-believe-in-private-offices
-hero: http://i.stack.imgur.com/bUadQ.jpg
+hero: https://i.stack.imgur.com/bUadQ.jpg
 slug: why-we-still-believe-in-private-offices
 title: Why We (Still) Believe in Private Offices
 wordpress_id: 15237
@@ -22,7 +22,7 @@ There was a time where it seemed like we barely even needed to talk about this: 
 
 
 
-[![](http://i.stack.imgur.com/1qD5w.png)](http://www.joelonsoftware.com/articles/BionicOffice.html)
+[![](https://i.stack.imgur.com/1qD5w.png)](http://www.joelonsoftware.com/articles/BionicOffice.html)
 
 _The original Fog Creek [Bionic Office](http://www.joelonsoftware.com/articles/BionicOffice.html), way back in ye olde 2003. We didn't have iPhones, but at least the offices had doors._
 
@@ -60,7 +60,7 @@ We’re pretty sure it doesn’t do any of these things, and in fact we believe 
 
 
 
-This means we give you the space and expect you to find your own rhythm of work. With a private office, you’re in control of your space and attention: you can choose when to close the door and avoid interruptions, and when to go play [ping-pong](http://i.stack.imgur.com/pnGux.jpg), talk with coworkers or work out of the [coffee bar](http://i.stack.imgur.com/nPoto.jpg). In an open office you’re at the mercy of the people around you: if they’re talking, the best you can do is crank up your headphones and hope to drown them out, and if they’re playing foosball then good luck.
+This means we give you the space and expect you to find your own rhythm of work. With a private office, you’re in control of your space and attention: you can choose when to close the door and avoid interruptions, and when to go play [ping-pong](https://i.stack.imgur.com/pnGux.jpg), talk with coworkers or work out of the [coffee bar](https://i.stack.imgur.com/nPoto.jpg). In an open office you’re at the mercy of the people around you: if they’re talking, the best you can do is crank up your headphones and hope to drown them out, and if they’re playing foosball then good luck.
 
 
 
@@ -72,7 +72,7 @@ Everybody has their own rhythm. People come in at different times, take breaks a
 
 
 
-[![](http://i.stack.imgur.com/OGdGk.png)](http://i.stack.imgur.com/yLpKY.jpg)
+[![](https://i.stack.imgur.com/OGdGk.png)](https://i.stack.imgur.com/yLpKY.jpg)
 
 _Motorized standing/sitting desks come standard, including for remote employees._
 
@@ -120,7 +120,7 @@ This really is the best of both worlds, and one of the reasons that I’m a big 
 
 
 
-[![](http://i.stack.imgur.com/7WPyJ.jpg)](http://i.stack.imgur.com/joQex.jpg)
+[![](https://i.stack.imgur.com/7WPyJ.jpg)](https://i.stack.imgur.com/joQex.jpg)
 
 _Glass walls let in tons of natural light. It's not as creepy as you think._
 
@@ -158,7 +158,7 @@ Finally we have an [annual engineering + community team meetup](https://twitter.
 
 
 
-[![](http://i.stack.imgur.com/R4OVZ.jpg)](http://i.stack.imgur.com/dlW0T.jpg)
+[![](https://i.stack.imgur.com/R4OVZ.jpg)](https://i.stack.imgur.com/dlW0T.jpg)
 
 _Lunch served every day at Stack Exchange._
 
@@ -190,7 +190,7 @@ In closing, I’ll leave you with a few choice pictures of our office. If you'd 
 
 
 
-[![](http://i.stack.imgur.com/FC8Qs.jpg)](http://i.stack.imgur.com/oajqv.jpg)
+[![](https://i.stack.imgur.com/FC8Qs.jpg)](https://i.stack.imgur.com/oajqv.jpg)
 
 _Serious work being done._
 
@@ -198,7 +198,7 @@ _Serious work being done._
 
 
 
-[![](http://i.stack.imgur.com/FnnXk.jpg)](http://i.stack.imgur.com/pnGux.jpg)
+[![](https://i.stack.imgur.com/FnnXk.jpg)](https://i.stack.imgur.com/pnGux.jpg)
 
 _Obligatory ping-pong table._
 
@@ -206,7 +206,7 @@ _Obligatory ping-pong table._
 
 
 
-[![](http://i.stack.imgur.com/G1RHc.jpg)](http://i.stack.imgur.com/UPdHB.jpg)
+[![](https://i.stack.imgur.com/G1RHc.jpg)](https://i.stack.imgur.com/UPdHB.jpg)
 
 _Meeting space and cluster of offices. Would also qualify for [Random Cups at Stack Exchange](http://randomcupsatstackexchange.tumblr.com/)_
 
@@ -214,7 +214,7 @@ _Meeting space and cluster of offices. Would also qualify for [Random Cups at St
 
 
 
-[![](http://i.stack.imgur.com/ikwji.jpg)](http://i.stack.imgur.com/XhoAb.jpg)
+[![](https://i.stack.imgur.com/ikwji.jpg)](https://i.stack.imgur.com/XhoAb.jpg)
 
 _Can't beat that view._
 
@@ -227,7 +227,7 @@ Oh, and if you're worried about our remote developers, we make sure to set them 
 
 
 
-[![](http://i.stack.imgur.com/HP5uL.jpg)](http://i.stack.imgur.com/DLJDh.jpg)
+[![](https://i.stack.imgur.com/HP5uL.jpg)](https://i.stack.imgur.com/DLJDh.jpg)
 
 _A [remote developer](http://stackoverflow.com/users/2/geoff-dalgas)'s home setup._
 
@@ -235,7 +235,7 @@ _A [remote developer](http://stackoverflow.com/users/2/geoff-dalgas)'s home setu
 
 
 
-[![](http://i.stack.imgur.com/MTxLE.jpg)](http://i.stack.imgur.com/Q2Blh.jpg)
+[![](https://i.stack.imgur.com/MTxLE.jpg)](https://i.stack.imgur.com/Q2Blh.jpg)
 
 _Obviously a [designer](http://graphicdesign.stackexchange.com/users/3/jin). And yes, he has a sketch of himself on his wall._
 
@@ -244,6 +244,6 @@ _Obviously a [designer](http://graphicdesign.stackexchange.com/users/3/jin). And
 
 
 
-[![](http://i.stack.imgur.com/HImCP.jpg)](http://i.stack.imgur.com/w2hBT.jpg)
+[![](https://i.stack.imgur.com/HImCP.jpg)](https://i.stack.imgur.com/w2hBT.jpg)
 
 _Obviously [less of a designer](http://stackoverflow.com/users/3279/ben-collins). But look at all dem monitors!_

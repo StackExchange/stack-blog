@@ -4,7 +4,7 @@ comments: true
 date: 2008-09-21 17:54:58+00:00
 layout: post
 redirect_from: /2008/09/what-was-stack-overflow-built-with
-hero: http://i.stack.imgur.com/q1P8r.jpg
+hero: https://i.stack.imgur.com/q1P8r.jpg
 slug: what-was-stack-overflow-built-with
 title: What Was Stack Overflow Built With?
 wordpress_id: 102

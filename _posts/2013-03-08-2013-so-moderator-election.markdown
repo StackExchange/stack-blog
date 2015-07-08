@@ -4,7 +4,7 @@ comments: true
 date: 2013-03-08 22:01:30+00:00
 layout: post
 redirect_from: /2013/03/2013-so-moderator-election
-hero: http://i.stack.imgur.com/bgHH4.jpg
+hero: https://i.stack.imgur.com/bgHH4.jpg
 slug: 2013-so-moderator-election
 title: VOTE NOW in the 2013 Stack Overflow Moderator Election
 wordpress_id: 13208
@@ -25,7 +25,7 @@ It’s time once again to cast your vote for the next Stack Overflow moderators.
 We're running the election _now_ (rather than a year from the last election in June) because veteran moderator [Tim Post](http://stackoverflow.com/users/50049/tim-post) is stepping down in order to work with us as a Community Manager! While we’re extremely lucky to have his hard-working brilliance brought to bear on the problems we face managing [all these sites](http://stackexchange.com/sites), his transition does create an immediate need for a replacement on the SO mod team.
 
 But of course, we’d be running an election soon anyway; as amazing as [the current Stack Overflow moderators](http://stackoverflow.com/users?tab=moderators) are, the workload continues to grow:
-![](http://i.stack.imgur.com/SpsPO.png)
+![](https://i.stack.imgur.com/SpsPO.png)
 
 
 ## What moderators do
@@ -45,7 +45,7 @@ As the previous graph indicates, _flags_ - the primary embodiment of those excep
 
 [I mentioned last year](http://blog.stackoverflow.com/2012/06/2012-stack-overflow-community-moderator-election-begins/) that we were working on tools that would help to distribute the load more evenly between the elected moderators and the community as a whole. Well, [eight months after their introduction](http://meta.stackoverflow.com/questions/139536/new-feature-community-review-tasks-now-in-beta), I’m happy to report that the revamped Review system is doing exactly that:
 
-![](http://i.stack.imgur.com/fpBPJ.png)
+![](https://i.stack.imgur.com/fpBPJ.png)
 
 As Jeff wrote:
 

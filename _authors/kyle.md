@@ -3,7 +3,7 @@ layout: author
 id: kyle
 name: Kyle Brandt
 job: Director of Site Reliability
-avatar: http://i.stack.imgur.com/GD3gh.png
+avatar: https://i.stack.imgur.com/GD3gh.png
 twitter: KyleMBrandt
 website: http://kbrandt.com
 ---

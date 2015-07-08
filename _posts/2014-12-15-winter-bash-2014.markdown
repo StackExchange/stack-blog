@@ -19,7 +19,7 @@ tags:
 > - [Friedrich Nietzsche](https://books.google.com/books?id=Nl-vaAdJD3MC&pg=PA61&lpg=PA61#v=onepage&q&f=false)
 
 
-[![Winter Bash 2014](http://i.stack.imgur.com/urxgC.png)](http://winterbash2014.stackexchange.com)
+[![Winter Bash 2014](https://i.stack.imgur.com/urxgC.png)](http://winterbash2014.stackexchange.com)
 
 
 ## What's Winter Bash again?
@@ -31,14 +31,14 @@ No, it's not a new flavor of [Unix shell](http://en.wikipedia.org/wiki/Bash_(Uni
 
 
 	
-  1. Starting right now, when you complete one of [30-odd challenges](http://winterbash2014.stackexchange.com/) while logged on a [participating site](http://winterbash2014.stackexchange.com/leaderboard), you will be awarded the associated hat. To notify you, an icon will light up on the top bar. In addition, admire your hat collection on the [Winter Bash 2014 site](http://winterbash2014.stackexchange.com/). Finally, your profile includes the number of unique <strike>snowflakes</strike> **hats** (![You have a hat to wear!](http://i.stack.imgur.com/VmGTG.png)) you've earned all around the network.
+  1. Starting right now, when you complete one of [30-odd challenges](http://winterbash2014.stackexchange.com/) while logged on a [participating site](http://winterbash2014.stackexchange.com/leaderboard), you will be awarded the associated hat. To notify you, an icon will light up on the top bar. In addition, admire your hat collection on the [Winter Bash 2014 site](http://winterbash2014.stackexchange.com/). Finally, your profile includes the number of unique <strike>snowflakes</strike> **hats** (![You have a hat to wear!](https://i.stack.imgur.com/VmGTG.png)) you've earned all around the network.
 
 
 
 	
   2. Once you acquire an item, click your avatar to pick a hat that you earned--not just on the current site, but anywhere. When you are satisfied the hat's position, click "Wear hat" and it will be visible everywhere your avatar is displayed. Optionally, you may have a different look on each site. Once you are wearing a hat, you'll also see an option to go unadorned. (But really, why would you want that?)
 
-[![I'm a pirate!](http://i.stack.imgur.com/8FDy0.png)](http://meta.stackexchange.com/users/1438/jon-ericson)
+[![I'm a pirate!](https://i.stack.imgur.com/8FDy0.png)](http://meta.stackexchange.com/users/1438/jon-ericson)
 
 
 
@@ -77,11 +77,11 @@ Thankfully, we could reuse last year's start-of-the-art snowfall algorithm for t
 
 Once again, we are delighted with the work of freelance illustrator, [Elias Stein](http://www.eliasstein.com/). It's difficult to express how satisfying it feels to think up a concept (Tam o' Shanter!) and have it manifest a few days later:
 
-[![Tam o' Shanter](http://i.stack.imgur.com/hdKRn.png)](http://en.wikipedia.org/wiki/Tam_o%27_Shanter_%28cap%29)
+[![Tam o' Shanter](https://i.stack.imgur.com/hdKRn.png)](http://en.wikipedia.org/wiki/Tam_o%27_Shanter_%28cap%29)
 
 In the past, some people have had trouble getting hats to fit properly. [Last year](http://blog.stackoverflow.com/2013/12/winter-bash-2013-is-here/), we added the ability to reposition hats, but that did little to satisfy folks with especially large or disembodied heads. So, this year [hats can be resized and twisted to fit your head](http://meta.stackexchange.com/questions/212056/all-i-want-is-a-well-fitted-hat). (Thanks, [balpha](http://balpha.de/about/)!) 
 
-[![Shog The Hunter](http://i.stack.imgur.com/9lMdh.png)](http://meta.stackexchange.com/users/811/shog9)
+[![Shog The Hunter](https://i.stack.imgur.com/9lMdh.png)](http://meta.stackexchange.com/users/811/shog9)
 
 If you have any questions about the event, try the [Frequently Asked Questions.](http://winterbash2014.stackexchange.com/faq) If your question isn't covered there, please ask it on [Meta Stack Exchange](http://meta.stackexchange.com/questions/tagged/winterbash-2014), our Q&A; site about our network of Q&A; sites.
 
@@ -95,4 +95,4 @@ Before signing off, I apologize to our [Southern Hemisphere friends](http://meta
 
 
 
-* [![status-bydesign](http://i.stack.imgur.com/BRAuT.png)](http://meta.stackexchange.com/questions/212799/how-do-i-get-the-winterbash-2013-secret-hats)
+* [![status-bydesign](https://i.stack.imgur.com/BRAuT.png)](http://meta.stackexchange.com/questions/212799/how-do-i-get-the-winterbash-2013-secret-hats)

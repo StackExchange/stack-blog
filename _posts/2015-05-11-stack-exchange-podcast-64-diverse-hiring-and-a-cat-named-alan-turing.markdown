@@ -4,7 +4,7 @@ comments: true
 date: 2015-05-11 20:00:01+00:00
 layout: post
 redirect_from: /2015/05/stack-exchange-podcast-64-not-recorded-in-ithaca/
-hero: http://i.stack.imgur.com/FCLQG.jpg
+hero: https://i.stack.imgur.com/FCLQG.jpg
 slug: podcast-64-diverse-hiring-and-a-cat-named-alan-turing
 title: 'Podcast #64 - Diverse Hiring and a Cat Named Alan Turing'
 tags:
@@ -15,7 +15,7 @@ tags:
 
 Welcome to Stack Exchange Podcast Episode #64, recorded in the podcast studio at Stack Exchange HQ in New York City, NY. 
 
-<img src="http://i.stack.imgur.com/MumAz.jpg" alt="Podcast studio construction project" />
+<img src="https://i.stack.imgur.com/MumAz.jpg" alt="Podcast studio construction project" />
 
 Our podcast today is brought to you by string cheese! (It can be eaten by pulling strips from the cheese along its length and eating those strings.) Our hosts are Jay Hanlon, David Fullerton, and Joel Spolsky, joined today by guest Roberta Arcoverde.
 
@@ -39,7 +39,7 @@ Roberta didn't apply to work here when she first saw the listing (even though sh
 
 Roberta's hesitance to apply with us isn't surprising given lots of her past experiences with programming while female. Example: at a conference last summer, which she attended as a representative of Stack Overflow wearing a Stack Overflow t-shirt, one of the conference *organizers* assumed she was a booth babe. Lots of people visiting the Stack Overflow booth addressed their technical questions to Gabe, [who does *not* work as a developer here](http://blog.stackoverflow.com/2013/08/introducing-gabe-the-smiling-community-manager/). This is the kind of thing that happens all day every day in real life and on the Internet.
 
-<img src="http://i.stack.imgur.com/iMePz.jpg" alt="Roberta "Not A Booth Babe" Arcoverde" />
+<img src="https://i.stack.imgur.com/iMePz.jpg" alt="Roberta "Not A Booth Babe" Arcoverde" />
 
 Another relevant link: [Coding Like a Girl](https://medium.com/@sailorhg/coding-like-a-girl-595b90791cce).
 

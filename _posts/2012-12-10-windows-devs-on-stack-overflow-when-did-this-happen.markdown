@@ -20,7 +20,7 @@ When we [announced the Apptivate.MS competition](http://blog.stackoverflow.com/2
 So when we saw all of the high-quality and innovative app submissions that poured in, we were quite frankly blown away. The Stack Overflow community submitted **almost 400 apps**. [See for yourself](http://apptivate.ms/apps)!
 
 
-![](http://i.stack.imgur.com/zw2JG.png)
+![](https://i.stack.imgur.com/zw2JG.png)
 
 Yet again, the Stack Overflow community has _crushed it_.
 
@@ -55,7 +55,7 @@ The three highest-voted apps in each category group [will win prizes](http://ap
 
 
 
-![](http://i.stack.imgur.com/9LkDd.png)
+![](https://i.stack.imgur.com/9LkDd.png)
 
 
 The three top-voted semi-finalists in each category group will win great prizes!

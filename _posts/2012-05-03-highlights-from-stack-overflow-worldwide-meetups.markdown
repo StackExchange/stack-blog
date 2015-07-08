@@ -106,7 +106,7 @@ The Croatian meetup was hosted by Infobip, an IT company based in Pula:
 
 [caption id="" align="alignleft" width="310" caption="Presentation"][![Presentation](http://farm9.staticflickr.com/8153/7123803651_66835230ce_n.jpg)](http://www.flickr.com/photos/someetupinfobip/7123803651/)[/caption]
 
-[caption id="" align="alignleft" width="290" caption="Mingle time!"][![Mingle time!](http://i.stack.imgur.com/048Pl.png)](http://www.flickr.com/photos/someetupinfobip/7123809925/)[/caption]
+[caption id="" align="alignleft" width="290" caption="Mingle time!"][![Mingle time!](https://i.stack.imgur.com/048Pl.png)](http://www.flickr.com/photos/someetupinfobip/7123809925/)[/caption]
 
 
 

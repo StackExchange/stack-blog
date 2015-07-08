@@ -4,6 +4,6 @@ name: Jay Hanlon
 id: jhanlon
 twitter: JayHanlon
 job: VP of Community Growth
-avatar: http://i.stack.imgur.com/HU9rk.jpg
+avatar: https://i.stack.imgur.com/HU9rk.jpg
 website: 
 ---

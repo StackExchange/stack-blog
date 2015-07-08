@@ -3,7 +3,7 @@ author: shog
 comments: true
 date: 2014-10-07 21:42:26+00:00
 layout: post
-hero: http://i.stack.imgur.com/oEuTP.jpg
+hero: https://i.stack.imgur.com/oEuTP.jpg
 redirect_from: /2014/10/new-editing-badges-and-enhancements-to-suggested-edits
 slug: new-editing-badges-and-enhancements-to-suggested-edits
 title: 'Editing is essential: new badges and review enhancements '
@@ -16,9 +16,9 @@ tags:
 - stackexchange
 ---
 
-[![Explainer - Edited and answered 1 question (both actions within 12 hours, answer score > 0)](http://i.stack.imgur.com/4kwcd.png)](http://stackoverflow.com/help/badges/4368/explainer)
-[![Refiner - Edited and answered 50 questions (both actions within 12 hours, answer score > 0)](http://i.stack.imgur.com/g2HTR.png)](http://stackoverflow.com/help/badges/4369/refiner)
-[![Illuminator - Edited and answered 500 questions (both actions within 12 hours, answer score > 0)](http://i.stack.imgur.com/aCKc5.png)](http://stackoverflow.com/help/badges/4370/illuminator)
+[![Explainer - Edited and answered 1 question (both actions within 12 hours, answer score > 0)](https://i.stack.imgur.com/4kwcd.png)](http://stackoverflow.com/help/badges/4368/explainer)
+[![Refiner - Edited and answered 50 questions (both actions within 12 hours, answer score > 0)](https://i.stack.imgur.com/g2HTR.png)](http://stackoverflow.com/help/badges/4369/refiner)
+[![Illuminator - Edited and answered 500 questions (both actions within 12 hours, answer score > 0)](https://i.stack.imgur.com/aCKc5.png)](http://stackoverflow.com/help/badges/4370/illuminator)
 
 **[We rolled out three new badges last week!](http://meta.stackexchange.com/questions/239898/new-three-tiered-badge-idea-explainer-refiner-illuminator)**
 
@@ -40,7 +40,7 @@ With [the introduction of suggested edits](http://blog.stackoverflow.com/2011/02
 
 	
   1. [**We’re now notifying editors of past rejections**](http://meta.stackexchange.com/questions/120624/decision-on-rejected-edits-should-be-displayed-as-a-notification-to-the-editor) when they load the edit form. 
-![](http://i.stack.imgur.com/qbgMw.png)
+![](https://i.stack.imgur.com/qbgMw.png)
 There are some checks in place to avoid hassling folks with _occasional_ rejections, but for a new editor whose edits are being rejected these should help them to improve before they waste _too_ much of their time.
 
 	
@@ -48,12 +48,12 @@ There are some checks in place to avoid hassling folks with _occasional_ rejecti
 
 	
   3. Reviewers who wish to perform edits themselves have the option of [**either approving and editing on top of the suggestion, or rejecting and replacing it with a different edit**](http://meta.stackexchange.com/questions/149722/approve-as-too-minor/238039#238039). 
-![](http://i.stack.imgur.com/nFF8O.png)
+![](https://i.stack.imgur.com/nFF8O.png)
 This replaces both the previous “Improve” option, and the “too minor” rejection reason, allowing edits that make small changes _while overlooking large flaws_ to be quickly discarded, while ensuring that truly _helpful_ edits - even small ones - are more consistently approved. Combined with change #2, this gives a great deal more power to reviewers who are comfortable _editing_ - and who better to review edits than editors?
 
 	
   4. Finally, [**we’ve revamped the rest of the predefined suggested edit rejection reasons**](http://meta.stackexchange.com/questions/238333/what-guidance-should-be-given-when-edits-are-rejected/239950#239950), improving their context-sensitivity and focusing more specifically on common mistakes and outright abuse.
-![](http://i.stack.imgur.com/oX9aq.png)
+![](https://i.stack.imgur.com/oX9aq.png)
 
 
 

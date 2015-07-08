@@ -5,7 +5,7 @@ date: 2015-01-27 19:04:16+00:00
 layout: post
 redirect_from: /2015/01/targeted-jobs-for-stack-overflow
 slug: targeted-jobs-for-stack-overflow
-hero: http://i.stack.imgur.com/8jhTn.jpg
+hero: https://i.stack.imgur.com/8jhTn.jpg
 title: Targeted Jobs for Stack Overflow
 wordpress_id: 15318
 tags:
@@ -36,7 +36,7 @@ Many of you will start noticing that the jobs you see aren’t just in your area
 It’s difficult to show you an example of a targeted ad. We haven’t changed much about the ad design or even how the job is displayed in the ads. However, we _can_ show you the other side, how the employer is targeting their jobs.
 
 
-[![Targeting-Overview](http://i.stack.imgur.com/8oSNi.png)](http://i.stack.imgur.com/8oSNi.png)
+[![Targeting-Overview](https://i.stack.imgur.com/8oSNi.png)](https://i.stack.imgur.com/8oSNi.png)
 
 
 This is all organized into three tiers of targeting criteria:
@@ -44,13 +44,13 @@ This is all organized into three tiers of targeting criteria:
 
 
 	
-  1. **Developer Types**: The broadest description of a developer.[![](http://i.stack.imgur.com/MJXyf.png)](http://i.stack.imgur.com/MJXyf.png)
+  1. **Developer Types**: The broadest description of a developer.[![](https://i.stack.imgur.com/MJXyf.png)](https://i.stack.imgur.com/MJXyf.png)
 
 	
-  2. **Technology Ecosystems**: A narrower description, best described as tag clusters.  Python includes frameworks like Django and Flask. Cloud (back end) implies knowledge of AWS, Microsoft Azure, Rackspace, etc.[![](http://i.stack.imgur.com/mymW4.png)](/images/wordpress/tech-eco.png)
+  2. **Technology Ecosystems**: A narrower description, best described as tag clusters.  Python includes frameworks like Django and Flask. Cloud (back end) implies knowledge of AWS, Microsoft Azure, Rackspace, etc.[![](https://i.stack.imgur.com/mymW4.png)](/images/wordpress/tech-eco.png)
 
 	
-  3. **Stack Overflow Tags**: The most finely-grained descriptor. These draw straight from the top 1,000 most popular tags on Stack Overflow.[![](http://i.stack.imgur.com/U9oqI.png)](http://i.stack.imgur.com/U9oqI.png)
+  3. **Stack Overflow Tags**: The most finely-grained descriptor. These draw straight from the top 1,000 most popular tags on Stack Overflow.[![](https://i.stack.imgur.com/U9oqI.png)](https://i.stack.imgur.com/U9oqI.png)
 
 
 It’s really that simple. Once employers fill out a targeting profile for a job, we’ll try and predict which of those jobs you’ll be interested in.

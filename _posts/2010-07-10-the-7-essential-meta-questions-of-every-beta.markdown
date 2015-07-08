@@ -22,7 +22,7 @@ That's how it feels each time [a new Stack Exchange site is launched](http://are
 
 **Every new Stack Exchange site -- not some of them, but _all_ of them -- gets their own dedicated meta site.**
 
-[![](http://i.stack.imgur.com/CXI15.png)](http://area51.stackexchange.com/proposals/37041/raspberry-pi)
+[![](https://i.stack.imgur.com/CXI15.png)](http://area51.stackexchange.com/proposals/37041/raspberry-pi)
 
 This is a "child site" set aside for discussing issues concerning all the behind-the-scenes intricacies of running the main site. But we provide very little guidance about how each new Stack Exchange community will make their site work for _them_. Each community starts with a blank slate: a meta site with no content and little guidance about what to do with it.
 
@@ -176,7 +176,7 @@ We have [designers on staff](http://blog.stackoverflow.com/2010/07/our-designer-
 
 This is rapidly becoming a hot issue across the entire network: how to promote your site and how to reach out to the experts and peers in _your_ industry. We can come up with budgets and promotions but the means and ideas about how to reach your target audience HAS TO come from you and your community. Has to. Has to, has to, _has to!_ We simply are not experts in your field. We don't have the the connections nor the experience you bring to the table. You are both our evangelist and our ambassador -- and [sharing links to great questions and answers](http://blog.stackoverflow.com/2010/09/announcer-booster-and-publicist-badges/) is the best way to start.
 
-![](http://i.stack.imgur.com/j3694.png)
+![](https://i.stack.imgur.com/j3694.png)
 
 [Stack Overflow](http://stackoverflow.com) has been a huge, red-hot success story in the programming arena. But that early success came in large part to the participation of Jeff Atwood and Joel Spolsky, both cult-classic bloggers and celebrities in their field. We want that same success for you and your community. That's why we need to identify the Jeffs and the Joels of _your_ industry. We need bloggers, pundits, podcasters, publishers, celebrities… anyone who can rally the troops, so to speak.
 

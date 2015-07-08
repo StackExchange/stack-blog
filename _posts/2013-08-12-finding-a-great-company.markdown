@@ -49,7 +49,7 @@ We launched Stack Overflow Careers with the goal of **fixing how companies hire 
 
 Since we launched the feature three months ago, [over 800 companies have created Company Pages on Careers](http://careers.stackoverflow.com/jobs/companies). We knew we had struck a real need that companies understood, and found a new way for them to connect with developers.
 
-[![](http://i.stack.imgur.com/auM96.png)](http://careers.stackoverflow.com/jobs/companies)
+[![](https://i.stack.imgur.com/auM96.png)](http://careers.stackoverflow.com/jobs/companies)
 
 
 
@@ -79,7 +79,7 @@ So today we’re proud to announce [Company Page Ads](http://careers.stackoverfl
 
 
 
-[![](http://i.stack.imgur.com/0zm9c.png)](http://careers.stackoverflow.com/company/stack-exchange)
+[![](https://i.stack.imgur.com/0zm9c.png)](http://careers.stackoverflow.com/company/stack-exchange)
 
 
 

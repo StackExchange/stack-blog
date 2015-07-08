@@ -4,7 +4,7 @@ comments: true
 date: 2009-05-18 06:59:58+00:00
 layout: post
 redirect_from: /2009/05/a-theory-of-moderation
-hero: http://i.stack.imgur.com/5Rn5g.jpg
+hero: https://i.stack.imgur.com/5Rn5g.jpg
 slug: a-theory-of-moderation
 title: A Theory of Moderation
 wordpress_id: 1297

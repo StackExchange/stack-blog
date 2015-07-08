@@ -21,7 +21,7 @@ Now it's time to announce the winners.
 ## First Prize - [Stack Remote](http://stackapps.com/questions/3178/stack-remote-free-android-app-dedicated-towards-stack-exchange-sites)
 
 
-[![Stack Remote](http://i.stack.imgur.com/vI5MO.png)](http://stackapps.com/questions/3178/stack-remote-free-android-app-dedicated-towards-stack-exchange-sites)
+[![Stack Remote](https://i.stack.imgur.com/vI5MO.png)](http://stackapps.com/questions/3178/stack-remote-free-android-app-dedicated-towards-stack-exchange-sites)
 
 An Android app by [Karan M](http://stackapps.com/users/9456/karan-m), supporting all non-meta [Stack Exchange sites](http://stackexchange.com/sites) and a view into your inbox.
 
@@ -41,7 +41,7 @@ Greg will be getting an Acer Aspire One.
 ## Third Prize - [Stack Alert](http://stackapps.com/questions/2874/stack-alert-google-chrome-extension-keep-tabs-on-your-inbox-without-needing)
 
 
-[![Stack Alert](http://i.stack.imgur.com/RPVmg.png)](http://stackapps.com/questions/2874/stack-alert-google-chrome-extension-keep-tabs-on-your-inbox-without-needing)
+[![Stack Alert](https://i.stack.imgur.com/RPVmg.png)](http://stackapps.com/questions/2874/stack-alert-google-chrome-extension-keep-tabs-on-your-inbox-without-needing)
 
 A series of [open source](https://github.com/nathan-osman/Stack-Alert) browser extension for Google Chrome, Mozilla Firefox, and Opera by [George Edison](http://stackapps.com/users/18/george-edison) which pull your inbox into the browser.
 

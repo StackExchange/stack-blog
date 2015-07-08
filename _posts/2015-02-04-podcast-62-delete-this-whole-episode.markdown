@@ -22,7 +22,7 @@ Let's jump right in: we made [a big announcement](http://blog.stackoverflow.com
 So, the (forty) million dollar question: **[how are we going to use this money](http://chat.stackexchange.com/transcript/message/19637602#19637602)?**
 
 _(not on supporting ancient browsers.)_  
-[![](http://i.stack.imgur.com/gHEFZ.gif)](http://chat.stackexchange.com/transcript/message/19637817#19637817)
+[![](https://i.stack.imgur.com/gHEFZ.gif)](http://chat.stackexchange.com/transcript/message/19637817#19637817)
 
 
 

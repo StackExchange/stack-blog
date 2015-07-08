@@ -4,6 +4,6 @@ name: Greg Bray
 id: gbrayut
 twitter: GBrayUT
 job: Site Reliability Engineer
-avatar: http://i.stack.imgur.com/FAQa0.png
+avatar: https://i.stack.imgur.com/FAQa0.png
 website: http://theg2.net/
 ---
