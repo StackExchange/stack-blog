@@ -19,7 +19,7 @@ Another holiday season has drawn to a close. We’ve had three glorious weeks wi
 
 ![oh the memories](https://i.stack.imgur.com/uKN0x.png)
 
-****76,586** users** from all over the network earned **214,172**** hats** this year - that's just about twice the number of hats [they earned last year](http://blog.stackoverflow.com/2013/01/boxing-day/). **95 sites** opted to participate in Winter Bash, which is more than the total number of sites that simply _existed_ during last year’s event.
+**76,586 users** from all over the network earned **214,172 hats** this year - that's just about twice the number of hats [they earned last year](http://blog.stackoverflow.com/2013/01/boxing-day/). **95 sites** opted to participate in Winter Bash, which is more than the total number of sites that simply _existed_ during last year’s event.
 
 The most commonly earned hat was the **Old Hat**, earned 74,631 times (by 35,589 distinct users). The least commonly earned _public_ hat was **Oh the Horror**, earned just 46 times. And the rarest hat of all was the top-secret **Don Draper**, earned **only 14 times** across the whole network.
 

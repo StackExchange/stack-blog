@@ -15,66 +15,37 @@ tags:
 
 
 You know what you need? Besides a haircut, I mean? [More flair](http://www.imsdb.com/scripts/Office-Space.html).
-
-
-
-
-
->
-
+ 
+> **STAN** <br>
+> I need to talk about your flair.
 > 
+> **JOANNA** <br>
+> Really? I have 15 buttons on. I, uh, (shows him)
+>  
+> **STAN** <br>
+> Well, ok, 15 is minimum, ok?
 > 
-
-
+> **JOANNA** <br>
+> Ok.
 > 
+> **STAN** <br>
+> Now, it's up to you whether or not you want to just do the bare 
+> minimum. Well, like Brian, for example, has 37 pieces of flair. And a 
+> terrific smile.
 > 
-**STAN
-**I need to talk about your flair.
-
+> **JOANNA** <br>
+> Ok. Ok, you want me to wear more? 
 > 
+> **STAN** <br>
+> Look. Joanna.
 > 
-**JOANNA
-**Really? I have 15 buttons on. I, uh, (shows him)
-
+> **JOANNA** <br>
+> Yeah.
 > 
-> 
-**STAN
-**Well, ok, 15 is minimum, ok?
-
-> 
-> 
-**JOANNA
-
-**Ok.
-
-> 
-> 
-**STAN
-**Now, it's up to you whether or not you want to just do the bare 
-minimum. Well, like Brian, for example, has 37 pieces of flair. And a 
-terrific smile.
-
-> 
-> 
-**JOANNA
-**Ok. Ok, you want me to wear more?
-
-> 
-> 
-**STAN
-**Look. Joanna.
-
-> 
-> 
-**JOANNA
-**Yeah.
-
-> 
-> 
-**STAN
-**People can get a cheeseburger anywhere, ok? They come to Chotchkie's 
-for the atmosphere and the attitude. That's what the flair's about. 
-It's about fun.
+> **STAN** <br>
+> People can get a cheeseburger anywhere, ok? They come to Chotchkie's 
+> for the atmosphere and the attitude. That's what the flair's about. 
+> It's about fun.
 
 
 
