@@ -65,7 +65,7 @@ As you can see, the background of the answer turns green to indicate it's the ac
 
 
 
-It's generally considered [good etiquitte to accept an answer to your question](http://stackoverflow.com/questions/200833/when-should-i-accept-an-answer), unless your question is fundamentally _unanswerable_ (which means it [probably wasn't the right kind of question to ask on Stack Overflow in the first place](http://blog.stackoverflow.com/2008/10/a-question-about-questions/), though there are certainly valid exceptions.)
+It's generally considered [good etiquette to accept an answer to your question](http://stackoverflow.com/questions/200833/when-should-i-accept-an-answer), unless your question is fundamentally _unanswerable_ (which means it [probably wasn't the right kind of question to ask on Stack Overflow in the first place](http://blog.stackoverflow.com/2008/10/a-question-about-questions/), though there are certainly valid exceptions.)
 
 
 

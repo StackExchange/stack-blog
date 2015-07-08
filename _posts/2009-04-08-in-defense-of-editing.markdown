@@ -69,7 +69,7 @@ To be very specific, I would discourage editing a post _solely_ to remove saluta
 
 
 
-  3. **Every edit is a judgment call.**¶ Do we encourage editing? Yes! Do we demand that every user accept every edit? No. There's no way I can make a blanket statement like that. Do I trust my wife? Sure. Do I agree with every single thing she's ever done? No. It would be irrational to expect any person on the internet to extend more trust than this to me.
+  3. **Every edit is a judgement call.**¶ Do we encourage editing? Yes! Do we demand that every user accept every edit? No. There's no way I can make a blanket statement like that. Do I trust my wife? Sure. Do I agree with every single thing she's ever done? No. It would be irrational to expect any person on the internet to extend more trust than this to me.
 
 
 

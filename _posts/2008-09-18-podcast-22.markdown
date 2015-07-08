@@ -23,7 +23,7 @@ This is the twenty-second episode of the StackOverflow podcast, wherein Joel and
   * Stack Overflow is now a public beta. We went from about 2-5% CPU usage during the private beta to over 50% CPU usage, on an 8-CPU server! Some day one stats: 1,500 questions were asked, 6,000 answers provided, 1,700 comments added, there were 62,000 unique visitors and almost 700,000 page views. Miraculously, the server is still running and performance is still snappy.
 
 
-  * It was tempting to keep a closed community, but Joel and I believe the real value here is in letting Google and other web search engines in, along with the hordes of everyday average programmers. We believe programmers are a smarter breed of user, and the low-friction question and answer format will be sustainible for the greater public community if is designed properly. Hopefully.  
+  * It was tempting to keep a closed community, but Joel and I believe the real value here is in letting Google and other web search engines in, along with the hordes of everyday average programmers. We believe programmers are a smarter breed of user, and the low-friction question and answer format will be sustainable for the greater public community if is designed properly. Hopefully.  
 
 
 

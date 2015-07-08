@@ -40,7 +40,7 @@ This is the twenty-first episode of the StackOverflow podcast, wherein Joel and 
 
 
 
-  * On the myth of expertise: fields of expertise in programming are very narrow, and it's remarkable how quickly you get off the beaten path, into techniques and apporaches that almost nobody else is trying.   
+  * On the myth of expertise: fields of expertise in programming are very narrow, and it's remarkable how quickly you get off the beaten path, into techniques and approaches that almost nobody else is trying.   
 
 
 
@@ -73,7 +73,7 @@ We also answered the following listener question:
 
 
 
-  1. **Clay Nichols** of [Bungalow Software](http://www.bungalowsoftware.com/) "Did the badge idea come from Joel's experience in the Isreali military, or from Jennifer Aniston in [Office Space](http://www.imdb.com/title/tt0151804/)?"
+  1. **Clay Nichols** of [Bungalow Software](http://www.bungalowsoftware.com/) "Did the badge idea come from Joel's experience in the Israeli military, or from Jennifer Aniston in [Office Space](http://www.imdb.com/title/tt0151804/)?"
 
 
 

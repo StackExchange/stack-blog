@@ -46,7 +46,7 @@ This is the 50th episode of the StackOverflow podcast, where Joel and Jeff sit d
   * [Prototype](http://www.prototypejs.org/) doesn't play well with the JavaScript compiler at Google, partly because nobody has actually tried to compile the code before! It exposes some problems that weren't immediately obvious. All the common JavaScript frameworks require some tweaking for the JavaScript compilation process.
 
 
-  * Steve likens the comparison between compilation and dynamic typing to taking a shower and brusing your teeth. You should do both! The only reason we _can't_ do both of these things is because, as Steve points out, our tooling currently sucks.  
+  * Steve likens the comparison between compilation and dynamic typing to taking a shower and brushing your teeth. You should do both! The only reason we _can't_ do both of these things is because, as Steve points out, our tooling currently sucks.  
 
 
 

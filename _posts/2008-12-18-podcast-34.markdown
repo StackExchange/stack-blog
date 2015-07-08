@@ -52,7 +52,7 @@ This is the 34th episode of the StackOverflow podcast, where Joel and Jeff discu
   * We noticed that Jason Calacanis of Mahalo will be [doing a Q&A site](http://abcnews.go.com/Technology/AheadoftheCurve/story?id=6464889&page=1). The difference is that this site will pay answerers in real money, part of what Joel calls Jason's Econ 101 management style. The danger is that financial incentives can destroy intrinsic motivation. What's your management style? [Command and Control](http://www.joelonsoftware.com/items/2006/08/08.html), [Econ 101](http://www.joelonsoftware.com/items/2006/08/09.html), or [Identity](http://www.joelonsoftware.com/items/2006/08/10.html)?
 
 
-  * There is a whole new generation of programmers growing up with code like we did. Here's hoping they're learning from our mistakes, so they can make all new mistakes and not repeat all the same dumb mistakes we made. t's almost like [a system of software apprenticeship](http://www.codinghorror.com/blog/archives/000446.html).
+  * There is a whole new generation of programmers growing up with code like we did. Here's hoping they're learning from our mistakes, so they can make all new mistakes and not repeat all the same dumb mistakes we made. It's almost like [a system of software apprenticeship](http://www.codinghorror.com/blog/archives/000446.html).
 
 
   * Is code elegance in the eye of the beholder? Consider the two answers to [Parameterizing a SQL IN Clause](http://stackoverflow.com/questions/337704/parameterizing-a-sql-in-clause) -- which one is more elegant, and why?  

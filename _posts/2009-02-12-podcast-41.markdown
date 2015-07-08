@@ -42,7 +42,7 @@ This is the 41st episode of the StackOverflow podcast, where Joel and Jeff sit d
   * Bob's [SOLID principles](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod) are based on some well known conventions. I talked about the first one, the Single Responsibility Principle, in [Curly's Law: Do One Thing](http://www.codinghorror.com/blog/archives/000805.html). You may have heard this before as Don't Repeat Yourself (DRY), Once and Only Once, or Single Point of Truth.
 
 
-  * We wonder if some of these guidlines -- such as "deploy independently" -- are obviated by the inevitable forward march of technology, such as software delivered through the cloud, and virtual machines.
+  * We wonder if some of these guidelines -- such as "deploy independently" -- are obviated by the inevitable forward march of technology, such as software delivered through the cloud, and virtual machines.
 
 
   * What happens when principles fall into the hands of people who don't really know what they're doing? Or people who become bureaucrats, rigidly enforcing rules on everyone? We think the existence of rules, in and of itself, isn't necessarily a net good. The types of developers who need those rules are [often immune to them](http://www.codinghorror.com/blog/archives/001004.html).

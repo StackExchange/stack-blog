@@ -42,7 +42,7 @@ I was pleasantly surprised to find that the vast, vast majority of Stack Overflo
 
 
 
-While working on this code, I also realized that we should be checking for the inverse of this behavior -- unusual _upvote_ patterns. To game the reputation system, unscrupulous users might create alternate user accounts that vote up their main account. Again, this is a bit tougher on Stack Overflow than other sites, because we don't allow any user account to upvote at all until they've earned 15 reputation first. And then of course there's the aformentioned 30 vote per day limit.
+While working on this code, I also realized that we should be checking for the inverse of this behavior -- unusual _upvote_ patterns. To game the reputation system, unscrupulous users might create alternate user accounts that vote up their main account. Again, this is a bit tougher on Stack Overflow than other sites, because we don't allow any user account to upvote at all until they've earned 15 reputation first. And then of course there's the aforementioned 30 vote per day limit.
 
 
 

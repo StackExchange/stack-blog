@@ -69,7 +69,7 @@ We answered the following listener questions on this podcast:
   1. **Nik Reiman**: "What about Stack Overflow for IT questions that aren't programming related?"
 
 
-Our favorite Stack Overflow qustions this week are:
+Our favorite Stack Overflow questions this week are:
 
 	
   * [How to Deal with Chronic Time Issues?](http://stackoverflow.com/questions/612892/how-to-deal-with-chronic-time-issues) Apparently, beatings will continue until morale improves.
