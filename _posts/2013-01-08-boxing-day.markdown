@@ -33,7 +33,7 @@ Sadly, all good things must come to an end. We've packed up the hats (and archiv
 
 
 
-[![](http://i.stack.imgur.com/7MLht.png)](http://winterba.sh/leaderboard)
+[![](https://i.stack.imgur.com/7MLht.png)](http://winterba.sh/leaderboard)
 
 
 
@@ -45,7 +45,7 @@ I really loved seeing how you all got creative in making your gravatars work wit
 
 
 
-![](http://i.stack.imgur.com/4Vdij.png)
+![](https://i.stack.imgur.com/4Vdij.png)
 
 
 
@@ -57,7 +57,7 @@ On some sites, even [the Community ♦ user](http://meta.stackoverflow.com/quest
 
 
 
-![](http://i.stack.imgur.com/cUXu9.png)
+![](https://i.stack.imgur.com/cUXu9.png)
 
 
 
@@ -69,7 +69,7 @@ The best surprise (aside from the little blue circle letting me know I'd gotten 
 
 
 
-![](http://i.stack.imgur.com/turAN.png)
+![](https://i.stack.imgur.com/turAN.png)
 
 
 
@@ -81,7 +81,7 @@ Several of you also found the "easter egg" on the Winter Bash site -- holding do
 
 
 
-![](http://i.stack.imgur.com/tVSGQ.png)
+![](https://i.stack.imgur.com/tVSGQ.png)
 
 
 
@@ -105,13 +105,13 @@ The data are not really clear. Sites with a very high hats-to-users ratio saw se
 
 
 
-![](http://i.stack.imgur.com/g3BWR.png)
+![](https://i.stack.imgur.com/g3BWR.png)
 
 
 
 
 
-![](http://i.stack.imgur.com/weBRS.png)
+![](https://i.stack.imgur.com/weBRS.png)
 
 
 

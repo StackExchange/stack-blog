@@ -46,7 +46,7 @@ This is the fourth episode of the StackOverflow podcast, wherein Joel and I disc
 
   * The final [results of our logo contest](http://blog.stackoverflow.com/index.php/2008/04/logo-design-contest-winner/).
 
-  * [Twitter](http://twitter.com/): is it only useful for "web celebrities?"  I personally love Twitter and find it quite useful. [Follow me on Twitter](http://twitter.com/codinghorror), and see for yourself. I'll try to convince Joel to join up.
+  * [Twitter](https://twitter.com/): is it only useful for "web celebrities?"  I personally love Twitter and find it quite useful. [Follow me on Twitter](https://twitter.com/codinghorror), and see for yourself. I'll try to convince Joel to join up.
 
   * Tip of the week: [Redgate SQL Compare](http://www.red-gate.com/products/SQL_Compare/index.htm).
 

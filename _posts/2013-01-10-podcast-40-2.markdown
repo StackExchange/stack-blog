@@ -57,7 +57,7 @@ You're listening to the Stack Exchange Podcast #40 (We apologize to everyone who
   * Meth questions! Er, meta questions! First, we tackle "[How to deal with a highly voted non-constructive question](http://meta.stackoverflow.com/questions/160969/how-to-deal-with-a-highly-voted-non-constructive-question)". What's the problem with the question mentioned there? How do we solve this? We decide to call them "pivot questions". The conversation leads us to another common type of easy question: "bike shed" questions.
 
 	
-  * While we're here, go follow us [on Twitter](http://twitter.com/stackexchange) to get the best questions from all of our sites. (It can be a lot to swallow.)
+  * While we're here, go follow us [on Twitter](https://twitter.com/stackexchange) to get the best questions from all of our sites. (It can be a lot to swallow.)
 
 	
   * We experimented with automated twitter feeds and with manually curated twitter feeds, and have found limited success with both. We discuss how twitter feeds (and other types of feeds) work for our company and our sites.

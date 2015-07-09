@@ -4,7 +4,7 @@ comments: true
 date: 2011-02-05 20:26:12+00:00
 layout: post
 redirect_from: /2011/02/suggested-edits-and-edit-review
-hero: http://i.stack.imgur.com/TuutP.jpg
+hero: https://i.stack.imgur.com/TuutP.jpg
 slug: suggested-edits-and-edit-review
 title: Suggested Edits and Edit Review
 wordpress_id: 7114

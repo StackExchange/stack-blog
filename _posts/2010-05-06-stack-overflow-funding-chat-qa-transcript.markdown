@@ -14,7 +14,7 @@ tags:
 - stackexchange
 ---
 
-In case you missed all the excitement yesterday, Joel Spolsky sent out [a tweet](http://twitter.com/spolsky/status/13378100615) inviting his followers to join in what turned out to be Stack Overflow’s first-ever chat Q&A.
+In case you missed all the excitement yesterday, Joel Spolsky sent out [a tweet](https://twitter.com/spolsky/status/13378100615) inviting his followers to join in what turned out to be Stack Overflow’s first-ever chat Q&A.
 
 
 

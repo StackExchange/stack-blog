@@ -4,7 +4,7 @@ comments: true
 date: 2014-04-22 16:00:07+00:00
 layout: post
 redirect_from: /2014/04/putting-the-community-back-in-wiki
-hero: http://i.stack.imgur.com/IGh2C.jpg
+hero: https://i.stack.imgur.com/IGh2C.jpg
 slug: putting-the-community-back-in-wiki
 title: Putting the Community back in Wiki
 wordpress_id: 14660
@@ -55,7 +55,7 @@ But, much like dynamite, this well-intentioned invention was quickly weaponized 
 
 By using ridiculously simplistic heuristics to detect these scenarios, we turned what should have been an act of generosity - an invitation to the community to participate in building a shared resource - into a hidden pitfall for the unwary. Too many helpers? _NO ONE GETS CREDIT!!!_ It was a system that converted helpfulness and generosity into a slap in the face - _from a robot._
 
-![](http://i.stack.imgur.com/BIcgo.png)
+![](https://i.stack.imgur.com/BIcgo.png)
 
 Therefore, **we have removed all automatic Wiki conversion triggers from the software.** No longer will answers with more than some arbitrary number of edits, or questions with more than a page of answers suddenly lose their owners. To handle those rare situations where unusual activity levels may indicate _misuse_, we’ve added some new moderator flags in these scenarios: they can respond _when necessary_ by closing or locking the post - but when there is no fire behind the smoke, they can silently dismiss the flag without disruption.
 
@@ -79,7 +79,7 @@ An author can still apply the status manually when posting or when editing their
 
 Sometimes these are single, collaborative answers, other times questions where all contributions must be made in the form of edits. In _all_ cases, the results are clearly that of a sum greater than the whole of its parts, a true _community_ project.
 
-![](http://i.stack.imgur.com/3nTI3.png)
+![](https://i.stack.imgur.com/3nTI3.png)
 _source: [Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Barn_raising_in_Lansing.jpg)_
 
 Collaboration isn’t a rare thing on our network - the whole system, from posting and editing to voting to moderation, is based on the interaction of multiple users to produce a final product. Community wiki is for a special scenario, something built not by the expertise of one individual, then improved or iterated on by a few others, but rather something created by the concerted efforts of _the community as a whole._

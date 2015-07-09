@@ -18,7 +18,7 @@ Our apologies for the all-site outage today. According to our Pingdom monitors, 
 
 
 
-Apparently there was a router meltdown at our ISP, [Peak Internet](http://www.peakinternet.com/business/hosting/colocation-dedicated#). They promised pictures of the (literally?) melted router via an [update on their Twitter account](http://twitter.com/PEAKInternet/status/4908010791). If they come through, I'll post the pictures here for our viewing pleasure.
+Apparently there was a router meltdown at our ISP, [Peak Internet](http://www.peakinternet.com/business/hosting/colocation-dedicated#). They promised pictures of the (literally?) melted router via an [update on their Twitter account](https://twitter.com/PEAKInternet/status/4908010791). If they come through, I'll post the pictures here for our viewing pleasure.
 
 
 

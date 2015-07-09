@@ -28,7 +28,7 @@ Repair is recycling! The best way to keep electronics out of landfills is to kee
 
 
 
-Kyle let me know that, as programmers themselves, many features of the site were "inspired by" Stack Overflow. Which we're totally cool with, since the iFixit mission of DIY self-repair guides is geek to the bone. _To the bone!_ When I asked Kyle on Twitter if he was looking for iFixit to be inducted into our [League of Web Justice](http://blog.stackoverflow.com/2009/07/why-cant-you-have-just-one-site/), he [replied](http://twitter.com/kwiens/status/6437390641):
+Kyle let me know that, as programmers themselves, many features of the site were "inspired by" Stack Overflow. Which we're totally cool with, since the iFixit mission of DIY self-repair guides is geek to the bone. _To the bone!_ When I asked Kyle on Twitter if he was looking for iFixit to be inducted into our [League of Web Justice](http://blog.stackoverflow.com/2009/07/why-cant-you-have-just-one-site/), he [replied](https://twitter.com/kwiens/status/6437390641):
 
 
 

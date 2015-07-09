@@ -38,7 +38,7 @@ $(document).ready(function() {
 							html += '<a name="comment_' + key + '"></a>';
 							html += '<div class="-row">';
 								html += '<div class="header">';
-									html += '<img src="http://www.gravatar.com/avatar/' + comment.gravatar_hash + '?s=48&d=identicon&r=PG&f=1"/>';
+									html += '<img src="https://www.gravatar.com/avatar/' + comment.gravatar_hash + '?s=48&d=identicon&r=PG&f=1"/>';
 									html += '<p>';
 									if (comment.author_url !== null) html += '<a href="' + comment.author_url + '">';
 									html += comment.author_name;

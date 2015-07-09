@@ -65,7 +65,7 @@ Jeff and Joel are joined today by [Chris "Moot" Poole](http://www.twitter.com/mo
   * We come back to 4chan, where we learn about moderators, janitors, and on-topic-ness rules on the various boards. People apply to be moderators on 4chan, so it's self-selecting.
 
 	
-  * Chris is on [Twitter](http://twitter.com/moot), as are [4chan](http://twitter.com/4chan) and [Canvas](http://twitter.com/canv_as). Also be sure to check out [canv.as](http://canv.as/) and [4chan](http://4chan.org/)... but don't do that last one at work.
+  * Chris is on [Twitter](https://twitter.com/moot), as are [4chan](https://twitter.com/4chan) and [Canvas](https://twitter.com/canv_as). Also be sure to check out [canv.as](http://canv.as/) and [4chan](http://4chan.org/)... but don't do that last one at work.
 
 
 

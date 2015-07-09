@@ -2,7 +2,7 @@
 layout: post
 title: The Importance of Planning
 author: hellohynes
-hero: http://i.stack.imgur.com/h96xY.jpg
+hero: https://i.stack.imgur.com/h96xY.jpg
 source: https://medium.com/@hellohynes/the-importance-of-planning-90ff5be90b10
 tags:
 - engineering

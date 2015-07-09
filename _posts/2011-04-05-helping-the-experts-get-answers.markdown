@@ -31,9 +31,9 @@ But _how_ do you reach writers, bloggers, and other notable experts in the field
 
 I've had the privilege of meeting [Tim Bray](http://en.wikipedia.org/wiki/Tim_Bray) once in real life [at CUSEC '08](http://www.codinghorror.com/blog/2008/01/see-you-at-cusec-2008.html). I wouldn't say he is a friend, per se, but he is certainly someone I admire and respect -- and he is a notable expert on a number of topics.
 
-So when I saw Tim [posit this question on Twitter](http://twitter.com/#!/timbray/status/53139383058051072) ...
+So when I saw Tim [posit this question on Twitter](https://twitter.com/#!/timbray/status/53139383058051072) ...
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/tim-bray-tweet.png)](http://twitter.com/#!/timbray/status/53139383058051072)
+[![](http://blog.stackoverflow.com/wp-content/uploads/tim-bray-tweet.png)](https://twitter.com/#!/timbray/status/53139383058051072)
 
 ... I said to myself, _hey, there's a site for that!_
 
@@ -41,7 +41,7 @@ Since I like Tim, and I genuinely want to help him get an answer to his question
 
 [![](http://blog.stackoverflow.com/wp-content/uploads/apple-bray-post.png)](http://apple.stackexchange.com/questions/11100/getting-a-graphic-on-the-clipboard-to-disk)
 
-Amazingly, even without any promotion, **this question was answered in six minutes flat** -- correctly! The timestamps don't lie.  (Yes, I did subsequently [retweet the question](http://twitter.com/#!/codinghorror/status/53142579574874112) to give it more attention, but my tweet was after the first answer arrived.)
+Amazingly, even without any promotion, **this question was answered in six minutes flat** -- correctly! The timestamps don't lie.  (Yes, I did subsequently [retweet the question](https://twitter.com/#!/codinghorror/status/53142579574874112) to give it more attention, but my tweet was after the first answer arrived.)
 
 By the time Tim saw "his" question, it was already answered, excellently! **What better way could there be to introduce an expert to your community than presenting them with an immediate answer to their question?** Every Q&A; community we operate is predicated on this simple idea of paying it forward, of peers helping other peers learn together.
 

@@ -22,11 +22,11 @@ To make ads work, you have to ensure their relevance to the audience you’re ad
 
 [And now this is possible](http://meta.stackoverflow.com/questions/24643/rate-the-quality-of-the-ads). We’ve worked with [Adzerk](http://www.adzerk.com/) (our ad server) to come up with a widget that lets you either up- or down-vote an ad (widget will display when you hover over the ad).
 
-![](http://i.stack.imgur.com/926J9.png)
+![](https://i.stack.imgur.com/926J9.png)
 
 If you up vote an ad (particularly if a large number of people do) we know the ad is on the right track. If you down vote one, we’ll ask you why, and won't show you that ad again.
 
-![](http://i.stack.imgur.com/KNtoj.png)
+![](https://i.stack.imgur.com/KNtoj.png)
 
 Apart from improving your experience, this will also provide a wealth of information as to which ads and advertisers work and which ones don’t, and it will ensure we avoid wasting our advertisers' money and your time (we hope!). All good things.
 

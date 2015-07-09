@@ -4,7 +4,7 @@ comments: true
 date: 2012-08-08 18:34:11+00:00
 layout: post
 redirect_from: /2012/08/stack-exchange-is-not-a-forum-the-role-of-niceness-on-a-qa-site
-hero: http://i.stack.imgur.com/5WoNz.jpg
+hero: https://i.stack.imgur.com/5WoNz.jpg
 slug: stack-exchange-is-not-a-forum-the-role-of-niceness-on-a-qa-site
 title: 'Stack Exchange is not a forum: the role of “niceness” on a Q&A site'
 wordpress_id: 12072
@@ -33,7 +33,7 @@ Stack Overflow people are nice because we're good at cleaning up after ourselves
 
 You might _think_ you hang out on SO because people are nice there, but if Stack Overflow was full of very nice, impeccably polite _misinformation_... It wouldn’t be a valuable resource for professional programmers. It’d be more like some elaborate [geek troll](http://www.geekosystem.com/trollquotes-troll-geeks/).
 
-![](http://i.stack.imgur.com/6xtfg.jpg)
+![](https://i.stack.imgur.com/6xtfg.jpg)
 
 It’s good to keep politeness in mind when writing, as your tone can distract readers from your message. It's great to have something approaching [real data](http://blog.stackoverflow.com/2012/07/week-2-of-the-summer-of-love-researching-comments/) on how “nice” we are. But in the end, this sort of navel-gazing misses the point: we’re not here to pat each other on the back and hand out gold stars, much less waggle our fingers at the jackasses - we’re here to share the knowledge of our craft.
 

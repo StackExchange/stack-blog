@@ -4,7 +4,7 @@ comments: true
 date: 2014-05-08 19:25:09+00:00
 layout: post
 redirect_from: /2014/05/stack-exchange-for-iphone-is-here
-hero: http://i.stack.imgur.com/UB27G.jpg
+hero: https://i.stack.imgur.com/UB27G.jpg
 slug: stack-exchange-for-iphone-is-here
 title: Stack Exchange for iPhone is here!
 wordpress_id: 14688
@@ -16,7 +16,7 @@ tags:
 
 Earlier this year, we announced the release of our [Android application](http://blog.stackoverflow.com/2014/01/stack-exchange-for-android-is-here/) and the public feedback was fantastic. Well, it turns out we offended our designers by not doing an iPhone application too. So, after spending the last few months apologizing and bribing them (turns out designers love moleskins in pantone colors), we're excited to announce the release of Stack Exchange for your iPhone.
 
-[![](http://i.stack.imgur.com/gbyay.png)](https://itunes.apple.com/us/app/stack-exchange/id871299723)
+[![](https://i.stack.imgur.com/gbyay.png)](https://itunes.apple.com/us/app/stack-exchange/id871299723)
 
 
 Feed Me, Seymour
@@ -34,7 +34,7 @@ It includes any new answers, comments, or upvotes on your posts, and even new qu
 
 
 
-![](http://i.stack.imgur.com/3evjS.png)
+![](https://i.stack.imgur.com/3evjS.png)
 
 
 
@@ -48,7 +48,7 @@ It includes any new answers, comments, or upvotes on your posts, and even new qu
 Stack Exchange for iPhone sends you instant notifications any time someone interacts with you, so when you urgently need to figure out how long cooked chicken lasts in the fridge (turns out, a couple days) you’ll get a notification the second someone answers your question.
 
 
-![](http://i.stack.imgur.com/47NTm.png)
+![](https://i.stack.imgur.com/47NTm.png)
 
 And you can always customize the notifications in your iPhone's built in Settings, in case you don't want to get a message in the middle of the night (and end up dreaming of chicken).
 
@@ -63,7 +63,7 @@ You can ask, answer, comment, and vote, and there's even a built-in Markdown key
 
 
 
-![](http://i.stack.imgur.com/ZuFS8.png)
+![](https://i.stack.imgur.com/ZuFS8.png)
 
 
 The next time [you want to identify a cool font you see on a poster](http://blog.stackoverflow.com/2014/04/podcast-57-we-just-saw-this-on-florp/), you can immediately post a question with a picture of it from your iPhone.
@@ -90,4 +90,4 @@ So, what are you waiting for? Go download Stack Exchange on your iPhone now and 
 
 
 
-[![](http://i.stack.imgur.com/gbyay.png)](https://itunes.apple.com/us/app/stack-exchange/id871299723)
+[![](https://i.stack.imgur.com/gbyay.png)](https://itunes.apple.com/us/app/stack-exchange/id871299723)

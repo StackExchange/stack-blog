@@ -27,7 +27,7 @@ Not only can you change your login any time you want, to whatever you want, you 
 
 Here's how. On your user page, note that there is a new link, **my logins**.
 
-![](http://i.stack.imgur.com/9G6vr.png)
+![](https://i.stack.imgur.com/9G6vr.png)
 
 Here, only visible to you and moderators, are all your current logins. If you click the "add new login..." link, you're taken to the login page, where you can add another login of any type to your account.
 

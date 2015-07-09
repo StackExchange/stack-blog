@@ -20,7 +20,7 @@ tags:
 ## [Jon Ericson](http://stackoverflow.com/users/1438/jon-ericson)
 
 
-[![](http://i.stack.imgur.com/UwU4i.jpg)](http://stackoverflow.com/users/1438/jon-ericson)Jon became fascinated with computers when he got to play with his cousin's Commodore 64 circa 1986. Over the years, Jon went on to write many fine Hello World programs, and dabbled in one online community after another: BBSes, AOL forums, Usenet, mailing lists, etc.
+[![](https://i.stack.imgur.com/UwU4i.jpg)](http://stackoverflow.com/users/1438/jon-ericson)Jon became fascinated with computers when he got to play with his cousin's Commodore 64 circa 1986. Over the years, Jon went on to write many fine Hello World programs, and dabbled in one online community after another: BBSes, AOL forums, Usenet, mailing lists, etc.
 
 Jon has had an interesting relationship with Stack Exchange. Five years ago, he read about the Stack Overflow beta and signed up. A year and a half later, after asking and answering a respectable number of questions, [Jon lost interest](http://meta.stackoverflow.com/questions/42481/the-problem-with-extrinsic-motivation). That could have ended the story, but [when the network expanded](http://blog.stackoverflow.com/2010/04/changes-to-stack-exchange/) to topics outside of technology Stack Exchange's not-so-secret sauce of voting, editing, focused Q&A, and, yes, reputation [dragged him back in](http://meta.stackoverflow.com/questions/42481/the-problem-with-extrinsic-motivation/141021#141021). Jon got involved in a few more beta sites, and his renewed interest was solidified by several amazing answers to his Bible questions.
 

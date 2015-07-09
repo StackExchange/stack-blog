@@ -67,7 +67,7 @@ I found that eBay auction I mentioned above too tempting to resist ...
 
 
 
-so now my son Henry (aka [Rock Hard Awesome](http://twitter.com/rockhardawesome)) can be WORKIN ON UR PROBLEMZ, too!
+so now my son Henry (aka [Rock Hard Awesome](https://twitter.com/rockhardawesome)) can be WORKIN ON UR PROBLEMZ, too!
 
 
 

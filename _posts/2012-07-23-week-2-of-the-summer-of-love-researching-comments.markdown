@@ -28,7 +28,7 @@ There've been dozens of discussions along these lines over the years, reflecting
 
 
 
-[![trend graph of comment friendliness over time](http://i.stack.imgur.com/v9gus.png)](http://i.stack.imgur.com/v9gus.png)To investigate, we sampled 7,000 comments written on questions on SO and collected 20 independent ratings of attitude for each and every sampled comment (ratings obtained via experienced raters on [Mechanical Turk](http://www.mturk.com)). Comments were randomly selected over the past 3 years. Then we calculated “friendliness scores” for comments based on all 20 ratings.
+[![trend graph of comment friendliness over time](https://i.stack.imgur.com/v9gus.png)](https://i.stack.imgur.com/v9gus.png)To investigate, we sampled 7,000 comments written on questions on SO and collected 20 independent ratings of attitude for each and every sampled comment (ratings obtained via experienced raters on [Mechanical Turk](http://www.mturk.com)). Comments were randomly selected over the past 3 years. Then we calculated “friendliness scores” for comments based on all 20 ratings.
 
 The first thing we found is that comments on Stack Overflow are, in fact, getting friendlier. As we see in the chart, friendliness ratings are generally positive and continue to trend that way. Since May 2011 at least 75% of all comments sampled are rated positively. Statistical modeling of the data supports these observations: comments now are significantly friendlier than they were three years ago. What about the unfriendly portion? We’ll get to that later.
 

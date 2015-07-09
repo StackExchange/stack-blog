@@ -17,13 +17,13 @@ tags:
 
 Another holiday season has drawn to a close. We’ve had three glorious weeks with our beloved hats. Now as we pack away the tinsel and the party horns, it’s time to put the hats back in their boxes for another year. Before we move on to 2014 with our bare heads (and our full hearts), let’s take a few moments to reminisce.
 
-![oh the memories](http://i.stack.imgur.com/uKN0x.png)
+![oh the memories](https://i.stack.imgur.com/uKN0x.png)
 
 ****76,586** users** from all over the network earned **214,172**** hats** this year - that's just about twice the number of hats [they earned last year](http://blog.stackoverflow.com/2013/01/boxing-day/). **95 sites** opted to participate in Winter Bash, which is more than the total number of sites that simply _existed_ during last year’s event.
 
 The most commonly earned hat was the **Old Hat**, earned 74,631 times (by 35,589 distinct users). The least commonly earned _public_ hat was **Oh the Horror**, earned just 46 times. And the rarest hat of all was the top-secret **Don Draper**, earned **only 14 times** across the whole network.
 
-![hat awardz](http://i.stack.imgur.com/APoST.png)
+![hat awardz](https://i.stack.imgur.com/APoST.png)
 
 Something new we did this year was keeping the secret hats’ triggers… well, secret. Since [the community asked so nicely](http://meta.stackoverflow.com/questions/212305/will-the-secret-of-the-secret-hats-be-revealed-after-the-end-of-winter-bash), it’s now time to reveal the mysteries of the secret hats! In ascending order of rarity:
 
@@ -62,10 +62,10 @@ Something new we did this year was keeping the secret hats’ triggers… well, 
 
 And finally, we need to send a special shout-out to the top hat earner across [the entire Stack Exchange network](http://winterbash2013.stackexchange.com/leaderboard/network). **This user earned a whopping 44 hats** - all of the hats they were eligible for, missing only With Great Power due to not being a moderator. Please join me in giving the eminent [Logan M](http://anime.stackexchange.com/users/24/logan-m) a hearty round of applause!
 
-![logan m is winnar](http://i.stack.imgur.com/3HmPN.png)
+![logan m is winnar](https://i.stack.imgur.com/3HmPN.png)
 
 Honorable mention is due to [Manishearth](http://meta.stackoverflow.com/users/178438/manishearth), who held the network-wide lead for almost the entire duration of Winter Bash and was only edged out in the final hours by Logan M's 44th hat. Well done to you both!
 
 Lastly, we send our gratitude to each and every one of our users for the tireless and high-quality work you do throughout the year, even when there aren't any hats to earn. Winter Bash is our chance to kick off our shoes and have some fun during the holiday season, and we hope you enjoyed it! The whole Stack Exchange team wishes everyone a happy and healthy 2014. That's all, folks!
 
-![](http://i.stack.imgur.com/KU9AK.jpg)
+![](https://i.stack.imgur.com/KU9AK.jpg)

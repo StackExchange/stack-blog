@@ -15,7 +15,7 @@ tags:
 
 Thanks to everyone who attended a Stack Overflow MeetUp!  We had over 2,000 people sign up.  Reading the tweets (#SOMeetup) in chronological order was a bit like New Year’s Eve, with each time zone’s MeetUps beginning one after the other.
 
-While not every MeetUp had tons of people, it seemed like everyone had a great time!  Updates and pictures have been posted so far on [Twitter](http://twitter.com/#search?q=%23someetup) and [Flickr](http://www.flickr.com/search/?q=someetup).  If you have any pictures or quick stories to share from your MeetUp that you haven’t posted yet, post ‘em (and don't forget the #SOMeetup hashtag)!  Here’s a sampling of the ones so far:
+While not every MeetUp had tons of people, it seemed like everyone had a great time!  Updates and pictures have been posted so far on [Twitter](https://twitter.com/#search?q=%23someetup) and [Flickr](http://www.flickr.com/search/?q=someetup).  If you have any pictures or quick stories to share from your MeetUp that you haven’t posted yet, post ‘em (and don't forget the #SOMeetup hashtag)!  Here’s a sampling of the ones so far:
 
 **Sydney, Australia:**
 

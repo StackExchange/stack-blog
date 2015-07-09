@@ -35,11 +35,11 @@ So we're simplifying. **Email notifications are now tied to your [global inbox](
 
 To turn on email notifications, open [your profile page](http://stackoverflow.com/users/current) by clicking your name as it appears at the top of any Stack Exchange site, and look for the "preferences" option at the top.
 
-![](http://i.stack.imgur.com/UZX4g.png)
+![](https://i.stack.imgur.com/UZX4g.png)
 
 In the settings, you can confirm your email address -- we'll validate it in this case to make sure the emails will arrive -- and specify whether you want emails delivered **daily, weekly, or every 3 hours**.
 
-![](http://i.stack.imgur.com/BnDOh.png)
+![](https://i.stack.imgur.com/BnDOh.png)
 
 Bear in mind that we will only email you if you have not checked your global inbox in that time interval. Meaning, if you select the default of "daily", and you don't click to expand your global inbox on _any Stack Exchange site_ for a full 24 hour period... you'll then get an email delivered to you with the contents of your global inbox. And if you don't check for _another 24_ hours, you will get another email, and so forth.
 

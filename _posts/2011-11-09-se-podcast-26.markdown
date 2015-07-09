@@ -24,7 +24,7 @@ No guest today. Moot had to postpone his appearance on the show. But David Fulle
   * Per a chat room question: there's no news on DevDays. Though we did have a vendor offer us a refund on money we didn't pay, but Producer Alex is too honest for his own good. Also, Future iterations will be closer to the original conference.
 
 	
-  * Stack Overflow is accepting nominations for moderators for the next 6 days (at time of recording). So far, the[ nominations](http://stackoverflow.com/election) are [civil and intelligent](http://twitter.com/#%21/Aurimas/status/133823246884798465) (unlike in the real world of course). The gang talks about other sites/forums/chat rooms from years past that have held elections like ours. There aren't many! Jeff & Joel discuss what moderator elections mean for a community, why communities need moderators, and what makes a good moderator.
+  * Stack Overflow is accepting nominations for moderators for the next 6 days (at time of recording). So far, the[ nominations](http://stackoverflow.com/election) are [civil and intelligent](https://twitter.com/#%21/Aurimas/status/133823246884798465) (unlike in the real world of course). The gang talks about other sites/forums/chat rooms from years past that have held elections like ours. There aren't many! Jeff & Joel discuss what moderator elections mean for a community, why communities need moderators, and what makes a good moderator.
 
 	
   * David Fullerton is here to provide some insight on what makes a Hot Question on the Stack Exchange homepage... and we realize that an algorithm can never replace a good old-fashioned human moderator. Moderation is incredibly important.

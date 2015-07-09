@@ -14,7 +14,7 @@ tags:
 ---
 
 
-I occasionally like to give away codes for Steam games via [my twitter account](http://twitter.com/codinghorror), to [Trilogy](http://blog.stackoverflow.com/2009/05/the-stack-overflow-trilogy/) users with 1k+ reputation. It's my little ad-hoc way of giving directly back to the community, just for fun.
+I occasionally like to give away codes for Steam games via [my twitter account](https://twitter.com/codinghorror), to [Trilogy](http://blog.stackoverflow.com/2009/05/the-stack-overflow-trilogy/) users with 1k+ reputation. It's my little ad-hoc way of giving directly back to the community, just for fun.
 
 
 

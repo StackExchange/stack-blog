@@ -5,7 +5,7 @@ date: 2014-07-23 20:04:44+00:00
 layout: post
 redirect_from: /2014/07/please-welcome-jmac-community-manager-of-the-rising-sun
 slug: please-welcome-jmac-community-manager-of-the-rising-sun
-hero: http://i.stack.imgur.com/3bryG.jpg
+hero: https://i.stack.imgur.com/3bryG.jpg
 title: Please welcome jmac, Community Manager of the Rising Sun
 wordpress_id: 14754
 tags:
@@ -16,7 +16,7 @@ tags:
 
 As Stack Exchange continues to expand to serve new audiences, we're constantly on the lookout for folks who can take the principles and practices we all hold dear and communicate them effectively to the folks who would otherwise find them strange and difficult. I'm happy to announce we've found another of these rare specimens in the form of [**Joshua Maciel**](http://workplace.stackexchange.com/users/7945/jmac):
 
-[![](http://i.stack.imgur.com/ne1Ja.jpg)](http://workplace.stackexchange.com/users/7945/jmac)
+[![](https://i.stack.imgur.com/ne1Ja.jpg)](http://workplace.stackexchange.com/users/7945/jmac)
 
 Josh joins us remotely from beautiful Kansai Japan, where youthful ignorance brought him for a two-year stay (maximum!) to teach English. Eleven years later he still hasn’t left, having found gainful employment doing international sales for Japanese manufacturers, along with something he refers to as a ‘social life’ in Western Japan.
 
