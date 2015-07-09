@@ -24,7 +24,7 @@ Jeff & Joel are joined this week by Eric Ries, author and expert on The Lean Sta
   * Talk of children leads to talk of war which leads to talk of Battlefield 3. The core team spent some time playing today. It incentivizes working as a team!
 
 	
-  * ANYWAY. [Eric Ries](http://twitter.com/#%21/ericries) is our guest today! He's got a new book out called [The Lean Startup](http://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898%3FSubscriptionId%3DAKIAIIBINOD46VC3JCLQ%26tag%3Dstackoverfl08-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0307887898). What is a Lean Startup? It's an analogy to lean manufacturing: a system of management about fast cycle time and building quality in from the beginning. Lean startups take those techniques and apply them to startups, where there are a lot more unknowns about the product and the customer.
+  * ANYWAY. [Eric Ries](https://twitter.com/#%21/ericries) is our guest today! He's got a new book out called [The Lean Startup](http://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898%3FSubscriptionId%3DAKIAIIBINOD46VC3JCLQ%26tag%3Dstackoverfl08-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0307887898). What is a Lean Startup? It's an analogy to lean manufacturing: a system of management about fast cycle time and building quality in from the beginning. Lean startups take those techniques and apply them to startups, where there are a lot more unknowns about the product and the customer.
 
 	
   * Eric wants to convince Jeff and Joel not to batch deploy anymore. (We deploy multiple times per day. We have at least one per day, and other than that people can deploy as they see that they need to.) The discussion about the way the teams deploy changes leads to a discussion about unit testing.
@@ -54,7 +54,7 @@ Jeff & Joel are joined this week by Eric Ries, author and expert on The Lean Sta
   * Joel has decided to attack the Stack Overflow moderator flag queue. Some things he's noticed: There is a tendency to pile flags on people that don't speak English natively. The mental load on a new moderator can be very high as they learn the ropes of how to handle particular types of flags. Handling flags requires a lot of effort and decision from moderators. Joel has an idea on how to handle this! Discussion on moderation and flagging ensues.
 
 	
-  * [Eric](http://twitter.com/ericries)'s book The Lean Startup, found on [Amazon](http://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898%3FSubscriptionId%3DAKIAIIBINOD46VC3JCLQ%26tag%3Dstackoverfl08-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0307887898) or right on [Eric's website](http://theleanstartup.com/), peaked at #2 on the New York Times bestseller list!
+  * [Eric](https://twitter.com/ericries)'s book The Lean Startup, found on [Amazon](http://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898%3FSubscriptionId%3DAKIAIIBINOD46VC3JCLQ%26tag%3Dstackoverfl08-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0307887898) or right on [Eric's website](http://theleanstartup.com/), peaked at #2 on the New York Times bestseller list!
 
 
 Make sure to join us next week (at the usual time of course) when our guest is Mar Russinovich.

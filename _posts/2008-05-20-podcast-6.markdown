@@ -38,7 +38,7 @@ This is the sixth episode of the StackOverflow podcast, wherein Joel and I discu
 
   * Why you should [pay people not to work at your company](http://discussionleader.hbsp.com/taylor/2008/05/wy_zappos_pays_new_employees_t.html).
 
-  * Why am I so evangelical about [Twitter](http://twitter.com/)?
+  * Why am I so evangelical about [Twitter](https://twitter.com/)?
 
   * What should Joel talk about at [the Rails Conference Keynote](http://en.oreilly.com/rails2008/public/schedule/detail/4365)?
 

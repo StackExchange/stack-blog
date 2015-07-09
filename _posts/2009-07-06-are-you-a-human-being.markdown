@@ -67,7 +67,7 @@ Other times, they might be uncomfortably accurate:
 
 
 
-(Courtesy of [Lara Eagle](http://twitter.com/lara_eagle))
+(Courtesy of [Lara Eagle](https://twitter.com/lara_eagle))
 
 
 

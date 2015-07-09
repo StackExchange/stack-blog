@@ -39,7 +39,7 @@ Joel and Jeff discuss.. stuff!
   * Joel and I both believe that status reports should be treated as a "public wall", never as weapons to determine how people get paid or promoted. The single best thing I've ever read on this is [Poppendieck's Team Compensation](http://www.poppendieck.com/pdfs/Compensation.pdf) (pdf) -- which I discovered through Joel's first collection of software writing. If I could, I'd print out a copy of this and staple it to the face of every person in the world who manages software developers. Yes, it really is that good. Go read it!
 
 
-  * One team at Fog Creek instituted a daily standup meeting for their project, which is a staple of most agile development approaches. In addition to the "Daily Kiwi" convention, Fog Creek also use a locally hosted instance of [Laconica](http://laconi.ca/), an open source [Twitter](http://twitter.com/) clone. It's certainly an interesting [alternative to email](http://www.codinghorror.com/blog/archives/001191.html).
+  * One team at Fog Creek instituted a daily standup meeting for their project, which is a staple of most agile development approaches. In addition to the "Daily Kiwi" convention, Fog Creek also use a locally hosted instance of [Laconica](http://laconi.ca/), an open source [Twitter](https://twitter.com/) clone. It's certainly an interesting [alternative to email](http://www.codinghorror.com/blog/archives/001191.html).
 
 
   * Joel believes most small to midsize software companies will deal with an economic downturn by (temporarily) deferring development of new versions of their products. For companies that have a lot of "extra" staff, the economy might be an excuse to get rid of the worst performing 10% of your employees.
