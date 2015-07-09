@@ -4,6 +4,7 @@ author: alitovsky
 title: Going From Mobile Back To The Web
 hero: https://ununsplash.imgix.net/photo-1428954376791-d9ae785dfb2d?fit=crop&fm=jpg&h=700&q=75&w=1050
 description: "Are you restless at your job, but looking for a challenge? Going into a completely different technology stack has its rewards. Find out how developers can move around teams and technology at Stack Exchange to maximize happiness."
+source: http://www.arielitovsky.com/blog/from-mobile-back-to-the-web/
 tags:
 - engineering
 - development
