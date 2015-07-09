@@ -78,7 +78,7 @@ Then, Joel gets so bored he brings up sports. On purpose. Several times. Also: [
   * [Don't understand how my mum's Gmail account was hacked](http://security.stackexchange.com/questions/52115/dont-understand-how-my-mums-gmail-account-was-hacked)
 
 	
-  * [How does changing your password every 90 days incease security?](http://security.stackexchange.com/questions/4704/how-does-changing-your-password-every-90-days-increase-security)
+  * [How does changing your password every 90 days increase security?](http://security.stackexchange.com/questions/4704/how-does-changing-your-password-every-90-days-increase-security)
 
 
 Thanks for joining us during this very productive hour of your life for Stack Exchange Podcast #57, brought to you by Heartbleed - the first buffer overflow bug with a website, a logo, and a marketing department.

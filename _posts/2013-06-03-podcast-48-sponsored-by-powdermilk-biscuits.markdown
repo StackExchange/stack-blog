@@ -39,7 +39,7 @@ Welcome to Stack Exchange Podcast #48! Our guest today is [Jorge Castro](http:/
   * Side note: [You can't handle the Knuth](http://youcanthandletheknuth.com/).
 
 	
-  * To finish the Brainstorm story, last month it was decided that… it wasn't really working. The barrier to contributing to Ubuntu is getting lower and lower, so people with features to dicuss can just show up to the Developer Summit. The moral of the story is that it's in the process of being shut down, but it's not ideal to just close all of the communication channels (because sometimes [users have great ideas](http://www.collegehumor.com/video/5941080/windows-7-parody)). We discuss the advantages and pitfalls of crowdsourced feature requests.
+  * To finish the Brainstorm story, last month it was decided that… it wasn't really working. The barrier to contributing to Ubuntu is getting lower and lower, so people with features to discuss can just show up to the Developer Summit. The moral of the story is that it's in the process of being shut down, but it's not ideal to just close all of the communication channels (because sometimes [users have great ideas](http://www.collegehumor.com/video/5941080/windows-7-parody)). We discuss the advantages and pitfalls of crowdsourced feature requests.
 
 	
   * Jay bought [this](https://campaign.soylent.me/soylent-free-your-body) last week.
