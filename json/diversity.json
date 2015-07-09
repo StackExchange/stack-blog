@@ -1,0 +1,29 @@
+---
+layout: null
+---
+{% assign total = 0 %}{% for post in site.posts %}{% if post.tags contains 'diversity' %}{% capture total %}{% increment total %}{% endcapture %}{% endif %}{% endfor %}
+{
+	"posts": [{% for post in site.posts %}{% if post.tags contains 'diversity' %}{% capture total %}{% decrement total %}{% endcapture %}
+			{
+				"title": "{{ post.title | raw | escape }}",
+				"url": "{{ site.baseurl }}{{ post.url }}",
+				"hero": "{{ post.hero }}",
+				"tags": [{% for tag in post.tags %}"{{ tag }}"{% unless forloop.last %},{% endunless %}{% endfor %}],
+				"categories": [{% for category in post.categories %}"{{ category }}"{% unless forloop.last %},{% endunless %}{% endfor %}],
+				"date": "{{ post.date | date: "%B %e, %Y" }}",
+				"author": "{{ post.author }}",
+				"draft": {% if post.draft or post.date > site.time %}true{% else %}false{% endif %},
+				"content": "{% if post.description %}{{ post.description | strip_html | strip_newlines }}{% else %}{% if post.excerpt %}{{ post.excerpt | markdownify | strip_html | strip_newlines }}{% else %}{{ site.description }}{% endif %}{% endif %}"
+			{% if forloop.last or total == '0' %}}{% else %}},{% endif %}{% endif %}{% endfor %}
+	],
+	"authors": {
+		{% for author in site.authors %}
+		"{{ author.id }}": {
+			"name": "{{ author.name }}",
+			"avatar": "{{ author.avatar }}",
+			"twitter": "{{ author.twitter }}",
+			"url": "{{ site.baseurl }}/authors/{{ author.id }}",
+			"job": "{{ author.job }}"
+		{% if forloop.last %}}{% else %}},{% endif %}{% endfor %}
+	}
+}
