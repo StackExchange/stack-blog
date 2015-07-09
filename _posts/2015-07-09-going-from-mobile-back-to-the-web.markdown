@@ -82,8 +82,8 @@ First Steps
 ------------------
 My first task as a Careers developer involved allowing our customers to buy job listings of different durations online. Until then, customers could buy 30-day listings by themselves, but would need to call a sales person to get a 60-day, 90-day or longer listing. Our checkout funnel was also promoting the idea of buying in bulk, and while this is still possible (and cheaper per unit!), we know that longer listings tend to make our customers more successful in completing a hire. 
 
-![The new checkout form](http://i.imgur.com/JzzMNb7.jpg)
-*The new checkout form, now with longer listings*
+![The new Job Listings checkout form, now with longer listings](http://i.imgur.com/JzzMNb7.jpg)
+*The new Job Listings checkout form, now with longer listings*
 
 These two small, seemingly innocuous changes involved touching quite a few parts of the codebase, since the assumption of a 30-day job listings was sprinkled here and there. Though not a particularly interesting problem technically, it was small enough in scope that I could complete it quickly, learn a lot about our codebase, talk to many different people throughout the organization, and get get something shipped within a few weeks. The actual implementation only took 2-3 days; the feature was shipped a littler later while waiting on some verification from our marketing team for new prices, and some updates to localized copy.
 
@@ -92,4 +92,4 @@ Conclusions
 
 I haven't abandoned the idea of working on iOS -- far from it. Taking a break to explore some other areas puts me in a great position, say, if we wanted to create a Stack Overflow Careers-focused mobile app. And while I don't recommend changing teams or project around every month, keeping our roles interesting, relevant, and exciting is something every developer can  control and benefit from.
 
-*Arie is a developer on the Careers Team at Stack Exchange. You can follow him on [Twitter](https://twitter.com/arielitovsky).*
+*Arie is a developer on the Careers team at Stack Exchange. You can follow him on [Twitter](https://twitter.com/arielitovsky).*
