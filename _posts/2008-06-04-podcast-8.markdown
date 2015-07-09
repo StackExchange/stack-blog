@@ -54,7 +54,7 @@ This is the eighth episode of the StackOverflow podcast, wherein Joel and I disc
 
   * Joel and I are still very excited about Microsoft's DLR ([IronPython](http://www.codeplex.com/IronPython) and [IronRuby](http://www.ironruby.net/)) as an escape route from the superficial differences between [the Coke and Pepsi of C# and VB.NET](http://www.codinghorror.com/blog/archives/000519.html).
 
-  * welcome [Geoff Dalgas](http://twitter.com/SuperDalgas) to the stackoverflow.com programming team!
+  * welcome [Geoff Dalgas](https://twitter.com/SuperDalgas) to the stackoverflow.com programming team!
 
   * As usual, thank you for all the questions and for the Wiki edits! 
 

@@ -45,7 +45,7 @@ It's our first test of a live podcast!  In case you missed it, we streamed this
   * Joel takes his first question from the audience: why does he think great programmers aren't going to be found developing internal company apps?
 
 
-Tune in next week when our guest is [Sam Saffron](http://stackoverflow.com/users/17174/sam-saffron) (aka [Waffles](http://meta.stackoverflow.com/users/17174/waffles)) - once again, you'll be able to watch/listen live on Tuesday @ 4pm as we do the taping.  Follow [@spolsky](http://twitter.com/#!/spolsky) and [@codinghorror](http://www.twitter.com/codinghorror) for the link.  You can also hang out in the [official chat room](http://chat.stackexchange.com/rooms/512/se-podcast-live-chat) during the tapings.
+Tune in next week when our guest is [Sam Saffron](http://stackoverflow.com/users/17174/sam-saffron) (aka [Waffles](http://meta.stackoverflow.com/users/17174/waffles)) - once again, you'll be able to watch/listen live on Tuesday @ 4pm as we do the taping.  Follow [@spolsky](https://twitter.com/#!/spolsky) and [@codinghorror](http://www.twitter.com/codinghorror) for the link.  You can also hang out in the [official chat room](http://chat.stackexchange.com/rooms/512/se-podcast-live-chat) during the tapings.
 
 [Stack Exchange Podcast - Episode #06](http://soundcloud.com/stack-exchange/stack-exchange-podcast-8) by [Stack Exchange](http://soundcloud.com/stack-exchange)
 

@@ -49,4 +49,4 @@ If you have suggestions for how to make the new blog better, [create an issue](h
 ## More to come
 There's so much more we want to do with this blog in the future. It's one of the few places we have as a company to talk directly to the community we've helped build and love so much. As always, sound off in the comments about what you think of the changes, ideas you have about how to make it better, or take an extra step and become a contributor writing code. Until next time!
 
-*Jon is a developer and heads up evangelism efforts at Stack Exchange. You can follow him on [Twitter](http://twitter.com/jonhmchan).*
+*Jon is a developer and heads up evangelism efforts at Stack Exchange. You can follow him on [Twitter](https://twitter.com/jonhmchan).*

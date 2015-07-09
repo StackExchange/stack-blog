@@ -16,7 +16,7 @@ tags:
 
 If you ever listened to our [sadly defunct podcast](http://blog.stackoverflow.com/category/podcasts/), you probably heard about Twitter ... a lot. I've been a longtime user (since 2007) and I was always surprised how much utility I got out of the thing. Even Joel Spolsky, a longtime skeptic of the service, is a believer now.
 
-We decided to create Twitter accounts for each Stack Exchange 2.0 site that will **broadcast interesting questions every so often**. Believe me -- I despise spam as much as anyone, and I fully realize that [Twitter is not RSS](http://twitter.com/#!/isnotrss) ...
+We decided to create Twitter accounts for each Stack Exchange 2.0 site that will **broadcast interesting questions every so often**. Believe me -- I despise spam as much as anyone, and I fully realize that [Twitter is not RSS](https://twitter.com/#!/isnotrss) ...
 
 ![Stop spamming Twitter with auto-generated tweets saying nothing more than that you posted something somewhere else.](/images/wordpress/twitter-is-not-rss.png)
 
@@ -35,7 +35,7 @@ With that in mind, we've set up the following Twitter accounts to publish the mo
 
 
 <td >
-[![Twitter account](http://blog.stackoverflow.com/wp-content/uploads/twitter-logo1.png)](http://twitter.com)
+[![Twitter account](http://blog.stackoverflow.com/wp-content/uploads/twitter-logo1.png)](https://twitter.com)
 
 </td>
 
@@ -44,7 +44,7 @@ With that in mind, we've set up the following Twitter accounts to publish the mo
 <td >[Android](http://android.stackexchange.com)
 </td>
 
-<td >[StackAndroid](http://twitter.com/StackAndroid)
+<td >[StackAndroid](https://twitter.com/StackAndroid)
 </td>
 </tr>
 
@@ -53,7 +53,7 @@ With that in mind, we've set up the following Twitter accounts to publish the mo
 <td >[Apple](http://apple.stackexchange.com)
 </td>
 
-<td >[StackApple](http://twitter.com/StackApple)
+<td >[StackApple](https://twitter.com/StackApple)
 </td>
 </tr>
 
@@ -62,7 +62,7 @@ With that in mind, we've set up the following Twitter accounts to publish the mo
 <td >[StackApps](http://stackapps.com)
 </td>
 
-<td >[StackApps](http://twitter.com/StackApps)
+<td >[StackApps](https://twitter.com/StackApps)
 </td>
 </tr>
 
@@ -71,7 +71,7 @@ With that in mind, we've set up the following Twitter accounts to publish the mo
 <td >[Audio Recording & Production](http://audio.stackexchange.com)
 </td>
 
-<td >[StackAudio](http://twitter.com/StackAudio)
+<td >[StackAudio](https://twitter.com/StackAudio)
 </td>
 </tr>
 
@@ -80,7 +80,7 @@ With that in mind, we've set up the following Twitter accounts to publish the mo
 <td >[Bicycles](http://bicycles.stackexchange.com)
 </td>
 
-<td >[StackBicycles](http://twitter.com/StackBicycles)
+<td >[StackBicycles](https://twitter.com/StackBicycles)
 </td>
 </tr>
 
@@ -89,7 +89,7 @@ With that in mind, we've set up the following Twitter accounts to publish the mo
 <td >[Board and Card Games](http://boardgames.stackexchange.com)
 </td>
 
-<td >[StackBoardGames](http://twitter.com/StackBoardGames)
+<td >[StackBoardGames](https://twitter.com/StackBoardGames)
 </td>
 </tr>
 
@@ -98,7 +98,7 @@ With that in mind, we've set up the following Twitter accounts to publish the mo
 <td >[Cooking](http://cooking.stackexchange.com)
 </td>
 
-<td >[StackCooking](http://twitter.com/StackCooking)
+<td >[StackCooking](https://twitter.com/StackCooking)
 </td>
 </tr>
 
@@ -107,7 +107,7 @@ With that in mind, we've set up the following Twitter accounts to publish the mo
 <td >[CS Theory](http://cstheory.stackexchange.com)
 </td>
 
-<td >[StackCSTheory](http://twitter.com/StackCSTheory)
+<td >[StackCSTheory](https://twitter.com/StackCSTheory)
 </td>
 </tr>
 
@@ -116,7 +116,7 @@ With that in mind, we've set up the following Twitter accounts to publish the mo
 <td >[Home Improvement](http://diy.stackexchange.com)
 </td>
 
-<td >[StackDIY](http://twitter.com/StackDIY)
+<td >[StackDIY](https://twitter.com/StackDIY)
 </td>
 </tr>
 
@@ -125,7 +125,7 @@ With that in mind, we've set up the following Twitter accounts to publish the mo
 <td >[English Language & Usage](http://english.stackexchange.com)
 </td>
 
-<td >[StackEnglish](http://twitter.com/StackEnglish)
+<td >[StackEnglish](https://twitter.com/StackEnglish)
 </td>
 </tr>
 
@@ -135,7 +135,7 @@ With that in mind, we've set up the following Twitter accounts to publish the mo
 <td >[Database Administrators](http://dba.stackexchange.com)
 </td>
 
-<td >[StackDBAs](http://twitter.com/StackDBAs)
+<td >[StackDBAs](https://twitter.com/StackDBAs)
 </td>
 </tr>
 
@@ -144,7 +144,7 @@ With that in mind, we've set up the following Twitter accounts to publish the mo
 <td >[Personal Finance and Money](http://money.stackexchange.com)
 </td>
 
-<td >[StackFinance](http://twitter.com/StackFinance)
+<td >[StackFinance](https://twitter.com/StackFinance)
 </td>
 </tr>
 
@@ -153,7 +153,7 @@ With that in mind, we've set up the following Twitter accounts to publish the mo
 <td >[Game Development](http://gamedev.stackexchange.com)
 </td>
 
-<td >[StackGameDev](http://twitter.com/StackGameDev)
+<td >[StackGameDev](https://twitter.com/StackGameDev)
 </td>
 </tr>
 
@@ -162,7 +162,7 @@ With that in mind, we've set up the following Twitter accounts to publish the mo
 <td >[Gaming](http://gaming.stackexchange.com)
 </td>
 
-<td >[StackGaming](http://twitter.com/StackGaming)
+<td >[StackGaming](https://twitter.com/StackGaming)
 </td>
 </tr>
 
@@ -171,7 +171,7 @@ With that in mind, we've set up the following Twitter accounts to publish the mo
 <td >[GIS](http://gis.stackexchange.com)
 </td>
 
-<td >[StackGIS](http://twitter.com/StackGIS)
+<td >[StackGIS](https://twitter.com/StackGIS)
 </td>
 </tr>
 
@@ -180,7 +180,7 @@ With that in mind, we've set up the following Twitter accounts to publish the mo
 <td >[Homebrewing](http://homebrew.stackexchange.com)
 </td>
 
-<td >[StackHomebrew](http://twitter.com/StackHomebrew)
+<td >[StackHomebrew](https://twitter.com/StackHomebrew)
 </td>
 </tr>
 
@@ -189,7 +189,7 @@ With that in mind, we've set up the following Twitter accounts to publish the mo
 <td >[Mathematics](http://math.stackexchange.com)
 </td>
 
-<td >[StackMath](http://twitter.com/StackMath)
+<td >[StackMath](https://twitter.com/StackMath)
 </td>
 </tr>
 
@@ -198,7 +198,7 @@ With that in mind, we've set up the following Twitter accounts to publish the mo
 <td >[OnStartups Answers](http://answers.onstartups.com)
 </td>
 
-<td >[StackOnStartups](http://twitter.com/StackOnStartups)
+<td >[StackOnStartups](https://twitter.com/StackOnStartups)
 </td>
 </tr>
 
@@ -207,7 +207,7 @@ With that in mind, we've set up the following Twitter accounts to publish the mo
 <td >[Photography](http://photo.stackexchange.com)
 </td>
 
-<td >[StackPhotos](http://twitter.com/StackPhotos)
+<td >[StackPhotos](https://twitter.com/StackPhotos)
 </td>
 </tr>
 
@@ -216,7 +216,7 @@ With that in mind, we've set up the following Twitter accounts to publish the mo
 <td >[Physics](http://physics.stackexchange.com)
 </td>
 
-<td >[StackPhysics](http://twitter.com/StackPhysics)
+<td >[StackPhysics](https://twitter.com/StackPhysics)
 </td>
 </tr>
 
@@ -225,7 +225,7 @@ With that in mind, we've set up the following Twitter accounts to publish the mo
 <td >[Programmers](http://programmers.stackexchange.com)
 </td>
 
-<td >[StackProgrammer](http://twitter.com/StackProgrammer)
+<td >[StackProgrammer](https://twitter.com/StackProgrammer)
 </td>
 </tr>
 
@@ -234,7 +234,7 @@ With that in mind, we've set up the following Twitter accounts to publish the mo
 <td >[Electronics and Robotics](http://electronics.stackexchange.com)
 </td>
 
-<td >[StackRobots](http://twitter.com/StackRobots)
+<td >[StackRobots](https://twitter.com/StackRobots)
 </td>
 </tr>
 
@@ -243,7 +243,7 @@ With that in mind, we've set up the following Twitter accounts to publish the mo
 <td >[Role-Playing Games](http://rpg.stackexchange.com)
 </td>
 
-<td >[StackRPG](http://twitter.com/StackRPG)
+<td >[StackRPG](https://twitter.com/StackRPG)
 </td>
 </tr>
 
@@ -252,7 +252,7 @@ With that in mind, we've set up the following Twitter accounts to publish the mo
 <td >[IT Security](http://security.stackexchange.com)
 </td>
 
-<td >[StackSecurity](http://twitter.com/StackSecurity)
+<td >[StackSecurity](https://twitter.com/StackSecurity)
 </td>
 </tr>
 
@@ -261,7 +261,7 @@ With that in mind, we've set up the following Twitter accounts to publish the mo
 <td >[Statistics](http://stats.stackexchange.com)
 </td>
 
-<td >[StackStats](http://twitter.com/StackStats)
+<td >[StackStats](https://twitter.com/StackStats)
 </td>
 </tr>
 
@@ -270,7 +270,7 @@ With that in mind, we've set up the following Twitter accounts to publish the mo
 <td >[TeX](http://tex.stackexchange.com)
 </td>
 
-<td >[StackTex](http://twitter.com/StackTex)
+<td >[StackTex](https://twitter.com/StackTex)
 </td>
 </tr>
 
@@ -279,7 +279,7 @@ With that in mind, we've set up the following Twitter accounts to publish the mo
 <td >[User Interface](http://ui.stackexchange.com)
 </td>
 
-<td >[StackUI](http://twitter.com/StackUI)
+<td >[StackUI](https://twitter.com/StackUI)
 </td>
 </tr>
 
@@ -288,7 +288,7 @@ With that in mind, we've set up the following Twitter accounts to publish the mo
 <td >[Ask Ubuntu](http://askubuntu.com)
 </td>
 
-<td >[StackUbuntu](http://twitter.com/StackUbuntu)
+<td >[StackUbuntu](https://twitter.com/StackUbuntu)
 </td>
 </tr>
 
@@ -297,7 +297,7 @@ With that in mind, we've set up the following Twitter accounts to publish the mo
 <td >[Unix and Linux](http://unix.stackexchange.com)
 </td>
 
-<td >[StackUnix](http://twitter.com/StackUnix)
+<td >[StackUnix](https://twitter.com/StackUnix)
 </td>
 </tr>
 
@@ -306,7 +306,7 @@ With that in mind, we've set up the following Twitter accounts to publish the mo
 <td >[Web Applications](http://webapps.stackexchange.com)
 </td>
 
-<td >[StackWebApps](http://twitter.com/StackWebApps)
+<td >[StackWebApps](https://twitter.com/StackWebApps)
 </td>
 </tr>
 
@@ -315,7 +315,7 @@ With that in mind, we've set up the following Twitter accounts to publish the mo
 <td >[Pro Webmasters](http://webmasters.stackexchange.com)
 </td>
 
-<td >[StackWebmasters](http://twitter.com/StackWebmasters)
+<td >[StackWebmasters](https://twitter.com/StackWebmasters)
 </td>
 </tr>
 
@@ -324,7 +324,7 @@ With that in mind, we've set up the following Twitter accounts to publish the mo
 <td >[WordPress](http://wordpress.stackexchange.com)
 </td>
 
-<td >[StackWordPress](http://twitter.com/StackWordPress)
+<td >[StackWordPress](https://twitter.com/StackWordPress)
 </td>
 </tr>
 
@@ -333,7 +333,7 @@ With that in mind, we've set up the following Twitter accounts to publish the mo
 <td >[Writers](http://writers.stackexchange.com)
 </td>
 
-<td >[StackWriters](http://twitter.com/StackWriters)
+<td >[StackWriters](https://twitter.com/StackWriters)
 </td>
 </tr>
 
@@ -345,11 +345,11 @@ As of June 2011, the authoritative list of sites and Twitter accounts will alway
 
 Although it's always possible to subscribe to a site's questions  through the copious RSS feeds we provide on every page -- and [also via email](http://blog.stackoverflow.com/2011/01/tag-favorites-and-tag-subscriptions/) -- **I guess you can consider Twitter "RSS for the casual internet user"**. We'll try to feature the Twitter accounts on each site in some unobtrusive way, so people have another way to follow the stream of Q&A; from a given site topic without being overwhelmed by it.
 
-We also plan to get our master [Stack Exchange twitter account](http://twitter.com/stackexchange) hooked up and broadcasting a sampling of the best questions _network-wide_, just like the [stackexchange.com homepage](http://stackexchange.com/) already does. This is now working, so if you want the "greatest hits" questions across the entire network, follow this user:
+We also plan to get our master [Stack Exchange twitter account](https://twitter.com/stackexchange) hooked up and broadcasting a sampling of the best questions _network-wide_, just like the [stackexchange.com homepage](http://stackexchange.com/) already does. This is now working, so if you want the "greatest hits" questions across the entire network, follow this user:
 
 
 
-## [twitter.com/stackexchange](http://twitter.com/stackexchange)
+## [twitter.com/stackexchange](https://twitter.com/stackexchange)
 
 
 

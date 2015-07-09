@@ -11,7 +11,7 @@ tags:
 - diversity
 ---
 
-*[Jon](http://twitter.com/jonhmchan) is a web developer and heads up developer evangelism efforts at Stack Exchange.*
+*[Jon](https://twitter.com/jonhmchan) is a web developer and heads up developer evangelism efforts at Stack Exchange.*
 
 When I think about the impact that Stack Overflow has had on the world, it’s tempting for me to think about numbers: how many active users we have, how many questions are answered in a day, how many jobs get posted on our Careers platform. These are things that I, as a developer, think about on a daily basis to measure how we’re helping programmers around the world grow. But I find that these numbers are hard to wrap my head around: it doesn’t quite give me a feel for what our work is doing. What is the quality of our impact? What does it feel like at an individual level?
 
@@ -25,4 +25,4 @@ Another thing we’re picking up on is how everyone’s cultures intersect and w
 
 We’re just getting into our first few sessions with the developers at Andela, and we couldn’t be more excited to be working with such bright individuals in a truly transformative organization. Over the next several weeks, we’re going to continue to see how we can help the Andela developers grow and discover what we learn working across boundaries we’re not used to crossing. As the program reaches its end, we’ll give another update here. My sessions with my own mentee, [Babajide](https://ng.linkedin.com/in/babajidefowotade), are something I look forward to every week, and they give me perspective on how the work Stack Exchange and Andela is doing to educate developers around the world really impacts people at the individual level. It gives richness to the numbers that I think about every day.
 
-If you would like more information about our partnership with Andela, email me at [jon@stackoverflow.com](mailto:jon@stackoverflow.com) or reach out to me on [Twitter](http://twitter.com/jonhmchan).
+If you would like more information about our partnership with Andela, email me at [jon@stackoverflow.com](mailto:jon@stackoverflow.com) or reach out to me on [Twitter](https://twitter.com/jonhmchan).

@@ -48,7 +48,7 @@ Jeff sit down with [Damien Katz](http://damienkatz.net/) (of CouchDB) to discuss
   * I liked that Damien, when he reached analysis paralysis in the middle of his project, turned to the soothing, calming midwestern voice of Steve McConnell -- and the classic (and my favorite) book [Code Complete 2](http://www.amazon.com/exec/obidos/ASIN/0735619670/codinghorror-20).
 
 
-  * While building up two new 1U servers for superuser.com, powering on the server with the cover off would trigger the [Moro reflex](http://en.wikipedia.org/wiki/Moro_reflex) in our [3 month old baby](http://twitter.com/rockhardawesome)... two rooms over! That's how loud they are. REALLY loud. I was happy to have UPS take those out of my house.
+  * While building up two new 1U servers for superuser.com, powering on the server with the cover off would trigger the [Moro reflex](http://en.wikipedia.org/wiki/Moro_reflex) in our [3 month old baby](https://twitter.com/rockhardawesome)... two rooms over! That's how loud they are. REALLY loud. I was happy to have UPS take those out of my house.
 
 
   * I didn't appreciate how much happier I would be with community moderation -- I am unburdened from being the judge, jury, and executioner of the occasional serious misbehavior. It's a group discussion now -- [thanks to our awesome community moderators](http://blog.stackoverflow.com/2009/05/welcome-new-community-moderators/), we can reach a concensus together!

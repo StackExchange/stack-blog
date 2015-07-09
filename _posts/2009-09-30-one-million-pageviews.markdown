@@ -27,7 +27,7 @@ Per Google Analytics, we finally did **one million pageviews in a single day** o
 
 
 
-After flirting with hitting this limit all month (so many golf crowd "awww" near-miss moments), we were finally rewarded with 1,015,756 pageviews yesterday, just barely squeaking it into [the month of September](http://twitter.com/codinghorror/status/2613465918).
+After flirting with hitting this limit all month (so many golf crowd "awww" near-miss moments), we were finally rewarded with 1,015,756 pageviews yesterday, just barely squeaking it into [the month of September](https://twitter.com/codinghorror/status/2613465918).
 
 
 

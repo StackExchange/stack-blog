@@ -110,7 +110,7 @@ This isn't a silver bullet that will magically close the chasm between open sour
 
 
 
-If you'd like to get started, [check the BizSpark website](http://www.microsoft.com/BizSpark/). They also have [a Twitter account](http://twitter.com/bizspark) which highlights some of the other startups involved, and includes this essential advice:
+If you'd like to get started, [check the BizSpark website](http://www.microsoft.com/BizSpark/). They also have [a Twitter account](https://twitter.com/bizspark) which highlights some of the other startups involved, and includes this essential advice:
 
 
 

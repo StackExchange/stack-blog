@@ -27,7 +27,7 @@ That user is [splattne](http://serverfault.com/users/45/splattne).
 
 
 
-I had already noticed Stefan from his high quality contributions to [Stack Overflow](http://stackoverflow.com/users/6461/splattne) and [Twitter](http://twitter.com/splattne), where he seems like a genuinely nice guy and a true geek like us. So when he passed the magical 10k mark, I felt comfortable emailing him to ask if he'd be interested in becoming a Server Fault community moderator. Luckily for us, he was!
+I had already noticed Stefan from his high quality contributions to [Stack Overflow](http://stackoverflow.com/users/6461/splattne) and [Twitter](https://twitter.com/splattne), where he seems like a genuinely nice guy and a true geek like us. So when he passed the magical 10k mark, I felt comfortable emailing him to ask if he'd be interested in becoming a Server Fault community moderator. Luckily for us, he was!
 
 
 

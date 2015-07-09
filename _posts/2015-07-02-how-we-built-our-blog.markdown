@@ -477,4 +477,4 @@ This was a much larger project than I had originally anticipated, but I'm very h
 
 In the end, I'm glad that there's finally a single destination for our engineering team to reach out to the technical community we love being a part of. You'll see much more content like this from our engineering team moving forward, and we'd love to hear your feedback. Until next time!
 
-*Jon is a developer and heads up evangelism efforts at Stack Exchange. You can follow him on [Twitter](http://twitter.com/jonhmchan).*
+*Jon is a developer and heads up evangelism efforts at Stack Exchange. You can follow him on [Twitter](https://twitter.com/jonhmchan).*

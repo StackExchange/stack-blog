@@ -51,7 +51,7 @@ Welcome to episode 49 of the Stack Exchange Podcast! We are welcoming special gu
   * Matt photographs weddings and tells us about some of the coolest ones he's seen. (Costume weddings are classy and fancy, not, like, Darth Vader-themed.) As a wedding photographer, you've got to dress to fit in, and interact and have fun with the guests in order to get great casual shots. Also, don't use a spy satellite.
 
 	
-  * We have a user question!  [@moneywithwings](http://twitter.com/moneywithwings) wants to know if Stack Overflow has a rule against editing somebody else's code. Matt says we encourage collaboration and want to make sure we have the best information available; Jay wants to hire him on the spot. (By the way, [we're hiring](http://stackexchange.com/about/hiring)! and also, you can ask your own user questions at [s.tk/podcastquestions](http://s.tk/podcastquestions).)
+  * We have a user question!  [@moneywithwings](https://twitter.com/moneywithwings) wants to know if Stack Overflow has a rule against editing somebody else's code. Matt says we encourage collaboration and want to make sure we have the best information available; Jay wants to hire him on the spot. (By the way, [we're hiring](http://stackexchange.com/about/hiring)! and also, you can ask your own user questions at [s.tk/podcastquestions](http://s.tk/podcastquestions).)
 
 
 Thanks for listening to the Stack Exchange podcast, and thanks to our guest Matt Grum and his band [Juno](http://wearejuno.com/) for the outro music!

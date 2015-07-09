@@ -45,7 +45,7 @@ Joel (but no Jeff) is joined this week by [Paul Biggar](http://paulbiggar.com/re
   * Paul didn't actually make the slides for his talk. But the message he wants to get out there is that working on compilers is actually very easy, and not something only wizards can do.
 
 	
-  * Paul can be found on Twitter @[PaulBiggar](http://twitter.com/paulbiggar), and at [PaulBiggar.com](http://paulbiggar.com/).
+  * Paul can be found on Twitter @[PaulBiggar](https://twitter.com/paulbiggar), and at [PaulBiggar.com](http://paulbiggar.com/).
 
 
 Join us next week when our guest is James Portnow from [Extra Credits](http://www.penny-arcade.com/patv/show/extra-credits) - same place, same time.
