@@ -14,7 +14,7 @@ tags:
 ---
 
 
-We want Stack Overflow* users to be able to personalize their questions and answers with a small picture -- even if they've never created an account on our site. Rather than build this functionality ourselves, we've decided to take advantage of [Gravatars](http://www.gravatar.com/). Gravatars are small images associated with your email address. 
+We want Stack Overflow* users to be able to personalize their questions and answers with a small picture -- even if they've never created an account on our site. Rather than build this functionality ourselves, we've decided to take advantage of [Gravatars](https://www.gravatar.com/). Gravatars are small images associated with your email address. 
 
 
 
@@ -76,7 +76,7 @@ If you're interested in [implementing Gravatars](http://en.gravatar.com/site/imp
     
     const int size = 64;
     const string maxrating = "PG";
-    const string gurl = "http://www.gravatar.com/avatar/";
+    const string gurl = "https://www.gravatar.com/avatar/";
     
     var e = new UTF8Encoding();
     var md5 = new MD5CryptoServiceProvider();
