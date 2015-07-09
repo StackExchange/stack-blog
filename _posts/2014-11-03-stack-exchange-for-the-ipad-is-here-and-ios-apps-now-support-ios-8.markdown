@@ -4,7 +4,7 @@ comments: true
 date: 2014-11-03 19:57:22+00:00
 layout: post
 redirect_from: /2014/11/stack-exchange-for-the-ipad-is-here-and-ios-apps-now-support-ios-8
-hero: http://i.stack.imgur.com/f2CTq.jpg
+hero: https://i.stack.imgur.com/f2CTq.jpg
 slug: stack-exchange-for-the-ipad-is-here-and-ios-apps-now-support-ios-8
 title: Stack Exchange for the iPad is here - and iOS apps now support iOS 8
 wordpress_id: 14850
@@ -15,7 +15,7 @@ tags:
 - community
 ---
 
-[![](http://i.stack.imgur.com/z831f.png)](https://itunes.apple.com/us/app/stack-exchange/id871299723?mt=8)
+[![](https://i.stack.imgur.com/z831f.png)](https://itunes.apple.com/us/app/stack-exchange/id871299723?mt=8)
 
 When we launched our [iOS](http://blog.stackoverflow.com/2014/05/stack-exchange-for-iphone-is-here/) and [Android](http://blog.stackoverflow.com/2014/01/stack-exchange-for-android-is-here/) apps, we were pretty sure they’d help our most active users in a couple of ways:
 
@@ -51,7 +51,7 @@ Those on-screen buttons may not have the same satisfying click your [Cherry MXs]
 
 
 
-![](http://i.stack.imgur.com/MoQTO.png)  
+![](https://i.stack.imgur.com/MoQTO.png)  
 _(Phil Schiller with actual-size prototypes.)_
 
 ### Bigger is Better
@@ -75,7 +75,7 @@ Thanks to the bigger screen real estate, we were able to let the feed display wa
 
   
 There’s also a dedicated, swipe-browsable hot questions section at the top. Did you ever wish you could swipe new things onto your screen, without the sense of guilt that comes from [swiping a human out of your life based entirely on their looks](http://en.wikipedia.org/wiki/Tinder_(application))? Have you ever wanted to know [if a society could evolve without wood](http://worldbuilding.stackexchange.com/questions/1406/could-a-technological-society-develop-without-wood), or [if submarines technically “float”](http://english.stackexchange.com/questions/204723/do-submarines-float)? Your day has come.
-![](http://i.stack.imgur.com/6bI6J.gif)
+![](https://i.stack.imgur.com/6bI6J.gif)
   
 
 
@@ -85,7 +85,7 @@ There’s also a dedicated, swipe-browsable hot questions section at the top. Di
 
 We can’t overstate how happy we’ve been to see people writing actual, great posts on the go. This new update makes that even easier, with touch-optimized Markdown tools in the composer, and a live preview that’s right next to the compose window, so you can see your beautiful formatting as you type (without scrolling!)
 
-![](http://i.stack.imgur.com/eJOAI.png)
+![](https://i.stack.imgur.com/eJOAI.png)
 
 This is just the start. Given how much you’re posting using the applications, we’re going to be focusing a lot on making the entire process nicer.
 
@@ -93,7 +93,7 @@ When we started out, we thought the iPad standard browser experience was pretty 
 
 So, if you’ve got an iPad, get to the [store and download it now](https://itunes.apple.com/us/app/stack-exchange/id871299723?mt=8). (No worries, it’s still free. For now...)  If you’re an iPhone user, the new update also includes lots of quality of life changes for you too (including full iOS 8 support), so upgrade or install it today! 
 
-[![](http://i.stack.imgur.com/gbyay.png)](https://itunes.apple.com/us/app/stack-exchange/id871299723)
+[![](https://i.stack.imgur.com/gbyay.png)](https://itunes.apple.com/us/app/stack-exchange/id871299723)
 
 
 

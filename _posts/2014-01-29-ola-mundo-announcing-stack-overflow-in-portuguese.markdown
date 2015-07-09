@@ -4,7 +4,7 @@ comments: true
 date: 2014-01-29 11:01:23+00:00
 layout: post
 redirect_from: /2014/01/ola-mundo-announcing-stack-overflow-in-portuguese
-hero: http://i.stack.imgur.com/kvrcx.jpg
+hero: https://i.stack.imgur.com/kvrcx.jpg
 slug: ola-mundo-announcing-stack-overflow-in-portuguese
 title: Olá, Mundo!  Announcing Stack Overflow in Portuguese.
 wordpress_id: 14428

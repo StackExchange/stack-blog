@@ -75,7 +75,7 @@ tags:
   * One of our developers (Kevin Montrose) wrote a great blog post on how [your email is your identity](http://kevinmontrose.com/2011/07/31/your-email-is-practically-your-identity/)
 
 	
-  * Fair warning: Miguel lies a lot [on his twitter feed](http://twitter.com/#%21/migueldeicaza)
+  * Fair warning: Miguel lies a lot [on his twitter feed](https://twitter.com/#%21/migueldeicaza)
 
 	
   * Make sure you get your tickets for [Stack Overflow DevDays](http://devdays.stackoverflow.com) (we just [announced the first round of speakers](http://blog.stackoverflow.com/2011/07/documenting-devdays-2011-2-%E2%80%93-speakers/) for all the cities!) and use discount code "podcast" to save $100!

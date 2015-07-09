@@ -39,7 +39,7 @@ The Geek is truly one of us. He's a programmer who had a Stack Overflow account 
 
 
 
-... _and_ he can [solve a Rubik's cube in 3 minutes](http://twitter.com/howtogeek/status/2926027208).
+... _and_ he can [solve a Rubik's cube in 3 minutes](https://twitter.com/howtogeek/status/2926027208).
 
 
 

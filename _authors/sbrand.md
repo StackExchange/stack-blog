@@ -4,6 +4,6 @@ name: Sam Brand
 id: sbrand
 twitter: samthebrand
 job: Community Developer
-avatar: http://i.stack.imgur.com/2XMxm.jpg
+avatar: https://i.stack.imgur.com/2XMxm.jpg
 website: http://samthebrand.com/
 ---

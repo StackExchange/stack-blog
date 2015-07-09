@@ -70,7 +70,7 @@ This week, Jeff and Joel are joined by [Patrick McKenzie](http://www.kalzumeus.c
   * Of course [Stack Overflow DevDays](http://devdays.stackoverflow.com) 2011 is still coming along, so make sure to pick up your tickets now!  We'll be coming to 4 cities around the world this fall with some of the foremost experts on software development, so don't miss it!  Use the code "podcast" for a $100 discount too!
 
 
-We'll see you next week when our guest is [Stack Exchange designer](http://blog.stackoverflow.com/2010/07/our-designer-in-residence-jin-yang/) [Jin Yang](http://twitter.com/#!/jzy)!
+We'll see you next week when our guest is [Stack Exchange designer](http://blog.stackoverflow.com/2010/07/our-designer-in-residence-jin-yang/) [Jin Yang](https://twitter.com/#!/jzy)!
 
 [Stack Exchange Podcast - Episode #12 w/ Patrick McKenzie](http://soundcloud.com/stack-exchange/stack-exchange-podcast-12) by [Stack Exchange](http://soundcloud.com/stack-exchange)
 

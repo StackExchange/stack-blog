@@ -2,7 +2,7 @@
 author: jonhmchan
 date: 2015-05-27 00:00:00+00:00
 layout: post
-hero: http://i.stack.imgur.com/wHVgr.png
+hero: https://i.stack.imgur.com/wHVgr.png
 title: Stack Overflow and Andela partner to provide education beyond borders
 slug: stack-overflow-and-andela-partner-to-provide-education-beyond-borders
 tags:
@@ -11,7 +11,7 @@ tags:
 - diversity
 ---
 
-*[Jon](http://twitter.com/jonhmchan) is a web developer and heads up developer evangelism efforts at Stack Exchange.*
+*[Jon](https://twitter.com/jonhmchan) is a web developer and heads up developer evangelism efforts at Stack Exchange.*
 
 When I think about the impact that Stack Overflow has had on the world, it’s tempting for me to think about numbers: how many active users we have, how many questions are answered in a day, how many jobs get posted on our Careers platform. These are things that I, as a developer, think about on a daily basis to measure how we’re helping programmers around the world grow. But I find that these numbers are hard to wrap my head around: it doesn’t quite give me a feel for what our work is doing. What is the quality of our impact? What does it feel like at an individual level?
 
@@ -21,8 +21,8 @@ Our initial sessions with the Andela developers have been incredible, and we’v
 
 Another thing we’re picking up on is how everyone’s cultures intersect and what challenges we face working across so many boundaries. In just our group of twelve developers (both mentors and mentees), there are four different countries represented across different ages, genders, and races. Given our own focus on remote work, some of this comes pretty naturally to us. For example, coordinating meetings across time zones is something we’re used to, but there are some challenges unique to our partnership with Andela. For example, some of us had connectivity issues with Google Hangouts, and many of us have switched over to Skype for its reliability on Andela’s end. We quickly realized some of the things many of us as developers take for granted are larger factors in our partnership. But even with these challenges, we’re finding that individuals across the world are thinking about the same issues in the technology industry. [Roberta](http://careers.stackoverflow.com/rarcoverde), one of our developers based in Rio de Janeiro, Brazil brought up the following about her first few sessions with [Mirabel](https://ng.linkedin.com/pub/mirabel-ekwenugo/b6/981/313) in Lagos, Nigeria: “She also had questions and concerns regarding diversity and I think I convinced her that things are getting better and that being a programmer is super awesome. <3” We’re learning that many of the questions we think about at Stack are the same questions individuals in vastly different parts of the world are thinking about.
 
-![](http://i.stack.imgur.com/axB4g.jpg)
+![](https://i.stack.imgur.com/axB4g.jpg)
 
 We’re just getting into our first few sessions with the developers at Andela, and we couldn’t be more excited to be working with such bright individuals in a truly transformative organization. Over the next several weeks, we’re going to continue to see how we can help the Andela developers grow and discover what we learn working across boundaries we’re not used to crossing. As the program reaches its end, we’ll give another update here. My sessions with my own mentee, [Babajide](https://ng.linkedin.com/in/babajidefowotade), are something I look forward to every week, and they give me perspective on how the work Stack Exchange and Andela is doing to educate developers around the world really impacts people at the individual level. It gives richness to the numbers that I think about every day.
 
-If you would like more information about our partnership with Andela, email me at [jon@stackoverflow.com](mailto:jon@stackoverflow.com) or reach out to me on [Twitter](http://twitter.com/jonhmchan).
+If you would like more information about our partnership with Andela, email me at [jon@stackoverflow.com](mailto:jon@stackoverflow.com) or reach out to me on [Twitter](https://twitter.com/jonhmchan).

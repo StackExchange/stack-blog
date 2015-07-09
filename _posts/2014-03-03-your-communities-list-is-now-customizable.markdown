@@ -29,7 +29,7 @@ That’s why, [as promised](http://meta.stackoverflow.com/questions/215928/custo
 
 
 
-![Edit link](http://i.stack.imgur.com/Jbt2w.png)
+![Edit link](https://i.stack.imgur.com/Jbt2w.png)
 
 
 
@@ -42,7 +42,7 @@ That’s why, [as promised](http://meta.stackoverflow.com/questions/215928/custo
 Customizing this list is completely optional. If you do nothing, you will keep the defaults: your top five communities by reputation.
 
 
-![Edit mode](http://i.stack.imgur.com/69r4y.png)
+![Edit mode](https://i.stack.imgur.com/69r4y.png)
 
 
 But click the edit button and the default rules no longer apply. Instead, you can:

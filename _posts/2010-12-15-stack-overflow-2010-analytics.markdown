@@ -4,7 +4,7 @@ comments: true
 date: 2010-12-15 16:14:38+00:00
 layout: post
 redirect_from: /2010/12/stack-overflow-2010-analytics
-hero: http://i.stack.imgur.com/pZi7a.jpg
+hero: https://i.stack.imgur.com/pZi7a.jpg
 slug: stack-overflow-2010-analytics
 title: Stack Overflow 2010 Analytics
 wordpress_id: 6359

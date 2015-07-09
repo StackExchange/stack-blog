@@ -46,7 +46,7 @@ This is the fifth episode of the StackOverflow podcast, wherein Joel and I discu
 
   * Jamie Zawinski on social networking websites: they should [get you laid](http://www.jwz.org/doc/groupware.html).
 
-  * I try to get Joel to use [Twitter](http://twitter.com/) again, and he references [the Penny Arcade cartoon](http://www.penny-arcade.com/comic/2008/4/23/). I still think it's useful. [Follow me on Twitter!](http://twitter.com/codinghorror/)
+  * I try to get Joel to use [Twitter](https://twitter.com/) again, and he references [the Penny Arcade cartoon](http://www.penny-arcade.com/comic/2008/4/23/). I still think it's useful. [Follow me on Twitter!](https://twitter.com/codinghorror/)
 
   * A (very) long -- but worthwhile -- discussion about [my recent post on XML](http://www.codinghorror.com/blog/archives/001114.html).
 

@@ -26,7 +26,7 @@ It was, in retrospect, overdue for a face-lift which is why we’re excited to r
 
 
 
-[![](http://i.stack.imgur.com/8tGcN.png)](http://i.stack.imgur.com/ZXNdN.png)
+[![](https://i.stack.imgur.com/8tGcN.png)](https://i.stack.imgur.com/ZXNdN.png)
 
 
 
@@ -44,7 +44,7 @@ The first thing you’ll notice is that **it’s really black***. When we origin
 
 
 
-[![](http://i.stack.imgur.com/XjSC7.png)](http://i.stack.imgur.com/XjSC7.png)
+[![](https://i.stack.imgur.com/XjSC7.png)](https://i.stack.imgur.com/XjSC7.png)
 
 
 
@@ -72,7 +72,7 @@ The biggest addition to the top bar is the brand new Achievements popup. Previou
 
 
 
-[![](http://i.stack.imgur.com/6t7Oe.png)](http://i.stack.imgur.com/6t7Oe.png)
+[![](https://i.stack.imgur.com/6t7Oe.png)](https://i.stack.imgur.com/6t7Oe.png)
 
 
 
@@ -124,7 +124,7 @@ The old list of sites has gotten a new layout and is now its own distinct popup.
 
 
 
-[![](http://i.stack.imgur.com/gVhww.png)](http://i.stack.imgur.com/gVhww.png)
+[![](https://i.stack.imgur.com/gVhww.png)](https://i.stack.imgur.com/gVhww.png)
 
 
 
@@ -175,7 +175,7 @@ The [Global Inbox](http://blog.stackoverflow.com/2010/09/new-global-inbox/) has 
 
 
 
-[![](http://i.stack.imgur.com/OXLSb.png)](http://i.stack.imgur.com/OXLSb.png)
+[![](https://i.stack.imgur.com/OXLSb.png)](https://i.stack.imgur.com/OXLSb.png)
 
 
 

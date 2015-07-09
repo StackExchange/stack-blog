@@ -4,7 +4,7 @@ comments: true
 date: 2014-01-27 17:36:23+00:00
 layout: post
 redirect_from: /2014/01/stack-exchange-for-android-is-here
-hero: http://i.stack.imgur.com/z5Aa2.jpg
+hero: https://i.stack.imgur.com/z5Aa2.jpg
 slug: stack-exchange-for-android-is-here
 title: Stack Exchange for Android is here!
 wordpress_id: 14395
@@ -19,7 +19,7 @@ This mobile thing will never last, right? We figured if we waited long enough, t
 
 
 
-![](http://i.stack.imgur.com/XUufS.png)
+![](https://i.stack.imgur.com/XUufS.png)
 
 
 
@@ -29,7 +29,7 @@ In retrospect, we may have misread that one a bit. It turns out that even for St
 
 
 
-[![](http://i.stack.imgur.com/VK557.png)](https://www.quantcast.com/p-c1rF4kxgLUzNc)
+[![](https://i.stack.imgur.com/VK557.png)](https://www.quantcast.com/p-c1rF4kxgLUzNc)
 
 
 So today we're excited to announce that [Stack Exchange for Android](https://play.google.com/store/apps/details?id=com.stackexchange.marvin&referrer=utm_source%3Dblog) is finally available for download on the Google Play store, for Android phones version 4.0 (ICS) and up:
@@ -63,7 +63,7 @@ That meant we had to create an entirely new experience, one that didn't exist on
 
 
 
-![](http://i.stack.imgur.com/f8008.png)
+![](https://i.stack.imgur.com/f8008.png)
 
 
 
@@ -109,7 +109,7 @@ We’ve had [instant notifications of replies](http://blog.stackoverflow.com/201
 
 
 
-![](http://i.stack.imgur.com/j2i7T.png)
+![](https://i.stack.imgur.com/j2i7T.png)
 
 
 
@@ -130,7 +130,7 @@ And, of course, all the major things you can do on Stack Exchange are fully supp
 
 
 
-![](http://i.stack.imgur.com/MsMeH.png)
+![](https://i.stack.imgur.com/MsMeH.png)
 
 
 

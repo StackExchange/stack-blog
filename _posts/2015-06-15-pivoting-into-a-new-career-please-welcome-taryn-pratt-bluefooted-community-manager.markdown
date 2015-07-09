@@ -14,7 +14,7 @@ Long-suffering readers may have noticed that, as we’ve expanded <a href="http:
 
 Thus, I’m happy to announce that veteran Stack Overflow moderator <a href="http://stackoverflow.com/users/426671/bluefeet" target="_blank">bluefeet</a> has decided to join the CM team!
 
-<img src="http://i.stack.imgur.com/Nxc2f.jpg" alt="taryn pratt">
+<img src="https://i.stack.imgur.com/Nxc2f.jpg" alt="taryn pratt">
 
 Bluefeet – also known as Taryn Pratt – joins us from that sweltering hot desert of Phoenix, Arizona. She has been an active community member on Stack Overflow since 2010 and an elected moderator since 2014. Discovering Stack Overflow helped Taryn realize how much she enjoys assisting others, quickly discovering that helping other users was actually more fun than writing SQL! This discovery eventually led her to the CM team.
 

@@ -3,7 +3,7 @@ layout: author
 id: qiaochu
 name: Quiaochu
 job: Math Intern (Former)
-avatar: http://i.stack.imgur.com/CexfJ.png
+avatar: https://i.stack.imgur.com/CexfJ.png
 twitter: 
 website: https://math.berkeley.edu/~qchu/
 inactive: true
