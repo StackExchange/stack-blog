@@ -4,7 +4,7 @@ comments: true
 date: 2015-04-07 20:00:01+00:00
 layout: post
 redirect_from: 2015/04/stack-overflow-developer-survey-2015-the-results/
-hero: https://i.stack.imgur.com/bK74i.jpg
+hero: http://i.stack.imgur.com/pd5Yp.png
 slug: stack-overflow-developer-survey-2015-the-results
 title: "Stack Overflow Developer Survey 2015: The Results"
 tags:
@@ -31,7 +31,7 @@ A few findings:
 
 This is just a start. Check out [the full results](http://stackoverflow.com/research/developer-survey-2015 "Stack Overflow Developer Survey 2015").
 
-[![devsurvey-01](http://blog.stackoverflow.com/wp-content/uploads/devsurvey-01.png)](http://stackoverflow.com/research/developer-survey-2015)
+[![devsurvey-01](http://i.stack.imgur.com/Xq9zX.png)](http://stackoverflow.com/research/developer-survey-2015)
 
 **Massive thanks to everyone who shared information about themselves.** There's a huge benefit in being able to see who your peers are and what they're interested in, and we hope this survey is as interesting to all of you as it is to us.
 
