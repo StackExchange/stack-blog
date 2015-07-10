@@ -61,7 +61,7 @@ website: http://www.jonhmchan.com/
 
 If you are a developer, you can do this simply by submitting a PR or adding this file to the `_authors` directory. If you are not a developer, you can use [this link on GitHub](https://github.com/StackExchange/blog/new/master/_authors) to create this file, then submit your changes by adding a commit message like `Added [your name] to authors` and hitting the `Commit new file` button:
 
-![Adding yourself as an author](http://stackexchange.github.io/images/adding_authors.png)
+![Adding yourself as an author](images/adding_authors.png)
 
 Once you do commit this file, you may be asked to create a pull request. Click `Create Pull Request` to do so:
 
