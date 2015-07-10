@@ -129,7 +129,7 @@ So in summary, if you are a community moderator on a Stack Exchange site, here's
   6. In the case of serious disputes, **communicate directly with users via email** to help mediate and resolve those disputes.
 
 
-While being a community moderarator is a volunteer (but often _elected_) position, and participation is strictly voluntary at all times, we do require three important things of all elected community moderators.
+While being a community moderator is a volunteer (but often _elected_) position, and participation is strictly voluntary at all times, we do require three important things of all elected community moderators.
 
 
 

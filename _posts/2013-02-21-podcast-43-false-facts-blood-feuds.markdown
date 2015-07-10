@@ -39,7 +39,7 @@ Welcome to Stack Exchange Podcast #43 with Joel Spolsky, Jay Hanlon, David Fulle
   * Moving on: Kickstarter and friends. The connected web is changing the way people make things and sell them to other people who want to experience them. (Alexis Ohanian's project [Breadpig](http://breadpig.com/) is one of the companies leading the charge in this area.)
 
 	
-  * Back to Reddit. Alexis walks us through the way Reddit works as a communication platform, and how the team handles "unwanted", but legal, speech (spoiler alert: they try to avoid censorship). Sometimes you find yourself in the tough position of having to defend reperehensible, but legal, ideas. Sometimes, though, [someone can learn something](http://jezebel.com/5946643/reddit-users-attempt-to-shame-sikh-woman-get-righteously-schooled).
+  * Back to Reddit. Alexis walks us through the way Reddit works as a communication platform, and how the team handles "unwanted", but legal, speech (spoiler alert: they try to avoid censorship). Sometimes you find yourself in the tough position of having to defend reprehensible, but legal, ideas. Sometimes, though, [someone can learn something](http://jezebel.com/5946643/reddit-users-attempt-to-shame-sikh-woman-get-righteously-schooled).
 
 	
   * Oh, and finally: Alexis was supposed to eat a spoonful of cinnamon on the podcast today. New rule for podcast guests! Alexis says it's impossible, but he's discovered that he does indeed have some cinnamon accessible to him…

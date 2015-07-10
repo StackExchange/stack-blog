@@ -47,7 +47,7 @@ As you can see, our fellow users have already contributed a nice little wiki for
 
 
  
-As for synonyms, the javascript tag has two so far. This means that **any queston tagged [js] or [java-script] will be automatically and silently remapped to [javascript] behind the scenes.** This is the key quality of life improvement, because it means that new users can no longer accidentally pollute the tag pool by adding or contributing to yet another oddball variant of an existing tag. Again. And Again. And Again...
+As for synonyms, the javascript tag has two so far. This means that **any question tagged [js] or [java-script] will be automatically and silently remapped to [javascript] behind the scenes.** This is the key quality of life improvement, because it means that new users can no longer accidentally pollute the tag pool by adding or contributing to yet another oddball variant of an existing tag. Again. And Again. And Again...
 
 With the help of Stack Overflow moderator [Bill the Lizard](http://stackoverflow.com/users/1288/bill-the-lizard), we've imported most of the [common community generated synonyms](http://meta.stackoverflow.com/questions/50088/official-repository-of-tag-synonyms) into the Stack Overflow synonym list already. For new synonyms, we will require that **any proposed tag synonym must already exist as a tag on at least one question in the system**, otherwise we'll go crazy trying to predict every possible synonym of every possible tag. Instead, observe what real live users actually create, then base your synonyms on _that_.
 

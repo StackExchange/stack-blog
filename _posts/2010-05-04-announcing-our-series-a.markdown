@@ -89,7 +89,7 @@ And the best answer we could come up with was, let's make the damn thing free, a
 
 The first VC we asked thought this was a pretty good idea. So did the second, and the third, and in fact I spent two weeks driving around Sand Hill Road and pretty much _all_ of them thought that this was just a BOFFO idea.
 
-One of them, Brad Burnham, suggested that we don't hard code our revenue model too early. If the platform creates value for a lot of people, he told us, we'll have plenty of opportunites to make money that actually make the site better.
+One of them, Brad Burnham, suggested that we don't hard code our revenue model too early. If the platform creates value for a lot of people, he told us, we'll have plenty of opportunities to make money that actually make the site better.
 
 That reminded us of [Stack Overflow Careers](http://careers.stackoverflow.com/), where great programmers can leverage all the good work they do on Stack Overflow to get great jobs. It gives us an opportunity to make money and it actually makes the site better.
 

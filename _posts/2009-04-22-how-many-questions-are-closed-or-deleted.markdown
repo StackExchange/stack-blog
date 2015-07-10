@@ -21,7 +21,7 @@ Based on the discussion about [The Stack Overflow Question Lifecycle](http://blo
 
 
 >
-[Programming Related](http://blog.stackoverflow.com/2008/10/a-question-about-questions/) Queston -> Answers!
+[Programming Related](http://blog.stackoverflow.com/2008/10/a-question-about-questions/) Question -> Answers!
 
 > 
 > 

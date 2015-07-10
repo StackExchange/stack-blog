@@ -38,7 +38,7 @@ If you have time, you should [read Nick's article](http://www.roughtype.com/arch
 
 
 
-Since Stack Overflow has **elements of wiki in its hybrid design, we also have to deal with the inclusionist/deletionist debate** -- although much less so than wikipedia.
+Since Stack Overflow has **elements of wiki in its hybrid design, we also have to deal with the inclusionist/deletionist debate** -- although much less so than Wikipedia.
 
 
 

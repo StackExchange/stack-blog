@@ -24,7 +24,7 @@ This week, Jeff and Joel are joined by [Scott Hanselman](http://www.hanselman.co
   * Joel recently wrote an unintentionally controversial [blog post about lunch](http://www.joelonsoftware.com/items/2011/04/28.html) and how important it is here at Stack Exchange and Fog Creek. [Despite the claims](http://news.ycombinator.com/item?id=2494398) that Joel is torturing introverts by _forcing_ them to eat lunch together, the truth is that almost everyone at both companies is introverted and yet enjoy lunch together.
 
 	
-  * Scott wonders how so many people have so much time to sit around on Hacker News and Reddit (and everywhere else) discussing thse blog posts when they have work to do. Of course we have to reference Clay Shirky's classic [Gin, Television, and Social Surplus](http://replay.web.archive.org/20080512021738/http://www.herecomeseverybody.org/2008/04/looking-for-the-mouse.html) here.
+  * Scott wonders how so many people have so much time to sit around on Hacker News and Reddit (and everywhere else) discussing these blog posts when they have work to do. Of course we have to reference Clay Shirky's classic [Gin, Television, and Social Surplus](http://replay.web.archive.org/20080512021738/http://www.herecomeseverybody.org/2008/04/looking-for-the-mouse.html) here.
 
 	
   * Scott is busy putting together a new [Synology DiskStation DS1511+](http://www.amazon.com/dp/B004GKLT4G/?tag=stackoverfl08-20) to replace his Windows Home Server setup - unfortunately, there's a lot of options (and a lot of bad ones out there). Scott is a wired enthusiast, but he does like his optimized wireless N setup, which is based on a [Netgear N600](http://www.amazon.com/dp/B0041LYY6K/?tag=stackoverfl08-20).

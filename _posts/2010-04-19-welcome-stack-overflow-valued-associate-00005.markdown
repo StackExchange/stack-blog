@@ -34,5 +34,5 @@ Robert, in other words, is _one of us_. Part city planner, part sociologist, par
 
 
 
-We want to **build our team by hiring from the community**, and Robert is a great example of exactly the kind of community we're trying to build -- a tribe of smart, rational, knowledgable people who all love this stuff as much as we do.
+We want to **build our team by hiring from the community**, and Robert is a great example of exactly the kind of community we're trying to build -- a tribe of smart, rational, knowledgeable people who all love this stuff as much as we do.
 

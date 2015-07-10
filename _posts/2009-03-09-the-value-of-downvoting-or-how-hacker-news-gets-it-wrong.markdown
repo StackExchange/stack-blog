@@ -13,7 +13,7 @@ tags:
 - community
 ---
 
-Paul Graham's [Hacker News](http://news.ycombinator.com/) is a great website to find interesting programming links and sane discussion. The site reflects a sort of post-[Reddit](http://reddit.com/) sensibility; the design of HN was directly intended to address the shortcomings of [programming.reddit.com](http://www.reddit.com/r/programming/) from someone very much on the inside (reddit was a Paul Graham [Y Combinator](http://ycombinator.com/) startup). As such we studied it closely when building Stack Overflow.
+Paul Graham's [Hacker News](http://news.ycombinator.com/) is a great website to find interesting programming links and sane discussion. The site reflects a sort of post-[Reddit](http://reddit.com/) sensibility; the design of HN was directly intended to address the shortcomings of [programming.reddit.com](http://www.reddit.com/r/programming/) from someone very much on the inside (Reddit was a Paul Graham [Y Combinator](http://ycombinator.com/) startup). As such we studied it closely when building Stack Overflow.
 
 It is true that **discussion on Hacker News is more serious and less incendiary than the wild-west anything goes of programming.reddit.com**. I've seen this firsthand, on blog articles I've written that have been posted to both sites. In [What I've Learned from Hacker News](http://www.paulgraham.com/hackernews.html), Paul explains:
 
@@ -39,7 +39,7 @@ Perhaps the most notable difference between Hacker News and Reddit is that **it'
 
 (I apologize for my misunderstanding, but there's no visible UI for downvoting, and I can't recall ever seeing a single negative voted comment in all the times I've visited Hacker News! Also, I put these comments in parens to make them extra-LISPy so Paul Graham would see my corrections.)
 
-Let me get some important caveats out of the way: we have to be careful in drawing comparisons between Hacker News and Stack Overflow, because they are fundamentally different sites. We're a Q&A site with some accidental discussion, and Hacker News is a site that exists for the express _purpose_ of discussion and link sharing. So to the extent that we have different missions and different goals, appoaches that work for our site might not work for HN, and vice-versa.
+Let me get some important caveats out of the way: we have to be careful in drawing comparisons between Hacker News and Stack Overflow, because they are fundamentally different sites. We're a Q&A site with some accidental discussion, and Hacker News is a site that exists for the express _purpose_ of discussion and link sharing. So to the extent that we have different missions and different goals, approaches that work for our site might not work for HN, and vice-versa.
 
 On Hacker News, every post effectively starts at zero (technically, one implied upvote, which is your own, but we'll call that zero), and can be upvoted indefinitely.
 

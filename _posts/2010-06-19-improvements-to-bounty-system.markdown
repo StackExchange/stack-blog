@@ -39,7 +39,7 @@ Just take a look at some of these highly voted meta requests in the [bounty] tag
 
 
 
-The [feedback on the bounty system](http://meta.stackoverflow.com/questions/tagged?tagnames=bounty&sort=votes) is quite extensive; this is an indication that there are what I'll euphemestically call er ... "issues" ... with the current system. 
+The [feedback on the bounty system](http://meta.stackoverflow.com/questions/tagged?tagnames=bounty&sort=votes) is quite extensive; this is an indication that there are what I'll euphemistically call er ... "issues" ... with the current system. 
 
 
 

@@ -57,7 +57,7 @@ That's why I am proud to announce our official affiliation. Starting today:
 
   * Lowell will be an [active moderator](http://superuser.com/users/4102/the-how-to-geek) and participant on [Super User](http://superuser.com), helping drive the direction and content of the site.
 
-  * Our "hero roster" at the bottom of every page will offically list howtogeek.com as a member of the team.
+  * Our "hero roster" at the bottom of every page will officially list howtogeek.com as a member of the team.
 
   * [How-To Geek](http://www.howtogeek.com/) will act as the 'editorial content' yin to [Super User](http://superuser.com) 'user-generated content' yang, in order to complement and support each other.
 
