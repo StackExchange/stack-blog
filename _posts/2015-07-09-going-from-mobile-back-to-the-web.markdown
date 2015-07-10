@@ -64,7 +64,7 @@ Whatever doubts I had about moving teams were set aside, and I seized the opport
 like our ad server team or the data science team that works on the [providence project](http://kevinmontrose.com/2015/01/27/providence-machine-learning-at-stack-exchange/). We've even had a few brave souls who have become engineering managers. However, that simple suggestion by our VP
 was the catalyst (or kick) that I needed to get out of my comfort zone.
 
-I decided to join the Careers team. I liked the potential to build new feature quickly, coupled with a smaller audience size (which gave me a little more room for error and learning).
+I decided to join the Careers team. I liked the potential to build new features quickly, coupled with a smaller audience size (which gave me a little more room for error and learning).
 
 Getting Up To Speed
 ---------------------
