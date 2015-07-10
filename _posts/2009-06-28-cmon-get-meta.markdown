@@ -81,7 +81,7 @@ The desire for meta-discussion is _so_ fervent that some enterprising members of
 
 
 
-They have the right idea: create a **seperate area** for meta-discussion. That way, everyone wins: people who are interested in community building can pitch in together, and the vast hordes of programmers who just want some freakin' answers to their questions don't have to wade through a lot of extra noise to get there.
+They have the right idea: create a **separate area** for meta-discussion. That way, everyone wins: people who are interested in community building can pitch in together, and the vast hordes of programmers who just want some freakin' answers to their questions don't have to wade through a lot of extra noise to get there.
 
 
 

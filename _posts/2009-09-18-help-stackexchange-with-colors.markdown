@@ -75,7 +75,7 @@ Now, I'm not saying that our trilogy color schemes are perfect -- far from it. D
 
 
 
-Opinons vary, but to me, that says "I don't give a crap how this looks." It is [programmer design](http://www.codinghorror.com/blog/archives/000734.html) at its finest. Would _you_ want to be associated with something like this?
+Opinions vary, but to me, that says "I don't give a crap how this looks." It is [programmer design](http://www.codinghorror.com/blog/archives/000734.html) at its finest. Would _you_ want to be associated with something like this?
 
 
 

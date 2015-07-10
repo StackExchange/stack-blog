@@ -45,7 +45,7 @@ A discussion of the Google London offices, which aren't quite up to Joel's high 
   * Jon spends a lot of time dealing with date and time issues, and shares one particularly horrifying timezone example. Apparently, time is often ambiguous and subject to change by human processes that aren't ... entirely rational.
 
 
-  * It is OK to have "fun" questions on Stack Overflow, but a) only occasionally, as we can't have the system overrun by pure entertainment and b) the question must be legitimately programming relatd and accepted by the community. As with so many things in life, moderation is key.  
+  * It is OK to have "fun" questions on Stack Overflow, but a) only occasionally, as we can't have the system overrun by pure entertainment and b) the question must be legitimately programming related and accepted by the community. As with so many things in life, moderation is key.  
 
 
 

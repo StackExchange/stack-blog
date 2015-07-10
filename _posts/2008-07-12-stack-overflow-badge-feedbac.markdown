@@ -38,7 +38,7 @@ As I mentioned [in Podcast #13](http://blog.stackoverflow.com/2008/07/podcast-13
 
 
 
-  3. **Gold badges**. Gold badges are for the hardcore and the completionists. They reward the most difficult feats; you'll have to not only participate but be skilled and knowledable about topics to earn these. Gold badges are something of an accomplishment.
+  3. **Gold badges**. Gold badges are for the hardcore and the completionists. They reward the most difficult feats; you'll have to not only participate but be skilled and knowledgeable about topics to earn these. Gold badges are something of an accomplishment.
 
 
 

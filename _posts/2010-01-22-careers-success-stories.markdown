@@ -85,7 +85,7 @@ I knew I wanted a new job, but I didn't want to just move to another job that pu
 
 > 
 > 
-This is where StackOverflow careers has succeeded for me; a smaller company who had great working conditions was able to find me and provide me all of the opportunities that I was looking for. I never thought that I would be able to be employed by a company that shared some mindset similarities with FogCreek (such as providing great compensation, private offices, top of the line dev machines, aeron chairs, passed the Joel test, etc!). When I interviewed, my future employer already had a sense of who I was based upon the questions and answers on my StackOverflow profile, and those gave us things to discuss during the interview (in a sense it "broke the ice", which was awesome for me and I'm sure for my future employer as well).
+This is where StackOverflow careers has succeeded for me; a smaller company who had great working conditions was able to find me and provide me all of the opportunities that I was looking for. I never thought that I would be able to be employed by a company that shared some mindset similarities with FogCreek (such as providing great compensation, private offices, top of the line dev machines, Aeron chairs, passed the Joel test, etc!). When I interviewed, my future employer already had a sense of who I was based upon the questions and answers on my StackOverflow profile, and those gave us things to discuss during the interview (in a sense it "broke the ice", which was awesome for me and I'm sure for my future employer as well).
 
 > 
 > 

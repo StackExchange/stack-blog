@@ -39,7 +39,7 @@ We awarded **Warm Welcome** (14,430 times to 9,597 users) to people who upvoted 
 
 [![](https://i.stack.imgur.com/huNhD.png?s=128)](http://sustainability.stackexchange.com/users/99/thelper)
 
-Last year, [abby hairboat](http://stackexchange.com/users/463168/abby-hairboat) did such a great job of wrangling hats we descided to <strike>prank her</strike> _honor her_ with a hat awarded to those responding to one of her posts or comments. Hence, the **HairBoat** (awarded 699 times to 569 distinct users). She was so pleased that she promised to send me a gift: a box of live spiders. What a kidder! (In unrelated news, my oldest child will now earn a little extra allowance in exchange for his new title: Family Postal Inspector.)
+Last year, [abby hairboat](http://stackexchange.com/users/463168/abby-hairboat) did such a great job of wrangling hats we decided to <strike>prank her</strike> _honor her_ with a hat awarded to those responding to one of her posts or comments. Hence, the **HairBoat** (awarded 699 times to 569 distinct users). She was so pleased that she promised to send me a gift: a box of live spiders. What a kidder! (In unrelated news, my oldest child will now earn a little extra allowance in exchange for his new title: Family Postal Inspector.)
 
 [![](https://i.stack.imgur.com/XU6yU.png?s=128)](http://physics.stackexchange.com/users/25301/kyle-kanos)
 

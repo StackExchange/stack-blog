@@ -22,14 +22,14 @@ Alas, Stack Overflow has fallen prey to that dread disease that plagues all wiki
 
 
 
-We're not exactly like wikipedia, because we are a hybrid system, but it's worth scanning [the official Wikipedia definition](http://en.wikipedia.org/wiki/Edit_war#What_is_edit_warring.3F):
+We're not exactly like Wikipedia, because we are a hybrid system, but it's worth scanning [the official Wikipedia definition](http://en.wikipedia.org/wiki/Edit_war#What_is_edit_warring.3F):
 
 
 
 
 
 >
-Edit warring is the confrontational use of edits to win a content dispute. Administrators often must make a judgment call to identify edit warring when cooling disputes. Administrators currently use several measures to determine if a user is edit warring.
+Edit warring is the confrontational use of edits to win a content dispute. Administrators often must make a judgement call to identify edit warring when cooling disputes. Administrators currently use several measures to determine if a user is edit warring.
 
 > 
 > 
@@ -70,7 +70,7 @@ Good times.
 
 
 
-Stack Overflow is a bit different than wikipedia.
+Stack Overflow is a bit different than Wikipedia.
 
 
 

@@ -82,7 +82,7 @@ However, you should know that these per-site (or "child") metas behave significa
 
   3. **Reputation is always inherited from the parent site.**  You cannot gain or lose reputation* on the per-site meta. This also means that some reputation related functions like the rep graph and bounties are not enabled on the per-site meta.
 
-  4. **You must have a minimum of 5 rep on the parent site to participate on the per-site meta.** In general, the more reputation you have on the parent site, the more stake you should have in its governance. And the converse is also true: if you have _no_ reputation on the parent site (as in 1 rep, the minumum), you haven't even come of age to "vote" in governance issues, so to speak. We also expect that most established users will have the +100 network account association bonus, so they won't be affected.
+  4. **You must have a minimum of 5 rep on the parent site to participate on the per-site meta.** In general, the more reputation you have on the parent site, the more stake you should have in its governance. And the converse is also true: if you have _no_ reputation on the parent site (as in 1 rep, the minimum), you haven't even come of age to "vote" in governance issues, so to speak. We also expect that most established users will have the +100 network account association bonus, so they won't be affected.
 
   5. **Voting up or down does not affect reputation**. You are now free to vote purely based on post content, without worrying about how your vote might positively or negatively affect someone's reputation score.
 

@@ -75,7 +75,7 @@ This is the 52nd episode of the StackOverflow podcast -- our one year anniversar
   * Good ideas sound too crazy for anyone to even consider copying them. The type of people who copy are not interested in anything that remotely resembles risk; they are only going to copy proven successes. So if you're starting out with a new crazy idea (and you should be!), this is unlikely to be a practical concern.
 
 
-  * Joel's computer has apparently been taken over by a mexican wrestler named Gordo. I have no idea.   
+  * Joel's computer has apparently been taken over by a Mexican wrestler named Gordo. I have no idea.   
 
 
 
@@ -96,7 +96,7 @@ We answered the following listener questions on this podcast:
 
 
 
-Our favorite Stack Overflow qustions this week are:
+Our favorite Stack Overflow questions this week are:
 
 
 
