@@ -38,19 +38,19 @@ Take Ned Batchelder's script on [How to not get reputation points on Stack Overf
 
 
 
-<blockquote>// ==UserScript==  
-// @name No answering on Stackoverflow  
-// @namespace http://nedbatchelder.com/greasemonkey  
-// @description Hide the answer box on Stack Overflow   
-// to stop obsessive behavior  
-// @include http://stackoverflow.com/*  
-// ==/UserScript==  
-  
-GM_addStyle(  
-"@namespace url(http://www.w3.org/1999/xhtml); " +  
-".question-page #post-form { display: none; }"  
-);  
-</blockquote>
+    // ==UserScript==
+    // @name No answering on Stackoverflow
+    // @namespace http://nedbatchelder.com/greasemonkey
+    // @description Hide the answer box on Stack Overflow
+    // to stop obsessive behavior
+    // @include http://stackoverflow.com/*
+    // ==/UserScript==
+
+    GM_addStyle(
+    "@namespace url(http://www.w3.org/1999/xhtml); " +
+    ".question-page #post-form { display: none; }"
+    );
+
 
 
 
