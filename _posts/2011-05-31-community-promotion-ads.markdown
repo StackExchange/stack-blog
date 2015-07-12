@@ -67,35 +67,17 @@ Here are a few examples:
 <tr >
 
 <td >
-![AskUbuntu](/images/wordpress/askubuntu.com_.png)
+<img src="/images/wordpress/askubuntu.com_.png" alt="AskUbuntu">
 
 </td>
 
 <td >
-**Ask Ubuntu**
+<strong>Ask Ubuntu</strong>
 
 </td>
 
 <td >
-[Community Promotion Ads - 1H 2011](http://meta.askubuntu.com/questions/1089/community-promotion-ads-1h-2011)
-
-</td>
-</tr>
-
-<tr >
-
-<td >
-![WordPress](/images/wordpress/wordpress.stackexchange.com_.png)
-
-</td>
-
-<td >
-**WordPress Answers**
-
-</td>
-
-<td >
-[Community Promotion Ads - 1H 2011](http://meta.wordpress.stackexchange.com/questions/501/community-promotion-ads-1h-2011)
+<a href="http://meta.askubuntu.com/questions/1089/community-promotion-ads-1h-2011">Community Promotion Ads - 1H 2011</a>
 
 </td>
 </tr>
@@ -103,17 +85,35 @@ Here are a few examples:
 <tr >
 
 <td >
-![TeX](/images/wordpress/tex.stackexchange.com_.png)
+<img src="/images/wordpress/wordpress.stackexchange.com_.png" alt="WordPress">
 
 </td>
 
 <td >
-**TeX - LaTeX**
+<strong>WordPress Answers</strong>
 
 </td>
 
 <td >
-[Community Promotion Ads - 1H 2011](http://meta.tex.stackexchange.com/questions/1184/community-promotion-ads-1h-2011)
+<a href="http://meta.wordpress.stackexchange.com/questions/501/community-promotion-ads-1h-2011">Community Promotion Ads - 1H 2011</a>
+
+</td>
+</tr>
+
+<tr >
+
+<td >
+<img src="/images/wordpress/tex.stackexchange.com_.png" alt="TeX">
+
+</td>
+
+<td >
+<strong>TeX - LaTeX</strong>
+
+</td>
+
+<td >
+<a href="http://meta.tex.stackexchange.com/questions/1184/community-promotion-ads-1h-2011">Community Promotion Ads - 1H 2011</a>
 </td>
 </tr>
 

@@ -37,8 +37,8 @@ But it doesn't matter what _I_ think. Everyone should check chat out for themsel
 
 <table >
 <tr >
-<td >![talkative badge](/images/wordpress/badge-talkative.png)
-<td >Posted 10 messages, with 1 or more starred, in [chat](http://chat.stackexchange.com)</tr>
+<td ><img src="/images/wordpress/badge-talkative.png" alt="talkative badge">
+<td >Posted 10 messages, with 1 or more starred, in <a href="http://chat.stackexchange.com">chat</a></tr>
 </table>
 
 To earn this badge, you'll need to post 10 chat messages in a room -- and one of them must be starred by another fellow chat user user. Go be interesting!
@@ -57,8 +57,8 @@ The success of this community process depends, as they all do, on participation.
 
 <table >
 <tr >
-<td >![precognitive badge](/images/wordpress/badge-precognitive.png)
-<td >Followed the [Area 51](http://area51.stackexchange.com) proposal for this site before it entered the commitment phase</tr>
+<td ><img src="/images/wordpress/badge-precognitive.png" alt="precognitive badge">
+<td >Followed the <a href="http://area51.stackexchange.com">Area 51</a> proposal for this site before it entered the commitment phase</tr>
 </table>
 
 This badge, like Area 51 itself, is all about the future. To achieve this badge, you'll have to **follow an early Area 51 site proposal** that eventually succeeds and go to beta -- hopefully with your active assistance. In other words, the only way to earn the Precognitive badge on a site is ... _before the site even exists!_ Spooky, right?

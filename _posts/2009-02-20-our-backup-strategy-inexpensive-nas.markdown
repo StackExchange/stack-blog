@@ -83,7 +83,7 @@ The downside of picking a low end NAS is speed. The relatively anemic 500 MHz em
 
 <table width="400" >
 <tr >
-<td colspan="2" >**1 file; 6.06 GB**</tr>
+<td colspan="2" ><strong>1 file; 6.06 GB</strong></tr>
 <tr >
 <td >read
 <td >21.0 MB/sec</tr>
@@ -93,7 +93,7 @@ The downside of picking a low end NAS is speed. The relatively anemic 500 MHz em
 <tr >
 <td colspan="2" ></tr>
 <tr >
-<td colspan="2" >**5,784 files; 1,114 folders; 355 MB**</tr>
+<td colspan="2" ><strong>5,784 files; 1,114 folders; 355 MB</strong></tr>
 <tr >
 <td >read
 <td >2.46 MB/sec</tr>

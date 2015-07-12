@@ -39,10 +39,10 @@ We've had the mobile design in private and public beta for a while to polish up 
 <table >
 <tr >
 
-<td valign="top" >![](/images/wordpress/iphone-mobile-stack-exchange.png)
+<td valign="top" ><img src="/images/wordpress/iphone-mobile-stack-exchange.png">
 </td>
 
-<td valign="top" >![](/images/wordpress/android-mobile-stack-exchange.png)
+<td valign="top" ><img src="/images/wordpress/android-mobile-stack-exchange.png">
 </td>
 </tr>
 </table>

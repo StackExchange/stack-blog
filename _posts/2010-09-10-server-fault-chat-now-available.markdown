@@ -25,21 +25,21 @@ You may remember we [rolled out per-site metas](http://blog.stackoverflow.com/20
 <table cellpadding="4" width="600" cellspacing="4" >
 <tr >
 
-<td >`serverfault.com`
+<td ><code>serverfault.com</code>
 </td>
 <td >Q&A; for professional system administrators
 </td>
 </tr>
 <tr >
 
-<td >`meta.serverfault.com`
+<td ><code>meta.serverfault.com</code>
 </td>
 <td >community organization and discussion about the site itself
 </td>
 </tr>
 <tr >
 
-<td >`chat.serverfault.com`
+<td ><code>chat.serverfault.com</code>
 </td>
 <td >real time chat "third place" for regulars
 </td>

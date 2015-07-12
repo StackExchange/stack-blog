@@ -19,17 +19,17 @@ As part of our [datacenter migration](http://blog.stackoverflow.com/2010/10/data
 <tr >
 
 <td >
-**Oregon**  
-48 GB  
-2 Xeon X5470 CPUs  
+<strong>Oregon</strong><br/>
+48 GB<br/>
+2 Xeon X5470 CPUs<br/>
 8 total cores @ 3.33 Ghz
 
 </td>
 
 <td >
-**NYC**  
-64 GB  
-2 Xeon X5680 CPUs  
+<strong>NYC</strong><br/>
+64 GB<br/>
+2 Xeon X5680 CPUs<br/>
 12 total cores @ 3.33 GHz
 
 </td>

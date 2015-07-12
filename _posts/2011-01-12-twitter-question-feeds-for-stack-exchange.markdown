@@ -29,311 +29,311 @@ With that in mind, we've set up the following Twitter accounts to publish the mo
 <tr >
 
 <td >
-[![Stack Exchange site](http://blog.stackoverflow.com/wp-content/uploads/se-logo2.png)](http://stackexchange.com/sites)
+<a href="http://stackexchange.com/sites"><img src="http://blog.stackoverflow.com/wp-content/uploads/se-logo2.png" alt="Stack Exchange site"></a>
 
 </td>
 
 
 <td >
-[![Twitter account](http://blog.stackoverflow.com/wp-content/uploads/twitter-logo1.png)](https://twitter.com)
+<a href="https://twitter.com"><img src="http://blog.stackoverflow.com/wp-content/uploads/twitter-logo1.png" alt="Twitter account"></a>
 
 </td>
 
 <tr >
 
-<td >[Android](http://android.stackexchange.com)
+<td ><a href="http://android.stackexchange.com">Android</a>
 </td>
 
-<td >[StackAndroid](https://twitter.com/StackAndroid)
+<td ><a href="https://twitter.com/StackAndroid">StackAndroid</a>
 </td>
 </tr>
 
 <tr >
 
-<td >[Apple](http://apple.stackexchange.com)
+<td ><a href="http://apple.stackexchange.com">Apple</a>
 </td>
 
-<td >[StackApple](https://twitter.com/StackApple)
-</td>
-</tr>
-
-<tr >
-
-<td >[StackApps](http://stackapps.com)
-</td>
-
-<td >[StackApps](https://twitter.com/StackApps)
+<td ><a href="https://twitter.com/StackApple">StackApple</a>
 </td>
 </tr>
 
 <tr >
 
-<td >[Audio Recording & Production](http://audio.stackexchange.com)
+<td ><a href="http://stackapps.com">StackApps</a>
 </td>
 
-<td >[StackAudio](https://twitter.com/StackAudio)
-</td>
-</tr>
-
-<tr >
-
-<td >[Bicycles](http://bicycles.stackexchange.com)
-</td>
-
-<td >[StackBicycles](https://twitter.com/StackBicycles)
+<td ><a href="https://twitter.com/StackApps">StackApps</a>
 </td>
 </tr>
 
 <tr >
 
-<td >[Board and Card Games](http://boardgames.stackexchange.com)
+<td ><a href="http://audio.stackexchange.com">Audio Recording & Production</a>
 </td>
 
-<td >[StackBoardGames](https://twitter.com/StackBoardGames)
-</td>
-</tr>
-
-<tr >
-
-<td >[Cooking](http://cooking.stackexchange.com)
-</td>
-
-<td >[StackCooking](https://twitter.com/StackCooking)
+<td ><a href="https://twitter.com/StackAudio">StackAudio</a>
 </td>
 </tr>
 
 <tr >
 
-<td >[CS Theory](http://cstheory.stackexchange.com)
+<td ><a href="http://bicycles.stackexchange.com">Bicycles</a>
 </td>
 
-<td >[StackCSTheory](https://twitter.com/StackCSTheory)
-</td>
-</tr>
-
-<tr >
-
-<td >[Home Improvement](http://diy.stackexchange.com)
-</td>
-
-<td >[StackDIY](https://twitter.com/StackDIY)
+<td ><a href="https://twitter.com/StackBicycles">StackBicycles</a>
 </td>
 </tr>
 
 <tr >
 
-<td >[English Language & Usage](http://english.stackexchange.com)
+<td ><a href="http://boardgames.stackexchange.com">Board and Card Games</a>
 </td>
 
-<td >[StackEnglish](https://twitter.com/StackEnglish)
+<td ><a href="https://twitter.com/StackBoardGames">StackBoardGames</a>
+</td>
+</tr>
+
+<tr >
+
+<td ><a href="http://cooking.stackexchange.com">Cooking</a>
+</td>
+
+<td ><a href="https://twitter.com/StackCooking">StackCooking</a>
+</td>
+</tr>
+
+<tr >
+
+<td ><a href="http://cstheory.stackexchange.com">CS Theory</a>
+</td>
+
+<td ><a href="https://twitter.com/StackCSTheory">StackCSTheory</a>
+</td>
+</tr>
+
+<tr >
+
+<td ><a href="http://diy.stackexchange.com">Home Improvement</a>
+</td>
+
+<td ><a href="https://twitter.com/StackDIY">StackDIY</a>
+</td>
+</tr>
+
+<tr >
+
+<td ><a href="http://english.stackexchange.com">English Language & Usage</a>
+</td>
+
+<td ><a href="https://twitter.com/StackEnglish">StackEnglish</a>
 </td>
 </tr>
 
 
 <tr >
 
-<td >[Database Administrators](http://dba.stackexchange.com)
+<td ><a href="http://dba.stackexchange.com">Database Administrators</a>
 </td>
 
-<td >[StackDBAs](https://twitter.com/StackDBAs)
-</td>
-</tr>
-
-<tr >
-
-<td >[Personal Finance and Money](http://money.stackexchange.com)
-</td>
-
-<td >[StackFinance](https://twitter.com/StackFinance)
+<td ><a href="https://twitter.com/StackDBAs">StackDBAs</a>
 </td>
 </tr>
 
 <tr >
 
-<td >[Game Development](http://gamedev.stackexchange.com)
+<td ><a href="http://money.stackexchange.com">Personal Finance and Money</a>
 </td>
 
-<td >[StackGameDev](https://twitter.com/StackGameDev)
-</td>
-</tr>
-
-<tr >
-
-<td >[Gaming](http://gaming.stackexchange.com)
-</td>
-
-<td >[StackGaming](https://twitter.com/StackGaming)
+<td ><a href="https://twitter.com/StackFinance">StackFinance</a>
 </td>
 </tr>
 
 <tr >
 
-<td >[GIS](http://gis.stackexchange.com)
+<td ><a href="http://gamedev.stackexchange.com">Game Development</a>
 </td>
 
-<td >[StackGIS](https://twitter.com/StackGIS)
-</td>
-</tr>
-
-<tr >
-
-<td >[Homebrewing](http://homebrew.stackexchange.com)
-</td>
-
-<td >[StackHomebrew](https://twitter.com/StackHomebrew)
+<td ><a href="https://twitter.com/StackGameDev">StackGameDev</a>
 </td>
 </tr>
 
 <tr >
 
-<td >[Mathematics](http://math.stackexchange.com)
+<td ><a href="http://gaming.stackexchange.com">Gaming</a>
 </td>
 
-<td >[StackMath](https://twitter.com/StackMath)
-</td>
-</tr>
-
-<tr >
-
-<td >[OnStartups Answers](http://answers.onstartups.com)
-</td>
-
-<td >[StackOnStartups](https://twitter.com/StackOnStartups)
+<td ><a href="https://twitter.com/StackGaming">StackGaming</a>
 </td>
 </tr>
 
 <tr >
 
-<td >[Photography](http://photo.stackexchange.com)
+<td ><a href="http://gis.stackexchange.com">GIS</a>
 </td>
 
-<td >[StackPhotos](https://twitter.com/StackPhotos)
-</td>
-</tr>
-
-<tr >
-
-<td >[Physics](http://physics.stackexchange.com)
-</td>
-
-<td >[StackPhysics](https://twitter.com/StackPhysics)
+<td ><a href="https://twitter.com/StackGIS">StackGIS</a>
 </td>
 </tr>
 
 <tr >
 
-<td >[Programmers](http://programmers.stackexchange.com)
+<td ><a href="http://homebrew.stackexchange.com">Homebrewing</a>
 </td>
 
-<td >[StackProgrammer](https://twitter.com/StackProgrammer)
-</td>
-</tr>
-
-<tr >
-
-<td >[Electronics and Robotics](http://electronics.stackexchange.com)
-</td>
-
-<td >[StackRobots](https://twitter.com/StackRobots)
+<td ><a href="https://twitter.com/StackHomebrew">StackHomebrew</a>
 </td>
 </tr>
 
 <tr >
 
-<td >[Role-Playing Games](http://rpg.stackexchange.com)
+<td ><a href="http://math.stackexchange.com">Mathematics</a>
 </td>
 
-<td >[StackRPG](https://twitter.com/StackRPG)
-</td>
-</tr>
-
-<tr >
-
-<td >[IT Security](http://security.stackexchange.com)
-</td>
-
-<td >[StackSecurity](https://twitter.com/StackSecurity)
+<td ><a href="https://twitter.com/StackMath">StackMath</a>
 </td>
 </tr>
 
 <tr >
 
-<td >[Statistics](http://stats.stackexchange.com)
+<td ><a href="http://answers.onstartups.com">OnStartups Answers</a>
 </td>
 
-<td >[StackStats](https://twitter.com/StackStats)
-</td>
-</tr>
-
-<tr >
-
-<td >[TeX](http://tex.stackexchange.com)
-</td>
-
-<td >[StackTex](https://twitter.com/StackTex)
+<td ><a href="https://twitter.com/StackOnStartups">StackOnStartups</a>
 </td>
 </tr>
 
 <tr >
 
-<td >[User Interface](http://ui.stackexchange.com)
+<td ><a href="http://photo.stackexchange.com">Photography</a>
 </td>
 
-<td >[StackUI](https://twitter.com/StackUI)
-</td>
-</tr>
-
-<tr >
-
-<td >[Ask Ubuntu](http://askubuntu.com)
-</td>
-
-<td >[StackUbuntu](https://twitter.com/StackUbuntu)
+<td ><a href="https://twitter.com/StackPhotos">StackPhotos</a>
 </td>
 </tr>
 
 <tr >
 
-<td >[Unix and Linux](http://unix.stackexchange.com)
+<td ><a href="http://physics.stackexchange.com">Physics</a>
 </td>
 
-<td >[StackUnix](https://twitter.com/StackUnix)
-</td>
-</tr>
-
-<tr >
-
-<td >[Web Applications](http://webapps.stackexchange.com)
-</td>
-
-<td >[StackWebApps](https://twitter.com/StackWebApps)
+<td ><a href="https://twitter.com/StackPhysics">StackPhysics</a>
 </td>
 </tr>
 
 <tr >
 
-<td >[Pro Webmasters](http://webmasters.stackexchange.com)
+<td ><a href="http://programmers.stackexchange.com">Programmers</a>
 </td>
 
-<td >[StackWebmasters](https://twitter.com/StackWebmasters)
-</td>
-</tr>
-
-<tr >
-
-<td >[WordPress](http://wordpress.stackexchange.com)
-</td>
-
-<td >[StackWordPress](https://twitter.com/StackWordPress)
+<td ><a href="https://twitter.com/StackProgrammer">StackProgrammer</a>
 </td>
 </tr>
 
 <tr >
 
-<td >[Writers](http://writers.stackexchange.com)
+<td ><a href="http://electronics.stackexchange.com">Electronics and Robotics</a>
 </td>
 
-<td >[StackWriters](https://twitter.com/StackWriters)
+<td ><a href="https://twitter.com/StackRobots">StackRobots</a>
+</td>
+</tr>
+
+<tr >
+
+<td ><a href="http://rpg.stackexchange.com">Role-Playing Games</a>
+</td>
+
+<td ><a href="https://twitter.com/StackRPG">StackRPG</a>
+</td>
+</tr>
+
+<tr >
+
+<td ><a href="http://security.stackexchange.com">IT Security</a>
+</td>
+
+<td ><a href="https://twitter.com/StackSecurity">StackSecurity</a>
+</td>
+</tr>
+
+<tr >
+
+<td ><a href="http://stats.stackexchange.com">Statistics</a>
+</td>
+
+<td ><a href="https://twitter.com/StackStats">StackStats</a>
+</td>
+</tr>
+
+<tr >
+
+<td ><a href="http://tex.stackexchange.com">TeX</a>
+</td>
+
+<td ><a href="https://twitter.com/StackTex">StackTex</a>
+</td>
+</tr>
+
+<tr >
+
+<td ><a href="http://ui.stackexchange.com">User Interface</a>
+</td>
+
+<td ><a href="https://twitter.com/StackUI">StackUI</a>
+</td>
+</tr>
+
+<tr >
+
+<td ><a href="http://askubuntu.com">Ask Ubuntu</a>
+</td>
+
+<td ><a href="https://twitter.com/StackUbuntu">StackUbuntu</a>
+</td>
+</tr>
+
+<tr >
+
+<td ><a href="http://unix.stackexchange.com">Unix and Linux</a>
+</td>
+
+<td ><a href="https://twitter.com/StackUnix">StackUnix</a>
+</td>
+</tr>
+
+<tr >
+
+<td ><a href="http://webapps.stackexchange.com">Web Applications</a>
+</td>
+
+<td ><a href="https://twitter.com/StackWebApps">StackWebApps</a>
+</td>
+</tr>
+
+<tr >
+
+<td ><a href="http://webmasters.stackexchange.com">Pro Webmasters</a>
+</td>
+
+<td ><a href="https://twitter.com/StackWebmasters">StackWebmasters</a>
+</td>
+</tr>
+
+<tr >
+
+<td ><a href="http://wordpress.stackexchange.com">WordPress</a>
+</td>
+
+<td ><a href="https://twitter.com/StackWordPress">StackWordPress</a>
+</td>
+</tr>
+
+<tr >
+
+<td ><a href="http://writers.stackexchange.com">Writers</a>
+</td>
+
+<td ><a href="https://twitter.com/StackWriters">StackWriters</a>
 </td>
 </tr>
 

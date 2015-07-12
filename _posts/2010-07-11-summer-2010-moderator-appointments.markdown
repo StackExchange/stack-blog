@@ -25,22 +25,10 @@ Due to a continual and ever-growing stream of moderator flags on [the classic tr
 
 
 
-<table cellpadding="2" width="450" cellspacing="2" >
-<tr >
 
-<td >
-             
-             
 
-</td>
 
-<td >
-             
-             
 
-</td>
-</tr>
-</table>
 
 (came in 3rd and 4th in [our 2010 election](http://blog.stackoverflow.com/2010/02/stack-overflow-2010-moderator-election-results/))
 

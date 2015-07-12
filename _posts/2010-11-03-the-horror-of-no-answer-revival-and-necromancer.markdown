@@ -60,14 +60,14 @@ We've also introduced a new bronze badge, Revival, to complement the existing si
 <table >
 <tr >
 
-<td >![Revival badge (bronze)](/images/wordpress/badge-revival.png)
+<td ><img src="/images/wordpress/badge-revival.png" alt="Revival badge (bronze)">
 </td>
 
 <td >Answered more than 30 days later as first answer scoring 2 or more
 </td>
 </tr>
 
-<td >![Necromancer badge (silver)](/images/wordpress/badge-necromancer.png)
+<td ><img src="/images/wordpress/badge-necromancer.png" alt="Necromancer badge (silver)">
 </td>
 
 <td >
