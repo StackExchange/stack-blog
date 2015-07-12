@@ -23,7 +23,7 @@ I saw an [interesting Battlefield 3 question on gaming](http://gaming.stackexcha
 
 
 <blockquote>
-I've recently unlocked the EOD bot, and while playing around with it (and being hopelessly ineffectual with it) I've noticed that after I have driven a certain distance away I will return back to first-person view. Running towards the EOD bot will allow me to take control of it again. **How far can I drive an EOD bot away from me before I lose control of it?**
+I've recently unlocked the EOD bot, and while playing around with it (and being hopelessly ineffectual with it) I've noticed that after I have driven a certain distance away I will return back to first-person view. Running towards the EOD bot will allow me to take control of it again. <strong>How far can I drive an EOD bot away from me before I lose control of it?</strong>
 </blockquote>
 
 
