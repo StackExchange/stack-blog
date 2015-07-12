@@ -1,5 +1,6 @@
 ---
 layout: default
+top_nav: contributors
 ---
 <article class="author">
 	<div class="inner-container">
@@ -22,14 +23,10 @@ layout: default
 		<div class="-row author-content">
 			<div class="-col8">
 				<div class="posts">
+				  {% assign posts = site.posts | where:"author", page.id %}
 				  {% include posts.html %}
 				</div>
 			</div>
 		</div>
 	</div>
 </article>
-<script type="text/javascript">
-var pagination = true;
-var top_active = "contributors";
-var author_id = "{{ page.id }}";
-</script>

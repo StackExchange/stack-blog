@@ -8,7 +8,7 @@ layout: default
 		width: 100%;
 	}
 </style>
-<article class="post full-post">
+<article class="post full-post" data-id="{{ page.id }}">
 	{% if page.hero == null or page.tags contains 'podcasts' %}
 	<div class="hero no-image">
 	{% else %}
@@ -56,12 +56,10 @@ layout: default
 				    </div>
 				</div>
 				<div class="disqus media-padded">
-
  					{% include disqus.html disqus_identifier=page.disqus_identifier %}
 				</div>
 		</div>
 	</div>
 </article>
-<script type="text/javascript">
-	var slug = "{{ page.id }}";
-</script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="{{ site.baseurl }}/js/post.js"></script>

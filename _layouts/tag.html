@@ -1,18 +1,18 @@
 ---
 layout: default
 ---
-
 <div class="inner-container padded">
 	<div class="-row">
 		<div class="-col8">
 			<div class="posts">
 				<h3>{{ page.slug }}</h3>
-				{% include posts.html %}
+				{% for post in paginator.posts %}
+				{{ post.pre_render }}
+				{% endfor %}
 			</div>
 		</div>
 		<div class="-col4">
 			<div class="sidebar media-padded">
-
 				<section>
 				<h4>Contributors</h4>
 				{% include authors.html %}
@@ -20,23 +20,11 @@ layout: default
 
 				<section>
 				<h4>Other Tags</h4>
-				{% for tag in site.tags %}
-				{% assign tagCount = 0 %}
-				{% assign currentTag = tag | first %}
-					{% for post in site.posts %}
-						{% if post.tags contains currentTag %}
-						{% assign tagCount = tagCount | plus: 1 %}
-						{% endif %}
-					{% endfor %}
-				<p><a href="{{ site.baseurl }}/tags/{{ tag | first }}"><span class="postTag">{{ tag | first }}</span></a> ({{ tagCount }})</p>
+				{% for tag in paginator.top_tags %}
+				<p><a href="{{ site.baseurl }}/tags/{{ tag.slug }}"><span class="postTag">{{ tag.name }}</span></a> ({{ tag.count }})</p>
 				{% endfor %}
 				</section>
 			</div>
 		</div>
 	</div>
 </div>
-
-<script type="text/javascript">
-var pagination = true;
-var channel = "{{ page.slug }}";
-</script>
