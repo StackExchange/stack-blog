@@ -1,14 +1,10 @@
----
-layout: compress
----
-
 <!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8" />
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0'>
-
+    
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
     <meta name="author" content="{{ site.name }}" />
@@ -38,8 +34,6 @@ layout: compress
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/all.css" />
 
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed/" />
-
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
 
   <body>
@@ -48,12 +42,12 @@ layout: compress
       <div class="inner-container -row">
         <div class="-col4">
           <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
-        </div>
+        </div>      
         <nav class="-col8 hidden-nav">
-          <a class="home" href="{{ site.baseurl }}/">Home</a>
-          <a class="company" href="{{ site.baseurl }}/company">Company News</a>
-          <a class="engineering" href="{{ site.baseurl }}/engineering">Engineering</a>
-          <a class="authors" href="{{ site.baseurl }}/authors">Contributors</a>
+          <a class="home{% if page.top_nav == "home" %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
+          <a class="company{% if page.top_nav == "company" %} active{% endif %}" href="{{ site.baseurl }}/company">Company News</a>
+          <a class="engineering{% if page.top_nav == "engineering" %} active{% endif %}" href="{{ site.baseurl }}/engineering">Engineering</a>
+          <a class="authors{% if page.top_nav == "authors" %} active{% endif %}" href="{{ site.baseurl }}/authors">Contributors</a>
         </nav>
       </div>
     </header>
@@ -61,22 +55,27 @@ layout: compress
     <div id="main" role="main">
       {{ content }}
     </div>
-
+    {% if paginator %}
     <div class="pagination">
       <div class="inner-container">
         <div class="-row">
           <div class="-col2 _textLeft">
-              <a class="page older"><i class="blog-icon left-arrow"></i> Older Articles</a>
+          {% if paginator.next_page %}
+              <a class="page older" href="{{ paginator.next_page_path }}"><i class="blog-icon left-arrow"></i> Older Articles</a>
+          {% endif %}
             </div>
           <div class="-col2 _textRight">
-            <a class="page newer">Newer Articles <i class="blog-icon right-arrow"></i></a>
+          {% if paginator.previous_page %}
+            <a class="page newer" href="{{ paginator.previous_page_path }}">Newer Articles <i class="blog-icon right-arrow"></i></a>
+          {% endif %}
           </div>
           <div class="-col8 _textRight">
-              <span class="page_number">Page <span class="page current_page"></span> of <span class="page total_pages"></span></span>
+              <span class="page_number">Page <span class="page current_page">{{ paginator.page }}</span> of <span class="page total_pages">{{ paginator.total_pages }}</span></span>
             </div>
           </div>
         </div>
     </div>
+    {% endif %}
 
     <footer class="footer">
       <div class="inner-container">
@@ -119,12 +118,5 @@ layout: compress
     </footer>
     </div>
     {% include analytics.html %}
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-    <script type="text/javascript" src="{{ site.baseurl}}/js/jquery.browser.min.js"></script>
-    <script type="text/javascript" src="{{ site.baseurl}}/js/jquery.ba-hashchange.min.js"></script>
-    <script type="text/javascript">
-      var prefix = "{{ site.baseurl }}";
-    </script>
-    <script type="text/javascript" src="{{ site.baseurl }}/js/index.js"></script>
   </body>
 </html>
