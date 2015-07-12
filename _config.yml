@@ -17,7 +17,7 @@ avatar: /images/blog-logo.svg
 
 posts_showdrafts: false
 posts_pagecount: 5
-#limit_posts: 50
+limit_posts: 50
 
 # Includes an icon in the footer for each username you enter
 footer-links:
