@@ -6,7 +6,7 @@ hero: https://i.stack.imgur.com/hfyQE.jpg
 description: "Today, we're proud to announce the new Stack Exchange blog, all shiny and new! It's been six to eight weeks in the making and we're really happy to have you all see it. Get a run down of all the new changes we've made!"
 tags:
 - company
-- announcements
+- announcement
 ---
 
 Today, we're proud to announce the new Stack Exchange blog, all shiny and new! It's been [six to eight weeks](http://meta.stackexchange.com/a/19514/242868) in the making and we're really happy our community can finally see it. Here's an overview of the major changes that we've made to the site:
