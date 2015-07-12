@@ -28,7 +28,7 @@ That's really kind of a shame. Here in the US, it's common to at least get a sti
   * **[The Caucus Badge](http://stackoverflow.com/badges/1973/caucus)** is awarded for visiting the election page. This is important at every stage of the process, as even during the nomination phase comment discussions helps to flesh out the nominations. If you can't vote, you can at least make your voice heard. This is a bronze badge.![Visited an election during any phase of an active election. This badge can be awarded multiple times](https://i.stack.imgur.com/mnctW.png)
 
 	
-  * **[The Constituent Badge](http://stackoverflow.com/badges/1974/constituent)** is awarded for _voting _- at least once - in the final phase of the election. Recognizing the importance of the action it rewards, this is a silver badge.![Voted for a candidate in an election. This badge can be awarded multiple times.](https://i.stack.imgur.com/IgKOQ.png)
+  * **[The Constituent Badge](http://stackoverflow.com/badges/1974/constituent)** is awarded for _voting_- at least once - in the final phase of the election. Recognizing the importance of the action it rewards, this is a silver badge.![Voted for a candidate in an election. This badge can be awarded multiple times.](https://i.stack.imgur.com/IgKOQ.png)
 
 
 
