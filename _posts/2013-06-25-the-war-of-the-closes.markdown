@@ -40,7 +40,7 @@ Now, it's not that we want those questions, but we need to convey exactly _why 
 # Closing wasn't nice.
 
 
-**Having your question closed feels lousy; there's no doubt about it.  **Now, we don't care as much about _nice_ as we do about _quality_**_ - _**but that's not a real dichotomy.  We can be more constructive in conveying our standards without lowering them one bit.   And we need to, because whether we liked it or not:
+**Having your question closed feels lousy; there's no doubt about it.  **Now, we don't care as much about _nice_ as we do about _quality_** - **but that's not a real dichotomy.  We can be more constructive in conveying our standards without lowering them one bit.   And we need to, because whether we liked it or not:
 
 **Having your question closed _feels_ like a personal attack.**
 
@@ -48,7 +48,7 @@ Now, it's not that we want those questions, but we need to convey exactly _why 
 [![2013-06-16_15-31-27](/images/wordpress/2013-06-16_15-31-27-1024x717.jpg)](/images/wordpress/2013-06-16_15-31-27.jpg)
 
 
-It _is_ off-putting to be told that your question is "not constructive".  To _the poster, _"not constructive" doesn't sound like polite feedback; it sounds like something a slightly detached guidance counselor might say to a child.  And,"not a real question"?  Does that make _the listener_ want to get "realer" or to snarkily link to a definition of the word "question"?
+It _is_ off-putting to be told that your question is "not constructive".  To _the poster,_ "not constructive" doesn't sound like polite feedback; it sounds like something a slightly detached guidance counselor might say to a child.  And,"not a real question"?  Does that make _the listener_ want to get "realer" or to snarkily link to a definition of the word "question"?
 
 **Ironically, we picked those terms _explicitly because they were nicer ways to convey what we meant. _**And they _were__ _nicer than, "You're kind of ranting and being a jackass," or, "No one can answer that ambiguous nonsense."  But so is prefacing my feedback to my wife with:
 
