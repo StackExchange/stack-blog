@@ -72,9 +72,9 @@ We don't bother telling users about the things that are similar to the other sit
 
 Now, obviously, users could just discover these things as they use the site, but however much you do or don’t grok our system, [surprises suck](http://www.joelonsoftware.com/uibook/chapters/fog0000000058.html). Most of life's surprises fall closer to the kind involving gum discoveries in improbable locations than the ones that come in pony-shaped boxes. Whatever you think about a rule's merit, learning about it _after you’ve broken it_ tends to adversely impact your view of it. There’s a big difference between giving your wife a poem you wrote her, only to receive a red-lined markup, complete with suggestions as to how to be less derivative, and having her edit one that you’re hoping to submit to a journal after she offered to give you feedback.
 
-**2. Explain _why_ we’re different. **
+**2. Explain _why_ we’re different.**
 
-****If you’re going to [make someone think](http://www.codinghorror.com/blog/2010/03/index.html), or god forbid, try to change the way they do something, you damn well better convince them there’s a good reason.
+If you’re going to [make someone think](http://www.codinghorror.com/blog/2010/03/index.html), or god forbid, try to change the way they do something, you damn well better convince them there’s a good reason.
 
 
 
@@ -82,7 +82,7 @@ Now, obviously, users could just discover these things as they use the site, but
   * _Why_ allow users to edit each other's posts? Because it makes the average quality of our content higher than sites where responses are limited to a single user’s experiences.
 
 	
-  * _Why _edit out harmless chit chat? Because we want to make the best answers _more findable__ _than they are in traditional forums.
+  * _Why_ edit out harmless chit chat? Because we want to make the best answers _more findable_ than they are in traditional forums.
 
 
 If you tell someone you don't allow chit-chat, but you fail to give them _the reason,_ the first time they have their “thank you!” deleted as noise, they're less likely to think about our “answer findability optimization” than our "tendency toward pedantic, manners-hating fascism”.
