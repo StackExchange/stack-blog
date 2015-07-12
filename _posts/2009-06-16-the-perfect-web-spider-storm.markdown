@@ -51,18 +51,18 @@ Geoff ran a few queries in [Log Parser](http://www.microsoft.com/downloads/detai
 
 <table width="600" >
 <tr >
-<td >**IP**
-<td >**User-Agent**
-<td align="right" >**Requests**
-<td align="right" >**Bytes Served**</tr>
+<td ><strong>IP</strong>
+<td ><strong>User-Agent</strong>
+<td align="right" ><strong>Requests</strong>
+<td align="right" ><strong>Bytes Served</strong></tr>
 <tr >
 <td >72.30.78.240
-<td >[Yahoo! Slurp/3.0](http://help.yahoo.com/help/us/ysearch/slurp)
+<td ><a href="http://help.yahoo.com/help/us/ysearch/slurp">Yahoo! Slurp/3.0</a>
 <td align="right" >56,331
 <td align="right" >1,124,861,780</tr>
 <tr >
 <td >66.249.68.109
-<td >[Googlebot/2.1](http://www.google.com/bot.html)
+<td ><a href="http://www.google.com/bot.html">Googlebot/2.1</a>
 <td align="right" >56,579
 <td align="right" >773,418,834</tr>
 <tr >

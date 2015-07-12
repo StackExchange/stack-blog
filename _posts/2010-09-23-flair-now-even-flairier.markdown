@@ -56,37 +56,37 @@ And, yes, flair works the same on every [Stack Exchange network site](http://sta
 <table cellpadding="4" width="430" cellspacing="4" >
 <tr >
 
-<td >[![](http://serverfault.com/users/flair/301.png)](http://serverfault.com/users/301/dave-cheney)
+<td ><a href="http://serverfault.com/users/301/dave-cheney"><img src="http://serverfault.com/users/flair/301.png"></a>
 </td>
 
-<td >[![](http://meta.stackoverflow.com/users/flair/22164.png)](http://meta.stackoverflow.com/users/22164/thetxi)
-</td>
-</tr>
-
-<tr >
-
-<td >[![](http://superuser.com/users/flair/13241.png)](http://superuser.com/users/13241/josh-k)
-</td>
-
-<td >[![](http://webapps.stackexchange.com/users/flair/324.png)](http://webapps.stackexchange.com/users/324/neo)
+<td ><a href="http://meta.stackoverflow.com/users/22164/thetxi"><img src="http://meta.stackoverflow.com/users/flair/22164.png"></a>
 </td>
 </tr>
 
 <tr >
 
-<td >[![](http://gaming.stackexchange.com/users/flair/32.png)](http://gaming.stackexchange.com/users/32/mag-roader)
+<td ><a href="http://superuser.com/users/13241/josh-k"><img src="http://superuser.com/users/flair/13241.png"></a>
 </td>
 
-<td >[![](http://webmasters.stackexchange.com/users/flair/26.png)](http://webmasters.stackexchange.com/users/26/artlung)
+<td ><a href="http://webapps.stackexchange.com/users/324/neo"><img src="http://webapps.stackexchange.com/users/flair/324.png"></a>
 </td>
 </tr>
 
 <tr >
 
-<td >[![](http://answers.onstartups.com/users/flair/1796.png)](http://answers.onstartups.com/users/1796/jeff-oresik)
+<td ><a href="http://gaming.stackexchange.com/users/32/mag-roader"><img src="http://gaming.stackexchange.com/users/flair/32.png"></a>
 </td>
 
-<td >[![](http://android.stackexchange.com/users/flair/3.png)](http://android.stackexchange.com/users/3/othermichael)
+<td ><a href="http://webmasters.stackexchange.com/users/26/artlung"><img src="http://webmasters.stackexchange.com/users/flair/26.png"></a>
+</td>
+</tr>
+
+<tr >
+
+<td ><a href="http://answers.onstartups.com/users/1796/jeff-oresik"><img src="http://answers.onstartups.com/users/flair/1796.png"></a>
+</td>
+
+<td ><a href="http://android.stackexchange.com/users/3/othermichael"><img src="http://android.stackexchange.com/users/flair/3.png"></a>
 </td>
 </tr>
 </table>
@@ -101,24 +101,24 @@ And if you're an avid user, active on multiple sites, we have an extra-special s
 <tr >
 
 <td >
-![](http://stackexchange.com/users/flair/357a269566b44ab99bbd502d6ad0b1ce.png)
+<img src="http://stackexchange.com/users/flair/357a269566b44ab99bbd502d6ad0b1ce.png">
 
 </td>
 
 <td >
-![](http://stackexchange.com/users/flair/30498037168a4055a8490c31c2b1d863.png)
+<img src="http://stackexchange.com/users/flair/30498037168a4055a8490c31c2b1d863.png">
 
 </td>
 </tr>
 <tr >
 
 <td >
-![](http://stackexchange.com/users/flair/c23cf04a6809424b833d19e6d55f2e8d.png)
+<img src="http://stackexchange.com/users/flair/c23cf04a6809424b833d19e6d55f2e8d.png">
 
 </td>
 
 <td >
-![](http://stackexchange.com/users/flair/5091e12f1fdc49d9aec229814923e1c6.png)
+<img src="http://stackexchange.com/users/flair/5091e12f1fdc49d9aec229814923e1c6.png">
 
 </td>
 </tr>

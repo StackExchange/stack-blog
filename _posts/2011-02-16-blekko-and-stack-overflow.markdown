@@ -23,59 +23,59 @@ As [originally announced on meta](http://meta.stackoverflow.com/questions/77441/
 <tr >
 
 <td valign="top" >
-[/android](http://blekko.com/ws/+/android) 
-[/bsd](http://blekko.com/ws/+/bsd) 
-[/cloud](http://blekko.com/ws/+/cloud) 
-[/couchdb](http://blekko.com/ws/+/couchdb) 
-[/css](http://blekko.com/ws/+/css) 
-[/directx](http://blekko.com/ws/+/directx) 
-[/dotnet](http://blekko.com/ws/+/dotnet) 
-[/emacs](http://blekko.com/ws/+/emacs) 
-[/freebsd](http://blekko.com/ws/+/freebsd) 
-[/fsf](http://blekko.com/ws/+/fsf) 
+<a href="http://blekko.com/ws/+/android">/android</a><br/>
+<a href="http://blekko.com/ws/+/bsd">/bsd</a><br/>
+<a href="http://blekko.com/ws/+/cloud">/cloud</a><br/>
+<a href="http://blekko.com/ws/+/couchdb">/couchdb</a><br/>
+<a href="http://blekko.com/ws/+/css">/css</a><br/>
+<a href="http://blekko.com/ws/+/directx">/directx</a><br/>
+<a href="http://blekko.com/ws/+/dotnet">/dotnet</a><br/>
+<a href="http://blekko.com/ws/+/emacs">/emacs</a><br/>
+<a href="http://blekko.com/ws/+/freebsd">/freebsd</a><br/>
+<a href="http://blekko.com/ws/+/fsf">/fsf</a>
 
 </td>
 
 <td valign="top" >
-[/hackerspaces](http://blekko.com/ws/+/hackerspaces) 
-[/hadoop](http://blekko.com/ws/+/hadoop) 
-[/hpc](http://blekko.com/ws/+/hpc) 
-[/ipadapps](http://blekko.com/ws/+/ipadapps) 
-[/it](http://blekko.com/ws/+/it) 
-[/java](http://blekko.com/ws/+/java) 
-[/js](http://blekko.com/ws/+/js) 
-[/lego](http://blekko.com/ws/+/lego) 
-[/linux](http://blekko.com/ws/+/linux) 
-[/mongodb](http://blekko.com/ws/+/mongodb) 
+<a href="http://blekko.com/ws/+/hackerspaces">/hackerspaces</a><br/>
+<a href="http://blekko.com/ws/+/hadoop">/hadoop</a><br/>
+<a href="http://blekko.com/ws/+/hpc">/hpc</a><br/>
+<a href="http://blekko.com/ws/+/ipadapps">/ipadapps</a><br/>
+<a href="http://blekko.com/ws/+/it">/it</a><br/>
+<a href="http://blekko.com/ws/+/java">/java</a><br/>
+<a href="http://blekko.com/ws/+/js">/js</a><br/>
+<a href="http://blekko.com/ws/+/lego">/lego</a><br/>
+<a href="http://blekko.com/ws/+/linux">/linux</a><br/>
+<a href="http://blekko.com/ws/+/mongodb">/mongodb</a>
 
 </td>
 
 <td valign="top" >
-[/ms](http://blekko.com/ws/+/ms) 
-[/nosql](http://blekko.com/ws/+/nosql) 
-[/open-source](http://blekko.com/ws/+/open-source) 
-[/opengl](http://blekko.com/ws/+/opengl) 
-[/perl](http://blekko.com/ws/+/perl) 
-[/php](http://blekko.com/ws/+/php) 
-[/python](http://blekko.com/ws/+/python) 
-[/rails](http://blekko.com/ws/+/rails) 
-[/ruby](http://blekko.com/ws/+/ruby) 
-[/so](http://blekko.com/ws/+/so) 
+<a href="http://blekko.com/ws/+/ms">/ms</a><br/>
+<a href="http://blekko.com/ws/+/nosql">/nosql</a><br/>
+<a href="http://blekko.com/ws/+/open-source">/open-source</a><br/>
+<a href="http://blekko.com/ws/+/opengl">/opengl</a><br/>
+<a href="http://blekko.com/ws/+/perl">/perl</a><br/>
+<a href="http://blekko.com/ws/+/php">/php</a><br/>
+<a href="http://blekko.com/ws/+/python">/python</a><br/>
+<a href="http://blekko.com/ws/+/rails">/rails</a><br/>
+<a href="http://blekko.com/ws/+/ruby">/ruby</a><br/>
+<a href="http://blekko.com/ws/+/so">/so</a>
 
 </td>
 
 <td valign="top" >
-[/sql](http://blekko.com/ws/+/sql) 
-[/tech](http://blekko.com/ws/+/tech) 
-[/techblogs](http://blekko.com/ws/+/techblogs) 
-[/ubuntu](http://blekko.com/ws/+/ubuntu) 
-[/unix](http://blekko.com/ws/+/unix) 
-[/utf8](http://blekko.com/ws/+/utf8) 
-[/ux](http://blekko.com/ws/+/ux) 
-[/videogames](http://blekko.com/ws/+/videogames) 
-[/vim](http://blekko.com/ws/+/vim) 
-[/webdesign](http://blekko.com/ws/+/webdesign) 
-[/windows](http://blekko.com/ws/+/windows) 
+<a href="http://blekko.com/ws/+/sql">/sql</a><br/>
+<a href="http://blekko.com/ws/+/tech">/tech</a><br/>
+<a href="http://blekko.com/ws/+/techblogs">/techblogs</a><br/>
+<a href="http://blekko.com/ws/+/ubuntu">/ubuntu</a><br/>
+<a href="http://blekko.com/ws/+/unix">/unix</a><br/>
+<a href="http://blekko.com/ws/+/utf8">/utf8</a><br/>
+<a href="http://blekko.com/ws/+/ux">/ux</a><br/>
+<a href="http://blekko.com/ws/+/videogames">/videogames</a><br/>
+<a href="http://blekko.com/ws/+/vim">/vim</a><br/>
+<a href="http://blekko.com/ws/+/webdesign">/webdesign</a><br/>
+<a href="http://blekko.com/ws/+/windows">/windows</a>
 
 </td>
 </table>

@@ -26,21 +26,21 @@ It's only appropriate that, after [adding per-site metas](http://blog.stackoverf
 <table cellpadding="4" width="600" cellspacing="4" >
 <tr >
 
-<td >`superuser.com`
+<td ><code>superuser.com</code>
 </td>
 <td >Q&A; for computer enthusiasts and power users
 </td>
 </tr>
 <tr >
 
-<td >`meta.superuser.com`
+<td ><code>meta.superuser.com</code>
 </td>
 <td >community organization and discussion about the site itself
 </td>
 </tr>
 <tr >
 
-<td >`chat.superuser.com`
+<td ><code>chat.superuser.com</code>
 </td>
 <td >real time chat "third place" for regulars
 </td>

@@ -30,12 +30,12 @@ We had originally envisioned careers as a completely private subscription servic
 
 <table width="450" >
 <tr >
-<td width="100" valign="top" >**Publish CV**
+<td width="100" valign="top" ><strong>Publish CV</strong>
 </td>
 <td >free, public CVs for any working programmer who wants one, at the URL of their choice.
 </td></tr>
 <tr >
-<td width="100" valign="top" >**File CV**
+<td width="100" valign="top" ><strong>File CV</strong>
 </td>
 <td >subscribe for a nominal fee, and make your private CV visible to and searchable by hiring managers
 </td></tr>

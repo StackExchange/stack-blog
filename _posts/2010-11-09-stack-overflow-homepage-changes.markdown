@@ -51,7 +51,7 @@ Next, apply the following score formula to the remaining questions:
 <table cellpadding="4" width="600" cellspacing="4" >
 <tr >
 
-<td >your [interesting tags](http://blog.stackoverflow.com/2008/10/expressing-your-tag-preferences/)
+<td >your <a href="http://blog.stackoverflow.com/2008/10/expressing-your-tag-preferences/">interesting tags</a>
 </td>
 
 <td >+1,500 per interesting tag, up to +2,000 total
