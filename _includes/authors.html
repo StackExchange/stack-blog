@@ -1,11 +1,11 @@
 <div id="authors-container">
-	{% for i in (1..5) %}
-	<div class="author-container small -col6">
-	  	<a class="avatar-link" href=""><img class="avatar"></a>
-	  	<div class="info">
-	  		<h2 class="h4 author-name"><a class="name-link" href=""></a></h2>
-	  		<p class="job"></p>
-	  	</div>
-	</div>
+	{% for author in paginator.latest_authors limit: 5 %}
+    <div class="author-container small -col6">
+        <a class="avatar-link" href="{{ author.url }}"><img class="avatar" src="{{ author.avatar }}"></a>
+        <div class="info">
+            <h2 class="h4 author-name"><a class="name-link" href="{{ author.url }}">{{ author.name }}</a></h2>
+            <p class="job">{{ author.job }}</p>
+        </div>
+    </div>
 	{% endfor %}
 </div>
