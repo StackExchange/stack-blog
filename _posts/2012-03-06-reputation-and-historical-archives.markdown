@@ -54,7 +54,7 @@ And _nothing_ makes you feel that pain quite like reminding you of it with a bri
 
 ![](/images/wordpress/badrep.png)
 
-As you can see in that screenshot, there's an actual_ link_ to the deleted answer - this is **the first time we've made that information available!** And the response to it was immediate: folks went through their histories, looked at all the deleted questions and answers, and found a bunch of stuff that, while not_ strictly_ compliant with current practices on Stack Overflow, [probably shouldn't have been deleted](http://stackoverflow.com/questions/432922/significant-new-inventions-in-computing-since-1980).
+As you can see in that screenshot, there's an actual _link_ to the deleted answer - this is **the first time we've made that information available!** And the response to it was immediate: folks went through their histories, looked at all the deleted questions and answers, and found a bunch of stuff that, while not _strictly_ compliant with current practices on Stack Overflow, [probably shouldn't have been deleted](http://stackoverflow.com/questions/432922/significant-new-inventions-in-computing-since-1980).
 
 In short, fixing one bug (inaccurate reputation history) exposed several others (a flawed deletion process and a lack of respect for important past contributions) and created a new one (humiliating display of reputation on deleted questions).
 
@@ -73,7 +73,7 @@ So after[ much discussion on Meta Stack Overflow](http://meta.stackoverflow.com/
 
 In fast-changing professions, there should be no shame in contributing valuable information just because it eventually goes out of date - and there shouldn't be a penalty for deleting it when it does. Naturally, editing to bring an answer up-to-date is preferable - but if someone else already posted a good answer with current information, you should be able to remove yours and keep the reward for the time it _was_ useful.
 
-**Second**, we won't display reputation lost to deleted questions on your profile unless you explicitly ask for it, and won't display it _at all _to other people (apart from moderators). This was an egregious privacy violation, and we sincerely apologize for not catching it sooner.
+**Second**, we won't display reputation lost to deleted questions on your profile unless you explicitly ask for it, and won't display it _at all_ to other people (apart from moderators). This was an egregious privacy violation, and we sincerely apologize for not catching it sooner.
 
 **Third**, it should be easier for the community to both delete AND undelete most questions. Previously, it could take hundreds of votes to remove some of these extremely popular questions - that sounds good, but in practice it just meant folks gave up voting and asked moderators to delete for them. Creating more grief for moderators and less democracy was never the intention - from here on out, it will take at least three and at most 10 votes to delete even the most popular questions, and an equivalent number to undelete them.
 
