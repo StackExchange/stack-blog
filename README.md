@@ -138,14 +138,7 @@ You can always set your posts as drafts. You can do this by adding the line `dra
 
 Every post is required to have at least one tag: either `company` or `engineering` depending on which channel it belongs on (it can also have both). You can then add any additional tags afterwards.
 
-Jekyll has some support for tags, but requires that you do a little bit of work in order to make sure new tags are accommodated. All tags must have a markdown file named after the tag in the `_tags` folder. For example, the `onboarding` tag markdown file `onboarding.md` looks like this:
-```
----
-layout: tag
-slug: onboarding
----
-```
-When writing a new post, you can add space separated tags at the top of the post markdown file. 
+When writing a new post, you can add listed tags at the top of the post markdown file. 
 ```
 ---
 layout: post
@@ -158,7 +151,6 @@ tags:
 ---
 
 ```
-Any tags that already have an associated markdown file in the `_tags` folder will get its own page at `/tags/[tag-name]` and will be featured on the homepage. However, if you are adding a new tag, make sure that you create the appropriate markdown file in the `_tags` folder.
 
 **Where to get good hero images**
  - [Unsplash](https://unsplash.com/grid)

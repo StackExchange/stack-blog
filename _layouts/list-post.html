@@ -1,4 +1,3 @@
-{% for post in posts %}
 {% assign author = site.authors | where: "id", post.author | first %}
 <article class="preview-post post">
   {% if post.hero %}{% unless post.tags contains 'podcasts' %}
@@ -19,10 +18,9 @@
     <div class="clearfix"></div>
 
     <div class="entry">
-      <p class="excerpt">{% if post.description %}{{ post.description | strip_html | strip_newlines }}{% else %}{% if post.excerpt %}{{ post.excerpt | markdownify | strip_html | strip_newlines }}{% else %}{{ site.description }}{% endif %}{% endif %}</p>
+      <p class="excerpt">{% if post.description %}{{ post.description | strip_html | strip_newlines }}{% elsif post.excerpt %}{{ post.excerpt | markdownify | strip_html | strip_newlines }}{% else %}{{ site.description }}{% endif %}</p>
     </div>
       
     <a href="{{ post.url }}" class="read-more">Read more <i class="blog-icon read-more"></i></a>
   </div>
 </article>
-{% endfor %}
