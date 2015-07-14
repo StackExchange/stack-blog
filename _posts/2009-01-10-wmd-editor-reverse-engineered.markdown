@@ -78,5 +78,5 @@ Now that we've gotten the painful de-obfuscation / un-minification out of the wa
 
 
 
-Anyway, if you have JavaScript chops and want to dive in, I **encourage you to [grab the repository**](http://code.google.com/p/wmd-new/) and go for it!
+Anyway, if you have JavaScript chops and want to dive in, I **encourage you to [grab the repository](http://code.google.com/p/wmd-new/)** and go for it!
 

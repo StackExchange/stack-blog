@@ -15,7 +15,7 @@ tags:
 
 So as you may have heard in the news, the east coast got hit pretty hard by Hurricane Sandy - in particular, our datacenter in Lower Manhattan was almost knocked entirely offline.  If not for the incredible efforts of Fog Creek Software, Squarespace, and Peer1 (the datacenter) there would have certainly been days of outages for everyone involved.
 
-We've got a ton of people from Stack, Fog Creek and Squarespace on to tell the CRAZY story of exactly what happened last week! Guests include: **David Fullerton****,** VP Engineering at Stack Exchange; **Geoff Dalgas & Nick Craver, **both core developers at Stack Exchange;** Alex Miller**; **Michael Pryo**r; **Mendy Berkowitz**, lead sysadmin for Fog Creek; **Babak Ghaheremanpour**, longtime Creeker; **Anthony Casalena**, CEO and founder of [Squarespace](http://www.squarespace.com/).
+We've got a ton of people from Stack, Fog Creek and Squarespace on to tell the CRAZY story of exactly what happened last week! Guests include: **David Fullerton****,** VP Engineering at Stack Exchange; **Geoff Dalgas & Nick Craver**, both core developers at Stack Exchange; **Alex Miller**; **Michael Pryor**; **Mendy Berkowitz**, lead sysadmin for Fog Creek; **Babak Ghaheremanpour**, longtime Creeker; **Anthony Casalena**, CEO and founder of [Squarespace](http://www.squarespace.com/).
 
 We're planning on telling the whole story of Hurricane Sandy - it's roughly in chronological order here
 
