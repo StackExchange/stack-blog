@@ -25,7 +25,7 @@ In a yearly tradition at Stack Exchange, we set aside this time of year to [make
 As a small gesture of thanks, we would like to make a **$100 donation to charity on behalf of each community moderator**. The link below leads to a brief form where you can select which charity you wish to receive the donation.
 
 > 
-> #### ******Select Your "Giving Back" Charity******
+> **Select Your "Giving Back" Charity**
 > 
 > 
 It is my hope that, together, we can continue this tradition year after year — and with 220+ moderators, that donation will only continue to increase.
@@ -33,7 +33,7 @@ It is my hope that, together, we can continue this tradition year after year —
 >
 So, thanks to everyone who participated in Stack Exchange. Thank you for generously contributing your time, your passion, and your leadership, all of which made these donations possible.
 
-> - The Stack Exchange Team
+> \- The Stack Exchange Team
 
 
 We started with [12 moderators](http://blog.stackoverflow.com/2009/12/stack-overflow-gives-back/), [then 130](http://blog.stackoverflow.com/2010/12/stack-overflow-gives-back-2010/) — and now **[on behalf of the 228 moderators of Stack Exchange](http://stackexchange.com/about/moderators?by=users)**, we made a donation to the following charities this holiday season:

@@ -18,7 +18,7 @@ We've noticed that our site-specific blogs have some amazing content that just i
 
 [**Fitness**](http://fitness.blogoverflow.com/)
 
-****Fitness has a post that struck a chord with a lot of us: [Finding a Fitness Niche](http://fitness.blogoverflow.com/2011/10/finding-a-fitness-niche/). The author shares a story that felt a little too close for comfort; despite having done a lot of different athletic things in his youth, he had trouble finding an activity that both piqued and held his interest. It's something we think many people, techies and geeks and civilians alike, have trouble with.
+Fitness has a post that struck a chord with a lot of us: [Finding a Fitness Niche](http://fitness.blogoverflow.com/2011/10/finding-a-fitness-niche/). The author shares a story that felt a little too close for comfort; despite having done a lot of different athletic things in his youth, he had trouble finding an activity that both piqued and held his interest. It's something we think many people, techies and geeks and civilians alike, have trouble with.
 
 
 <blockquote>I’m a nerd. I’ve always been one since I was a kid. I never grasped the rules of sports that other kids just seemed to innately understand. I lacked coordination, strength, and speed which resulted in me being picked almost always last for any kind of team sport. That was a regular experience for me since early elementary school all throughout the end of high school.</blockquote>

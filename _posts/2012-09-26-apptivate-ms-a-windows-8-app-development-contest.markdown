@@ -41,10 +41,7 @@ You can participate - and win prizes - in both categories, so even if you aren�
 # Developer Contest
 
 
-The Developer Contest awards prizes for the best apps in 5 broad Groups: Knowledge, Games, Interest, Work, and Social.  Here’s how it works:****
-****
-
-
+The Developer Contest awards prizes for the best apps in 5 broad Groups: Knowledge, Games, Interest, Work, and Social.  Here’s how it works:
 
 	
   1. **Create a Windows 8 app** and submit it to Apptivate.MS by December 6
@@ -59,9 +56,7 @@ The Developer Contest awards prizes for the best apps in 5 broad Groups: Knowled
   4. One winner will be chosen by the Stack Exchange and Microsoft judges to win the **Grand Prize** on December 19
 
 
-****
-****Two Grand Prize winners* will be awarded:****
-****
+Two Grand Prize winners* will be awarded:
 
 
 ### **$5,000 Cash Grand Prize**
@@ -77,8 +72,7 @@ The Developer Contest awards prizes for the best apps in 5 broad Groups: Knowled
 ### **+ Promotion in Microsoft’s User Community**
 
 
-****
-****The top 3 apps in each category will win a **Voter’s Choice Prize**:
+The top 3 apps in each category will win a **Voter’s Choice Prize**:
 
 
 [![](http://blog.stackoverflow.com/wp-content/uploads/dev-prizes2.png)](http://apptivate.ms/contest#developer-contest)
@@ -100,15 +94,9 @@ The Developer Contest awards prizes for the best apps in 5 broad Groups: Knowled
 ### 5 third-place winners: **Windows 8**
 
 
-**Submit early and often.  **Your first submission doesn’t have to be final -- in fact, you’re encouraged to submit early and get feedback to develop your app further.  The votes will be reset for the semi-final round so everyone can vote on your final submission.
+**Submit early and often.**  Your first submission doesn’t have to be final -- in fact, you’re encouraged to submit early and get feedback to develop your app further.  The votes will be reset for the semi-final round so everyone can vote on your final submission.
 
 See the full [Rules, Terms & Conditions](http://apptivate.ms/contest#rules-terms-conditions) and the [Submission Guidelines](http://apptivate.ms/apps/guidelines) on Apptivate.ms for more information.
-
-
-
-
-# 
-
 
 
 
@@ -147,7 +135,7 @@ See the full [Rules, Terms & Conditions](http://apptivate.ms/contest#rules-terms
 
 
 
-## ****Getting Started****
+## **Getting Started**
 
 
 
@@ -155,13 +143,7 @@ See the full [Rules, Terms & Conditions](http://apptivate.ms/contest#rules-terms
 Thinking about developing an App, but not sure where to get started?  Check out the [Resources page](http://apptivate.ms/resources) for some helpful links and tips.
 
 
-Prefer to assist others writing apps?  [Register your Stack Overflow](http://apptivate.ms/login) account on [Apptivate.MS](http://apptivate.ms/) now to be eligible for reviewer prizes, and then ask, answer, or share [Windows 8 questions](http://apptivate.ms/questions) on Stack Overflow to get started.****
-****
-
-
-# 
-
-
+Prefer to assist others writing apps?  [Register your Stack Overflow](http://apptivate.ms/login) account on [Apptivate.MS](http://apptivate.ms/) now to be eligible for reviewer prizes, and then ask, answer, or share [Windows 8 questions](http://apptivate.ms/questions) on Stack Overflow to get started.
 
 
 # [Register on Apptivate.ms now](http://apptivate.ms/login)!
@@ -176,4 +158,4 @@ Prefer to assist others writing apps?  [Register your Stack Overflow](http://ap
 
 
 
-_*_NO PURCHASE NECESSARY. A PURCHASE WILL NOT INCREASE YOUR CHANCES OF WINNING. OPEN TO AGES 18 AND OLDER AND WHO DID NOT PURCHASE ANY EQUIPMENT FOR PURPOSES OF ENTERING THE PROMOTION. VOID WHERE PROHIBITED. Enter Contest by: 12/6/12. Enter Sweepstakes by: 12/16/12. For Official Rules, prize descriptions, alternate method of entry, and odds disclosure, visit [http://apptivate.ms](http://apptivate.ms).**  **Sponsor: Microsoft Corporation, One Microsoft Way, Redmond, WA 98052, U.S.A.
+_*_ NO PURCHASE NECESSARY. A PURCHASE WILL NOT INCREASE YOUR CHANCES OF WINNING. OPEN TO AGES 18 AND OLDER AND WHO DID NOT PURCHASE ANY EQUIPMENT FOR PURPOSES OF ENTERING THE PROMOTION. VOID WHERE PROHIBITED. Enter Contest by: 12/6/12. Enter Sweepstakes by: 12/16/12. For Official Rules, prize descriptions, alternate method of entry, and odds disclosure, visit [http://apptivate.ms](http://apptivate.ms).  Sponsor: Microsoft Corporation, One Microsoft Way, Redmond, WA 98052, U.S.A.

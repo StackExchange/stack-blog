@@ -63,7 +63,7 @@ Welcome to Stack Exchange Podcast #42 - it's our usual gang back this week with 
   * On to our next topic. We are changing some things with how duplicates work. We want to make it more positive! (It's the [you lucky bastard] close reason.) This is the first closing change, and it's going out in the next week or so.
 
 
-Well that's the podcast for this week!  ****Thanks for tuning in, and now for our standard disclaimers:
+Well that's the podcast for this week! Thanks for tuning in, and now for our standard disclaimers:
 
 
 ###### _This podcast is not sponsored by self-driving car manufacturer Audible.com. Alexis Ohanian did not invent the DVR. YouTube is the place where you go to watch [kids eat cinnamon](http://www.cinnamonchallenge.com/). Join us next week when Alexis Ohanian eats a spoonful of cinnamon! Alex is not fired because correlation definitely implies causation._

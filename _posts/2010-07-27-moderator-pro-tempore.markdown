@@ -38,7 +38,7 @@ A Moderator is the site's representative to the Network.
   * If there's a feature request for a _specific_ site, it's up to that community to vet the idea in their own meta. If the idea has merit, the Moderator would bring it to the Stack Exchange team.
 
 
-**We need leadership from within the community to help each site succeed_,_** and Moderators assure that that _their_ site is well represented.
+**We need leadership from within the community to help each site succeed**, and Moderators assure that that _their_ site is well represented.
 
 ![](/images/wordpress/leadership.jpg)
 
@@ -86,7 +86,7 @@ Candidates will be contacted and three of them will be selected to act as provis
   2. Organize the process of selecting the site's attributes (domain names, design issues, the FAQ, etc.).
 
 	
-  3. Rally community support and drive the mission of** **getting publicity for the site.
+  3. Rally community support and drive the mission of getting publicity for the site.
 
 
 Essentially, **they will have the ear of the Stack Exchange team for anything we can do to help their sites succeed!**

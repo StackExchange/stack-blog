@@ -60,7 +60,7 @@ If you search for your city (or a city near you) and don’t see it in the resul
 
 Your event can take whatever shape suits your local community. Feeling generous? Plan group volunteering activities. Have a great open-source project you’ve been working on? Present it! Know someone who loves to talk programming in front of crowds? Ask them to guest speak! Or, plan an [Ignite](http://igniteshow.com/)-style event where anyone can present an idea in five minutes or less. The options are endless.
 
-To help you get started planning an event, take a look at what some of [our users did last year](http://blog.stackoverflow.com/2011/03/attend-one-of-stack-overflows-250-world-wide-meetups-2/) or hop over to the Worldwide Meetup [chat room](http://chat.stackoverflow.com/rooms/632/worldwide-meetup-day) to trade ideas and stories with other Meetup planners.********
+To help you get started planning an event, take a look at what some of [our users did last year](http://blog.stackoverflow.com/2011/03/attend-one-of-stack-overflows-250-world-wide-meetups-2/) or hop over to the Worldwide Meetup [chat room](http://chat.stackoverflow.com/rooms/632/worldwide-meetup-day) to trade ideas and stories with other Meetup planners.
 
 
 ## What if I’m busy on April 28th?
@@ -91,12 +91,11 @@ Join your local community (or create a new community location) on [meetup.com/st
 
 
 
-## **
-**How will Stack Exchange help?
+## How will Stack Exchange help?
 
 
 We’re dedicated to the success of these Meetups just as much as you are. We’ll be posting more tips here on our blog to make sure you’re well-prepared to host an awesome event. We’ll put ads on our network to help spread the word, and we’ll share event details via our own social media platforms. We’ll send door prizes to the groups that build up the biggest following leading up to the Meetup Day. We’ll collect your stories, tweets, and photos to share on our blog after the event.
 
 
 
-* For those of you who aren’t programmers, hackers or designers - fear not! We haven’t forgotten you; stay tuned for news of a possible network-wide event later this year. 
+\* <small>For those of you who aren’t programmers, hackers or designers - fear not! We haven’t forgotten you; stay tuned for news of a possible network-wide event later this year.</small>
