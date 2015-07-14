@@ -48,6 +48,9 @@ url: http://dev.blog.stackexchange.com
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
+# Host name for careers-jobs ad server
+adshost: clc.dev.stackoverflow.com
+
 collections:
   authors:
     output: true
