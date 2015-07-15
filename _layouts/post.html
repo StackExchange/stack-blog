@@ -13,7 +13,7 @@ layout: default
 	<div class="hero no-image">
 	{% else %}
 	<div class="hero" style="background: linear-gradient(
-      rgba(37, 43, 51, 0.35), 
+      rgba(37, 43, 51, 0.35),
       rgba(37, 43, 51, 0.35)
     ), url('{{ page.hero }}'); background-size: cover;">
 	{% endif %}
@@ -23,7 +23,7 @@ layout: default
 			{% for author in site.authors %}
 			{% if author.id == page.author %}
 				<a href="{{ site.baseurl }}/authors/{{ author.id }}"><img src="{{ author.avatar }}" ></a>
-				<h2 class="h4 author-name">by <a href="{{ site.baseurl }}/authors/{{ author.id }}">{{ author.name }}</a></h2>
+				<h2 class="h4 author-name">by <a href="{{ site.baseurl }}/authors/{{ author.id }}/">{{ author.name }}</a></h2>
 			{% endif %}
 			{% endfor %}
 				<div class="date">on {{ page.date | date: "%B %e, %Y" }}</div>
@@ -43,14 +43,14 @@ layout: default
 				    	<div class="-col6 _textLeft">
 				    	{% for author in site.authors %}
 						{% if author.id == page.author %}
-							<p>By <a href="{{ site.baseurl }}/authors/{{ author.id }}">{{ author.name }}</a>, {{ author.job }}</p>
+							<p>By <a href="{{ site.baseurl }}/authors/{{ author.id }}/">{{ author.name }}</a>, {{ author.job }}</p>
 						{% endif %}
 						{% endfor %}
 					    </div>
 					    <div class="-col6 _textRight">
 					    	<p><strong>Tagged in</strong>&nbsp;
 							{% for tag in page.tags %}
-								<a href="{{ site.baseurl }}/tags/{{ tag }}"><span class="postTag">{{ tag }}</span></a>
+								<a href="{{ site.baseurl }}/tags/{{ tag }}/"><span class="postTag">{{ tag }}</span></a>
 							{% endfor %}</p>
 					    </div>
 				    </div>

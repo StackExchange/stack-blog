@@ -11,9 +11,9 @@ top_nav: authors
 		<div class="authors -row">
 		{% endif %}
 			<div class="author-container large -col6">
-			  	<a href="{{ site.baseurl}}/authors/{{ author.id }}"><img src="{{ author.avatar }}" class="avatar"></a>
+			  	<a href="{{ site.baseurl}}/authors/{{ author.id }}/"><img src="{{ author.avatar }}" class="avatar"></a>
 			  	<div class="info">
-			  		<h2 class="h4 author-name"><a href="{{ site.baseurl}}/authors/{{ author.id }}">{{ author.name }}</a></h2>
+			  		<h2 class="h4 author-name"><a href="{{ site.baseurl}}/authors/{{ author.id }}/">{{ author.name }}</a></h2>
 			  		<h3 class="h5">{{ author.job }}</h3>
 			  		<h3 class="h5 author-info">
 			  			{% if author.twitter %}<a href="https://twitter.com/{{ author.twitter }}">@{{ author.twitter }}</a>{% endif %}
