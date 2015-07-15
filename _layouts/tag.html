@@ -21,7 +21,7 @@ layout: default
 				<section>
 				<h4>Other Tags</h4>
 				{% for tag in paginator.top_tags %}
-				<p><a href="{{ site.baseurl }}/tags/{{ tag.slug }}"><span class="postTag">{{ tag.name }}</span></a> ({{ tag.count }})</p>
+				<p><a href="{{ site.baseurl }}/tags/{{ tag.slug }}/"><span class="postTag">{{ tag.name }}</span></a> ({{ tag.count }})</p>
 				{% endfor %}
 				</section>
 			</div>
