@@ -20,7 +20,7 @@ My background
 ---------------
 
 
-[![A mobile developer's desk at Stack Exchange](http://i.imgur.com/0h7IQQi.jpg)](http://i.imgur.com/0h7IQQi.jpg)
+[![A mobile developer's desk at Stack Exchange](https://i.imgur.com/0h7IQQi.jpg)](https://i.imgur.com/0h7IQQi.jpg)
 *A mobile developer's desk at Stack Exchange*
 
 I'm part of a small, but lucky subset of developers who graduated from university in early 2009 -- a time when the US recession was still looming in the mind of every college student preparing themselves for a bleak job market. On the other hand, this was only about 9 months after Apple had released the first iOS SDK, and only 3 months after Google released their rival product, the Android SDK.
@@ -40,7 +40,7 @@ The Stack Exchange mobile app
 
 When I came to work at Stack Exchange in mid 2013, I was the first iOS developer to be hired. Kasra Rahjerdi had recently joined to work on Android, and Brian Nickel was hired soon after to work on iOS as well. We already had the comprehensive Stack Exchange API, but only a rudimentary app that some employees started working on. We rolled our sleeves, dug in, and released the first [iOS version](https://blog.stackexchange.com/2014/05/stack-exchange-for-iphone-is-here/) in May of 2014.
 
-[![Working on the Stack Exchange iOS app from a rented apartment in Argentina](http://i.imgur.com/gEzD4Pl.jpg)](http://i.imgur.com/gEzD4Pl.jpg)
+[![Working on the Stack Exchange iOS app from a rented apartment in Argentina](https://i.imgur.com/gEzD4Pl.jpg)](https://i.imgur.com/gEzD4Pl.jpg)
 *Working on the Stack Exchange iOS app from a rented apartment in Argentina*
 
 After some time, I got an itch. I needed a change.
@@ -58,7 +58,7 @@ How The Change Happened
 
 One fateful morning, I received the following e-mail from our VP of engineering: 
 
-[![David's E-mail about hiring plans](http://i.imgur.com/L78hiGv.jpg "...think about if you're interesting in trying for another team")](http://i.imgur.com/L78hiGv.jpg)
+[![David's E-mail about hiring plans](https://i.imgur.com/L78hiGv.jpg "...think about if you're interesting in trying for another team")](https://i.imgur.com/L78hiGv.jpg)
 
 Whatever doubts I had about moving teams were set aside, and I seized the opportunity to explore a new tech stack and team. Obviously this was not a new practice at Stack Exchange — we've had several developers move and create new teams 
 like our ad server team or the data science team that works on the [providence project](http://kevinmontrose.com/2015/01/27/providence-machine-learning-at-stack-exchange/). We've even had a few brave souls who have become engineering managers. However, that simple suggestion by our VP
@@ -71,7 +71,7 @@ Getting Up To Speed
 
 I feel pretty good ramping up to "not quite mastery, but can get things done" within a month or so. With the aid of some excellent setup scripts, I had a working and running development instance of Careers in *less than a day's time*. The scripts are simply a series of batch files that lead you from a fresh-windows install through installing Visual Studio, cloning all the necessary repos, setting up the MS SQL database instance, setting up Redis, Elastic Search, and even IIS.
 
-[![A screenshot of one of our setup scripts](http://i.imgur.com/jPgMXsM.png?1 "A screenshot of one of our setup scripts")](http://i.imgur.com/jPgMXsM.png?1)
+[![A screenshot of one of our setup scripts](https://i.imgur.com/jPgMXsM.png?1 "A screenshot of one of our setup scripts")](https://i.imgur.com/jPgMXsM.png?1)
 
 I spent the first week pouring over a book on the ASP.NET MVC Framework. I had used C# quite a bit in a previous internship, so had no trouble there. I still felt a bit rusty on my frontend chops, especially when it came to newer JS frameworks, so I spent a little bit of time playing with Angular JS, as well as attending the O'Reilly Fluent conference in San Francisco (paid for by Stack Exchange, of course). Like many others, **Stack Overflow was integral to filling in any gaps and learning by example**, which I think really helps cement everything in.
 
@@ -82,7 +82,7 @@ First Steps
 ------------------
 My first task as a Careers developer involved allowing our customers to buy job listings of different durations online. Until then, customers could buy 30-day listings by themselves, but would need to call a sales person to get a 60-day, 90-day or longer listing. Our checkout funnel was also promoting the idea of buying in bulk, and while this is still possible (and cheaper per unit!), we know that longer listings tend to make our customers more successful in completing a hire. 
 
-[![The new Job Listings checkout form, now with longer listings](http://i.imgur.com/JzzMNb7.jpg)](http://i.imgur.com/JzzMNb7.jpg)
+[![The new Job Listings checkout form, now with longer listings](https://i.imgur.com/JzzMNb7.jpg)](https://i.imgur.com/JzzMNb7.jpg)
 *The new Job Listings checkout form, now with longer listings*
 
 These two small, seemingly innocuous changes involved touching quite a few parts of the codebase, since the assumption of a 30-day job listings was sprinkled here and there. Though not a particularly interesting problem technically, it was small enough in scope that I could complete it quickly, learn a lot about our codebase, talk to many different people throughout the organization, and get get something shipped within a few weeks. The actual implementation only took 2-3 days; the feature was shipped a littler later while waiting on some verification from our marketing team for new prices, and some updates to localized copy.
