@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0'>
-    
+
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
     <meta name="author" content="{{ site.name }}" />
@@ -42,12 +42,12 @@
       <div class="inner-container -row">
         <div class="-col4">
           <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
-        </div>      
+        </div>
         <nav class="-col8 hidden-nav">
           <a class="home{% if page.top_nav == "home" %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
-          <a class="company{% if page.top_nav == "company" %} active{% endif %}" href="{{ site.baseurl }}/company">Company News</a>
-          <a class="engineering{% if page.top_nav == "engineering" %} active{% endif %}" href="{{ site.baseurl }}/engineering">Engineering</a>
-          <a class="authors{% if page.top_nav == "authors" %} active{% endif %}" href="{{ site.baseurl }}/authors">Contributors</a>
+          <a class="company{% if page.top_nav == "company" %} active{% endif %}" href="{{ site.baseurl }}/company/">Company News</a>
+          <a class="engineering{% if page.top_nav == "engineering" %} active{% endif %}" href="{{ site.baseurl }}/engineering/">Engineering</a>
+          <a class="authors{% if page.top_nav == "authors" %} active{% endif %}" href="{{ site.baseurl }}/authors/">Contributors</a>
         </nav>
       </div>
     </header>
