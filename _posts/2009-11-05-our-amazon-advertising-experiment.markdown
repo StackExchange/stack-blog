@@ -73,10 +73,10 @@ You can read the full skinny in [Portman's summary](http://blog.stackoverflow.co
 <tr >
 
 <td >
-![so-amazon-ads](/images/wordpress/so-amazon-ads.png)
+<img src="/images/wordpress/so-amazon-ads.png" alt="so-amazon-ads">
 
 <td >
-![so-amazon-ads-2](/images/wordpress/so-amazon-ads-2.png)
+<img src="/images/wordpress/so-amazon-ads-2.png" alt="so-amazon-ads-2">
 </tr>
 </table>
 

@@ -35,7 +35,7 @@ In fact, we've added a bevy of new badges in the last 6 months or so that we hav
 
 <tr >
 <td >
-![](/images/wordpress/analytical-badge.png)
+<img src="/images/wordpress/analytical-badge.png">
 
 </td>
 <td >
@@ -45,7 +45,7 @@ Visited every section of the FAQ
 
 <tr >
 <td >
-![](/images/wordpress/excavator-badge.png)
+<img src="/images/wordpress/excavator-badge.png">
 
 </td>
 <td >
@@ -55,7 +55,7 @@ Edited first post that was inactive for 6 months
 
 <tr >
 <td >
-![](/images/wordpress/archaeologist-badge.png)
+<img src="/images/wordpress/archaeologist-badge.png">
 
 </td>
 <td >
@@ -65,7 +65,7 @@ Edited 100 posts that were inactive for 6 months
 
 <tr >
 <td >
-![](/images/wordpress/deputy-badge.png)
+<img src="/images/wordpress/deputy-badge.png">
 
 </td>
 <td >
@@ -75,7 +75,7 @@ Achieved a flag weight of 500 by reviewing and flagging appropriately
 
 <tr >
 <td >
-![](/images/wordpress/marshal-badge.png)
+<img src="/images/wordpress/marshal-badge.png">
 
 </td>
 <td >
@@ -85,61 +85,61 @@ Achieved a flag weight of 749 by reviewing and flagging appropriately
 
 <tr >
 <td >
-![](/images/wordpress/proofreader-badge.png)
+<img src="/images/wordpress/proofreader-badge.png">
 
 </td>
 <td >
-Approved or rejected 100 [suggested edits](http://blog.stackoverflow.com/2011/02/suggested-edits-and-edit-review/)
+Approved or rejected 100 <a href="http://blog.stackoverflow.com/2011/02/suggested-edits-and-edit-review/">suggested edits</a>
 
 </td></tr>
 
 <tr >
 <td >
-![](/images/wordpress/synonymizer-badge.png)
+<img src="/images/wordpress/synonymizer-badge.png">
 
 </td>
 <td >
-First approved [tag synonym](http://blog.stackoverflow.com/2010/08/tag-folksonomy-and-tag-synonyms/)
+First approved <a href="http://blog.stackoverflow.com/2010/08/tag-folksonomy-and-tag-synonyms/">tag synonym</a>
 
 </td></tr>
 
 <tr >
 <td >
-![](/images/wordpress/tag-editor-badge.png)
+<img src="/images/wordpress/tag-editor-badge.png">
 
 </td>
 <td >
-First [tag wiki edit](http://blog.stackoverflow.com/2010/08/new-tag-info-pages/)
+First <a href="http://blog.stackoverflow.com/2010/08/new-tag-info-pages/">tag wiki edit</a>
 
 </td></tr>
 
 <tr >
 <td >
-![](/images/wordpress/vox-populi-badge.png)
+<img src="/images/wordpress/vox-populi-badge.png">
 
 </td>
 <td >
-Used the maximum [40 votes in a day](http://blog.stackoverflow.com/2011/05/vote-for-this-question-or-the-kitten-gets-it/)
+Used the maximum <a href="http://blog.stackoverflow.com/2011/05/vote-for-this-question-or-the-kitten-gets-it/">40 votes in a day</a>
 
 </td></tr>
 
 <tr >
 <td >
-![](/images/wordpress/quorum-badge.png)
+<img src="/images/wordpress/quorum-badge.png">
 
 </td>
 <td >
-One post with score of 2 [on meta](http://blog.stackoverflow.com/2010/07/new-per-site-metas/)
+One post with score of 2 <a href="http://blog.stackoverflow.com/2010/07/new-per-site-metas/">on meta</a>
 
 </td></tr>
 
 <tr >
 <td >
-![](/images/wordpress/convention-badge.png)
+<img src="/images/wordpress/convention-badge.png">
 
 </td>
 <td >
-10 posts with score of 2 [on meta](http://blog.stackoverflow.com/2010/07/new-per-site-metas/)
+10 posts with score of 2 <a href="http://blog.stackoverflow.com/2010/07/new-per-site-metas/">on meta</a>
 
 </td></tr>
 

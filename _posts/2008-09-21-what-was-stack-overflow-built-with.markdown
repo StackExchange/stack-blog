@@ -34,52 +34,52 @@ This question has been covered in some detail in our [podcasts](http://blog.stac
 <tr >
 <td >framework
 </td>
-<td >[Microsoft ASP.NET](http://en.wikipedia.org/wiki/ASP.NET)
+<td ><a href="http://en.wikipedia.org/wiki/ASP.NET">Microsoft ASP.NET</a>
 </td></tr>
 <tr >
 <td >language
 </td>
-<td >[C#](http://en.wikipedia.org/wiki/C_Sharp_(programming_language))
+<td ><a href="http://en.wikipedia.org/wiki/C_Sharp_(programming_language">C#</a>
 </td></tr>
 <tr >
 <td >development environment
 </td>
-<td >[Visual Studio](http://msdn.microsoft.com/en-us/vstudio/default.aspx)
+<td ><a href="http://msdn.microsoft.com/en-us/vstudio/default.aspx">Visual Studio</a>
 </td></tr>
 <tr >
 <td >web framework
 </td>
-<td >[ASP.NET MVC](http://www.asp.net/mvc/)
+<td ><a href="http://www.asp.net/mvc/">ASP.NET MVC</a>
 </td></tr>
 <tr >
 <td >browser framework
 </td>
-<td >[jQuery](http://jquery.com/)
+<td ><a href="http://jquery.com/">jQuery</a>
 </td></tr>
 <tr >
 <td >database
 </td>
-<td >[SQL Server 2008](http://msdn.microsoft.com/en-us/sqlserver/default.aspx)
+<td ><a href="http://msdn.microsoft.com/en-us/sqlserver/default.aspx">SQL Server 2008</a>
 </td></tr>
 <tr >
 <td >data access layer
 </td>
-<td >[LINQ to SQL](http://msdn.microsoft.com/en-us/library/bb425822.aspx)
+<td ><a href="http://msdn.microsoft.com/en-us/library/bb425822.aspx">LINQ to SQL</a>
 </td></tr>
 <tr >
 <td >source control
 </td>
-<td >[Subversion](http://en.wikipedia.org/wiki/Subversion_(software)) (now [Mercurial through Kiln](http://blog.stackoverflow.com/2010/04/stack-overflow-and-dvcs/))
+<td ><a href="http://en.wikipedia.org/wiki/Subversion_(software)">Subversion</a> (now <a href="http://blog.stackoverflow.com/2010/04/stack-overflow-and-dvcs/">Mercurial through Kiln</a>)
 </td></tr>
 <tr >
 <td >compare tool
 </td>
-<td >[Beyond Compare](http://www.scootersoftware.com/index.php?from=codinghorror)
+<td ><a href="http://www.scootersoftware.com/index.php?from=codinghorror">Beyond Compare</a>
 </td></tr>
 <tr >
 <td >source control integration
 </td>
-<td >[VisualSVN](http://www.visualsvn.com/) (now, [VisualHg](http://visualhg.codeplex.com/)) 
+<td ><a href="http://www.visualsvn.com/">VisualSVN</a> (now, <a href="http://visualhg.codeplex.com/">VisualHg</a>)
 </td></tr>
 </table>
 

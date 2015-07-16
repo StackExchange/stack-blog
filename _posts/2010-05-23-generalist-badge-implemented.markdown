@@ -45,59 +45,64 @@ The top 40 tag list is surprisingly diverse across the entire Trilogy. Just chec
 <tr >
 
 <td >
-1. c#
-2. java 
-3. .net
-4. php
-5. asp.net
-6. javascript
-7. c++
-8. jquery
-9. iphone
-10. python
+  <ol>
+    <li>c#</li>
+    <li>java </li>
+    <li>.net</li>
+    <li>php</li>
+    <li>asp.net</li>
+    <li>javascript</li>
+    <li>c++</li>
+    <li>jquery</li>
+    <li>iphone</li>
+    <li>python</li>
+  </ol>
+</td>
+
+<td >
+  <ol start="11">
+    <li>sql</li>
+    <li>mysql</li>
+    <li>html</li>
+    <li>sql-server</li>
+    <li>ruby-on-rails</li>
+    <li>c</li>
+    <li>asp.net-mvc</li>
+    <li>css</li>
+    <li>wpf</li>
+    <li>objective-c</li>
+  </ol>
+</td>
+
+<td >
+  <ol start="21">
+    <li>windows</li>
+    <li>xml</li>
+    <li>ruby</li>
+    <li>database</li>
+    <li>best-practices</li>
+    <li>vb.net</li>
+    <li>android</li>
+    <li>visual-studio</li>
+    <li>ajax</li>
+    <li>regex</li>
+  </ol>
 
 </td>
 
 <td >
-11. sql
-12. mysql
-13. html
-14. sql-server
-15. ruby-on-rails
-16. c
-17. asp.net-mvc
-18. css
-19. wpf
-20. objective-c
-
-</td>
-
-<td >
-21. windows
-22. xml
-23. ruby
-24. database
-25. best-practices
-26. vb.net
-27. android
-28. visual-studio
-29. ajax
-30. regex
-
-</td>
-
-<td >
-31. linux
-32. winforms
-33. django
-34. iphone-sdk
-35. visual-studio-2008
-36. beginner
-37. web-development
-38. flex
-39. subjective
-40. flash
-
+  <ol start="31">
+    <li>linux</li>
+    <li>winforms</li>
+    <li>django</li>
+    <li>iphone-sdk</li>
+    <li>visual-studio-2008</li>
+    <li>beginner</li>
+    <li>web-development</li>
+    <li>flex</li>
+    <li>subjective</li>
+    <li>flash</li>
+  </ol>
 </td>
 </tr>
 </table>

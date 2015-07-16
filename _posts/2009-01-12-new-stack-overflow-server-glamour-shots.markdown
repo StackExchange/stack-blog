@@ -71,14 +71,14 @@ The 1U web tier servers are modest:
 <tr >
 <td >2
 </td>
-<td > eBay [drive brackets](http://www.codinghorror.com/blog/archives/001200.html)
+<td > eBay <a href="http://www.codinghorror.com/blog/archives/001200.html">drive brackets</a>
 </td>
 <td >$50
 </td></tr>
 <tr >
 <td >2
 </td>
-<td >500 GB [datacenter hard drives](http://www.newegg.com/Product/Product.aspx?Item=N82E16822136143), mirrored
+<td >500 GB <a href="http://www.newegg.com/Product/Product.aspx?Item=N82E16822136143">datacenter hard drives</a>, mirrored
 </td>
 <td >$160
 </td></tr>
@@ -127,14 +127,14 @@ The 2U database tier server is considerably beefier:
 <tr >
 <td >6
 </td>
-<td >eBay [drive brackets](http://www.codinghorror.com/blog/archives/001200.html)
+<td >eBay <a href="http://www.codinghorror.com/blog/archives/001200.html">drive brackets</a>
 </td>
 <td >$150
 </td></tr>
 <tr >
 <td >6
 </td>
-<td >500 GB [datacenter hard drives](http://www.newegg.com/Product/Product.aspx?Item=N82E16822136143), RAID 10
+<td >500 GB <a href="http://www.newegg.com/Product/Product.aspx?Item=N82E16822136143">datacenter hard drives</a>, RAID 10
 </td>
 <td >$480
 </td></tr>
@@ -177,9 +177,9 @@ So, in a nutshell, for around **$6,000** we'll end up with the following:
 
 <table >
 <tr >
-<td width="300" >_Web Tier_
+<td width="300" ><em>Web Tier</em>
 </td>
-<td width="300" >_Database Tier_
+<td width="300" ><em>Database Tier</em>
 </td></tr>
 <tr >
 <td >two servers

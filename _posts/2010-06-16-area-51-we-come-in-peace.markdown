@@ -54,10 +54,10 @@ Z@rpqf says, "Build awesome sites!"
 <tbody >
 <tr >
 
-<td width="319" style="width: 239.4pt; border: 1pt solid black; padding: 0in 5.4pt;" valign="top" >If you've got a great idea for a site, [visit Area   51](http://area51.stackexchange.com/). We've got [6.7 million people](http://www.quantcast.com/p-c1rF4kxgLUzNc) visiting us   each month, so we've got the audience. We've raised enough money to make   Stack Exchange absolutely free, so all we need is ideas. Browse through our   proposals to help get the site ideas you love off to a strong start.
+<td width="319" style="width: 239.4pt; border: 1pt solid black; padding: 0in 5.4pt;" valign="top" >If you've got a great idea for a site, <a href="http://area51.stackexchange.com/">visit Area 51</a>. We've got <a href="http://www.quantcast.com/p-c1rF4kxgLUzNc">6.7 million people</a> visiting us   each month, so we've got the audience. We've raised enough money to make   Stack Exchange absolutely free, so all we need is ideas. Browse through our   proposals to help get the site ideas you love off to a strong start.
 </td>
 
-<td width="319" style="width: 239.4pt; padding: 0in 5.4pt;" valign="top" >![art-vote.png](file:///C:/Users/ROBERT/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif)
+<td width="319" style="width: 239.4pt; padding: 0in 5.4pt;" valign="top" ><img src="file:///C:/Users/ROBERT/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif" alt="art-vote.png">
 </td>
 </tr>
 </tbody>

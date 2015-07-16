@@ -84,37 +84,37 @@ The top applications by API usage are:
 <td >
 <table width="260" >
 <tr >
-<td >[StackApplet](http://stackapps.com/questions/83/stackapplet-bringing-stack-exchange-notifications-to-your-desktop-1-5-beta-2-r)
+<td ><a href="http://stackapps.com/questions/83/stackapplet-bringing-stack-exchange-notifications-to-your-desktop-1-5-beta-2-r">StackApplet</a>
 <td align="right" >5.3m</tr>
 <tr >
-<td >[Newt](http://stackapps.com/questions/1993/newt-question-answer-and-comment-and-rep-change-notifications-for-os-x)
+<td ><a href="http://stackapps.com/questions/1993/newt-question-answer-and-comment-and-rep-change-notifications-for-os-x">Newt</a>
 <td align="right" >5.2m</tr>
 <tr >
-<td >[Stack Exchange Notifier](http://stackapps.com/questions/1592/stack-exchange-notifier-chrome-extension)
+<td ><a href="http://stackapps.com/questions/1592/stack-exchange-notifier-chrome-extension">Stack Exchange Notifier</a>
 <td align="right" >3.5m</tr>
 <tr >
-<td >[StackGuru](http://stackapps.com/questions/345/stackguru-a-near-realtime-bot-for-all-stackexchange-sites)
+<td ><a href="http://stackapps.com/questions/345/stackguru-a-near-realtime-bot-for-all-stackexchange-sites">StackGuru</a>
 <td align="right" >1.4m</tr>
 <tr >
-<td >[Question Monitor](http://stackapps.com/questions/493/stackstalker-be-notified-when-your-question-is-updated-chrome-extension)
+<td ><a href="http://stackapps.com/questions/493/stackstalker-be-notified-when-your-question-is-updated-chrome-extension">Question Monitor</a>
 <td align="right" >1.3m</tr>
 <tr >
-<td >[Stack Overflow Chat](http://chat.stackoverflow.com)
+<td ><a href="http://chat.stackoverflow.com">Stack Overflow Chat</a>
 <td align="right" >1.1m</tr>
 <tr >
-<td >[New Q!](http://stackapps.com/questions/587/new-q-google-chrome-extension-notifies-you-of-new-questions-of-interest)
+<td ><a href="http://stackapps.com/questions/587/new-q-google-chrome-extension-notifies-you-of-new-questions-of-interest">New Q!</a>
 <td align="right" >943k</tr>
 <tr >
-<td >[VSCommands Lite](http://stackapps.com/questions/1696/stackoverflow-notifications-in-visual-studio-2010-extension)
+<td ><a href="http://stackapps.com/questions/1696/stackoverflow-notifications-in-visual-studio-2010-extension">VSCommands Lite</a>
 <td align="right" >572k</tr>
 <tr >
-<td >[SO Live!](http://stackapps.com/questions/1703/so-live-live-updates-to-your-reputation-score)
+<td ><a href="http://stackapps.com/questions/1703/so-live-live-updates-to-your-reputation-score">SO Live!</a>
 <td align="right" >535k</tr>
 <tr >
-<td >[Droidstack](http://stackapps.com/questions/585/droidstack-for-android-now-with-chat-support)
+<td ><a href="http://stackapps.com/questions/585/droidstack-for-android-now-with-chat-support">Droidstack</a>
 <td align="right" >498k</tr>
 <tr >
-<td >[Coding Clue](http://www.codingclue.com/)
+<td ><a href="http://www.codingclue.com/">Coding Clue</a>
 <td align="right" >473k</tr>
 </table>
 
@@ -123,34 +123,34 @@ The top applications by API usage are:
 <td >
 <table width="260" >
 <tr >
-<td >[StackMobile](http://stackapps.com/questions/36/stackmobile-com-view-stackexchange-sites-on-your-smartphone)
+<td ><a href="http://stackapps.com/questions/36/stackmobile-com-view-stackexchange-sites-on-your-smartphone">StackMobile</a>
 <td align="right" >443k</tr>
 <tr >
-<td >[StackTack](http://stackapps.com/questions/518/stacktack-a-javascript-widget-you-can-stick-anywhere)
+<td ><a href="http://stackapps.com/questions/518/stacktack-a-javascript-widget-you-can-stick-anywhere">StackTack</a>
 <td align="right" >386k</tr>
 <tr >
 <td >StackMonitor
 <td align="right" >356k</tr>
 <tr >
-<td >[StackAnywhere](http://stackapps.com/questions/2370/stackanywhere-a-stack-exchange-client-for-android)
+<td ><a href="http://stackapps.com/questions/2370/stackanywhere-a-stack-exchange-client-for-android">StackAnywhere</a>
 <td align="right" >291k</tr>
 <tr >
-<td >[AskUbuntu Add-on](http://stackapps.com/questions/1699/askubuntu-add-on-for-firefox-opera-and-chrome)
+<td ><a href="http://stackapps.com/questions/1699/askubuntu-add-on-for-firefox-opera-and-chrome">AskUbuntu Add-on</a>
 <td align="right" >251k</tr>
 <tr >
-<td >[stackexchange.com](http://stackexchange.com)
+<td ><a href="http://stackexchange.com">stackexchange.com</a>
 <td align="right" >251k</tr>
 <tr >
-<td >[Swatch for Firefox](http://stackapps.com/questions/316/swatch-a-firefox-plugin-for-monitoring-stack-exchange-sites-for-interesting-chan)
+<td ><a href="http://stackapps.com/questions/316/swatch-a-firefox-plugin-for-monitoring-stack-exchange-sites-for-interesting-chan">Swatch for Firefox</a>
 <td align="right" >185k</tr>
 <tr >
 <td >DFeed IRC bot
 <td align="right" >180k</tr>
 <tr >
-<td >[Area 51](http://area51.stackexchange.com)
+<td ><a href="http://area51.stackexchange.com">Area 51</a>
 <td align="right" >142k</tr>
 <tr >
-<td >[Careers](http://careers.stackoverflow.com)
+<td ><a href="http://careers.stackoverflow.com">Careers</a>
 <td align="right" >140k</tr>
 <tr >
 <td >StackTrends

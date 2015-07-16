@@ -182,8 +182,7 @@ I also did a quick run of [SQLIOSim](http://support.microsoft.com/kb/231619), wh
 
 
 
->
-**SQLIOSim will generate sufficient IO requests to overwhelm almost any disk subsystem.** The long IO message from the simulator are normal. Although this does tell you that at some point the disks won't keep up.
+<blockquote><strong>SQLIOSim will generate sufficient IO requests to overwhelm almost any disk subsystem.</strong> The long IO message from the simulator are normal. Although this does tell you that at some point the disks won't keep up.</blockquote>
 
 
 

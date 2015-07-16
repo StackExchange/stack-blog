@@ -99,7 +99,7 @@ So in the typical case, you'll have this:
 
 <table >
 <tr >
-<td >_Question_
+<td ><em>Question</em>
 </td></tr>
 <tr >
 <td >Community Selected Best Answer (votes)
@@ -114,7 +114,7 @@ But you might also have this:
 
 <table >
 <tr >
-<td >_Question_
+<td ><em>Question</em>
 </td></tr>
 <tr >
 <td >Owner Selected Best Answer (accepted)
