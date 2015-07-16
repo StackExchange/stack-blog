@@ -1,5 +1,6 @@
 ---
 layout: default
+top_nav: engineering
 ---
 <style>
 	header {
@@ -10,14 +11,27 @@ layout: default
 <div class="subheader hidden-nav">
 	<div class="inner-container">
 		<nav class="-row">
-			<a class="category active" id="all" href="{{ site.baseurl}}/engineering">All</a>
-			<a class="category" id="development" href="{{ site.baseurl }}/engineering/development">Development</a>
-			<a class="category" id="sysadmin" href="{{ site.baseurl }}/engineering/sysadmin">Sysadmin</a>
-			<a class="category" id="design" href="{{ site.baseurl }}/engineering/design">Design</a>
-			<a class="category" id="evangelism" href="{{ site.baseurl }}/engineering/evangelism">Evangelism</a>
-			<a class="category" id="opinion" href="{{ site.baseurl }}/engineering/opinion">Opinion</a>
+			<a class="category{% unless paginator.channel %} active{% endunless %}" href="{{ site.baseurl}}/engineering/">All</a>
+			<a class="category{% if paginator.channel == "development" %} active{% endif %}" href="{{ site.baseurl }}/engineering/development/">Development</a>
+			<a class="category{% if paginator.channel == "sysadmin" %} active{% endif %}" href="{{ site.baseurl }}/engineering/sysadmin/">Sysadmin</a>
+			<a class="category{% if paginator.channel == "design" %} active{% endif %}" href="{{ site.baseurl }}/engineering/design/">Design</a>
+			<a class="category{% if paginator.channel == "evangelism" %} active{% endif %}" href="{{ site.baseurl }}/engineering/evangelism/">Evangelism</a>
+			<a class="category{% if paginator.channel == "opinion" %} active{% endif %}" href="{{ site.baseurl }}/engineering/opinion/">Opinion</a>
 		</nav>
 	</div>
 </div>
 
-{{ content }}
+<div class="inner-container padded">
+	<div class="-row">
+		<div class="-col8">
+			<div class="posts">
+				{% for post in paginator.posts %}
+				{{ post.pre_render }}
+				{% endfor %}
+			</div>
+		</div>
+		<div class="-col4">
+			{% include engineering/sidebar.html %}
+		</div>
+	</div>
+</div>

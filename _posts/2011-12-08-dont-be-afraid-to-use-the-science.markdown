@@ -18,17 +18,7 @@ tags:
 
 I saw an [interesting Battlefield 3 question on gaming](http://gaming.stackexchange.com/questions/37051/what-is-the-range-of-the-eod-bot) a few weeks ago. 
 
-
-
-
-
-<blockquote>
-I've recently unlocked the EOD bot, and while playing around with it (and being hopelessly ineffectual with it) I've noticed that after I have driven a certain distance away I will return back to first-person view. Running towards the EOD bot will allow me to take control of it again. **How far can I drive an EOD bot away from me before I lose control of it?**
-</blockquote>
-
-
-
-
+> I've recently unlocked the EOD bot, and while playing around with it (and being hopelessly ineffectual with it) I've noticed that after I have driven a certain distance away I will return back to first-person view. Running towards the EOD bot will allow me to take control of it again. **How far can I drive an EOD bot away from me before I lose control of it?**
 
 I play Battlefield 3! Extensively! I've used the remote control EOD bot before, but I have no idea what its maximum range is. I've never lost control of it. So I _could_ have answered ...
 
@@ -145,9 +135,9 @@ To learn more, see our [tips on writing great answers](http://superuser.com/ques
 
 
 
-While we don't come out and say it quite this way*, **the best answers -- not just on Stack Exchange, but to _any_ question in life -- should probably involve a little bit of science.** 
+While we don't come out and say it quite this way\*, **the best answers -- not just on Stack Exchange, but to _any_ question in life -- should probably involve a little bit of science.** 
 
 
 
-* but maybe we should
+<small>\* but maybe we should</small>
 

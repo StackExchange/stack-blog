@@ -15,16 +15,19 @@ avatar: /images/blog-logo.svg
 # Flags below are optional
 #
 
+posts_showdrafts: false
+posts_pagecount: 5
+
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble: 
-  email: 
-  facebook: 
-  flickr: 
+  dribbble:
+  email:
+  facebook:
+  flickr:
   github: stackexchange/blog
-  instagram: 
-  linkedin: 
-  pinterest: 
+  instagram:
+  linkedin:
+  pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: stackexchange
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
@@ -43,15 +46,15 @@ url: http://dev.blog.stackexchange.com
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ''
+baseurl: ""
+
+# Host name for careers-jobs ad server
+adshost: clc.dev.stackoverflow.com
 
 collections:
   authors:
     output: true
     permalink: /authors/:title/
-  tags:
-    output: true
-    permalink: /tags/:title/
   categories:
     output: true
     permalink: /category/:title/

@@ -15,19 +15,20 @@ avatar: /images/blog-logo.svg
 # Flags below are optional
 #
 
-# paginate: 5
-limit_posts: 22
+posts_showdrafts: true
+posts_pagecount: 5
+limit_posts: 50
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble: 
-  email: 
-  facebook: 
-  flickr: 
+  dribbble:
+  email:
+  facebook:
+  flickr:
   github: stackexchange/blog
-  instagram: 
-  linkedin: 
-  pinterest: 
+  instagram:
+  linkedin:
+  pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: stackexchange
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
@@ -42,6 +43,9 @@ google_analytics: ""
 # Used for Sitemap.xml and your RSS feed
 url: http://stackexchange.github.io/blog
 
+# Host name for careers-jobs ad server
+adshost: local.clc.stackoverflow.com
+
 # If you're hosting your site at a Project repository on GitHub pages 
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
@@ -50,14 +54,7 @@ baseurl: ""
 
 collections:
   authors:
-    output: true
-    permalink: /authors/:title/
-  tags:
-    output: true
-    permalink: /tags/:title/
-  categories:
-    output: true
-    permalink: /category/:title/
+    output: false
 
 #
 # !! You don't need to change any of the configuration flags below !!

@@ -72,7 +72,7 @@ Our favorite Stack Overflow questions this week are:
 
 
 
-  * **Jeff**:** **[Is mathematics necessary for programming?](http://stackoverflow.com/questions/157354/is-mathematics-necessary-for-programming) It can't hurt, and often helps, but it is not strictly _necessary_ in our opinions.  
+  * **Jeff**: [Is mathematics necessary for programming?](http://stackoverflow.com/questions/157354/is-mathematics-necessary-for-programming) It can't hurt, and often helps, but it is not strictly _necessary_ in our opinions.  
 
 
 

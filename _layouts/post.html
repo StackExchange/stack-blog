@@ -8,24 +8,20 @@ layout: default
 		width: 100%;
 	}
 </style>
-<article class="post full-post">
+<article class="post full-post" data-id="{{ page.id }}">
 	{% if page.hero == null or page.tags contains 'podcasts' %}
 	<div class="hero no-image">
 	{% else %}
 	<div class="hero" style="background: linear-gradient(
-      rgba(37, 43, 51, 0.35), 
+      rgba(37, 43, 51, 0.35),
       rgba(37, 43, 51, 0.35)
     ), url('{{ page.hero }}'); background-size: cover;">
 	{% endif %}
 		<div class="inner-container media-padded">
 			<h1 class="h2">{{ page.title }}</h1>
 			<div class="author-container">
-			{% for author in site.authors %}
-			{% if author.id == page.author %}
-				<a href="{{ site.baseurl }}/authors/{{ author.id }}"><img src="{{ author.avatar }}" ></a>
-				<h2 class="h4 author-name">by <a href="{{ site.baseurl }}/authors/{{ author.id }}">{{ author.name }}</a></h2>
-			{% endif %}
-			{% endfor %}
+				<a href="{{ site.baseurl }}/authors/{{ page.full_author.id }}"><img src="{{ page.full_author.avatar }}"></a>
+				<h2 class="h4 author-name">by <a href="{{ site.baseurl }}/authors/{{ page.full_author.id }}/">{{ page.full_author.name }}</a></h2>
 				<div class="date">on {{ page.date | date: "%B %e, %Y" }}</div>
 			</div>
 		</div>
@@ -33,35 +29,29 @@ layout: default
 	<div class="inner-container">
 		<div class="entry">
 		  	{% if page.source %}
-			  	<div class="source">
-			  		<p>This post was originally published elsewhere and has been put here with the author's permission. You can see <a href="{{ page.source }}" target="_blank">where it was originally published here</a>.</p>
-			  	</div>
+		  	<div class="source">
+		  		<p>This post was originally published elsewhere and has been put here with the author's permission. You can see <a href="{{ page.source }}" target="_blank">where it was originally published here</a>.</p>
+		  	</div>
 		  	{% endif %}
-			  	<div class="media-padded">
-				    {{ content }}
-				    <div class="metadata -row">
-				    	<div class="-col6 _textLeft">
-				    	{% for author in site.authors %}
-						{% if author.id == page.author %}
-							<p>By <a href="{{ site.baseurl }}/authors/{{ author.id }}">{{ author.name }}</a>, {{ author.job }}</p>
-						{% endif %}
-						{% endfor %}
-					    </div>
-					    <div class="-col6 _textRight">
-					    	<p><strong>Tagged in</strong>&nbsp;
-							{% for tag in page.tags %}
-								<a href="{{ site.baseurl }}/tags/{{ tag }}"><span class="postTag">{{ tag }}</span></a>
-							{% endfor %}</p>
-					    </div>
+		  	<div class="media-padded">
+			    {{ content }}
+			    <div class="metadata -row">
+			    	<div class="-col6 _textLeft">
+						<p>By <a href="{{ site.baseurl }}/authors/{{ page.full_author.id }}/">{{ page.full_author.name }}</a>, {{ page.full_author.job }}</p>
 				    </div>
-				</div>
-				<div class="disqus media-padded">
-
- 					{% include disqus.html disqus_identifier=page.disqus_identifier %}
-				</div>
+				    <div class="-col6 _textRight">
+				    	<p><strong>Tagged in</strong>&nbsp;
+						{% for tag in page.tags %}
+							<a href="{{ site.baseurl }}/tags/{{ tag }}/"><span class="postTag">{{ tag }}</span></a>
+						{% endfor %}</p>
+				    </div>
+			    </div>
+			</div>
+			<div class="disqus media-padded">
+					{% include disqus.html disqus_identifier=page.disqus_identifier %}
+			</div>
 		</div>
 	</div>
 </article>
-<script type="text/javascript">
-	var slug = "{{ page.id }}";
-</script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="{{ site.baseurl }}/js/post.js"></script>

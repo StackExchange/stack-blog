@@ -15,6 +15,9 @@ avatar: /images/blog-logo.svg
 # Flags below are optional
 #
 
+posts_showdrafts: false
+posts_pagecount: 5
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
@@ -39,28 +42,22 @@ google_analytics: UA-5620270-51
 # Used for Sitemap.xml and your RSS feed
 url: http://blog.stackexchange.com
 
+# Host name for careers-jobs ad server
+adshost: clc.stackoverflow.com
+
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ''
+baseurl: ""
 
 collections:
   authors:
     output: true
     permalink: /authors/:title/
-  tags:
-    output: true
-    permalink: /tags/:title/
   categories:
     output: true
     permalink: /category/:title/
-
-# options for _layouts/compress.html
-compress_html:
-  clippings: all
-  comments: ["<!-- ", " -->"]
-  endings: all
 
 #
 # !! You don't need to change any of the configuration flags below !!

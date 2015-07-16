@@ -127,6 +127,9 @@ i.blog-icon {
 		padding: 8px;
 		border-radius: 2px;
 	}
+  #hireme {
+    min-height: 234px;
+  }
 }
 header {
 	padding: 25px;
@@ -199,7 +202,6 @@ div.subheader {
 	font-size: 0.7692307692307693rem;
 }
 div.pagination {
-	display: none;
 	padding: 30px 0;
 	height: 70px;
 	background: #f8f8f8;
@@ -228,10 +230,6 @@ div.pagination {
         -ms-transform: translate(-50%,-50%);
         transform: translate(-50%,-50%);
 	}
-}
-
-.posts {
-	visibility: hidden;
 }
 
 article.post {
@@ -283,7 +281,6 @@ article.post {
 			}
 		}
 		.podcast-container {
-			display: none;
 			float: left;
 			padding: 15px 25px;
 			border: 5px solid #eee;
@@ -606,7 +603,7 @@ footer {
 			box-sizing: border-box;
 		}
 		.-col8 {
-			display: none;
+			display: block;
 			clear: both;
 		}
 	}

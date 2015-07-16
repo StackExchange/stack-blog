@@ -4,7 +4,7 @@ comments: true
 date: 2013-06-25 16:45:45+00:00
 layout: post
 redirect_from: /2013/06/the-war-of-the-closes
-hero: 
+hero:
 slug: the-war-of-the-closes
 title: 'The War of the Closes '
 wordpress_id: 13438
@@ -14,7 +14,7 @@ tags:
 - community
 ---
 
-It pains me when I hear people say that our sites are unfriendly, or that we chase new users away. But it's a hard problem, because** our highest priority has always been the quality of content on our sites.**  And it still is. We _can't _lower our standards. We won't.
+It pains me when I hear people say that our sites are unfriendly, or that we chase new users away. But it's a hard problem, because **our highest priority has always been the quality of content on our sites.**  And it still is. We _can't_ lower our standards. We won't.
 
 But we have been working hard to make our sites more welcoming, reminding users that [feedback can be clear _and_ nice](http://blog.stackoverflow.com/2012/07/kicking-off-the-summer-of-love/), and helping new users [learn the ropes](http://blog.stackoverflow.com/2013/01/about-page-2-0-the-quickstartening/) _before_ they get frustrated.  **And, as of today, we've completely overhauled closing. **
 
@@ -32,17 +32,17 @@ Closing is a big part of what separates us from other, um... [less focused Q&A s
 # Closing wasn't clear.
 
 
-Our close reasons were designed for _experienced _users, but** did little to help the author of the question **understand what the heck was going on. Over time, as we tried to make five close reasons address _hundreds_ of question types, they became too broad to actually convey what's wrong. ** Identifying the common factors of poor questions was a good idea, but we took it a little too far.**
+Our close reasons were designed for _experienced _users, but **did little to help the author of the question** understand what the heck was going on. Over time, as we tried to make five close reasons address _hundreds_ of question types, they became too broad to actually convey what's wrong. **Identifying the common factors of poor questions was a good idea, but we took it a little too far.**
 
 It's confusing ask for help [solving a specific programming problem](http://stackoverflow.com/questions/4568645/printing-1-to-1000-without-loop-or-conditionals), only to be told that it's"not about programming". Or to ask [which router to buy](http://apple.stackexchange.com/questions/70457/what-special-about-apple-airport-extreme), just to learn that you're likely to solicit "debate, arguments, polling, or extended discussion." Really?  You guys take routers pretty seriously here.
 
-Now, it's not that we want those questions, but we need to convey exactly _why we don't want them_.  Imagine if police could give out summons that, rather than, "failure to stop at a signal," just read, "behavioral violation". **When feedback isn't specific, it's impossible to fix the problem, but easy to write it off **as probably coming from a bunch of grumpy old jerkfaces who'd rather make you look like an idiot than actually help you.
+Now, it's not that we want those questions, but we need to convey exactly _why we don't want them_.  Imagine if police could give out summons that, rather than, "failure to stop at a signal," just read, "behavioral violation". **When feedback isn't specific, it's impossible to fix the problem, but easy to write it off** as probably coming from a bunch of grumpy old jerkfaces who'd rather make you look like an idiot than actually help you.
 
 
 # Closing wasn't nice.
 
 
-**Having your question closed feels lousy; there's no doubt about it.  **Now, we don't care as much about _nice_ as we do about _quality_**_ - _**but that's not a real dichotomy.  We can be more constructive in conveying our standards without lowering them one bit.   And we need to, because whether we liked it or not:
+**Having your question closed feels lousy; there's no doubt about it.  **Now, we don't care as much about _nice_ as we do about _quality_ - but that's not a real dichotomy.  We can be more constructive in conveying our standards without lowering them one bit.   And we need to, because whether we liked it or not:
 
 **Having your question closed _feels_ like a personal attack.**
 
@@ -50,9 +50,9 @@ Now, it's not that we want those questions, but we need to convey exactly _why 
 [![2013-06-16_15-31-27](/images/wordpress/2013-06-16_15-31-27-1024x717.jpg)](/images/wordpress/2013-06-16_15-31-27.jpg)
 
 
-It _is_ off-putting to be told that your question is "not constructive".  To _the poster, _"not constructive" doesn't sound like polite feedback; it sounds like something a slightly detached guidance counselor might say to a child.  And,"not a real question"?  Does that make _the listener_ want to get "realer" or to snarkily link to a definition of the word "question"?
+It _is_ off-putting to be told that your question is "not constructive".  To _the poster,_ "not constructive" doesn't sound like polite feedback; it sounds like something a slightly detached guidance counselor might say to a child.  And,"not a real question"?  Does that make _the listener_ want to get "realer" or to snarkily link to a definition of the word "question"?
 
-**Ironically, we picked those terms _explicitly because they were nicer ways to convey what we meant. _**And they _were__ _nicer than, "You're kind of ranting and being a jackass," or, "No one can answer that ambiguous nonsense."  But so is prefacing my feedback to my wife with:
+**Ironically, we picked those terms _explicitly_ because they were nicer ways to convey what we meant.** And they _were_ nicer than, "You're kind of ranting and being a jackass," or, "No one can answer that ambiguous nonsense."  But so is prefacing my feedback to my wife with:
 
 
 <blockquote><strong><em>It could be just me, but I feel</em></strong> like you're acting completely nutballs crazy.</blockquote>
@@ -74,13 +74,13 @@ We're not going to lower our standards.  But if we want to _educate_ new users,
 
 
 
-	
+
   1. **make users want to improve questions, not argue about them** - "terminated as too sucky; re-submit when less so," and, "needs more information, add detail to move forward" are different. One makes you want to work your way to the next stage. One makes you want to kick someone's shins.
 
-	
+
   2. **make it clear exactly what needs to be fixed**, or is problematic, _without_ relying on information on another page.
 
-	
+
   3. **provide a clear path for to get questions re-opened** -  questions that _are_ brought up to our standards should get reopened.
 
 
@@ -96,14 +96,12 @@ We're not going to lower our standards.  But if we want to _educate_ new users,
 a) additional revisions are **not** welcome, and b) the matter **won't** be further considered.We led with a word that sounded final, so when we eventually told users they could edit their post, they weren't _listening_; they were dusting off the old debate uniform to _argue their case_.**"on hold" better conveys what we always meant:**
 
 
-<blockquote>If you can edit your question to better fit our model, we can get you the help you need.</blockquote>
+  > If you can edit your question to better fit our model, we can get you the help you need.
 
 
 Questions _not_ re-opened within five days will revert to displaying as "closed," to serve as a clearer signpost going forward.
 
-
 ### 2. New close reasons are nicer _and_ clearer
-
 
 <ol>
   <li>

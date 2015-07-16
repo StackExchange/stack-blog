@@ -63,7 +63,7 @@ What happened next depended on the newsgroup.
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/lord-of-the-flies.jpg)](http://www.imdb.com/title/tt0057261/)
+[![Lord of the Flies](/images/wordpress/lord-of-the-flies.jpg)](http://www.imdb.com/title/tt0057261/)
 
 
 

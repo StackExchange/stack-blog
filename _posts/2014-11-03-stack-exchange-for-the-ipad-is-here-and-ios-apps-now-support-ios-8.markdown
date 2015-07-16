@@ -33,18 +33,18 @@ When we launched our [iOS](http://blog.stackoverflow.com/2014/05/stack-exchange-
 
 Those were a huge success; a ton of our most active users loved them. Here’s what we didn’t expect:
 
-**A _lot_ of people are _posting_**** from the app.**
+**A _lot_ of people are _posting_ from the app.**
 
 
 
 	
-  * Over twenty-five _thousand _posts have been made from the app...
+  * Over twenty-five _thousand_ posts have been made from the app...
 
 	
   * ...More than 69% of them are answers!
 
 	
-  * The average quality of the posts is significantly higher than the overall average.1
+  * The average quality of the posts is significantly higher than the overall average.<sup>1</sup>
 
 
 Those on-screen buttons may not have the same satisfying click your [Cherry MXs](http://superuser.com/questions/366221/differences-between-cherry-mechanical-keyboard-switches) do, but despite your freakishly large thumbs, an _amazing_ number of you are helping others from the bus. Or in line at the DMV. Or at other times that you’re... just not at your computer. (They tell me I can’t make a “or while in the bathroom” joke here. Because of course that would be a _joke_, right?) That’s not just a reflection of how dedicated our users are to sharing their knowledge; it’s also awesome for my personal job security, so thanks!
@@ -62,7 +62,7 @@ So that’s all great. But we still had a problem. Sure, the iPhone 6+ is big - 
 
 So, what are you supposed to do? Scroll? Like an animal?!?
 
-We thought not. So, we’re ecstatic to announce Stack Exchange for iPad, built from the ground up for the ideal tablet experience.2
+We thought not. So, we’re ecstatic to announce Stack Exchange for iPad, built from the ground up for the ideal tablet experience.<sup>2</sup>
 
 [**Go download it now!**](https://itunes.apple.com/us/app/stack-exchange/id871299723?mt=8) What if we raised the price to $0.99 next week? Think about how long you'd agonize over paying nearly a dollar for this wonderful app. We really don’t want that stress for you, so go get it now. (Okay, we’re probably not going to charge for it. But why risk it? Isn’t life stressful enough?)
 
@@ -124,5 +124,6 @@ These apps couldn't have happened without our incredible beta testers from the c
 
 
 
-1 To be fair, there’s probably a lot of selection bias there - the app users are likely our most active, experienced users, but the point is this: the posts from the app are _good._
-2 Technically, it’s iOS 1.2.0, a universal app available now for iPhone and iPad.
+<sup>1</sup> To be fair, there’s probably a lot of selection bias there - the app users are likely our most active, experienced users, but the point is this: the posts from the app are _good._
+
+<sup>2</sup> Technically, it’s iOS 1.2.0, a universal app available now for iPhone and iPad.
