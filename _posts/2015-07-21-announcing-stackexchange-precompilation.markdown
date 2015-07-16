@@ -1,6 +1,6 @@
 ---
 layout: post
-draf: true
+draft: true
 date: 2015-07-21
 author: m0sa
 title: Announcing StackExchange.Precompilation

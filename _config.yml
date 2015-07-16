@@ -15,7 +15,7 @@ avatar: /images/blog-logo.svg
 # Flags below are optional
 #
 
-posts_showdrafts: false
+posts_showdrafts: true
 posts_pagecount: 5
 limit_posts: 50
 
@@ -54,11 +54,7 @@ baseurl: ""
 
 collections:
   authors:
-    output: true
-    permalink: /authors/:title/
-  categories:
-    output: true
-    permalink: /category/:title/
+    output: false
 
 #
 # !! You don't need to change any of the configuration flags below !!

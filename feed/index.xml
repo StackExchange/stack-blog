@@ -60,11 +60,7 @@ Stack Exchange is a fast-growing network of over 100 question and answer sites o
 		<item>
 			<title><![CDATA[{{ post.title | raw }}]]></title>
 			<link>{{ site.url }}{{ post.url }}</link>
-			{% for author in site.authors %}
-				{% if author.id == post.author %}
-					<dc:creator><![CDATA[{{ author.name }}]]></dc:creator>
-				{% endif %}
-			{% endfor %}
+			<dc:creator><![CDATA[{{ post.full_author.name }}]]></dc:creator>
 			{% for category in post.tags %}
 			<category><![CDATA[{{ category }}]]></category>
 			{% endfor %}
