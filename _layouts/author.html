@@ -7,14 +7,14 @@ top_nav: contributors
 		<div class="-row">
 			<div class="-col12">
 				<div class="author-container large media-padded">
-				  	<img src="{{ page.avatar }}" class="avatar">
+				  	<img src="{{ page.author.avatar }}" class="avatar">
 				  	<div class="info">
-				  		<h2 class="h4 author-name">{{ page.name }}</h2>
-				  		<h3 class="h5">{{ page.job }}</h3>
+				  		<h2 class="h4 author-name">{{ page.author.name }}</h2>
+				  		<h3 class="h5">{{ page.author.job }}</h3>
 				  		<h3 class="h5 author-info">
-				  			{% if page.twitter %}<a href="https://twitter.com/{{ page.twitter }}">@{{ page.twitter }}</a>{% endif %}
-				  			{% if page.twitter and page.website %} &bull; {% endif %}
-				  			{% if page.website %}<a href="{{ page.website }}">Website</a>{% endif %}
+				  			{% if page.author.twitter %}<a href="https://twitter.com/{{ page.author.twitter }}">@{{ page.author.twitter }}</a>{% endif %}
+				  			{% if page.author.twitter and page.author.website %} &bull; {% endif %}
+				  			{% if page.author.website %}<a href="{{ page.author.website }}">Website</a>{% endif %}
 				  		</h3>
 				  	</div>
 				</div>
@@ -23,8 +23,9 @@ top_nav: contributors
 		<div class="-row author-content">
 			<div class="-col8">
 				<div class="posts">
-				  {% assign posts = site.posts | where:"author", page.id %}
-				  {% include posts.html %}
+				{% for post in paginator.posts %}
+				{{ post.pre_render }}
+				{% endfor %}
 				</div>
 			</div>
 		</div>
