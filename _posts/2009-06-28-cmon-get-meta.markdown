@@ -109,35 +109,6 @@ It's also looking more and more like [meta will replace our UserVoice site](http
 
 
 
-<table >
-<tr >
-
-<td >
-
-
-</td>
-
-<td >
-
-
-</td>
-</tr>
-<tr >
-
-<td >
-
-
-</td>
-
-<td >
-
-
-</td>
-</tr>
-</table>
-
-
-
 Kyle had some ideas about changes to the SO engine to help it adapt from the Q&A; format discussion:
 
 

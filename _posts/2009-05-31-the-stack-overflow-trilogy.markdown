@@ -21,70 +21,46 @@ I've always envisioned the Stack Overflow story as a trilogy. You know, like **S
 <table >
 <tr >
 
-<td >![star-wars-poster](/images/wordpress/star-wars-poster1.jpg)
+<td style="width: 40%;"><img src="/images/wordpress/star-wars-poster1.jpg" alt="star-wars-poster"></td>
 
 <td style="padding-left:10px;" valign="top" >
-[![](http://stackoverflow.com/content/stackoverflow/img/logo.png)](http://stackoverflow.com)  
+<a href="http://stackoverflow.com"><img src="http://stackoverflow.com/content/stackoverflow/img/logo.png"></a>
 
+<p><h2><a href="http://stackoverflow.com">stackoverflow.com</a></h2></p>
 
+<p>For <strong>programmers</strong></p>
 
-## [stackoverflow.com](http://stackoverflow.com)
+<p>The first. The fondly remembered classic. A model for so many sci-fi movies that followed.</p>
 
-
-
-
-For **programmers**
-
-
-
-
-The first. The fondly remembered classic. A model for so many sci-fi movies that followed.
-
+</td>
 
 </tr>
 <tr >
 
-<td >![star-wars-empire-strikes-back-poster](/images/wordpress/star-wars-empire-strikes-back-poster1.jpg)
+<td ><img src="/images/wordpress/star-wars-empire-strikes-back-poster1.jpg" alt="star-wars-empire-strikes-back-poster"></td>
 
 <td style="padding-left:10px;" valign="top" >
-[![](http://serverfault.com/content/serverfault/img/logo.png)](http://serverfault.com)  
+<a href="http://serverfault.com"><img src="http://serverfault.com/content/serverfault/img/logo.png"></a>
 
+<p><h2><a href="http://serverfault.com">serverfault.com</a></h2></p>
 
+<p>For <strong>system administrators</strong> and <strong>desktop support professionals</strong></p>
 
-## [serverfault.com](http://serverfault.com)
-
-
-
-
-For **system administrators** and **desktop support professionals**
-
-
-
-
-A darker, more serious movie. Some say the best in the series.
-
+<p>A darker, more serious movie. Some say the best in the series.</p>
 
 </tr>
 <tr >
 
-<td >![star-wars-return-of-the-jedi-poster](/images/wordpress/star-wars-return-of-the-jedi-poster1.jpg)
+<td ><img src="/images/wordpress/star-wars-return-of-the-jedi-poster1.jpg" alt="star-wars-return-of-the-jedi-poster"></td>
 
 <td style="padding-left:10px;" valign="top" >
-[![superuser-temp-logo](http://superuser.com/content/superuser/img/logo.png)](http://superuser.com)  
+<a href="http://superuser.com"><img src="http://superuser.com/content/superuser/img/logo.png" alt="superuser-temp-logo"></a>
 
+<p><h3><a href="http://superuser.com">superuser.com</a></h3></p>
 
+<p>For <strong>computer enthusiasts</strong> and <strong>power users</strong></p>
 
-## [superuser.com](http://superuser.com)
-
-
-
-
-For **computer enthusiasts** and **power users**
-
-
-
-
-One word: _ewoks_. But also, Leia in a bikini. Still canon, but little odder than the earlier movies. In other words, things are going to get a little .. crazy .. in the finale.
+<p>One word: <em>ewoks</em>. But also, Leia in a bikini. Still canon, but little odder than the earlier movies. In other words, things are going to get a little .. crazy .. in the finale.</p>
 
 
 </tr>

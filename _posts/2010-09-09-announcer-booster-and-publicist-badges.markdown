@@ -18,19 +18,19 @@ We just rolled out three new badges to encourage **sharing worthy questions**:
 
 <table >
 <tr >
-<td valign="top" >![announcer badge (bronze)](/images/wordpress/announcer-badge.png)
+<td valign="top" ><img src="/images/wordpress/announcer-badge.png" alt="announcer badge (bronze)">
 </td>
-<td valign="top" >Shared a link to a question that was visited by **25** unique IP addresses in **3** days
+<td valign="top" >Shared a link to a question that was visited by <strong>25</strong> unique IP addresses in <strong>3</strong> days
 </td></tr>
 <tr >
-<td valign="top" >![booster badge (silver)](/images/wordpress/booster-badge.png)
+<td valign="top" ><img src="/images/wordpress/booster-badge.png" alt="booster badge (silver)">
 </td>
-<td valign="top" >Shared a link to a question that was visited by **300** unique IP addresses in **4** days
+<td valign="top" >Shared a link to a question that was visited by <strong>300</strong> unique IP addresses in <strong>4</strong> days
 </td></tr>
 <tr >
-<td valign="top" >![publicist badge (gold)](/images/wordpress/publicist-badge.png)
+<td valign="top" ><img src="/images/wordpress/publicist-badge.png" alt="publicist badge (gold)">
 </td>
-<td valign="top" >Shared a link to a question that was visited by **1,000** unique IP addresses in **5** days
+<td valign="top" >Shared a link to a question that was visited by <strong>1,000</strong> unique IP addresses in <strong>5</strong> days
 </td></tr>
 </table>
 

@@ -34,12 +34,12 @@ There are two levels:
 <tr >
 <td >Silver
 </td>
-<td >**400** upvotes
+<td ><strong>400</strong> upvotes
 </td></tr>
 <tr >
 <td >Gold
 </td>
-<td >**1000** upvotes
+<td ><strong>1000</strong> upvotes
 </td></tr>
 </table>
 

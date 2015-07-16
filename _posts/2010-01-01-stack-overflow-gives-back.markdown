@@ -26,60 +26,6 @@ First and foremost, our **community moderators**. They, more than anyone, set th
 
 
 
-<table width="500" >
-<tr >
-
-<td >
-
-
-<td >
-
-</tr>
-<tr >
-
-<td >
-
-
-<td >
-
-</tr>
-<tr >
-
-<td >
-
-
-<td >
-
-</tr>
-<tr >
-
-<td >
-
-
-<td >
-
-</tr>
-<tr >
-
-<td >
-
-
-<td >
-
-</tr>
-<tr >
-
-<td >
-
-
-<td >
-
-</tr>
-</table>
-
-
-
-
 As a gesture of thanks for their contributions this year, Stack Overflow offered to **make a donation to the charity or nonprofit of their choice**. I'm happy to report that through our moderators, the following donations were made:
 
 

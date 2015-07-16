@@ -24,30 +24,22 @@ Well, we rolled up our sleeves and increased search quality a whole ten percent 
 
 
 
+<ol>
+  <li>
+    Search now <strong><em>heavily</em> weights title</strong> in the results, since people seemed to really like that approach. This is currently used on the /ask page, which does a title-exclusive search when you tab away (onblur) the title field.
+  </li>
+  <li>
+    <p>Any individual search terms which map directly to the top 40 tags will be <strong>auto-converted to tag searches</strong>. So if you enter</p>
 
+    <p>c++ entities</p>
 
-  1. Search now **_heavily_ weights title** in the results, since people seemed to really like that approach. This is currently used on the /ask page, which does a title-exclusive search when you tab away (onblur) the title field.
+    <p>it will convert to</p>
 
+    <p>[c++] entities</p>
 
-
-
-  2. Any individual search terms which map directly to the top 40 tags will be **auto-converted to tag searches**. So if you enter
-
-
-
-c++ entities
-
-
-
- it will convert to 
-
-
-
-[c++] entities
-
-
-
-automagically on your behalf.
+    <p>automagically on your behalf.</p>
+  </li>
+</ol>
 
 
 
