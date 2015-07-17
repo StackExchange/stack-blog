@@ -81,9 +81,9 @@ So, then, our goals are twofold:
 
 
 
-    1. **Avoid the keyword-spam-free-resume ghetto**, and build a community of top-notch programmers who are serious about finding a great job. Yes, that means there is a nominal fee to file your CV.
+  1. **Avoid the keyword-spam-free-resume ghetto**, and build a community of top-notch programmers who are serious about finding a great job. Yes, that means there is a nominal fee to file your CV.
 
-    2. Allow optional, but deep, integration of your **public** Stack Overflow profile with your **private** CV. So instead of being a mere list of keywords and answers to questions, you become a living, breathing track record of what kind of programmer you are.
+  2. Allow optional, but deep, integration of your **public** Stack Overflow profile with your **private** CV. So instead of being a mere list of keywords and answers to questions, you become a living, breathing track record of what kind of programmer you are.
 
 
 

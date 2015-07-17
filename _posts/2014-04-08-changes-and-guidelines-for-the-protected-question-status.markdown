@@ -34,28 +34,28 @@ Originally, this functionality was limited to moderators, but during the past se
 
 
 
-
-  * [Privileged users](http://stackoverflow.com/help/privileges/protect-questions) can protect _and unprotect_ any question over a day old. Previous unprotect restrictions lifted [as of today](http://meta.stackoverflow.com/questions/226619/auto-protect-questions-that-get-more-than-n-answers-from-new-users-in-a-24-hour/228805#228805).
-
-
-
-  * The system (in the guise of the [Community user](http://stackoverflow.com/users/-1/community)) will automatically protect questions that've had either
-
-
-
-
-    1. 3 answers from new users deleted - this handles questions that tend to attract large amounts of spam over time.
-
-
-    2. 5* answers from new users scoring <= 0 posted in the past 24 hours - this handles questions that are somewhat topical, and are attracting large numbers of "participants" who aren't actually contributing anything useful. This is also new [as of today](http://meta.stackoverflow.com/questions/226619/auto-protect-questions-that-get-more-than-n-answers-from-new-users-in-a-24-hour/228805#228805).
-
-
-
-*This value can be higher or lower on sites that have demonstrated "special" patterns of new-user interaction.
-
+<ul>
+  <li><p>
+    <a href="http://stackoverflow.com/help/privileges/protect-questions">Privileged users</a> can protect _and unprotect_ any question over a day old. Previous unprotect restrictions lifted <a href="http://meta.stackexchange.com/questions/226619/auto-protect-questions-that-get-more-than-n-answers-from-new-users-in-a-24-hour/228805#228805">as of today</a>.
+  </p></li>
+  <li>
+    <p>The system (in the guise of the <a href="http://stackoverflow.com/users/-1/community">Community user</a>) will automatically protect questions that've had either</p>
+    <p><ol>
+      <li>
+        3 answers from new users deleted - this handles questions that tend to attract large amounts of spam over time.
+      </li>
+      <li>
+        5* answers from new users scoring <= 0 posted in the past 24 hours - this handles questions that are somewhat topical, and are attracting large numbers of "participants" who aren't actually contributing anything useful. This is also new <a href="http://meta.stackexchange.com/questions/226619/auto-protect-questions-that-get-more-than-n-answers-from-new-users-in-a-24-hour/228805#228805">as of today</a>.
+      </li>
+    </ol></p>
+    <p>*This value can be higher or lower on sites that have demonstrated "special" patterns of new-user interaction.</p>
+  </li>
+</ul>
 
 
-## Guidelines for Protecting questions:¶
+
+
+## Guidelines for Protecting questions:
 
 
 

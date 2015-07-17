@@ -4,7 +4,7 @@ comments: true
 date: 2013-06-25 16:45:45+00:00
 layout: post
 redirect_from: /2013/06/the-war-of-the-closes
-hero: 
+hero:
 slug: the-war-of-the-closes
 title: 'The War of the Closes '
 wordpress_id: 13438
@@ -19,7 +19,9 @@ It pains me when I hear people say that our sites are unfriendly, or that we cha
 But we have been working hard to make our sites more welcoming, reminding users that [feedback can be clear _and_ nice](http://blog.stackoverflow.com/2012/07/kicking-off-the-summer-of-love/), and helping new users [learn the ropes](http://blog.stackoverflow.com/2013/01/about-page-2-0-the-quickstartening/) _before_ they get frustrated.  **And, as of today, we've completely overhauled closing. **
 
 
-# Closing, we just can't quit you.![game-of-thrones-recap-jon-snow-ygritte-600x337 2](/images/wordpress/game-of-thrones-recap-jon-snow-ygritte-600x337-2.jpg)
+# Closing, we just can't quit you.
+
+![game-of-thrones-recap-jon-snow-ygritte-600x337 2](/images/wordpress/game-of-thrones-recap-jon-snow-ygritte-600x337-2.jpg)
 
 
 Oh, closing.  You are the watcher on the walls. You are the shield that guards the realms of men. Okay, so it's possible that I _may_ be thinking of the [Night's Watch](http://en.wikipedia.org/w/index.php?search=nights+watch&title=Special%3ASearch). No matter.
@@ -72,13 +74,13 @@ We're not going to lower our standards.  But if we want to _educate_ new users,
 
 
 
-	
+
   1. **make users want to improve questions, not argue about them** - "terminated as too sucky; re-submit when less so," and, "needs more information, add detail to move forward" are different. One makes you want to work your way to the next stage. One makes you want to kick someone's shins.
 
-	
+
   2. **make it clear exactly what needs to be fixed**, or is problematic, _without_ relying on information on another page.
 
-	
+
   3. **provide a clear path for to get questions re-opened** -  questions that _are_ brought up to our standards should get reopened.
 
 
@@ -86,80 +88,78 @@ We're not going to lower our standards.  But if we want to _educate_ new users,
 
 # Here's how:
 
+### 1. "On hold" will replace "closed" on newly closed posts
 
+![zq0SL 2](/images/wordpress/zq0SL-2-1024x651.jpg)
 
-
-
-
-	
-  1. "On hold" will replace "closed" on newly closed posts
-**![zq0SL 2](/images/wordpress/zq0SL-2-1024x651.jpg)The word "closed" sounded final. **Think about "closed" discussions, real estate deals, or job applications. In each case,"closed" means,
+**The word "closed" sounded final.** Think about "closed" discussions, real estate deals, or job applications. In each case,"closed" means,
 a) additional revisions are **not** welcome, and b) the matter **won't** be further considered.We led with a word that sounded final, so when we eventually told users they could edit their post, they weren't _listening_; they were dusting off the old debate uniform to _argue their case_.**"on hold" better conveys what we always meant:**
 
 
   > If you can edit your question to better fit our model, we can get you the help you need.
 
 
-  Questions _not _re-opened within five days will revert to displaying as "closed," to serve as a clearer signpost going forward.
+Questions _not_ re-opened within five days will revert to displaying as "closed," to serve as a clearer signpost going forward.
 
-	
-  2. New close reasons are nicer _and_ clearer
+### 2. New close reasons are nicer _and_ clearer
 
-	
-    1. "not constructive" and "not a real question" are replaced by:
+<ol>
+  <li>
+    <p><strong>"not constructive" and "not a real question" are replaced by:</strong></p>
 
+    <blockquote>
+      <p><strong>too broad</strong> - There are either too many possible answers, or good answers would be too long for this format. Please add details to narrow the answer set or to isolate an issue that can be answered in a few paragraphs.
 
-  > **too broad** - There are either too many possible answers, or good answers would be too long for this format. Please add details to narrow the answer set or to isolate an issue that can be answered in a few paragraphs.
-  > 
-  > **unclear what you're asking** - Please clarify your specific problem or add additional details to highlight exactly what you need. As it's currently written, it’s hard to tell exactly what you're asking.
-  >
-  > **primarily opinion based** - Many good questions generate _some_ degree of opinion based on expert experience, but answers to this question will tend to be almost entirely based on opinions, rather than facts, references, or specific expertise.
+      <p><strong>unclear what you're asking</strong> - Please clarify your specific problem or add additional details to highlight exactly what you need. As it's currently written, it’s hard to tell exactly what you're asking.
 
+      <p><strong>primarily opinion based</strong> - Many good questions generate <em>some</em> degree of opinion based on expert experience, but answers to this question will tend to be almost entirely based on opinions, rather than facts, references, or specific expertise.</p>
+    </blockquote>
 
-They're much less likely to make the reader defensive, and much more specific about exactly what to fix.
+    <p>They're much less likely to make the reader defensive, and much more specific about exactly what to fix.</p>
+  </li>
 
-	
-   2. "Off-Topic" now includes site-specific close reasons
-Many communities have decided that some questions that _sound_ like they fall under the topic "headline" ("cooking",  "photography", etc.) should be explicitly disallowed:
+  <li>
+    <p><strong>"Off-Topic" now includes site-specific close reasons</strong></p>
 
-	
-> * On our **cooking** site, recipe requests are off-topic, (but recipe replacements questions are allowed).
-> 
-	
-> * On **photography** - "fix my picture" questions are off topic, (but specific technique requests are allowed).
-> 
-	
-> * Stack Overflow is about **programming**, but programming questions you'd solve on a whiteboard or that ask what's wrong with a large block of code are no good.
-> 
+    <p>Many communities have decided that some questions that <em>sound</em> like they fall under the topic "headline" ("cooking", "photography", etc.) should be explicitly disallowed:</p>
 
+    <blockquote>
+      <p>On our <strong>cooking</strong> site, recipe requests are off-topic, (but recipe replacements questions are allowed).</p>
 
-Each example _seems_ on-topic, but the community definition of what's allowed has been adjusted to exclude them. These nuanced definitions have always been in each site's [help center](http://stackoverflow.com/help) (formerly the FAQ,) and are also the new user [About page](http://blog.stackoverflow.com/2013/01/about-page-2-0-the-quickstartening/).
+      <p>On <strong>photography</strong> - "fix my picture" questions are off topic, (but specific technique requests are allowed).</p>
 
-And, as of today, they are also available to "off-topic"  close-voters right in the close dialogue. Users can pick one from the site's list, or if none apply, they can enter a free-form one which will appear as a comment and as a choice for others voting to close the same question:
+      <p>Stack Overflow is about <strong>programming</strong>, but programming questions you'd solve on a whiteboard or that ask what's wrong with a large block of code are no good.</p>
+    </blockquote>
 
+    <p>Each example <em>seems</em> on-topic, but the community definition of what's allowed has been adjusted to exclude them. These nuanced definitions have always been in each site's <a href="http://stackoverflow.com/help">help center</a> (formerly the FAQ,) and are also the new user <a href="http://blog.stackoverflow.com/2013/01/about-page-2-0-the-quickstartening/">About page</a>.</p>
 
-<blockquote>"Your question appears to be about ferret grooming, which is off-topic for Stack Overflow".</blockquote>
+    <p>And, as of today, they are also available to "off-topic" close-voters right in the close dialogue. Users can pick one from the site's list, or if none apply, they can enter a free-form one which will appear as a comment and as a choice for others voting to close the same question:</p>
 
+    <blockquote>"Your question appears to be about ferret grooming, which is off-topic for Stack Overflow".</blockquote>
 
-These site-specific reasons will also address situations previously covered by "General Reference" and "Too Localized". Those were the least used and most misused reasons - moderator and team sampling found a huge percentage of their application to be erroneous. (References to location in a question were particularly dangerous - never mind that a couple of billion people might live there.)  But they did have some important uses:
-	
->  * Questions that could be answered with a single dictionary search on English, and
-> 
->  * Unguided requests to debug huge blocks of code on Stack Overflow
+    <p>These site-specific reasons will also address situations previously covered by "General Reference" and "Too Localized". Those were the least used and most misused reasons - moderator and team sampling found a huge percentage of their application to be erroneous. (References to location in a question were particularly dangerous - never mind that a couple of billion people might live there.) But they did have some important uses:</p>
 
+    <blockquote>
+      <ul>
+	      <li>Questions that could be answered with a single dictionary search on English, and</li>
+        <li>Unguided requests to debug huge blocks of code on Stack Overflow</li>
+      </ul>
+    </blockquote>
 
-In almost all of their _good_ uses, **they were clarifying what a community, over time, had deemed to be off-topic for their site.** Programming questions,_ but not code dumps. _English language questions, _but not single search definitions.  _
+    <p>In almost all of their <em>good</em> uses, <strong>they were clarifying what a community, over time, had deemed to be off-topic for their site.</strong> Programming questions, <em>but not code dumps.</em> English language questions, <em>but not single search definitions.</em></p>
+  </li>
 
-	
-  3. Duplicates now focus on redirection to the answers you need
-All dupes now must point to an answered question, and the new language focuses on getting you answers:
+  <li>
+    <p><strong>Duplicates now focus on redirection to the answers you need</strong></p>
 
+    <p>All dupes now must point to an answered question, and the new language focuses on getting you answers:</p>
 
-<blockquote>marked as [duplicate] - this question has been asked before and already has an answer. If those answers do not fully address your question, please edit this question to explain how it is different, or ask a new question.</blockquote>
+    <blockquote>marked as [duplicate] - this question has been asked before and already has an answer. If those answers do not fully address your question, please edit this question to explain how it is different, or ask a new question.</blockquote>
+</ol>
 
-	
-  3. Questions edited by the original poster automatically go to the re-open queue
-Once there, other users will review and can re-open improved posts.  No more flagging your own question, or going to Meta to  request a formal appellate review. If you make meaningful edits to your question within five days of being put on hold, it gets considered for re-opening.
+### 3. Questions edited by the original poster automatically go to the re-open queue
+
+Once there, other users will review and can re-open improved posts. No more flagging your own question, or going to Meta to request a formal appellate review. If you make meaningful edits to your question within five days of being put on hold, it gets considered for re-opening.
 
 
 
@@ -167,10 +167,10 @@ Once there, other users will review and can re-open improved posts.  No more fl
 # Oh, one last thing.
 
 
-**Thank you.** A ton of work has gone into this, and as usual, the best ideas came from [user input on Meta](http://meta.stackoverflow.com/questions/184154/closing-changes-on-hold-unclear-too-broad-opinion-based-off-topic-reasons), so we hope you're as proud of these changes as we are. We truly appreciate your feedback, and you've been incredibly vocal in your support for _almost_ all of the changes.  We know some of you have concerns about moving the good parts of "too localized" into the off-topic menu. We're [listening, and are going to keep a close eye on it](http://meta.stackoverflow.com/questions/185102/responding-to-your-too-localized-concerns/185109?noredirect=1#comment567011_185109) as we roll it out network-wide.  In particular, we want to know if you're finding things that you can't close now, but could before, and we'll continue to adjust and iterate based on what we learn.
+**Thank you.** A ton of work has gone into this, and as usual, the best ideas came from [user input on Meta](http://meta.stackexchange.com/questions/184154/closing-changes-on-hold-unclear-too-broad-opinion-based-off-topic-reasons), so we hope you're as proud of these changes as we are. We truly appreciate your feedback, and you've been incredibly vocal in your support for _almost_ all of the changes.  We know some of you have concerns about moving the good parts of "too localized" into the off-topic menu. We're [listening, and are going to keep a close eye on it](http://meta.stackexchange.com/questions/185102/responding-to-your-too-localized-concerns/185109?noredirect=1) as we roll it out network-wide. In particular, we want to know if you're finding things that you can't close now, but could before, and we'll continue to adjust and iterate based on what we learn.
 
 It really seems like there should be some kind of badge for reading something this long, but the devs shot that idea down.  Hard.  Apparently we "will never ever offer badges to promote your endless ramblings, Jay."
 
 It would have felt nicer if they'd told me the idea was on hold.
 
-http://www.youtube.com/watch?feature=player_detailpage&v=xGytDsqkQY8#t=17s
+<http://www.youtube.com/watch?feature=player_detailpage&v=xGytDsqkQY8#t=17s>
