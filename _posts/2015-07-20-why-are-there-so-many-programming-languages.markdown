@@ -18,7 +18,7 @@ You can create a web site using Ruby, Java, Python, C#, Go or JavaScript. You ca
 
 Underlying this fact is that all of these languages are *Turing complete*. That’s a highfalutin computer science term which states, essentially, that any language is capable of creating any program.
 
-In a sense, at their most foundational level, these languages are all the same. But on the surface, they vary a lot. This is where utility come in.
+In a sense, at their most foundational level, these languages are all the same. But on the surface, they vary a lot. This is where utility comes in.
 
 ### Utility
 
@@ -38,7 +38,7 @@ Beyond utility, we developers have tastes. We have preferences.
 
 A programming language is a tool for humans to express ideas to computers. Read that again: humans, express.
 
-Because we have so many choices of good programming languages, we can choose based on personal preferences. Some developers like Ruby’s flexibility, while others prefer Java’s strictness.
+Because we have so many choices of good programming languages, we can choose based on personal preferences. Some developers like Ruby’s flexibility, while others prefer Java’s strictness. Some languages look like math, where others feel like prose.
 
 ### People
 
@@ -50,4 +50,4 @@ Stack Overflow chose C# mostly because that’s what our founders knew. In turn,
 
 ### Variety is strength
 
-In summary, we have a lot of languages because it pays off. This variety of tools makes interesting programs – interesting companies, and interesting careers – possible.
+In summary, we have a lot of languages because it pays off. This variety of tools makes interesting programs – and interesting companies, and interesting careers – possible.
