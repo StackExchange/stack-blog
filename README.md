@@ -192,11 +192,11 @@ gem install rouge
 
 **2. Run a local version of the blog.** Using Git, clone the latest version of this repository to your local machine using the following command:
 ```
-git clone https://github.com/StackExchange/blog.git
+git clone https://github.com/StackExchange/stack-blog.git
 ```
 Then go into root of the folder and run `jekyll serve`:
 ```
-cd blog
+cd stack-blog
 jekyll serve
 ```
 This will get a local version of the blog running on your machine, accessible on `localhost:4000/blog/`
