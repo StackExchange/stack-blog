@@ -22,7 +22,7 @@ A solution to the problem was created for our localization project. What happene
 
 ![SE Network Dev - Average Build Times](http://i.stack.imgur.com/z6Yzx.png)
 
-Another nice side effect is that our MVC 5 views can now contain C# 6 code ir Razor code blocks. And it gets even better. In case you don't need (or want) to pre-compile in each build the package provides a Roslyn-backed ViewEngine, which gives you the same C# 6 support, at run-time.
+Another nice side effect is that our MVC 5 views can now contain C# 6 code in Razor code blocks. And it gets even better. In case you don't need (or want) to pre-compile in each build the package provides a Roslyn-backed ViewEngine, which gives you the same C# 6 support, at run-time.
 
 A future prospect is migrating to ASP.NET 5 and MVC 6, where DNX and the MVC 6 Razor actually can do parallel pre-compilation and meta-programming. When that happens, migrating our localization meta-programming code won't be difficult as the interfaces are nearly identical.
 
