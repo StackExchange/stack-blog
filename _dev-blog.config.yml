@@ -15,7 +15,7 @@ avatar: /images/blog-logo.svg
 # Flags below are optional
 #
 
-posts_showdrafts: false
+posts_showdrafts: true
 posts_pagecount: 5
 
 # Includes an icon in the footer for each username you enter

@@ -242,6 +242,9 @@ article.post {
 	&:last-child{
 		border-bottom: none;
 	}
+	&.draft {
+		background-color: #fff3c7;
+	}
 	.inner-container {
 		max-width: 800px;
 	}

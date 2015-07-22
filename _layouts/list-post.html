@@ -1,4 +1,4 @@
-<article class="preview-post post">
+<article class="preview-post post{% if post.draft %} draft{% endif %}">
   {% if post.hero %}{% unless post.tags contains 'podcasts' %}
   <div class="hero-container">
     <a class="hero_url" href="{{ post.url }}"><img class="hero" src=" {{ post.hero }}"></a>
