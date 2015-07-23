@@ -53,11 +53,7 @@ adshost: clc.dev.stackoverflow.com
 
 collections:
   authors:
-    output: true
-    permalink: /authors/:title/
-  categories:
-    output: true
-    permalink: /category/:title/
+    output: false
 
 #
 # !! You don't need to change any of the configuration flags below !!
