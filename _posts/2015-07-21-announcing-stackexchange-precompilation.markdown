@@ -3,7 +3,6 @@ layout: post
 date: 2015-07-21
 author: m0sa
 title: Announcing StackExchange.Precompilation
-hero: /images/engineering-channel.jpg
 description: "Do you have an ASP.NET MVC 5 project and hate how slow aspnet_compiler.exe is? Do you feel you're missing out on all the meta-programming goodies DNX brings to the table? We have a solution for you. Enter StackExchange.Precompilation."
 tags:
 - engineering
