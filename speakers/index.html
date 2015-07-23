@@ -2,28 +2,69 @@
 layout: default
 top_nav: speakers
 ---
-<div class="inner-container padded media-padded">
-	<h1 class="h3">Speakers</h1>
-	{% for person in site.people %}
-		{% if person.speaker %}
-		{% unless person.inactive %}
-			<div class="author-container large -col6">
-			  	<img src="{{ person.avatar }}" class="avatar">
-			  	<div class="info">
-			  		<h2 class="h4 author-name">{{ person.name }}</a>
-			  		<h3 class="h5">{{ person.job }}</h3>
-			  		<h3 class="h5 author-info">
-			  			{% if person.twitter %}<a href="https://twitter.com/{{ author.twitter }}">@{{ person.twitter }}</a>{% endif %}
-			  			{% if person.twitter and person.website %} &bull; {% endif %}
-			  			{% if person.website %}<a href="{{ person.website }}">Website</a>{% endif %}
-			  		</h3>
-					{% for tag in person.tags %}
-						<span class="postTag">{{ tag }}</span>
-					{% endfor %}</p>
-
-			  	</div>
-			</div>
-		{% endunless %}
-		{% endif %}
+<div class="inner-container padded media-padded -row">
+	<div class="-col8">
+		<div class="-row">
+			<h1 class="h3">Speakers</h1>
+			<p class="-col11">
+				Single-origin coffee polaroid occupy, deep-vee Tumblr flexitarian chambray cred jorts normcore cronut. 
+			</p>
+		</div>
+		{% for person in site.people %}
+			{% if person.speaker %}
+			{% unless person.inactive %}
+				<div class="author-container large -row">
+				  	<img src="{{ person.avatar }}" class="avatar">
+				  	<div class="info -col9">
+				  		<h2 class="h4 author-name">{{ person.name }}</h2>
+				  		<h3 class="h5">{{ person.job }}</h3>
+				  		<h3 class="h5 author-info">
+				  			{{ person.speaker_intro }}
+				  		</h3>
+						{% for tag in person.speaker_tags %}
+							<span class="postTag">{{ tag }}</span>
+						{% endfor %}</p>
+				  		<h3 class="h5 author-info">
+				  			{% if person.twitter %}
+				  				<a href="https://twitter.com/{{ person.twitter }}">Twitter</a>
+				  			{% endif %}
+				  			{% if person.website %}
+				  				{% if person.twitter %} &bull; {% endif %}
+				  				<a href="{{ person.website }}">Website</a>
+				  			{% endif %}
+				  			{% if person.github %}
+				  				{% if person.twitter or person.website %} &bull; {% endif %}
+				  				<a href="https://github.com/{{ author.github }}">GitHub</a>
+				  			{% endif %}
+				  			{% if person.stack %}
+				  				{% if person.twitter or person.website or person.github %} &bull; {% endif %}
+				  				<a href="{{ person.stack }}">Stack Overflow</a>
+				  			{% endif %}
+				  		</h3>
+				  	</div>
+				</div>
+			{% endunless %}
+			{% endif %}
 	{% endfor %}
+	</div>
+	<div class="-col4">
+		<h2 class="h4">
+			Need a speaker?
+		</h2>
+		<p>
+			Jean shorts 90's selvage, iPhone cliche skateboard craft beer banjo fingerstache bicycle rights retro slow-carb bespoke pickled.
+		</p>
+		<h2 class="h4">
+			Speaker tags
+		</h2>
+		<p>
+			<span class="postTag">engineering</span>
+			<span class="postTag">community</span>
+			<span class="postTag">design</span>
+			<span class="postTag">recruiting</span>
+			<span class="postTag">product</span>
+			<span class="postTag">marketing</span>
+			<span class="postTag">sales</span>
+		</p>
+	</div>
 </div>
