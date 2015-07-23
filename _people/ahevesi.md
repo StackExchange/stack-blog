@@ -1,6 +1,7 @@
 ---
 layout: author
 name: Ana Hevesi
+speaker: true
 id: ahevesi
 twitter: anoemi
 job: Community Manager
