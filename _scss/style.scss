@@ -544,6 +544,32 @@ footer {
 	}
 }
 
+#speakers {
+	padding-top: 30px;
+	
+	.info {
+		padding-top: 0;
+	}
+	
+	.author-name {
+		padding-top: 0;
+	}
+	
+	.author-info {
+		color: #737c82;
+		line-height: 22px;
+		margin-bottom: 8px;
+	}
+	
+	.author-meta-info {
+		color: #07c;
+		margin-top: 8px;
+	}
+	
+	.postTag {
+	}
+}
+
 
 @media (max-width: $mediaQuery-small) {
 	div.inner-container.padded {
