@@ -41,7 +41,7 @@ google_analytics: ""
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://stackexchange.github.io/blog
+url: http://blog.stackexchange.com
 
 # Host name for careers-jobs ad server
 adshost: local.clc.stackoverflow.com
