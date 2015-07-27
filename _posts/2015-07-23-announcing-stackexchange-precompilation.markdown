@@ -18,7 +18,7 @@ Someone might consider this crazy, but let me give you an idea of why it was the
 
 A solution for the problem was created in our localization project. What happened next is I switched from the Core Q&A team to the Careers team (yes, [team switching is a thing at Stack Exchange](http://blog.stackexchange.com/2015/07/going-from-mobile-back-to-the-web/)) for a while, to reconcile different localization tools used by both teams. StackExchange.Precompilation is the result of packaging Core's "make-pre-compilation-fast-and-pluggable" code into a package that we, and now you, can re-use between teams. Here's a nice chart to illustrate what has happened to build times in the past year thanks to optimizing pre-compilation (spoiler: they're back to around 2 minutes):
 
-![SE Network Dev - Average Build Times](http://i.stack.imgur.com/z6Yzx.png)
+![SE Network Dev - Average Build Times](https://i.stack.imgur.com/z6Yzx.png)
 
 Another nice side effect is that our MVC 5 views can now contain C# 6 code in Razor code blocks. And it gets even better! In case you don't need (or want) to pre-compile in each build, the package provides a Roslyn-backed ViewEngine, which gives you the same C# 6 support, at run-time.
 
