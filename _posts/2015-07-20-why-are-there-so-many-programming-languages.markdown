@@ -40,7 +40,7 @@ Because we have many choices of good programming languages, we can select one th
 
 ### People first
 
-Beyond utility, and beyond taste, businesses run on people. Often, you will choose a programming languages based on what you, or the people around you, know.
+Beyond utility, and beyond taste, businesses run on people. Often, you will choose a programming language based on what you, or the people around you, know.
 
 Stack Overflow chose C# mostly because that’s what our founders knew. In turn, it’s what the founders’ friends and colleagues knew. Which made recruiting easier, and allowed Stack to get to market more quickly.
 
