@@ -29,7 +29,7 @@ This is the official company blog for Stack Exchange. Everything related to new 
 
 ## Quickstart
 
-###1. Add yourself as a contributor with an author file
+###1. Add yourself as a contributor with an people file
 
 [Add yourself as a contributor on the blog](https://github.com/StackExchange/blog/new/master/_people) ([See example file](https://github.com/StackExchange/blog/edit/master/_people/jonhmchan.md))
 
