@@ -1,10 +1,11 @@
 ---
 layout: post
 date: 2015-07-29
-draft: true
 author: matt
 title: “Why are there so many programming languages?”
 description: I was asked this question twice in the past week, by colleagues who work with our clients. It’s a great question…
+tags:
+- engineering
 ---
 
 I was asked this question twice in the past week, by colleagues who work with our clients. It sounds like a dumb question, but it’s not.
