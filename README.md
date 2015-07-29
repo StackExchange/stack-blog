@@ -56,7 +56,7 @@ name: Jon Chan
 job: Developer, Head of Evangelism
 avatar: https://www.gravatar.com/avatar/0090f1f22a03e38ca61dc955e1d0a346?s=100
 twitter: jonhmchan
-github: fakejon
+github: jonhmchan
 stack: http://stackoverflow.com/users/1043674/jon-chan
 website: http://www.jonhmchan.com/
 ---
