@@ -42,6 +42,8 @@ name: [your full name]
 job: [job title]
 avatar: [url to an image to be used with all your posts. Most people use their Gravatar pic url]
 twitter: [your twitter handle, without the @]
+github: [your github user name]
+stack: [url to your stack overflow/exchange profile]
 website: [url to your personal site, optional. You can remove this entire line if you don't have one.]
 ---
 ```
@@ -54,6 +56,8 @@ name: Jon Chan
 job: Developer, Head of Evangelism
 avatar: https://www.gravatar.com/avatar/0090f1f22a03e38ca61dc955e1d0a346?s=100
 twitter: jonhmchan
+github: fakejon
+stack: http://stackoverflow.com/users/1043674/jon-chan
 website: http://www.jonhmchan.com/
 ---
 ```
