@@ -495,9 +495,11 @@ article.author {
 		width: 50px;
 		margin-right: 15px;
 		float: left;
+		display: block;
 		border-radius: 25px;
 	}
 	.info {
+		float: left;
 		.author-name {
 			padding-top: 8px;
 			font-size: 16px;
@@ -542,6 +544,32 @@ footer {
 				margin-bottom: 0;
 			}
 		}
+	}
+}
+
+#speakers {
+	padding-top: 30px;
+	
+	.info {
+		padding-top: 0;
+	}
+	
+	.author-name {
+		padding-top: 0;
+	}
+	
+	.author-info {
+		color: #737c82;
+		line-height: 22px;
+		margin-bottom: 8px;
+	}
+	
+	.author-meta-info {
+		color: #07c;
+		margin-top: 8px;
+	}
+	
+	.postTag {
 	}
 }
 

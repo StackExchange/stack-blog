@@ -159,8 +159,8 @@ module Jekyll
 
         # Here we want to pre-render all the posts once rather than once for each pagining permutation they appear in
         Jekyll.logger.info 'Starting: pre-generation of all list posts'
-        for author in site.collections['authors'].docs
-          Author.new(site, author)
+        for person in site.collections['people'].docs
+          Author.new(site, person) unless person.data['author'] == false
         end
 
         # Exclude drafts from all collections early on

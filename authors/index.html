@@ -4,7 +4,8 @@ top_nav: authors
 ---
 <div class="inner-container padded media-padded">
 	<h1 class="h3">Contributors</h1>
-	{% for author in site.authors %}
+	{% for author in site.people %}
+		{% unless author.author == false %}
 		{% unless author.inactive %}
 		{% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
 		{% if thecycle == 'odd' %}
@@ -25,6 +26,7 @@ top_nav: authors
 		{% if thecycle == 'even' %}
 		</div>
 		{% endif %}
+		{% endunless %}
 		{% endunless %}
 	{% endfor %}
 </div>

@@ -6,7 +6,7 @@ This blog runs on [Jekyll](http://jekyllrb.com/) and [GitHub Pages](https://page
 If you are actively involved in improving the infrastructure of this project, you should read the documentation for these platforms thoroughly (they're pretty short as it is). If you are simply contributing, this guide should be enough to get you going.
 
 ## Quick Links
- - [Add yourself as a contributor on the blog](https://github.com/StackExchange/blog/new/master/_authors) ([See an example file](https://github.com/StackExchange/blog/edit/master/_authors/jonhmchan.md))
+ - [Add yourself as a contributor on the blog](https://github.com/StackExchange/blog/new/master/_people) ([See an example file](https://github.com/StackExchange/blog/edit/master/_people/jonhmchan.md))
  - [Publish a new post](https://github.com/StackExchange/blog/new/master/_posts) ([See an example file](https://github.com/StackExchange/blog/edit/master/_posts/2014-1-28-My-First-Six-Weeks-Working-At-Stack-Overflow.md), [published version](http://stackexchange.github.io/blog/01/28/My-First-Six-Weeks-Working-At-Stack-Overflow/))
  - [Dev blog (for employees only, where to preview posts before going live)](http://dev.blog.stackexchange.com/)
  - [Internal image uploader (for employees only, must be on VPN or on office network)](http://blogtools.ds.stackexchange.com/)
@@ -31,9 +31,9 @@ This is the official company blog for Stack Exchange. Everything related to new 
 
 ###1. Add yourself as a contributor with an author file
 
-[Add yourself as a contributor on the blog](https://github.com/StackExchange/blog/new/master/_authors) ([See example file](https://github.com/StackExchange/blog/edit/master/_authors/jonhmchan.md))
+[Add yourself as a contributor on the blog](https://github.com/StackExchange/blog/new/master/_people) ([See example file](https://github.com/StackExchange/blog/edit/master/_people/jonhmchan.md))
 
-You need to create a new markdown file with your username in the `_authors` folder to be included as a contributor on the blog. For example, Jon Chan uses the username `jonhmchan` so he would create a new file named `jonhmchan.md`. In the content of this markdown file should be the following (you don't need the square brackets):
+You need to create a new markdown file with your username in the `_people` folder to be included as a contributor on the blog. For example, Jon Chan uses the username `jonhmchan` so he would create a new file named `jonhmchan.md`. In the content of this markdown file should be the following (you don't need the square brackets):
 ```
 ---
 layout: author
@@ -59,7 +59,7 @@ website: http://www.jonhmchan.com/
 ```
 **How to add this file**
 
-If you are a developer, you can do this simply by submitting a PR or adding this file to the `_authors` directory. If you are not a developer, you can use [this link on GitHub](https://github.com/StackExchange/blog/new/master/_authors) to create this file, then submit your changes by adding a commit message like `Added [your name] to authors` and hitting the `Commit new file` button:
+If you are a developer, you can do this simply by submitting a PR or adding this file to the `_people` directory. If you are not a developer, you can use [this link on GitHub](https://github.com/StackExchange/blog/new/master/_people) to create this file, then submit your changes by adding a commit message like `Added [your name] to authors` and hitting the `Commit new file` button:
 
 ![Adding yourself as an author](images/adding_authors.png)
 
