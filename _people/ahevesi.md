@@ -6,8 +6,4 @@ twitter: anoemi
 job: Community Manager
 avatar: https://i.stack.imgur.com/UEcHm.jpg
 website: http://enemygatedown.com/
-speaker: true
-speaker_intro: Butcher leggings VHS, ennui drinking vinegar viral narwhal church-key cardigan Kickstarter sartorial.
-speaker_tags:
-- community
 ---
