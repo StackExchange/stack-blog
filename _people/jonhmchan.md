@@ -4,12 +4,12 @@ id: jonhmchan
 name: Jon Chan
 avatar: https://i.stack.imgur.com/UK4Xi.jpg
 twitter: jonhmchan
-github: fakejon
+github: jonhmchan
 job: Developer, Head of Evangelism
 stack: http://stackoverflow.com/users/1043674/jon-chan
 website: http://www.jonhmchan.com/
 speaker: true
-speaker_intro: Squid Brooklyn pour-over cornhole, Helvetica before they sold out bitters. Ugh distillery taxidermy heirloom, Etsy Pitchfork letterpress umami.
+speaker_intro: "Jon is a developer and heads evangelism efforts at Stack Overflow. He's also the founder of [Bento](https://www.bento.io/), a tech education site. He frequently speaks on product development, tech education, and diversity."
 speaker_tags:
 - engineering
 - community
