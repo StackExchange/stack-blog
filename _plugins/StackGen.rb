@@ -107,7 +107,7 @@ module Jekyll
 
   # Contains an author for side-bar rendering
   class Author
-    attr_accessor :id, :url, :name, :avatar, :twitter, :website, :job, :posts
+    attr_accessor :id, :url, :name, :avatar, :twitter, :website, :github, :stack, :job, :posts
 
     def initialize(site, author_doc)
       author_data = author_doc.data
@@ -117,6 +117,8 @@ module Jekyll
       @avatar = author_data['avatar']
       @twitter = author_data['twitter']
       @website = author_data['website']
+      @github = author_data['github']
+      @stack = author_data['stack']
       @job = author_data['job']
       @posts = []
       All.authors[@id] = self
@@ -136,6 +138,9 @@ module Jekyll
         'name' => name,
         'avatar' => avatar,
         'twitter' => twitter,
+        'website' => website,
+        'github' => github,
+        'stack' => stack,
         'url' => url,
         'job' => job,
         'posts' => posts

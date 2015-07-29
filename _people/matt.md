@@ -6,4 +6,5 @@ job: Engineering Manager
 avatar: https://i.stack.imgur.com/ViSXJ.jpg
 twitter: clipperhouse
 website: http://clipperhouse.com
+github: clipperhouse
 ---

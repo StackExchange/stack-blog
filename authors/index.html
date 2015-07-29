@@ -17,9 +17,21 @@ top_nav: authors
 			  		<h2 class="h4 author-name"><a href="{{ site.baseurl}}/authors/{{ author.id }}/">{{ author.name }}</a></h2>
 			  		<h3 class="h5">{{ author.job }}</h3>
 			  		<h3 class="h5 author-info">
-			  			{% if author.twitter %}<a href="https://twitter.com/{{ author.twitter }}">@{{ author.twitter }}</a>{% endif %}
-			  			{% if author.twitter and author.website %} &bull; {% endif %}
-			  			{% if author.website %}<a href="{{ author.website }}">Website</a>{% endif %}
+			  			{% if author.website %}
+			  				<a href="{{ author.website }}">Website</a>
+			  			{% endif %}
+			  			{% if author.twitter %}
+			  				{% if author.website %} &bull; {% endif %}
+			  				<a href="https://twitter.com/{{ author.twitter }}">Twitter</a>
+			  			{% endif %}
+			  			{% if author.github %}
+			  				{% if author.twitter or author.website %} &bull; {% endif %}
+			  				<a href="https://github.com/{{ author.github }}">GitHub</a>
+			  			{% endif %}
+			  			{% if author.stack %}
+			  				{% if author.twitter or author.website or author.github %} &bull; {% endif %}
+			  				<a href="{{ author.stack }}">Stack Overflow</a>
+			  			{% endif %}
 			  		</h3>
 			  	</div>
 			</div>

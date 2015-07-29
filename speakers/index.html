@@ -25,12 +25,12 @@ top_nav: speakers
 							<span class="postTag">{{ tag }}</span>
 						{% endfor %}
 				  		<h3 class="h5 author-meta-info">
-				  			{% if person.twitter %}
-				  				<a href="https://twitter.com/{{ person.twitter }}">Twitter</a>
-				  			{% endif %}
 				  			{% if person.website %}
-				  				{% if person.twitter %} &bull; {% endif %}
 				  				<a href="{{ person.website }}">Website</a>
+				  			{% endif %}
+				  			{% if person.twitter %}
+				  				{% if person.website %} &bull; {% endif %}
+				  				<a href="https://twitter.com/{{ person.twitter }}">Twitter</a>
 				  			{% endif %}
 				  			{% if person.github %}
 				  				{% if person.twitter or person.website %} &bull; {% endif %}
