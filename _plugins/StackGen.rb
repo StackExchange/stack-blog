@@ -107,7 +107,7 @@ module Jekyll
 
   # Contains an author for side-bar rendering
   class Author
-    attr_accessor :id, :url, :name, :avatar, :twitter, :website, :github, :stack, :job, :posts
+    attr_accessor :id, :url, :name, :avatar, :twitter, :website, :github, :stack, :job
 
     def initialize(site, author_doc)
       author_data = author_doc.data
@@ -120,16 +120,20 @@ module Jekyll
       @github = author_data['github']
       @stack = author_data['stack']
       @job = author_data['job']
-      @posts = []
+      @_posts = []
       All.authors[@id] = self
     end
 
+    def posts
+      @_posts.sort_by {|post| -post.date.to_f}
+    end
+
     def add_post(pre_post)
-      @posts << pre_post
+      @_posts << pre_post
     end
 
     def post_count
-      @posts.size
+      @_posts.size
     end
 
     def to_liquid(attrs = nil)
