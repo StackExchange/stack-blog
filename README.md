@@ -42,9 +42,10 @@ name: [your full name]
 job: [job title]
 avatar: [url to an image to be used with all your posts. Most people use their Gravatar pic url]
 twitter: [your twitter handle, without the @]
-github: [your github user name]
-stack: [url to your stack overflow/exchange profile]
-website: [url to your personal site, optional. You can remove this entire line if you don't have one.]
+github: [optional, your github user name]
+stack: [optional, url to your stack overflow/exchange profile]
+youtube: [optional, url to youtube video or playlist]
+website: [optional, url to your personal site]
 ---
 ```
 So Jon Chan's `jonhmchan.md` file would look like:
