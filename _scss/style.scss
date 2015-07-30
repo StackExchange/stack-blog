@@ -51,12 +51,19 @@ a, .link {
 	border: 0 solid #dfeaf1;
 	white-space: nowrap;
 	transition: all 0.1s ease-in;
-	&:hover {
-		background-color: #c3dae9;
-		border-color: #c3dae9;
-		color: #365f7c;
+}
+
+a[href] {
+	.post-tag, .postTag {
+		&:hover {
+			background-color: #c3dae9;
+			border-color: #c3dae9;
+			color: #365f7c;
+			text-decoration: none;
+		}
 	}
 }
+
 ._textRight 	{ text-align: right; }
 ._textLeft 		{ text-align: left; }
 ._textCenter 	{ text-align: center; }
@@ -567,8 +574,23 @@ footer {
 	
 	.postTag {
 	}
+
 }
 
+#tag-filter {
+	display: none;
+	box-sizing: border-box;
+	padding: 12px;
+	background-color: #eee;
+
+	p {
+		margin: 0;
+	}
+
+	#remove {
+		float: right;
+	}
+}
 
 @media (max-width: $mediaQuery-small) {
 	div.inner-container.padded {

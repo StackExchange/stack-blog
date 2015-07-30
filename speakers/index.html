@@ -10,11 +10,20 @@ top_nav: speakers
 				The humans who comprise Stack Exchange are part of an organization unlike any other. We have a large variety of talented individuals who are constantly working to improve themselves and the world around them. Whether it be engineering, design, marketing, or community development our team has a large variety of skills and experience to speak about.
 			</p>
 		</div>
+		<div id="tag-filter" class="-row">
+			<p id="remove">
+				<a href="#">remove filter</a>				
+			</p>			
+			<p>
+				<strong>Displaying all speakers tagged:</strong> 
+				<span class="postTag"></span>
+			</p>
+		</div>
 		{% for person in site.people %}
 			{% if person.speaker %}
 			{% unless person.inactive %}
 				<a name="{{ person.id }}"></a>
-				<div id="speakers" class="author-container large -row">
+				<div class="author-container large -row {% for tag in person.speaker_tags %}{{ tag }} {% endfor %}">
 				  	<img src="{{ person.avatar }}" class="avatar">
 				  	<div class="info -col9">
 				  		<h2 class="h4 author-name">{{ person.name }}</h2>
@@ -65,13 +74,18 @@ top_nav: speakers
 			<h2 class="h4">
 				Speaker tags
 			</h2>
-			<span class="postTag">engineering</span>
-			<span class="postTag">community</span>
-			<span class="postTag">design</span>
-			<span class="postTag">recruiting</span>
-			<span class="postTag">product</span>
-			<span class="postTag">marketing</span>
-			<span class="postTag">sales</span>
+			<a href="#engineering" class="postTag">engineering</a>
+			<a href="#community" class="postTag">community</a>
+			<a href="#design" class="postTag">design</a>
+			<a href="#recruiting" class="postTag">recruiting</a>
+			<a href="#product" class="postTag">product</a>
+			<a href="#marketing" class="postTag">marketing</a>
+			<a href="#sales" class="postTag">sales</a>
+			<a href="#diversity" class="postTag">diversity</a>
 		</div>
 	</div>
 </div>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="{{ site.baseurl }}/js/speakers.js"></script>
+
