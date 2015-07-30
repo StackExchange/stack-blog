@@ -13,6 +13,7 @@ top_nav: speakers
 		{% for person in site.people %}
 			{% if person.speaker %}
 			{% unless person.inactive %}
+				<a name="{{ person.id }}"></a>
 				<div id="speakers" class="author-container large -row">
 				  	<img src="{{ person.avatar }}" class="avatar">
 				  	<div class="info -col9">
