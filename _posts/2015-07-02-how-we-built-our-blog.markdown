@@ -380,7 +380,7 @@ $(document).ready(function() {
 			post_info.push('By ' + author.name);
 			post_info.push('In ' + post.tags.join(", "))
 
-			article.find(".post-info").html(post_info.join(" &bull; "));
+			article.find(".post-info").html(post_info.join(" • "));
 
 			article.find("img.hero").attr("src", post.hero);
 			article.find("a.hero_url").attr("href", post.url);

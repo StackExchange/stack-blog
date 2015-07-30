@@ -12,7 +12,7 @@
       </div>
       {% endif %}
       <h1 class="h3"><a class="title" href="{{ post.url }}">{{ post.title }}</a></h1>
-      <p class="post-info">{{ post.date | date: "%B %e, %Y" }} &bull; By {{ author.name }} &bull; In {{ post.tags | join: ', ' }}</p>
+      <p class="post-info">{{ post.date | date: "%B %e, %Y" }} • By {{ author.name }} • In {{ post.tags | join: ', ' }}</p>
     </div>
     <div class="clearfix"></div>
 

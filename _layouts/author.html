@@ -16,19 +16,19 @@ top_nav: contributors
 				  				<a href="{{ page.author.website }}">Website</a>
 				  			{% endif %}
 				  			{% if page.author.twitter %}
-				  				{% if page.author.website %} &bull; {% endif %}
+				  				{% if page.author.website %} • {% endif %}
 				  				<a href="https://twitter.com/{{ page.author.twitter }}">Twitter</a>
 				  			{% endif %}
 				  			{% if page.author.github %}
-				  				{% if page.author.twitter or page.author.website %} &bull; {% endif %}
+				  				{% if page.author.twitter or page.author.website %} • {% endif %}
 				  				<a href="https://github.com/{{ author.github }}">GitHub</a>
 				  			{% endif %}
 				  			{% if page.author.stack %}
-				  				{% if page.author.twitter or page.author.website or page.author.github %} &bull; {% endif %}
+				  				{% if page.author.twitter or page.author.website or page.author.github %} • {% endif %}
 				  				<a href="{{ page.author.stack }}">Stack Overflow</a>
 				  			{% endif %}
 				  			{% if page.author.youtube %}
-				  				{% if page.author.twitter or page.author.website or page.author.github or page.author.stack %} &bull; {% endif %}
+				  				{% if page.author.twitter or page.author.website or page.author.github or page.author.stack %} • {% endif %}
 				  				<a href="{{ page.author.youtube }}">YouTube</a>
 				  			{% endif %}
 				  		</h3>

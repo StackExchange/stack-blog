@@ -21,19 +21,19 @@ top_nav: authors
 			  				<a href="{{ author.website }}">Website</a>
 			  			{% endif %}
 			  			{% if author.twitter %}
-			  				{% if author.website %} &bull; {% endif %}
+			  				{% if author.website %} • {% endif %}
 			  				<a href="https://twitter.com/{{ author.twitter }}">Twitter</a>
 			  			{% endif %}
 			  			{% if author.github %}
-			  				{% if author.twitter or author.website %} &bull; {% endif %}
+			  				{% if author.twitter or author.website %} • {% endif %}
 			  				<a href="https://github.com/{{ author.github }}">GitHub</a>
 			  			{% endif %}
 			  			{% if author.stack %}
-			  				{% if author.twitter or author.website or author.github %} &bull; {% endif %}
+			  				{% if author.twitter or author.website or author.github %} • {% endif %}
 			  				<a href="{{ author.stack }}">Stack Overflow</a>
 			  			{% endif %}
 			  			{% if author.youtube %}
-			  				{% if author.twitter or author.website or author.github or author.stack %} &bull; {% endif %}
+			  				{% if author.twitter or author.website or author.github or author.stack %} • {% endif %}
 			  				<a href="{{ author.youtube }}">YouTube</a>
 			  			{% endif %}
 			  		</h3>

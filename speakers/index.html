@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Speakers
 top_nav: speakers
 ---
 <div class="inner-container padded media-padded -row">
@@ -39,19 +40,19 @@ top_nav: speakers
 				  				<a href="{{ person.website }}">Website</a>
 				  			{% endif %}
 				  			{% if person.twitter %}
-				  				{% if person.website %} &bull; {% endif %}
+				  				{% if person.website %} • {% endif %}
 				  				<a href="https://twitter.com/{{ person.twitter }}">Twitter</a>
 				  			{% endif %}
 				  			{% if person.github %}
-				  				{% if person.twitter or person.website %} &bull; {% endif %}
+				  				{% if person.twitter or person.website %} • {% endif %}
 				  				<a href="https://github.com/{{ person.github }}">GitHub</a>
 				  			{% endif %}
 				  			{% if person.stack %}
-				  				{% if person.twitter or person.website or person.github %} &bull; {% endif %}
+				  				{% if person.twitter or person.website or person.github %} • {% endif %}
 				  				<a href="{{ person.stack }}">Stack Overflow</a>
 				  			{% endif %}
 				  			{% if person.youtube %}
-				  				{% if person.twitter or person.website or person.github or person.stack %} &bull; {% endif %}
+				  				{% if person.twitter or person.website or person.github or person.stack %} • {% endif %}
 				  				<a href="{{ person.youtube }}">YouTube</a>
 				  			{% endif %}
 				  		</h3>
