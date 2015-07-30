@@ -19,7 +19,7 @@ top_nav: speakers
 				  		<h2 class="h4 author-name">{{ person.name }}</h2>
 				  		<h3 class="h5">{{ person.job }}</h3>
 				  		<h3 class="h5 author-info">
-				  			{{ person.speaker_intro }}
+				  			{{ person.speaker_intro | markdownify }}
 				  		</h3>
 						{% for tag in person.speaker_tags %}
 							<span class="postTag">{{ tag }}</span>
