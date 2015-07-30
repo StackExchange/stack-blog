@@ -32,6 +32,10 @@ top_nav: authors
 			  				{% if author.twitter or author.website or author.github %} &bull; {% endif %}
 			  				<a href="{{ author.stack }}">Stack Overflow</a>
 			  			{% endif %}
+			  			{% if author.youtube %}
+			  				{% if author.twitter or author.website or author.github or author.stack %} &bull; {% endif %}
+			  				<a href="{{ author.stack }}">YouTube</a>
+			  			{% endif %}
 			  		</h3>
 			  	</div>
 			</div>

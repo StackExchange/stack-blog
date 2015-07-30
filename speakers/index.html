@@ -40,6 +40,10 @@ top_nav: speakers
 				  				{% if person.twitter or person.website or person.github %} &bull; {% endif %}
 				  				<a href="{{ person.stack }}">Stack Overflow</a>
 				  			{% endif %}
+				  			{% if person.youtube %}
+				  				{% if person.twitter or person.website or person.github or person.stack %} &bull; {% endif %}
+				  				<a href="{{ person.stack }}">YouTube</a>
+				  			{% endif %}
 				  		</h3>
 				  	</div>
 				</div>

@@ -27,6 +27,10 @@ top_nav: contributors
 				  				{% if page.author.twitter or page.author.website or page.author.github %} &bull; {% endif %}
 				  				<a href="{{ page.author.stack }}">Stack Overflow</a>
 				  			{% endif %}
+				  			{% if page.author.youtube %}
+				  				{% if page.author.twitter or page.author.website or page.author.github or page.author.stack %} &bull; {% endif %}
+				  				<a href="{{ page.author.stack }}">YouTube</a>
+				  			{% endif %}
 				  		</h3>
 				  	</div>
 				</div>
