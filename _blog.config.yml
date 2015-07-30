@@ -52,7 +52,7 @@ adshost: clc.stackoverflow.com
 baseurl: ""
 
 collections:
-  authors:
+  people:
     output: false
 
 #
