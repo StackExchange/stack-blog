@@ -82,7 +82,7 @@ And we did such a good job of serving programmers that a few smart non-programme
 In the five years since then, our users have built 133 communities. Stack Overflow is still the biggest. It reminds me of those medieval maps of the ancient world. The kind that shows a big bustling city (Jerusalem) smack dab in the middle, with a few smaller settlements around the periphery. (Please imagine Gregorian chamber music).
 
 
-
+[![View of Jerusalem](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Konrad_von_Gr%C3%BCnenberg_-_Beschreibung_der_Reise_von_Konstanz_nach_Jerusalem_-_Blatt_35v-36r.jpg/700px-Konrad_von_Gr%C3%BCnenberg_-_Beschreibung_der_Reise_von_Konstanz_nach_Jerusalem_-_Blatt_35v-36r.jpg)](https://en.wikipedia.org/wiki/History_of_Jerusalem_during_the_Middle_Ages)
 
 
 Stack Overflow is the big city in the middle. Because the programmer-city worked so well, people wanted to ask questions about other subjects, so we let them build other Q&A villages in the catchment area of the programmer-city. Some of these Q&A villages became cities of their own. The [math](http://math.stackexchange.com/) [cities](http://mathoverflow.net/) barely even have any programmers and they speak their own weird language. They are math-Jerusalem. They make us very proud. Even though they don’t directly serve programmers, we love them and they bring a little tear to our eyes, like the other little villages, and they’re certainly making the Internet—and the world—better, so we’re devoted to them.
@@ -133,7 +133,7 @@ We could just slow down our insane hiring pace and get profitable right now, but
 And let’s not forget Stack Overflow Careers. I believe it is, bar-none, the single best job board for developer candidates, which should automatically make it the best place for employers to find developer talent. There’s a LOT more to be done to serve developers here and we’re just getting warmed up.
 
 
-
+![No, I'm just gettin' warmed up.](http://i.stack.imgur.com/XTBbr.png)
 
 
 
