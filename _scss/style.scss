@@ -100,6 +100,11 @@ i.blog-icon {
 		width: 14px;
 		height: 11px;
 	}
+	&.location {
+		background-position: -14px 0px;
+		width: 14px;
+		height: 14px;
+	}
 }
 .inner-container {
 	max-width: 1000px;
@@ -563,15 +568,45 @@ footer {
 	.author-info {
 		color: #737c82;
 		line-height: 22px;
-		margin-bottom: 8px;
+		margin-bottom: 0px;
 	}
 	
 	.author-meta-info {
 		color: #07c;
-		margin-top: 8px;
+		margin-top: -6px;
+		font-size: 13px;
 	}
 	
-	.postTag {
+	#speaker-tag {
+		margin-top: 0px;
+		float: left;
+	}
+	
+	.locale-and-tags {
+		min-height: 30px;
+		margin-top: -6px;
+	}
+	
+	.speaker-location {
+		margin: 2px 15px 0 0;
+		float: left;
+		
+		h4 {
+		color: #737c82;
+		padding: 3px 0 0 0;
+		font-size: 13px;
+		font-weight: 400;
+		margin-bottom: 0;
+		float: left;
+		}
+		
+		i.location {
+		margin-top: 2px;
+		width: 14px;
+		height: 14px;
+		float: left;
+		}
+		
 	}
 
 }

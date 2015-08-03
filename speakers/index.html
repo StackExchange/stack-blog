@@ -31,16 +31,20 @@ top_nav: speakers
 				  		<h2 class="h4 author-name">{{ person.name }}</h2>
 				  		<h3 class="h5">
 				  			{{ person.job }}
-					  		{% if person.location %}
-					  			<br />{{ person.location }}
-					  		{% endif %}
 				  		</h3>
+				  		<div class="locale-and-tags">
+					  		{% if person.location %}
+						  		<span class="speaker-location"><i class="blog-icon location"></i><h4>{{ person.location }}</h4></span>
+						  	{% endif %}			
+						  							  	
+						  	{% for tag in person.speaker_tags %}
+								<span id="speaker-tag" class="postTag">{{ tag }}</span>
+							{% endfor %}				
+				  		</div>
+					  	
 				  		<h3 class="h5 author-info">
 				  			{{ person.speaker_intro | markdownify }}
 				  		</h3>
-						{% for tag in person.speaker_tags %}
-							<span class="postTag">{{ tag }}</span>
-						{% endfor %}
 				  		<h3 class="h5 author-meta-info">
 				  			{% if person.website %}
 				  				<a href="{{ person.website }}">Website</a>
