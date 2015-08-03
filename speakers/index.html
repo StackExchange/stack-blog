@@ -20,8 +20,9 @@ top_nav: speakers
 				<span class="postTag"></span>
 			</p>
 		</div>
-		<div id="speakers-list" style="visibility:hidden">
-		{% for person in site.people %}
+		<div id="speakers-list">
+		{% assign shuffled = site.people | shuffle %}
+		{% for person in shuffled %}
 			{% if person.speaker %}
 			{% unless person.inactive %}
 				<a name="{{ person.id }}"></a>
@@ -95,7 +96,3 @@ top_nav: speakers
 		</div>
 	</div>
 </div>
-
-<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-<script src="{{ site.baseurl }}/js/speakers.js"></script>
-
