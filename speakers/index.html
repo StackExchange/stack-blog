@@ -20,11 +20,12 @@ top_nav: speakers
 				<span class="postTag"></span>
 			</p>
 		</div>
+		<div id="speakers-list" style="visibility:hidden">
 		{% for person in site.people %}
 			{% if person.speaker %}
 			{% unless person.inactive %}
 				<a name="{{ person.id }}"></a>
-				<div class="author-container large -row {% for tag in person.speaker_tags %}{{ tag }} {% endfor %}">
+				<div id="speakers" class="author-container large -row {% for tag in person.speaker_tags %}{{ tag }} {% endfor %}">
 				  	<img src="{{ person.avatar }}" class="avatar">
 				  	<div class="info -col9">
 				  		<h2 class="h4 author-name">{{ person.name }}</h2>
@@ -65,7 +66,8 @@ top_nav: speakers
 				</div>
 			{% endunless %}
 			{% endif %}
-	{% endfor %}
+		{% endfor %}
+		</div>
 	</div>
 	<div class="-col4">
 		<div class="sidebar media-padded">

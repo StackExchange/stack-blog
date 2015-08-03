@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2015-08-03
-title: Stack Exchange Podcast #66: Thank You For Saying Words To Us
+title: "Stack Exchange Podcast #66: Thank You For Saying Words To Us"
 author: abbytmiller
 tags:
 - company
@@ -16,7 +16,7 @@ So! Let's talk about features. The coolest one we have for you today: now, when 
 
 In other news, we updated our blog, which you can see if you're reading this blog post. We moved off of Wordpress and onto [Jekyll](http://jekyllrb.com), which is the only CMS in the world that doesn't have its own Stack Exchange site. The new blog is [open source](https://github.com/StackExchange/stack-blog), btw, so you can kick the tires. [Editor's note: some issues with the blog migration and our iTunes feed are why this podcast was published so belatedly, and why you can't listen to it in your podcast app just yet. Use the SoundCloud link below while we work that out.]
 
-We've also [re-vamped what it means to graduate graduation](http://meta.stackexchange.com/q/257614/165581), and since this recording we've announced plans to tweak graduation [even further](http://meta.stackexchange.com/q/260754/165581). Essentially, what's going to happen is that we're going to consider any site for graduation if it hits 10 questions per day over a certain period, and then it's going to get a site design by Joel done totally in emoji. Some of this is true and some of it is false. You decide! (Also in this section: [tangents](http://chat.stackexchange.com/transcript/message/22625563#22625563).)
+We've also [re-vamped what it means to graduate](http://meta.stackexchange.com/q/257614/165581), and since this recording we've announced plans to tweak graduation [even further](http://meta.stackexchange.com/q/260754/165581). Essentially, what's going to happen is that we're going to consider any site for graduation if it hits 10 questions per day over a certain period, and then it's going to get a site design by Joel done totally in emoji. Some of this is true and some of it is false. You decide! (Also in this section: [tangents](http://chat.stackexchange.com/transcript/message/22625563#22625563).)
 
 Next topic: reddit. What the heck happened? Joel doesn't know because he was busy flying a drone into a swimming pool that weekend (true story). Oh, and [here's the drawing the hosts start talking about in the middle of the drone story.](http://chat.stackexchange.com/transcript/message/22625824#22625824) Then we finally get to the reddit story, which is that Alexis Ohanian aka /u/kn0thing once tried to eat a spoonful of cinnamon on our show, way back [in episode 43](http://blog.stackexchange.com/2013/02/podcast-43-false-facts-blood-feuds/). And apparently something else happened at reddit, too. Jay and Joel walk us through the basics of the story (and David reminds us continually that we have no idea what actually happened).
 
