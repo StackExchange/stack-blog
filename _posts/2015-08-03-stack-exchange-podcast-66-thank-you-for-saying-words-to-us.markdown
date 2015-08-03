@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2015-08-03
 title: Stack Exchange Podcast #66: Thank You For Saying Words To Us
 author: abbytmiller
 draft: true
@@ -14,7 +15,7 @@ First up: it's important to note that David is a charter member of the Associati
 
 So! Let's talk about features. The coolest one we have for you today: now, when you log in on one site, we log you in everywhere. You can read about it [on meta](http://meta.stackexchange.com/q/260153/165581). It seems like a no-brainer, but it was harder than it seemed, and that's why it took about 94 years. Turns out login is hard. Who knew? ([Anna Lear](http://meta.stackexchange.com/users/155160/anna-lear) who had to work on this monster project did. So did [Dalgas](http://meta.stackexchange.com/users/2/geoff-dalgas).)
 
-In other news, we updated our blog, which you can see if you're reading this blog post. We moved off of Wordpress and onto [Jekyll](http://jekyllrb.com), which is the only CMS in the world that doesn't have its own Stack Exchange site. The new blog is [open source](https://github.com/StackExchange/stack-blog), btw, so you can kick the tires.
+In other news, we updated our blog, which you can see if you're reading this blog post. We moved off of Wordpress and onto [Jekyll](http://jekyllrb.com), which is the only CMS in the world that doesn't have its own Stack Exchange site. The new blog is [open source](https://github.com/StackExchange/stack-blog), btw, so you can kick the tires. [Editor's note: some issues with the blog migration and our iTunes feed are why this podcast was published so belatedly, and why you can't listen to it in your podcast app just yet. Use the SoundCloud link below while we work that out.]
 
 We've also [re-vamped what it means to graduate graduation](http://meta.stackexchange.com/q/257614/165581), and since this recording we've announced plans to tweak graduation [even further](http://meta.stackexchange.com/q/260754/165581). Essentially, what's going to happen is that we're going to consider any site for graduation if it hits 10 questions per day over a certain period, and then it's going to get a site design by Joel done totally in emoji. Some of this is true and some of it is false. You decide! (Also in this section: [tangents](http://chat.stackexchange.com/transcript/message/22625563#22625563).)
 
