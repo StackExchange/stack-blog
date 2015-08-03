@@ -82,6 +82,6 @@ layout: null
 		$(this).prependTo(list);
 	});
 
-	list.show();	// a little racy, probably
+	list.removeAttr('style');	// a little racy, probably
 	
 })(jQuery);
