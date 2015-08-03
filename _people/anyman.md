@@ -2,7 +2,7 @@
 layout: author
 id: anyman
 name: Angela Nyman
-avatar: https://pbs.twimg.com/profile_images/577483528515907584/BJCcJ0ca_400x400.jpeg
+avatar: http://i.stack.imgur.com/HBep4.jpg
 twitter: AngelaNyman
 job: Director of Marketing, EMEA
 location: London
