@@ -28,7 +28,12 @@ top_nav: speakers
 				  	<img src="{{ person.avatar }}" class="avatar">
 				  	<div class="info -col9">
 				  		<h2 class="h4 author-name">{{ person.name }}</h2>
-				  		<h3 class="h5">{{ person.job }}</h3>
+				  		<h3 class="h5">
+				  			{{ person.job }}
+					  		{% if person.location %}
+					  			<br />{{ person.location }}
+					  		{% endif %}
+				  		</h3>
 				  		<h3 class="h5 author-info">
 				  			{{ person.speaker_intro | markdownify }}
 				  		</h3>

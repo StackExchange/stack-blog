@@ -2,7 +2,8 @@
 layout: author
 id: selfcommit
 name: Dan OBoyle
-job: "Internal Support Engineer"
+job: Internal Support Engineer
+location: New York City area
 avatar: http://1.gravatar.com/avatar/965032240f7a1613a61ab201eecc0c2e
 twitter: selfcommit
 website: http://selfcommit.com

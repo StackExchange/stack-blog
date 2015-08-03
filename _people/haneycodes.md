@@ -2,7 +2,8 @@
 layout: author
 id: haneycodes
 name: David Haney
-job: "Engineering Manager"
+job: Engineering Manager
+location: Jacksonville, FL
 avatar: https://i.stack.imgur.com/gTYSs.png
 twitter: haneycodes
 website: http://www.haneycodes.net

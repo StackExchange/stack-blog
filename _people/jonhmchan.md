@@ -6,6 +6,7 @@ avatar: https://i.stack.imgur.com/UK4Xi.jpg
 twitter: jonhmchan
 github: jonhmchan
 job: Developer, Head of Evangelism
+location: New York City
 stack: http://stackoverflow.com/users/1043674/jon-chan
 website: http://www.jonhmchan.com/
 speaker: true

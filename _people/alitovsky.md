@@ -4,6 +4,7 @@ id: alitovsky
 name: Arie Litovsky
 twitter: arielitovsky
 job: Web Developer
+location: New York City
 avatar:  https://i.stack.imgur.com/yAatD.jpg
 website: http://www.arielitovsky.com
 inactive: false
