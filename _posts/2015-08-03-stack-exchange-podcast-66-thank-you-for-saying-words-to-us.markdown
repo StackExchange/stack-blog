@@ -3,7 +3,6 @@ layout: post
 date: 2015-08-03
 title: Stack Exchange Podcast #66: Thank You For Saying Words To Us
 author: abbytmiller
-draft: true
 tags:
 - company
 - podcasts
