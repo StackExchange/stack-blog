@@ -153,6 +153,21 @@ module Jekyll
   end
  
   module Generators
+    class Speakers < Generator
+      def generate(site)
+        speaker_tags = ['engineering', 'community', 'design', 'recruiting', 'product', 'marketing', 'sales', 'diversity']
+        site.data['speaker_tags'] = speaker_tags
+
+        for tag in speaker_tags
+          page = Page.new(site, site.source, 'speakers/', 'index.html')
+          page.data['people'] = site.collections['people'].docs.select { |p| p.data['speaker_tags'] && p.data['speaker_tags'].include?(tag)  }
+          page.dir = 'speakers/' + tag + '/'
+          page.data['tag'] = tag
+          site.pages << page          
+        end
+      end
+    end
+
     class Pagination < Generator
       # This generator is safe from arbitrary code execution.
       safe true

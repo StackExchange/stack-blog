@@ -11,17 +11,27 @@ top_nav: speakers
 				The humans who comprise Stack Exchange are part of an organization unlike any other. We have a large variety of talented individuals who are constantly working to improve themselves and the world around them. Whether it be engineering, design, marketing, or community development our team has a large variety of skills and experience to speak about.
 			</p>
 		</div>
+
+		{% if page.tag %}
 		<div id="tag-filter" class="-row">
 			<p id="remove">
-				<a href="#">remove filter</a>				
+				<a href="/speakers/">remove filter</a>				
 			</p>			
 			<p>
 				<strong>Displaying all speakers tagged:</strong> 
-				<span class="postTag"></span>
+				<span class="postTag">{{ page.tag }}</span>
 			</p>
 		</div>
+		{% endif %}
+
 		<div id="speakers-list">
-		{% assign shuffled = site.people | shuffle %}
+		
+		{% if page.people %}
+			{% assign shuffled = page.people | shuffle %}
+		{% else %}
+			{% assign shuffled = site.people | shuffle %}
+		{% endif %}
+
 		{% for person in shuffled %}
 			{% if person.speaker %}
 			{% unless person.inactive %}
@@ -39,7 +49,7 @@ top_nav: speakers
 						  	{% endif %}			
 						  							  	
 						  	{% for tag in person.speaker_tags %}
-								<span id="speaker-tag" class="postTag">{{ tag }}</span>
+								<a href="/speakers/{{ tag }}" class="postTag">{{ tag }}</a>
 							{% endfor %}				
 				  		</div>
 					  	
@@ -85,14 +95,9 @@ top_nav: speakers
 			<h2 class="h4">
 				Speaker tags
 			</h2>
-			<span class="postTag">engineering</span>
-			<span class="postTag">community</span>
-			<span class="postTag">design</span>
-			<span class="postTag">recruiting</span>
-			<span class="postTag">product</span>
-			<span class="postTag">marketing</span>
-			<span class="postTag">sales</span>
-			<span class="postTag">diversity</span>
+			{% for tag in site.data['speaker_tags'] %}
+				<a href="/speakers/{{ tag }}" class="postTag">{{tag}}</a>
+			{% endfor %}
 		</div>
 	</div>
 </div>
