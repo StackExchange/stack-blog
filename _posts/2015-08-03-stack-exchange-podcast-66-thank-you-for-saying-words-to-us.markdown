@@ -10,11 +10,9 @@ tags:
 
 Welcome to Stack Exchange podcast episode #66, recorded live at Stack Exchange HQ in New York, NY on July 7, 2015. Today's podcast is brought to you by The Association of Ex-Fog Creek Summer Interns (AEFCSI). Today's show is hosted by the usual suspects Jay Hanlon, David Fullerton, and Joel Spolsky, plus ex post facto Producer Alex.
 
-First up: it's important to note that David is a charter member of the Association of Ex-Fog Creek Summer Interns, from way back before Fog Creek knew how to do internships (his words). He made graphs in Flash and that was his whole internship.
+First up: it's important to note that David is a charter member of the Association of Ex-Fog Creek Summer Interns, from way back before Fog Creek knew how to do internships (his words). He made [graphs in Flash](https://www.fogcreek.com/fogbugz/docs/70/topics/schedules/Evidence-BasedScheduling.html) and that was his whole internship.
 
-<img src="http://i.stack.imgur.com/EjWyA.png" />
-
-Much graph. Very Flash. [Wow](https://www.fogcreek.com/fogbugz/docs/70/topics/schedules/Evidence-BasedScheduling.html).
+![Much graph. Very Flash. Wow.](http://i.stack.imgur.com/EjWyA.png)
 
 So! Let's talk about features. The coolest one we have for you today: now, when you log in on one site, we log you in everywhere. You can read about it [on meta](http://meta.stackexchange.com/q/260153/165581). It seems like a no-brainer, but it was harder than it seemed, and that's why it took about 94 years. Turns out login is hard. Who knew? ([Anna Lear](http://meta.stackexchange.com/users/155160/anna-lear), who has to work on this monster project, did. So did [Dalgas](http://meta.stackexchange.com/users/2/geoff-dalgas).)
 
