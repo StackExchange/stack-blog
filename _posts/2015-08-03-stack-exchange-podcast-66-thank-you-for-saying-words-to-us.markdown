@@ -12,7 +12,11 @@ Welcome to Stack Exchange podcast episode #66, recorded live at Stack Exchange H
 
 First up: it's important to note that David is a charter member of the Association of Ex-Fog Creek Summer Interns, from way back before Fog Creek knew how to do internships (his words). He made graphs in Flash and that was his whole internship.
 
-So! Let's talk about features. The coolest one we have for you today: now, when you log in on one site, we log you in everywhere. You can read about it [on meta](http://meta.stackexchange.com/q/260153/165581). It seems like a no-brainer, but it was harder than it seemed, and that's why it took about 94 years. Turns out login is hard. Who knew? ([Anna Lear](http://meta.stackexchange.com/users/155160/anna-lear) who had to work on this monster project did. So did [Dalgas](http://meta.stackexchange.com/users/2/geoff-dalgas).)
+<img src="http://i.stack.imgur.com/EjWyA.png" />
+
+Much graph. Very Flash. [Wow](https://www.fogcreek.com/fogbugz/docs/70/topics/schedules/Evidence-BasedScheduling.html).
+
+So! Let's talk about features. The coolest one we have for you today: now, when you log in on one site, we log you in everywhere. You can read about it [on meta](http://meta.stackexchange.com/q/260153/165581). It seems like a no-brainer, but it was harder than it seemed, and that's why it took about 94 years. Turns out login is hard. Who knew? ([Anna Lear](http://meta.stackexchange.com/users/155160/anna-lear), who has to work on this monster project, did. So did [Dalgas](http://meta.stackexchange.com/users/2/geoff-dalgas).)
 
 In other news, we updated our blog, which you can see if you're reading this blog post. We moved off of Wordpress and onto [Jekyll](http://jekyllrb.com), which is the only CMS in the world that doesn't have its own Stack Exchange site. The new blog is [open source](https://github.com/StackExchange/stack-blog), btw, so you can kick the tires. [Editor's note: some issues with the blog migration and our iTunes feed are why this podcast was published so belatedly, and why you can't listen to it in your podcast app just yet. Use the SoundCloud link below while we work that out.]
 
