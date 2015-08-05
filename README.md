@@ -7,7 +7,7 @@ If you are actively involved in improving the infrastructure of this project, yo
 
 ## Quick Links
  - [Add yourself as a contributor on the blog](https://github.com/StackExchange/blog/new/master/_people) ([See an example file](https://github.com/StackExchange/blog/edit/master/_people/jonhmchan.md))
- - [Publish a new post](https://github.com/StackExchange/blog/new/master/_posts) ([See an example file](https://github.com/StackExchange/blog/edit/master/_posts/2014-1-28-My-First-Six-Weeks-Working-At-Stack-Overflow.md), [published version](http://stackexchange.github.io/blog/01/28/My-First-Six-Weeks-Working-At-Stack-Overflow/))
+ - [Publish a new post](https://github.com/StackExchange/blog/new/master/_posts) ([See an example file](https://github.com/StackExchange/blog/edit/master/_posts/2014-01-28-My-First-Six-Weeks-Working-At-Stack-Overflow.md), [published version](http://stackexchange.github.io/blog/01/28/My-First-Six-Weeks-Working-At-Stack-Overflow/))
  - [Dev blog (for employees only, where to preview posts before going live)](http://dev.blog.stackexchange.com/)
  - [Internal image uploader (for employees only, must be on VPN or on office network)](http://blogtools.ds.stackexchange.com/)
  - [Company editorial board and calendar (post ideas and see schedule)](https://trello.com/b/WYAPaUEC/blog-editorial-and-calendar)
