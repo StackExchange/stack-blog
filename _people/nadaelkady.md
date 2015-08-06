@@ -1,9 +1,9 @@
+---
 layout: author
 id: nadaelkady
 name: Nada Elkady
-avatar: https://avatars3.githubusercontent.com/u/13019747?v=3&s=460
+avatar: http://i.stack.imgur.com/q0Djp.jpg
 twitter: nadaelkady
-github: nadaruns
 job: Director of Marketing, North America
 location: New York City
 speaker: true
