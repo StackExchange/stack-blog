@@ -111,7 +111,7 @@ The speed of Ubuntu's progress should have been my first clue. Despite being pro
 <td >71 days</tr>
 </table>
 
-I thought, "Surely there is something going horribly wrong with the process."  Perhaps the Ubuntu users simply did not see the Linux proposal. Or maybe they didn't understand how well the larger community would scale or how well tagging worked. I had written the blog post "[Trust the Community](../2010/06/area-51-trusting-the-community/)" barely a month before, but still I had my doubts that Area 51 was working in this case. The proposal process is still lacking somewhat in meta communications, especially _between_ proposals. Maybe that was it.
+I thought, "Surely there is something going horribly wrong with the process."  Perhaps the Ubuntu users simply did not see the Linux proposal. Or maybe they didn't understand how well the larger community would scale or how well tagging worked. I had written the blog post "[Trust the Community](https://blog.stackexchange.com/2010/06/area-51-trusting-the-community/)" barely a month before, but still I had my doubts that Area 51 was working in this case. The proposal process is still lacking somewhat in meta communications, especially _between_ proposals. Maybe that was it.
 
 
 
