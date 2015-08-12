@@ -1,6 +1,5 @@
 ---
 layout: post
-draft: true
 date: 2015-08-07
 title: "Developer Turned Manager"
 source: http://www.haneycodes.net/developer-turned-manager
