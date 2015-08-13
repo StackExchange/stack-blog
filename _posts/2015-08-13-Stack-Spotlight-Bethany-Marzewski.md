@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stack Spotlight: Bethany Marzewski
+title: "Stack Spotlight: Bethany Marzewski"
 author: rmaleady
 date: 2015-08-13
 description: Learn all about Stack Overflow Marketing Manager of Customer Happiness, Bethany Marzewski. 
