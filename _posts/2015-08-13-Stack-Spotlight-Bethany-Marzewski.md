@@ -4,9 +4,9 @@ title: "Stack Spotlight: Bethany Marzewski"
 author: rmaleady
 date: 2015-08-13
 description: "Learn all about Stack Overflow Marketing Manager of Customer Happiness, Bethany Marzewski."
-tags: 
--	company
--	culture 
+tags:
+- company
+- culture 
 ---
 Each month we’ll be featuring a short interview with one of our very own employees here at Stack Overflow. You’ll learn how they came to Stack Overflow, what projects they’re currently working on, and why they love working here. 
 First up is our Marketing Manager, Customer Happiness Bethany Marzewski. 
