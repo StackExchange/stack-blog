@@ -2,7 +2,7 @@
 layout: author
 id: nadaelkady
 name: Nada Elkady
-avatar: http://i.stack.imgur.com/q0Djp.jpg
+avatar: https://i.stack.imgur.com/q0Djp.jpg
 twitter: nadaelkady
 job: Director of Marketing, North America
 location: New York City
