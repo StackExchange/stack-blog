@@ -2,7 +2,8 @@
 layout: post
 title: "Welcome, Juan Garza, and Stack Overflow En Español!"
 author: tpost
-date: 2015-08-17
+date: 2015-08-20
+draft: true
 description: "Welcome, Juan, our newest international community manager as we work toward launching Stack Overflow In Spanish"
 tags:
 - company
