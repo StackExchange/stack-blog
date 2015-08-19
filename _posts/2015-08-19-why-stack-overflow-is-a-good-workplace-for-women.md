@@ -14,7 +14,7 @@ tags:
 ---
 When Google released its diversity numbers in 2014, the company [stated] (http://googleblog.blogspot.com/2014/05/getting-to-work-on-diversity-at-google.html), "[We’re] not where we want to be when it comes to diversity, and it’s hard to address these kinds of challenges if you’re not prepared to discuss them openly, and with the facts."
 
-At the time, I was working at a small, venture-backed startup in New York. Diversity quickly became a talking point at the office. “Why is it so hard to find female programmers?” the Engineering lead asked my co-worker, Jess*, and I. “They get swooped up fast,” Jess suggested. “The women I went to school with all got hired by big companies right out of school.”
+At the time, I was working at a small, venture-backed startup in New York. Diversity quickly became a talking point at the office. “Why is it so hard to find female programmers?” the Engineering lead asked my co-worker, Jess\*, and I. “They get swooped up fast,” Jess suggested. “The women I went to school with all got hired by big companies right out of school.”
 
 Jess was fresh out of Engineering school. Originally hired as the Executive Assistant, her day-to-day work often supported the engineering team. She wrote SQL queries in order to test and track issues in the database. When the company expanded its utilities database, she pulled together thousands of sources and compiled it into usable data. By the end of the year, she was looking to grow her responsibilities. The current QA Manager was leaving the company, and Jess was recommended to take over the role.
 
@@ -88,4 +88,4 @@ It's a privilege to work with smart, supportive colleagues every day, and to be 
 
 Oh, and Stack Overflow is [actively hiring](http://stackexchange.com/work-here) :)
 
-** *Name changed**
+*\* Name changed*
