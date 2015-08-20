@@ -128,7 +128,7 @@ The Croatian meetup was hosted by Infobip, an IT company based in Pula:
 ## New York, NY, USA
 
 
-[caption id="" align="alignright" width="260" caption="Fog Creek developer Kevin Gessner talking about the magic of elasticsearch"][![](http://blog.stackoverflow.com/wp-content/uploads/IMG_2418-200x300.jpg)](http://i.imgur.com/zlB0Q.jpg)[/caption]
+[caption id="" align="alignright" width="260" caption="Fog Creek developer Kevin Gessner talking about the magic of elasticsearch"][![](http://blog.stackoverflow.com/wp-content/uploads/IMG_2418-200x300.jpg)](https://i.imgur.com/zlB0Q.jpg)[/caption]
 
 The New York City meetup took place in two parts: the first was a series of talks at [Projective Spac](http://www.projective.co/)e (a coworking space on Manhattan's Lower East Side), and the second was socializing over beers and snacks at Onieals on Grand.
 
@@ -140,7 +140,7 @@ The first session's talks provided information on cool new technologies and gave
 
 Stack Exchange developer [Matt Sherman](http://stackoverflow.com/users/70613/matt-sherman) taught us how to meet "hot singles" in our area - a.k.a what tech recruiters can learn from online dating.
 
-[caption id="attachment_11647" align="alignleft" width="300" caption="Stack Exchange developers Emmett, Nick, and Matt chatting with Trello designer Bobby Grace"][![](http://blog.stackoverflow.com/wp-content/uploads/IMG_2427-300x200.jpg)](http://i.imgur.com/T8Elb.jpg)[/caption]
+[caption id="attachment_11647" align="alignleft" width="300" caption="Stack Exchange developers Emmett, Nick, and Matt chatting with Trello designer Bobby Grace"][![](http://blog.stackoverflow.com/wp-content/uploads/IMG_2427-300x200.jpg)](https://i.imgur.com/T8Elb.jpg)[/caption]
 
 
 We had most of the Stack Exchange core developers and Careers developers on site.

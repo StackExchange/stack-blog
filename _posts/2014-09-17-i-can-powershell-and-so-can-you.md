@@ -17,7 +17,7 @@ Often automating a task is [not worth the time](http://xkcd.com/1205/) and rarel
 #Framing the Problem
 At Stack we use [Google Apps for Work](http://www.google.com/enterprise/apps/business/).  Google Apps for Work includes a great tool for linking your existing Active Directory structure to your Google Accounts.  That tool, [Google Apps Directory Sync](https://support.google.com/a/answer/106368?hl=en) (GADS) allows a company to sync Active Directory Users and Groups with Google email accounts and mailing lists.  We already sync our users with email addresses, but my task is to also link our security groups with email distribution lists.  
 
-![](http://i.imgur.com/s8lWuF5.png)
+![](https://i.imgur.com/s8lWuF5.png)
 
 In a fresh environment, this would be incredibly easy.  However, we have a number of mailing lists that exist on the "Google side" that don't have matching security groups in AD.  This issue is compounded because when group sync is enabled in GADS, any group that does not match an AD group will be deleted on the Google side.  As a friend put it:
 
