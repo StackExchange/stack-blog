@@ -41,6 +41,6 @@ We're planning this shindig for the evening of September 27th, so [**RSVP today*
 
 We hope to see you there!
 
-[![](http://i.imgur.com/1bJSW.jpg)](http://s.tk/denver)
+[![](https://i.imgur.com/1bJSW.jpg)](http://s.tk/denver)
 
 

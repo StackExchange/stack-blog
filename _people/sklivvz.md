@@ -2,7 +2,7 @@
 layout: author
 id: sklivvz
 name: Marco Cecconi
-avatar: http://i.imgur.com/wjdWEQ7.png
+avatar: https://i.imgur.com/wjdWEQ7.png
 twitter: sklivvz
 github: sklivvz
 job: Developer

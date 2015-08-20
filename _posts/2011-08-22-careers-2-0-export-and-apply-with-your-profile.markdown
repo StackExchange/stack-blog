@@ -17,7 +17,7 @@ For the longest time, Careers users have been [requesting an export feature](htt
 
 Using the résumé generator, you can customize the info you would like to provide to prospective employers by selecting each item you would like included.
 
-![](http://i.imgur.com/Gzw6u.png)
+![](https://i.imgur.com/Gzw6u.png)
 
 Once you get it just right, press the "Export to PDF" button at the top to download your résumé!  Check out my [sample résumé](http://careers.stackoverflow.com/cv/export/sample).
 
@@ -31,7 +31,7 @@ You can now attach résumés generated on site to a cover letter and apply direc
 
 When you browse our job listings and run across a job you would love to have, click the "Find out how to apply" button and you will see a new, completely awesome button to "Apply with your Careers 2.0 profile" if the job has enabled it.
 
-![](http://i.imgur.com/PwbBe.png)
+![](https://i.imgur.com/PwbBe.png)
 
 [Over 200 job listings are ready to accept your profile today!](http://careers.stackoverflow.com/jobs/applyonly)  Don't have a profile?  You can [request an invitation here](http://careers.stackoverflow.com/cv/get-one)!
 

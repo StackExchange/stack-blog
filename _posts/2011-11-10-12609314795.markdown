@@ -4,7 +4,7 @@ comments: false
 date: 2011-11-10 20:48:26+00:00
 layout: post
 redirect_from: /2011/11/12609314795
-hero: http://i.imgur.com/Et9Fi.jpg
+hero: https://i.imgur.com/Et9Fi.jpg
 published: false
 slug: '12609314795'
 title: What do a virtual berry tasting event and a game launch have in common?
@@ -26,13 +26,13 @@ Confused yet?
 
 I was, too, when I first received a forwarded email invitation to a special event hosted by Driscoll’s.
 
-![Raspberry Bellini](http://i.imgur.com/Et9Fi.jpg)
+![Raspberry Bellini](https://i.imgur.com/Et9Fi.jpg)
 
 So what was the event? [Driscoll’s Moments](http://www.driscollsmoments.com/) was a combination cooking demo/tasting and Twitter party held on November 4. [Rick Rogers](http://rickrodgers.com/rick_rodgers/rr/about-rick.html), a well-known chef and food blogger, provided a cooking demonstration of five holiday recipes involving Driscoll’s raspberries. This demo took place at [Food Pop Studios](http://www.thekitchennyc.com/) in front of a live  audience comprised mainly of food bloggers (this was what my invitation was for).
 
 Simultaneously, berry fans around the country livestreamed the demo, tweeted questions and comments, and held parties of their own, featuring those same five dishes. It was a really well-organized event that did a great job bridging online and offline foodie communities, all while connecting to a brand.
 
-![Brie with Raspberries & Pistachios](http://i.imgur.com/Ehn6T.jpg)
+![Brie with Raspberries & Pistachios](https://i.imgur.com/Ehn6T.jpg)
 
 Since I am taking over as CHAOS agent for [Seasoned Advice](http://www.cooking.stackexchange.com), our cooking Stack Exchange site, I attended the event to network and discuss Thanksgiving cooking issues. I got to sample a lot of food, meet some interesting people, and chat about Stack Exchange as a resource for chefs.
 
