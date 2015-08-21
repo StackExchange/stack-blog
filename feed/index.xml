@@ -53,7 +53,6 @@ Stack Exchange is a fast-growing network of over 100 question and answer sites o
 		<itunes:email>podcast@stackoverflow.com</itunes:email>
 	</itunes:owner>
 	<itunes:block>no</itunes:block>
-	<itunes:explicit>no</itunes:explicit>
 	<itunes:image href="http://cdn.sstatic.net/stackexchange/img/apple-touch-icon.png" />
 	{% for post in site.posts limit:40 %}
 		{% unless post.draft %}
@@ -71,6 +70,13 @@ Stack Exchange is a fast-growing network of over 100 question and answer sites o
 			<content:encoded><![CDATA[{{ post.content | raw }}]]></content:encoded>
 			<wfw:commentRss></wfw:commentRss>
 			<slash:comments></slash:comments>
+			{% if post.podcast %}
+			<itunes:author>The Stack Exchange Team</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:summary>{{ post.excerpt | strip_html }}</itunes:summary>
+			<itunes:subtitle>{{ post.content | strip_html }}</itunes:subtitle>
+			<enclosure type="audio/mpeg" url="{{ post.podcast }}" length="0"/>
+			{% endif %}
 		</item>
 		{% endunless %}
 	{% endfor %}
