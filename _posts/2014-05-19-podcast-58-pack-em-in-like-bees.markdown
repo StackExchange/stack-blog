@@ -12,6 +12,7 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/149558524-stack-exchange-stack-exchange-podcast-episode-58-pack-em-in-like-bees.mp3
+guid: http://blog.stackoverflow.com/?p=14709
 ---
 
 Welcome to Stack Exchange Podcast #58 brought to you by [the Stack Exchange iOS app](https://itunes.apple.com/us/app/stack-exchange/id871299723)! Our hosts Joel Spolsky, David Fullerton, and Jay Hanlon are joined this week by our guests, the Stack Exchange Design Team: Jin Yang, Stéphane "The French Guy" Martin, Courtny Cotten, and Josh Hynes.

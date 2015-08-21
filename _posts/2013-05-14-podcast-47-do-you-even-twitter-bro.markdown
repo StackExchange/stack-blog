@@ -12,6 +12,7 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/92213289-stack-exchange-stack-exchange-podcast-47.mp3
+guid: http://blog.stackoverflow.com/?p=13381
 ---
 
 We're Back!  It's been a while since our last podcast (why you ask - listen to find out!) but we're back now and "stronger" than ever.  It's Joel, David and Jay (plus producer Alex and Abby) coming to you from the brand new SE Podcast Studio (check out the picture below)

@@ -12,6 +12,7 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/139449126-stack-exchange-stack-exchange-podcast-55.mp3
+guid: http://blog.stackoverflow.com/?p=14603
 ---
 
 Welcome to the Stack Exchange Podcast #56 recorded on Thursday, March 6th 2014, aka the 4th of Adar II 5774, aka the second day of Lent. Today's podcast is sponsored by Patent Trolls of America. Today's guest is Micah Siegel, Senior Patent Advisor at Stack Exchange and Professor Emeritus at Stanford.
