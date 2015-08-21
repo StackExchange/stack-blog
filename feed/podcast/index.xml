@@ -67,7 +67,11 @@ Stack Exchange is a fast-growing network of over 100 question and answer sites o
 			<category><![CDATA[{{ category }}]]></category>
 			{% endfor %}
 			<pubDate>{{ post.date | date: "%a, %d %b %Y %T +0000" }}</pubDate>
+			{% if post.guid %}
+			<guid>{{ post.guid }}</guid>
+			{% else %}
 			<guid>{{ site.url }}{{ post.url }}</guid>
+			{% endif %}
 			<description><![CDATA[{{ post.excerpt | raw }}]]></description>
 			<content:encoded><![CDATA[{{ post.content | raw }}]]></content:encoded>
 			<itunes:author>The Stack Exchange Team</itunes:author>
