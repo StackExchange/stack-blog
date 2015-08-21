@@ -67,7 +67,7 @@ Stack Exchange is a fast-growing network of over 100 question and answer sites o
 			{% endfor %}
 			<comments></comments>
 			<pubDate>{{ post.date | date: "%a, %d %b %Y %T +0000" }}</pubDate>
-			<guid></guid>
+			<guid>{{ site.url }}{{ post.url }}</guid>
 			<description><![CDATA[{{ post.excerpt | raw }}]]></description>
 			<content:encoded><![CDATA[{{ post.content | raw }}]]></content:encoded>
 			<wfw:commentRss></wfw:commentRss>
