@@ -3,7 +3,7 @@ layout: post
 title: "Why Stack Overflow is a Good Workplace for Women"
 author: donnachoi
 date: 2015-08-19
-hero: http://i.stack.imgur.com/FCxo7.png
+hero: https://i.stack.imgur.com/FCxo7.png
 source: https://medium.com/@donnachoi/why-stack-overflow-is-a-good-workplace-for-women-71989189403d
 description: "Learn why Stack Overflow is a good workplace for women with this post written by designer Donna Choi"
 no_comments: true
