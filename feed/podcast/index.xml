@@ -16,7 +16,7 @@ redirect_from:
 >
 
 <channel>
-	<title>{{ site.name }}</title>
+	<title>The Stack Exchange Podcast</title>
 	<atom:link href="{{ site.url }}/feed/" rel="self" type="application/rss+xml" />
 	<link>{{ site.url }}</link>
 	<description>free, community powered Q&#38;A</description>
