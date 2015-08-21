@@ -55,6 +55,7 @@ Stack Exchange is a fast-growing network of over 100 question and answer sites o
 		<itunes:email>podcast@stackoverflow.com</itunes:email>
 	</itunes:owner>
 	<itunes:block>no</itunes:block>
+	<itunes:explicit>no</itunes:explicit>
 	<itunes:image href="{{ site.url }}/images/podcast-logo.jpg" />
 	{% for post in site.posts limit:40 %}		
 		{% if post.podcast %}
