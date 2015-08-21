@@ -65,13 +65,10 @@ Stack Exchange is a fast-growing network of over 100 question and answer sites o
 			{% for category in post.tags %}
 			<category><![CDATA[{{ category }}]]></category>
 			{% endfor %}
-			<comments></comments>
 			<pubDate>{{ post.date | date: "%a, %d %b %Y %T +0000" }}</pubDate>
 			<guid>{{ site.url }}{{ post.url }}</guid>
 			<description><![CDATA[{{ post.excerpt | raw }}]]></description>
 			<content:encoded><![CDATA[{{ post.content | raw }}]]></content:encoded>
-			<wfw:commentRss></wfw:commentRss>
-			<slash:comments></slash:comments>
 			<itunes:author>The Stack Exchange Team</itunes:author>
 			<itunes:explicit>no</itunes:explicit>
 			<itunes:summary>{{ post.excerpt | strip_html }}</itunes:summary>
