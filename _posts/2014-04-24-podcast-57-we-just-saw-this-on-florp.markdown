@@ -11,6 +11,7 @@ wordpress_id: 14655
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/145239238-stack-exchange-stack-exchange-podcast-episode-57-we-just-saw-this-on-florp.mp3
 ---
 
 Welcome to Stack Exchange Podcast #57, recorded Friday April 11, 2014 with your hosts Jay Hanlon, David Fullerton, and Joel Spolsky. Today's podcast is brought to you by the Heartbleed bug.

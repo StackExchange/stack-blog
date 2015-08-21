@@ -11,6 +11,7 @@ wordpress_id: 9888
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/23835379-stack-exchange-stack-exchange-podcast-19.mp3
 ---
 
 Everyone's back in their home towns this week (Sorry for the audio quality last week. It was Joel's fault [actually, it was TechCrunch's fault]). And joining Jeff & Joel this week is [John Sheehan](http://www.twitter.com/johnsheehan), Developer Evangelist for [Twilio](http://www.twilio.com).

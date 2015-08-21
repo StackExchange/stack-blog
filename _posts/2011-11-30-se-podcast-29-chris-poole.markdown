@@ -11,6 +11,7 @@ wordpress_id: 10249
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/29369082-stack-exchange-stack-exchange-podcast-29.mp3
 ---
 
 Jeff and Joel are joined today by [Chris "Moot" Poole](http://www.twitter.com/moot), founder of [4chan](http://en.wikipedia.org/wiki/4chan) and [Canv.as](http://www.canv.as).  It's a wide ranging discussion from internet memes and tropes to the danger of the [SOPA bill](http://www.americancensorship.org) that is currently making its way through the house.

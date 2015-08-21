@@ -11,6 +11,7 @@ wordpress_id: 13434
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/96395024-stack-exchange-stack-exchange-podcast-49.mp3
 ---
 
 Welcome to episode 49 of the Stack Exchange Podcast! We are welcoming special guest [Matt Grum](http://photo.stackexchange.com/users/1375/matt-grum), as well as usual suspects Joel, David, and Jay.  Matt is the top rep user on [Photography](http://photography.stackexchange.com/). He's got 957 answers (and has never asked a question)! He's a photographer and a developer, so his exposure to the Photography site came from his involvement with Stack Overflow

@@ -11,6 +11,7 @@ wordpress_id: 10087
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/26443821-stack-exchange-stack-exchange-podcast-24.mp3
 ---
 
 Jeff & Joel are joined this week by Eric Ries, author and expert on The Lean Startup.  Topics for the chat include:

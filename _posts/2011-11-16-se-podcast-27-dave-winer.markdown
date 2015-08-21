@@ -11,6 +11,7 @@ wordpress_id: 10208
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/28160568-stack-exchange-stack-exchange-podcast-27.mp3
 ---
 
 Jeff & Joel are joined today by Dave Winer, who's upset that we don't have a jingle to start the show! He "invented" (well, pioneered, really) the [XML-RPC protocol](http://en.wikipedia.org/wiki/XML-RPC). Dave tells us the story of how and why the protocol came to be.

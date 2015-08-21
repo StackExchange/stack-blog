@@ -11,6 +11,7 @@ wordpress_id: 8655
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/18519594-stack-exchange-stack-exchange-podcast-11wrb.mp3
 ---
 
 This week, Jeff and Joel are joined by [Rory Blyth](http://stackoverflow.com/users/183801/rory-blyth) (with no 'e' as he is very insistent) fresh off his move to a new house in Portland, OR.  This week's topics include:

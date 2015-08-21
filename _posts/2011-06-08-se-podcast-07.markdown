@@ -11,6 +11,7 @@ wordpress_id: 8375
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/16777601-stack-exchange-stack-exchange-podcast-9.mp3
 ---
 
 Jeff and Joel are joined by [Sam Saffron](http://stackoverflow.com/users/17174/sam-saffron) (aka [Waffles](http://meta.stackoverflow.com/users/17174/waffles)), our only Australian developer at Stack Exchange!

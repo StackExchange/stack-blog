@@ -11,6 +11,7 @@ wordpress_id: 12388
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/63521866-stack-exchange-stack-exchange-podcast-33.mp3
 ---
 
 It's Back! Welcome to episode #33 of the Stack Exchange podcast.  We've got a brand new co-host (Jay Hanlon, our new VP of Community Growth) plus our guest this week is David Fullerton, VP of Engineering at Stack Exchange.

@@ -11,6 +11,7 @@ wordpress_id: 14879
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/178619053-stack-exchange-stack-exchange-podcast-episode-61-the-what-jays-done-wrong-podcast.mp3
 ---
 
 Welcome to the 61st installment of the Stack Exchange Podcast, brought to you by okra (yes, [that okra](https://en.wikipedia.org/wiki/Okra)). On our show today are David Fullerton, Jay Hanlon, and Joel Spolsky. It's been a _long_ time since we last did a podcast, so let's get started.

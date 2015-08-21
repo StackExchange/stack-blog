@@ -11,6 +11,7 @@ wordpress_id: 9950
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/24342343-stack-exchange-stack-exchange-podcast-20.mp3
 ---
 
 Joining Jeff & Joel this week is [John Siracusa](http://arstechnica.com/author/john-siracusa/), writer for Ars Technica - he's the one who introduced Macs to the Ars world (and apparently ended up converting their entire staff into Mac users).

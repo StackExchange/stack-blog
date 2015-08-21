@@ -11,6 +11,7 @@ wordpress_id: 14186
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/117482173-stack-exchange-stack-exchange-podcast-52.mp3
 ---
 
 Welcome to Stack Exchange Podcast #53 with special guest Gabe Koscky, our new Brazilian community manager, and usual suspects Jay Hanlon, Joel Spolsky, and David Fullerton. Today's show is brought to you by the National Security Administration!

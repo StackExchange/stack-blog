@@ -11,6 +11,7 @@ wordpress_id: 8477
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/17251043-stack-exchange-se-podcast-08-w-marco-arment.mp3
 ---
 
 This week, Jeff and Joel are joined live "in studio" by [Marco Arment](http://www.marco.org), creator of [Instapaper](http://www.instapaper.com) and formerly the lead developer at Tumblr.  This week's topics include:

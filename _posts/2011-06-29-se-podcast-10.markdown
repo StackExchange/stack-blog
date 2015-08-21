@@ -11,6 +11,7 @@ wordpress_id: 8618
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/18077909-stack-exchange-stack-exchange-podcast-11.mp3
 ---
 
 Jeff & Joel are joined by Steve Karantza, better know as [Shirlock Homes](http://diy.stackexchange.com/users/386/shirlock-homes), our #1 user on the [DIY Stack Exchange](http://diy.stackexchange.com/).  Steve is also our first non-programmer oriented guest on the podcast!

@@ -11,6 +11,7 @@ wordpress_id: 12537
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/68172637-stack-exchange-stack-exchange-podcast-37.mp3
 ---
 
 Welcome back!  We're actually back to a fairly normal podcast this week and want to bring you back up to speed on Stack Exchange after our adventures the last few weeks.  What's on the agenda? What's new this week?

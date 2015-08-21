@@ -11,6 +11,7 @@ wordpress_id: 10166
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/27577920-stack-exchange-stack-exchange-podcast-26.mp3
 ---
 
 No guest today. Moot had to postpone his appearance on the show. But David Fullerton is here to hang out with us

@@ -11,6 +11,7 @@ wordpress_id: 9033
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/19889804-stack-exchange-stack-exchange-podcast-13.mp3
 ---
 
 Jeff & Joel are joined this week by [Jin Yang](http://www.twitter.com/jzy) - our resident web/graphic designer here at Stack (the distinction between the two becomes a discussion point).  Once we get the proper picture of [Jin](http://www.8164.org/) in the chatroom, he relates everything from his background in design to how he ended up at Stack Exchange and our philosophy behind design.

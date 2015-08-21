@@ -11,6 +11,7 @@ wordpress_id: 10303
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/30073425-stack-exchange-stack-exchange-podcast-30.mp3
 ---
 
 Guests this week are [Robert Cartaino](http://stackexchange.com/users/34933/robert-cartaino?tab=accounts) and [Rebecca Chernoff](http://stackexchange.com/users/60791/rebecca-chernoff?tab=accounts). Yeehaw! They're members of our Community Team.

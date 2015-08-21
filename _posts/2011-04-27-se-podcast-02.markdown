@@ -11,6 +11,7 @@ wordpress_id: 7858
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14250494-stack-exchange-se-episode02.mp3
 ---
 
 This week on the Stack Exchange podcast, Jeff and Joel are back into the swing of the weekly podcast and jump right into business, including:

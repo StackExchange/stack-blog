@@ -11,6 +11,7 @@ wordpress_id: 12982
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/76831203-stack-exchange-stack-exchange-podcast-41.mp3
 ---
 
 Welcome to Stack Exchange Podcast #41, featuring Joel Spolsky, Jay Hanlon, David Fullerton, Kyle Brandt, Nick Craver, and Geoff Dalgas, with Producer Alex calling in from Denver!  We have a bunch of systems administrators and the like here, because we are in the process of moving datacenters to our new home in New York City.

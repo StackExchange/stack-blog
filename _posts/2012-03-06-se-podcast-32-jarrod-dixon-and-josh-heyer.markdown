@@ -11,6 +11,7 @@ wordpress_id: 11379
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/38889143-stack-exchange-stack-exchange-podcast-32.mp3
 ---
 
 With the recent "REP-OCALYPSE" that happened over the weekend, we thought it was a great time to do another podcast - so come join Joel, Jarrod, and Josh as they talk about some of the recent changes to the site and the motivations behind them.

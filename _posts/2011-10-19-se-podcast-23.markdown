@@ -11,6 +11,7 @@ wordpress_id: 10072
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/25906939-stack-exchange-stack-exchange-podcast-23.mp3
 ---
 
 Our guest today is [James Portnow](https://twitter.com/#%21/JamesPortnow) of [Extra Credits](http://www.penny-arcade.com/patv/show/extra-credits). We are also joined in the studio by [David Fullerton](http://meta.stackoverflow.com/users/146719/david-fullerton).

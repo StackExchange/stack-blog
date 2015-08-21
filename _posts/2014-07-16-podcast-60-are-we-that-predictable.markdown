@@ -11,6 +11,7 @@ wordpress_id: 14732
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/158893545-stack-exchange-stack-exchange-podcast-episode-60-are-we-that-predictable.mp3
 ---
 
 Welcome to Stack Exchange Podcast episode number 60, brought to you by The National Pepperjack Cheese Council. Your hosts today are Joel Spolsky, Jay Hanlon, and David Fullerton (aka Fake Producer Abby).

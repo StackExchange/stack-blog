@@ -11,6 +11,7 @@ wordpress_id: 8771
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/19421596-stack-exchange-stack-exchange-podcast-12.mp3
 ---
 
 This week, Jeff and Joel are joined by [Patrick McKenzie](http://www.kalzumeus.com/) - StackOverflow contributor, internet commentator and SEO expert (especially when it comes to driving traffic for [Halloween bingo cards](http://www.halloweenbingocards.net/)).  After a few early tech issues (don't worry, we cleaned up for everyone at home) we jump right into things, with tons of discussion, including:
