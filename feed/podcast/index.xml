@@ -36,6 +36,7 @@ redirect_from:
 		<width>144</width>
 		<height>144</height>
 	</image>
+	<itunes:new-feed-url>{{ site.url }}/feed/podcast</itunes:new-feed-url>
 	<itunes:subtitle>A look inside the Stack Exchange Network</itunes:subtitle>
 	<itunes:summary>Hosted by Joel Spolsky with Jay Hanlon and David Fullerton, the Stack Exchange podcast lets you listen in on discussions and decisions about the Stack Exchange Network. The Stack Exchange podcast gives you an unparalleled view into how a startup is created and built.
 
