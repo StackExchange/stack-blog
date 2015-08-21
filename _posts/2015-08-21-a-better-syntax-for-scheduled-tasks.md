@@ -11,7 +11,7 @@ source: http://bret.codes/schyntax-part-1/
 
 There are lots of domain-specific languages for schedules. The most prominent might be [Cron](https://en.wikipedia.org/wiki/Cron) (for \*nix scheduled tasks), but there's also [RRULE](http://www.kanzaki.com/docs/ical/rrule.html) (for iCalendar events) and many others. Cron isn't exactly what I'd call human-friendly. Can you tell me what `10 8,20 * 8 1-5` means if you don't use Cron often? Some DSL's go in the opposite direction and are wildly verbose, or will sacrifice expressiveness for simplicity.
 
-So... I wrote my own DSL to [solve those problems](https://xkcd.com/927/), and it's called Schyntax. Part 1 of this post is about the language itself. In [Part 2](/schyntax-part-2), we'll look at how to setup Schyntax-based scheduled task runners in both JavaScript and C# (there is also a Go implementation in progress).
+So... I wrote my own DSL to [solve those problems](https://xkcd.com/927/), and it's called Schyntax. Part 1 of this post is about the language itself. In [Part 2](http://bret.codes/schyntax-part-2), we'll look at how to setup Schyntax-based scheduled task runners in both JavaScript and C# (there is also a Go implementation in progress).
 
 ### Schyntax Syntax
 
@@ -95,7 +95,7 @@ You could break the groups up into multiple lines if you wanted. Remember, Schyn
 
 ### Implementations
 
-Although you'll generally want to use the "Schtick" task runner (described in [Part 2](/schyntax-part-2)), you can actually use the DSL directly to generate schedules. Let's show how to extract the next five event times for a schedule in both JavaScript and C#.
+Although you'll generally want to use the "Schtick" task runner (described in [Part 2](http://bret.codes/schyntax-part-2)), you can actually use the DSL directly to generate schedules. Let's show how to extract the next five event times for a schedule in both JavaScript and C#.
 
 #### JavaScript
 
@@ -132,4 +132,4 @@ for (var i = 0; i < 5; i++)
 
 ---
 
-? __goto__: [In Part 2, we'll use a scheduled task runner to put schyntax to work.](/schyntax-part-2). We'll also look at how my team at Stack Overflow is using it to improve consistency in our scheduled tasks.
+→ __goto__: [In Part 2, we'll use a scheduled task runner to put schyntax to work.](http://bret.codes/schyntax-part-2). We'll also look at how my team at Stack Overflow is using it to improve consistency in our scheduled tasks.
