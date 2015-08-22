@@ -1,5 +1,7 @@
 ---
 layout: null
+redirect_from:
+ - /feeds/podcast
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
@@ -28,7 +30,7 @@ layout: null
 	<webMaster>podcast@stackoverflow.com (The Stack Exchange Team)</webMaster>
 	<ttl>1440</ttl>
 	<image>
-		<url>{{ site.url }}/images/podcast-logo.png</url>
+		<url>{{ site.url }}/images/podcast-logo.jpg</url>
 		<title>Blog - Stack Exchange</title>
 		<link>{{ site.url }}</link>
 		<width>144</width>
@@ -53,7 +55,7 @@ Stack Exchange is a fast-growing network of over 100 question and answer sites o
 		<itunes:email>podcast@stackoverflow.com</itunes:email>
 	</itunes:owner>
 	<itunes:block>no</itunes:block>
-	<itunes:image href="{{ site.url }}/images/podcast-logo.png" />
+	<itunes:image href="{{ site.url }}/images/podcast-logo.jpg" />
 	{% for post in site.posts limit:40 %}		
 		{% if post.podcast %}
 		<item>
