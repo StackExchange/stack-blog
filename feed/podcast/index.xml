@@ -69,9 +69,9 @@ Stack Exchange is a fast-growing network of over 100 question and answer sites o
 			{% endfor %}
 			<pubDate>{{ post.date | date: "%a, %d %b %Y %T +0000" }}</pubDate>
 			{% if post.guid %}
-			<guid>{{ post.guid }}</guid>
+			<guid isPermaLink="false">{{ post.guid }}</guid>
 			{% else %}
-			<guid>{{ site.url }}{{ post.url }}</guid>
+			<guid isPermaLink="false">{{ site.url }}{{ post.url }}</guid>
 			{% endif %}
 			<description><![CDATA[{{ post.excerpt | raw }}]]></description>
 			<content:encoded><![CDATA[{{ post.content | raw }}]]></content:encoded>
