@@ -31,7 +31,11 @@ Whew.
 
 When Anil started blogging, he felt he was late to the party (and [said so in Vanity Fair](http://www.vanityfair.com/news/daily-news/2014/11/twitter-anil-dash)).  And while it's true that he didn't invent blogging ([Justin did](http://links.net), probably), he certainly wasn't late to the scene either - he started his blog in 1999. Also, he's Prince's #2 fan (right behind [?uestlove](https://en.wikipedia.org/wiki/Questlove)).
 
-So! Anil's current all-consuming project is [Makerbase](https://makerba.se), which is sort of like IMDb for digital projects. His cofounder Gina built the site while Anil sat around and watched supportively. [Joel is in there already](https://makerba.se/m/629vqi/spolsky), because anyone can add or edit a page for a maker or project. Makerbase helps increase transparency in the digital world (so founders can stop getting all the credit for features and things that other people actually made).
+So! Anil's current all-consuming project is [Makerbase](https://makerba.se), which is sort of like IMDb for digital projects. 
+
+![Makerbaes.](http://i.stack.imgur.com/zgZF5.jpg)
+
+His cofounder Gina built the site while Anil sat around and watched supportively. [Joel is in there already](https://makerba.se/m/629vqi/spolsky), because anyone can add or edit a page for a maker or project. Makerbase helps increase transparency in the digital world (so founders can stop getting all the credit for features and things that other people actually made).
 
 Makerbase is really simple: there are makers and projects. No companies, no job titles. Just makers and projects. You can add things you worked on for six months at your job, or just something you hacked up as a side project over the weekend, and Makerbase treats those projects equally.
 
