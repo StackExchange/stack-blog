@@ -11,6 +11,7 @@ wordpress_id: 150
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14378103-stack-exchange-stack-overflow-podcast-47.mp3
 ---
 
 This is the thirty-first episode of the StackOverflow podcast, where

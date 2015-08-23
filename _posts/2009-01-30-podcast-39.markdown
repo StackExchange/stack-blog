@@ -11,6 +11,7 @@ wordpress_id: 573
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14378001-stack-exchange-stack-overflow-podcast-39.mp3
 ---
 
 This is the 39th episode of the StackOverflow podcast, where Joel and Jeff discuss database design and the shell game of performance, the value of short, focused presentations, and the importance (or not) of a prestigious degree for software engineers.

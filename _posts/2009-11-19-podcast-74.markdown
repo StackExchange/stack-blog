@@ -11,6 +11,7 @@ wordpress_id: 2153
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14376766-stack-exchange-stack-overflow-podcast-3.mp3
 ---
 
 Joel and Jeff sit down with **[Kathy Sierra](http://en.wikipedia.org/wiki/Kathy_Sierra) and Bert Bates** backstage at the Business of Software 2009 conference.

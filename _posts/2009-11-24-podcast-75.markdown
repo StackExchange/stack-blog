@@ -11,6 +11,7 @@ wordpress_id: 2184
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14376755-stack-exchange-stack-overflow-podcast-2.mp3
 ---
 
 Joel and Jeff sit down with sysadmin extraordinaire Tom Limoncelli of [Everything Sysadmin](http://EverythingSysadmin.com) to discuss IPV6, dumb things for System Administrators to check, and the sysadmin community as reflected in [Server Fault](http://serverfault.com).

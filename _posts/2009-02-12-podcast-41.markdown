@@ -11,6 +11,7 @@ wordpress_id: 645
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14377610-stack-exchange-stack-overflow-podcast-37.mp3
 ---
 
 This is the 41st episode of the StackOverflow podcast, where Joel and Jeff sit down with [Robert Martin aka "Uncle Bob"](v), and discuss software quality, the value of software engineering principles, and test-driven development.

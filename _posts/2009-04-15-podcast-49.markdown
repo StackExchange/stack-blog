@@ -12,6 +12,7 @@ tags:
 - company
 - background
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14377437-stack-exchange-stack-overflow-podcast-29.mp3
 ---
 
 

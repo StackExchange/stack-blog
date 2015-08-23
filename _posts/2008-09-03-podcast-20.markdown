@@ -11,6 +11,7 @@ wordpress_id: 94
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14378285-stack-exchange-stack-overflow-podcast-58.mp3
 ---
 
 This is the twentieth episode of the StackOverflow podcast, wherein Joel and I discuss the following:

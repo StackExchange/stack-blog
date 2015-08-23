@@ -11,6 +11,7 @@ wordpress_id: 147
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14378198-stack-exchange-stack-overflow-podcast-49.mp3
 ---
 
 This is the twenty-ninth episode of the StackOverflow podcast, wherein Joel and I discuss the following:

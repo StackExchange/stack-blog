@@ -11,6 +11,7 @@ wordpress_id: 1915
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14376988-stack-exchange-stack-overflow-podcast-12.mp3
 ---
 
 In this episode of the Stack Overflow podcast, Joel and Jeff discuss reverse proxies, the pitfalls of self-support communities, and designing for engagement.

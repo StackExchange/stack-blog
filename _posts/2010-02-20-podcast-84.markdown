@@ -11,6 +11,7 @@ wordpress_id: 2760
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14168764-stack-exchange-stack-exchange-podcast-2.mp3
 ---
 
 Joel sits down with the Stack Exchange team, who are working on the hosted version of Stack Overflow at the Fog Creek offices in New York City.

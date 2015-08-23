@@ -11,6 +11,7 @@ wordpress_id: 340
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14378038-stack-exchange-stack-overflow-podcast-42.mp3
 ---
 
 Joel and Jeff, with special guest Eric Sink of SourceGear, discuss source control present and future, why writing a compiler is an important rite of passage for programmers, and how budding software engineers should be educated.

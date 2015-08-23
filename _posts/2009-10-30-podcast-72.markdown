@@ -11,6 +11,7 @@ wordpress_id: 2110
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14376799-stack-exchange-stack-overflow-podcast-5.mp3
 ---
 
 Joel and Jeff sit down with Jon Skeet, software engineer at Google London, and the first Stack Overflow user to achieve 100,000 reputation.

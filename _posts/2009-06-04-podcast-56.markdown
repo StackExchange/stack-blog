@@ -11,6 +11,7 @@ wordpress_id: 1425
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14377248-stack-exchange-stack-overflow-podcast-22.mp3
 ---
 
 This is the 56th episode of the StackOverflow podcast where Joel and Jeff sit down with Jason Calacanis to discuss the business side of software, including Mahalo's "Skee-Ball" economy, when VC funding is appropriate, and whether SEO matters.

@@ -11,6 +11,7 @@ wordpress_id: 116
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14378231-stack-exchange-stack-overflow-podcast-53.mp3
 ---
 
 

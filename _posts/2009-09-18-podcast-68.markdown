@@ -11,6 +11,7 @@ wordpress_id: 1964
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14376951-stack-exchange-stack-overflow-podcast-10.mp3
 ---
 
 Joel and Jeff discuss outsourced DNS, virtual machine "appliances", and programmers as library users versus library writers.

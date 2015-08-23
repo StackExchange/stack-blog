@@ -11,6 +11,7 @@ wordpress_id: 1668
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14377071-stack-exchange-stack-overflow-podcast-17.mp3
 ---
 
 In this episode of the podcast, Joel and Jeff sit down with [Miguel de Icaza](http://tirania.org/blog/) of the [Mono project](http://mono-project.com/Main_Page) to discuss Mono, Silverlight / Moonlight, and the pros and cons of open sourcing your code.

@@ -11,6 +11,7 @@ wordpress_id: 2703
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14168832-stack-exchange-stack-exchange-podcast-4.mp3
 ---
 
 In this episode of the Stack Overflow podcast, Joel and Jeff sit down with Mac developer Daniel Jalkut of [Red Sweater Software](http://www.red-sweater.com/) to discuss his experience as a longtime Mac developer and small Mac software business owner, and the possible impact of the iPad.

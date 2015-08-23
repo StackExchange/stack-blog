@@ -11,6 +11,7 @@ wordpress_id: 429
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14378030-stack-exchange-stack-overflow-podcast-41.mp3
 ---
 
 This is the 37th episode of the StackOverflow podcast, where Joel and Jeff discuss the expansion of Stack Overflow into non-programming IT topics, the pernicious problem of "systemitis", and how to reach the next generation of programmers.

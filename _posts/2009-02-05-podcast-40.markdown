@@ -11,6 +11,7 @@ wordpress_id: 600
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14377639-stack-exchange-stack-overflow-podcast-38.mp3
 ---
 
 This is the 40th episode of the StackOverflow podcast, where

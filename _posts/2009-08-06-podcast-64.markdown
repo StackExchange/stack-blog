@@ -11,6 +11,7 @@ wordpress_id: 1796
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14377032-stack-exchange-stack-overflow-podcast-14.mp3
 ---
 
 Joel and Jeff discuss the disappointment of Google AdSense, the difference in skillset between programmers and testers, and the value of standards groups to working programmers.
