@@ -55,4 +55,6 @@ Jay asked Anil the best way for people to use their powers for good:
 
 (That was way too deep, so we'll end with a warning that it's [camworld dot ORG](http://camworld.org) and you should NOT try the other one unless you want your IT department to look at you funny.)
 
+Thanks for listening to the Stack Exchange Podcast!
+
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/220469343&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
