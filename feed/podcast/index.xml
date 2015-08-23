@@ -68,8 +68,8 @@ Stack Exchange is a fast-growing network of over 100 question and answer sites o
 			<category><![CDATA[{{ category }}]]></category>
 			{% endfor %}
 			<pubDate>{{ post.date | date: "%a, %d %b %Y %T +0000" }}</pubDate>
-			{% if post.guid %}
-			<guid isPermaLink="false">{{ post.guid }}</guid>
+			{% if post.wordpress_id %}
+			<guid isPermaLink="false">http://blog.stackoverflow.com/?p={{ post.wordpress_id }}</guid>
 			{% else %}
 			<guid isPermaLink="false">{{ site.url }}{{ post.url }}</guid>
 			{% endif %}
