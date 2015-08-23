@@ -58,7 +58,7 @@ Stack Exchange is a fast-growing network of over 100 question and answer sites o
 	<itunes:block>no</itunes:block>
 	<itunes:explicit>no</itunes:explicit>
 	<itunes:image href="{{ site.url }}/images/podcast-logo.jpg" />
-	{% for post in site.tags.podcasts limit:10 %}
+	{% for post in site.tags.podcasts limit:20 %}
 		{% if post.podcast and post.draft != true %}
 		<item>
 			<title><![CDATA[{{ post.title | raw }}]]></title>
