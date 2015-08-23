@@ -47,14 +47,12 @@ David observes that the tech industry is shifting toward design in addition to (
 
 Next, we ask Anil about how he spends a lot of time and energy thinking and speaking about social issues that are important to him. (He compares his efforts to learn from as many people as possible with Stack Overflow, and *we didn't even know he was going to say that*. Win!) Also--and this is related, in a "you had to listen to the show" kind of way--it's awesome when folks come along with you when you nerd out about something. That's why you should read [Anil's blog post about Prince's "Purple Rain" video](http://anildash.com/2014/07/i-know-times-are-changing.html). And here's a link to Paul Ford's [What is Code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) piece.
 
-Thanks for joining us! You can read more of Anil's stuff on [his Twitter](http://twitter.com/anildash) or his blog - now at [anildash.com](http://anildash.com)! Or check out [his extensive list of projects on Makerbase](https://makerba.se/m/psw2ud/anildash).
-
-Jay asked Anil the best way for people to use their powers for good: 
+Jay asks Anil the best way for people to use their powers for good: 
 
 > The biggest thing is to ask yourself what you are probably getting wrong, and who can help you get it right. I think that's it.
 
 (That was way too deep, so we'll end with a warning that it's [camworld dot ORG](http://camworld.org) and you should NOT try the other one unless you want your IT department to look at you funny.)
 
-Thanks for listening to the Stack Exchange Podcast!
+Thanks for listening to the Stack Exchange Podcast! You can read more of Anil's stuff on [his Twitter](http://twitter.com/anildash) or his blog - now at [anildash.com](http://anildash.com)! Or check out [his extensive list of projects on Makerbase](https://makerba.se/m/psw2ud/anildash). See you next time!
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/220469343&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
