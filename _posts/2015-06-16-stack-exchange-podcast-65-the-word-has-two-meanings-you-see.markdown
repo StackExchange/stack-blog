@@ -41,4 +41,5 @@ It’s finally time for…
 
 Thanks for listening to Stack Exchange Podcast Episode #65. For a special treat stay tuned after the credits for the Very First Episode of the Stack Overflow Podcast, starring Joel and co-founder (emeritus) Jeff Atwood.
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/210303965&color=ff5500"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/210303965&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+

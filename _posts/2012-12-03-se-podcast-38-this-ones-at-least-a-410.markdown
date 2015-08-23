@@ -66,4 +66,4 @@ Welcome to Stack Exchange podcast #38 with Joel, Jay, David, and new special gue
 
 
 
-<p><iframe src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F69812124&amp;show_artwork=true" frameborder="no" scrolling="no" width="100%" height="166"></iframe></p>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/69812124&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
