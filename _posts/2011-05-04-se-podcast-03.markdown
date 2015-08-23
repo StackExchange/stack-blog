@@ -11,6 +11,7 @@ wordpress_id: 7997
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14679940-stack-exchange-se-episode03.mp3
 ---
 
 This week, Jeff and Joel are joined by [Scott Hanselman](http://www.hanselman.com/blog/) - tune in for their discussion of everything from MIX11 to the salads at Jack in the Box.

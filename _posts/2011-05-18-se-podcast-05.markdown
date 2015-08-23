@@ -11,6 +11,7 @@ wordpress_id: 8187
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/15494022-stack-exchange-sta.mp3
 ---
 
 The podcast is on the road again this week, with Jeff and Joel coming to you live from Jeff's living room in El Cerrito, CA.  They're also joined by Josh Heyer (aka [Shog9](http://stackoverflow.com/users/811/shog9)) who calls in from Colorado.  This is actually the second time we've done a podcast from Jeff's house, the first time being [Episode #51](http://blog.stackoverflow.com/2009/04/podcast-51/).
