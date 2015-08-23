@@ -77,8 +77,8 @@ Stack Exchange is a fast-growing network of over 100 question and answer sites o
 			<content:encoded><![CDATA[{{ post.content | raw }}]]></content:encoded>
 			<itunes:author>The Stack Exchange Team</itunes:author>
 			<itunes:explicit>no</itunes:explicit>
-			<itunes:summary><![CDATA[{{ post.content | strip_html | truncate: 4000 }}]]></itunes:summary>
-			<itunes:subtitle><![CDATA[{{ post.excerpt | strip_html | truncate: 255  }}]]></itunes:subtitle>
+			<itunes:summary><![CDATA[{{ post.content | strip_html | unescapeHTML | truncate: 4000 }}]]></itunes:summary>
+			<itunes:subtitle><![CDATA[{{ post.excerpt | strip_html | unescapeHTML | truncate: 255  }}]]></itunes:subtitle>
 			<enclosure type="audio/mpeg" url="{{ post.podcast }}" length="0"/>
 		</item>
 		{% endif %}
