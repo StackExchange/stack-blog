@@ -12,7 +12,6 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/108681379-stack-exchange-stack-exchange-podcast-52-we.mp3
-guid: http://blog.stackoverflow.com/?p=13971
 ---
 
 Welcome to Stack Exchange Podcast #52 with your hosts Joel Spolsky, David Fullerton and Jay Hanlon. Today's show is brought to you by Marmite Yeast Extract - you either love it, or hate it! (You probably hate it.) Joining us today are Careers 2.0 Marketing Coordinator Bethany Marzipan, er, Marzewski and Careers 2.0 Product Manager Will Cole.

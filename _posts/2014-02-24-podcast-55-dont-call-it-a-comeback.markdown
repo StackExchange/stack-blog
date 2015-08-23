@@ -12,7 +12,6 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/135361168-stack-exchange-stack-exchange-podcast-54.mp3
-guid: http://blog.stackoverflow.com/?p=14579
 ---
 
 Welcome to Stack Exchange Podcast #55, recorded on <del>Friday</del> Thursday the 13th with your hosts Joel Spolsky, David Fullerton, and Jay Hanlon! Today's episode is brought to you by the city of [Sochi, Russia](http://en.wikipedia.org/wiki/Sochi).

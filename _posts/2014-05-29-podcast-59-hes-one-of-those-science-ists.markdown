@@ -12,7 +12,6 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/151731070-stack-exchange-stack-exchange-podcast-59-hes-one-of-those-science-ists.mp3
-guid: http://blog.stackoverflow.com/?p=14722
 ---
 
 Welcome to the 59th running of the Stack Exchange podcast, brought to you by Nutella! Your hosts Joel Spolsky, David Fullerton, and Jay Hanlon are joined this week by special guests Josh Heyer (aka Shog9) and Robert Cartaino (aka Robert Cartaino) of the Stack Exchange Community Growth team.
