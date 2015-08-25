@@ -555,6 +555,11 @@ footer {
 
 #speakers {
 	padding-top: 30px;
+	min-height: 260px;
+	
+	&:first-of-type {
+		padding-left: 1em;
+	}
 	
 	.info {
 		padding-top: 0;
@@ -566,14 +571,15 @@ footer {
 	
 	.author-info {
 		color: #737c82;
-		line-height: 22px;
 		margin-bottom: 0px;
+		font-size: 13px;
+		margin-top: 3px;
 	}
 	
 	.author-meta-info {
 		color: #07c;
-		margin-top: -6px;
-		font-size: 13px;
+		font-size: 12px;
+		padding-top: 8px;
 	}
 	
 	#speaker-tag {
@@ -582,18 +588,17 @@ footer {
 	}
 	
 	.locale-and-tags {
-		min-height: 30px;
-		margin-top: -6px;
+		margin-top: -8px;
 	}
 	
 	.speaker-location {
-		margin: 2px 15px 0 0;
-		float: left;
+		position: relative;
+		float: right;
 		
 		h4 {
 		color: #737c82;
 		padding: 3px 0 0 0;
-		font-size: 13px;
+		font-size: 12px;
 		font-weight: 400;
 		margin-bottom: 0;
 		float: left;
@@ -607,12 +612,21 @@ footer {
 		}
 		
 	}
+	
+	&.author-container.large img {
+		width: 50px;
+		height: 50px;
+		margin-right: 15px;
+	}
+}
 
+.mini-header {
+	font-size: 16px;
 }
 
 #tag-filter {
 	box-sizing: border-box;
-	padding: 12px;
+	padding: 12px 20px;
 	background-color: #eee;
 
 	p {
@@ -622,6 +636,11 @@ footer {
 	#remove {
 		float: right;
 	}
+}
+
+#sort-tags {
+	background: #fafafa;
+	padding: 20px;
 }
 
 @media (max-width: $mediaQuery-small) {

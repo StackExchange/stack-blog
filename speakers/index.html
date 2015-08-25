@@ -4,27 +4,49 @@ title: Speakers
 top_nav: speakers
 ---
 <div class="inner-container padded media-padded -row">
-	<div class="-col8">
+	<div class="-col12">
 		<div class="-row">
 			<h1 class="h3">Speakers</h1>
-			<p class="-col11">
+			<p>
 				The humans who comprise Stack Exchange are part of an organization unlike any other. We have a large variety of talented individuals who are constantly working to improve themselves and the world around them. Whether it be engineering, design, marketing, or community development our team has a large variety of skills and experience to speak about.
 			</p>
 		</div>
+		
+			<div class="">
+			<div class="media-padded">
+				<h2 class="mini-header">
+					Need a speaker?
+				</h2>
+				<p>
+					If you would like a Stack Exchange employee speak at your next event, email us at speakers@stackoverflow.com, we’d be happy to discuss.
+				</p>
+				<div id="sort-tags">
+					<h2 class="mini-header">
+						Sort by speaker tags
+					</h2>
+					{% for tag in site.data['speaker_tags'] %}
+						<a href="/speakers/{{ tag }}" class="postTag">{{tag}}</a>
+					{% endfor %}
+				</div>
+				
+									
+											{% if page.tag %}
+							<div id="tag-filter" class="-row">
+								<p id="remove">
+									<a href="/speakers/">remove filter</a>				
+								</p>			
+								<p>
+									<strong>Displaying all speakers tagged:</strong> 
+									<span class="postTag">{{ page.tag }}</span>
+								</p>
+							</div>
+						{% endif %}
+			</div>
+			</div>
+	</div> <!--end of top section-->
 
-		{% if page.tag %}
-		<div id="tag-filter" class="-row">
-			<p id="remove">
-				<a href="/speakers/">remove filter</a>				
-			</p>			
-			<p>
-				<strong>Displaying all speakers tagged:</strong> 
-				<span class="postTag">{{ page.tag }}</span>
-			</p>
-		</div>
-		{% endif %}
-
-		<div id="speakers-list">
+	
+	<div id="speakers-list" class="-row _gutter">
 		
 		{% if page.people %}
 			{% assign shuffled = page.people | shuffle %}
@@ -35,28 +57,31 @@ top_nav: speakers
 		{% for person in shuffled %}
 			{% if person.speaker %}
 			{% unless person.inactive %}
+				
+				<div id="speakers" class="author-container large -row {% for tag in person.speaker_tags %}{{ tag }} {% endfor %} -col6">
 				<a name="{{ person.id }}"></a>
-				<div id="speakers" class="author-container large -row {% for tag in person.speaker_tags %}{{ tag }} {% endfor %}">
 				  	<img src="{{ person.avatar }}" class="avatar">
-				  	<div class="info -col9">
+				  	<div class="info">
+					  		{% if person.location %}
+						  		<span class="speaker-location"><i class="blog-icon location"></i><h4>{{ person.location }}</h4></span>
+						  	{% endif %}	
 				  		<h2 class="h4 author-name">{{ person.name }}</h2>
 				  		<h3 class="h5">
 				  			{{ person.job }}
 				  		</h3>
-				  		<div class="locale-and-tags">
-					  		{% if person.location %}
-						  		<span class="speaker-location"><i class="blog-icon location"></i><h4>{{ person.location }}</h4></span>
-						  	{% endif %}			
-						  							  	
-						  	{% for tag in person.speaker_tags %}
-								<a href="/speakers/{{ tag }}" class="postTag">{{ tag }}</a>
-							{% endfor %}				
-				  		</div>
 					  	
 				  		<h3 class="h5 author-info">
 				  			{{ person.speaker_intro | markdownify }}
 				  		</h3>
+				  		
+				  		<div class="locale-and-tags">					  	
+						  	{% for tag in person.speaker_tags %}
+								<a href="/speakers/{{ tag }}" class="postTag">{{ tag }}</a>
+							{% endfor %}		
+				  		</div>
+				  		
 				  		<h3 class="h5 author-meta-info">
+
 				  			{% if person.website %}
 				  				<a href="{{ person.website }}">Website</a>
 				  			{% endif %}
@@ -77,27 +102,13 @@ top_nav: speakers
 				  				<a href="{{ person.youtube }}">YouTube</a>
 				  			{% endif %}
 				  		</h3>
+				  		
 				  	</div>
 				</div>
 			{% endunless %}
 			{% endif %}
 		{% endfor %}
-		</div>
 	</div>
-	<div class="-col4">
-		<div class="sidebar media-padded">
-			<h2 class="h4">
-				Need a speaker?
-			</h2>
-			<p>
-				If you would like a Stack Exchange employee speak at your next event, email us at speakers@stackoverflow.com, we’d be happy to discuss.
-			</p>
-			<h2 class="h4">
-				Speaker tags
-			</h2>
-			{% for tag in site.data['speaker_tags'] %}
-				<a href="/speakers/{{ tag }}" class="postTag">{{tag}}</a>
-			{% endfor %}
-		</div>
-	</div>
+	
+
 </div>
