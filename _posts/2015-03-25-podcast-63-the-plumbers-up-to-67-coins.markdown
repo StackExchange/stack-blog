@@ -11,6 +11,7 @@ tags:
  - company
  - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/197512699-stack-exchange-stack-exchange-podcast-63-the-plumbers-up-to-67-coins.mp3
+wordpress_id: 15379
 ---
 
 Welcome to the Stack Exchange Podcast Episode #63, recorded March 6, 2015 in front of [a live-ish audience](http://chat.stackexchange.com/transcript/512/2015/3/6). Today's podcast is brought to you by Cool Whip by Kraft Foods. A description for this result is not available because of this site's robots.txt -- learn more! Our hosts today are Joel Spolsky, David Fullerton, and Jay Hanlon... as usual.
@@ -35,4 +36,5 @@ So what came out of this discussion? [We changed close vote aging](http://meta.s
 
 Thanks for listening to the Stack Exchange Podcast, brought to you by Cool Whip -- a whipped topping, NOT whipped cream.
 
-<iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/197512699&color=ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/197512699&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+

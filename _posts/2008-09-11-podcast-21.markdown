@@ -11,6 +11,7 @@ wordpress_id: 95
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14378273-stack-exchange-stack-overflow-podcast-57.mp3
 ---
 
 This is the twenty-first episode of the StackOverflow podcast, wherein Joel and I discuss the following:
@@ -90,7 +91,4 @@ record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.
 
 The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W24224) for this episode is available for public editing.
 
-
-
-
-[display_podcast]
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/14378273&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>

@@ -11,6 +11,7 @@ wordpress_id: 1995
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14376925-stack-exchange-stack-overflow-podcast-9.mp3
 ---
 
 Joel and Jeff sit down with Peter Seibel to discuss his new book [Coders At Work](http://www.amazon.com/dp/1430219483/?tag=codinghorror-20), the effect of listening to music while coding, and the future of programming books.
@@ -83,3 +84,4 @@ If you'd like to submit a question to be answered in our next episode, record an
 
 The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W29085) for this episode is available for public editing.
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/14376925&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>

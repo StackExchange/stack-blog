@@ -11,6 +11,7 @@ wordpress_id: 72
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14378365-stack-exchange-stack-overflow-podcast-62.mp3
 ---
 
 
@@ -96,7 +97,4 @@ The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W4) for this
 
 Update: if you had trouble playing back this episode (or the previous one), it may have been due to issues with the way the ID3 tags were stored on the file. The ITConversations folks are on it, and have re-rendered the episodes with a fix.
 
-
-
-
-[display_podcast]
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/14378365&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
