@@ -58,4 +58,4 @@ Welcome to episode 49 of the Stack Exchange Podcast! We are welcoming special gu
 Thanks for listening to the Stack Exchange podcast, and thanks to our guest Matt Grum and his band [Juno](http://wearejuno.com/) for the outro music!
 
 
-<iframe src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F96395024&amp;show_artwork=true" height="166" width="100%" frameborder="no" scrolling="no"></iframe></p>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/96395024&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
