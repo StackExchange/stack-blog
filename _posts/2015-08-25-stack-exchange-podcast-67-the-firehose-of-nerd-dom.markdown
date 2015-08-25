@@ -3,11 +3,11 @@ layout: podcast
 date: 2015-08-25
 title: "The Firehose of Nerd-dom"
 author: abbytmiller
+draft: true
 tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/220469343-stack-exchange-stack-exchange-podcast-episode-67-the-firehose-of-nerd-dom.mp3
-draft: true
 ---
 
 Welcome to Stack Exchange podcast episode #67, recorded live from Stack Exchange HQ in NYC on August 11, 2015. Today's podcast is brought to you by [the Stockwell Garage](https://en.wikipedia.org/wiki/Stockwell_Garage), a Grade II* Listed Building since 1988. Joining us on today's podcast are Jay Hanlon, David Fullerton, host Joel Spolsky -- and special guest [Anil Dash](http://twitter.com/anildash) of [Makerbase](https://makerba.se)! (Anil says he's never been invited on the podcast before, but that is [a dirty lie](http://chat.stackexchange.com/transcript/message/23367254#23367254).)
