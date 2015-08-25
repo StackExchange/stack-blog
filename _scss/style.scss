@@ -555,7 +555,7 @@ footer {
 
 #speakers {
 	padding-top: 30px;
-	min-height: 260px;
+	min-height: 250px;
 	
 	&:first-of-type {
 		padding-left: 1em;
@@ -574,6 +574,11 @@ footer {
 		margin-bottom: 0px;
 		font-size: 13px;
 		margin-top: 3px;
+		
+		p {
+			max-height: 100px;
+			overflow: hidden;
+		}
 	}
 	
 	.author-meta-info {
