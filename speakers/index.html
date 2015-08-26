@@ -6,7 +6,7 @@ top_nav: speakers
 <div class="inner-container padded media-padded -row">
 	<div class="-col12">
 		<div class="-row">
-			<h1 class="h3">Speakers</h1>
+			<h1 class="h3"><a href="/speakers" style="color:inherit">Speakers</a></h1>
 			<p>
 				Stack Exchange is a large variety of talented individuals who are constantly working to improve themselves and the world around them. Whether it be engineering, design, marketing, or community, our team has a large variety of skills and experience to speak about.
 			</p> 
@@ -17,27 +17,28 @@ top_nav: speakers
 		
 			<div class="">
 			<div class="media-padded">
+				{% unless page.tag %}
 				<div id="sort-tags">
 					<h2 class="mini-header">
-						Sort by speaker tags
+						Filter by speaker tags
 					</h2>
 					{% for tag in site.data['speaker_tags'] %}
 						<a href="/speakers/{{ tag }}" class="postTag">{{tag}}</a>
 					{% endfor %}
 				</div>
-				
+				{% endunless %}
 									
-											{% if page.tag %}
-							<div id="tag-filter" class="-row">
-								<p id="remove">
-									<a href="/speakers/">remove filter</a>				
-								</p>			
-								<p>
-									<strong>Displaying all speakers tagged:</strong> 
-									<span class="postTag">{{ page.tag }}</span>
-								</p>
-							</div>
-						{% endif %}
+				{% if page.tag %}
+					<div id="tag-filter" class="-row">
+						<p id="remove">
+							<a href="/speakers/">show all speakers</a>			
+						</p>			
+						<p>
+							<strong>Displaying speakers tagged:</strong> 
+							<span class="postTag" style="margin:0">{{ page.tag }}</span>
+						</p>
+					</div>
+				{% endif %}
 			</div>
 			</div>
 	</div> <!--end of top section-->
