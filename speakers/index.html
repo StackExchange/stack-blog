@@ -8,18 +8,15 @@ top_nav: speakers
 		<div class="-row">
 			<h1 class="h3">Speakers</h1>
 			<p>
-				The humans who comprise Stack Exchange are part of an organization unlike any other. We have a large variety of talented individuals who are constantly working to improve themselves and the world around them. Whether it be engineering, design, marketing, or community development our team has a large variety of skills and experience to speak about.
+				Stack Exchange is a large variety of talented individuals who are constantly working to improve themselves and the world around them. Whether it be engineering, design, marketing, or community, our team has a large variety of skills and experience to speak about.
+			</p> 
+			<p>
+				If you would like a Stack Exchange employee speak at your next event, email us at speakers@stackoverflow.com, we’d be happy to discuss.
 			</p>
 		</div>
 		
 			<div class="">
 			<div class="media-padded">
-				<h2 class="mini-header">
-					Need a speaker?
-				</h2>
-				<p>
-					If you would like a Stack Exchange employee speak at your next event, email us at speakers@stackoverflow.com, we’d be happy to discuss.
-				</p>
 				<div id="sort-tags">
 					<h2 class="mini-header">
 						Sort by speaker tags
@@ -58,7 +55,7 @@ top_nav: speakers
 			{% if person.speaker %}
 			{% unless person.inactive %}
 				
-				<div id="speakers" class="author-container large -row {% for tag in person.speaker_tags %}{{ tag }} {% endfor %} -col6">
+				<div id="speaker" class="author-container large -row {% for tag in person.speaker_tags %}{{ tag }} {% endfor %} -col6">
 				<a name="{{ person.id }}"></a>
 				  	<img src="{{ person.avatar }}" class="avatar">
 				  	<div class="info">
