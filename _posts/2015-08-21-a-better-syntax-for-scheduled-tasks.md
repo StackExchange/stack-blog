@@ -54,41 +54,41 @@ In addition to the `hours`, `minutes`, and `seconds` expressions we've seen so f
 
 * Every hour from 0900 UTC until, and including, 1700 UTC (__all dates and times are UTC in Schyntax__):
 
-        hours(9..17)
+    <pre><code>    hours(9..17)</code></pre>
 
 * Every five minutes from 0900 until, but not including, 1700 (notice the half-open range operator `..<` instead of `..`):
   
-        hours(9 ..< 17) min(*%5)
+    <pre><code>    hours(9 ..< 17) min(*%5)</code></pre>
 
 * Same as the previous schedule, except only on Monday through Friday (inclusive):
 
-        days(mon..fri) hours(9 ..< 17) min(*%5)
+    <pre><code>    days(mon..fri) hours(9 ..< 17) min(*%5)</code></pre>
 
 * Same as previous, except it won't run any time during the noon hour (UTC):
 
-        days(mon..fri) hours(9..<17, !12) min(*%5)
+    <pre><code>    days(mon..fri) hours(9..<17, !12) min(*%5)</code></pre>
 
 * Noon UTC every Monday through Friday, except on Christmas:
 
-        days(mon..fri) hour(12) date(!12/25)
+    <pre><code>    days(mon..fri) hour(12) date(!12/25)</code></pre>
 
 * Noon UTC on the first and last days of the month:
 
-        daysofmonth(1, -1) hour(12)
+    <pre><code>    daysofmonth(1, -1) hour(12)</code></pre>
 
 * Every minute between 2300 and 0100 UTC (ranges which wrap around are okay):
 
-        hours(23..<1) min(*)
+    <pre><code>    hours(23..<1) min(*)</code></pre>
 
 * Here's the Schyntax version of the Cron schedule example I gave earlier (`10 8,20 * 8 1-5`). See if this feels more readable to you:
 
-        minute(10), hours(8,20) days(mon..fri) dates(8/1..8/31)
+    <pre><code>    minute(10), hours(8,20) days(mon..fri) dates(8/1..8/31)</code></pre>
 
 #### Groups
 
 What if you want to run every five minutes during the week, and every half hour on weekends? You can do that by grouping expressions inside curly braces:
 
-        { days(mon..fri) min(*%5) } { days(sat..sun) min(*%30) }
+<pre><code>    { days(mon..fri) min(*%5) } { days(sat..sun) min(*%30) }</code></pre>
 
 You could break the groups up into multiple lines if you wanted. Remember, Schyntax is whitespace-insensitive.
 
