@@ -5,7 +5,6 @@ title: "A Better Syntax for Scheduled Tasks"
 tags:
 - engineering
 date: 2015-08-27
-draft: true
 comments: true
 source: http://bret.codes/schyntax-part-1/
 ---
