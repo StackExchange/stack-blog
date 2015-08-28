@@ -637,7 +637,7 @@ specificity overrides some default styles */
 
 #tag-filter {
 	box-sizing: border-box;
-	padding: 1em;
+	padding: 16px 16px 14px 16px;
 	background-color: #fafafa;
 
 	p {
@@ -646,10 +646,6 @@ specificity overrides some default styles */
 
 	#remove {
 		float: right;
-	}
-
-	.postTag {
-		margin: 0;
 	}
 }
 
