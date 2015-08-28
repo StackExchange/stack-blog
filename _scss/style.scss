@@ -553,7 +553,9 @@ footer {
 	}
 }
 
-#speaker {
+/* the selector includes an id to ensure that the
+specificity overrides some default styles */
+#speakers-list .speaker {
 	padding-top: 30px;
 	min-height: 241px;
 	
@@ -585,11 +587,6 @@ footer {
 		color: #07c;
 		font-size: 12px;
 		padding-top: 8px;
-	}
-	
-	#speaker-tag {
-		margin-top: 0px;
-		float: left;
 	}
 	
 	.locale-and-tags {

@@ -56,7 +56,7 @@ top_nav: speakers
 			{% if person.speaker %}
 			{% unless person.inactive %}
 				
-				<div id="speaker" class="author-container large -row {% for tag in person.speaker_tags %}{{ tag }} {% endfor %} -col6">
+				<div class="speaker author-container large -row {% for tag in person.speaker_tags %}{{ tag }} {% endfor %} -col6">
 				<a name="{{ person.id }}"></a>
 				  	<img src="{{ person.avatar }}" class="avatar">
 				  	<div class="info">
