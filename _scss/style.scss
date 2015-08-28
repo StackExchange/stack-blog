@@ -622,6 +622,12 @@ specificity overrides some default styles */
 	}
 }
 
+@media (max-width: $mediaQuery-small) {
+	#speakers-list .speaker .author-info p {
+        max-height: 160px;
+    }
+}
+
 .mini-header {
 	font-size: 16px;
 }
