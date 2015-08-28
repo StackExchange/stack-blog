@@ -2,6 +2,7 @@
 layout: author
 id: balpha
 name: Benjamin Dumke-von der Ehe
+location: Berlin, Germany
 job: "Web Developer"
 avatar: https://i.stack.imgur.com/XjF6s.png
 twitter: balpha
