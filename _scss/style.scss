@@ -145,6 +145,9 @@ header {
 	color: #fff;
 	height: 136px;
 	.site-avatar {
+		/* ensure that the floated image contributes to the <a>'s dimensions and thus is always clickable */
+		display: block;
+		overflow: hidden;
 		img {
 			margin-top: 20px;
 			float: left;
@@ -624,8 +627,8 @@ specificity overrides some default styles */
 
 @media (max-width: $mediaQuery-small) {
 	#speakers-list .speaker .author-info p {
-        max-height: 160px;
-    }
+		max-height: 160px;
+	}
 }
 
 .mini-header {
@@ -655,8 +658,28 @@ specificity overrides some default styles */
 	div.inner-container.padded {
 		margin-top: 30px;
 	}
+	header .site-avatar img {
+		margin-top: 0;
+	}
 	.hidden-nav {
 		display: none;
+	}
+	header {
+		height: auto;
+		padding-bottom: 20px !important; /* important because the pages that have sub-nav override this value in-page */
+		nav {
+			clear: left;
+			text-align: left;
+			padding-top: 15px;
+			margin-left: -8px; /* align text with the logo */
+			a, a:link, a:visited {
+				color: mix($color-white, $blue, 60%);
+				border: none !important;
+			}
+			a.active, a:hover {
+				color: $color-white;
+			}
+		}
 	}
 	.add-padding {
 		padding: 0 25px;
