@@ -2,7 +2,7 @@
 layout: author
 id: nickcraver
 name: Nick Craver
-job: "Web Developer"
+job: "Developer and Site Reliability Engineer"
 location: Winston-Salem, NC
 avatar: https://i.stack.imgur.com/nGCYr.jpg?s=256
 twitter: Nick_Craver
