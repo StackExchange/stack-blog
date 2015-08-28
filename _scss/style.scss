@@ -637,8 +637,8 @@ specificity overrides some default styles */
 
 #tag-filter {
 	box-sizing: border-box;
-	padding: 12px 20px;
-	background-color: #eee;
+	padding: 1em;
+	background-color: #fafafa;
 
 	p {
 		margin: 0;
@@ -647,11 +647,10 @@ specificity overrides some default styles */
 	#remove {
 		float: right;
 	}
-}
 
-#sort-tags {
-	background: #fafafa;
-	padding: 1em;
+	.postTag {
+		margin: 0;
+	}
 }
 
 @media (max-width: $mediaQuery-small) {

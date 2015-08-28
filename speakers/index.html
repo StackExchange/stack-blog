@@ -15,32 +15,22 @@ top_nav: speakers
 			</p>
 		</div>
 		
-			<div class="">
-			<div class="media-padded">
-				{% unless page.tag %}
-				<div id="sort-tags">
-					<h2 class="mini-header">
-						Filter by speaker tags
-					</h2>
-					{% for tag in site.data['speaker_tags'] %}
-						<a href="/speakers/{{ tag }}" class="postTag">{{tag}}</a>
-					{% endfor %}
-				</div>
-				{% endunless %}
-									
-				{% if page.tag %}
-					<div id="tag-filter" class="-row">
-						<p id="remove">
-							<a href="/speakers/">show all speakers</a>			
-						</p>			
-						<p>
-							<strong>Displaying speakers tagged:</strong> 
-							<span class="postTag" style="margin:0">{{ page.tag }}</span>
-						</p>
-					</div>
-				{% endif %}
-			</div>
-			</div>
+		<div id="tag-filter" class="-row">
+			{% if page.tag %}
+				<p id="remove">
+					<a href="/speakers/">show all speakers</a>			
+				</p>			
+				<p>
+					<strong>Displaying speakers tagged:&nbsp;</strong> 
+					<span class="postTag" style="margin:0">{{ page.tag }}</span>
+				</p>
+			{% else %}
+				<strong>Filter by speaker tags:&nbsp;</strong>
+				{% for tag in site.data['speaker_tags'] %}
+					<a href="/speakers/{{ tag }}" class="postTag">{{tag}}</a>
+				{% endfor %}
+			{% endif %}
+		</div>
 	</div> <!--end of top section-->
 
 	
