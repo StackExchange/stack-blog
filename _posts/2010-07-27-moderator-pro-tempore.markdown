@@ -62,7 +62,7 @@ About a week into the public beta, we will **seek out members who are deeply eng
   * Lead by example, showing patience and respect for their fellow community members in everything they write.
 
 	
-  * Exhibit those intangible traits discussed in [A Theory of Moderation](../2009/05/a-theory-of-moderation/).
+  * Exhibit those intangible traits discussed in [A Theory of Moderation](http://blog.stackexchange.com/2009/05/a-theory-of-moderation/).
 
 
 Bonus points for:
