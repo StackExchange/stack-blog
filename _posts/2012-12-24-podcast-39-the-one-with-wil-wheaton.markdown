@@ -12,6 +12,7 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/72432544-stack-exchange-stack-exchange-podcast-39.mp3
+duration: "00:52:52"
 ---
 
 Today's guest is [Jeremy Tunnell](http://stackexchange.com/users/1635441/jeremy-tunnell), who says it's great to be here. He's the new Product Manager on the Stack Exchange team. He works out of Nashville but is in New York with us, recording live in the podcast studio!

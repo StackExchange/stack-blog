@@ -12,6 +12,7 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/38285361-stack-exchange-stack-exchange-podcast-31.mp3
+duration: "01:06:48"
 ---
 
 Well, it's time for the final Stack Exchange Podcast featuring Jeff Atwood before he [rides off into the sunset](http://blog.stackoverflow.com/2012/02/farewell/).  Tune in to hear Jeff and Joel reminisce about the origins of Stack Exchange, the journey along the way, and listen to some special recordings from those who have been around since the beginning.

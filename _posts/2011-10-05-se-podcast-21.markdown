@@ -12,6 +12,7 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/24810127-stack-exchange-stack-exchange-podcast-21.mp3
+duration: "01:05:15"
 ---
 
 This week, Jeff & Joel are joined (in studio, no less) by [David Fullerton](http://stackoverflow.com/users/91687/david-fullerton), head of the NY Dev Department, and [Jason Punyon](http://stackoverflow.com/users/6212/jason-punyon), a developer here in the office.  Its a fast moving discussion covering all kinds of topics, like:

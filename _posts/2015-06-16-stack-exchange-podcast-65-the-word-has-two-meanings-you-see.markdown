@@ -7,6 +7,7 @@ tags:
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/210303965-stack-exchange-stack-exchange-podcast-episode-65-the-word-has-two-meanings-you-see.mp3
 wordpress_id: 15936
+duration: "01:49:14"
 ---
 Welcome to the Stack Exchange Podcast, episode #65, recorded Tuesday, May 12, 2015 at Stack Exchange Headquarters in New York City. Today’s podcast is brought to you by the Association of Airline Mile Programs and hosted by the usual suspects.
 

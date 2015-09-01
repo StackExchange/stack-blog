@@ -12,6 +12,7 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14377551-stack-exchange-stack-overflow-podcast-33.mp3
+duration: "01:13:03"
 ---
 
 This is the 45th episode of the StackOverflow podcast, where Joel and Jeff discuss what a program manager does, the value (or lack thereof) of a functional spec and vision statement, building developer community, and planning your development time.

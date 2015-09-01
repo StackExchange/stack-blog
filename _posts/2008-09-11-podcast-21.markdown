@@ -12,6 +12,7 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14378273-stack-exchange-stack-overflow-podcast-57.mp3
+duration: "01:11:00"
 ---
 
 This is the twenty-first episode of the StackOverflow podcast, wherein Joel and I discuss the following:

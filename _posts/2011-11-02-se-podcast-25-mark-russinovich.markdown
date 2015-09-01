@@ -12,6 +12,7 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/26994881-stack-exchange-stack-exchange-podcast-25.mp3
+duration: "00:56:34"
 ---
 
 This week's guest is [Mark Russinovich](http://en.wikipedia.org/wiki/Mark_Russinovich), from [SysInternals.com](http://technet.microsoft.com/en-us/sysinternals) and now with Microsoft.

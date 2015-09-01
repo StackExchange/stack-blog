@@ -12,6 +12,7 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/22289079-stack-exchange-stack-exchange-podcast-16.mp3
+duration: "01:11:48"
 ---
 
 So it's been a couple weeks since our last podcast, but Jeff & Joel are back and ready to catch up on everything they missed.  There's no guest this week, just 60+ minutes of that Jeff & Joel banter that (we hope) you've grown to love.

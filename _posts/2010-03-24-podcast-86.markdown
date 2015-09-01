@@ -12,6 +12,7 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14105831-stack-exchange-stack-exchange-podcast-episode.mp3
+duration: "00:55:37"
 ---
 
 Joel and Jeff sit down with [Anton Geraschenko](http://mathoverflow.net/users/1/anton-geraschenko) to discuss the unique qualities of a community of expert mathematicians, how to capture a sphere in a knot, and the importance of off-site backups.

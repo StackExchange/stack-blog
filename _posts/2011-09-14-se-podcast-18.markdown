@@ -12,6 +12,7 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/23329020-stack-exchange-stack-exchange-podcast-18.mp3
+duration: "00:57:41"
 ---
 
 No guest this week as Joel calls in to the show live from the TechCrunch Disrupt Conference in San Francisco since he's there launching [Trello](http://www.trello.com) for Fog Creek Software (also why his audio isn't quite as good as usual, it's pretty loud there).  There's still a full hour of Jeff & Joel goodness though so make sure to check it out!

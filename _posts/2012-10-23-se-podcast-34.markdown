@@ -12,6 +12,7 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/64405575-stack-exchange-stack-exchange-podcast-34.mp3
+duration: "00:49:17"
 ---
 
 On the show this week are Kyle Brandt and Nick Craver, two SE employees who are heading up our systems upgrades and relocations - they'll dish all kinds of details on our infrastructure, plus plenty of chat about other mildly relevant things.

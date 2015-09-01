@@ -12,6 +12,7 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14377001-stack-exchange-stack-overflow-podcast-13.mp3
+duration: "01:03:49"
 ---
 
 In this episode of the podcast, Joel and Jeff discuss lessons from a year of building Stack Overflow, the mysteries of COBOL, some YSlow website optimizations, and magic numbers.

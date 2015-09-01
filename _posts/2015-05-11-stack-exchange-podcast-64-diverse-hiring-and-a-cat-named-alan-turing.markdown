@@ -13,6 +13,7 @@ tags:
 - diversity
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/204221383-stack-exchange-stack-exchange-podcast-episode-64-not-recorded-in-ithaca.mp3
 wordpress_id: 15818
+duration: "01:05:02"
 ---
 
 Welcome to Stack Exchange Podcast Episode #64, recorded in the podcast studio at Stack Exchange HQ in New York City, NY. 

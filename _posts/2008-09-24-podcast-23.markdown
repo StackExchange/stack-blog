@@ -12,6 +12,7 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14378240-stack-exchange-stack-overflow-podcast-55.mp3
+duration: "01:05:31"
 ---
 
 This is the twenty-third episode of the StackOverflow podcast, wherein Joel and I discuss the following:

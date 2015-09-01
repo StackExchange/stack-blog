@@ -12,6 +12,7 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14377239-stack-exchange-stack-overflow-podcast-21.mp3
+duration: "01:08:35"
 ---
 
 This is the 57th episode of the StackOverflow podcast where Joel and Jeff discuss the relationship between speed and skill, iPhone development, and the value of programming fundamentals.

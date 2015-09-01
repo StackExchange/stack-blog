@@ -7,6 +7,7 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/214902705-stack-exchange-stack-exchange-podcast-66-thank-you-for-saying-words-to-us.mp3
+duration: "01:03:15"
 ---
 
 Welcome to Stack Exchange podcast episode #66, recorded live at Stack Exchange HQ in New York, NY on July 7, 2015. Today's podcast is brought to you by The Association of Ex-Fog Creek Summer Interns (AEFCSI). Today's show is hosted by the usual suspects Jay Hanlon, David Fullerton, and Joel Spolsky, plus ex post facto Producer Alex.

@@ -12,6 +12,7 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14378022-stack-exchange-stack-overflow-podcast-40.mp3
+duration: "01:08:14"
 ---
 
 This is the 38th episode of the StackOverflow podcast, where Joel and Jeff discuss YSlow optimizations for large websites, the value of unit testing, and the hidden pitfalls of asking questions to programmers.

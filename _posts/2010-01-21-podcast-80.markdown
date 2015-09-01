@@ -12,6 +12,7 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14168976-stack-exchange-stack-exchange-podcast-6.mp3
+duration: "01:06:53"
 ---
 
 In this episode of the Stack Overflow podcast, Joel and Jeff discuss GitHub, the value of formal code documentation, and how to decide what features belong in the next version of your software.

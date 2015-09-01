@@ -12,6 +12,7 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14377208-stack-exchange-stack-overflow-podcast-20.mp3
+duration: "01:04:58"
 ---
 
 This is the 58th episode of the StackOverflow podcast where Joel and Jeff discuss HTML encoding, designing "safe by default", whether a question can be too simple, and the art of beta testing.

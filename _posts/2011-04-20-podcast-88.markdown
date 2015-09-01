@@ -12,6 +12,7 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/13877633-stack-exchange-se-episode01.mp3
+duration: "01:04:23"
 ---
 
 Welcome back to the first episode of the new Stack Exchange Podcast redux!  Jumping right back into the old groove, here's what happens this week:

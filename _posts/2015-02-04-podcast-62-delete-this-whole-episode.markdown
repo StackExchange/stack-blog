@@ -13,6 +13,7 @@ tags:
 - podcasts
 - announcement
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/189301069-stack-exchange-stack-exchange-podcast-episode-62-delete-this-whole-episode.mp3
+duration: "00:47:33"
 ---
 
 Welcome to Stack Exchange Podcast #62, recorded live on January 20th--with a [live studio audience (kinda)!](http://chat.stackexchange.com/transcript/message/19636047#19636047). Today's podcast was brought to you by the American Venture Capital Association. With you today are our hosts Jay Hanlon, David Fullerton, and Joel Spolsky.

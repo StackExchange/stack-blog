@@ -12,6 +12,7 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/16327907-stack-exchange-stack-exchange-podcast-8.mp3
+duration: "00:57:58"
 ---
 
 It's our first test of a live podcast!  In case you missed it, we streamed this week's podcast live during the taping. It's something we're playing with and may continue to do in the future if it is popular.  You can tune in to the live tapings Tuesdays @ 4 PM Eastern / 1 PM Pacific -- check Joel and Jeff's Twitter feeds for the location.

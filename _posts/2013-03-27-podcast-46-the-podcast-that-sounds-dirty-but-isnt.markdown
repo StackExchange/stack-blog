@@ -12,6 +12,7 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/85215663-stack-exchange-stack-exchange-podcast-46.mp3
+duration: "00:52:32"
 ---
 
 Our guest this week (after she joins a bit late) is Zuly Gonzalez - Stack Exchange moderator and power user.  As usual, we also have David Fullerton, Jay Hanlon, Joel Spolsky and (Fake) Producer Alex!
