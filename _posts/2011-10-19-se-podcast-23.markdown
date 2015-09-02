@@ -55,7 +55,7 @@ Our guest today is [James Portnow](https://twitter.com/#%21/JamesPortnow) of 
   * James is the hero in his own story. Games teach you that you can always win, and that nothing is unachievable. We will close on that hopeful note! James can be found @[JamesPortnow](https://twitter.com/jamesportnow) or @[ExtraCreditz](https://twitter.com/extracreditz) on Twitter, or over at [Extra Credits](http://www.penny-arcade.com/patv/show/extra-credits).
 
 	
-  * Oh, right, news from Stack Exchange: David, interim CTO while Jeff is on vacation, has no news. Except that we have a [mascot](../2011/10/meet-bubbles/) now. (David had nothing to do with it.) Also, Jeff will be speaking at [Oredev](http://oredev.org/2011), which is November 7-11, and Punyon should probably go with him.
+  * Oh, right, news from Stack Exchange: David, interim CTO while Jeff is on vacation, has no news. Except that we have a [mascot](https://blog.stackexchange.com/2011/10/meet-bubbles/) now. (David had nothing to do with it.) Also, Jeff will be speaking at [Oredev](http://oredev.org/2011), which is November 7-11, and Punyon should probably go with him.
 
 	
   * Oh, yeah! We have our own URL shortener! It's [s.tk](http://s.tk/). Check out [s.tk/joel](http://s.tk/joel) and you'll pick up the gist.
