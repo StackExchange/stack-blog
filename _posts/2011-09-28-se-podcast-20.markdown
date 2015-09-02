@@ -28,7 +28,7 @@ Joining Jeff & Joel this week is [John Siracusa](http://arstechnica.com/author/j
   * We are downgrading Joel to an Etch-a-Sketch, since he can't get his trackpad to work.
 
 	
-  * Good programmers have a temptation to clean up Stack Overflow, and that can lead to everything suddenly looking off-topic. One result is that we get a lot of questions closed as General Reference. The gang discusses the many ways these questions have been handled over the years. There's even a [blog post](../2011/02/are-some-questions-too-simple/) on the topic. Jeff and Joel have different interpretations of how these types of questions should be treated.
+  * Good programmers have a temptation to clean up Stack Overflow, and that can lead to everything suddenly looking off-topic. One result is that we get a lot of questions closed as General Reference. The gang discusses the many ways these questions have been handled over the years. There's even a [blog post](https://blog.stackexchange.com/2011/02/are-some-questions-too-simple/) on the topic. Jeff and Joel have different interpretations of how these types of questions should be treated.
 
 	
   * So what can be done to encourage good questions? One point of view is that a clearly no-work, no-effort question should not be rewarded with a brilliant answer. Another is that we shouldn't care about the questioner - the goal is to create a useful piece of information that makes the internet better. We're here to serve the 15 million people who get answers from the site without ever typing a word.
