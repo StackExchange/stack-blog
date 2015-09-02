@@ -16,7 +16,7 @@ tags:
 - stackexchange
 ---
 
-In [The 7 Essential Meta Questions of Every Beta](../2010/07/the-7-essential-meta-questions-of-every-beta/) we covered what we believe to be the crucial steps in forming a viable [Stack Exchange](http://stackexchange.com) Q&A community. Today we're going to offer some aggregated advice, both from us and our existing meta communities, on step 7 -- **How do we promote our site?**
+In [The 7 Essential Meta Questions of Every Beta](https://blog.stackexchange.com/2010/07/the-7-essential-meta-questions-of-every-beta/) we covered what we believe to be the crucial steps in forming a viable [Stack Exchange](http://stackexchange.com) Q&A community. Today we're going to offer some aggregated advice, both from us and our existing meta communities, on step 7 -- **How do we promote our site?**
 
 
 ## Share Great Questions and Answers
