@@ -22,7 +22,7 @@ No guest this week as Joel calls in to the show live from the TechCrunch Disrupt
   * Joel gives rundown of what he’s seen at the [TechCrunch Disrupt conference](http://disrupt.techcrunch.com/SF2011/) in San Francisco so far. A discussion about differences between East Coast and West Coast tech startups leads Jeff and Joel to talk about how important centralized locations are for modern day companies.
 
 	
-  * The recent [Facebook deal](../2011/08/facebook-stackoverflow/) has led to a recent influx of general Facebook support emails. This leads to a discussion about user support and how other companies rate against Stack Exchange.
+  * The recent [Facebook deal](https://blog.stackexchange.com/2011/08/facebook-stackoverflow/) has led to a recent influx of general Facebook support emails. This leads to a discussion about user support and how other companies rate against Stack Exchange.
 
 	
   * The merits of paying for internet services comes up, specifically the[freemium](http://en.wikipedia.org/wiki/Freemium) and [37signals](http://37signals.com/) models. Jeff discusses the merits of 37signals and Joel recounts his time using that model.
