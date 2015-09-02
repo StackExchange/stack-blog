@@ -13,7 +13,7 @@ tags:
 - Area51
 ---
 
-Dust off your tuxedo; notify the paparazzi. You are invited to the hottest ribbon-cutting ceremony this side of [Rovio](../2010/11/rovio-or-how-to-annoy-your-coworkers-from-200-miles-away/). Stack Exchange is launching the long-awaited [Discussion Zone](http://discuss.area51.stackexchange.com/) of Area 51!
+Dust off your tuxedo; notify the paparazzi. You are invited to the hottest ribbon-cutting ceremony this side of [Rovio](https://blog.stackexchange.com/2010/11/rovio-or-how-to-annoy-your-coworkers-from-200-miles-away/). Stack Exchange is launching the long-awaited [Discussion Zone](http://discuss.area51.stackexchange.com/) of Area 51!
 
 [![](http://blog.stackoverflow.com/wp-content/uploads/discussion-zone.png)](http://discuss.area51.stackexchange.com)
 
