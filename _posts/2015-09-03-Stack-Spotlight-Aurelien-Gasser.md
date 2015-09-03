@@ -3,7 +3,6 @@ layout: post
 title: "Stack Spotlight: Aurélien Gasser"
 author: rmaleady
 date: 2015-09-03
-draft: true
 description: "Learn all about Stack Overflow Web Developer Aurélien Gasser"
 tags:
 - company
