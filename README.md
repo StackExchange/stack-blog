@@ -8,12 +8,14 @@ If you are actively involved in improving the infrastructure of this project, yo
 ## Quick Links
  - [Add yourself as a contributor on the blog](https://github.com/StackExchange/blog/new/master/_people) ([See an example file](https://github.com/StackExchange/blog/edit/master/_people/jonhmchan.md))
  - [Publish a new post](https://github.com/StackExchange/blog/new/master/_posts) ([See an example file](https://github.com/StackExchange/blog/edit/master/_posts/2014-01-28-My-First-Six-Weeks-Working-At-Stack-Overflow.md), [published version](http://stackexchange.github.io/blog/01/28/My-First-Six-Weeks-Working-At-Stack-Overflow/))
- - [Dev blog (for employees only, where to preview posts before going live)](http://dev.blog.stackexchange.com/)
+ - [Dev blog (where to preview posts before going live; mainly for employees, but not secret)](http://dev.blog.stackexchange.com/)
  - [Internal image uploader (for employees only, must be on VPN or on office network)](http://blogtools.ds.stackexchange.com/)
- - [Company editorial board and calendar (post ideas and see schedule)](https://trello.com/b/WYAPaUEC/blog-editorial-and-calendar)
+ - [Company editorial board and calendar (for employees only, post ideas and see schedule)](https://trello.com/b/WYAPaUEC/blog-editorial-and-calendar)
 
 ## What is this blog for?
 This is the official company blog for Stack Exchange. Everything related to new features, announcements, engineering projects, and all things Stack Exchange live on this blog. The contributors on this blog are Stack Exchange employees, but in the future, we may open this up to outside contributors as well.
+
+**This GitHub repository is public**, so anyone can immediately see updates, new post drafts, and similar changes, even before they are deployed to the blog. Given our *default public* company policy, you shouldn't usually worry about this. However, in the rare case that you're writing a post that is time-sensitive and contains information that must not be leaked before being officially published on the blog, you should not add that post to this repository in advance.
 
 ### I have an idea for / want to write a post, what should I do?
 1. Go to our [Blog Editorial and Calendar Trello board](https://trello.com/b/WYAPaUEC/blog-editorial-and-calendar) and add any and all of your ideas to the `Ideas/Backlog` column.
@@ -24,7 +26,7 @@ This is the official company blog for Stack Exchange. Everything related to new 
  - Add any relevant **tags** like `announcement`, `diversity`, or `engineering` onto the card
 3. As cards get added, Rachel Maleady and Jon Chan will go through all the cards in the `Ideas/Backlog` column, and move anything we want to discuss into the `Being Scheduled This Week` column. Sometimes things that *have* to get scheduled (like the regular podcast posts) will get added directly into this column. If your card got moved into the `Being Scheduled This Week` column, feel free to join Rachel and Jon in the meeting to chat about your ideas.
 4. Every week during the editorial meeting, Rachel and Jon will move cards from `Being Scheduled This Week` into a `Publishing This Month` or `Publishing Next Month` column. Once that's done, you should start [writing your post](https://github.com/StackExchange/blog#2-publishing-a-post) and we're going to ocassionally heckle you about it until it's published :) If you have trouble figuring out how to do this, feel free to ask Jon or Rachel.
-5. As you write your post, feel free to commit it. Jon and Rachel will constantly be looking at what gets added here and nothing will get published publicly until we manually hit the production build, so don't worry too much about making mistakes and stuff. As you write and make commits, it automatically builds on an internal dev tier at http://dev.blog.stackexchange.com/, so if you want to see what it looks like before you publish, you can see it there.
+5. As you write your post, feel free to commit it (unless it contains information that should remain confidential for the time being). Jon and Rachel will constantly be looking at what gets added here and nothing will get published publicly until we manually hit the production build, so don't worry too much about making mistakes and stuff. As you write and make commits, it automatically builds on an internal dev tier at http://dev.blog.stackexchange.com/, so if you want to see what it looks like before you publish, you can see it there.
 6. Once the deadline arrives, we'll check with you to make sure it's exactly as you like it, then we'll push to production!
 
 ## Quickstart
@@ -137,7 +139,7 @@ In addition to the different methods, there are some basic guidelines to what is
 
 **Drafts**
 
-You can always set your posts as drafts. You can do this by adding the line `draft: true` into the metadata of your post. Putting your post into draft mode means it won't show up anywhere that blog posts are listed, but you can still see the post at its individual URL.
+You can always set your posts as drafts. You can do this by adding the line `draft: true` into the metadata of your post. Putting your post into draft mode means it won't show up anywhere that blog posts are listed, but you can still see the post at its individual URL, and it will still be visible on [dev.blog](http://dev.blog.stackexchange.com/) and on GitHub.
 
 **Adding tags**
 
