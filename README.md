@@ -183,6 +183,16 @@ end
 {% endhighlight %}
 ```
 
+**YouTube videos**
+
+To embed a YouTube video directly in a post, use the `youtube.html` include like this:
+
+```
+{% include youtube.html video_id="SQoA_wjmE9w" %}
+```
+
+You can get a video's id by looking at the URL of the video's page on YouTube ([youtube.com/watch?v=SQoA_wjmE9w](https://www.youtube.com/watch?v=SQoA_wjmE9w) in this example).
+
 ## Making code changes
 
 If you are interested in making changes to the design, functionality, or structure of the blog, you're going to need to set up a local environment and understand some of the technologies behind the site.
