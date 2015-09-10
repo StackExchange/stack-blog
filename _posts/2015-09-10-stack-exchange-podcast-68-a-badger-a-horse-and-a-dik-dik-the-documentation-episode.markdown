@@ -1,7 +1,7 @@
 ---
 layout: podcast
 date: 2015-09-10
-title: "A Badger, A Horse, and a Dik-dik (The Documentation Episode)"
+title: "Podcast #68 - A Badger, A Horse, and a Dik-dik (The Documentation Episode)"
 author: abbytmiller
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/223184390-stack-exchange-stack-exchange-podcast-episode-68-a-badger-a-horse-and-a-dik-dik-the-documentation-episode.mp3
 tags:
