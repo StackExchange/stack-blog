@@ -1,7 +1,7 @@
 ---
 layout: post
 author: abbytmiller
-title: "Stack Exchange Podcast #65: The Word Has Two Meanings, You See"
+title: "Podcast #65 - The Word Has Two Meanings, You See"
 tags:
 - company
 - podcasts

@@ -1,7 +1,7 @@
 ---
 layout: podcast
 date: 2015-08-25
-title: "Anil Dash and the Firehose of Nerd-dom"
+title: "Podcast #67 - Anil Dash and the Firehose of Nerd-dom"
 author: abbytmiller
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/220469343-stack-exchange-stack-exchange-podcast-episode-67-the-firehose-of-nerd-dom.mp3
 tags:
