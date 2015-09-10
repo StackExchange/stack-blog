@@ -1,0 +1,32 @@
+---
+layout: podcast
+date: 2015-09-10
+title: "TODO"
+author: abbytmiller
+podcast: 
+tags:
+- company
+- podcasts
+draft: true
+---
+
+Welcome to Stack Exchange Podcast #68 recorded Tuesday, September 1, 2015 at Stack Exchange HQ in New York City. Today's podcast is brought to you by [Labor Day](https://en.wikipedia.org/wiki/Labor_Day) - don't forget to put those [seersucker](https://en.wikipedia.org/wiki/Seersucker) suits away for the season! Your hosts today are David Fullerton, Jay Hanlon, and Joel Spolsky, with special guest [Kevin Montrose](http://stackoverflow.com/users/80572/kevin-montrose).
+
+Here's what seersucker looks like (in case you were wondering about it while the gang talks about seersucker for a weirdly long time):
+
+![you're the seersucker, buddy](http://i.stack.imgur.com/JOKhP.jpg)
+
+(*[image via wikipedia](https://en.wikipedia.org/wiki/Seersucker#/media/File:Seersucker01.jpg)*)
+
+We've got two exciting things to talk about. First up: **Stack Overflow has 10 MILLION QUESTIONS!** We made [a web page](http://stackoverflow.com/10m) to celebrate, because that's what geeky web companies do. If you're too lazy click on that link don't worry because Jay eventually just starts describing the page to you. (Predictably, the conversation quickly devolves from celebration to discussion of how we can actually measure activity and helpfulness. Views? Sessions? Answers?) To celebrate, we asked folks to share their Stack Overflow stories [on Twitter with #SOreadytohelp](https://twitter.com/search?q=%23SOreadytohelp). Tons of people have shared so far (which may have something to do with the fact that you could win a t-shirt). 
+
+Some of Jay's favorite selections:
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">StackOverflow is the definition of all what&#39;s noble about this field: knowledge, sharing, rigor and dorky jokes. <a href="https://twitter.com/hashtag/SOreadytohelp?src=hash">#SOreadytohelp</a></p>&mdash; Ahmed (@halflings) <a href="https://twitter.com/halflings/status/634481409349013505">August 20, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/stackoverflow?src=hash">#stackoverflow</a> in Nairobi helped me skip condescending librarians,unreliable Internet to stream tuts,limited dev community <a href="https://twitter.com/hashtag/SOreadytohelp?src=hash">#SOreadytohelp</a>.</p>&mdash; Geoffrey Cimani (@asgardjotunheim) <a href="https://twitter.com/asgardjotunheim/status/634433014081191936">August 20, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/SOreadytohelp?src=hash">#SOreadytohelp</a>&#10;Of all the &quot;world changing startups&quot; I think SO secretly is the most impactful one in the world. &#10;<a href="http://t.co/rXSuON6Vsq">http://t.co/rXSuON6Vsq</a></p>&mdash; Goktug Yilmaz (@Esqarrouth) <a href="https://twitter.com/Esqarrouth/status/634477715320631296">August 20, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+So! Enough of that boring celebratory stuff. Time to talk about **what we're going to do next**. It was just about a year ago that we thought to ourselves: "we need more things besides questions and answers!" At least that's how Joel remembers it. Long story short: we're talking about Documentation, so if you haven't read [the meta post](http://meta.stackoverflow.com/q/303865/865899) yet, you might want to skim it while you listen to this part. (I'll wait right here.)
+
