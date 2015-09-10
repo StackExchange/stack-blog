@@ -34,15 +34,15 @@ Some of Jay's favorite selections:
 
 (Oh no! Our secret's out!)
 
-So! Enough of that boring celebratory stuff. Our next topic is so big and exciting that I think it warrants a horizontal rule:
+Okay, enough of that boring celebratory stuff. Our next topic is so big and exciting that I think it warrants a horizontal rule:
 
 -----
 
 Welcome to life *below the fold*.
 
-So! It's time to talk about what Stack Overflow could do next. It was just about a year ago that we thought to ourselves: "we need more things besides questions and answers!" At least that's how Joel remembers it. To make a long story short, we're talking about a possible new content type: **Documentation**.  if you haven't read [the meta post](http://meta.stackoverflow.com/q/303865/865899) yet, you might want to skim it while you listen to this part. (I'll wait right here.)
+So! It's time to talk about what Stack Overflow could do next. It was just about a year ago that we thought to ourselves: "we need more things besides questions and answers!" At least that's how Joel remembers it. To make a long story short, we're talking about a possible new content type: **Documentation**.  If you haven't read [the meta post](http://meta.stackoverflow.com/q/303865/865899) yet, you might want to skim it while you listen to this part. (I'll wait right here.)
 
-Okay. Welcome back. We're still talking about documentation. As it currently stands, documentation is frequently:
+Done skimming? Welcome back. We're still talking about documentation. As it currently stands all around the internet, documentation is frequently:
 
 * Poorly written or included as an afterthought
 * Out of date
@@ -70,7 +70,7 @@ Questions from the audience:
 * [How <strike>did you</strike> do you plan to solve the issue of distributing reputation for a collaboratively edited page of documentation?](http://chat.stackexchange.com/transcript/message/23817350#23817350) The short answer is we aren't sure yet, and we have to observe how people actually use docs in the private beta. One thing we've kind of decided is that we don't think it makes sense to take rep away from you when someone else adds to something you wrote. (If you want to help solve this problem, [sign up for the beta](https://docs.google.com/forms/d/13ynCK-DEy0osod8VIENajnbFJNZxXm1jyeupBrl5v44/viewform)!)
 * (paraphrased) [Why are you working on a Stack Overflow-specific new content type instead of something more applicable network-wide?](http://chat.stackexchange.com/transcript/message/23817342#23817342) The short answer is that it's really hard to solve problems or develop tools for hundreds of diverse needs, and you'll probably be bad at most of them if you try. If we'd set out to solve Q&A for the internet at large (instead of just programming) we wouldn't have ended up with Stack Overflow and it probably would have been worse for everyone. But something like documentation could be useful for a lot of sites, once we figure out how it will work for developers. Also, we have to very aggressively constrain so we can iterate as quickly as humanly possible.
 
-Jay wants to talk about some other stuff, so here's another horizontal rule so nobody gets confused:
+Jay wants to talk about some other stuff, so here's another horizontal rule so nobody gets confused.
 
 -----
 
