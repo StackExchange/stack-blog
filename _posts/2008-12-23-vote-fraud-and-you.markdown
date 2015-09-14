@@ -34,7 +34,7 @@ Still, it's unacceptable behavior, and I've been getting several reports of this
 
 
 
-[![Poll Faults](http://blog.stackoverflow.com/wp-content/uploads/061107pollfaults-x.png)](http://www.coxandforkum.com/archives/000973.html)
+[![Poll Faults](http://www.coxandforkum.com/archives/06.11.07.PollFaults-X.gif)](http://www.coxandforkum.com/archives/000973.html)
 
 
 
