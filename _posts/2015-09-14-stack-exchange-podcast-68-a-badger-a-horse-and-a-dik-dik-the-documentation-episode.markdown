@@ -7,7 +7,6 @@ podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/223
 tags:
 - company
 - podcasts
-draft: true
 ---
 
 Welcome to Stack Exchange Podcast #68 recorded Tuesday, September 1, 2015 at Stack Exchange HQ in New York City. Today's podcast is brought to you by [Labor Day](https://en.wikipedia.org/wiki/Labor_Day) - don't forget to put those [seersucker](https://en.wikipedia.org/wiki/Seersucker) suits away for the season! Your hosts today are David Fullerton, Jay Hanlon, and Joel Spolsky, with special guest [Kevin Montrose](http://stackoverflow.com/users/80572/kevin-montrose).
