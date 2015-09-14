@@ -21,15 +21,15 @@ We've got two exciting things to talk about. First up: **Stack Overflow has 10 M
 
 Some of Jay's favorite selections:
 
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">StackOverflow is the definition of all what&#39;s noble about this field: knowledge, sharing, rigor and dorky jokes. <a href="https://twitter.com/hashtag/SOreadytohelp?src=hash">#SOreadytohelp</a></p>&mdash; Ahmed (@halflings) <a href="https://twitter.com/halflings/status/634481409349013505">August 20, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">StackOverflow is the definition of all what&#39;s noble about this field: knowledge, sharing, rigor and dorky jokes. <a href="https://twitter.com/hashtag/SOreadytohelp?src=hash">#SOreadytohelp</a></p>-- Ahmed (@halflings) <a href="https://twitter.com/halflings/status/634481409349013505">August 20, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 (The dorkier, the better.)
 
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/stackoverflow?src=hash">#stackoverflow</a> in Nairobi helped me skip condescending librarians,unreliable Internet to stream tuts,limited dev community <a href="https://twitter.com/hashtag/SOreadytohelp?src=hash">#SOreadytohelp</a>.</p>&mdash; Geoffrey Cimani (@asgardjotunheim) <a href="https://twitter.com/asgardjotunheim/status/634433014081191936">August 20, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/stackoverflow?src=hash">#stackoverflow</a> in Nairobi helped me skip condescending librarians,unreliable Internet to stream tuts,limited dev community <a href="https://twitter.com/hashtag/SOreadytohelp?src=hash">#SOreadytohelp</a>.</p>-- Geoffrey Cimani (@asgardjotunheim) <a href="https://twitter.com/asgardjotunheim/status/634433014081191936">August 20, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 (Take *that*, librarians.)
 
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/SOreadytohelp?src=hash">#SOreadytohelp</a>&#10;Of all the &quot;world changing startups&quot; I think SO secretly is the most impactful one in the world. &#10;<a href="http://t.co/rXSuON6Vsq">http://t.co/rXSuON6Vsq</a></p>&mdash; Goktug Yilmaz (@Esqarrouth) <a href="https://twitter.com/Esqarrouth/status/634477715320631296">August 20, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/SOreadytohelp?src=hash">#SOreadytohelp</a>&#10;Of all the &quot;world changing startups&quot; I think SO secretly is the most impactful one in the world. &#10;<a href="http://t.co/rXSuON6Vsq">http://t.co/rXSuON6Vsq</a></p>-- Goktug Yilmaz (@Esqarrouth) <a href="https://twitter.com/Esqarrouth/status/634477715320631296">August 20, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 (Oh no! Our secret's out!)
 
