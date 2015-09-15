@@ -4,6 +4,7 @@ date: 2015-09-15
 title: "We're Changing Our Name (Back) to Stack Overflow"
 author: jhanlon
 hero: http://i.stack.imgur.com/jJsNI.png
+description: "We are Stack Overflow. You may know us from such popular websites as Stack Overflow Q&A, Stack Overflow Careers, The Stack Exchange Q&A Network, and most of your Google search results."
 tags:
 - company
 - announcements
