@@ -85,7 +85,7 @@ Honestly, some days I worry about Joel, but he’s on to something:
 
 ### Developers have a *lot* of problems.
 
-We got here by focusing on underserved developer needs, and asking the world’s developers to join us in solving them. I think that  if we’d set out to build the best Q&A platform for *everyone’s needs*, it wouldn’t have helped anyone. By narrowing our focus to a specific group we thought we could help, we were able to create a product *opinionated enough to actually make a difference*.  
+We got here by focusing on underserved developer needs, and asking the world’s developers to help us solve them. I think that  if we’d set out to build the best Q&A platform for *everyone’s needs*, it wouldn’t have helped anyone. By narrowing our focus to a specific group we thought we could help, we were able to create a product *opinionated enough to actually make a difference*.  
 
 So, we’re going to stick with the plan. As we look for new ways to serve our users, we’ll focus on what we know best:  solving developer problems. Today, we’re working on our biggest expansion since Stack Overflow launched: Documentation. You can [learn more about it here](http://meta.stackoverflow.com/questions/303865/warlords-of-documentation-a-proposed-expansion-of-stack-overflow), or [sign up for the beta](https://docs.google.com/forms/d/13ynCK-DEy0osod8VIENajnbFJNZxXm1jyeupBrl5v44/viewform), and be part of building what we think will be our next Big Thing. 
 
@@ -99,7 +99,7 @@ Do I hope to see more multi-colored, (poorly-drawn) networks spring up around so
 
 ## Didn’t you say something about the logo?
 
-Oh - right. With the exception of a few minor tweaks, the Stack Overflow logo that you know and love has been essentially unchanged since we paid [$512 for it in in a 99 Designs contest](http://99designs.com/logo-design/contests/logo-stackoverflow-6774/entries) way back when that was a *lot* of money for us. We thought it was pretty awesome then, and it’s still pretty awesome now. So, the design team didn’t change much, and just made a simple, clean update to the existing logo. Next week, they’ll share how it fits into a new style guide we’ll be using to  help us standardize our visuals and save valuable design cycles downstream. 
+Oh - right. With the exception of a few minor tweaks, the Stack Overflow logo that you know and love has been essentially unchanged since we paid [$512 for it in in a 99 Designs contest](http://99designs.com/logo-design/contests/logo-stackoverflow-6774/entries) back when that was a *lot* of money for us. We thought it was pretty awesome then, and it’s still pretty awesome now. So, the design team didn’t change much, and just made a simple, clean update to the existing logo. Next week, they’ll share how it fits into a new style guide we’ll be using to  help us standardize our visuals and save valuable design cycles downstream. 
 
 But for now, we were inspired by Google’s video explaining how they arrived at their new logo concept of “kindergarten letters, most of which are actually aligned correctly.”  So we made a short video. While ours doesn’t include the phrase, “…and just the right soupçon of whimsy” nearly as much as theirs, I think it does a nice job conveying exactly how ours got changed. 
 
