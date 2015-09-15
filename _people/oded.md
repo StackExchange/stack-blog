@@ -4,7 +4,7 @@ id: oded
 name: Oded Coster
 job: Developer
 location: London
-avatar: http://i.stack.imgur.com/Au4eT.png
+avatar: https://i.stack.imgur.com/Au4eT.png
 twitter: OdedCoster
 website: http://OdedCoster.com/blog
 stack: http://stackoverflow.com/users/1583/oded

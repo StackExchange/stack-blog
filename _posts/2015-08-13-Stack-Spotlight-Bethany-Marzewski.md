@@ -11,7 +11,7 @@ tags:
 Each month we’ll be featuring a short interview with one of our very own employees here at Stack Overflow. You’ll learn how they came to Stack Overflow, what projects they’re currently working on, and why they love working here. 
 First up is our Marketing Manager, Customer Happiness Bethany Marzewski. 
 
-![Bethany marzewski](http://i.stack.imgur.com/h4AM2.jpg)
+![Bethany marzewski](https://i.stack.imgur.com/h4AM2.jpg)
 
 **Name:** Bethany Marzewski
 

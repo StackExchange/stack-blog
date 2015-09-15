@@ -13,7 +13,7 @@ Welcome to Stack Exchange Podcast #68 recorded Tuesday, September 1, 2015 at Sta
 
 Here's what seersucker looks like (in case you were wondering about it while the gang talks about seersucker for a weirdly long time):
 
-![you're the seersucker, buddy](http://i.stack.imgur.com/JOKhP.jpg)
+![you're the seersucker, buddy](https://i.stack.imgur.com/JOKhP.jpg)
 
 (*[image via wikipedia](https://en.wikipedia.org/wiki/Seersucker#/media/File:Seersucker01.jpg)*)
 
@@ -50,14 +50,14 @@ Done skimming? Welcome back. We're still talking about documentation. As it curr
 
 We're thinking the Stack Overflow community can help improve the situation the way it did with Q&A, and we think that's the next thing we can do to serve developers. Here's what it *could* look like: 
 
-![i believe the docs are our future](http://i.stack.imgur.com/M0bqw.png)
+![i believe the docs are our future](https://i.stack.imgur.com/M0bqw.png)
 (*image via [kevin's meta post](http://meta.stackoverflow.com/q/303865/865899), seriously, go read it*)
 
 Documentation is a really early-stage project, which is why we went to the community for feedback. We're still figuring out what level the docs will be at (but we already know there will be NO `toString()` DOCS ALLOWED). 
 
 Also, the Power Glove used to be a thing: 
 
-![who knows why we're talking about this](http://i.stack.imgur.com/uAhTh.jpg)
+![who knows why we're talking about this](https://i.stack.imgur.com/uAhTh.jpg)
 
 (*[image via wikipedia](https://en.wikipedia.org/wiki/Power_Glove)*)
 

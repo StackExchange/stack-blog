@@ -2,7 +2,7 @@
 layout: author
 id: drobinson
 name: David Robinson
-avatar: http://i.stack.imgur.com/mCoc7.jpg
+avatar: https://i.stack.imgur.com/mCoc7.jpg
 twitter: drob
 github: dgrtwo
 job: Data Scientist

@@ -15,7 +15,7 @@ Some time ago, we hired a Russian-speaking Community Manager named Nicolas Chaba
 
 Beginning as a research project, in the four years of its existence, HashCode turned into a small network of Q&A sites, complete with a careers and data site. HashCode became one of the best places to get an answer on programming and system administration questions in ‘RuNet’ (the Russian part of the Internet). Most importantly, the quality of the questions and answers were directly on-par with our English site. We got to know Nick, and quickly determined that he, along with the thriving communities he was building, would be a great addition to our team and network. After a great deal of hard work by both Nick and our developers, we’re extremely excited to announce the launch of <a href="http://ru.stackoverflow.com/" target="_blank">Stack Overflow In Russian</a>, the newest addition to our family of international sites.
 
-<img src="http://i.stack.imgur.com/KnHSP.png" alt="stack overflow russian" />
+<img src="https://i.stack.imgur.com/KnHSP.png" alt="stack overflow russian" />
 
 More background on the site can be found (in Russian) on their meta site.
 

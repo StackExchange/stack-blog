@@ -32,7 +32,7 @@ When Anil started blogging, he felt he was late to the party (and [said so in Va
 
 So! Anil's current all-consuming project is [Makerbase](https://makerba.se), which is sort of like IMDb for digital projects. 
 
-![Makerbaes.](http://i.stack.imgur.com/zgZF5.jpg)
+![Makerbaes.](https://i.stack.imgur.com/zgZF5.jpg)
 
 His cofounder Gina built the site while Anil sat around and watched supportively. [Joel is in there already](https://makerba.se/m/629vqi/spolsky), because anyone can add or edit a page for a maker or project. Makerbase helps increase transparency in the digital world (so founders can stop getting all the credit for features and things that other people actually made).
 

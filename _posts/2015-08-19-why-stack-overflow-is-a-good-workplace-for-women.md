@@ -22,7 +22,7 @@ Her manager was unconvinced. “You’re really good at customer service,” he 
 
 His response felt unjustified. Jess demonstrated a technical aptitude that was highly compatible with the engineering team. She communicated clearly with engineers, ran the utilities database, and picked up new queries quickly. The company relied on young employees who could learn fast, work long hours, and juggle a wide range of projects. In turn, they were rewarded with opportunities - several employees had joined the tech team from entry-level support roles. It seemed natural that Jess would do the same. Instead, she was tracked into customer service.
 
-![female designer](http://i.stack.imgur.com/zPKEn.png)
+![female designer](https://i.stack.imgur.com/zPKEn.png)
 
 Was it because she was different? After all, the tech team was made up of the guys - the kind that casually bragged about their sexual conquests over beer pong. Even though the company wanted technical women in the pipeline, the actual work of equipping them for the same success as their male colleagues was highly questionable.
 
@@ -52,7 +52,7 @@ Reading this passage made me look more carefully at our Engineering management. 
 
 Forward-thinking leadership is the first key to shaping an inclusive culture. Even on flat technical teams, managerial attitudes matter a lot - especially on issues that might be “invisible” to the majority of the team. If a manager dismisses casual, misogynistic banter at work as “guys being guys,” then casual, misogynistic banter becomes a valid part of team culture. If a manager hires people who just fit in, it’s easy to “accidentally” create a monolithic culture that is quietly and consistently hostile to difference. 
 
-![cultural fit](http://i.stack.imgur.com/ZgXoa.png)
+![cultural fit](https://i.stack.imgur.com/ZgXoa.png)
 
 ##Supportive internal culture
 
@@ -64,7 +64,7 @@ Her tone was refreshingly honest and angry. It was an anger that I identified wi
 
 To my surprise, members of the Engineering team were supportive and critical - not just of the industry, but of internal culture. This openness is indicative of a company that wants to embrace true diversity - not just the trendy, cosmetic variety. 
 
-![trendy](http://i.stack.imgur.com/yhB5K.png)
+![trendy](https://i.stack.imgur.com/yhB5K.png)
 
 A truly diverse workforce is not easy to achieve. To start, it requires openness toward uncomfortable subjects and a commitment to change. So while a supportive, self-critical discussion is just the beginning, it’s a big step in an industry that likes to pay lip service to diversity while silencing and excluding the very people it claims to support.
 
@@ -74,7 +74,7 @@ One of my favorite things about working at Stack is the RFC system. The RFC (whi
 
 The RFC system is valuable because it provides an alternate outlet for sharing ideas. As a written proposal and feedback loop, it accommodates introverted and [circular thinkers](https://2culturetalks.wordpress.com/2013/10/23/are-you-a-circular-or-linear-thinker/). This system complements the traditional meeting, which emphasizes more aggressive and extroverted personalities. The result is a unique ideation culture that equally values introversion and extroversion, embraces both circular and linear thinking, and ultimately produces more holistic, creative solutions.
 
-![kebab](http://i.stack.imgur.com/6QwkX.png)
+![kebab](https://i.stack.imgur.com/6QwkX.png)
 
 While I can’t say that this approach is specifically valuable to women, I can say that it works well for someone like me - an introverted female who likes to consider problems at every possible angle before presenting a solution. It’s also challenged me to articulate my ideas clearly and quickly on a regular basis. Over the course of five short months, this approach has made me a more confident, thoughtful, and productive designer.
 

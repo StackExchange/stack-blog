@@ -39,7 +39,7 @@ When you're surrounded by familiar things, but using them the way you normally d
 
 Our sites are different. And that difference is deliberate. The things that confuse folks who are used to forums, or those [broad, “ask anything” sites](http://answers.yahoo.com) are the very things that we believe make us work _better_.
 
-[![I'm a little embarrassed I couldn't turn this up sooner.](http://i.stack.imgur.com/JXg5F.png)](http://i.stack.imgur.com/JXg5F.png)
+[![I'm a little embarrassed I couldn't turn this up sooner.](https://i.stack.imgur.com/JXg5F.png)](https://i.stack.imgur.com/JXg5F.png)
 
 For us, different is good. Just like my mommy always told me. But it's still jarring. And when it's too jarring, potentially valuable contributors are put off and leave. They didn’t get help, and we lost an expert. Being jarring came at a high cost.
 

@@ -133,7 +133,7 @@ We could just slow down our insane hiring pace and get profitable right now, but
 And let’s not forget Stack Overflow Careers. I believe it is, bar-none, the single best job board for developer candidates, which should automatically make it the best place for employers to find developer talent. There’s a LOT more to be done to serve developers here and we’re just getting warmed up.
 
 
-![No, I'm just gettin' warmed up.](http://i.stack.imgur.com/XTBbr.png)
+![No, I'm just gettin' warmed up.](https://i.stack.imgur.com/XTBbr.png)
 
 
 
