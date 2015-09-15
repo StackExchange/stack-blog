@@ -4,7 +4,6 @@ date: 2015-09-15
 title: "We're Changing Our Name (Back) to Stack Overflow"
 author: jhanlon
 hero: http://i.stack.imgur.com/jJsNI.png
-draft: true
 tags:
 - company
 - announcements
