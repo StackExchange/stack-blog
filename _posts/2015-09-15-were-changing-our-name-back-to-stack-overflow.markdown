@@ -64,7 +64,7 @@ When we named the company Stack Exchange, we were *only* making Q&A sites. We’
 [![enter image description here][2]][2]
 
 
-And just to be clear, Q&A *remains* our core product, and we’ll continue to invest in helping it serve more of the world’s [developers](http://stackoverflow.com/), [chemists](http://chemistry.stackexchange.com), [photographers](http://photo.stackexchange.com/) and [whatever the heck these awesome people are](http://worldbuilding.stackexchange.com/). 
+And just to be clear, Q&A *remains* our core product, and we’ll continue to invest in helping it serve more of the world’s [developers](http://stackoverflow.com/), [chemists](http://chemistry.stackexchange.com), [photographers](https://photo.stackexchange.com/) and [whatever the heck these awesome people are](http://worldbuilding.stackexchange.com/). 
 
 **Then, we focused on better *jobs* for developers.**
 
@@ -111,8 +111,8 @@ But for now, we were inspired by Google’s video explaining how they arrived at
 ###We are Stack Overflow. And we’d be nothing without all of you.
 
 
-  [1]: http://i.stack.imgur.com/664KS.gif
-  [2]: http://i.stack.imgur.com/tgyY5.jpg
-  [3]: http://i.stack.imgur.com/LG8kA.jpg
-  [4]: http://i.stack.imgur.com/jUGxZ.jpg
-  [5]: http://i.stack.imgur.com/d7zhN.png
+  [1]: https://i.stack.imgur.com/664KS.gif
+  [2]: https://i.stack.imgur.com/tgyY5.jpg
+  [3]: https://i.stack.imgur.com/LG8kA.jpg
+  [4]: https://i.stack.imgur.com/jUGxZ.jpg
+  [5]: https://i.stack.imgur.com/d7zhN.png
