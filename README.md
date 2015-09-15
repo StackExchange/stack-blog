@@ -1,4 +1,4 @@
-# [Stack Exchange Blog](http://blog.stackexchange.com/)
+# [Stack Overflow Blog](http://blog.stackoverflow.com/)
 
 ## Getting Started
 This blog runs on [Jekyll](http://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/). Posts are written in [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
@@ -13,7 +13,7 @@ If you are actively involved in improving the infrastructure of this project, yo
  - [Company editorial board and calendar (for employees only, post ideas and see schedule)](https://trello.com/b/WYAPaUEC/blog-editorial-and-calendar)
 
 ## What is this blog for?
-This is the official company blog for Stack Exchange. Everything related to new features, announcements, engineering projects, and all things Stack Exchange live on this blog. The contributors on this blog are Stack Exchange employees, but in the future, we may open this up to outside contributors as well.
+This is the official company blog for Stack Overflow. Everything related to new features, announcements, engineering projects, and all things Stack Overflow live on this blog. The contributors on this blog are Stack Overflow employees, but in the future, we may open this up to outside contributors as well.
 
 **This GitHub repository is public**, so anyone can immediately see updates, new post drafts, and similar changes, even before they are deployed to the blog. Given our *default public* company policy, you shouldn't usually worry about this. However, in the rare case that you're writing a post that is time-sensitive and contains information that must not be leaked before being officially published on the blog, you should not add that post to this repository in advance.
 
@@ -111,7 +111,7 @@ tags:
  - onboarding
 ---
 
-I started working at [Stack Exchange](http://www.stackexchange.com/) (which many know for/as [Stack Overflow](http://stackoverflow.com/)) as a software developer just six weeks ago. This (lengthy) post is about a number of things: what it was like relearning a lot of what I know about web development, the challenges and resources I encountered doing so, and a few pointers others might benefit from on-boarding on a new development team.
+I started working at [Stack Overflow](http://stackoverflow.com/) as a software developer just six weeks ago. This (lengthy) post is about a number of things: what it was like relearning a lot of what I know about web development, the challenges and resources I encountered doing so, and a few pointers others might benefit from on-boarding on a new development team.
 
 ...
 ```
