@@ -16,7 +16,7 @@ redirect_from:
 >
 
 <channel>
-	<title>The Stack Exchange Podcast</title>
+	<title>The Stack Overflow Podcast</title>
 	<atom:link href="{{ site.url }}/feed/podcast" rel="self" type="application/rss+xml" />
 	<link>{{ site.url }}</link>
 	<description>free, community powered Q&#38;A</description>
@@ -25,20 +25,20 @@ redirect_from:
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
 	<generator></generator>
-	<copyright>Copyright © Stack Exchange, {{ site.time | date: "%Y" }}</copyright>
-	<managingEditor>podcast@stackoverflow.com (The Stack Exchange Team)</managingEditor>
-	<webMaster>podcast@stackoverflow.com (The Stack Exchange Team)</webMaster>
+	<copyright>Copyright © Stack Overflow, {{ site.time | date: "%Y" }}</copyright>
+	<managingEditor>podcast@stackoverflow.com (The Stack Overflow Team)</managingEditor>
+	<webMaster>podcast@stackoverflow.com (The Stack Overflow Team)</webMaster>
 	<ttl>1440</ttl>
 	<image>
 		<url>http://cdn.sstatic.net/stackexchange/img/se-podcast-logo.png</url>
-		<title>The Stack Exchange Podcast</title>
+		<title>The Stack Overflow Podcast</title>
 		<link>{{ site.url }}</link>
 		<width>144</width>
 		<height>144</height>
 	</image>
 	<itunes:new-feed-url>{{ site.url }}/feed/podcast</itunes:new-feed-url>
 	<itunes:subtitle>A look inside the Stack Exchange Network</itunes:subtitle>
-	<itunes:summary>Hosted by Joel Spolsky with Jay Hanlon and David Fullerton, the Stack Exchange podcast lets you listen in on discussions and decisions about the Stack Exchange Network. The Stack Exchange podcast gives you an unparalleled view into how a startup is created and built.
+	<itunes:summary>Hosted by Joel Spolsky with Jay Hanlon and David Fullerton, the Stack Overflow podcast lets you listen in on discussions and decisions about the Stack Exchange Network. The Stack Overflow podcast gives you an unparalleled view into how a startup is created and built.
 
 About Stack Exchange:
 Stack Exchange is a fast-growing network of over 100 question and answer sites on diverse topics from software programming to cooking to photography and gaming. We are an expert knowledge exchange: a place where physics researchers can ask each other about quantum entanglement, computer programmers can ask about JavaScript date formats, and photographers can share knowledge about taking great pictures in the snow.</itunes:summary>
@@ -50,9 +50,9 @@ Stack Exchange is a fast-growing network of over 100 question and answer sites o
 		<itunes:category text="Podcasting" />
 	</itunes:category>
 	<itunes:category text="Business" />
-	<itunes:author>The Stack Exchange Team</itunes:author>
+	<itunes:author>The Stack Overflow Team</itunes:author>
 	<itunes:owner>
-		<itunes:name>The Stack Exchange Team</itunes:name>
+		<itunes:name>The Stack Overflow Team</itunes:name>
 		<itunes:email>podcast@stackoverflow.com</itunes:email>
 	</itunes:owner>
 	<itunes:block>no</itunes:block>
@@ -75,7 +75,7 @@ Stack Exchange is a fast-growing network of over 100 question and answer sites o
 			{% endif %}
 			<description><![CDATA[{{ post.excerpt | raw }}]]></description>
 			<content:encoded><![CDATA[{{ post.content | raw }}]]></content:encoded>
-			<itunes:author>The Stack Exchange Team</itunes:author>
+			<itunes:author>The Stack Overflow Team</itunes:author>
 			<itunes:explicit>no</itunes:explicit>
 			<itunes:summary><![CDATA[{{ post.content | strip_html | unescapeHTML | truncate: 4000 }}]]></itunes:summary>
 			<itunes:subtitle><![CDATA[{{ post.excerpt | strip_html | unescapeHTML | truncate: 255  }}]]></itunes:subtitle>
