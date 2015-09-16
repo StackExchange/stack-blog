@@ -40,8 +40,8 @@ redirect_from:
 	<itunes:subtitle>A look inside the Stack Exchange Network</itunes:subtitle>
 	<itunes:summary>Hosted by Joel Spolsky with Jay Hanlon and David Fullerton, the Stack Overflow podcast lets you listen in on discussions and decisions about the Stack Exchange Network. The Stack Overflow podcast gives you an unparalleled view into how a startup is created and built.
 
-About Stack Exchange:
-Stack Exchange is a fast-growing network of over 100 question and answer sites on diverse topics from software programming to cooking to photography and gaming. We are an expert knowledge exchange: a place where physics researchers can ask each other about quantum entanglement, computer programmers can ask about JavaScript date formats, and photographers can share knowledge about taking great pictures in the snow.</itunes:summary>
+About Stack Overflow:
+Stack Overflow is the flagship property of a fast-growing network of over 100 question and answer sites on diverse topics from software programming to cooking to photography and gaming. We are an expert knowledge exchange: a place where physics researchers can ask each other about quantum entanglement, computer programmers can ask about JavaScript date formats, and photographers can share knowledge about taking great pictures in the snow.</itunes:summary>
 	<itunes:keywords>Programming, Stack, Exchange, Stack, Overflow, Computers, Technology, Information, Internet, Question, Answer, Q&#38;A</itunes:keywords>
 	<itunes:category text="Technology">
 		<itunes:category text="Software How-To" />
