@@ -2,7 +2,7 @@
 layout: author
 id: alitovsky
 name: Arie Litovsky
-twitter: arielitovsky
+twitter: arie_speaks
 job: Web Developer
 location: New York City
 avatar:  https://i.stack.imgur.com/yAatD.jpg
