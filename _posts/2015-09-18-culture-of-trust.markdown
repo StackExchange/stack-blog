@@ -23,7 +23,8 @@ Usually, about two years into a job, I start dreaming of greener pastures with b
 
 During the two years I’ve worked at Stack Overflow, only three web developers have left the company. Of the three, two of them left to work on a startup, and one of them - Matt Jibson - went to work on a technology stack he was more interested in. The day he left, Matt tweeted:
 
-<iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" class="twitter-tweet twitter-tweet-rendered" allowfullscreen="true" style="position: static; visibility: visible; display: block; width: 100%; height: 263.766px; padding: 0px; border: none; max-width: 500px; min-width: 220px; margin-top: 10px; margin-bottom: 10px;" data-tweet-id="620769985040916480" title="Twitter Tweet"></iframe><iframe id="twitter-widget-1" scrolling="no" frameborder="0" allowtransparency="true" class="twitter-tweet twitter-tweet-rendered" allowfullscreen="true" style="position: static; visibility: visible; display: block; width: 100%; height: 263.766px; padding: 0px; border: none; max-width: 500px; min-width: 220px; margin-top: 10px; margin-bottom: 10px;" data-tweet-id="620771872779673601" title="Twitter Tweet"></iframe>
+
+![//i.imgur.com/SuGuOVo.png](//i.imgur.com/SuGuOVo.png)
 
 Our lack of turnover speaks for itself.
 
