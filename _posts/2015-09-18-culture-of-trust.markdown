@@ -1,13 +1,10 @@
 ---
-author: alitovsky
-comments: true
 layout: post
--- hero: /images/category/podcasts.jpg
 title: 'A Culture of Trust'
+author: alitovsky
 tags:
 - engineering
 - culture
-podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14378616-stack-exchange-stack-overflow-podcast-77.mp3
 description: Spending more than two years with the same co-workers has led to deep connections, trust, and a common knowledge base and language amongst all. That’s what I call good company culture.
 source: http://www.arielitovsky.com/blog/a-culture-of-trust/
 hero: http://i.stack.imgur.com/0I1fT.jpg
