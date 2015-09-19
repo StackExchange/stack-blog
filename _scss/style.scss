@@ -713,6 +713,12 @@ specificity overrides some default styles */
 		&.preview-post {
 			.hero-container {
 				border-radius: 0;
+
+				height: 0px !important;
+				.hero {
+					background: #F48023 !important;
+					height: 0% !important;
+				}
 			}
 		}
 		&.full-post {
