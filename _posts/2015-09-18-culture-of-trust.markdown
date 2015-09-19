@@ -10,7 +10,7 @@ tags:
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14378616-stack-exchange-stack-overflow-podcast-77.mp3
 description: Spending more than two years with the same co-workers has led to deep connections, trust, and a common knowledge base and language amongst all. That’s what I call good company culture.
 source: http://www.arielitovsky.com/blog/a-culture-of-trust/
-hero: https://i.stack.imgur.com/8h8xK.jpg
+hero: http://i.stack.imgur.com/0I1fT.jpg
 ---
 
 We live in a time when software developers change jobs every [12 months](http://www.techrepublic.com/blog/career-management/tech-companies-have-highest-turnover-rate/).
