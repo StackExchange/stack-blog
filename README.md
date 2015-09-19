@@ -204,7 +204,7 @@ If you are interested in making changes to the design, functionality, or structu
 gem install jekyll
 gem install jekyll-sitemap
 gem install jekyll-redirect-from
-gem install rouge
+gem install rouge -v 1.3.0
 ```
 
 **2. Run a local version of the blog.** Using Git, clone the latest version of this repository to your local machine using the following command:
