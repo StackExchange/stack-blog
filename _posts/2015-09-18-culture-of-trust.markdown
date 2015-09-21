@@ -7,7 +7,7 @@ tags:
 - culture
 description: Spending more than two years with the same co-workers has led to deep connections, trust, and a common knowledge base and language amongst all. That’s what I call good company culture.
 source: http://www.arielitovsky.com/blog/a-culture-of-trust/
-hero: http://i.stack.imgur.com/0I1fT.jpg
+hero: https://i.stack.imgur.com/0I1fT.jpg
 ---
 
 We live in a time when software developers change jobs every [12 months](http://www.techrepublic.com/blog/career-management/tech-companies-have-highest-turnover-rate/).
