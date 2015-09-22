@@ -29,7 +29,7 @@ Our lack of turnover speaks for itself.
 
 During my two years at Stack Overflow, I have gained a solid understanding of its many facets. I've learned about our mobile apps, our core Q&A product, our technology stack, the Stack Overflow Careers product, and even sales. However, I feel I’ve barely begun to make an impact on the company.
 
-Having spent a year and a half on the mobile team, I recently [decided to change teams](blog.stackoverflow.com/2015/07/going-from-mobile-back-to-the-web/), eventually finding a balance of fit and interest in our Careers product.
+Having spent a year and a half on the mobile team, I recently [decided to change teams](http://blog.stackoverflow.com/2015/07/going-from-mobile-back-to-the-web/), eventually finding a balance of fit and interest in our Careers product.
 
 Tenure with a company is extremely valuable for both parties. You build **trust and rapport** with your co-workers. Today I feel comfortable and familiar with all of my fellow developers, product managers, and even the VPs and “C-level” execs (who are very accessible). On a typical day, I’ll talk to sales representatives in the morning while [making espresso](https://instagram.com/p/6iezu_te92/?taken-by=arielitovsky), chat with our office managers and assistants, and say hello to our incredible chefs. I would talk to the walls too, if only they’d give me interesting insights about the company. I’m working on that.
 
