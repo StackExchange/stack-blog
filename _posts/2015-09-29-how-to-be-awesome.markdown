@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to be awesome, part 1
+title: How to Be Awesome (Part 1) 
 author: alexwarren
 hero: https://i.stack.imgur.com/ba7wW.jpg
 tags: engineering
