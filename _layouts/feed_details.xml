@@ -33,7 +33,7 @@ Stack Overflow is the flagship property of a fast-growing network of over 100 qu
 	<title>{{ page.podcastTitle }}</title>
 	<itunes:subtitle>{{ page.podcastSubTitle }}</itunes:subtitle>
 	<itunes:summary>{{ page.podcastSummary }}</itunes:summary>
-	<itunes:keywords>{{ podcastKeywords }}</itunes:keywords>
+	<itunes:keywords>{{ page.podcastKeywords }}</itunes:keywords>
 	<itunes:category text="Technology">
 		<itunes:category text="Software How-To" />
 	</itunes:category>
@@ -49,7 +49,7 @@ Stack Overflow is the flagship property of a fast-growing network of over 100 qu
 	<itunes:new-feed-url>{{ site.url }}/feed/podcast</itunes:new-feed-url>
 	<itunes:block>no</itunes:block>
 	<itunes:explicit>no</itunes:explicit>
-	<itunes:image href="{{ page.feedImage}}" />
+	<itunes:image href="{{ page.feedImage }}" />
 	{% else %}
 	{% if !page.tag.name %}
 	<title>{{ site.name }} - {{ page.tag.name | capitalize }}</title>
