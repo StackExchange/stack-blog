@@ -1,0 +1,80 @@
+---
+layout: null
+copyrite: "Copyright © Stack Overflow"
+feedDescription: "free, community powered Q&#38;A"
+feedImage: http://cdn.sstatic.net/stackexchange/img/se-podcast-logo.png
+feedImageName: Stack Overflow
+feedEmail: podcast@stackoverflow.com
+teamName: The Stack Overflow Team
+podcastEmail: podcast@stackoverflow.com
+podcastTitle: The Stack Overflow Podcast
+podcastSubTitle: A look inside the Stack Exchange Network
+podcastKeywords: "Programming, Stack, Exchange, Stack, Overflow, Computers, Technology, Information, Internet, Question, Answer, Q&#38;A"
+podcastSummary: "Hosted by Joel Spolsky with Jay Hanlon and David Fullerton, the Stack Overflow podcast lets you listen in on discussions and decisions about the Stack Exchange Network. The Stack Overflow podcast gives you an unparalleled view into how a startup is created and built.
+
+
+About Stack Overflow:
+
+Stack Overflow is the flagship property of a fast-growing network of over 100 question and answer sites on diverse topics from software programming to cooking to photography and gaming. We are an expert knowledge exchange: a place where physics researchers can ask each other about quantum entanglement, computer programmers can ask about JavaScript date formats, and photographers can share knowledge about taking great pictures in the snow."
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:media="http://search.yahoo.com/mrss/"
+>
+<channel>
+	{% if page.tag.name == 'podcasts' %}
+	<title>{{ page.podcastTitle }}</title>
+	<itunes:subtitle>{{ page.podcastSubTitle }}</itunes:subtitle>
+	<itunes:summary>{{ page.podcastSummary }}</itunes:summary>
+	<itunes:keywords>{{ podcastKeywords }}</itunes:keywords>
+	<itunes:category text="Technology">
+		<itunes:category text="Software How-To" />
+	</itunes:category>
+	<itunes:category text="Technology">
+		<itunes:category text="Podcasting" />
+	</itunes:category>
+	<itunes:category text="Business" />
+	<itunes:author>{{ page.teamName }}</itunes:author>
+	<itunes:owner>
+		<itunes:name>{{ page.teamName }}</itunes:name>
+		<itunes:email>{{ page.podcastEmail }}</itunes:email>
+	</itunes:owner>
+	<itunes:new-feed-url>{{ site.url }}/feed/podcast</itunes:new-feed-url>
+	<itunes:block>no</itunes:block>
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:image href="{{ page.feedImage}}" />
+	{% else %}
+	{% if !page.tag.name %}
+	<title>{{ site.name }} - {{ page.tag.name | capitalize }}</title>
+	{% else %}
+	<title>{{ site.name }}</title>
+	{% endif %}
+	{% endif %}
+	<atom:link href="{{ site.url }}{{ page.dir }}" rel="self" type="application/rss+xml" />
+	<link>{{ site.url }}</link>
+	<description>{{ page.feedDescription }}</description>
+	<lastBuildDate>{{ site.time | date: "%a, %d %b %Y %T +0000" }}</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<copyright>{{ page.copyrite }}, {{ site.time | date: "%Y" }}</copyright>
+	<managingEditor>{{ page.feedEmail }} ({{ page.teamName }})</managingEditor>
+	<webMaster>{{ page.feedEmail }} ({{ page.teamName }})</webMaster>
+	<ttl>1440</ttl>
+	<image>
+		<url>{{ page.feedImage }}</url>
+		<title>{{ page.feedImageName }}</title>
+		<link>{{ site.url }}</link>
+		<width>144</width>
+		<height>144</height>
+	</image>
+	{{ content }}
+	</channel>
+</rss>

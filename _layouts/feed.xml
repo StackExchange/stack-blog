@@ -1,0 +1,30 @@
+---
+layout: feed_details
+---
+	{% for post in page.posts %}
+                <item>
+                        <title><![CDATA[{{ post.title | raw }}]]></title>
+                        <link>{{ site.url }}{{ post.url }}</link>
+                        <dc:creator><![CDATA[{{ post.full_author.name }}]]></dc:creator>
+                        {% for category in post.tags %}
+                        <category><![CDATA[{{ category }}]]></category>
+                        {% endfor %}
+                        <pubDate>{{ post.date | date: "%a, %d %b %Y %T +0000" }}</pubDate>
+                        <description><![CDATA[{{ post.excerpt | raw }}]]></description>
+                        <content:encoded><![CDATA[{{ post.content | raw }}]]></content:encoded>
+                        {% if post.podcast %}
+                        {% if post.wordpress_id %}
+                        <guid isPermaLink="false">http://blog.stackoverflow.com/?p={{ post.wordpress_id }}</guid>
+                        {% else %}
+                        <guid isPermaLink="false">{{ site.url }}{{ post.url }}</guid>
+                        {% endif %}
+                        <enclosure type="audio/mpeg" url="{{ post.podcast }}" length="0"/>
+                        {% endif %}
+                        {% if page.tag.name == 'podcasts' %}
+                        <itunes:author>page.teamName</itunes:author>
+                        <itunes:explicit>{% if post.explicit %}yes{% else %}no{% endif %}</itunes:explicit>
+                        <itunes:summary><![CDATA[{{ post.content | strip_html | unescapeHTML | truncate: 4000 }}]]></itunes:summary>
+                        <itunes:subtitle><![CDATA[{{ post.excerpt | strip_html | unescapeHTML | truncate: 255  }}]]></itunes:subtitle>
+                        {% endif %}
+                </item>
+	{% endfor %}
