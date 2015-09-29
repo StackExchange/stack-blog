@@ -2,7 +2,7 @@
 layout: post
 title: How to be awesome, part 1
 author: alexwarren
-hero: http://i.stack.imgur.com/ba7wW.jpg
+hero: https://i.stack.imgur.com/ba7wW.jpg
 tags: engineering
 ---
 
@@ -18,7 +18,7 @@ So if you're currently stuck in a non-awesome job, how do you upgrade? Note that
 
 I have a theory. My theory is that having an awesome job is part of a self-fulfilling cycle, which I like to call the "cycle of awesome".
 
-![The cycle of awesome](http://i.stack.imgur.com/iEp0c.png)
+![The cycle of awesome](https://i.stack.imgur.com/iEp0c.png)
 
 The cycle works like this:
 
@@ -40,7 +40,7 @@ I could possibly have coped with the glacial pace of technological change if the
 
 So I was stuck in something more like the "cycle of suck". I was building stuff that sucked, my CV was not going to get any better, and so I was trapped in my sucky job.
 
-![The cycle of suck](http://i.stack.imgur.com/SpRDw.png)
+![The cycle of suck](https://i.stack.imgur.com/SpRDw.png)
 
 ## Breaking in to the cycle of awesome
 
@@ -66,7 +66,7 @@ Being quite a frugal person I happened to have enough money saved up that, even 
 
 ## I made this
 
-![Text Adventures](http://i.stack.imgur.com/ZcCKI.png)
+![Text Adventures](https://i.stack.imgur.com/ZcCKI.png)
 
 So I spent most of the next four years doing various things with Quest and interactive fiction:
 
