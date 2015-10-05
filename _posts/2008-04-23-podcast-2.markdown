@@ -14,18 +14,12 @@ tags:
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14378610-stack-exchange-stack-overflow-podcast-76.mp3
 ---
 
-
 This is the second episode of the StackOverflow podcast, wherein Joel and I discuss the following:
-
-
-
-
-
 
 
   * Why have a podcast at all? What's the point?
 
-  * A discussion about some the podcasts Joel listens to: [John Dvorak](http://www.crankygeeks.com/), [Adam Curry](http://www.dailysourcecode.com/).
+  * A discussion about some the podcasts Joel listens to: [John Dvorak](http://www.crankygeeks.com/), [Adam Curry](http://curry.com/).
 
   * StackOverflow podcast [transcription wiki](https://stackoverflow.fogbugz.com/?W4) courtesy of FogBugz
 
@@ -38,14 +32,7 @@ This is the second episode of the StackOverflow podcast, wherein Joel and I disc
   * Why we require audio submissions for questions.
 
 
-
-
 We also answered the following listener questions, with a lot of peripheral discussion on related topics:
-
-
-
-
-
 
 
   1. **Nathan Stohlmann**: How do we plan to keep religious discussions from happening on stackoverflow? will we provide a way to show implementations in multiple languages?
@@ -57,11 +44,8 @@ We also answered the following listener questions, with a lot of peripheral disc
   4. **Andre Bluehs**: Should I learn C++?
 
 
-
-
 If you'd like to submit a question to be answered in our next episode, 
 record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com).
-
 
 
 The [transcript wiki](http://stackoverflow.fogbugz.com/default.asp?W12) for this episode is available for editing.
