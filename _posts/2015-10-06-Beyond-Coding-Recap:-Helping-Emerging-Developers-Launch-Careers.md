@@ -14,6 +14,8 @@ This summer, Stack Overflow together with a host of NYC-based tech companies, cr
 
 Having no idea what reaction the program would invite, we had an astounding 375 applicants from all over the world. With the program open only to those living within the New York City area, 221 students were accepted. 110 students went on to complete the course requirements, which included attending 5 out of 6 classes and passing the project-based homework assignments. Prior hard coding/design experience was required for this program, as the focus was instead on mentoring, training, and confidence building.
 
+![students networking](http://oi58.tinypic.com/2iue1zm.jpg)
+
 ### The Knowledge
 
 In collaboration with the [New York Tech Talent Pipeline](http://www.techtalentpipeline.nyc/), Beyond Coding included [courses](https://www.beyondcoding.io/#courses) from Stack Overflow, Crest CC, Foursquare, Kickstarter, Tumblr, and Trello. Speakers from each company (be they developers or recruiters) shared insights and practical knowledge that they themselves wish they had known when starting out careers in the tech industry. 
@@ -27,6 +29,8 @@ We couldn't have asked for a better group of students to spend the next few mont
 At the beginning, confidence was on the lower side, with 30% of students stating they were not confident in their ability to get hired in a technical role. At the conclusion of the program 90% of students were confident they would be hired or had already accepted a job offer. 
 
 Students were highly encouraged to utilize social media outlets such as Linkedin to present their coding skills and qualifications and create a professional online presence. On Twitter, you can check out [#beyondcodingNYC](https://twitter.com/search?src=typd&q=%23beyondcodingnyc) student conversations and photos. 
+
+![beyond coding](http://oi59.tinypic.com/2pqqmpe.jpg)
 
 ### The Hiring Fair
 
