@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Beyond Coding Recap: Helping  Emerging Developers Launch Careers
+title: "Beyond Coding Recap: Helping  Emerging Developers Launch Careers"
 author: jeananstett
 date: 2015-10-06
-description: This summer, Stack Overflow together with a host of NYC-based tech companies, created Beyond Coding, a 10 week program for emerging developers and designers. We sought to guide students through the finer points of professional "soft" skills in order to help lose lacking experience gain a foothold in the technical job market.  
+description: "This summer, Stack Overflow together with a host of NYC-based tech companies, created Beyond Coding, a 10 week program for emerging developers and designers. We sought to guide students through the finer points of professional 'soft' skills in order to help lose lacking experience gain a foothold in the technical job market."
 tags: 
 - company
 - culture
