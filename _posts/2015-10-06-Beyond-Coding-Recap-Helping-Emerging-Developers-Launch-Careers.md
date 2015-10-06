@@ -28,7 +28,7 @@ We couldn't have asked for a better group of students to spend the next few mont
 
 At the beginning, confidence was on the lower side, with 30% of students stating they were not confident in their ability to get hired in a technical role. At the conclusion of the program 90% of students were confident they would be hired or had already accepted a job offer. 
 
-Students were highly encouraged to utilize social media outlets such as Linkedin to present their coding skills and qualifications and create a professional online presence. On Twitter, you can check out [#beyondcodingNYC](https://twitter.com/search?src=typd&q=%23beyondcodingnyc) student conversations and photos. 
+Students were highly encouraged to utilize social media outlets such as LinkedIn to present their coding skills and qualifications and create a professional online presence. On Twitter, you can check out [#beyondcodingNYC](https://twitter.com/search?src=typd&q=%23beyondcodingnyc) student conversations and photos. 
 
 ![beyond coding](http://oi59.tinypic.com/2pqqmpe.jpg)
 
