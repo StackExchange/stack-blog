@@ -3,7 +3,7 @@ layout: post
 title: Shaping Company Culture in Chatrooms
 author: sassiestone
 hero: http://i.stack.imgur.com/LX1UJ.jpg
-date: 07-10-2015
+date: 08-10-2015
 tags: 
  - company
  - diversity
