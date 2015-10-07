@@ -34,6 +34,8 @@ Each chat has a topic, like English as a Second Language, LGBT, or Parenting/ Wo
 #### Vulnerability
 The real secret sauce, though, is that our volunteers share their (very) personal experiences of observing and dealing with bias. By giving a firsthand account, they are bringing the issue close to home — it becomes impossible to not care. Participants are able to ask questions, offer support, share perspectives and know that everyone has good intentions, because the people who showed up want to make this world/ industry/ company a better place to be. 
 
+[![Today is "frank, productive, inspiring discussions with your coworkers" day at Stack Exchange](http://i.stack.imgur.com/2mDtm.png)](https://twitter.com/hairboat/status/571385735128809472)
+
 ## Is it working?
 Feedback has been largely positive. Even people who thought it would never work have given it rave reviews. Employees from different parts of the company, in both department and location, are learning from each other and growing in a way that previously wasn’t available. I think it works so well because we like to know the people we work with every day, and connect with them on deeper, more human levels. 
 
