@@ -24,13 +24,13 @@ Once a month we host a one-hour online chat in which employees can candidly and 
 
 DIP Chat is strictly internal, optional, and hosted in our employee-only company chatroom. The time is dedicated to 2-3 volunteers — who are arranged about a week ahead of time so they have time to prepare — sharing their personal experiences and feelings around diversity at Stack Overflow or in tech. We save the conversations as artifacts that employees can read after the fact if they miss the live chat or want to re-absorb the information. The result is a richly informative and emotional experience that we think strengthens our empathy and inclusiveness. The idea sounds a little crazy (especially to HR), but there are a few components that have been strategic to its success at Stack Overflow. 
 
-### Respect
+#### Respect
 There is a lot of respect amongst peers here. I firmly believe that this idea can only work if people trust each other enough to make themselves vulnerable — there can be no hostility whatsoever. We also follow our [Be Nice Policy](http://meta.stackexchange.com/questions/240839/the-new-new-be-nice-policy-code-of-conduct-updated-with-your-feedback) that we practice in our communities, and keep everything 100% internal.
 
-### Focus
+#### Focus
 Each chat has a topic, like English as a Second Language, LGBT, or Parenting/ Work-Life Balance, that we discuss within the scope of working at Stack Overflow or the workplace in general. We also select a moderator to make sure things don’t derail by slipping off-topic or becoming toxic (while we have never experienced the latter, I will concede that we have been guilty of the former). 
 
-### Vulnerability
+#### Vulnerability
 The real secret sauce, though, is that our volunteers share their (very) personal experiences of observing and dealing with bias. By giving a firsthand account, they are bringing the issue close to home — it becomes impossible to not care. Participants are able to ask questions, offer support, share perspectives and know that everyone has good intentions, because the people who showed up want to make this world/ industry/ company a better place to be. 
 
 ## Is it working?
