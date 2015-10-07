@@ -25,6 +25,9 @@ Once a month we host a one-hour online chat in which employees can candidly and 
 
 DIP Chat is strictly internal, optional, and hosted in our employee-only company chatroom. The time is dedicated to 2-3 volunteers — who are arranged about a week ahead of time so they have time to prepare — sharing their personal experiences and feelings around diversity at Stack Overflow or in tech. We save the conversations as artifacts that employees can read after the fact if they miss the live chat or want to re-absorb the information. The result is a richly informative and emotional experience that we think strengthens our empathy and inclusiveness. The idea sounds a little crazy (especially to HR), but there are a few components that have been strategic to its success at Stack Overflow. 
 
+
+[![Today is "frank, productive, inspiring discussions with your coworkers" day at Stack Exchange](http://i.stack.imgur.com/2mDtm.png)](https://twitter.com/hairboat/status/571385735128809472)
+
 #### Respect
 There is a lot of respect amongst peers here. I firmly believe that this idea can only work if people trust each other enough to make themselves vulnerable — there can be no hostility whatsoever. We also follow our [Be Nice Policy](http://meta.stackexchange.com/questions/240839/the-new-new-be-nice-policy-code-of-conduct-updated-with-your-feedback) that we practice in our communities, and keep everything 100% internal.
 
@@ -34,8 +37,6 @@ Each chat has a topic, like English as a Second Language, LGBT, or Parenting/ Wo
 #### Vulnerability
 The real secret sauce, though, is that our volunteers share their (very) personal experiences of observing and dealing with bias. By giving a firsthand account, they are bringing the issue close to home — it becomes impossible to not care. Participants are able to ask questions, offer support, share perspectives and know that everyone has good intentions, because the people who showed up want to make this world/ industry/ company a better place to be. 
 
-
-[![Today is "frank, productive, inspiring discussions with your coworkers" day at Stack Exchange](http://i.stack.imgur.com/2mDtm.png)](https://twitter.com/hairboat/status/571385735128809472)
 
 ## Is it working?
 Feedback has been largely positive. Even people who thought it would never work have given it rave reviews. Employees from different parts of the company, in both department and location, are learning from each other and growing in a way that previously wasn’t available. I think it works so well because we like to know the people we work with every day, and connect with them on deeper, more human levels. 
