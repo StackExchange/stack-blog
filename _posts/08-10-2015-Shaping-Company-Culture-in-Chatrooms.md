@@ -27,15 +27,15 @@ DIP Chat is strictly internal, optional, and hosted in our employee-only company
 
 [![Today is "frank, productive, inspiring discussions with your coworkers" day at Stack Exchange](http://i.stack.imgur.com/2mDtm.png)](https://twitter.com/hairboat/status/571385735128809472)
 
-###Respect
+####Respect
 
 There is a lot of respect amongst peers here. I firmly believe that this idea can only work if people trust each other enough to make themselves vulnerable — there can be no hostility whatsoever. We also follow our [Be Nice Policy](http://meta.stackexchange.com/questions/240839/the-new-new-be-nice-policy-code-of-conduct-updated-with-your-feedback) that we practice in our communities, and keep everything 100% internal.
 
-###Focus
+####Focus
 
 Each chat has a topic, like English as a Second Language, LGBT, or Parenting/ Work-Life Balance, that we discuss within the scope of working at Stack Overflow or the workplace in general. We also select a moderator to make sure things don’t derail by slipping off-topic or becoming toxic (while we have never experienced the latter, I will concede that we have been guilty of the former).
 
-### Vulnerability
+####Vulnerability
 
 The real secret sauce, though, is that our volunteers share their (very) personal experiences of observing and dealing with bias. By giving a firsthand account, they are bringing the issue close to home — it becomes impossible to not care. Participants are able to ask questions, offer support, share perspectives and know that everyone has good intentions, because the people who showed up want to make this world/ industry/ company a better place to be. 
 
