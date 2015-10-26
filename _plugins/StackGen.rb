@@ -83,7 +83,7 @@ module Jekyll
 
     def initialize(name)
       @name = name
-      @slug = name.gsub('.', '-')
+      @slug = name
       @posts = []
     end
 
