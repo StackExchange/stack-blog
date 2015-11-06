@@ -7,6 +7,7 @@ hero: https://i.stack.imgur.com/2KF7k.png
 description: In September 2015, Stack Overflow updated its branding. This is a little snapshot into that process.
 tags:
 - design
+- engineering
 ---
 
 At Stack Overflow, we’re committed to making the internet a better place for every single developer. Over the last year, the design team has been working on how we could support that goal by eliminating unnecessary visual, experience, and interactive inconsistencies that exist throughout Stack Overflow and Stack Exchange. Examples of these efforts include updating Stack Overflow, aligning Careers more with Stack Overflow, and standardizing various UI elements across all Stack Exchange communities.
