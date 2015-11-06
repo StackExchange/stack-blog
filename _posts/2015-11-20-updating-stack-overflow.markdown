@@ -3,7 +3,7 @@ layout: post
 title: Updating Stack Overflow
 author: hynes
 draft: true
-hero: https://images.unsplash.com/photo-1428976325048-d3967c319f6b
+hero: https://i.stack.imgur.com/2KF7k.png
 description: In September 2015, Stack Overflow updated its branding. This is a little snapshot into that process.
 tags:
 - design
@@ -25,12 +25,15 @@ We took what we had done over the past seven years, pulled it apart, and built i
 
 Two months ago we released our new Stack Overflow brand and we couldn’t be more excited.
 
-[Before / After Image]
+[![Stack Overflow Logo Before & After][1]][1]
 
 This update may not seem like a huge step forward visually. To most, it’s mostly what I stated it was at the beginning: a brand clean-up. But it’s a big step forward for us. For the first time, we’ve developed a systematic approach to how we can be visually consistent wherever you experience Stack Overflow.
 
-[After Big Image]
+[![Stack Overflow Logo][2]][2]
 
 We never explored rebranding Stack Overflow. We never wanted to. We have the great brand foundation already. Instead, we took what everyone knows and worked out how we could make it better. Still updating the brand is but one part of a larger effort internally to make sure that every product, every project, every feature we work on is focused on serving you—developers and the developer community.
 
 We’re extremely proud of this step and what it means for us. We hope you feel the same way.
+
+[1]: https://i.stack.imgur.com/rcZLY.png
+[2]: https://i.stack.imgur.com/oQ1KX.png

@@ -1,10 +1,10 @@
 <article class="preview-post post{% if post.draft %} draft{% endif %}">
   {% if post.hero %}{% unless post.tags contains 'podcasts' %}
   <div class="hero-container">
-    <a class="hero_url" href="{{ post.url }}"><img class="hero" style ="background: linear-gradient(
+    <a class="hero_url" href="{{ post.url }}"><img class="hero" style ="background-image: linear-gradient(
       rgba(37, 43, 51, 0.35),
       rgba(37, 43, 51, 0.35)
-    ), url('{{ post.hero }}'); height:350px; background-size: cover;"></a>
+    ), url('{{ post.hero }}');"></a>
   </div>
   {% endunless %}{% endif %}
   <div class="media-padded">

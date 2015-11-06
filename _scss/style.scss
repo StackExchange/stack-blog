@@ -307,11 +307,15 @@ article.post {
 			overflow: hidden;
 			margin-bottom: 15px;
 			position: relative;
+
 			img {
 				position: absolute;
 				left: 50%;
 				top: 50%;
 				width: 100%;
+				height: 350px;
+				background-size: cover;
+				background-position: center center;
                 -webkit-transform: translate(-50%,-50%);
                 -ms-transform: translate(-50%,-50%);
                 transform: translate(-50%,-50%);
@@ -359,6 +363,7 @@ article.post {
 			text-align: center;
 			background-repeat: no-repeat;
 		    background-size: cover;
+		    background-position: center center;
 			height: 100%;
 			padding: 150px 0px;
 			padding-bottom: 50px;
