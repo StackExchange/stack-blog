@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to target your job listing effectively
+title: How To Target Job Listings Effectively
 draft: true
 date: 2015-11-12 17:00:00+00:00
 author: nicklarsen
@@ -11,7 +11,7 @@ tags:
  - development
 ---
 
-When you post a job on Careers, we advertise your job on Stack Overflow, the world's largest developer community.  There are lots of different kinds of developers however.  Providing us with some high level descriptions of the kind of developer you are looking for helps us show ads for your job to the developers who are most likely to be interesting in the type of work you need to hire for.
+When you post a job on Careers, we advertise your job on Stack Overflow, the world's largest developer community.  There are lots of different kinds of developers out there.  Providing us with some high level descriptions of the kind of developer you are looking for helps us show ads for your job to the developers who are most likely to be interesting in the type of work you need to hire for.
 
 ![Targeting Interface](http://i.imgur.com/RqzUSuQ.png "Targeting Interface")
 
