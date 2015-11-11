@@ -3,7 +3,7 @@ layout: post
 title: How We Talk About Diversity at Stack Overflow
 author: sassiestone
 date: 2015-11-11
-description: Talking is hard. Diversity is harder. 
+description: Talking is hard. Talking about diversity is harder. 
 no_comments: true
 tags: 
 - company
