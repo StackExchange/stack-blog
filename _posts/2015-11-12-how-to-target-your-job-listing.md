@@ -21,7 +21,7 @@ The second feature is _Technology Ecosystems_.  In this category you will find "
 
 The last thing on this page is _Targeted Region_.  This allows you to specify the list of countries we should show your job in.  We **only** show your job to developers in these locations.  Developers browsing the Stack Overflow from anywhere else will not be able to see your listing and we will not show ads for your job to them.  This is useful if you are unwilling to hire developers who would require special permission to work in your country.
 
-![Targeting Interface](https://imgur.com/ZVoMdHb "Targeting Interface")
+![Potenial Targets Widget](https://imgur.com/ZVoMdHb "Potenial Targets Widget")
 
 As you modify these high level targeting features, you will see the _Potential Targets_ widget on the sidebar update.  This number is a rough estimate of the size of the market for developers you want to hire based on your targeting criteria.
 
