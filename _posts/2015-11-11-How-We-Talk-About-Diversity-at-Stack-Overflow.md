@@ -26,13 +26,13 @@ Spoiler: none of that has happened. The conversations have been productive and c
 ## What We’ve Learned
 By no stretch of the imagination do I think this would be a good idea in every workplace. Stack Overflow seems to be just the right size with the appropriate tools to make something like this work. Furthermore, people were at least willing to give it a try, and kept open minds. So we had the means to make it happen, and I think we also found a formula that heavily contributed to it being productive:
 
-##### Focus
+#### Focus
 Each chat has a topic, like English as a Second Language, LGBT, or Parenting/ Work-Life Balance, that we discuss within the scope of working at Stack Overflow or in the workplace in general. By keeping the focus small, we are able to dig in deeper. We also have a moderator to make sure things don’t derail by slipping off-topic or becoming toxic. (So far we have not experienced the latter, but I will concede that we have been guilty of the former.)
 
-##### Respect
+#### Respect
 There is a lot of respect amongst peers here. I firmly believe that this idea can only work if people trust each other enough to make themselves vulnerable — there can be no hostility whatsoever. We also follow the same [Be Nice Policy](http://meta.stackexchange.com/questions/240839/the-new-new-be-nice-policy-code-of-conduct-updated-with-your-feedback) that we practice in our communities, and keep everything 100% internal.
 
-##### Vulnerability
+#### Vulnerability
 The real secret sauce, though, is that our volunteers share (very) personal experiences. By giving firsthand accounts of dealing with bias, they are bringing the issue close to home — it's a lot easier to have empathy for experiences that are different than yours when they come from someone you care about personally and respect professionally, especially when they are putting themselves out there.
 
 ## Impact
