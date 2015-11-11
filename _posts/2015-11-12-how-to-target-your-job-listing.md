@@ -13,7 +13,7 @@ tags:
 
 When you post a job on Careers, we advertise your job on Stack Overflow, the world's largest developer community.  There are lots of different kinds of developers however.  Providing us with some high level descriptions of the kind of developer you are looking for helps us show ads for your job to the developers who are most likely to be interesting in the type of work you need to hire for.
 
-![Targeting Interface](https://imgur.com/RqzUSuQ "Targeting Interface")
+![Targeting Interface](http://i.imgur.com/RqzUSuQ.png "Targeting Interface")
 
 On the targeting screen you have a few options for how to describe the role you need filled.  The first is the _Developer Types_ which you can think of as the most general role.  Full Stack Developer or Mobile Developer are the kinds of things in this category.  This is the most impactful feature you can select.  Although two selections are allowed, you are almost always better off just choosing a single type here.  If your job requires developers to be very proficient in multiple roles, then selecting two will help.  If your job sees a second role as a benefit or you are willing to hire on the job, selecting just one will help find more qualified candidates.
 
@@ -21,7 +21,7 @@ The second feature is _Technology Ecosystems_.  In this category you will find "
 
 The last thing on this page is _Targeted Region_.  This allows you to specify the list of countries we should show your job in.  We **only** show your job to developers in these locations.  Developers browsing the Stack Overflow from anywhere else will not be able to see your listing and we will not show ads for your job to them.  This is useful if you are unwilling to hire developers who would require special permission to work in your country.
 
-![Potenial Targets Widget](https://imgur.com/ZVoMdHb "Potenial Targets Widget")
+![Potenial Targets Widget](https://imgur.com/ZVoMdHb.png "Potenial Targets Widget")
 
 As you modify these high level targeting features, you will see the _Potential Targets_ widget on the sidebar update.  This number is a rough estimate of the size of the market for developers you want to hire based on your targeting criteria.
 
