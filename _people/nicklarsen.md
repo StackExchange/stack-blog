@@ -2,7 +2,7 @@
 layout: author
 id: nicklarsen
 name: Nick Larsen
-job: "Web Developer"
+job: "Developer"
 location: Atlanta, GA
 avatar: https://i.stack.imgur.com/qdLrm.jpg
 twitter: fody
