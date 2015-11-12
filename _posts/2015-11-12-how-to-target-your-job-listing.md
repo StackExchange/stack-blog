@@ -1,7 +1,6 @@
 ---
 layout: post
 title: How To Target Job Listings Effectively
-draft: true
 date: 2015-11-12 17:00:00+00:00
 author: nicklarsen
 hero: https://i.imgur.com/G8dre58.png
