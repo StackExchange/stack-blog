@@ -45,6 +45,6 @@ If the number of _Potential Targets_ drops too low (depending on location, there
 
 ###How we know
 
-Nearly every developer in the world uses Stack Overflow to find solutions to the coding problems they encounter in their daily lives. That’s important. [Stack Overflow sees what developers actually use](https://careers.stackoverflow.com/about-targeting), not what they say they use on resumes and online profiles. There is no other companies in the world with direct access to this quality and quantity of data on developers.
+Nearly every developer in the world uses Stack Overflow to find solutions to the coding problems they encounter in their daily lives. That’s important. [Stack Overflow sees what developers actually use](https://careers.stackoverflow.com/about-targeting), not what they say they use on resumes and online profiles. There are no other companies in the world with direct access to this quality and quantity of data on developers.
 
 Our advanced targeting technology makes use of this data to determine the tools and roles each developer is proficient at. As developers use Stack Overflow, we show them ads matched using your job’s targeting criteria. Targeting your jobs leads to more qualified candidates applying to your job as well as a better, more relevant experience for Stack Overflow users.
