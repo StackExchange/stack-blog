@@ -1,9 +1,9 @@
 # [Stack Overflow Blog](http://blog.stackoverflow.com/)
 
 ## Getting Started
-This blog runs on [Jekyll](http://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/). Posts are written in [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+This blog runs on [Jekyll](http://jekyllrb.com/). Posts are written in [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
-If you are actively involved in improving the infrastructure of this project, you should read the documentation for these platforms thoroughly (they're pretty short as it is). If you are simply contributing, this guide should be enough to get you going.
+If you are actively involved in improving the infrastructure of this project, you should read the documentation for these tools thoroughly (they're pretty short as it is). If you are simply contributing, this guide should be enough to get you going.
 
 ## Quick Links
  - [Add yourself as a contributor on the blog](https://github.com/StackExchange/blog/new/master/_people) ([See an example file](https://github.com/StackExchange/blog/edit/master/_people/jonhmchan.md))
