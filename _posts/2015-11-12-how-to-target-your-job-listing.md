@@ -39,7 +39,7 @@ This allows you to specify the list of countries in which we should advertise yo
 
 As you modify these high level targeting features, you will see the _Potential Targets_ widget on the sidebar update.  This number is a rough estimate of the size of the market for developers you want to hire based on your targeting criteria.
 
-In this expanded details view, you can see a breakdown of the market.  Total targets are the developers in the area around your _Targeted City_.  Close matches are the developers who match any of your targeted criteria, and strong matches are the developers who match **all** of your targeting criteria.
+In this expanded details view, you can see a breakdown of the market.  Total targets are the developers in the area around your _Targeted City_.  Close matches are the developers who match any of your targeted criteria, and strong matches are the developers who match most of your targeting criteria.
 
 If the number of _Potential Targets_ drops too low (depending on location, there are just very few developers in some of the more remote areas of the world), then you are made aware of that up front with this tool.  You can alter your targeting criteria or consider offering flexible work options such as allowing remote workers to increase the size of your targeted market.
 
