@@ -3,14 +3,14 @@ layout: post
 title: "Beyond Coding Recap: Helping  Emerging Developers Launch Careers"
 author: jeananstett
 date: 2015-10-06
-description: "This summer, Stack Overflow together with a host of NYC-based tech companies, created Beyond Coding, a 10 week program for emerging developers and designers. We sought to guide students through the finer points of professional 'soft' skills in order to help those lacking experience gain a foothold in the technical job market."
+description: "This summer Stack Overflow, together with a host of NYC-based tech companies, created Beyond Coding, a 10 week program for emerging developers and designers. We sought to guide students through the finer points of professional 'soft' skills in order to help those lacking experience gain a foothold in the technical job market."
 tags: 
 - company
 - culture
 - diversity
 ---
 
-This summer, Stack Overflow together with a host of NYC-based tech companies, created [Beyond Coding](https://www.beyondcoding.io/), a 10 week program for emerging developers and designers. We sought to guide students through the finer points of professional "soft" skills in order to help those lacking experience gain a foothold in the technical job market.  
+This summer Stack Overflow, together with a host of NYC-based tech companies, created [Beyond Coding](https://www.beyondcoding.io/), a 10 week program for emerging developers and designers. We sought to guide students through the finer points of professional "soft" skills in order to help those lacking experience gain a foothold in the technical job market.  
 
 Having no idea what reaction the program would invite, we had an astounding 375 applicants from all over the world. With the program open only to those living within the New York City area, 221 students were accepted. 110 students went on to complete the course requirements, which included attending 5 out of 6 classes and passing the project-based homework assignments. Prior hard coding/design experience was required for this program, as the focus was instead on mentoring, training, and confidence building.
 
