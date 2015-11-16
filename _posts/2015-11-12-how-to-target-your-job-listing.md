@@ -1,8 +1,7 @@
 ---
 layout: post
 title: How To Target Job Listings Effectively
-draft: true
-date: 2015-11-12 17:00:00+00:00
+date: 2015-11-16 22:00:00+00:00
 author: nicklarsen
 hero: https://i.imgur.com/G8dre58.png
 description: Targeting your job listing helps us decide who we should show your job listings to.  We recently added a widget to the targeting page to help set effective targeting parameters.  This is a description of how it achieves that goal.
