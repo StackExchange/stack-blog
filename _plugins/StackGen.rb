@@ -36,10 +36,11 @@ module Jekyll
 
   # Wraps a Jekyll post and pre-renders the list view of it once for re-use in many views
   class PreRenderedPost
-    attr_reader :post, :pre_render, :tags, :date, :author
+    attr_reader :post, :pre_render, :tags, :date, :author, :data
     def initialize(site, post)
       @post = post
-      @tags = post.tags
+      @data = @post.data
+      @tags = @data['tags']
       @date = post.date
 
       payload = Utils.deep_merge_hashes({
@@ -48,7 +49,9 @@ module Jekyll
       }, site.site_payload)
       layout = site.layouts['list-post']
       info = { :filters => [Jekyll::Filters], :registers => { :site => site, :page => payload['page'] } }
-      @pre_render = post.render_liquid(layout.content, payload, info, File.join(site.config['layouts'], layout.name))
+      
+      renderer = Renderer::new(site, post)
+      @pre_render = renderer.render_liquid(layout.content, payload, info, File.join(site.config['layouts_dir'], layout.name))
       All.posts << self
     end
 
@@ -193,7 +196,7 @@ module Jekyll
             Jekyll.logger.info 'Drafts are disabled (set posts_showdrafts: true in _config.yml to enable)'
         end
 
-        for post in site.posts
+        for post in site.posts.docs
           if disable_drafts && (post.data['draft'] || (post.date.nil? && post.date > site.time))
             next
           end
@@ -201,7 +204,7 @@ module Jekyll
           pre_post = PreRenderedPost.new(site, post)
           pre_post.set_author
 
-          for tag in post.tags
+          for tag in post.data['tags']
             All.tags[tag].add_post(pre_post)
           end
         end
@@ -253,10 +256,9 @@ module Jekyll
 
         posts = All.posts
         for tag in category_tags
-          posts = posts.find_all{|post| post.tags.include?(tag)}
+          posts = posts.find_all{|post| post.data['tags'].include?(tag)}
         end
         posts = posts.sort_by {|post| -post.date.to_f}
-
         paginate_inner(site, path, posts, category_tags, layout_source, page_data)
       end
 
@@ -286,7 +288,7 @@ module Jekyll
           # The pager itself, outputs the paginator object in Liquid
           pager = Pager.new(site, num_page, posts, pages, path + "/", category_tags, latest_authors)
           # The page itself, ALL are created in the paginator because none exist as .html for input
-          newpage = Page.new(site, site.source, layout_source ? site.config['layouts'] : path + "/", layout_source || 'index.html')
+          newpage = Page.new(site, site.source, layout_source ? site.config['layouts_dir'] : path + "/", layout_source || 'index.html')
           unless page_data.nil?
             page_data.each do |key, value|
               newpage.data[key] = value

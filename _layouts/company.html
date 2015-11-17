@@ -25,9 +25,7 @@ top_nav: company
 	<div class="-row">
 		<div class="-col8">
 			<div class="posts">
-				{% for post in paginator.posts %}
-				{{ post.pre_render }}
-				{% endfor %}
+				{{ paginator.posts }}
 			</div>
 		</div>
 		<div class="-col4">
