@@ -3,7 +3,7 @@ layout: post
 title: How To Target Job Listings Effectively
 date: 2015-11-16 22:00:00+00:00
 author: nicklarsen
-hero: https://i.imgur.com/G8dre58.png
+hero: https://i.stack.imgur.com/x1jyo.png
 description: Targeting your job listing helps us decide who we should show your job listings to.  We recently added a widget to the targeting page to help set effective targeting parameters.  This is a description of how it achieves that goal.
 tags:
  - engineering
@@ -19,7 +19,7 @@ When you post a job on Careers, we show the job on Stack Overflow, the world’s
 
 ##The targeting screen
 
-![Targeting Interface](https://i.imgur.com/RqzUSuQ.png "Targeting Interface")
+![Targeting Interface](https://i.stack.imgur.com/KVmD0.png "Targeting Interface")
 
 On the targeting screen you have a few options for how to describe the role you need filled.
 
@@ -35,7 +35,7 @@ In addition to ecosystems, there are many complementary tools listed in here suc
 This allows you to specify the list of countries in which we should advertise your job.  We **only** show your job to developers in these locations. Developers browsing Stack Overflow from anywhere else will not be able to see your listing and we will not show ads for your job to them. Use this if you are looking to recruit developers from specific countries.
 
 ##Potential targets
-![Potenial Targets Widget](https://imgur.com/ZVoMdHb.png "Potenial Targets Widget")
+![Potenial Targets Widget](https://i.stack.imgur.com/kVECD.png "Potenial Targets Widget")
 
 As you modify these high level targeting features, you will see the _Potential Targets_ widget on the sidebar update.  This number is a rough estimate of the size of the market for developers you want to hire based on your targeting criteria.
 
