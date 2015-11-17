@@ -8,7 +8,6 @@ description: Targeting your job listing helps us decide who we should show your 
 tags:
  - engineering
  - development
- - company
 ---
 
 We recently launched a page that [shows developers hitting Stack Overflow in real time](https://careers.stackoverflow.com/about-targeting). Over the past year, we’ve invested a lot in [building our advanced targeting technology](https://blog.stackoverflow.com/2015/01/targeted-jobs-for-stack-overflow/), and we’re excited to show the benefit of targeting job listings on Stack Overflow versus other platforms. 
