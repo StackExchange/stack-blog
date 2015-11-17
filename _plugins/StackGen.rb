@@ -36,10 +36,11 @@ module Jekyll
 
   # Wraps a Jekyll post and pre-renders the list view of it once for re-use in many views
   class PreRenderedPost
-    attr_reader :post, :pre_render, :tags, :date, :author
+    attr_reader :post, :pre_render, :tags, :date, :author, :data
     def initialize(site, post)
       @post = post
-      @tags = post.tags
+      @data = @post.data
+      @tags = @data['tags']
       @date = post.date
 
       payload = Utils.deep_merge_hashes({
@@ -195,7 +196,7 @@ module Jekyll
             Jekyll.logger.info 'Drafts are disabled (set posts_showdrafts: true in _config.yml to enable)'
         end
 
-        for post in site.posts
+        for post in site.posts.docs
           if disable_drafts && (post.data['draft'] || (post.date.nil? && post.date > site.time))
             next
           end
@@ -203,7 +204,7 @@ module Jekyll
           pre_post = PreRenderedPost.new(site, post)
           pre_post.set_author
 
-          for tag in post.tags
+          for tag in post.data['tags']
             All.tags[tag].add_post(pre_post)
           end
         end
@@ -255,10 +256,9 @@ module Jekyll
 
         posts = All.posts
         for tag in category_tags
-          posts = posts.find_all{|post| post.tags.include?(tag)}
+          posts = posts.find_all{|post| post.data['tags'].include?(tag)}
         end
         posts = posts.sort_by {|post| -post.date.to_f}
-
         paginate_inner(site, path, posts, category_tags, layout_source, page_data)
       end
 
