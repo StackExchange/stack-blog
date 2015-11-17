@@ -6,9 +6,7 @@ layout: default
 		<div class="-col8">
 			<div class="posts">
 				<h3>{{ page.tag.name }}</h3>
-				{% for post in paginator.posts %}
-				{{ post.pre_render }}
-				{% endfor %}
+				{{ paginator.posts }}
 			</div>
 		</div>
 		<div class="-col4">

@@ -48,7 +48,9 @@ module Jekyll
       }, site.site_payload)
       layout = site.layouts['list-post']
       info = { :filters => [Jekyll::Filters], :registers => { :site => site, :page => payload['page'] } }
-      @pre_render = post.render_liquid(layout.content, payload, info, File.join(site.config['layouts'], layout.name))
+      
+      renderer = Renderer::new(site, post)
+      @pre_render = renderer.render_liquid(layout.content, payload, info, File.join(site.config['layouts_dir'], layout.name))
       All.posts << self
     end
 
@@ -286,7 +288,7 @@ module Jekyll
           # The pager itself, outputs the paginator object in Liquid
           pager = Pager.new(site, num_page, posts, pages, path + "/", category_tags, latest_authors)
           # The page itself, ALL are created in the paginator because none exist as .html for input
-          newpage = Page.new(site, site.source, layout_source ? site.config['layouts'] : path + "/", layout_source || 'index.html')
+          newpage = Page.new(site, site.source, layout_source ? site.config['layouts_dir'] : path + "/", layout_source || 'index.html')
           unless page_data.nil?
             page_data.each do |key, value|
               newpage.data[key] = value
