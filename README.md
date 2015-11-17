@@ -199,7 +199,7 @@ You can get a video's id by looking at the URL of the video's page on YouTube ([
 
 If you are interested in making changes to the design, functionality, or structure of the blog, you're going to need to set up a local environment and understand some of the technologies behind the site.
 
-**1. Install Jekyll and dependencies.** First thing you're going to need to do is set up Jekyll and the appropriate dependencies so you can develop locally. The easiest way to install everything is to use [RubyGems](https://rubygems.org/pages/download) and follow the instructions on the [Jekyll](http://jekyllrb.com/docs/installation/) website. In addition to the basic Jekyll installation, you also need to install a few dependency gems. After install RubyGems and Bundler on your machine, run:
+**1. Install Jekyll and dependencies.** First thing you're going to need to do is set up Jekyll and the appropriate dependencies so you can develop locally. To do this, just make sure you have Ruby and Bundler installed then run:
 ```
 bundle install
 ```
