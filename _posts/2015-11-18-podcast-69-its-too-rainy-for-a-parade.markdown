@@ -2,7 +2,7 @@
 layout: podcast
 date: 2015-11-18
 title: "Podcast #69 - It's Too Rainy For A Parade"
-author: abbytmiller
+author: hairboat
 hero: https://i.stack.imgur.com/DHDCi.jpg
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/233540884-stack-exchange-stack-exchange-podcast-69-its-too-rainy-for-a-parade.mp3
 draft: true

@@ -2,7 +2,7 @@
 layout: post
 date: 2015-08-03
 title: "Podcast #66 - Thank You For Saying Words To Us"
-author: abbytmiller
+author: hairboat
 tags:
 - company
 - podcasts

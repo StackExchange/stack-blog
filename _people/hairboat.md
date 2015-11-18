@@ -1,6 +1,6 @@
 ---
 layout: author
-id: abbytmiller
+id: hairboat
 name: Abby T. Miller
 job: Community Growth Team Lead
 avatar: https://i.stack.imgur.com/Kxuoj.jpg

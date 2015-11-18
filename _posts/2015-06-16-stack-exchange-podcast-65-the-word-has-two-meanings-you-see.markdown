@@ -1,6 +1,6 @@
 ---
 layout: post
-author: abbytmiller
+author: hairboat
 title: "Podcast #65 - The Word Has Two Meanings, You See"
 tags:
 - company
