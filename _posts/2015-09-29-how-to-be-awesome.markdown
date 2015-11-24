@@ -80,7 +80,7 @@ So I spent most of the next four years doing various things with Quest and inter
 
 I made small amounts of money here and there, with a larger amount of money from a few months of contract .NET developer work to top up my finances. Ultimately though, my money ran out.
 
-I had failed to build a successful business, but I had spent years doing work that I enjoyed, and I now had a vastly increased set of skills and a much more interesting CV. I had built some awesome stuff - now I just needed to follow the cycle around, to tell people about it and try to get an awesome job. That's what I'll be talking about in part 2 of this post.
+I had failed to build a successful business, but I had spent years doing work that I enjoyed, and I now had a vastly increased set of skills and a much more interesting CV. I had built some awesome stuff - now I just needed to follow the cycle around, to tell people about it and try to get an awesome job. That's what I'll be talking about in [part 2](/2015/11/how-to-be-awesome-part-2/) of this post.
 
 Just in case you think the only way to build awesome stuff is to quit your job and spend four years trying to build an entire business - you don't *have* to be as batshit insane as me. You can build stuff in your spare time - I still do, it just takes a little bit longer. Build something you're interested in building, something you can be proud of, and ship it. It's the best way to learn, and it's the best way to upgrade your CV.
 
@@ -89,3 +89,5 @@ Just in case you think the only way to build awesome stuff is to quit your job a
 If you want a sneak preview of what I'll be talking about in part 2, you can watch my talk "How to be awesome" which this post is based on:
 
 {% include youtube.html video_id="YisbVr69r7U" %}
+
+**UPDATE: [Part 2 is now available here](/2015/11/how-to-be-awesome-part-2/)**

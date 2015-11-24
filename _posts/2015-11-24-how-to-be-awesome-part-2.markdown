@@ -2,7 +2,6 @@
 layout: post
 title: How to Be Awesome (Part 2)
 author: alexwarren
-draft: true
 hero: https://i.stack.imgur.com/m9ywh.jpg
 tags: engineering
 ---
