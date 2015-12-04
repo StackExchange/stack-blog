@@ -2,7 +2,7 @@
 author: alex
 comments: true
 date: 2011-12-08 19:00:57+00:00
-layout: post
+layout: podcast
 redirect_from: /2011/12/se-podcast-30-robert-cartaino-rebecca-chernoff
 hero: /images/category/podcasts.jpg
 slug: se-podcast-30-robert-cartaino-rebecca-chernoff
@@ -51,4 +51,4 @@ Guests this week are [Robert Cartaino](http://stackexchange.com/users/34933/robe
 
 That's it for Podcast #30, which is it for podcasts in 2011. See you next year!
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/30073425&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+

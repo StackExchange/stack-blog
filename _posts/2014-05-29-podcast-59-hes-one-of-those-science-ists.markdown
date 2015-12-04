@@ -2,7 +2,7 @@
 author: hairboat
 comments: true
 date: 2014-05-29 19:00:29+00:00
-layout: post
+layout: podcast
 redirect_from: /2014/05/podcast-59-hes-one-of-those-science-ists
 hero: /images/category/podcasts.jpg
 slug: podcast-59-hes-one-of-those-science-ists
@@ -62,4 +62,4 @@ Thanks for listening to Stack Exchange Podcast #59, brought to you by Nutella!
 
 
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/151731070&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+

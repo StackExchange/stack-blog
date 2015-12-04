@@ -2,7 +2,7 @@
 author: hairboat
 comments: true
 date: 2014-07-16 19:00:44+00:00
-layout: post
+layout: podcast
 redirect_from: /2014/07/podcast-60-are-we-that-predictable
 hero: https://cloud.githubusercontent.com/assets/12239801/7544421/ee57b6aa-f59a-11e4-8d24-4cf85b5646a9.jpg
 slug: podcast-60-are-we-that-predictable
@@ -103,5 +103,5 @@ Thanks for listening to Stack Exchange Podcast #60, brought to you by the Nation
 
 
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/158893545&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
 

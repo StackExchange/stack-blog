@@ -2,7 +2,7 @@
 author: alex
 comments: true
 date: 2012-12-03 15:29:37+00:00
-layout: post
+layout: podcast
 redirect_from: /2012/12/se-podcast-38-this-ones-at-least-a-410
 hero: /images/category/podcasts.jpg
 slug: se-podcast-38-this-ones-at-least-a-410
@@ -66,4 +66,4 @@ Welcome to Stack Exchange podcast #38 with Joel, Jay, David, and new special gue
 
 
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/69812124&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+

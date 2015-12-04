@@ -2,7 +2,7 @@
 author: jeffatwood
 comments: true
 date: 2009-09-18 00:31:44+00:00
-layout: post
+layout: podcast
 redirect_from: /2009/09/podcast-68
 hero: /images/category/podcasts.jpg
 slug: podcast-68
@@ -92,4 +92,4 @@ If you'd like to submit a question to be answered in our next episode, record an
 
 The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W29083) for this episode is available for public editing.
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/14376951&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+

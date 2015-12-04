@@ -2,7 +2,7 @@
 author: alex
 comments: true
 date: 2011-11-23 20:00:33+00:00
-layout: post
+layout: podcast
 redirect_from: /2011/11/se-podcast-28-brent-ozar
 hero: /images/category/podcasts.jpg
 slug: se-podcast-28-brent-ozar
@@ -49,4 +49,4 @@ Jeff & Joel are joined this week by Brent Ozar, database wizard who has helped t
   * You can find Brent at [his website](http://brentozar.com/) or [on Twitter](https://twitter.com/brento)! (Here's his [video](http://www.brentozar.com/archive/2011/11/how-stackoverflow-scales-sql-server-video/) about how Stack Overflow scales with SQL Server.)
 
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/28804935&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
