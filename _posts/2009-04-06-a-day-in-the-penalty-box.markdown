@@ -93,7 +93,7 @@ So starting tonight, _there will be consequences for patterns of problem behavio
 
 
 
-[![penalty-box](http://blog.stackoverflow.com/wp-content/uploads/penalty-box.jpg)](http://www.flickr.com/photos/jamescalder/511809934/)
+[![penalty-box](https://i.imgur.com/O0asd4N.jpg)](http://www.flickr.com/photos/jamescalder/511809934/)
 
 
 
