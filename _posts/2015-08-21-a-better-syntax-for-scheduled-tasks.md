@@ -9,13 +9,13 @@ comments: true
 source: http://bret.codes/schyntax-part-1/
 ---
 
-There are lots of domain-specific languages for schedules. The most prominent might be [Cron](https://en.wikipedia.org/wiki/Cron) (for \*nix scheduled tasks), but there's also [RRULE](http://www.kanzaki.com/docs/ical/rrule.html) (for iCalendar events) and many others. Cron isn't exactly what I'd call human-friendly. Can you tell me what `10 8,20 * 8 1-5` means if you don't use Cron often? Some DSL's go in the opposite direction and are wildly verbose, or will sacrifice expressiveness for simplicity.
+There are lots of domain-specific languages for schedules. The most prominent might be [Cron](https://en.wikipedia.org/wiki/Cron) (for \*nix scheduled tasks), but there's also [RRULE](http://www.kanzaki.com/docs/ical/rrule.html) (for iCalendar events) and many others. Cron isn't exactly what I'd call human-friendly. Can you tell me what `10 8,20 * 8 1-5` means if you don't use Cron often? Some DSLs go in the opposite direction and are wildly verbose, or will sacrifice expressiveness for simplicity.
 
 So... I wrote my own DSL to [solve those problems](https://xkcd.com/927/). It's called Schyntax, and we're already using it in production at Stack Overflow. Part 1 of this post is about the language itself. In [Part 2](http://bret.codes/schyntax-part-2), we'll look at how to setup Schyntax-based scheduled task runners in both JavaScript and C# (there is also a Go implementation in progress, if you'd like to know when it's ready, follow me [on Twitter](https://twitter.com/bretcope)... where I almost never tweet anything).
 
 ### Schyntax Syntax
 
-In contrast with other scheduling DSL's, Schyntax explicitly tries to be powerful, easy to remember, and terse, but human readable. To a programmer, the syntax should feel immediately familiar and intuitive. For example, `hour(5)` means to run on the fifth hour of every day. `minute(*)` means to run every minute. `seconds(3,8,52)` would run on the third, eighth, and fifty-second seconds of every minute.
+In contrast with other scheduling DSLs, Schyntax explicitly tries to be powerful, easy to remember, and terse, but human readable. To a programmer, the syntax should feel immediately familiar and intuitive. For example, `hour(5)` means to run on the fifth hour of every day. `minute(*)` means to run every minute. `seconds(3,8,52)` would run on the third, eighth, and fifty-second seconds of every minute.
 
 #### Ranges
 

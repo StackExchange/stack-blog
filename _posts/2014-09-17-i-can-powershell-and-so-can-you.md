@@ -36,7 +36,7 @@ Running a simulated Sync on GADS shows **80 Google Groups** without a matching A
 
 This is our first opportunity to use Powershell to solve our problems.  
 
-I start by grabbing a list of groups that arn't in AD.  GADS simulated Sync logs those groups in a way that is easily copy/pasted into a nice Tab separated format.
+I start by grabbing a list of groups that aren't in AD.  GADS simulated Sync logs those groups in a way that is easily copy/pasted into a nice Tab separated format.
 
 ![](http://4.bp.blogspot.com/-Pmb4Odbat8k/VBj_pFaGwrI/AAAAAAAAE0k/ytn4GoF_Qgo/s1600/copy-csv.gif)
 
