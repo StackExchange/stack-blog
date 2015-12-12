@@ -2,7 +2,7 @@
 layout: post
 title: Announcing Winter Bash 2015
 author: stackpops
-date: 2015-12-14 00:00:00
+date: 2015-12-11 00:00:00
 draft: true
 tags:
  - company
@@ -14,7 +14,9 @@ Another calendar year is ending, which can mean only one thing. It's time once a
 
 [![Winter Bash 2015 header/logo image][header]][header]
 
-Starting now and going until the end of the day on Jan. 3, 2016, you'll once again be able to earn and show off hats for all sorts of things you're already doing across the Stack Exchange network. As in previous years, we're rolling out an all-new array of hats for this year's event. (For those who are wondering, this is entirely because we on the SE team love our communities and think you deserve the best, and not at all because we forget where we store the old hats every year.) And that means we owe another big thank you to amazing freelance designer [Elias Stein](http://www.eliasstein.com), who deftly handled the conversion of all hats from crazy vague concepts into beautiful digital reality for the third year in a row.
+Starting now and going until the end of the day on Jan. 3, 2016, you'll once again be able to earn and show off hats for all sorts of things you're already doing across the Stack Exchange network. As in previous years, we're rolling out an all-new array of hats for this year's event. (For those who are wondering, this is entirely because we on the SE team love our communities and think you deserve the best, and not at all because we forget where we store the old hats every year.) 
+
+That means we owe another big thank you to amazing freelance designer [Elias Stein](http://www.eliasstein.com), who deftly handled the conversion of all hats from crazy vague concepts into beautiful digital reality for the third year in a row, and our very own unicorn lord [balpha](http://stackoverflow.com/users/115866/balpha), who once again worked tirelessly behind the scenes to perfect the hat distribution process.
 
 Hats, for those who don't know, are sort of like badges, but __better__, because you can "wear" hats on your avatar, displaying them wherever your avatar appears, network-wide! (And thanks to a labor of love by [Brian Nickel](http://stackoverflow.com/users/860000/brian-nickel), that includes the iOS app this year!) The triggers for hats are a little different than the triggers for badges; to find out what you have to do to get some headpieces, check out [the Winter Bash mini-site](http://winterbash2015.stackexchange.com). There are 28 total hats you can earn over the next few weeks… that we're telling you about. How many secret hats are there this year, you ask? You're on your own. We're not spilling the beanies.
 
