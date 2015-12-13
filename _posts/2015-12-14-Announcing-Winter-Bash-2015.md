@@ -3,7 +3,7 @@ layout: post
 title: Announcing Winter Bash 2015
 author: stackpops
 date: 2015-12-14 00:00:00
-draft: true
+draft: false
 tags:
  - company
  - announcement
