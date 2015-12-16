@@ -69,7 +69,7 @@ The mobile app must have been [on our mind recently](http://blog.stackoverflow.c
 
 [![](http://i.imgur.com/qcibM2k.png?s=128)](http://meta.stackexchange.com/users/209031/kylemit) [![](http://i.imgur.com/sD6deSZ.png?s=128)](http://meta.stackexchange.com/users/179335/carrie-kendall) [![](http://i.imgur.com/xmYkOLT.png?s=128)](http://meta.stackexchange.com/users/179335/carrie-kendall) [![](http://i.imgur.com/vBZS55b.png?s=128)](http://meta.stackexchange.com/users/179335/carrie-kendall) [![](http://i.imgur.com/Lw8Osza.png?s=128)](http://meta.stackexchange.com/users/179335/carrie-kendall)
 
-Right in the middle of Winter Bash, [balpha allowed hats to be rotated 360°](http://meta.stackexchange.com/a/245795/1438). Lot's of folks took advantage of this to concoct brand new hats such as the **Praying Mantis**, **Soccer Necklace**, **Crab Face Googly Eyes**, **Next Generation Earpiece**, and, of course, the **Mulletbeard™**.
+Right in the middle of Winter Bash, [balpha allowed hats to be rotated 360°](http://meta.stackexchange.com/a/245795/1438). Lots of folks took advantage of this to concoct brand new hats such as the **Praying Mantis**, **Soccer Necklace**, **Crab Face Googly Eyes**, **Next Generation Earpiece**, and, of course, the **Mulletbeard™**.
 
 [![](https://i.stack.imgur.com/sBt3o.png?s=128&g=1)](http://stackoverflow.com/users/3155639/alexander-omara)
 
