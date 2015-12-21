@@ -145,7 +145,7 @@ You can always set your posts as drafts. You can do this by adding the line `dra
 
 Every post is required to have at least one tag: either `company` or `engineering` depending on which channel it belongs on (it can also have both). You can then add any additional tags afterwards.
 
-*Note:* the post tags control how the post will appear in the community bulletin on the sidebar of the Q&A sites. Posts tagged `company` will be displayed on *all* sites in the network. To display a post only on Stack Overflow and Meta Stack Overflow, use the `stackoverflow` tag. Be a bit careful with `company`, since we don't want to inundate our 150+ communities with posts that only apply to, say, Stack Overflow. If in doubt, check with someone on the Community team.
+*Note:* the post tags control how the post will appear in the community bulletin on the sidebar of the Q&A sites. Posts tagged `company` will be displayed on *all* sites in the network. To display a post only on Stack Overflow and Meta Stack Overflow, use the `stackoverflow` tag (without `company`). Be a bit careful with `company`, since we don't want to inundate our 150+ communities with posts that only apply to, say, Stack Overflow. If in doubt, check with someone on the Community team.
 
 When writing a new post, you can add listed tags at the top of the post markdown file. 
 ```
