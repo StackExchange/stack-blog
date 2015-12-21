@@ -3,7 +3,6 @@ layout: post
 title: Bringing Jobs to Stack Overflow
 author: donnachoi
 date: 2015-12-21
-draft: true
 description: We believe that all programmers need and deserve jobs they love. Last week, we added a Jobs tab to Stack Overflow in order to help you do just that. 
 tags: 
 - community
