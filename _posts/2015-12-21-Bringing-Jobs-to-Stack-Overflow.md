@@ -16,7 +16,7 @@ We believe that all programmers need and deserve jobs they love. Last week, we a
 
 ##What’s changed? 
  
-You’ll no longer need to login to a separate account on a separate site in order to use Stack Overflow Careers Jobs. This means that the family of products we’ve built with the goal of improving programmers’ lives - Q&A, Jobs, and soon-to-be Documentation -  will live side-by-side on Stack Overflow. 
+You’ll no longer need to login to a separate account on a separate site in order to use Stack Overflow Jobs. This means that the family of products we’ve built with the goal of improving programmers’ lives - Q&A, Jobs, and soon-to-be Documentation -  will live side-by-side on Stack Overflow. 
 
 Tim has already [summed up the problem](http://meta.stackoverflow.com/questions/310066/stack-overflow-serving-programmers-even-better) that this decision was designed to solve:
 
