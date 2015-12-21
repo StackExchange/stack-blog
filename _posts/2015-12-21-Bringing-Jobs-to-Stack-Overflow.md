@@ -77,9 +77,9 @@ The compensation is excellent with great stock options, bonus, 401k and comprehe
 
 We’ve taken a few measures to help ensure that Stack Overflow users only receive personalized, high-quality messages from companies - and of course, only after you’ve given us explicit permission.
 
-1. Our Job Search Status feature gives you full control over who is allowed to talk to you, whether you want to hear from companies right away or not at all.
-
 ![job search status](https://i.stack.imgur.com/Z486L.png)
+
+1. Our Job Search Status feature gives you full control over who is allowed to talk to you, whether you want to hear from companies right away or not at all.
 
 2. [We limit the number of outstanding messages that a company can send.](http://careers.stackoverflow.com/faq#messageLimit) This feature helps us control generic, copy-and-pasted messages to candidates, while encouraging companies to send messages that are relevant to the unique interests and background of each user.
 
