@@ -38,6 +38,7 @@ If you are interested in a new job - and [based on an experiment](http://meta.st
 
 In the last few months, we’ve focused our efforts on several key features designed to help you land the job you love.
 
+
 ###1. Better job matches
 
 About a year ago, we began a long-term experiment that used our [machine-learning technology](http://kevinmontrose.com/2015/01/27/providence-machine-learning-at-stack-exchange/) to surface more interesting jobs to our users. This drove a 40% increase in overall applications, which was awesome - it meant that we were making it easier for you to find and apply to jobs you found interesting.
@@ -84,6 +85,7 @@ We’ve taken a few measures to help ensure that Stack Overflow users only recei
 2. [We limit the number of outstanding messages that a company can send.](http://careers.stackoverflow.com/faq#messageLimit) This feature helps us control generic, copy-and-pasted messages to candidates, while encouraging companies to send messages that are relevant to the unique interests and background of each user.
 
 3. [We refund company subscriptions when we receive reports about bad behavior](http://meta.stackexchange.com/questions/161345/does-stackoverflow-investigate-employers-before-allowing-them-to-post-to-careers/161403#161403), and all of our job listings are required to disclose a company name. Furthermore, we seek out opportunities to work with developer-friendly companies that would be appreciated by the Stack Overflow community.
+
 
 
 ##Okay, but how does this affect Q&A? 
