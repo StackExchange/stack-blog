@@ -8,7 +8,7 @@ tags:
 - community
 - announcements
 ---
-**TL;DR:**
+###**TL;DR:**
 
 We believe that all programmers need and deserve jobs they love. Last week, we added a Jobs tab to Stack Overflow in order to help you do just that. 
 
