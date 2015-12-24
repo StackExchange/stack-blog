@@ -33,5 +33,5 @@ So as we enter this new year, let's tip our glasses and make 2016 the year to sh
 
 *Cheers!*
 
-[1]: http://i.stack.imgur.com/QLbLa.png
-[2]: http://i.stack.imgur.com/JO4aC.png
+[1]: https://i.stack.imgur.com/QLbLa.png
+[2]: https://i.stack.imgur.com/JO4aC.png
