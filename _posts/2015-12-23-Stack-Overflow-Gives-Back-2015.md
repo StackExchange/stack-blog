@@ -17,11 +17,24 @@ But came through, they did!
 
 This year, on behalf of the **483 moderators** of Stack Exchange, we were able to make the following donations to charity:
 
-[![Charity donations][1]][1]
+| Charity | Donation |
+|:-------------|:-------------|
+| **UNICEF** <br /> <sub>*The United Nations Children's Fund provides long-term humanitarian and developmental assistance to children and mothers in developing countries* ([unicef.org](http://unicef.org))</sub> | **$5,500.00** |
+| **International Rescue Committee** <br /> <sub>*Responding to the world’s worst humanitarian crises and helping people to survive and rebuild their lives; at work in over 40 countries, more than 90% of every dollar goes directly to help refugees in desperate need* ([rescue.org](http://rescue.org))</sub> | **$6,900.00** |
+| **Girls Who Code** <br /> <sub>*Working to close the expanding gender gap in technology and engineering, Girls Who Code provides unparalleled computer science education to equip girls with the computing skills needed to pursue 21st-century opportunities* ([girlswhocode.com](http://girlswhocode.com))</sub> | **$9,500.00** |
+| **Electronic Frontier Foundation** <br /><sub>*Defending your rights in the digital world* ([eff.org](http://eff.org))</sub> | **$12,100.00** |
+| **Doctors Without Borders** <br /> <sub>*An international medical humanitarian organization created by doctors and journalists* ([doctorswithoutborders.org](http://doctorswithoutborders.org))</sub> | **$14,300.00** |
+| ***TOTAL*** | ***$48,300.00*** |
 
 And on behalf of our engineering and IT team, we also like to remember the organizations and tools that make what we do possible:
 
-[![Organization donations][2]][2]
+| Organization | Donation |
+| ----------------------------------:|:-----------|
+| **Git and the Software Freedom Conservancy** | **$1,000.00**   |
+| **HAProxy**                                                   | **$1,000.00**   |
+| **jQuery Foundation**                                     | **$1,000.00**   |
+| **OpenBSD**                                                  | **$1,000.00**   |
+| **SQLAlchemy**                                              | **$1,000.00**   |
 
 We are immensely grateful for the incredible year we've had at Stack Overflow. Stack Exchange was conceived out of a crazy idea that people would be inspired to create and share information online in the spirit of *peers* helping each other&thinsp;&mdash;&thinsp;and to see that kind of passion spill out into the *real world* to help others overcome real adversity is truly heart-warming.
 
@@ -32,6 +45,3 @@ So as we enter this new year, let's tip our glasses and make 2016 the year to sh
 ![Stack Overflow Gives Back 2015](https://i.stack.imgur.com/AztJ6.png)
 
 *Cheers!*
-
-[1]: https://i.stack.imgur.com/QLbLa.png
-[2]: https://i.stack.imgur.com/JO4aC.png
