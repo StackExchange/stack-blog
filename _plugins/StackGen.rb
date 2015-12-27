@@ -224,6 +224,17 @@ module Jekyll
         All.tags.each do |key, tag|
           paginate_tags(site, '/tags/:tags', [key], 'tag.html', Hash['tag' => tag])
         end
+
+        Jekyll.logger.info "Generating main feed:"        
+        feed_tags(site)
+        Jekyll.logger.info "Generating feed pages for #{All.tags.count} tag(s):"
+        All.tags.each do |key, tag|
+          if key == 'podcasts'
+            feed_tags(site, '/feed/podcast', [key], 'feed.xml', Hash['tag' => tag],0) #Podcast feed has a specific location and no post limit
+          else
+            feed_tags(site, '/feed/:tags', [key], 'feed.xml', Hash['tag' => tag])
+          end
+        end
       end
 
       def paginate_channels(site, category, channels)
@@ -303,6 +314,46 @@ module Jekyll
           newpage.basename = 'index'
           site.pages << newpage
         end
+      end
+
+      # Creates a feed for posts by tags. Renders the <layout_source> or <path>/feed.xml.
+      #
+      # site           - The Site.
+      # path           - The directory to render to.
+      # catgory_tags   - The tag hierarchy to render
+      # laytout_source - The /_layouts/<layoutsource> to use as a template
+      # page_data      - The data to applend to the page object for liquid
+      # limit          - The number of posts to include in the feed
+      #
+      def feed_tags(site, path = '/feed/:tags', category_tags = [], layout_source = 'feed.xml', page_data = nil, limit = 40)
+        path = path.sub(':tags', category_tags.join("/"))
+
+        posts = All.posts
+        for tag in category_tags
+          posts = posts.find_all{|post| post.tags.include?(tag)}
+        end
+        posts = posts.sort_by {|post| -post.date.to_f}
+        if limit > 0
+          posts = posts.first(limit)
+        end
+
+        # Output for the console
+        Jekyll.logger.info("  [#{(category_tags.count == 0 ? "<all>" : category_tags.join(","))}] (#{path}) => #{posts.count} post(s)")
+        # Generate feed
+        newpage = Page.new(site, site.source, layout_source ? site.config['layouts'] : path + "/", layout_source || '/feed/index.xml')
+        unless page_data.nil?
+          page_data.each do |key, value|
+            newpage.data[key] = value
+          end
+        end
+
+        newpage.data['posts'] = posts #Append the post data
+        newpage.dir = path
+        # This may seem irrelevant, but because of how Jekyll::Post generates the path, it's necessary to not have the generated
+        # page in a sub-folder of the source file name. e.g. /company/page3/company/index.html will result from company.html
+        # being used as the layout source
+        newpage.basename = 'index'
+        site.pages << newpage
       end
     end
   end
