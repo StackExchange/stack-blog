@@ -19,7 +19,7 @@ Windows 8 officially launches on October 26th, and it’s already generating qui
 Today we’re announcing [Apptivate.ms](http://apptivate.ms/), a Windows 8 App Development Contest sponsored by Microsoft.
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/apptivate-logo1.png)](http://apptivate.ms)
+[![](https://i.stack.imgur.com/M24Lk.png)](http://apptivate.ms)
 
 
 The contest has two parts:
@@ -75,7 +75,7 @@ Two Grand Prize winners* will be awarded:
 The top 3 apps in each category will win a **Voter’s Choice Prize**:
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/dev-prizes2.png)](http://apptivate.ms/contest#developer-contest)
+[![](https://i.stack.imgur.com/8qP50.png)](http://apptivate.ms/contest#developer-contest)
 
 
 
@@ -108,7 +108,7 @@ Not developing an app? You can still help by leaving comments on apps, asking an
 See the [Contest page](http://apptivate.ms/contest#reviewer-contest) for a full list of achievements that can be unlocked on Apptivate.ms.  Each achievement (up to 30) gives you an entry into one of the reviewer sweepstakes:
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/reviewer-prizes-png2.png)](http://apptivate.ms/contest#reviewer-contest)
+[![](https://i.stack.imgur.com/x1OMH.png)](http://apptivate.ms/contest#reviewer-contest)
 
 
 

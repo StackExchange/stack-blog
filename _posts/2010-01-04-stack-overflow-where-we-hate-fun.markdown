@@ -48,7 +48,7 @@ I think some members of the community have gotten the idea that Stack Overflow i
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/clowns-vomit-rainbows.png)](http://www.threadless.com/submission/44125/The_Morning_After)
+[![](https://i.stack.imgur.com/jzwxZ.png)](http://www.threadless.com/submission/44125/The_Morning_After)
 
 
 

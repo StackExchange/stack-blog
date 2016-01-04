@@ -25,7 +25,7 @@ Matt was born and raised in New Jersey, USA. He began his career at a small star
 
 
 
-**[![](http://blog.stackoverflow.com/wp-content/uploads/Collins-Ben.jpg)](http://stackoverflow.com/users/3279/ben-collins)**
+**[![](https://i.stack.imgur.com/z2bcQ.jpg)](http://stackoverflow.com/users/3279/ben-collins)**
 
 
 
@@ -41,7 +41,7 @@ Ben is a Texas native, currently living in a small town east of Dallas.  After 
 
 Mike was born and raised, and currently resides, in the garden state of New Jersey. He recently finished a long journey as a part-time student at Rutgers-Newark with a concentration in chemistry. He never wanted to join the world of research but just had a knack for the hard sciences. He put himself through school as a hair stylist in Hoboken, NJ, and is always available for hair advice.  In his free time, he likes to workout, go to the beach, snowboard, and cause trouble in NYC.  He is booking a holiday to London for early September and doing his second training in Denver so hopefully will be able to meet the whole team shortly.
 
- **[![](http://blog.stackoverflow.com/wp-content/uploads/Limoncelli-Tom.jpg)](http://everythingsysadmin.com/)**
+ **[![](https://i.stack.imgur.com/Ai4b9.jpg)](http://everythingsysadmin.com/)**
 
 **Tom Limoncelli, System Administrator, **_New York _
 
@@ -55,7 +55,7 @@ David grew up in the sunny and pink city, Toulouse (Southwest of France), and sp
 
 
 
-**[![](http://blog.stackoverflow.com/wp-content/uploads/Post-Tim.jpeg)](http://stackexchange.com/users/20808/tim-post)**
+**[![](https://i.stack.imgur.com/khDkP.jpg)](http://stackexchange.com/users/20808/tim-post)**
 
 **Tim Post, Community Manager, **_Mandaluyong, Philippines_
 

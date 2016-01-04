@@ -4,7 +4,7 @@ comments: true
 date: 2008-04-24 07:52:16+00:00
 layout: post
 redirect_from: /2008/04/logo-design-contest
-hero: http://blog.stackoverflow.com/wp-content/uploads/99-designs-logo.png
+hero: https://i.stack.imgur.com/tC02X.png
 slug: logo-design-contest
 title: Logo Design Contest
 wordpress_id: 10
@@ -26,7 +26,7 @@ Rather than try out my anemic design skills -- it's always dangerous when progra
 
 
 
-[![99 designs logo](http://blog.stackoverflow.com/wp-content/uploads/99-designs-logo.png)](http://99designs.com/contests/6774)
+[![99 designs logo](https://i.stack.imgur.com/tC02X.png)](http://99designs.com/contests/6774)
 
 
 

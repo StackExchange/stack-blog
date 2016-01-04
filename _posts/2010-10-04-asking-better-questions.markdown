@@ -21,7 +21,7 @@ While we still believe in editing and improving low-quality questions to make th
 
 Every new Stack Overflow user with <= 10 reputation is now presented with [a mandatory "How To Ask" page](http://stackoverflow.com/questions/how-to-ask) that they must click through before asking their first question. The text on this page is a heavily edited subset of Google's excellent [Tips for Getting Help](http://googlewebmastercentral.blogspot.com/2010/09/tips-for-getting-help-with-your-site.html).
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/how-to-ask-screenshot1.png)](http://stackoverflow.com/questions/how-to-ask)
+[![](https://i.stack.imgur.com/snhS0.png)](http://stackoverflow.com/questions/how-to-ask)
 
 At this point, you're probably wondering -- did Jeff _really_ just tell me that Stack Overflow **now requires every new user to [agree to a EULA](http://www.codinghorror.com/blog/2007/06/does-anyone-actually-read-software-eulas.html) before asking their first question?** Why, yes. Yes I did. Do let me explain the apparent madness.
 

@@ -54,7 +54,7 @@ What motivated a lot of this was a little scare we had about a week ago. The sin
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/star-wars-fail.jpg)](http://www.shipmentoffail.com/fails/2008/01/star-wars-fail/)
+[![](https://i.stack.imgur.com/TfgnD.jpg)](http://www.shipmentoffail.com/fails/2008/01/star-wars-fail/)
 
 
 

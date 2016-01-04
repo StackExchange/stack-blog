@@ -64,7 +64,7 @@ So rather than explaining, for the umpteenth bazillion time, why that would be a
 
 
 
-[![basic-instructions-how-to-discipline-your-employees](http://blog.stackoverflow.com/wp-content/uploads/basic-instructions-how-to-discipline-your-employees.png)](http://basicinstructions.net/basic-instructions/2009/12/13/how-to-discipline-your-employees.html)
+[![basic-instructions-how-to-discipline-your-employees](https://i.stack.imgur.com/fGLNx.png)](http://basicinstructions.net/basic-instructions/2009/12/13/how-to-discipline-your-employees.html)
 
 
 

@@ -47,7 +47,7 @@ And Microsoft software licenses aren't cheap, particularly the Windows Server li
 
 
 
-[![bizspark-logo](http://blog.stackoverflow.com/wp-content/uploads/bizspark-logo.jpg)](http://www.microsoft.com/BizSpark/)
+[![bizspark-logo](https://i.stack.imgur.com/IxDbI.jpg)](http://www.microsoft.com/BizSpark/)
 
 
 

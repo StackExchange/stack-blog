@@ -73,7 +73,7 @@ top of the line 30" LCD monitor (either [Dell 3008WFP](http://accessories.us.del
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/api-contest-prize-chair.jpg)](http://www.hermanmiller.com/Products/Mirra-Chairs)
+[![](https://i.stack.imgur.com/z3fdX.jpg)](http://www.hermanmiller.com/Products/Mirra-Chairs)
 
 
 
@@ -86,7 +86,7 @@ top of the line 30" LCD monitor (either [Dell 3008WFP](http://accessories.us.del
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/api-contest-prize-netbook.jpg)](http://www.amazon.com/s?ie=UTF8&keywords=Acer%20AS1410&tag=codinghorror-20&index=blended&link_code=qs)
+[![](https://i.stack.imgur.com/PGUj1.jpg)](http://www.amazon.com/s?ie=UTF8&keywords=Acer%20AS1410&tag=codinghorror-20&index=blended&link_code=qs)
 
 
 
@@ -105,7 +105,7 @@ Intel CULV Netbook, similar to [Acer Aspire 1410](http://www.amazon.com/s?ie=UTF
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/api-contest-prize-desk.jpg)](http://www.geekdesk.com/)
+[![](https://i.stack.imgur.com/MEjQz.jpg)](http://www.geekdesk.com/)
 
 
 

@@ -21,7 +21,7 @@ _New York_
 
 Jessica was born and raised in warm, sunny Florida, until she packed up and moved to less warm, less sunny Chicago for non-weather-related reasons (okay, it was school). She has lived in New York and worked in television for the last four years, but is excited to make the leap into a brand new industry at a great company like Stack Exchange. In her spare time, Jessica likes to run for fun, take in a baseball game (TV, radio, or in person), hang out with her four-legged friend Cash (like Johnny)…and yes, watch TV.
 
-**[![](http://blog.stackoverflow.com/wp-content/uploads/Cecconi-Marco.jpg)](http://stackoverflow.com/users/7028/sklivvz)**
+**[![](https://i.stack.imgur.com/RyEJm.jpg)](http://stackoverflow.com/users/7028/sklivvz)**
 
 **Marco Cecconi, Web Developer (Core)**
 
@@ -77,7 +77,7 @@ _London_
 
 Pawel is from Poznan, Poland and has lived in England for 7 years. He studied journalism and PR, and used to play handball (the best European sport ever!) quite seriously. He’s upgraded to playing football (the best international sport ever!), and can be found on London football pitches falling over, or screaming “Go Arsenal!” in support of the best football team in the world. You might see him on the road scooting cheerfully on his Vespa between angry Londoners stuck in traffic. He’s very excited about starting at Stack, as you can see here (CTAPT means START in Russian).
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/Ross-Bryan.jpg)](http://stackoverflow.com/users/115049/rossipedia)
+[![](https://i.stack.imgur.com/jkqni.jpg)](http://stackoverflow.com/users/115049/rossipedia)
 
 **Bryan Ross, Web Developer (Careers 2.0)**
 

@@ -51,7 +51,7 @@ To earn this badge, you'll need to post 10 chat messages in a room -- and one of
 
 Did you know that the reputation you earn on a Stack Exchange site is good for more than [additional privileges](http://blog.stackoverflow.com/2010/10/membership-has-its-privileges/) on the site? That's right. The more reputation you have in our network, the more weight you _also_ carry on [Area 51](http://area51.stackexchange.com) -- our **new Q&A; site creation zone**. The democratic, open community process defined at Area 51 is the only way to create new sites on our engine -- just like it says [in the FAQ](http://area51.stackexchange.com/faq). 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/Area-51-Banner1.png)](http://area51.stackexchange.com)
+[![](https://i.stack.imgur.com/0JYZF.png)](http://area51.stackexchange.com)
 
 The success of this community process depends, as they all do, on participation. We've also found that our Q&A; sites work best when they are led by experienced users with reputation in one or more existing Stack Exchange sites. That's why commitments by experienced users are weighted so heavily on Area 51, and why we introduced the **Precognitive** badge.
 

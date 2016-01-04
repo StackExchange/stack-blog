@@ -4,7 +4,7 @@ comments: true
 date: 2008-08-25 06:59:59+00:00
 layout: post
 redirect_from: /2008/08/stack-overflow-on-herding-code
-hero: http://blog.stackoverflow.com/wp-content/uploads/herding-code-logo.png
+hero: https://i.stack.imgur.com/MXKQ0.png
 slug: stack-overflow-on-herding-code
 title: Stack Overflow on Herding Code
 wordpress_id: 90
@@ -18,7 +18,7 @@ I was invited to participate in [the latest Herding Code podcast](http://herding
 
 
 
-[![herding-code-logo](http://blog.stackoverflow.com/wp-content/uploads/herding-code-logo.png)](http://herdingcode.com/?p=36)
+[![herding-code-logo](https://i.stack.imgur.com/MXKQ0.png)](http://herdingcode.com/?p=36)
 
 
 

@@ -43,7 +43,7 @@ We used the [OpenSTV](http://www.openstv.org/) software to calculate the results
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/openstv-stack-overflow-moderator-election-2010-screenshot.png)](http://www.openstv.org/)
+[![](https://i.stack.imgur.com/MkLpY.png)](http://www.openstv.org/)
 
 
 

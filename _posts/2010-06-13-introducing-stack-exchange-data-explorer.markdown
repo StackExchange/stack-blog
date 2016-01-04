@@ -32,7 +32,7 @@ Well, I'm pleased to announce that we now officially support **a web tool for sh
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/stack-exchange-data-explorer.png)](http://odata.stackexchange.com/)
+[![](https://i.stack.imgur.com/pdN7x.png)](http://odata.stackexchange.com/)
 
 
 

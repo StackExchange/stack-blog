@@ -32,7 +32,7 @@ But this time, in the interests of mixing things up and keeping it fresh, we're 
 
 
 
-[![crowdspring-logo](http://blog.stackoverflow.com/wp-content/uploads/crowdspring-logo.png)](http://www.crowdspring.com/)
+[![crowdspring-logo](https://i.stack.imgur.com/VQNte.png)](http://www.crowdspring.com/)
 
 
 

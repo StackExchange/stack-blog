@@ -161,4 +161,4 @@ Working on this feature from its inception has taught me a lot about the differe
 
 If you're interested in this Career 2.0 lifestyle choice, come join us! We're currently on the lookout for talented devs to join the team, and applying for it gives you a chance to test-drive the new Apply feature!
 
-[![jobs on the Stack Exchange hiring page](http://blog.stackoverflow.com/wp-content/uploads/stackexchange-jobs1.png)](http://stackexchange.com/about/hiring)
+[![jobs on the Stack Exchange hiring page](https://i.stack.imgur.com/QsQSk.png)](http://stackexchange.com/about/hiring)

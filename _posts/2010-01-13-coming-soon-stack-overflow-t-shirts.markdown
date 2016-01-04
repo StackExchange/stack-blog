@@ -23,7 +23,7 @@ Please refer to [the two meta t-shirt questions](http://meta.stackoverflow.com/q
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-recursive-t-shirt1.png)](http://meta.stackoverflow.com/questions/18382/help-design-our-stack-overflow-t-shirts/18398#18398)
+[![](https://i.stack.imgur.com/nH9la.png)](http://meta.stackoverflow.com/questions/18382/help-design-our-stack-overflow-t-shirts/18398#18398)
 
 
 

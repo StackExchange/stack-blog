@@ -57,7 +57,7 @@ The goal is to help visitors find out about the cool stuff your community is do
 
 Start by creating an original 220 x 250 image ad for a product, service, or event of interest to your community. Then head on over to the [meta site](http://blog.stackoverflow.com/2010/07/new-per-site-metas/) for that community and find the latest post tagged **community-ads** to post your submission.
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/community-promotion-ad-meta-post.png)](http://meta.gaming.stackexchange.com/questions/1892/community-promotion-ads-1h-2011)
+[![](https://i.stack.imgur.com/gpcKk.png)](http://meta.gaming.stackexchange.com/questions/1892/community-promotion-ads-1h-2011)
 
 (If your site does not yet have a community promotion post on its meta, [contact me to request one](http://stackexchange.com/users/92c1c9da-2a26-4604-a58b-ff3795af4920), or simply post a meta request asking for it to be created.)
 

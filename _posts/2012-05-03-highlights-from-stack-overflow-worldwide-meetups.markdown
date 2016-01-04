@@ -55,9 +55,9 @@ The Barcelona group made this great video of their meetup!
 ## Colombo, Sri Lanka:
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/SriLanka_meetup.png)](https://twitter.com/#!/shiranGinige/status/196942683816738816)
+[![](https://i.stack.imgur.com/OdX5S.png)](https://twitter.com/#!/shiranGinige/status/196942683816738816)
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/SriLanka_meetup2.png)](https://twitter.com/#!/Thush/status/196980479445041156)
+[![](https://i.stack.imgur.com/3kN28.png)](https://twitter.com/#!/Thush/status/196980479445041156)
 
 
 
@@ -118,9 +118,9 @@ The Croatian meetup was hosted by Infobip, an IT company based in Pula:
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/Sydney-lightning-talk1.png)](https://twitter.com/#!/samsaffron/status/197132086312845313)
+[![](https://i.stack.imgur.com/jZPiZ.png)](https://twitter.com/#!/samsaffron/status/197132086312845313)
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/Sydney_meetup.png)](https://twitter.com/#!/Meligy/status/196919801367638016)
+[![](https://i.stack.imgur.com/bSq20.png)](https://twitter.com/#!/Meligy/status/196919801367638016)
 
 
 
@@ -128,7 +128,7 @@ The Croatian meetup was hosted by Infobip, an IT company based in Pula:
 ## New York, NY, USA
 
 
-[caption id="" align="alignright" width="260" caption="Fog Creek developer Kevin Gessner talking about the magic of elasticsearch"][![](http://blog.stackoverflow.com/wp-content/uploads/IMG_2418-200x300.jpg)](http://i.imgur.com/zlB0Q.jpg)[/caption]
+[caption id="" align="alignright" width="260" caption="Fog Creek developer Kevin Gessner talking about the magic of elasticsearch"][![](https://i.stack.imgur.com/KEakx.jpg)](http://i.imgur.com/zlB0Q.jpg)[/caption]
 
 The New York City meetup took place in two parts: the first was a series of talks at [Projective Spac](http://www.projective.co/)e (a coworking space on Manhattan's Lower East Side), and the second was socializing over beers and snacks at Onieals on Grand.
 
@@ -140,7 +140,7 @@ The first session's talks provided information on cool new technologies and gave
 
 Stack Exchange developer [Matt Sherman](http://stackoverflow.com/users/70613/matt-sherman) taught us how to meet "hot singles" in our area - a.k.a what tech recruiters can learn from online dating.
 
-[caption id="attachment_11647" align="alignleft" width="300" caption="Stack Exchange developers Emmett, Nick, and Matt chatting with Trello designer Bobby Grace"][![](http://blog.stackoverflow.com/wp-content/uploads/IMG_2427-300x200.jpg)](http://i.imgur.com/T8Elb.jpg)[/caption]
+[caption id="attachment_11647" align="alignleft" width="300" caption="Stack Exchange developers Emmett, Nick, and Matt chatting with Trello designer Bobby Grace"][![](https://i.stack.imgur.com/zsZaz.jpg)](http://i.imgur.com/T8Elb.jpg)[/caption]
 
 
 We had most of the Stack Exchange core developers and Careers developers on site.
@@ -157,7 +157,7 @@ We had most of the Stack Exchange core developers and Careers developers on site
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/SOmeetup_Bangalore-246x300.png)](https://twitter.com/#!/abkolan/status/196484634891141121)
+[![](https://i.stack.imgur.com/dZDOQ.png)](https://twitter.com/#!/abkolan/status/196484634891141121)
 
 Here's the agenda our Bangalore group brainstormed on their [meetup.com page](http://www.meetup.com/stackoverflow/Bangalore-IN/654972/):
 
@@ -194,12 +194,12 @@ Stack Overflow name tags (shown on the left) helped people get to know each othe
 The Paris meetup was hosted by [DojoBoost](http://www.dojoboost.com/). Though turnout was fairly small, it seems like everyone had a good time and engaged in interesting discussions.
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/SOmeetup_Paris3.png)](https://plus.google.com/106661248019508703534/posts/itv2jPmLiYq)
+[![](https://i.stack.imgur.com/fBuHa.png)](https://plus.google.com/106661248019508703534/posts/itv2jPmLiYq)
 
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/SOmeetup_Paris2-271x300.png)](https://twitter.com/#!/amokranechentir/status/196294434063781888)
+[![](https://i.stack.imgur.com/kjZOP.png)](https://twitter.com/#!/amokranechentir/status/196294434063781888)
 
 
 

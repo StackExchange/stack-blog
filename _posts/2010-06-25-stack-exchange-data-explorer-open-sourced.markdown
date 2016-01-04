@@ -20,7 +20,7 @@ As promised, the [Stack Exchange Data Explorer](http://odata.stackexchange.com/)
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/stack-exchange-data-explorer.png)](http://odata.stackexchange.com/)
+[![](https://i.stack.imgur.com/pdN7x.png)](http://odata.stackexchange.com/)
 
 
 

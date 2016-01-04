@@ -17,7 +17,7 @@ tags:
 
 About a year and half ago [we introduced the Global Inbox](http://blog.stackoverflow.com/2010/09/new-global-inbox/), that lovely little red number our analytics tell us everybody loves.
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/inbox.png)](http://blog.stackoverflow.com/2012/05/revamped-notifications/inbox/)
+[![](https://i.stack.imgur.com/PxNO6.png)](http://blog.stackoverflow.com/2012/05/revamped-notifications/inbox/)
 
 
 
@@ -29,7 +29,7 @@ However, since day one we've had a another class of general information notifica
 
 And here's how we've always displayed those notifications:
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/Big-Orange1.png)](http://blog.stackoverflow.com/2012/05/revamped-notifications/big-orange-2/)
+[![](https://i.stack.imgur.com/4NdYb.png)](http://blog.stackoverflow.com/2012/05/revamped-notifications/big-orange-2/)
 
 
 
@@ -41,7 +41,7 @@ If that's not bad enough, notifications make you dismiss every, _single_, **_one
 
 This is obviously all out of whack, so we've completely reworked the notification system, cribbing liberally from the well received Global Inbox:
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/clicky.png)](http://blog.stackoverflow.com/2012/05/revamped-notifications/clicky/)
+[![](https://i.stack.imgur.com/d1Zc1.png)](http://blog.stackoverflow.com/2012/05/revamped-notifications/clicky/)
 
 
 

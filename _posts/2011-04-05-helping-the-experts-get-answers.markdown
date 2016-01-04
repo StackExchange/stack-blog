@@ -33,13 +33,13 @@ I've had the privilege of meeting [Tim Bray](http://en.wikipedia.org/wiki/Tim_Br
 
 So when I saw Tim [posit this question on Twitter](https://twitter.com/#!/timbray/status/53139383058051072) ...
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/tim-bray-tweet.png)](https://twitter.com/#!/timbray/status/53139383058051072)
+[![](https://i.stack.imgur.com/KqStC.png)](https://twitter.com/#!/timbray/status/53139383058051072)
 
 ... I said to myself, _hey, there's a site for that!_
 
 Since I like Tim, and I genuinely want to help him get an answer to his question, I [asked the question on his behalf](http://apple.stackexchange.com/questions/11100/getting-a-graphic-on-the-clipboard-to-disk):
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/apple-bray-post.png)](http://apple.stackexchange.com/questions/11100/getting-a-graphic-on-the-clipboard-to-disk)
+[![](https://i.stack.imgur.com/v5JMN.png)](http://apple.stackexchange.com/questions/11100/getting-a-graphic-on-the-clipboard-to-disk)
 
 Amazingly, even without any promotion, **this question was answered in six minutes flat** -- correctly! The timestamps don't lie.  (Yes, I did subsequently [retweet the question](https://twitter.com/#!/codinghorror/status/53142579574874112) to give it more attention, but my tweet was after the first answer arrived.)
 

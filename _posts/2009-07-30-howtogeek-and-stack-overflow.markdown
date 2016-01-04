@@ -23,7 +23,7 @@ Well, I'm thrilled to announce that our League has added its **first new superhe
 
 
 
-[![how-to-geek-logo](http://blog.stackoverflow.com/wp-content/uploads/how-to-geek-logo.png)](http://www.howtogeek.com/)
+[![how-to-geek-logo](https://i.stack.imgur.com/RZc0V.png)](http://www.howtogeek.com/)
 
 
 

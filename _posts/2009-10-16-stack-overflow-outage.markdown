@@ -22,7 +22,7 @@ Apparently there was a router meltdown at our ISP, [Peak Internet](http://www.pe
 
 
 
-[![melted-switch-circuits-2](http://blog.stackoverflow.com/wp-content/uploads/melted-switch-circuits-2.jpg)](http://twitpic.com/lqu5u)
+[![melted-switch-circuits-2](https://i.stack.imgur.com/cn07Z.jpg)](http://twitpic.com/lqu5u)
 
 
 

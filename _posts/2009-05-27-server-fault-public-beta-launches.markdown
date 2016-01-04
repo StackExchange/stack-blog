@@ -37,7 +37,7 @@ Hopefully everyone had a very pleasant Memorial Day holiday, and came back ready
 
 
 
-[![sysadminday](http://blog.stackoverflow.com/wp-content/uploads/sysadminday.jpg)](http://www.sysadminday.com/)
+[![sysadminday](https://i.stack.imgur.com/Y3KxH.jpg)](http://www.sysadminday.com/)
 
 
 
