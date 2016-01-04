@@ -49,7 +49,7 @@ Communities should generally know when the site is failing. Questions don't get 
 
 When users seek out a report on their performance, they turn to the analytics of [Area 51](http://area51.stackexchange.com).
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/Area-51-analytics-sample1.png)](http://area51.stackexchange.com/proposals/4059/musical-practice-and-performance)
+[![](https://i.stack.imgur.com/TSATW.png)](http://area51.stackexchange.com/proposals/4059/musical-practice-and-performance)
 
 Wow, pretty scary. Right? With big, red letters and "Worrying" stamped all over the place, the angst is understandable.
 

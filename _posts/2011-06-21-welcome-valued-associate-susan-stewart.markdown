@@ -18,7 +18,7 @@ Stack Exchange is starting to look like a Ponzi scheme. You start by creating [t
 
 That's why it was quite the _coup_ when Susan Stewart was looking for a new career path. You may know Susan as [HedgeMage](http://parenting.stackexchange.com/users/26/hedgemage), moderator of the [Parenting Stack Exchange](http://parenting.stackexchange.com):
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/HedgeMage.png)](http://parenting.stackexchange.com/users/26/hedgemage)
+[![](https://i.stack.imgur.com/ICgYU.png)](http://parenting.stackexchange.com/users/26/hedgemage)
 
 Susan is now donning the title of **Community Manager** on our Stack Exchange team. Welcome, Susan!
 

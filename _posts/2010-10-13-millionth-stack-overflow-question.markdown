@@ -23,7 +23,7 @@ This of course calls for a [celebration](http://blog.stackoverflow.com/2010/03/r
 
 There was an informal meta [Contest to predict date and time that stackoverflow will eclipse 1,000,000 questions](http://meta.stackoverflow.com/questions/54249/contest-to-predict-date-and-time-that-stackoverflow-will-eclipse-1-000-000-questi) -- once the community decides who the winner is, I think they should certainly be the proud recipient of a Stack Overflow t-shirt, stickers, and of course **the million unicorn bill.**
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/one-million-unicorn-bill-both-small.jpg)](http://fakemillions.com/catalog_new/product_info.php?products_id=58)
+[![](https://i.stack.imgur.com/z8gxk.jpg)](http://fakemillions.com/catalog_new/product_info.php?products_id=58)
 
 Since our [100,000th question](http://blog.stackoverflow.com/2009/02/happy-100000th-question/) and [first birthday](http://blog.stackoverflow.com/2009/08/one-year-of-stack-overflow/), we've skipped celebrating these things -- but the millionth question is a major milestone.
 

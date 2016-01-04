@@ -21,15 +21,15 @@ As mentioned on the [podcast](http://blog.stackoverflow.com/2009/08/podcast-64/)
 
 
 
-[![Stack Overflow sticker proof](http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-sticker-proof.png)](http://stackoverflow.com)
+[![Stack Overflow sticker proof](https://i.stack.imgur.com/u0jv9.png)](http://stackoverflow.com)
 
 
 
-[![Server Fault sticker proof](http://blog.stackoverflow.com/wp-content/uploads/serverfault-sticker-proof.png)](http://serverfault.com)
+[![Server Fault sticker proof](https://i.stack.imgur.com/Ejj5m.png)](http://serverfault.com)
 
 
 
-[![Super User sticker proof](http://blog.stackoverflow.com/wp-content/uploads/superuser-sticker-proof.png)](http://superuser.com)
+[![Super User sticker proof](https://i.stack.imgur.com/8uqKL.png)](http://superuser.com)
 
 
 
@@ -37,7 +37,7 @@ And because we fully support [members of our League of (web) Justice](http://blo
 
 
 
-[![How-To Geek sticker proof](http://blog.stackoverflow.com/wp-content/uploads/howtogeek-sticker-proof.png)](http://www.howtogeek.com)
+[![How-To Geek sticker proof](https://i.stack.imgur.com/lsxZu.png)](http://www.howtogeek.com)
 
 
 

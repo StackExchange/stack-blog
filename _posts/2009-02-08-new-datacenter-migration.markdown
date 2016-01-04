@@ -38,7 +38,7 @@ PEAK internet impressed us with their detailed technical responses to our reques
 
 
 
-[![peak-internet-logo](http://blog.stackoverflow.com/wp-content/uploads/peak-internet-logo.png)](http://www.peakinternet.com/business/hosting/info.php)
+[![peak-internet-logo](https://i.stack.imgur.com/ufa45.png)](http://www.peakinternet.com/business/hosting/info.php)
 
 
 

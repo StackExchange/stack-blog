@@ -41,7 +41,7 @@ Joe is a native of Cleveland, OH who relocated to Brooklyn just over two years a
 
 
 
-**![](http://blog.stackoverflow.com/wp-content/uploads/Murawski-Steve1-e1354827547550.jpg)[Steven Murawski](http://stackoverflow.com/users/1233/steven-murawski), System Administrator**
+**![](https://i.stack.imgur.com/YHs1s.jpg)[Steven Murawski](http://stackoverflow.com/users/1233/steven-murawski), System Administrator**
 
 _Milwaukee****_
 
@@ -59,7 +59,7 @@ Hailing from the great Northern state of Michigan, Peter is a Michigan State gra
 
 
 
-**![](http://blog.stackoverflow.com/wp-content/uploads/Tunnell-Jeremy1-e1354827948513.jpg)[Jeremy Tunnell](http://ux.stackexchange.com/users/20755/jeremy-tunnell), Product Manager**
+**![](https://i.stack.imgur.com/Nt1NR.jpg)[Jeremy Tunnell](http://ux.stackexchange.com/users/20755/jeremy-tunnell), Product Manager**
 
 _Nashville_
 

@@ -30,7 +30,7 @@ Nowhere is this more apparent than Tag Sets, which [we originally rolled out las
 
 We rolled up our sleeves and built an all new, _much_ friendlier interface. We also renamed it to something that's hopefully a bit clearer: **filters**.
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/stack-exchange-tag-filters.png)](http://stackexchange.com/filters)
+[![](https://i.stack.imgur.com/Xj7k7.png)](http://stackexchange.com/filters)
 
 There are also two new built-in, default filters available for every network user:
 

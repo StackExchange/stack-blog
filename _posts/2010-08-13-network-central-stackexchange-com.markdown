@@ -69,7 +69,7 @@ And that's not all. We've also rolled out something that's been requested for a 
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/reputation-league-weekly.png)](http://stackexchange.com/leagues)
+[![](https://i.stack.imgur.com/dgvM0.png)](http://stackexchange.com/leagues)
 
 
 

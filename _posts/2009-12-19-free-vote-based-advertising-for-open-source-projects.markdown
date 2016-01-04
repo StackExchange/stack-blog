@@ -22,7 +22,7 @@ Some say [Stack Overflow is now the largest programming site on the internet](ht
 
 
 
-[![daily-pageviews-alexa-graph](http://blog.stackoverflow.com/wp-content/uploads/daily-pageviews-alexa-graph.png)](http://www.alexa.com/siteinfo/stackoverflow.com)
+[![daily-pageviews-alexa-graph](https://i.stack.imgur.com/tPcJo.png)](http://www.alexa.com/siteinfo/stackoverflow.com)
 
 
 

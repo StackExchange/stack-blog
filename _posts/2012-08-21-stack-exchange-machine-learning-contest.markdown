@@ -16,7 +16,7 @@ tags:
 
 Over the last 4 years we've built up quite a bevy of moderation tools here at Stack Exchange.  We've got closing, editing, deleting, flags of all sorts, voting, commenting, review queues, and more.
 
-[caption id="attachment_12128" align="aligncenter" width="450"][![](http://blog.stackoverflow.com/wp-content/uploads/fake-mod-tools2.png)](http://blog.stackoverflow.com/2012/08/stack-exchange-machine-learning-contest/fake-mod-tools-3/) Plus our super secret mod tools.[/caption]
+[caption id="attachment_12128" align="aligncenter" width="450"][![](https://i.stack.imgur.com/WanVT.png)](http://blog.stackoverflow.com/2012/08/stack-exchange-machine-learning-contest/fake-mod-tools-3/) Plus our super secret mod tools.[/caption]
 
 These all work great, but they all require action **after a post is made**. This is a lot of work for the community, and not particularly friendly toward those posting, particularly new users. In a perfect world, we'd be able to offer specific, targetted guidance for authors whose posts were likely to be shot down, _before_ they ever showed up on the site, and without requiring as much up-front effort from our community.
 
@@ -29,7 +29,7 @@ We've already expended some effort on this front with [some basic tests that rej
 We're running a machine learning contest on [Kaggle](https://www.kaggle.com/) to find an algorithm that predicts whether (and for what reason) a question will be closed.
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/kaggle-logo-w-tm1.png)](https://www.kaggle.com/c/predict-closed-questions-on-stack-overflow/)
+[![](https://i.stack.imgur.com/vt6MP.png)](https://www.kaggle.com/c/predict-closed-questions-on-stack-overflow/)
 
 
 

@@ -36,7 +36,7 @@ What is [this mythical third place](http://blog.stackoverflow.com/2010/04/do-tri
 
 Because you not only need a place to have **intelligent Q&A; about managing your finances**, you need a place to talk _about_ the place, and a less formal "third place" to collaborate in real time with the fellow members of your community.
 
-[![analog chat room](http://blog.stackoverflow.com/wp-content/uploads/analog-chat-room.jpg)](http://www.flickr.com/photos/lostinbrooklyn/4547100496)
+[![analog chat room](https://i.stack.imgur.com/XMpj7.jpg)](http://www.flickr.com/photos/lostinbrooklyn/4547100496)
 
 This is a **permanent public beta**, meaning chat is now live on _one_ site in our network ... forever. We plan to roll out out chat on more sites in about 4 weeks, assuming the public beta goes reasonably well.
 

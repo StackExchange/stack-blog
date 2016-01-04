@@ -46,7 +46,7 @@ We generally relied on the community to teach itself. New users would learn from
 
 I'm pleased to announce **we now offer a full set of wiki pages documenting user privileges** -- just navigate to [/privileges](http://stackoverflow.com/privileges) on any site and start browsing.
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/privileges-your-reputation.png)](http://stackoverflow.com/privileges)
+[![](https://i.stack.imgur.com/6ROeP.png)](http://stackoverflow.com/privileges)
 
 You'll see a complete list of privileges you can earn through reputation, along with a percentage of how far you've gotten toward each privilege level. Click through to see detail about a particular privilege and how it works.
 

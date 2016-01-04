@@ -43,7 +43,7 @@ While it is possible to manually replicate the UserVoice feature/bug leaderboard
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/meta-bugs-reqs-tabs.png)](http://meta.stackoverflow.com)
+[![](https://i.stack.imgur.com/sgT6L.png)](http://meta.stackoverflow.com)
 
 
 

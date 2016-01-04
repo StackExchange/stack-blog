@@ -50,7 +50,7 @@ We eventually decided to go with [Dynamic Network Services](http://dynamicnetwor
 
 
 
-[![dynect-uptime](http://blog.stackoverflow.com/wp-content/uploads/dynect-uptime.png)](http://dynamicnetworkservices.com/)
+[![dynect-uptime](https://i.stack.imgur.com/hh9UG.png)](http://dynamicnetworkservices.com/)
 
 
 

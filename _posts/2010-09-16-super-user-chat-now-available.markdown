@@ -19,7 +19,7 @@ As promised, we are slowly rolling out the [third place](http://blog.stackoverfl
 
 In addition to `chat.meta.stackoverflow` and `chat.serverfault` we just brought up **[chat.superuser.com](http://chat.superuser.com)**:
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/super-user-room-card-xxl.png)](http://chat.superuser.com)
+[![](https://i.stack.imgur.com/wzy2W.png)](http://chat.superuser.com)
 
 It's only appropriate that, after [adding per-site metas](http://blog.stackoverflow.com/2010/07/new-per-site-metas/), we would also add chat to complete three out of four sites in [the original "trilogy"](http://blog.stackoverflow.com/2009/05/the-stack-overflow-trilogy/).
 

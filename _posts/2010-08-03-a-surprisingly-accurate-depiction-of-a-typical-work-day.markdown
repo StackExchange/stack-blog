@@ -14,7 +14,7 @@ tags:
 ---
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/unicorns-make-happies-by-jollyjack-2x4.png)](http://jollyjack.deviantart.com/art/Unicorns-make-happies-172917505)
+[![](https://i.stack.imgur.com/fnIol.png)](http://jollyjack.deviantart.com/art/Unicorns-make-happies-172917505)
 
 
 

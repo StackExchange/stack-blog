@@ -30,7 +30,7 @@ Sam, in addition to being an avid participant on Stack Overflow and Meta Stack O
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/media-browser.jpg)](http://www.mediabrowser.tv/)
+[![](https://i.stack.imgur.com/xRL5L.jpg)](http://www.mediabrowser.tv/)
 
 
 
@@ -38,7 +38,7 @@ In supporting the community around Media Browser, Sam created a web-based custom
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/community-tracker.png)](http://meta.community-tracker.com/)
+[![](https://i.stack.imgur.com/spfvF.png)](http://meta.community-tracker.com/)
 
 
 

@@ -16,7 +16,7 @@ tags:
 
 I'm pleased to announce that [Stack Exchange is now a major supporting partner of MathJax](http://www.mathjax.org/sponsors/).
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/mathjax-logo.png)](http://www.mathjax.org)
+[![](https://i.stack.imgur.com/cgNag.png)](http://www.mathjax.org)
 
 MathJax is, of course, an open source JavaScript display engine for mathematics that works in all modern browsers. It's a joint project of the American Mathematical Society, Design Science, Inc., and the Society for Industrial and Applied Mathematics.
 
@@ -53,7 +53,7 @@ Q&A; for theoretical computer scientists and researchers in related fields
 
 It turns out math is kind of ... important ... to a lot of the hard science communities. _Who knew?_
 
-[![Purity](http://blog.stackoverflow.com/wp-content/uploads/xkcd-fields-arranged-by-purity.png)](http://xkcd.com/435/)
+[![Purity](https://i.stack.imgur.com/m09Pt.png)](http://xkcd.com/435/)
 
 We were thrilled to be able to apply some of our [VC unicorn dollars](http://blog.stackoverflow.com/2011/03/a-new-name-for-stack-overflow-with-surprise-ending/) toward making MathJax a great open source tool for rendering math in web browsers -- **not just on our communities, but across the whole of the internet**. That's our fundamental mission: to make the internet better for _everyone_.
 

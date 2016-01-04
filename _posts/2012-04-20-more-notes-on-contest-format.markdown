@@ -53,7 +53,7 @@ We now have a few variations on this contest format.****
 Skyrim vs. MW3 successfully engaged the Gaming community, but it hinged on a manufactured rivalry that didn’t make much sense. Because of that, we’re now using this form of contest when there is a pre-existing event hinged on a showdown scenario. For example, Marvel Comics’ blockbuster event for 2012 is the mini-series[ Avengers vs. X-Men](http://marvel.com/comic_books/issue/41188/avengers_vs_x-men_2012_1). Just as the series pits two premier super teams in battle, the current[ Avengers vs. X-Men contest](http://avx.stackshowdown.com/) running on SciFi goes right along with that by pitting our[ Avengers questions](http://scifi.stackexchange.com/questions/tagged/avengers) against our[ X-Men questions](http://scifi.stackexchange.com/questions/tagged/x-men) in a battle for views.
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/avx-300x121.png)](http://blog.stackoverflow.com/2012/04/more-notes-on-contest-format/avx/)
+[![](https://i.stack.imgur.com/nr8VU.png)](http://blog.stackoverflow.com/2012/04/more-notes-on-contest-format/avx/)
 
 
 
@@ -83,7 +83,7 @@ The Hot Topics contest and variations thereof are generally successful in engagi
 
 
 
-[![Mass Effect 3 Mission 6](http://blog.stackoverflow.com/wp-content/uploads/mission6-300x200.png)](http://blog.stackoverflow.com/2012/04/more-notes-on-contest-format/mission6/)
+[![Mass Effect 3 Mission 6](https://i.stack.imgur.com/Iwz4D.png)](http://blog.stackoverflow.com/2012/04/more-notes-on-contest-format/mission6/)
 
 
 To rectify the shortcomings of Hot Topics, we’ve come up with a new kind of promotion: the Mission. Here’s how it works:****

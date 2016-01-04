@@ -26,11 +26,11 @@ These tags are built by the community, in what is commonly known as a [folksonom
 
 [Sam's](http://blog.stackoverflow.com/2010/06/welcome-stack-overflow-valued-associate-00008/) been working hard on this for the last two weeks, and we now have a fairly reasonable approximation of a community driven tag synonym system in place. Just check **the info tab on any tag** -- like, say, the [JavaScript tag](http://stackoverflow.com/questions/tagged?sort=info&tagnames=javascript).
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/tag-info-tab1.png)](http://stackoverflow.com/questions/tagged?sort=info&tagnames=javascript)
+[![](https://i.stack.imgur.com/l1b8N.png)](http://stackoverflow.com/questions/tagged?sort=info&tagnames=javascript)
 
 On the info tab, you'll find two sections of information about the javascript tag: an editable **user-contributed wiki** at the top, and a list of **tag synonyms** at the bottom.
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/tag-info-tab-detail1.png)](http://stackoverflow.com/questions/tagged?sort=info&tagnames=javascript)
+[![](https://i.stack.imgur.com/d3E0E.png)](http://stackoverflow.com/questions/tagged?sort=info&tagnames=javascript)
 
 As you can see, our fellow users have already contributed a nice little wiki for the [javascript] tag already. Be advised that the Tag Wiki is a somewhat experimental feature at the moment. The intention is explained in the default help text on any blank tag wiki:
 
@@ -53,7 +53,7 @@ With the help of Stack Overflow moderator [Bill the Lizard](http://stackoverflow
 
 If you click the **[see all tag synonyms »](http://stackoverflow.com/tags/synonyms)** link from any specific tag page, you can browse all current and suggested tag synonyms, across _all_ tags. If you're a moderator, you should have this page bookmarked. 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/browse-all-tag-synonyms.png)](http://stackoverflow.com/tags/synonyms)
+[![](https://i.stack.imgur.com/H680N.png)](http://stackoverflow.com/tags/synonyms)
 
 It is our hope that these tag synonym pages are fairly self-explanatory, at least to the higher reputation users that they are designed for. And if not, we'd like to make it so.
 

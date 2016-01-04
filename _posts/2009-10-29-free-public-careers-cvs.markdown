@@ -18,7 +18,7 @@ We unveiled a milestone in [Stack Overflow Careers](http://careers.stackoverflow
 
 
 
-[![Stack Overflow Careers](http://blog.stackoverflow.com/wp-content/uploads/stack-overflow-careers.png)](http://careers.stackoverflow.com/)
+[![Stack Overflow Careers](https://i.stack.imgur.com/4Q6kH.png)](http://careers.stackoverflow.com/)
 
 
 

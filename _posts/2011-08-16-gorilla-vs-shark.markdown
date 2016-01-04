@@ -16,7 +16,7 @@ tags:
 
 Who would win in a fight between a **Gorilla** and a **Shark**?
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/gorilla-vs-shark.png)](http://www.topatoco.com/merchant.mvc?Screen=PROD&Store_Code=TO&Product_Code=RB-HIGHFIVE&Category_Code=RB)
+[![](https://i.stack.imgur.com/5z01U.png)](http://www.topatoco.com/merchant.mvc?Screen=PROD&Store_Code=TO&Product_Code=RB-HIGHFIVE&Category_Code=RB)
 
 OK, maybe you're thinking that's a ridiculous question. Perhaps it is. But various forms of this question get asked _all the time_. Consider [this now-ancient Stack Overflow question](http://webcache.googleusercontent.com/search?q=cache:q-X6oyt_KVsJ:stackoverflow.com/questions/150043/python-v-perl+%22Okay,+so+I'm+finally+making+the+jump+into+scripting+languages+and+I+have+decided+to+focus+on+either+Python+or+Perl.%22&cd=1&hl=en&ct=clnk&gl=us&source=www.google.com) titled **Python v. Perl**:
 

@@ -25,7 +25,7 @@ Matt was born and raised in New Jersey, USA. He began his career at a small star
 
 
 
-**[![](http://blog.stackoverflow.com/wp-content/uploads/Collins-Ben.jpg)](http://stackoverflow.com/users/3279/ben-collins)**
+**[![](https://i.stack.imgur.com/z2bcQ.jpg)](http://stackoverflow.com/users/3279/ben-collins)**
 
 
 
@@ -41,7 +41,7 @@ Ben is a Texas native, currently living in a small town east of Dallas.  After 
 
 Mike was born and raised, and currently resides, in the garden state of New Jersey. He recently finished a long journey as a part-time student at Rutgers-Newark with a concentration in chemistry. He never wanted to join the world of research but just had a knack for the hard sciences. He put himself through school as a hair stylist in Hoboken, NJ, and is always available for hair advice.  In his free time, he likes to workout, go to the beach, snowboard, and cause trouble in NYC.  He is booking a holiday to London for early September and doing his second training in Denver so hopefully will be able to meet the whole team shortly.
 
- **[![](http://blog.stackoverflow.com/wp-content/uploads/Limoncelli-Tom.jpg)](http://everythingsysadmin.com/)**
+ **[![](https://i.stack.imgur.com/Ai4b9.jpg)](http://everythingsysadmin.com/)**
 
 **Tom Limoncelli, System Administrator, **_New York _
 
@@ -49,13 +49,13 @@ Tom has traveled around the world but has always lived in the NYC area.  He gre
 
 
 
-******![](/images/wordpress/Lislet-David.jpg)David Lislet, Sales Representative (Careers 2.0), **_London_
+**![](/images/wordpress/Lislet-David.jpg)David Lislet, Sales Representative (Careers 2.0), **_London_
 
 David grew up in the sunny and pink city, Toulouse (Southwest of France), and spent his teenage years on a tiny South Pacific island called Wallis (Need a map?? All right - it is close to Australia & New Caledonia). He traveled all around the world and started his career in Beijing, where he became a chopstick master. He enjoys traveling, tasting all kind of food (scorpions in China, kind of crunchy), photography, sketching, and listening old school hip-hop, jazz, and the band Ratatat. An avid sports guy, he played Rugby in New Zealand (not against the All Blacks) and recently joined a Crossfit center in London.
 
 
 
-**[![](http://blog.stackoverflow.com/wp-content/uploads/Post-Tim.jpeg)](http://stackexchange.com/users/20808/tim-post)**
+**[![](https://i.stack.imgur.com/khDkP.jpg)](http://stackexchange.com/users/20808/tim-post)**
 
 **Tim Post, Community Manager, **_Mandaluyong, Philippines_
 

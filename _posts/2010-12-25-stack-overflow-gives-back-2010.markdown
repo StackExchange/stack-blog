@@ -4,7 +4,7 @@ comments: true
 date: 2010-12-25 07:38:58+00:00
 layout: post
 redirect_from: /2010/12/stack-overflow-gives-back-2010
-hero: http://blog.stackoverflow.com/wp-content/uploads/geek-wreath.jpg
+hero: https://i.stack.imgur.com/eOeIK.jpg
 slug: stack-overflow-gives-back-2010
 title: Stack Overflow Gives Back 2010
 wordpress_id: 6526
@@ -19,7 +19,7 @@ In 2010, we incorporated as Stack Overflow Internet Services with [venture capit
 
 My, how time flies when you're having fun!
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/geek-wreath.jpg)](http://www.reddit.com/r/geek/comments/eh47w/my_good_friend_made_this_wreath_for_her_it/)
+[![](https://i.stack.imgur.com/eOeIK.jpg)](http://www.reddit.com/r/geek/comments/eh47w/my_good_friend_made_this_wreath_for_her_it/)
 
 But the community is far bigger than us. Our fellow community moderators generously contribute their time, passion, and leadership to make their sites _worth_ visiting and participating in. We now have **over a hundred and thirty community moderators** across 38 sites. Can you believe it?
 

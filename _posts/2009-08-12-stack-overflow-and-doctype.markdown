@@ -29,7 +29,7 @@ Well, I'm pleased to announce we have recruited another superhero into our leagu
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/doctype-logo.jpg)](http://doctype.com)
+[![](https://i.stack.imgur.com/aHYF7.jpg)](http://doctype.com)
 
 
 

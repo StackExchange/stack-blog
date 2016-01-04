@@ -55,7 +55,7 @@ That's why I recommend considering these gray area questions in the context of t
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/pee-wee-biker-bar.jpg)](http://www.youtube.com/watch?v=UVKsd8z6scw)
+[![](https://i.stack.imgur.com/Mud0R.jpg)](http://www.youtube.com/watch?v=UVKsd8z6scw)
 
 
 

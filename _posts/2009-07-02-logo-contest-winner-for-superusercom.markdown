@@ -23,7 +23,7 @@ The [voting results](http://blog.stackoverflow.com/2009/06/superuser-com-logo-vo
 
 
 
-[![superuser-voting-results](http://blog.stackoverflow.com/wp-content/uploads/superuser-voting-results.png)](http://www.pollsb.com/polls/p2131264-logo_works_best_superuser_com#results)
+[![superuser-voting-results](https://i.stack.imgur.com/s9yuj.png)](http://www.pollsb.com/polls/p2131264-logo_works_best_superuser_com#results)
 
 
 

@@ -24,7 +24,7 @@ Please bear in mind that **the first version of the API will be read-only by des
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/which-api-did-they-use.png)](http://geekandpoke.typepad.com/geekandpoke/2008/05/the-new-social.html)
+[![](https://i.stack.imgur.com/UYyR6.png)](http://geekandpoke.typepad.com/geekandpoke/2008/05/the-new-social.html)
 
 
 

@@ -31,7 +31,7 @@ The response from that event was so positive, we decided to extend that to the _
 ## [Welcome to _Winter Bash 2012_!](http://winterba.sh/)
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/blog-image-1.png)](http://winterba.sh/)
+[![](https://i.stack.imgur.com/f2mXh.png)](http://winterba.sh/)
 
 
 

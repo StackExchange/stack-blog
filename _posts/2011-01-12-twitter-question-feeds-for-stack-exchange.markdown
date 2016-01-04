@@ -341,7 +341,7 @@ With that in mind, we've set up the following Twitter accounts to publish the mo
 
 As of June 2011, the authoritative list of sites and Twitter accounts will always be at the official **[stackexchange.com/sites](http://stackexchange.com/sites)** directory. Just look for the little Twitter icons next to each site.
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/sites-directory-twitter-accounts.png)](http://stackexchange.com/sites)
+[![](https://i.stack.imgur.com/KwPup.png)](http://stackexchange.com/sites)
 
 Although it's always possible to subscribe to a site's questions  through the copious RSS feeds we provide on every page -- and [also via email](http://blog.stackoverflow.com/2011/01/tag-favorites-and-tag-subscriptions/) -- **I guess you can consider Twitter "RSS for the casual internet user"**. We'll try to feature the Twitter accounts on each site in some unobtrusive way, so people have another way to follow the stream of Q&A; from a given site topic without being overwhelmed by it.
 

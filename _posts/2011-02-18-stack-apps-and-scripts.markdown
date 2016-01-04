@@ -17,7 +17,7 @@ tags:
 
 As part of our ongoing improvement to [our 1.1 API release](http://blog.stackoverflow.com/2011/02/stack-exchange-api-1-1-and-improved-app-gallery/), and the site that supports our API, [stackapps.com](http://stackapps.com), **we've extended Stack Apps to support the listing of browser scripts**.
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/stackapps-scripts.png)](http://stackapps.com/?tab=scripts)
+[![](https://i.stack.imgur.com/toGoR.png)](http://stackapps.com/?tab=scripts)
 
 Since Stack Overflow began, there have been tons of nifty browser scripts people have created to enhance their experience -- and they usually work on [any site in our network](http://stackexchange.com/sites). In fact, you may remember that [the favorite / ignored tags feature](http://blog.stackoverflow.com/2008/10/expressing-your-tag-preferences/) now built into every site originally started life as [a user script listed on userscripts.org](http://userscripts.org/tags/stackoverflow) by Jonathan Buchanan aka [insin](http://stackoverflow.com/users/6760/insin).
 

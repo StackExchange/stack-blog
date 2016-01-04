@@ -35,7 +35,7 @@ I covered [Markdown, One Year Later](http://blog.stackoverflow.com/2009/10/markd
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/openid-logo-big.png)](http://openid.net/)
+[![](https://i.stack.imgur.com/6C2aN.png)](http://openid.net/)
 
 
 

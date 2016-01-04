@@ -37,7 +37,7 @@ This can be shortened to:
 
 A shortened URL can be copied from the "share" link underneath each question:
 
-[![short permalink to this question](http://blog.stackoverflow.com/wp-content/uploads/Share-link.png)](http://diy.stackexchange.com/q/970)
+[![short permalink to this question](https://i.stack.imgur.com/zHwTF.png)](http://diy.stackexchange.com/q/970)
 
 As you can see, clicking "share" also gives you the option to share on Google+, Facebook, or Twitter.  
 

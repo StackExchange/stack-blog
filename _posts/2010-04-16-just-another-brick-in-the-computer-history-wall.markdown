@@ -18,7 +18,7 @@ Stack Overflow is planning to buy a brick in the [Computer History Museum wall](
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/computer-history-museum.jpg)](http://www.computerhistory.org/)
+[![](https://i.stack.imgur.com/tdHuw.jpg)](http://www.computerhistory.org/)
 
 
 

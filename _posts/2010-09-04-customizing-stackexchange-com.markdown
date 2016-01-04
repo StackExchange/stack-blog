@@ -16,7 +16,7 @@ tags:
 
 Remember our [shiny new stackexchange.com network hub](http://blog.stackoverflow.com/2010/08/network-central-stackexchange-com/)? Sure you do, it's right there **in the upper left hand corner of every page**. Indeed, that's how you know you're on a gen-u-winetm Stack Exchange network website.
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/stackexchange-genuine-example11.png)](http://stackexchange.com)
+[![](https://i.stack.imgur.com/c4hfW.png)](http://stackexchange.com)
 
 This hub exists for a few reasons:
 
@@ -41,11 +41,11 @@ Automatic logins are necessary to support our most requested stackexchange.com f
 
 Also, we now directly link to the [reputation leagues](http://stackexchange.com/leagues) from the `/users` page on each individual site, so it's a bit more discoverable. And we finally provide **type-to-search** so you can actually _find_ yourself (or your friends) in any given site reputation league:
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/se-type-to-search.png)](http://stackexchange.com/leagues)
+[![](https://i.stack.imgur.com/0nYE0.png)](http://stackexchange.com/leagues)
 
 You can also permalink directly to any user in any league. Simply mouse over the user and the link will appear, like so:
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/se-user-league-permalink.png)](http://stackexchange.com/leagues/11/year/cooking/2010-01-01/1259#1259)
+[![](https://i.stack.imgur.com/ffNci.png)](http://stackexchange.com/leagues/11/year/cooking/2010-01-01/1259#1259)
 
 `http://stackexchange.com/leagues/11/year/cooking/2010-01-01/1259#1259`
 
@@ -54,7 +54,7 @@ If you want to share how well you're doing (or another user is doing), this link
 
 Also, we've added a few more stats to the reputation league sidebar. First, we highlight the **best performing new users in the specified league interval**.
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/se-top-new-user.png)](http://stackexchange.com/leagues/3/year/superuser)
+[![](https://i.stack.imgur.com/Q485u.png)](http://stackexchange.com/leagues/3/year/superuser)
 
 Site moderators, take note: new users who find your community and generate significant reputation from their peers are the lifeblood of any fledgling Q&A; community, and should be treated as such. And if you don't have any new users entering your community and producing a modicum of reputation... well, that's something to be worried about.
 

@@ -29,7 +29,7 @@ Michael spent some time doing a post-mortem, and discovered that the problem was
 
 
 
-Guess what we woke up this morning (well, you don't really "wake up" at 3 AM, unless you're a [vampire](http://blog.stackoverflow.com/wp-content/uploads/jon-skeet-fluffy-bunny-vampire.jpg), but you know what I mean) to find?
+Guess what we woke up this morning (well, you don't really "wake up" at 3 AM, unless you're a [vampire](https://i.stack.imgur.com/KIpa2.jpg), but you know what I mean) to find?
 
 
 

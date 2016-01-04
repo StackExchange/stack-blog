@@ -24,7 +24,7 @@ If you've been following our new Stack Exchange 2.0 private and public betas, yo
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/beta-child-meta-logos.png)](http://area51.stackexchange.com/proposals/1288/food-and-cooking)
+[![](https://i.stack.imgur.com/htod0.png)](http://area51.stackexchange.com/proposals/1288/food-and-cooking)
 
 
 
@@ -102,7 +102,7 @@ In fact, we're so happy with the way these per-site metas are working on the Sta
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/meta-su-crop1.png)](http://meta.superuser.com)
+[![](https://i.stack.imgur.com/PsOAm.png)](http://meta.superuser.com)
 
 
 
@@ -114,7 +114,7 @@ In fact, we're so happy with the way these per-site metas are working on the Sta
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/meta-sf-crop1.png)](http://meta.serverfault.com)
+[![](https://i.stack.imgur.com/jfhEG.png)](http://meta.serverfault.com)
 
 
 

@@ -15,7 +15,7 @@ tags:
 
 It's been a while since we've done something arbitrary, complicated, and confusing, so today I'm happy to announce that **the name of the company has been changed, effective immediately, to Stack Exchange Inc**!
 
-[![Stack Exchange Logo](http://blog.stackoverflow.com/wp-content/uploads/StackExchangeLogo1.png)](http://stackexchange.com/)
+[![Stack Exchange Logo](https://i.stack.imgur.com/NnwLh.png)](http://stackexchange.com/)
 
 There's a method behind this madness, of course: we want to emphasize the importance of [the 45 sites in our network](http://stackexchange.com/sites), which has long since stopped being about programmers:
 

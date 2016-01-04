@@ -59,7 +59,7 @@ So I did. Which took a solid 15 minutes of my time at least. After doing this I 
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/science-it-works-bitches.png)](http://xkcd.com/54/)
+[![](https://i.stack.imgur.com/B6bLu.png)](http://xkcd.com/54/)
 
 
 

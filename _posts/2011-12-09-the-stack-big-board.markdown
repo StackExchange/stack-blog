@@ -4,7 +4,7 @@ comments: true
 date: 2011-12-09 14:58:41+00:00
 layout: post
 redirect_from: /2011/12/the-stack-big-board
-hero: http://blog.stackoverflow.com/wp-content/uploads/Big-Board-High-1024x682.jpg
+hero: https://i.stack.imgur.com/63MOh.jpg
 slug: the-stack-big-board
 title: The Stack Big Board (with Video!)
 wordpress_id: 10366
@@ -13,7 +13,7 @@ tags:
 - stackexchange
 ---
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/Big-Board-High-1024x682.jpg)](http://blog.stackoverflow.com/2011/12/the-stack-big-board/big-board-high/)
+[![](https://i.stack.imgur.com/63MOh.jpg)](http://blog.stackoverflow.com/2011/12/the-stack-big-board/big-board-high/)
 
 Anyone who has seen pictures or video from our office in the last few months has probably noticed a small addition in the form of five large screens mounted in the middle of it.  The screens came about when we were first hiring CHAOS and realized that we wanted an easy way to visualize and display relevant information (or play video games) during the day.  The first iterations where a bit, um, crazier (as evidenced by [this rendering](http://blog.stackoverflow.com/wp-content/uploads/CHAOS-Desks.png) that we cooked up).  Eventually though, we decided that we needed something that fit in our 8' ceilings and could be seen by everyone.
 

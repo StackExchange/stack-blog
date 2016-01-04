@@ -22,7 +22,7 @@ One of the [more popular Stack Exchange beta sites](http://stackexchange.com/sit
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/programmers-stackexchange1.png)](http://programmers.stackexchange.com)
+[![](https://i.stack.imgur.com/IZLAR.png)](http://programmers.stackexchange.com)
 
 Now watch closely as I read your mind.
 

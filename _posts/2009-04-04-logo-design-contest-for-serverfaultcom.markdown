@@ -25,7 +25,7 @@ We have [a serverfault.com logo design contest at 99 designs](http://99designs.c
 
 
 
-[![99 designs logo](http://blog.stackoverflow.com/wp-content/uploads/99-designs-logo.png)](http://99designs.com/contests/20088)
+[![99 designs logo](https://i.stack.imgur.com/tC02X.png)](http://99designs.com/contests/20088)
 
 
 

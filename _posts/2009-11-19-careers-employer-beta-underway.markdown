@@ -19,7 +19,7 @@ The CV side of [careers.stackoverflow.com](http://careers.stackoverflow.com/) ha
 
 
 
-[![job-hunt-pixel-art](http://blog.stackoverflow.com/wp-content/uploads/job-hunt-pixel-art.png)](http://www.flickr.com/photos/danimations/3458328561/)
+[![job-hunt-pixel-art](https://i.stack.imgur.com/BJyd6.png)](http://www.flickr.com/photos/danimations/3458328561/)
 
 
 
@@ -86,7 +86,7 @@ To everyone who has signed up for careers, thank you. We won't let you down. Our
 
 
 
-[![the-cubes](http://blog.stackoverflow.com/wp-content/uploads/the-cubes.jpg)](http://www.cubefigures.com/home.html)
+[![the-cubes](https://i.stack.imgur.com/Drngm.jpg)](http://www.cubefigures.com/home.html)
 
 
 
@@ -94,7 +94,7 @@ To everyone who has signed up for careers, thank you. We won't let you down. Our
 
 
 
-[![evel-knievel](http://blog.stackoverflow.com/wp-content/uploads/evel-knievel.jpg)](http://en.wikipedia.org/wiki/Evel_Knievel)
+[![evel-knievel](https://i.stack.imgur.com/UBWXt.jpg)](http://en.wikipedia.org/wiki/Evel_Knievel)
 
 
 

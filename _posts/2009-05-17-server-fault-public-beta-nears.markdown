@@ -45,7 +45,7 @@ I was encouraged to see that we are attracting some fairly heavyweight members o
 
 
 
-[![april-fools-day-rfcs](http://blog.stackoverflow.com/wp-content/uploads/april-fools-day-rfcs.png)](http://www.amazon.com/o/ASIN/1573980420/tomontime-20)
+[![april-fools-day-rfcs](https://i.stack.imgur.com/gdw16.png)](http://www.amazon.com/o/ASIN/1573980420/tomontime-20)
 
 
 

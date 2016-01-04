@@ -77,7 +77,7 @@ So it's time to celebrate.
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/the-internet-vs-research-paper.png)](http://www.ashersarlin.com/archives/2004/09/honestly_who_co.php)
+[![](https://i.stack.imgur.com/zfxdp.png)](http://www.ashersarlin.com/archives/2004/09/honestly_who_co.php)
 
 
 

@@ -40,4 +40,4 @@ Hope to see you there!
 
 **Let us know you're coming - [RSVP by December 1](http://careers.stackoverflow.com/launch)**
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/de-Stack-Overflow-Careers-728x902.png)](http://careers.stackoverflow.com/launch)
+[![](https://i.stack.imgur.com/yqXJH.png)](http://careers.stackoverflow.com/launch)

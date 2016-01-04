@@ -4,7 +4,7 @@ comments: true
 date: 2009-01-25 16:18:24+00:00
 layout: post
 redirect_from: /2009/01/new-stack-overflow-servers-ready
-hero: http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-servers-shipping-ready.jpg
+hero: https://i.stack.imgur.com/HPNwv.jpg
 slug: new-stack-overflow-servers-ready
 title: New Stack Overflow Servers Ready
 wordpress_id: 493
@@ -18,7 +18,7 @@ After many trials and tribulations, the [new Stack Overflow servers](http://blog
 
 
 
-[![stackoverflow-servers-shipping-ready](http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-servers-shipping-ready.jpg)](http://blog.stackoverflow.com/2009/01/new-stack-overflow-server-glamour-shots/)
+[![stackoverflow-servers-shipping-ready](https://i.stack.imgur.com/HPNwv.jpg)](http://blog.stackoverflow.com/2009/01/new-stack-overflow-server-glamour-shots/)
 
 
 
@@ -34,7 +34,7 @@ I learned quite a bit in building up these servers, and I certainly paid my dues
 
 
 
-[![stackoverflow-lenovo-rd120-shipping-ready](http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-lenovo-rd120-shipping-ready.jpg)](http://blog.stackoverflow.com/2009/01/new-stack-overflow-server-glamour-shots/)
+[![stackoverflow-lenovo-rd120-shipping-ready](https://i.stack.imgur.com/XUDpc.jpg)](http://blog.stackoverflow.com/2009/01/new-stack-overflow-server-glamour-shots/)
 
 
 

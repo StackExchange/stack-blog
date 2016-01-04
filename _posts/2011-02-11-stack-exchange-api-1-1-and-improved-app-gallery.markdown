@@ -32,7 +32,7 @@ We just rolled out **version 1.1 of the Stack Exchange API**. To see what's new,
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/stackapps-new-homepage.png)](http://stackapps.com/)
+[![](https://i.stack.imgur.com/pLsoo.png)](http://stackapps.com/)
 
 
 

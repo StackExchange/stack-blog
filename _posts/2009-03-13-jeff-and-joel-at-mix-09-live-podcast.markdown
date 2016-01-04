@@ -4,7 +4,7 @@ comments: true
 date: 2009-03-13 11:29:25+00:00
 layout: post
 redirect_from: /2009/03/jeff-and-joel-at-mix-09-live-podcast
-hero: http://blog.stackoverflow.com/wp-content/uploads/mixlogodownload1.png
+hero: https://i.stack.imgur.com/fC03B.png
 slug: jeff-and-joel-at-mix-09-live-podcast
 title: 'Jeff and Joel at MIX 09: Live Podcast'
 wordpress_id: 834
@@ -19,7 +19,7 @@ Joel and I will be at the upcoming [MIX 09](http://2009.visitmix.com/) conferenc
 
 
 
-[![mix 09 logo](http://blog.stackoverflow.com/wp-content/uploads/mixlogodownload1.png)](http://2009.visitmix.com/)
+[![mix 09 logo](https://i.stack.imgur.com/fC03B.png)](http://2009.visitmix.com/)
 
 
 

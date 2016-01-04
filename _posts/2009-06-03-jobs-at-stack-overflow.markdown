@@ -18,7 +18,7 @@ You may have noticed we now have a **small job ad in the sidebar**:
 
 
 
-[![stack-overflow-job-ad](http://blog.stackoverflow.com/wp-content/uploads/stack-overflow-job-ad.png)](http://jobs.stackoverflow.com/)
+[![stack-overflow-job-ad](https://i.stack.imgur.com/JiccF.png)](http://jobs.stackoverflow.com/)
 
 
 
