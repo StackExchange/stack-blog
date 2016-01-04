@@ -51,7 +51,7 @@ These images are kindly hosted by [imgur.com](http://imgur.com/).
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/imgur-logo.png)](http://imgur.com/)
+[![](http://blog.stackoverflow.com/images/wordpress/imgur-logo.png)](http://imgur.com/)
 
 
 
