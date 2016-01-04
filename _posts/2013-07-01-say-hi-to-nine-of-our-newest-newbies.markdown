@@ -49,7 +49,7 @@ Tom has traveled around the world but has always lived in the NYC area.  He gre
 
 
 
-******![](/images/wordpress/Lislet-David.jpg)David Lislet, Sales Representative (Careers 2.0), **_London_
+**![](/images/wordpress/Lislet-David.jpg)David Lislet, Sales Representative (Careers 2.0), **_London_
 
 David grew up in the sunny and pink city, Toulouse (Southwest of France), and spent his teenage years on a tiny South Pacific island called Wallis (Need a map?? All right - it is close to Australia & New Caledonia). He traveled all around the world and started his career in Beijing, where he became a chopstick master. He enjoys traveling, tasting all kind of food (scorpions in China, kind of crunchy), photography, sketching, and listening old school hip-hop, jazz, and the band Ratatat. An avid sports guy, he played Rugby in New Zealand (not against the All Blacks) and recently joined a Crossfit center in London.
 
