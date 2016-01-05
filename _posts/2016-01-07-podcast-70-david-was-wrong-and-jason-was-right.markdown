@@ -1,6 +1,6 @@
 ---
 layout: podcast
-date: 2016-01-05
+date: 2016-01-07
 title: "Podcast #70 - David Was Wrong And Jason Was Right"
 author: hairboat
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/240294514-stack-exchange-stack-exchange-podcast-70-david-was-wrong-and-jason-was-right.mp3
