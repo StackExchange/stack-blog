@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Winter Bash 2015: Hats Off
+title: "Winter Bash 2015: Hats Off"
 author: StackPops
 date: 2016-01-06
 description: Stack Exchange Winter Bash 2015 wrap-up
