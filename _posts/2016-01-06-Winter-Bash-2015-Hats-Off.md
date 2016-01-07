@@ -51,7 +51,7 @@ The first one awarded, and first one the community figured out the trigger for, 
 
 ![Odinson worn by Brian Rogers][imgOdinson]
 
-The first user to correctly explain Odinson was Undo. In doing so, he earned himself a second secret hat: __Archimedes__, the hat given out for correctly identifying another secret hat's trigger,. Veteran Winter Bashers may remember it being called Eureka in past years. This year's only manually awarded hat, it was earned by 18 people.
+The first user to correctly explain Odinson was Undo. In doing so, he earned himself a second secret hat: __Archimedes__, the hat given out for correctly identifying another secret hat's trigger. Veteran Winter Bashers may remember it being called Eureka in past years. This year's only manually awarded hat, it was earned by 18 people.
 
 Next to fall was __Hairboat's Revenge__, which was given to any user who replied to everyone's favorite Community Manager, Jon Ericson, by answering one of his questions, commenting on one of his posts or replying to one of his comments. A total of 516 users did this, and it was apparently so fun that many did it on multiple sites; the hat was given out 614 times.
 
