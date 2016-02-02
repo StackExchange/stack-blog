@@ -1,6 +1,7 @@
 ---
 layout: post
 author: jhanlon
+redirect_from: http://blog.stackoverflow.com/2015/04/two-new-user-pages-one-new-stat-this-ones-big/
 title: Two new user pages. One new stat. This one's big.
 description: "In the time since we started working on the profile, generations of dinosaurs were born, fell in love, had families, and were killed by a comet. Or climate change, or maybe texting and driving or some nonsense like that. Anyway, as of today, it’s live on SO and about half the network, and we’ll be rolling out to the rest over the next few weeks."
 tags:
