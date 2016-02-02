@@ -39,17 +39,17 @@ There are three phases in each election, all available from the same page:
 
 1. **Nominations** -- seven days  
 
-  In the nomination phase, any community member in good standing with at least **300** reputation may nominate themselves -- and _only_ themselves -- as a candidate in the moderator election. Nominations require writing a brief introduction explaining to the greater community why the candidate would make a good community moderator. Comments are encouraged in this phase, along with plenty of editing to make the introduction better, but there is no voting. The top **30** nominees (ordered by reputation) proceed to the primary phase unless they opt to withdraw.
+    In the nomination phase, any community member in good standing with at least **300** reputation may nominate themselves -- and _only_ themselves -- as a candidate in the moderator election. Nominations require writing a brief introduction explaining to the greater community why the candidate would make a good community moderator. Comments are encouraged in this phase, along with plenty of editing to make the introduction better, but there is no voting. The top **30** nominees (ordered by reputation) proceed to the primary phase unless they opt to withdraw.
 
-  Note: If there are **10** or less candidates at the end of this phase, we skip directly to Election. 
+    Note: If there are **10** or less candidates at the end of this phase, we skip directly to Election. 
 
 2. **Primary** -- four days  
 
-  In the primary phase, all community members with at least **150** reputation can cast an up or down vote on each candidate, resulting in a public tally. No comments are allowed in the primary; any opinions on the suitability of each candidate should be expressed as a simple up or down primary vote. The top **10** candidates by score will proceed on to the election phase, unless they opt to withdraw. 
+    In the primary phase, all community members with at least **150** reputation can cast an up or down vote on each candidate, resulting in a public tally. No comments are allowed in the primary; any opinions on the suitability of each candidate should be expressed as a simple up or down primary vote. The top **10** candidates by score will proceed on to the election phase, unless they opt to withdraw. 
 
 3. **Election** -- four days  
 
-  Once the election begins, there will be per-user site notifications to all eligible voters. In the election phase, all community members with at least **150** reputation can cast three votes: 1st choice, 2nd choice, and 3rd choice. All votes are private until the election is complete, at which point the election data file (the vote totals for all the candidates; no identification of who voted for whom) will be freely and permanently downloadable by anyone. We will calculate the winners using [OpenSTV](http://www.openstv.org/) and the Meek STV method.
+    Once the election begins, there will be per-user site notifications to all eligible voters. In the election phase, all community members with at least **150** reputation can cast three votes: 1st choice, 2nd choice, and 3rd choice. All votes are private until the election is complete, at which point the election data file (the vote totals for all the candidates; no identification of who voted for whom) will be freely and permanently downloadable by anyone. We will calculate the winners using [OpenSTV](http://www.openstv.org/) and the Meek STV method.
 
 
 In a little over two weeks, the election process should hopefully produce **three new democratically elected community moderators!** We're going to run through the full process on math first, as they have an urgent need for community moderators, and also so we can see how this new election format works and refine it before going full steam ahead.
