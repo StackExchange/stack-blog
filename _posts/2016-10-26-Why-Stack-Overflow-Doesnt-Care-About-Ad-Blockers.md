@@ -2,11 +2,11 @@
 layout: post
 title: Why Stack Overflow Doesn't Care About Ad Blockers
 author: stevvve
-date: TBD
+date: 2016-02-09
 draft: true
-hero: TBD
-description: TBD
-tags: TBD
+description: What's the deal with ad blockers? 
+tags: 
+- community
 ---
 Hi! I’m Steve Feldman, Senior Ad Ops Manager at Stack Overflow. My whole life I've been fascinated by advertising. Even as a kid, I wondered what a company was trying to tell me by using one word instead of another in an ad. Over time, I developed a strong (read: subjective) opinion of what makes an ad 'good,' and what makes an ad 'bad.' It took me many years-- in fact, it wasn't until joining the Ad Sales team at Stack Overflow-- to finally figure out that the common thread shared by the best ads is *relevance*. Maintaining that relevance is how **we’ve** managed to avoid one of the biggest issues facing publishers today: ad blocking.
 
