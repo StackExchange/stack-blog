@@ -31,7 +31,7 @@ An important part of the QA process is ensuring that not just the creative, but 
 
 <img src="https://i.stack.imgur.com/GTwYJ.png">
 
-<small>This ad tries to be relevant, but falls on it’s face. Also it’s fake. Sorry, future herpetologists.</small>
+<small>This ad tries to be relevant, but falls on its face. Also it’s fake. Sorry, future herpetologists.</small>
  
 #The Value of Valuing User Experience#
 User experience is always on our minds. Indeed, others believe that putting user experience ahead of revenue is a path toward long-term growth for publishers. As the chief revenue office of The Washington Post said, [“...the product experience has to be every bit as good as the content.”](http://niemanreports.org/articles/to-fight-ad-blocking-build-better-ads/) Our approach is in harmony with that belief, as we keep ads confined to certain areas, and we permit users to downvote or close ads that they don’t like.* This allows users control over their experience. QA, curating content and advertisers, and a consideration of the user experience have been successful tools preventing ad blockers from hindering our growth.
