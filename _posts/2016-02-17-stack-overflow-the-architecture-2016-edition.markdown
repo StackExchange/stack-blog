@@ -6,7 +6,7 @@ date: 2016-02-17
 draft: true
 hero: 
 source: http://nickcraver.com/blog/2016/02/17/stack-overflow-the-architecture-2016-edition/
-description: 
+description:  This is #1 in a [very long series of posts](http://nickcraver.com/blog/2016/02/03/stack-overflow-a-technical-deconstruction/) on Stack Overflow's architecture. Welcome.
 tags: 
 - engineering
 ---
