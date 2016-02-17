@@ -1,9 +1,9 @@
 ---
 layout: post
-title: How Stack Overflow does technical interviews
+title: How Stack Overflow Does Technical Interviews
 author: matt
 date: 2016-02-17
-description: "Spoiler alert: it’s hard! Here’s what we’ve learned."
+description: "Spoiler alert: It’s hard! Here’s what we’ve learned."
 tags: 
 - engineering
 ---
