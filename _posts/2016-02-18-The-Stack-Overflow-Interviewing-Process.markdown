@@ -7,7 +7,6 @@ draft: true
 description: "Spoiler alert: it’s hard! Here’s what we’ve learned."
 tags: 
 - engineering
-- company
 ---
 
 Here’s a webinar I did recently (with our friends at Greenhouse) about the Stack Overflow developer interviewing process. Give it a listen!
