@@ -2,7 +2,7 @@
 layout: post
 title: How Stack Overflow Does Technical Interviews
 author: matt
-date: 2016-02-17
+date: 2016-02-18
 draft: true
 description: "Spoiler alert: It’s hard! Here’s what we’ve learned."
 tags: 
