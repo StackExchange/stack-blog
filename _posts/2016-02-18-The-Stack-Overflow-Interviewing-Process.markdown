@@ -3,8 +3,7 @@ layout: post
 title: How Stack Overflow Does Technical Interviews
 author: matt
 date: 2016-02-18
-draft: true
-description: "Spoiler alert: It’s hard! Here’s what we’ve learned."
+description: "Spoiler: It’s hard! Here’s what we’ve learned."
 tags: 
 - engineering
 ---
@@ -19,7 +18,7 @@ Technical interviewing is hard. The best companies in the world haven’t cracke
 
 Here’s what [Google had to say](http://www.nytimes.com/2013/06/20/business/in-head-hunting-big-data-may-not-be-such-a-big-deal.html?_r=0) about the process.
 
-> Years ago, we did a study to determine whether anyone at Google is particularly good at hiring. We looked at tens of thousands of interviews, and everyone who had done the interviews and what they scored the candidate, and how that person ultimately performed in their job. We found zero relationship. It’s a complete random mess, except for one guy who was highly predictive because he only interviewed people for a very specialized area, where he happened to be the world’s leading expert.
+> Years ago, we did a study to determine whether anyone at Google is particularly good at hiring. We looked at tens of thousands of interviews, and everyone who had done the interviews and what they scored the candidate, and how that person ultimately performed in their job. We found zero relationship. It’s a complete random mess...
 
 This is coming from a company that interviews tens of thousands of engineers, and knows a think or two about analyzing the data. If it’s hard for them, it’s hard for all of us.
 
