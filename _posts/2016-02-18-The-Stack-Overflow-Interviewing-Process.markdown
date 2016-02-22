@@ -28,7 +28,7 @@ Even so, we have some strong opinions about how to hire (and keep) good develope
 
 ### Mostly Remote
 
-We perform most of our technical interviews remotely, using Google Hangouts and a shared doc for code. It’s quite rare that for a technical interview to happen in person.
+We perform most of our technical interviews remotely, using Google Hangouts and a shared doc for code. It’s quite rare for a technical interview to happen in person.
 
 Stack Overflow has a strong [culture and history of remote work](https://blog.stackoverflow.com/2013/02/why-we-still-believe-in-working-remotely/), and our interview process reflects that. More than ⅔ of our technical staff works remotely.
 
