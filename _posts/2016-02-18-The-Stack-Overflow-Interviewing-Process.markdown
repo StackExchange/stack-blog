@@ -20,7 +20,7 @@ Here’s what [Google had to say](http://www.nytimes.com/2013/06/20/business/in-
 
 > Years ago, we did a study to determine whether anyone at Google is particularly good at hiring. We looked at tens of thousands of interviews, and everyone who had done the interviews and what they scored the candidate, and how that person ultimately performed in their job. We found zero relationship. It’s a complete random mess...
 
-This is coming from a company that interviews tens of thousands of engineers, and knows a think or two about analyzing the data. If it’s hard for them, it’s hard for all of us.
+This is coming from a company that interviews tens of thousands of engineers, and knows a thing or two about analyzing the data. If it’s hard for them, it’s hard for all of us.
 
 ### Smart and Gets Things Done
 
