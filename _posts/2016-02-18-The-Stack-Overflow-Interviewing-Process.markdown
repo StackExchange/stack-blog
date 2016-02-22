@@ -36,7 +36,7 @@ Stack Overflow has a strong [culture and history of remote work](https://blog.st
 
 Our interviews are designed for conversation, and to learn how the candidate thinks. We don’t want our interviews to feel like a quiz.
 
-To be clear, the interview is highly technical and challenging. However, we work hard to make sure the questions leads to productive exploration and conversation.
+To be clear, the interview is highly technical and challenging. However, we work hard to make sure the questions lead to productive exploration and conversation.
 
 ### Fairness and comfort
 
@@ -54,7 +54,7 @@ After each interview, the interviewer must make a clear decision: Hire or No Hir
 
 We don’t do “maybe” – that’s not good for us or the candidate. If the interviewer is on the fence, that’s a No Hire.
 
-We would prefer to risk losing a good candidate than to hire the wrong person.
+We would prefer to risk losing a good candidate rather than hire the wrong person.
 
 ### Mitigating subjectivity
 
