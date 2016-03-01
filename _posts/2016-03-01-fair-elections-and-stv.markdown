@@ -2,6 +2,7 @@
 layout: post
 title: Fair Elections and STV
 author: jericson
+date: 2016-03-01
 description: The US is embroiled in party primary voting which is a good time to talk about the STV system Stack Exchange uses to elect moderators.
 source: http://jericson.github.io/2016/02/20/stv.html
 tags: community
