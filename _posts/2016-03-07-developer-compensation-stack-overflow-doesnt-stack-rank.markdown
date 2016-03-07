@@ -90,7 +90,7 @@ Once a developer is assessed on a BMA, their letter grades get converted into a 
 
 Next we assess the years of programming experience. This is a value that falls in a range from 0 to 25. Naturally, this goes up by 1 at every annual review.
 
-The score and years or experience are then looked up on a chart that has years of experience on the Y axis and score on the X axis, and details salary amounts at each cell. It's worth redundantly noting that this chart is published internally also and can be reviewed by all developers at any time. Unsurprisingly, the cell that your score and experience points to is exactly what you get paid.
+The score and years of experience are then looked up on a chart that has years of experience on the X axis and score on the Y axis, and details salary amounts at each cell. It's worth redundantly noting that this chart is published internally also and can be reviewed by all developers at any time. Unsurprisingly, the cell that your score and experience points to is exactly what you get paid.
 
 ## Make Compensation Transparent
 
