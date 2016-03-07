@@ -94,7 +94,7 @@ The score and years of experience are then looked up on a chart that has years o
 
 ## Make Compensation Transparent
 
-There are no secrets or magic in our compensation system. All aspects of it are published internally for all developers to review at any time. They also get input into the changes to the BMA skills each year, well in advance of their annual review. They know the formula that we use to calculate salary. Most importantly, their compensation doesn't depend on the performance of anyone else. Everybody can be a 5 in our system and everybody can be a 0.
+There are no secrets or magic in our compensation system. All aspects of it are published internally for all developers to review at any time. They also get input into the changes to the BMA skills each year, well in advance of their annual review. They know the formula that we use to calculate salary. Most importantly, **their compensation doesn't depend on the performance of anyone else**. Everybody can be a 5 in our system and everybody can be a 0.
 
 Above all else, our system is fair and evaluates individual performance, not team performance. If you want happy developers and low turnover, I highly encourage you to try adopting such a system yourself. If your company is unwilling to do so, perhaps evaluate why. Are there secrets and magic in the compensation system that you don't want your employees to know about? Why do you value these hidden metrics? Do your employees feel valued?
 
