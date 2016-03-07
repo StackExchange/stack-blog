@@ -1,7 +1,6 @@
 ---
 layout: post
 date: 2016-03-07
-draft: true
 title: "Developer Compensation: Stack Overflow Doesn't Stack Rank"
 source: http://www.haneycodes.net/developer-compensation-stack-overflow-doesnt-stack-rank
 author: haneycodes
