@@ -2,7 +2,7 @@
 layout: post
 title: 2016 Stack Overflow Developer Survey Results
 author: kcpike
-date: 2016-03-17 05:00:00
+date: 2016-03-17 06:00:00
 draft: true
 description: The results of the largest and most comprehensive survey of the programmer workforce are here: the 2016 Stack Overflow Developer Survey.
 tags: 
