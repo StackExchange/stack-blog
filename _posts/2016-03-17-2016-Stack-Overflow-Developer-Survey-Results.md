@@ -22,18 +22,18 @@ With more than 50,000 responses fielded from 173 countries, this year’s Stack 
 
 **Key Findings on Technology:**
 
-   *[JavaScript remains the most popular programming language in the world.](https://stackoverflow.com/research/developer-survey-2016#technology-most-popular-technologies) 
-   *[Swift is exploding, and Objective-C is in decline.](https://stackoverflow.com/research/developer-survey-2016#technology-top-tech-on-stack-overflow) [Swift 2 grew faster than any other technology last year.](https://stackoverflow.com/research/developer-survey-2016#technology-trending-tech-on-stack-overflow)
-   *[Rust is the most-loved programming language.](https://stackoverflow.com/research/developer-survey-2016#technology-most-loved-dreaded-and-wanted) A higher percentage of developers who program with it want to continue to do so more than any other programming language.
-   *[Visual Basic is the most dreaded language.](https://stackoverflow.com/research/developer-survey-2016#technology-most-loved-dreaded-and-wanted) A higher percentage of devs who program with it don’t want to continue with it more than any other programming language.
+   * [JavaScript remains the most popular programming language in the world.](https://stackoverflow.com/research/developer-survey-2016#technology-most-popular-technologies) 
+   * [Swift is exploding, and Objective-C is in decline.](https://stackoverflow.com/research/developer-survey-2016#technology-top-tech-on-stack-overflow) [Swift 2 grew faster than any other technology last year.](https://stackoverflow.com/research/developer-survey-2016#technology-trending-tech-on-stack-overflow)
+   * [Rust is the most-loved programming language.](https://stackoverflow.com/research/developer-survey-2016#technology-most-loved-dreaded-and-wanted) A higher percentage of developers who program with it want to continue to do so more than any other programming language.
+   * [Visual Basic is the most dreaded language.](https://stackoverflow.com/research/developer-survey-2016#technology-most-loved-dreaded-and-wanted) A higher percentage of devs who program with it don’t want to continue with it more than any other programming language.
 
 **Key Findings about Developers at Work:**
 
-   *[91% of developers worldwide are “gainfully employed” either full-time, self-employed, or freelance.](https://stackoverflow.com/research/developer-survey-2016#work-employment-status) This number excludes respondents who are students or retired.
-   *[46% of developers don’t have a bachelor’s in computer science or a related field.](https://stackoverflow.com/research/developer-survey-2016#developer-profile-programmers-engineers-and-developers) So if you’re an employer requiring one of these degrees in order to consider a developer candidate, you may want to reconsider your strategy.
-   *Developers just want to code. [Job satisfaction is highly correlated with pushing code to production.](https://stackoverflow.com/research/developer-survey-2016#work-checking-in-code) And [57% of developers told us they check-in or commit code multiple times per day.](https://stackoverflow.com/research/developer-survey-2016#work-checking-in-code)
-   *Make it rain! [Cloud technologies like Spark and Cassandra pay better than anything else.](https://stackoverflow.com/research/developer-survey-2016#technology-top-paying-tech) The median salary for developers in the US who know Spark is $125k, and there are plenty of cloud devs who are making a lot more than that.
-   *Don’t call programmers “rockstars” or “ninjas”. [Only about 10% of devs call themselves ninjas, and 7% consider themselves rockstars.](https://stackoverflow.com/research/developer-survey-2016#developer-profile-programmers-engineers-and-developers)
+   * [91% of developers worldwide are “gainfully employed” either full-time, self-employed, or freelance.](https://stackoverflow.com/research/developer-survey-2016#work-employment-status) This number excludes respondents who are students or retired.
+   * [46% of developers don’t have a bachelor’s in computer science or a related field.](https://stackoverflow.com/research/developer-survey-2016#developer-profile-programmers-engineers-and-developers) So if you’re an employer requiring one of these degrees in order to consider a developer candidate, you may want to reconsider your strategy.
+   * Developers just want to code. [Job satisfaction is highly correlated with pushing code to production.](https://stackoverflow.com/research/developer-survey-2016#work-checking-in-code) And [57% of developers told us they check-in or commit code multiple times per day.](https://stackoverflow.com/research/developer-survey-2016#work-checking-in-code)
+   * Make it rain! [Cloud technologies like Spark and Cassandra pay better than anything else.](https://stackoverflow.com/research/developer-survey-2016#technology-top-paying-tech) The median salary for developers in the US who know Spark is $125k, and there are plenty of cloud devs who are making a lot more than that.
+   * Don’t call programmers “rockstars” or “ninjas”. [Only about 10% of devs call themselves ninjas, and 7% consider themselves rockstars.](https://stackoverflow.com/research/developer-survey-2016#developer-profile-programmers-engineers-and-developers)
 
 Thank you to everyone who participated in our survey and shared information about yourself. We’ll be releasing the full data set in just a few weeks. Do you have ideas for what we should ask about next year? Tell us in the comments. 
 
