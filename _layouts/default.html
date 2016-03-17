@@ -12,7 +12,7 @@
 
     <!-- Facebook metadata -->
     <meta property="fb:admins" content="" />
-    <meta property="og:image" content="{{ page.hero }}"/>
+    <meta property="og:image" content="{% if page.hero %}{{ page.hero }}{% else %}https://cdn.sstatic.net/stackoverflow/img/apple-touch-icon@2.png{% endif %}"/>
     <meta property="og:title" content="{{ page.title }}"/>
     <meta property="og:url" content="{{ page.url }}"/>
     <meta property="og:site_name" content="Stack Overflow Blog"/>
@@ -25,7 +25,7 @@
     <meta name="twitter:creator" content="@StackOverflow">
     <meta name="twitter:title" content="{{ page.title }}">
     <meta name="twitter:description" content="{{ page.description }}">
-    <meta name="twitter:image:src" content="{{ page.hero }}">
+    <meta name="twitter:image:src" content="{% if page.hero %}{{ page.hero }}{% else %}https://cdn.sstatic.net/stackoverflow/img/apple-touch-icon@2.png{% endif %}">
 
     <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
