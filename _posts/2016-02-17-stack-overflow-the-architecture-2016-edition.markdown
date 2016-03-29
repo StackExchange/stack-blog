@@ -4,7 +4,7 @@ title: "Stack Overflow: The Architecture - 2016 Edition"
 author: nickcraver
 date: 2016-02-17
 hero: 
-source: http://nickcraver.com/blog/2016/02/17/stack-overflow-the-architecture-2016-edition/
+source: https://nickcraver.com/blog/2016/02/17/stack-overflow-the-architecture-2016-edition/
 description: The first in a long series of posts on Stack Overflow’s architecture.
 tags: 
 - engineering
@@ -30,4 +30,4 @@ To get an idea of what all of this stuff "does," let me start off with an update
 
 You may be wondering about the drastic ASP.Net reduction in processing time compared to 2013 (which was 757 hours) despite 61 million more requests a day. That's due to both [a hardware upgrade in early 2015](http://blog.serverfault.com/2015/03/05/how-we-upgrade-a-live-data-center/) as well as a lot of performance tuning inside the applications themselves. Please don't forget: [performance is still a feature](http://www.codinghorror.com/blog/2011/06/performance-is-a-feature.html). If you're curious about more hardware specifics than I'm about to provide---fear not. The next post will be an appendix with detailed hardware specs for all of the servers that run the sites (I'll update this with a link when it's live).
 
-Read the rest of [Stack Overflow: The Architecture - 2016 Edition on Nick's blog here](http://nickcraver.com/blog/2016/02/17/stack-overflow-the-architecture-2016-edition/). It's the start of an [extensive series](http://nickcraver.com/blog/2016/02/03/stack-overflow-a-technical-deconstruction/) of blog posts on Stack Overflow’s technical architecture.
+Read the rest of [Stack Overflow: The Architecture - 2016 Edition on Nick's blog here](https://nickcraver.com/blog/2016/02/17/stack-overflow-the-architecture-2016-edition/). It's the start of an [extensive series](https://nickcraver.com/blog/2016/02/03/stack-overflow-a-technical-deconstruction/) of blog posts on Stack Overflow’s technical architecture.
