@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Community Of Professional Developers Now In Russian
-date: 2016-04-11
+date: 2016-04-11 09:00:00
 author: nchabanovsky
 hero: http://i.stack.imgur.com/8QnbO.jpg
 tags:
