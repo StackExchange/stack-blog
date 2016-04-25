@@ -17,7 +17,7 @@ In the context of [servant leadership](http://avc.com/2012/02/the-management-tea
 ###Optimize for presence
 Meetings are synchronous communication. They are expensive, and blocking. They should be optimized for interactive communication that requires presence.
 
-Reciting status while others listen is not an optimal use of shared time. Status updates can be read just as easily as they can be spoken.
+Reciting status while others listen is not an optimal use of shared time. Updates can be read just as easily as they can be spoken. Can we do better?
 
 ###Question-driven
 My team updates a status document ahead of time, broken down by team member. We block out 5 minutes of silent reading at the beginning of the meeting.
@@ -27,11 +27,11 @@ Then, we go to every team member and ask if *anyone else* in the meeting has a q
 No questions? Great! Let’s get back to things that aren’t meetings.
 
 ###Talk-show host
-That said, we do want to tease out conversations. A manager’s job is to find entropy and underspecification.
+That said, we do want to tease out conversations.
 
 When I run that meeting I will do my research ahead of time and have questions in my back pocket if others aren’t forthcoming. I ask follow-ups. A bit like a talk-show host.
 
-Also? I’ve stopped being the host. We pick a new team member to run it every two weeks. Running a meeting is FizzBuzz, remember? Nice opportunity to broaden the skills of team members.
+Also? We like guest hosts. We pick a new team member to run the show every two weeks. Running a meeting is FizzBuzz, remember? Nice opportunity to broaden the skills of team members.
 
 ###Managers like to talk
 A further advantage of the question-prompted format is that we managers don’t get to talk in an open-ended way.
