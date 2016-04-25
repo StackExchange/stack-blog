@@ -15,9 +15,9 @@ Running a good meeting is the [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz
 In the context of [servant leadership](http://avc.com/2012/02/the-management-team-guest-post-from-joel-spolsky/), it’s our job as managers to ensure that meetings meet this high bar.
 
 ###Optimize for presence
-Meetings are synchronous communication. They are expensive, and blocking. They should be optimized for interactive communication that requires presence.
+Meetings are synchronous communication. They are expensive, and blocking. They should be reserved for interactive communication that requires presence.
 
-Reciting status while others listen is not an optimal use of shared time. Updates can be read just as easily as they can be spoken. Can we do better?
+Reciting status while others listen is not good use of presence. Factual updates can be read just as easily as they can be spoken. Can we do better?
 
 ###Question-driven
 My team updates a status document ahead of time, broken down by team member. We block out 5 minutes of silent reading at the beginning of the meeting.
