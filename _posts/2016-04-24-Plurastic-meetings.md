@@ -1,0 +1,40 @@
+---
+layout: post
+title: The pluralistic meeting
+date: 2016-04-25
+draft: true
+author: matt
+description: Running a productive meeting is the FizzBuzz of management.
+tags:
+ - engineering
+ - culture
+---
+
+Running a good meeting is the [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz) of management – for a manager, it should be nearly effortless. People should leave your meetings gratified that it was time well spent.
+
+In the context of [servant leadership](http://avc.com/2012/02/the-management-team-guest-post-from-joel-spolsky/), it’s our job as managers to ensure that meetings meet this high bar.
+
+###Optimize for presence
+Meetings are synchronous communication. They are expensive, and blocking. They should be optimized for interactive communication that requires presence.
+
+Reciting status while others listen is not an optimal use of shared time. Status updates can be read just as easily as they can be spoken.
+
+###Question-driven
+My team updates a status document ahead of time, broken down by team member. We block out 5 minutes of silent reading at the beginning of the meeting.
+
+Then, we go to every team member and ask if *anyone else* in the meeting has a question for them. There is no status recital. A conversation must be **prompted by a question**. There are usually plenty.
+
+No questions? Great! Let’s get back to things that aren’t meetings.
+
+###Talk-show host
+That said, we do want to tease out conversations. A manager’s job is to find entropy and underspecification.
+
+When I run that meeting I will do my research ahead of time and have questions in my back pocket if others aren’t forthcoming. I ask follow-ups. A bit like a talk-show host.
+
+Also? I’ve stopped being the host. We pick a new team member to run it every two weeks. Running a meeting is FizzBuzz, remember? Nice opportunity to broaden the skills of team members.
+
+###Managers like to talk
+A further advantage of the question-prompted format is that we managers don’t get to talk in an open-ended way.
+
+Talking needs to be about something someone wants to know, and which is worthy of our valuable, synchronous time together. Managers set an example here, by deferring to the team to choose the direction of conversation.
+
