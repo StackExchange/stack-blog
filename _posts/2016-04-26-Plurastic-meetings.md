@@ -10,16 +10,16 @@ tags:
  - culture
 ---
 
-Running a good meeting is the [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz) of management – for a manager, it should be nearly effortless. People should leave your meetings gratified that it was time well spent.
+Running a good meeting is the [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz) of management – for a manager, it should be nearly effortless. People should leave our meetings gratified that it was time well spent.
 
 In the context of [servant leadership](http://avc.com/2012/02/the-management-team-guest-post-from-joel-spolsky/), it’s our job as managers to ensure that meetings meet this high bar.
 
 ###Optimize for presence
-Meetings are synchronous communication. In programming parlance, are blocking, which is to say they prevent other working from being done.
+Meetings are synchronous communication. In programming parlance, they are *blocking*, which is to say they prevent other work from being done.
 
-Meetings should be reserved for interactive communication that *requires* presence. This is especially true at Stack because our engineering team is majority remote and distribtued across time zones.
+Meetings should be reserved for interactive communication that *requires* presence. This is especially true at Stack because our engineering team is majority remote and distributed across time zones.
 
-Reciting status while others listen is not good use of presence. A list of facts can be read just as easily as they can be spoken. Can we do better?
+Reciting status while others listen is not good use of presence. A list of facts can be read just as easily as it can be heard. Can we do better?
 
 ###Question-driven
 My team updates a status document ahead of time, organized by team member. We block out 5 minutes of silent reading at the beginning of the meeting.
