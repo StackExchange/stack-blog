@@ -43,4 +43,4 @@ Talking needs to be about something someone wants to know, and which is worthy o
 ###Every team is different
 To be clear, what I describe above is what my team does. Others at Stack share these principles but go about it their own way.
 
-The question-driven format has been good for us on Careers. We’re a big team (13 developers!) so it’s especially important to ensure that meetngs are lively, informative, and [time well spent](https://clipperhouse.com/2016/04/07/time-well-spent/).
+The question-driven format has been good for us on Careers. We’re a big team (13 developers!) so it’s especially important to ensure that meetings are lively, informative, and [time well spent](https://clipperhouse.com/2016/04/07/time-well-spent/).
