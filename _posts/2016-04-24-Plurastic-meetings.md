@@ -15,12 +15,14 @@ Running a good meeting is the [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz
 In the context of [servant leadership](http://avc.com/2012/02/the-management-team-guest-post-from-joel-spolsky/), it’s our job as managers to ensure that meetings meet this high bar.
 
 ###Optimize for presence
-Meetings are synchronous communication. They are expensive, and blocking. They should be reserved for interactive communication that requires presence.
+Meetings are synchronous communication. In programming parlance, are blocking, which is to say they prevent other working from being done.
 
-Reciting status while others listen is not good use of presence. Factual updates can be read just as easily as they can be spoken. Can we do better?
+Meetings should be reserved for interactive communication that *requires* presence. This is especially true at Stack because our engineering team is majority remote and distribtued across time zones.
+
+Reciting status while others listen is not good use of presence. A list of facts can be read just as easily as they can be spoken. Can we do better?
 
 ###Question-driven
-My team updates a status document ahead of time, broken down by team member. We block out 5 minutes of silent reading at the beginning of the meeting.
+My team updates a status document ahead of time, organized by team member. We block out 5 minutes of silent reading at the beginning of the meeting.
 
 Then, we go to every team member and ask if *anyone else* in the meeting has a question for them. There is no status recital. A conversation must be **prompted by a question**. There are usually plenty.
 
@@ -31,7 +33,7 @@ That said, we do want to tease out conversations.
 
 When I run that meeting I will do my research ahead of time and have questions in my back pocket if others aren’t forthcoming. I ask follow-ups. A bit like a talk-show host.
 
-Also? We like guest hosts. We pick a new team member to run the show every two weeks. Running a meeting is FizzBuzz, remember? Nice opportunity to broaden the skills of team members.
+Also? We like guest hosts. We pick a new team member to run the show every two weeks. Running a meeting is FizzBuzz, remember? Nice opportunity to broaden skills for future managers.
 
 ###Managers like to talk
 A further advantage of the question-prompted format is that we managers don’t get to talk in an open-ended way.
