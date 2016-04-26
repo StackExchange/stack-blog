@@ -1,8 +1,7 @@
 ---
 layout: post
 title: A pluralistic meeting
-date: 2016-04-26
-draft: true
+date: 2016-04-27
 author: matt
 description: Running a productive meeting is the FizzBuzz of management.
 tags:
