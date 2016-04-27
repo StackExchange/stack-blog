@@ -111,26 +111,26 @@ Here's to a great 2016!
 ![Auld Lang Syne worn by ff524][img2016]
 
 
-  [imgSufganiyot]: http://i.stack.imgur.com/5GJSR.png
-  [imgOprah1]: http://i.stack.imgur.com/8UXdD.png
-  [img007]: http://i.stack.imgur.com/q4KKR.png
-  [img9000]: http://i.stack.imgur.com/QvMZj.png
-  [imgFFb]: http://i.stack.imgur.com/ySDMx.png
-  [imgFFw]: http://i.stack.imgur.com/8JawI.png
-  [imgFive]: http://i.stack.imgur.com/5vx9v.png
-  [imgEdwards]: http://i.stack.imgur.com/8vvIl.png
-  [imgOnion]: http://i.stack.imgur.com/V0033.png
-  [imgOdinson]: http://i.stack.imgur.com/wKPMM.png
-  [imgCopernicus1]: http://i.stack.imgur.com/oYVMZ.png
-  [imgDYEL1]: http://i.stack.imgur.com/hCFD8.png
-  [img2016]: http://i.stack.imgur.com/f8CDE.png
-  [imgHatsman]: http://i.stack.imgur.com/rIPvB.png
-  [imgUp]: http://i.stack.imgur.com/3yeDE.png
-  [imgDrWho]: http://i.stack.imgur.com/l3BjK.png
-  [imgHatTrick]: http://i.stack.imgur.com/R7S17.png
-  [imgSpeedy]: http://i.stack.imgur.com/JGPP7.png
-  [imgCopernicus2]: http://i.stack.imgur.com/adP41.png
-  [imgOprah2]: http://i.stack.imgur.com/69oYT.png
-  [imgCleanup]: http://i.stack.imgur.com/QS0BE.png
+  [imgSufganiyot]: https://i.stack.imgur.com/5GJSR.png
+  [imgOprah1]: https://i.stack.imgur.com/8UXdD.png
+  [img007]: https://i.stack.imgur.com/q4KKR.png
+  [img9000]: https://i.stack.imgur.com/QvMZj.png
+  [imgFFb]: https://i.stack.imgur.com/ySDMx.png
+  [imgFFw]: https://i.stack.imgur.com/8JawI.png
+  [imgFive]: https://i.stack.imgur.com/5vx9v.png
+  [imgEdwards]: https://i.stack.imgur.com/8vvIl.png
+  [imgOnion]: https://i.stack.imgur.com/V0033.png
+  [imgOdinson]: https://i.stack.imgur.com/wKPMM.png
+  [imgCopernicus1]: https://i.stack.imgur.com/oYVMZ.png
+  [imgDYEL1]: https://i.stack.imgur.com/hCFD8.png
+  [img2016]: https://i.stack.imgur.com/f8CDE.png
+  [imgHatsman]: https://i.stack.imgur.com/rIPvB.png
+  [imgUp]: https://i.stack.imgur.com/3yeDE.png
+  [imgDrWho]: https://i.stack.imgur.com/l3BjK.png
+  [imgHatTrick]: https://i.stack.imgur.com/R7S17.png
+  [imgSpeedy]: https://i.stack.imgur.com/JGPP7.png
+  [imgCopernicus2]: https://i.stack.imgur.com/adP41.png
+  [imgOprah2]: https://i.stack.imgur.com/69oYT.png
+  [imgCleanup]: https://i.stack.imgur.com/QS0BE.png
 
-  [imgLeaderboard]: http://i.stack.imgur.com/iITG2.png
+  [imgLeaderboard]: https://i.stack.imgur.com/iITG2.png

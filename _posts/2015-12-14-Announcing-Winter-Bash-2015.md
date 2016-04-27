@@ -45,10 +45,10 @@ Just remember, all the hats will vanish again after three weeks. Now go! Other p
 2: _The University of Winter Bash has not been accredited by any organization recognized by the Council for Higher Education Accreditation or the United States Department of Education. Yet._
 
 
-  [header]: http://i.stack.imgur.com/KuxGa.png
-  [bobble]: http://i.stack.imgur.com/DBp4D.png
-  [dialog]: http://i.stack.imgur.com/Kn9di.png
+  [header]: https://i.stack.imgur.com/KuxGa.png
+  [bobble]: https://i.stack.imgur.com/DBp4D.png
+  [dialog]: https://i.stack.imgur.com/Kn9di.png
   [controls]: https://i.stack.imgur.com/9lMdh.png
-  [topbarNotif]: http://i.stack.imgur.com/NFMF5.png
-  [topbarSnowflake]: http://i.stack.imgur.com/1Vw0M.png
+  [topbarNotif]: https://i.stack.imgur.com/NFMF5.png
+  [topbarSnowflake]: https://i.stack.imgur.com/1Vw0M.png
   [comic]: http://poorlydrawnlines.com/wp-content/uploads/2015/11/cool-hat.png

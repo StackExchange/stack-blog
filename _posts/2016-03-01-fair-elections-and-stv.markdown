@@ -73,7 +73,7 @@ voters to judge whether a candidate might be popular among other
 voters, the system allows people to vote their preferences without
 throwing away their vote on losing candidates.
 
-[!["Well, I believe I'll vote for a third-party candidate!" "Go ahead, throw your vote away!"](http://i.stack.imgur.com/0Sr8b.gif)](https://www.washingtonpost.com/news/the-fix/wp/2015/03/09/the-co-creator-of-the-simpsons-died-today-here-are-11-of-our-favorite-political-moments-from-the-show/)
+[!["Well, I believe I'll vote for a third-party candidate!" "Go ahead, throw your vote away!"](https://i.stack.imgur.com/0Sr8b.gif)](https://www.washingtonpost.com/news/the-fix/wp/2015/03/09/the-co-creator-of-the-simpsons-died-today-here-are-11-of-our-favorite-political-moments-from-the-show/)
 
 ---
 

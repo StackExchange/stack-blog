@@ -104,4 +104,4 @@ PS - hate stack ranking but love Stack Overflow? [Come and work with us!](http:/
 
 *Follow David Haney on Twitter at [@haneycodes](http://www.twitter.com/@haneycodes)*
 
-  [1]: http://i.stack.imgur.com/lWZN5.png
+  [1]: https://i.stack.imgur.com/lWZN5.png
