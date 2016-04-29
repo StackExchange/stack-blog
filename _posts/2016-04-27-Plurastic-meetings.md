@@ -9,9 +9,9 @@ tags:
  - culture
 ---
 
-Running a good meeting is the [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz) of management – for a manager, it should be nearly effortless. People should leave our meetings gratified that it was time well spent.
+Running a good meeting is the [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz) of management – for a manager, it should be nearly effortless. Attendees should leave gratified that it was time well spent.
 
-In the context of [servant leadership](http://avc.com/2012/02/the-management-team-guest-post-from-joel-spolsky/), it’s our job as managers to ensure that meetings meet this high bar.
+In the context of [servant leadership](http://avc.com/2012/02/the-management-team-guest-post-from-joel-spolsky/), it’s our job as managers to ensure that our time together meets this high bar.
 
 ###Optimize for presence
 Meetings are synchronous communication. In programming parlance, they are *blocking*, which is to say they prevent other work from being done. They are expensive in terms of both actual time and [context switching](http://blog.codinghorror.com/the-multi-tasking-myth/).
