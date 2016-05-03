@@ -10,7 +10,7 @@ tags:
 - engineering
 ---
 
-We've talked about [Stack Overflow's architecture](https://nickcraver.com/blog/2016/02/17/stack-overflow-the-architecture-2016-edition/ and [the hardware behind it](https://nickcraver.com/blog/2016/03/29/stack-overflow-the-hardware-2016-edition/). The next [most requested topic](https://trello.com/b/0zgQjktX/blog-post-queue-for-stack-overflow-topics) was Deployment. How do we get code a developer (or some random stranger) writes into production? Let's break it down. Keep in mind that we're talking about deploying Stack Overflow for the example, but most of our projects follow almost an identical pattern to deploy a website or a service.
+We've talked about [Stack Overflow's architecture](https://nickcraver.com/blog/2016/02/17/stack-overflow-the-architecture-2016-edition/) and [the hardware behind it](https://nickcraver.com/blog/2016/03/29/stack-overflow-the-hardware-2016-edition/). The next [most requested topic](https://trello.com/b/0zgQjktX/blog-post-queue-for-stack-overflow-topics) was Deployment. How do we get code a developer (or some random stranger) writes into production? Let's break it down. Keep in mind that we're talking about deploying Stack Overflow for the example, but most of our projects follow almost an identical pattern to deploy a website or a service.
 
 #### Source
 This is our starting point for this article. We have the Stack Overflow repository on a developer’s machine. For the sake of discussing the process, let’s say they added a column to a database table and the corresponding property to the C# object — that way we can dig into how database migrations work along the way.
