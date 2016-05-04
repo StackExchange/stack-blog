@@ -3,7 +3,6 @@ layout: post
 title: "Welcoming Stack Overflow’s New CMO – Adrianna Burrows"
 date: 2016-05-04
 author: ascordato
-draft: true
 tags: 
 - company
 ---
