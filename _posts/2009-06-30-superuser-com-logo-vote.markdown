@@ -24,7 +24,7 @@ There are a number of solid contenders, and I've already solicited input from th
 
 
 
-[![superuser-logo-voting](http://blog.stackoverflow.com/wp-content/uploads/superuser-logo-voting1.png)](http://www.pollsb.com/polls/p2131264-logo_works_best_superuser_com)
+[![superuser-logo-voting](https://i.stack.imgur.com/h00vV.png)](http://www.pollsb.com/polls/p2131264-logo_works_best_superuser_com)
 
 
 

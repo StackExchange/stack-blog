@@ -11,6 +11,7 @@ wordpress_id: 8320
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/16327907-stack-exchange-stack-exchange-podcast-8.mp3
 ---
 
 It's our first test of a live podcast!  In case you missed it, we streamed this week's podcast live during the taping. It's something we're playing with and may continue to do in the future if it is popular.  You can tune in to the live tapings Tuesdays @ 4 PM Eastern / 1 PM Pacific -- check Joel and Jeff's Twitter feeds for the location.
@@ -47,6 +48,4 @@ It's our first test of a live podcast!  In case you missed it, we streamed this
 
 Tune in next week when our guest is [Sam Saffron](http://stackoverflow.com/users/17174/sam-saffron) (aka [Waffles](http://meta.stackoverflow.com/users/17174/waffles)) - once again, you'll be able to watch/listen live on Tuesday @ 4pm as we do the taping.  Follow [@spolsky](https://twitter.com/#!/spolsky) and [@codinghorror](http://www.twitter.com/codinghorror) for the link.  You can also hang out in the [official chat room](http://chat.stackexchange.com/rooms/512/se-podcast-live-chat) during the tapings.
 
-[Stack Exchange Podcast - Episode #06](http://soundcloud.com/stack-exchange/stack-exchange-podcast-8) by [Stack Exchange](http://soundcloud.com/stack-exchange)
-
-<p><object width="100%" height="81"><param name="movie" value="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F16327907" /><param name="allowscriptaccess" value="always" /><embed type="application/x-shockwave-flash" width="100%" height="81" src="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F16327907" allowscriptaccess="always"></embed></object> <span><a href="http://soundcloud.com/stack-exchange/stack-exchange-podcast-8">Stack Exchange Podcast &#8211; Episode #06</a> by <a href="http://soundcloud.com/stack-exchange">Stack Exchange</a></span></p>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/16327907&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>

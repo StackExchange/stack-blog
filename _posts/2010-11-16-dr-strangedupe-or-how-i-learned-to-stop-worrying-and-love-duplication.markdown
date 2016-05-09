@@ -59,7 +59,7 @@ Furthermore, I've found that the perfect duplicate question is a ... [bit of a m
 
 In other words, over time, **I have learned to stop worrying and love (some) duplication**. And you should too.
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/dr-strangelove-bomb.jpg)](http://www.imdb.com/title/tt0057012/)
+[![Goldie, how many times have I told you guys that I don't want no horsing around on the airplane?](https://i.stack.imgur.com/RtNFY.jpg)](http://www.imdb.com/title/tt0057012/)
 
 Here are my official guidelines on question duplication:
 

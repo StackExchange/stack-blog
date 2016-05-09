@@ -11,6 +11,7 @@ wordpress_id: 8081
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/15072642-stack-exchange-stack-exchange-podcast-7.mp3
 ---
 
 This week, the Stack Exchange podcast travels to England, where Jeff and Joel are joined by [Stack Overflow legend Jon Skeet](http://blog.stackoverflow.com/2010/09/what-happens-when-you-reach-200k-reputation/) (and son!) along with [Marc Gravell](http://blog.stackoverflow.com/2010/06/welcome-stack-overflow-valued-associates-00006-and-00007/).
@@ -69,6 +70,4 @@ Jon needs your help!  If he is chosen to speak at DevDays 2011, what do you  wa
 
 See you next week!
 
-[Stack Exchange Podcast - Episode #04 w/ Jon Skeet](http://soundcloud.com/stack-exchange/stack-exchange-podcast-7) by [Stack Exchange](http://soundcloud.com/stack-exchange)
-
-<p><object width="100%" height="81"><param name="movie" value="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F15072642" /><param name="allowscriptaccess" value="always" /><embed type="application/x-shockwave-flash" width="100%" height="81" src="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F15072642" allowscriptaccess="always"></embed></object> <span><a href="http://soundcloud.com/stack-exchange/stack-exchange-podcast-7">Stack Exchange Podcast &#8211; Episode #04 w/ Jon Skeet</a> by <a href="http://soundcloud.com/stack-exchange">Stack Exchange</a></span></p>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/15072642&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>

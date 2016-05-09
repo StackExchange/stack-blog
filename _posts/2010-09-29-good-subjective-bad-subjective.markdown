@@ -29,7 +29,7 @@ Avoid asking questions that are subjective, argumentative, or require extended d
 
 Thus, **questions that are not answerable -- discussions, debates, opinions -- should be closed as subjective**. It seems simple enough: Fact good; opinion and discussion bad. But why?
 
-Most forums and chat rooms have a scale problem. As in, _they don't_. The more people that join the discussion, the more noise each of those connections bring. So the forums get progressively noisier and noisier, and suddenly one day … [you stop learning](http://scobleizer.com/2009/11/02/the-chat-roomforum-problem-an-apology-to-technosailor/).
+Most forums and chat rooms have a scale problem. As in, _they don't_. The more people that join the discussion, the more noise each of those connections bring. So the forums get progressively noisier and noisier, and suddenly one day … [you stop learning](http://scobleizer.com/the-chat-roomforum-problem-an-apology-to-technosailor/).
 
 
 

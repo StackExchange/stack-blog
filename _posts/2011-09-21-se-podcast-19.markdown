@@ -11,6 +11,7 @@ wordpress_id: 9888
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/23835379-stack-exchange-stack-exchange-podcast-19.mp3
 ---
 
 Everyone's back in their home towns this week (Sorry for the audio quality last week. It was Joel's fault [actually, it was TechCrunch's fault]). And joining Jeff & Joel this week is [John Sheehan](http://www.twitter.com/johnsheehan), Developer Evangelist for [Twilio](http://www.twilio.com).
@@ -67,6 +68,5 @@ Everyone's back in their home towns this week (Sorry for the audio quality last 
 
 
 Join us next week at the normal time when our guest will be John Siracusa from Ars Technica (or as Joel likes to refer to him: "he wrote that really amazing review of Lion").
-[Stack Exchange Podcast - Episode #19 w/ John Sheehan](http://soundcloud.com/stack-exchange/stack-exchange-podcast-19) by [Stack Exchange](http://soundcloud.com/stack-exchange)
 
-<object width="100%" height="81" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowscriptaccess" value="always" /><param name="src" value="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F23835379" /><embed width="100%" height="81" type="application/x-shockwave-flash" src="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F23835379" allowscriptaccess="always" /></object> <span><a href="http://soundcloud.com/stack-exchange/stack-exchange-podcast-19">Stack Exchange Podcast &#8211; Episode #19 w/ John Sheehan</a> by <a href="http://soundcloud.com/stack-exchange">Stack Exchange</a></span></p>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/23835379&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>

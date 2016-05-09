@@ -19,7 +19,7 @@ Remember that WMD reverse engineering project we [reluctantly undertook?](http:/
 
 
 
-[![git-wmd-reverse-engineering-timeline](http://blog.stackoverflow.com/wp-content/uploads/git-wmd-reverse-engineering-timeline1.png)](http://github.com/cky/wmd/network)
+[![git-wmd-reverse-engineering-timeline](https://i.stack.imgur.com/uKxVQ.png)](http://github.com/cky/wmd/network)
 
 
 

@@ -11,6 +11,7 @@ wordpress_id: 13428
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/95226481-stack-exchange-stack-exchange-podcast-48.mp3
 ---
 
 Welcome to Stack Exchange Podcast #48! Our guest today is [Jorge Castro](http://jorgecastro.org/), member of the Community Team at [Canonical](http://www.canonical.com/) (of [Ubuntu](http://ubuntu.com/) fame). We also have Robert Cartaino, our very own Director of Community Development, here at Stack Exchange, as well as the usual suspects - David Fullerton, Jay Hanlon, and Joel Spolsky..  Our guest Jorge Castro works **on** Ubuntu, **at** Canonical. He says to pretend it's double Os instead of U's: Ooboontoo. (David, Jay, and Joel work **on** Stack Exchange, **at** Stack Exchange.)
@@ -72,4 +73,4 @@ Thanks to [Jorge Castro](http://jorgecastro.org/) and Robert Cartaino for join
 
 
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F95226481&#038;show_artwork=true"></iframe><br />
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/95226481&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>

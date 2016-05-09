@@ -18,7 +18,7 @@ As part of our new backup strategy, I decided to invest in an inexpensive Networ
 
 
 
-[![qnap 409u](http://blog.stackoverflow.com/wp-content/uploads/qnap-409u.jpg)](http://www.amazon.com/dp/B001AXCJVE/?tag=codinghorror-20)
+[![qnap 409u](https://i.stack.imgur.com/Qcpav.jpg)](http://www.amazon.com/dp/B001AXCJVE/?tag=codinghorror-20)
 
 
 
@@ -49,7 +49,7 @@ Being Linux, you can also do [lots of other cool stuff](http://www.qnap.com/pro_
 
 
 
-[![ts409u-internals](http://blog.stackoverflow.com/wp-content/uploads/ts409u-internals.jpg)](http://www.techwarelabs.com/reviews/servers/qnap_ts_409u_turbo_nas/index_2.shtml)
+[![ts409u-internals](https://i.stack.imgur.com/lZJZA.jpg)](http://www.techwarelabs.com/reviews/servers/qnap_ts_409u_turbo_nas/index_2.shtml)
 
 
 
@@ -73,7 +73,7 @@ Seventeen (!) hours later, the array was fully synced and ready for benchmarking
 
 
 
-[![raid-6-diagram](http://blog.stackoverflow.com/wp-content/uploads/raid-6-diagram.png)](http://en.wikipedia.org/wiki/Standard_RAID_levels#RAID_6)
+[![raid-6-diagram](https://i.stack.imgur.com/8KnI3.png)](http://en.wikipedia.org/wiki/Standard_RAID_levels#RAID_6)
 
 
 

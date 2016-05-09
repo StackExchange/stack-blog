@@ -19,7 +19,7 @@ In case you were wondering, no, we haven't forgotten about the Hacker Badge. Whi
 
 
 
-[![hacker-icon](http://blog.stackoverflow.com/wp-content/uploads/hacker-icon.png)](http://www.catb.org/~esr/hacker-emblem/)
+[![hacker-icon](https://i.stack.imgur.com/0W3wP.png)](http://www.catb.org/~esr/hacker-emblem/)
 
 
 

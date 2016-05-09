@@ -11,6 +11,7 @@ wordpress_id: 8375
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/16777601-stack-exchange-stack-exchange-podcast-9.mp3
 ---
 
 Jeff and Joel are joined by [Sam Saffron](http://stackoverflow.com/users/17174/sam-saffron) (aka [Waffles](http://meta.stackoverflow.com/users/17174/waffles)), our only Australian developer at Stack Exchange!
@@ -54,8 +55,4 @@ Which Jeff did not pass. :) But the far more interesting test that we're giving 
 
 Join us next week when our guest is [Marco Arment](http://www.marco.org/), the creator of [Instapaper](http://www.instapaper.com/) and the former lead developer of Tumblr.  We'll also be live streaming again, so tune in to [http://www.livestream.com/stackexchange](http://www.livestream.com/stackexchange) starting at 3:30pm - you can also join the live chat at [http://chat.stackexchange.com/rooms/512](http://chat.stackexchange.com/rooms/512).
 
-[Stack Exchange Podcast - Episode #07 w/ Sam Saffron](http://soundcloud.com/stack-exchange/stack-exchange-podcast-9) by [Stack Exchange](http://soundcloud.com/stack-exchange)
-
-[display_podcast]
-
-<p><object width="100%" height="81"><param name="movie" value="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F16777601" /><param name="allowscriptaccess" value="always" /><embed type="application/x-shockwave-flash" width="100%" height="81" src="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F16777601" allowscriptaccess="always"></embed></object> <span><a href="http://soundcloud.com/stack-exchange/stack-exchange-podcast-9">Stack Exchange Podcast &#8211; Episode #07 w/ Sam Saffron</a> by <a href="http://soundcloud.com/stack-exchange">Stack Exchange</a></span></p>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/16777601&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>

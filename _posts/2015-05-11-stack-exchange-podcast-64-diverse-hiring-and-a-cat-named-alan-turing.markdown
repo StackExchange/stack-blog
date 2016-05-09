@@ -1,5 +1,5 @@
 ---
-author: abbytmiller
+author: hairboat
 comments: true
 date: 2015-05-11 20:00:01+00:00
 layout: post
@@ -11,6 +11,8 @@ tags:
 - company
 - podcasts
 - diversity
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/204221383-stack-exchange-stack-exchange-podcast-episode-64-not-recorded-in-ithaca.mp3
+wordpress_id: 15818
 ---
 
 Welcome to Stack Exchange Podcast Episode #64, recorded in the podcast studio at Stack Exchange HQ in New York City, NY. 

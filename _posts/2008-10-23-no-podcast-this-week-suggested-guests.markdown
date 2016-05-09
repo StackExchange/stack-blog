@@ -4,7 +4,7 @@ comments: true
 date: 2008-10-23 13:41:35+00:00
 layout: post
 redirect_from: /2008/10/no-podcast-this-week-suggested-guests
-hero: http://blog.stackoverflow.com/wp-content/uploads/code_monkey_colour.jpg
+hero: https://i.stack.imgur.com/znCLS.jpg
 slug: no-podcast-this-week-suggested-guests
 title: No Podcast This Week -- Suggested Guests?
 wordpress_id: 138
@@ -18,7 +18,7 @@ There will be no podcast this week, because Joel is on a business trip to Korea,
 
 
 
-[![code monkey](http://blog.stackoverflow.com/wp-content/uploads/code_monkey_colour.jpg)](http://www.jonathancoulton.com/2006/04/14/thing-a-week-29-code-monkey/)
+[![code monkey](https://i.stack.imgur.com/znCLS.jpg)](http://www.jonathancoulton.com/2006/04/14/thing-a-week-29-code-monkey/)
 
 
 

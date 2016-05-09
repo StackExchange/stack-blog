@@ -11,6 +11,7 @@ wordpress_id: 11260
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/38285361-stack-exchange-stack-exchange-podcast-31.mp3
 ---
 
 Well, it's time for the final Stack Exchange Podcast featuring Jeff Atwood before he [rides off into the sunset](http://blog.stackoverflow.com/2012/02/farewell/).  Tune in to hear Jeff and Joel reminisce about the origins of Stack Exchange, the journey along the way, and listen to some special recordings from those who have been around since the beginning.
@@ -18,7 +19,7 @@ Well, it's time for the final Stack Exchange Podcast featuring Jeff Atwood befor
 
 
 	
-  * Joel was reading the transcript of [Stack Overflow Podcast 001](../2008/04/podcast-1/). It's from April 2008. Listen to the awesome excerpt about the birth of Stack Overflow! (Stack Overflow is not another place to discuss tabs vs. spaces.)
+  * Joel was reading the transcript of [Stack Overflow Podcast 001](https://blog.stackexchange.com/2008/04/podcast-1/). It's from April 2008. Listen to the awesome excerpt about the birth of Stack Overflow! (Stack Overflow is not another place to discuss tabs vs. spaces.)
 
 	
   * **What was the biggest thing that surprised you about Stack Overflow/Stack Exchange?** Jeff mentions the Meta Issue. Joel started out with a strong antipathy toward meta questions, or discussing the site on the site instead of discussing the topic of the site. It comes down to building the software to accommodate the direction the community goes in.  [You can't plan everything](http://www.fudco.com/chip/lessons.html).
@@ -27,19 +28,19 @@ Well, it's time for the final Stack Exchange Podcast featuring Jeff Atwood befor
   * Stack Overflow originally launched without comments, but that was fixed very shortly after launch, because it was something the community needed. Wikipedia hasn't done this for Talk pages, and that's why they're so darn confusing.
 
 	
-  * People have recorded nice messages for Jeff in honor of his departure. Geoff Dalgas aka [Valued Associate #00003](../2009/05/welcome-stack-overflow-valued-associate-00003/) goes first, and his clip is full of win (and [awesomely bad music](http://www.listology.com/list/vh1s-50-most-awesomely-bad-songsever-50-1)). Quantcast says we have 20 million visitors a month, and together they could populate a city the size of Seoul, South Korea. We have more people typing on our websites than English Wikipedia.
+  * People have recorded nice messages for Jeff in honor of his departure. Geoff Dalgas aka [Valued Associate #00003](https://blog.stackexchange.com/2009/05/welcome-stack-overflow-valued-associate-00003/) goes first, and his clip is full of win (and [awesomely bad music](http://www.listology.com/list/vh1s-50-most-awesomely-bad-songsever-50-1)). Quantcast says we have 20 million visitors a month, and together they could populate a city the size of Seoul, South Korea. We have more people typing on our websites than English Wikipedia.
 
 	
-  * Kyle Cronin sent in our next message. He's an exemplary Stack Exchange user who contributed heavily to the birth of Meta Stack Overflow. Kyle was started a meta bulletin board after he found the official UserVoice site inadequate (that is until Jeff decided it was a core business function and made MSO).
+  * Kyle Cronin sent in our next message. He's an exemplary Stack Exchange user who contributed heavily to the birth of Meta Stack Overflow. Kyle started a meta bulletin board after he found the official UserVoice site inadequate (that is until Jeff decided it was a core business function and made MSO).
 
 	
-  * Next up is Josh Heyer aka Shog9, another [Valued Associate](../2011/03/welcome-valued-associate-josh-heyer/) who speaks very slowly. Jeff had originally put Josh in the same bucket as the [Welbogs](http://stackoverflow.com/users/52443/welbog) - people who get bored with chess, so they start flinging the chess pieces everywhere. Stack Overflow and Josh have grown up together. Jeff and Joel found a way to keep users like Josh interested and entertained without being detrimental to the core purpose of the sites, through Meta, Area 51, more sites, and beyond.
+  * Next up is Josh Heyer aka Shog9, another [Valued Associate](https://blog.stackexchange.com/2011/03/welcome-valued-associate-josh-heyer/) who speaks very slowly. Jeff had originally put Josh in the same bucket as the [Welbogs](http://stackoverflow.com/users/52443/welbog) - people who get bored with chess, so they start flinging the chess pieces everywhere. Stack Overflow and Josh have grown up together. Jeff and Joel found a way to keep users like Josh interested and entertained without being detrimental to the core purpose of the sites, through Meta, Area 51, more sites, and beyond.
 
 	
   * History of the site: Started with Stack Overflow. Then came Server Fault and Super User, which topics were deemed off topic for Stack Overflow, but which were great fits for our audience. Then came Stack Exchange 1.0 and...
 
 	
-  * ...[Valued Associate David Fullerton](../2010/06/new-hires-in-new-york/)! He came over from Fog Creek and took the reins for Stack Exchange 1.0... which failed. Luckily, it became clear that the asset is not the software, but the community. Enter [Stack Exchange 2.0](../2010/04/changes-to-stack-exchange/)! Communities were given the power to create new sites, for better or for worse. Theirs is the power to decide whether or not things like ["identify this x"](../2012/02/lets-play-the-guessing-game/) questions are helpful.
+  * ...[Valued Associate David Fullerton](https://blog.stackexchange.com/2010/06/new-hires-in-new-york/)! He came over from Fog Creek and took the reins for Stack Exchange 1.0... which failed. Luckily, it became clear that the asset is not the software, but the community. Enter [Stack Exchange 2.0](https://blog.stackexchange.com/2010/04/changes-to-stack-exchange/)! Communities were given the power to create new sites, for better or for worse. Theirs is the power to decide whether or not things like ["identify this x"](https://blog.stackexchange.com/2012/02/lets-play-the-guessing-game/) questions are helpful.
 
 	
   * There is such a thing as [sites that harm the internet simply by continuing to exist](http://askville.amazon.com/Math/Category.do?cat=Math). For that reason, sometimes sites need to be closed. Facts of life! (Askville is an extreme example. It can't even hide its bad content, like Reddit can.)
@@ -66,7 +67,7 @@ Well, it's time for the final Stack Exchange Podcast featuring Jeff Atwood befor
   * This is the final podcast with Jeff & Joel! Jeff's last thoughts: the new babies are doing well and existing ex-baby Henry is doing well adapting to the young ones.
 
 	
-  * Jarrod Dixon, [Valued Associate #00002](../2009/01/welcome-stack-overflow-valued-associate-00002/), will play us off.
+  * Jarrod Dixon, [Valued Associate #00002](https://blog.stackexchange.com/2009/01/welcome-stack-overflow-valued-associate-00002/), will play us off.
 
 	
   * Jeff's final advice: choose the adventures that scare you a little bit.
@@ -74,4 +75,4 @@ Well, it's time for the final Stack Exchange Podcast featuring Jeff Atwood befor
 
 
 
-<p><iframe src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F38285361%3Fsecret_token%3Ds-WlRIq&amp;show_artwork=true&amp;secret_url=true" frameborder="no" scrolling="no" width="100%" height="166"></iframe></p>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/38285361&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>

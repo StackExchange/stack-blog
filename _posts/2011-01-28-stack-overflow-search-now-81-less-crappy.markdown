@@ -37,7 +37,7 @@ Although our de-crapifying efforts have been noble and heroic (well, in my mind,
 
 That's why I'm pleased to announce that as of today, we have switched all of our search functionality network wide from SQL Server to [Lucene](http://lucene.apache.org/java/docs/index.html), or more specifically, the [Lucene.NET](http://lucene.apache.org/lucene.net/) flavor.
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/lucene-logo.png)](http://lucene.apache.org/java/docs/index.html)
+[![](https://i.stack.imgur.com/SP82G.png)](http://lucene.apache.org/java/docs/index.html)
 
 (We are, however, a little concerned that [Lucene.NET was dropped by the Apache Incubator](http://search-lucene.com/m/nMTuR1pPJbq). We'd like to see what we can do to help the project stay vital and in sync with the master Lucene project. Let us know how we can best do that!)
 
@@ -83,7 +83,7 @@ Oh, and if you want to **search all [Stack Exchange sites](http://stackexchange.
 
 
 
-[![stack exchange search all sites](http://blog.stackoverflow.com/wp-content/uploads/stack-exchange-all-site-search.png)](http://stackexchange.com)
+[![stack exchange search all sites](https://i.stack.imgur.com/HnIUW.png)](http://stackexchange.com)
 
 
 

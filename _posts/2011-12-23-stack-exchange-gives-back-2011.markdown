@@ -19,7 +19,7 @@ I'm sitting up late this evening trying to think of an inspirational way to end 
 > Greetings to the Stack Exchange Moderators,
 
 >
-In a yearly tradition at Stack Exchange, we set aside this time of year to [make sure we are "giving back"](../2010/12/stack-overflow-gives-back-2010/) to effect positive change in the world. As a moderator, you play such a crucial role in our success, and we would like to include you in that effort.
+In a yearly tradition at Stack Exchange, we set aside this time of year to [make sure we are "giving back"](https://blog.stackexchange.com/2010/12/stack-overflow-gives-back-2010/) to effect positive change in the world. As a moderator, you play such a crucial role in our success, and we would like to include you in that effort.
 
 >
 As a small gesture of thanks, we would like to make a **$100 donation to charity on behalf of each community moderator**. The link below leads to a brief form where you can select which charity you wish to receive the donation.

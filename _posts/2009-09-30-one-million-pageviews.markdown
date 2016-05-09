@@ -23,7 +23,7 @@ Per Google Analytics, we finally did **one million pageviews in a single day** o
 
 
 
-[![dr-evil-pinky](http://blog.stackoverflow.com/wp-content/uploads/dr-evil-pinky.jpg)](http://www.youtube.com/watch?v=cKKHSAE1gIs#t=0m13s)
+[![dr-evil-pinky](https://i.stack.imgur.com/pwsvk.jpg)](http://www.youtube.com/watch?v=cKKHSAE1gIs#t=0m13s)
 
 
 

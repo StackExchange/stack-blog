@@ -37,7 +37,7 @@ But Stack Exchange doesn't have the empty restaurant problem. Case in point: One
 
 _48 Hours of Web Apps:_
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/Web-Apps-Stats.png)](http://area51.stackexchange.com/proposals/57/web-applications)
+[![](https://i.stack.imgur.com/kyidx.png)](http://area51.stackexchange.com/proposals/57/web-applications)
 
 How did Web Apps overcome the empty restaurant problem? Area 51 is designed to build up momentum for a site _prior_ to launch. On opening day, hundreds (soon to be thousands) of people pile in to ask and answer questions when the site first opens. So when someone asks a question, it gets answered... quickly.
 

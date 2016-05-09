@@ -11,6 +11,7 @@ wordpress_id: 8771
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/19421596-stack-exchange-stack-exchange-podcast-12.mp3
 ---
 
 This week, Jeff and Joel are joined by [Patrick McKenzie](http://www.kalzumeus.com/) - StackOverflow contributor, internet commentator and SEO expert (especially when it comes to driving traffic for [Halloween bingo cards](http://www.halloweenbingocards.net/)).  After a few early tech issues (don't worry, we cleaned up for everyone at home) we jump right into things, with tons of discussion, including:
@@ -72,6 +73,4 @@ This week, Jeff and Joel are joined by [Patrick McKenzie](http://www.kalzumeus.c
 
 We'll see you next week when our guest is [Stack Exchange designer](http://blog.stackoverflow.com/2010/07/our-designer-in-residence-jin-yang/) [Jin Yang](https://twitter.com/#!/jzy)!
 
-[Stack Exchange Podcast - Episode #12 w/ Patrick McKenzie](http://soundcloud.com/stack-exchange/stack-exchange-podcast-12) by [Stack Exchange](http://soundcloud.com/stack-exchange)
-
-<p><object width="100%" height="81" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowscriptaccess" value="always" /><param name="src" value="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F19421596" /><embed width="100%" height="81" type="application/x-shockwave-flash" src="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F19421596" allowscriptaccess="always" /></object> <span><a href="http://soundcloud.com/stack-exchange/stack-exchange-podcast-12">Stack Exchange Podcast &#8211; Episode #12 w/ Patrick McKenzie</a> by <a href="http://soundcloud.com/stack-exchange">Stack Exchange</a></span></p>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/19421596&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>

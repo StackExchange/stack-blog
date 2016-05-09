@@ -111,7 +111,7 @@ We got a lot of great suggestions from the chat, and [Arqade.com](http://arqade.
 ## Branding and Design
 
 
-[![Arqade Site Card](http://blog.stackoverflow.com/wp-content/uploads/sitecard1-300x193.png)](http://blog.stackoverflow.com/2012/06/welcome-to-the-arqade/sitecard-2/)
+[![Arqade Site Card](https://i.stack.imgur.com/EL2qj.png)](http://blog.stackoverflow.com/2012/06/welcome-to-the-arqade/sitecard-2/)
 Once we had the name, the next step was to create a design around it. Our community really loved Jin’s 8-bit theme, so we didn’t want to change the design too drastically, but we did want to tweak it to make it feel like you’re in an arcade. Jin did a little design magic and [proposed the design](http://meta.gaming.stackexchange.com/q/4821/16718) to the community last week. While change is always difficult, we think the spaceship is pretty awesome and will make for some interesting swag!
 
 

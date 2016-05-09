@@ -1,0 +1,87 @@
+---
+layout: null
+redirect_from:
+ - /feeds/podcast
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:media="http://search.yahoo.com/mrss/"
+>
+
+<channel>
+	<title>The Stack Exchange Podcast</title>
+	<atom:link href="{{ site.url }}/feed/podcast" rel="self" type="application/rss+xml" />
+	<link>{{ site.url }}</link>
+	<description>free, community powered Q&#38;A</description>
+	<lastBuildDate>{{ site.time | date: "%a, %d %b %Y %T +0000" }}</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator></generator>
+	<copyright>Copyright © Stack Overflow, {{ site.time | date: "%Y" }}</copyright>
+	<managingEditor>podcast@stackoverflow.com (The Stack Overflow Team)</managingEditor>
+	<webMaster>podcast@stackoverflow.com (The Stack Overflow Team)</webMaster>
+	<ttl>1440</ttl>
+	<image>
+		<url>https://cdn.sstatic.net/stackexchange/img/se-podcast-logo.png</url>
+		<title>The Stack Exchange Podcast</title>
+		<link>{{ site.url }}</link>
+		<width>144</width>
+		<height>144</height>
+	</image>
+	<itunes:new-feed-url>{{ site.url }}/feed/podcast</itunes:new-feed-url>
+	<itunes:subtitle>A look inside the Stack Exchange Network</itunes:subtitle>
+	<itunes:summary>Hosted by Joel Spolsky with Jay Hanlon and David Fullerton, the Stack Exchange podcast lets you listen in on discussions and decisions about the Stack Exchange Network. The Stack Exchange podcast gives you an unparalleled view into how a startup is created and built.
+
+About Stack Overflow:
+Stack Overflow is the flagship property of a fast-growing network of over 100 question and answer sites on diverse topics from software programming to cooking to photography and gaming. We are an expert knowledge exchange: a place where physics researchers can ask each other about quantum entanglement, computer programmers can ask about JavaScript date formats, and photographers can share knowledge about taking great pictures in the snow.</itunes:summary>
+	<itunes:keywords>Programming, Stack, Exchange, Stack, Overflow, Computers, Technology, Information, Internet, Question, Answer, Q&#38;A</itunes:keywords>
+	<itunes:category text="Technology">
+		<itunes:category text="Software How-To" />
+	</itunes:category>
+	<itunes:category text="Technology">
+		<itunes:category text="Podcasting" />
+	</itunes:category>
+	<itunes:category text="Business" />
+	<itunes:author>The Stack Overflow Team</itunes:author>
+	<itunes:owner>
+		<itunes:name>The Stack Overflow Team</itunes:name>
+		<itunes:email>podcast@stackoverflow.com</itunes:email>
+	</itunes:owner>
+	<itunes:block>no</itunes:block>
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:image href="https://cdn.sstatic.net/stackexchange/img/se-podcast-logo.png" />
+	{% for post in site.tags.podcasts %}
+		{% if post.podcast and post.draft != true %}
+		<item>
+			<title><![CDATA[{{ post.title | raw }}]]></title>
+			<link>{{ site.url }}{{ post.url }}</link>
+			<dc:creator><![CDATA[{{ post.full_author.name }}]]></dc:creator>
+			{% for category in post.tags %}
+			<category><![CDATA[{{ category }}]]></category>
+			{% endfor %}
+			<pubDate>{{ post.date | date: "%a, %d %b %Y %T +0000" }}</pubDate>
+			{% if post.wordpress_id %}
+			<guid isPermaLink="false">http://blog.stackoverflow.com/?p={{ post.wordpress_id }}</guid>
+			{% else %}
+			<guid isPermaLink="false">{{ site.url }}{{ post.url }}</guid>
+			{% endif %}
+			<description><![CDATA[{{ post.excerpt | raw }}]]></description>
+			<content:encoded><![CDATA[{{ post.content | raw }}]]></content:encoded>
+			<itunes:author>The Stack Overflow Team</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:summary><![CDATA[{{ post.content | strip_html | unescapeHTML | truncate: 4000 }}]]></itunes:summary>
+			<itunes:subtitle><![CDATA[{{ post.excerpt | strip_html | unescapeHTML | truncate: 255  }}]]></itunes:subtitle>
+			<enclosure type="audio/mpeg" url="{{ post.podcast }}" length="0"/>
+		</item>
+		{% endif %}
+	{% endfor %}
+	</channel>
+</rss>

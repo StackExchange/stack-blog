@@ -12,20 +12,21 @@
 
     <!-- Facebook metadata -->
     <meta property="fb:admins" content="" />
-    <meta property="og:image" content="{{ page.hero }}"/>
+    <meta property="og:image" content="{% if page.hero %}{{ page.hero }}{% else %}https://cdn.sstatic.net/stackoverflow/img/apple-touch-icon@2.png{% endif %}"/>
     <meta property="og:title" content="{{ page.title }}"/>
     <meta property="og:url" content="{{ page.url }}"/>
-    <meta property="og:site_name" content="Stack Exchange Blog"/>
+    <meta property="og:site_name" content="Stack Overflow Blog"/>
     <meta property="og:description" content="{{ page.description }}">
     <meta property="og:type" content="website"/>
 
     <!-- Twitter metadata -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="@StackExchange">
-    <meta name="twitter:creator" content="@StackExchange">
+    <meta name="twitter:site" content="@StackOverflow">
+    <meta name="twitter:creator" content="@StackOverflow">
     <meta name="twitter:title" content="{{ page.title }}">
     <meta name="twitter:description" content="{{ page.description }}">
-    <meta name="twitter:image:src" content="{{ page.hero }}">
+    <meta name="twitter:image" content="{% if page.hero %}{{ page.hero }}{% else %}https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon.png{% endif %}">
+    <meta name="twitter:image:alt" content="{% if page.hero %}{{ page.title }}{% else %}Stack Overflow{% endif %}">
 
     <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -43,11 +44,12 @@
         <div class="-col4">
           <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
         </div>
-        <nav class="-col8 hidden-nav">
+        <nav class="-col8">
           <a class="home{% if page.top_nav == "home" %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
           <a class="company{% if page.top_nav == "company" %} active{% endif %}" href="{{ site.baseurl }}/company/">Company News</a>
           <a class="engineering{% if page.top_nav == "engineering" %} active{% endif %}" href="{{ site.baseurl }}/engineering/">Engineering</a>
           <a class="authors{% if page.top_nav == "authors" %} active{% endif %}" href="{{ site.baseurl }}/authors/">Contributors</a>
+          <a class="speakers{% if page.top_nav == "speakers" %} active{% endif %}" href="{{ site.baseurl }}/speakers/">Speakers</a>
         </nav>
       </div>
     </header>
@@ -81,14 +83,14 @@
       <div class="inner-container">
         <div class="-row">
           <div class="-col6">
-            <div class="about">
+            <div class="about" style="visibility: hidden;">
               <div class="-row">
                 <div class="-col3 _textCenter">
                   <br/>
                   <i class="blog-icon logo"></i>
                 </div>
                 <div class="-col9">
-                  <p>Stack Exchange is a network of specialized communities that are created &amp; run by passionate experts and enthusiasts like you.</p>
+                  <p>Stack Overflow is the home of a network of specialized communities that are created &amp; run by passionate experts and enthusiasts like you.</p>
                   <p><a href="http://stackexchange.com/sites">Discover our network <i class="blog-icon read-more"></i></a></p>
                 </div>
               </div>

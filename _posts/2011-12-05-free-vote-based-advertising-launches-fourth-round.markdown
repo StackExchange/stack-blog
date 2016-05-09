@@ -15,7 +15,7 @@ tags:
 
 For almost two years, we've reached out to our programmer communities to support open-source projects.
 
-[Free Vote-Based Advertising for Open Source Projects](../2009/12/free-vote-based-advertising-for-open-source-projects/)
+[Free Vote-Based Advertising for Open Source Projects](https://blog.stackexchange.com/2009/12/free-vote-based-advertising-for-open-source-projects/)
 
 It's time once again to **publicize your favorite open-source projects in need of programmer assistance**. Every six months, we accept new submissions for free open-sourced advertising to be served in an ad slot on Stack Overflow.
 

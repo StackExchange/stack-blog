@@ -38,7 +38,7 @@ We need a [Stack Overflow Annual User Survey](https://www.surveymonkey.com/s/St
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/Final-banner-PNG-150x150.png)](https://www.surveymonkey.com/s/StackOverflowSurvey)
+[![](https://i.stack.imgur.com/7D2OR.png)](https://www.surveymonkey.com/s/StackOverflowSurvey)
 
 
 The results of the survey will be released in a blog post at a future date.  You can also receive the final results sooner– simply provide your email at the end of the survey.  Your responses are kept completely anonymous and tabulated by SurveyMonkey.

@@ -15,7 +15,7 @@ tags:
 
 We've been busy hiring more of the most talented people on the planet! Three cheers for the newest employees at Stack Exchange:
 
-**[![](http://blog.stackoverflow.com/wp-content/uploads/Horstmann-Max.jpg)](http://stackoverflow.com/users/189572/max)Max Horstmann, Web Developer (Careers 2.0)**
+**[![](https://i.stack.imgur.com/sRWCk.jpg)](http://stackoverflow.com/users/189572/max)Max Horstmann, Web Developer (Careers 2.0)**
 
 _New York_
 
@@ -23,7 +23,7 @@ __Max joins Stack Exchange as a developer on the Careers team. Originally from D
 
 
 
-**[![](http://blog.stackoverflow.com/wp-content/uploads/Coster-Oded1.jpg)](http://stackoverflow.com/users/1583/oded)Oded Coster, Web Developer (Core)**
+**[![](https://i.stack.imgur.com/IXlYA.jpg)](http://stackoverflow.com/users/1583/oded)Oded Coster, Web Developer (Core)**
 
 _London_
 

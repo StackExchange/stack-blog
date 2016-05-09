@@ -40,7 +40,7 @@ The new pipeline works just like [Gist](https://gist.github.com/), you can track
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/fork11.png)](http://data.stackexchange.com/stackoverflow/query/6772/stackoverflow-rank-and-percentile)
+[![](https://i.stack.imgur.com/hOhnY.png)](http://data.stackexchange.com/stackoverflow/query/6772/stackoverflow-rank-and-percentile)
 ![](/images/wordpress/fork2.png)
 
 

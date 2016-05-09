@@ -17,8 +17,8 @@ tags:
 
 Pete has been married to his lovely wife Kristy for eight years and they have two sons Nate, 3 and Ben, 1.  An avid gardener, Pete has successfully grown pumpkins, radishes, cucumbers, swiss chard, snow peas and more.  In his spare time, Pete enjoys playing computer games and [guns with George](http://blog.serverfault.com/post/welcome-server-fault-valued-associate-000003/).
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/Kristy-Pete-Nate.jpg)](http://blog.stackoverflow.com/2011/10/welcome-valued-associate-peter-grace/kristy-pete-nate/)       [![](http://blog.stackoverflow.com/wp-content/uploads/Pete-Ben-Nate.jpg)](http://blog.stackoverflow.com/2011/10/welcome-valued-associate-peter-grace/pete-ben-nate/)
+[![](https://i.stack.imgur.com/AlasU.jpg)](http://blog.stackoverflow.com/2011/10/welcome-valued-associate-peter-grace/kristy-pete-nate/)       [![](http://blog.stackoverflow.com/wp-content/uploads/Pete-Ben-Nate.jpg)](http://blog.stackoverflow.com/2011/10/welcome-valued-associate-peter-grace/pete-ben-nate/)
 
 Welcome Pete!
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/Pete-Nate.jpg)](http://blog.stackoverflow.com/2011/10/welcome-valued-associate-peter-grace/pete-nate/)
+[![](https://i.stack.imgur.com/rnMnU.jpg)](http://blog.stackoverflow.com/2011/10/welcome-valued-associate-peter-grace/pete-nate/)

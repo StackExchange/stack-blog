@@ -11,6 +11,7 @@ wordpress_id: 10303
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/30073425-stack-exchange-stack-exchange-podcast-30.mp3
 ---
 
 Guests this week are [Robert Cartaino](http://stackexchange.com/users/34933/robert-cartaino?tab=accounts) and [Rebecca Chernoff](http://stackexchange.com/users/60791/rebecca-chernoff?tab=accounts). Yeehaw! They're members of our Community Team.
@@ -36,7 +37,7 @@ Guests this week are [Robert Cartaino](http://stackexchange.com/users/34933/robe
   * "Wouldn't it be simpler to just create a catch-all site, [answers.stackexchange.com](http://answers.stackexchange.com/), and split off topics as they grow large enough for their own sites?" Basically, there is no way to grow a_community_ through this method, since all the people there would have nothing in common. A counterexample is the split between [Stack Overflow](http://stackoverflow.com/) and [Programmers](http://programmers.com/) - but that wouldn't have worked with someone just asking a question about hardwood flooring on Stack Overflow and having it turn into [Home Improvement](http://diy.stackexchange.com/).
 
 	
-  * Really good moderation is key to everything. There are 260 moderators on the whole network! We start to identify moderators a few weeks into a site's private beta by looking for active meta participants, editing to improve content, voting to close - doing activities other than simply asking and answering questions. This does _not_ necessarily mean that the moderators must be the highest-rep users! That's like asking your grandparents to be ushers at your wedding. Rebecca tells us about the changes that were made to the Stack Overflow election system for the recent moderator election. It involves badges. [Learn more about elections](../2010/12/stack-exchange-moderator-elections-begin/)! The [Android elections](http://android.stackexchange.com/election) are going on now.
+  * Really good moderation is key to everything. There are 260 moderators on the whole network! We start to identify moderators a few weeks into a site's private beta by looking for active meta participants, editing to improve content, voting to close - doing activities other than simply asking and answering questions. This does _not_ necessarily mean that the moderators must be the highest-rep users! That's like asking your grandparents to be ushers at your wedding. Rebecca tells us about the changes that were made to the Stack Overflow election system for the recent moderator election. It involves badges. [Learn more about elections](https://blog.stackexchange.com/2010/12/stack-exchange-moderator-elections-begin/)! The [Android elections](http://android.stackexchange.com/election) are going on now.
 
 	
   * We hold chat-casts with moderators every few weeks to open a channel between the Community Team and the moderators. There's also a monthly [moderator newsletter](http://modnewsletter.stackexchange.com/) with highlights of important announcements. That's so people can get the 5-6 things they need to know without having to be too deeply ingrained in the moderators' chat room or in metas.
@@ -50,6 +51,4 @@ Guests this week are [Robert Cartaino](http://stackexchange.com/users/34933/robe
 
 That's it for Podcast #30, which is it for podcasts in 2011. See you next year!
 
-[Stack Exchange Podcast - Episode #30 w/ Robert & Rebecca](http://soundcloud.com/stack-exchange/stack-exchange-podcast-30) by [Stack Exchange](http://soundcloud.com/stack-exchange)
-
-<p><object width="100%" height="81" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowscriptaccess" value="always" /><param name="src" value="https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F30073425" /><embed width="100%" height="81" type="application/x-shockwave-flash" src="https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F30073425" allowscriptaccess="always" /></object> <span><a href="http://soundcloud.com/stack-exchange/stack-exchange-podcast-30">Stack Exchange Podcast &#8211; Episode #30 w/ Robert &amp; Rebecca</a> by <a href="http://soundcloud.com/stack-exchange">Stack Exchange</a></span></p>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/30073425&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>

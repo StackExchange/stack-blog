@@ -13,13 +13,13 @@ tags:
 - community
 ---
 
-It's time once again to support your favorite open source project through our [Free Vote-Based Advertising for Open Source  Projects](../2009/12/free-vote-based-advertising-for-open-source-projects/). We are clearing the leader boards to start the second half of 2010 anew.
+It's time once again to support your favorite open source project through our [Free Vote-Based Advertising for Open Source  Projects](https://blog.stackexchange.com/2009/12/free-vote-based-advertising-for-open-source-projects/). We are clearing the leader boards to start the second half of 2010 anew.
 
 For the past six months, Stack Overflow has been providing free advertising for open source projects. For those of you who missed it the last time around, this is a true, grass roots movement for programmers to publicize their favorite open source projects. Users create the ads, users vote for their favorites, and Stack Overflow features them in a sidebar ad slot.
 
 Congratulations to the top-voted projects from the first half of 2010:
 
-[![Synergy+. Connecting computers.](http://blog.stackoverflow.com/wp-content/uploads/ad1.png) ](http://code.google.com/p/synergy-plus/)[![SSH on Windows](http://blog.stackoverflow.com/wp-content/uploads/ad2.png)](http://www.chiark.greenend.org.uk/~sgtatham/putty/)
+[![Synergy+. Connecting computers.](https://i.stack.imgur.com/oqmTS.png) ](http://code.google.com/p/synergy-plus/)[![SSH on Windows](http://blog.stackoverflow.com/wp-content/uploads/ad2.png)](http://www.chiark.greenend.org.uk/~sgtatham/putty/)
 
 In the last round, the top-voted ads received over a 1/4-million impressions each. Not a bad deal for a grass roots, community-created advertising give-away.
 
@@ -34,7 +34,7 @@ Now it's time for round 2.
 ## Round 2
 
 
-Each advertising period runs for about six months. To start off the second half of 2010, **we have reset the voting and cleared the ads board.** Now you have another chance to create a [Free Vote-Based Advertisement for an Open Source Project](../2009/12/free-vote-based-advertising-for-open-source-projects/).
+Each advertising period runs for about six months. To start off the second half of 2010, **we have reset the voting and cleared the ads board.** Now you have another chance to create a [Free Vote-Based Advertisement for an Open Source Project](https://blog.stackexchange.com/2009/12/free-vote-based-advertising-for-open-source-projects/).
 
 Here’s how it works:
 

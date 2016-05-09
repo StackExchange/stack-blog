@@ -15,7 +15,7 @@ tags:
 - community
 ---
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/Area-51-Banner1.png)](http://area51.stackexchange.com)
+[![](https://i.stack.imgur.com/0JYZF.png)](http://area51.stackexchange.com)
 
 You guys remember when the Interweb was full of information you couldn't vote on? And blog posts you couldn't fix when they were wrong? Early humans used message forums that were sinister, scary places just teeming with "threads" and "conversations" that intermingled willy-nilly and -- I swear on my children I am not making this up -- the best information WASN'T automatically sorted to the top. Ha!, imagine. The very _thought_ that we once tolerated an Internet where anyone couldn't just start a world-class Q&A site on virtually any subject sends shivers down my spine. I mean, really, that's so 2009.
 

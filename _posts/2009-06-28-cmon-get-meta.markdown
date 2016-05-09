@@ -27,7 +27,7 @@ What's the first rule of Stack Overflow Club?
 
 
 
-[![fight-club-soap](http://blog.stackoverflow.com/wp-content/uploads/fight-club-soap.jpg)](http://www.kropserkel.com/fightclub.htm)
+[![fight-club-soap](https://i.stack.imgur.com/ZXJ5N.jpg)](http://www.kropserkel.com/fightclub.htm)
 
 
 

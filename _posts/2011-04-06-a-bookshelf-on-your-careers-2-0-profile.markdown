@@ -21,7 +21,7 @@ It’s all about telling **the story of your professional development**. Perhaps
 
  
 
-[![bookcut](http://blog.stackoverflow.com/wp-content/uploads/bookcut.png)](http://careers.stackoverflow.com/cv/books)
+[![bookcut](https://i.stack.imgur.com/0u42s.png)](http://careers.stackoverflow.com/cv/books)
 
  
 
@@ -29,7 +29,7 @@ We are also providing better guidance to help you develop a more thorough profil
 
  
 
-![Completeness](http://blog.stackoverflow.com/wp-content/uploads/completeness11.png) => [![Completeness](http://blog.stackoverflow.com/wp-content/uploads/completeness21.png)](http://careers.stackoverflow.com/cv/score)
+![Completeness](https://i.stack.imgur.com/3qpvi.png) => [![Completeness](http://blog.stackoverflow.com/wp-content/uploads/completeness21.png)](http://careers.stackoverflow.com/cv/score)
 
  
 

@@ -27,7 +27,7 @@ We're currently at the stage where we need to implement an actual design -- for 
 
 
 
-[![stackoverflow-beta-design-small](http://blog.stackoverflow.com/wp-content/uploads/stackoverflow-beta-design-small2.png)](/wp-content/uploads/stackoverflow-beta-design-large2.png)
+[![stackoverflow-beta-design-small](https://i.stack.imgur.com/MqE9e.png)](/wp-content/uploads/stackoverflow-beta-design-large2.png)
 
 
 

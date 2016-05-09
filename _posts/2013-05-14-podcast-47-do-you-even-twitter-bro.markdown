@@ -11,6 +11,7 @@ wordpress_id: 13381
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/92213289-stack-exchange-stack-exchange-podcast-47.mp3
 ---
 
 We're Back!  It's been a while since our last podcast (why you ask - listen to find out!) but we're back now and "stronger" than ever.  It's Joel, David and Jay (plus producer Alex and Abby) coming to you from the brand new SE Podcast Studio (check out the picture below)
@@ -21,7 +22,8 @@ We're Back!  It's been a while since our last podcast (why you ask - listen to 
   * News of the day: we're finally in our new office (and podcast studio). We've got hexagonal offices (and therefore crooked hallways), and a cool café area. AND HEATED TOILET SEATS. And a kitchen with a giant walk-in refrigerator, for our interns (which we don't have).
 
 
-[caption id="attachment_13382" align="aligncenter" width="574"][![Taping podcasts in our new "studio"!](/images/wordpress/Screen-Shot-2013-05-14-at-4.40.15-PM-1024x577.jpg)](/images/wordpress/Screen-Shot-2013-05-14-at-4.40.15-PM.jpg) Taping podcasts in our new "studio"![/caption]
+![Taping podcasts in our new "studio"!](/images/wordpress/Screen-Shot-2013-05-14-at-4.40.15-PM-1024x577.jpg)
+Taping podcasts in our new "studio"!
 
 
 
@@ -62,4 +64,4 @@ We're Back!  It's been a while since our last podcast (why you ask - listen to 
 That's our show! Thanks for listening to Stack Exchange Podcast #47. See you in two weeks!
 
 
-<iframe src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F92213289&amp;show_artwork=true" height="166" width="100%" frameborder="no" scrolling="no"></iframe></p>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/92213289&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>

@@ -30,7 +30,7 @@ Here are some graphs I picked _completely at random_ that I'd like to show you.
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/google-search-rank-stackoverflow-vs-hyphens.png)](http://www.google.com/insights/search/#q=stackoverflow%2Cexperts%20exchange&cmpt=q)
+[![](https://i.stack.imgur.com/AP4kZ.png)](http://www.google.com/insights/search/#q=stackoverflow%2Cexperts%20exchange&cmpt=q)
 
 
 
@@ -42,7 +42,7 @@ Here are some graphs I picked _completely at random_ that I'd like to show you.
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/alexa-stackoverflow-vs-hyphens.png)](http://www.alexa.com/siteinfo/stackoverflow.com+experts-exchange.com)
+[![](https://i.stack.imgur.com/NAunl.png)](http://www.alexa.com/siteinfo/stackoverflow.com+experts-exchange.com)
 
 
 
@@ -54,7 +54,7 @@ Here are some graphs I picked _completely at random_ that I'd like to show you.
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/compete-stackoverflow-vs-hyphens.png)](http://siteanalytics.compete.com/stackoverflow.com+experts-exchange.com/)
+[![](https://i.stack.imgur.com/vG5i0.png)](http://siteanalytics.compete.com/stackoverflow.com+experts-exchange.com/)
 
 
 
@@ -66,7 +66,7 @@ Here are some graphs I picked _completely at random_ that I'd like to show you.
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/quantcast-stackoverflow.png)](http://www.quantcast.com/stackoverflow.com)
+[![](https://i.stack.imgur.com/1QdCk.png)](http://www.quantcast.com/stackoverflow.com)
 
 
 

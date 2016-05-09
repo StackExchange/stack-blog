@@ -1,5 +1,5 @@
 ---
-author: abbytmiller
+author: hairboat
 comments: true
 date: 2014-04-24 19:00:10+00:00
 layout: post
@@ -11,6 +11,7 @@ wordpress_id: 14655
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/145239238-stack-exchange-stack-exchange-podcast-episode-57-we-just-saw-this-on-florp.mp3
 ---
 
 Welcome to Stack Exchange Podcast #57, recorded Friday April 11, 2014 with your hosts Jay Hanlon, David Fullerton, and Joel Spolsky. Today's podcast is brought to you by the Heartbleed bug.
@@ -85,4 +86,5 @@ Thanks for joining us during this very productive hour of your life for Stack Ex
 
 
 
-<p><iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/145239238&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true" height="166" width="100%" frameborder="no" scrolling="no"></iframe></p>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/145239238&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+

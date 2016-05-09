@@ -55,7 +55,7 @@ As you might have noticed, he's become rather expert at it; Jon's magnum opus on
 
 
 
-**[http://tinyurl.com/so-hints](http://tinyurl.com/so-hints)**
+**[http://tinyurl.com/stack-hints](http://tinyurl.com/stack-hints)**
 
 
 
@@ -63,7 +63,7 @@ Now, lest you think Mr. Skeet's enormous reputation score is _unassailable_, you
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/so-reputation-leagues.png)](http://stackexchange.com/leagues/1/week/stackoverflow)
+[![](https://i.stack.imgur.com/bypCS.png)](http://stackexchange.com/leagues/1/week/stackoverflow)
 
 
 

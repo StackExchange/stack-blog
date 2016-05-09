@@ -1,21 +1,22 @@
 ---
-author: abbytmiller
+author: hairboat
 comments: true
 date: 2014-07-16 19:00:44+00:00
 layout: post
 redirect_from: /2014/07/podcast-60-are-we-that-predictable
 hero: https://cloud.githubusercontent.com/assets/12239801/7544421/ee57b6aa-f59a-11e4-8d24-4cf85b5646a9.jpg
 slug: podcast-60-are-we-that-predictable
-title: 'Podcast #60: Are We That Predictable?'
+title: 'Podcast #60 - Are We That Predictable?'
 wordpress_id: 14732
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/158893545-stack-exchange-stack-exchange-podcast-episode-60-are-we-that-predictable.mp3
 ---
 
 Welcome to Stack Exchange Podcast episode number 60, brought to you by The National Pepperjack Cheese Council. Your hosts today are Joel Spolsky, Jay Hanlon, and David Fullerton (aka Fake Producer Abby).
 
-[![Stack Exchange Podcast](http://blog.stackoverflow.com/wp-content/uploads/podcast-og.png)](http://blog.stackoverflow.com/2014/07/podcast-60-are-we-that-predictable/podcast-og/)
+[![Stack Exchange Podcast](https://i.stack.imgur.com/fFlzl.png)](http://blog.stackoverflow.com/2014/07/podcast-60-are-we-that-predictable/podcast-og/)
 
 We'll jump right into things with **Community Milestones**, but we promise to make them quick.
 
@@ -102,4 +103,5 @@ Thanks for listening to Stack Exchange Podcast #60, brought to you by the Nation
 
 
 
-<p><iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/158893545&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe></p>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/158893545&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+

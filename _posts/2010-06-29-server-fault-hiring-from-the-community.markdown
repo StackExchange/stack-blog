@@ -19,7 +19,7 @@ Remember when I talked about [Eating Our Own Careers Dogfood](http://blog.stacko
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/serverfault-logo.png)](http://serverfault.com/)
+[![](https://i.stack.imgur.com/IFnQt.png)](http://serverfault.com/)
 
 
 
@@ -27,7 +27,7 @@ I'm pleased to announce we're **expanding our team on the System Administrator s
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/bio-kyle-brandt.jpg)](http://serverfault.com/users/2561/kyle-brandt)
+[![](https://i.stack.imgur.com/wL768.jpg)](http://serverfault.com/users/2561/kyle-brandt)
 
 
 

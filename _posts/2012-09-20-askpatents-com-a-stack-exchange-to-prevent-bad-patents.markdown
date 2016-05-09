@@ -21,7 +21,7 @@ Many small app developers have just decided it’s cheaper to settle rather than
 
 What's going on here? And what can we do to stop it?
 
-[![Yes, it's a patent for giant gummy bears](http://blog.stackoverflow.com/wp-content/uploads/GiantGummyBear.png)](http://www.google.com/patents/US5338245)Anybody who follows patent applications closely and who understands technology may have noticed something odd about a lot of the new patents: they don't really seem like inventions. Really? They got a patent on _that_? I wrote that in eighth grade. In BASIC. On a TRS-80. Isn't a patent supposed to be an _invention_?
+[![Yes, it's a patent for giant gummy bears](https://i.stack.imgur.com/xdYZe.png)](http://www.google.com/patents/US5338245)Anybody who follows patent applications closely and who understands technology may have noticed something odd about a lot of the new patents: they don't really seem like inventions. Really? They got a patent on _that_? I wrote that in eighth grade. In BASIC. On a TRS-80. Isn't a patent supposed to be an _invention_?
 
 Yes. But the escalation of the patent wars has led companies to try to patent everything in sight, so they can build up a portfolio of patents ("to defend themselves," of course, so that they have something to countersue with when they get sued). The way they do this is by sending lawyers up and down the corridors where the engineers are working, looking for things that they might be able to patent. And the imperative to get a lot of patents means that sometimes they submit things which aren't exactly inventions _per se_ to the USPTO. Just in case they stick.
 
@@ -47,7 +47,7 @@ And that sounds a lot like... a Stack Exchange!
 
 We humbly submit that it's a testament to how good the Director of the USPTO is, that he actually came to us. We were not paying attention. He came--_twice!_--to the Stack Exchange office in New York City to encourage us to open a Stack Exchange site that would generate heaps of prior art to help the patent examiners do their jobs.
 
-[![AskPatents Logo](http://blog.stackoverflow.com/wp-content/uploads/AskPatentsLogo.png)](http://askpatents.com/)[Ask Patents](http://askpatents.com/) is a new Stack Exchange site launching today that allows anyone to participate in the patent examination process. It’s a collaborative effort, supported by Stack Exchange, the US Patent and Trademark Office, and the Google Patent Search team. It's very exciting, because it is opening up a process that has been conducted behind closed doors for over 200 years.
+[![AskPatents Logo](https://i.stack.imgur.com/8JrWC.png)](http://askpatents.com/)[Ask Patents](http://askpatents.com/) is a new Stack Exchange site launching today that allows anyone to participate in the patent examination process. It’s a collaborative effort, supported by Stack Exchange, the US Patent and Trademark Office, and the Google Patent Search team. It's very exciting, because it is opening up a process that has been conducted behind closed doors for over 200 years.
 
 Our hope is that [Ask Patents](http://askpatents.com/) will reduce the number of patents mistakenly granted for obvious, unoriginal non-inventions, especially around software, a field that is near and dear to us.
 

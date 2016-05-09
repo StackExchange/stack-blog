@@ -58,7 +58,7 @@ Sam  has been on a slow trek eastward for most of his life: starting off in Los
 
 ![](https://i.stack.imgur.com/rTG8F.jpg)
 
-Proving that wasting time on the internet is destructive behavior, Lauren _dropped out of school _to join us at Stack Exchange. If it weren't for us, she would still be pursuing a Ph. D. in Psychology. While in attendance at Duke University, Lauren didn't have access to a car, so she got her motorcycle license and rode around on a hot pink Vespa. In between shifts on the CHAOS squad, Lauren enjoys distance running, traveling, and playing violin - sometimes all at the same time! (To which we say: pics or it didn't happen, Lauren.)
+Proving that wasting time on the internet is destructive behavior, Lauren _dropped out of school_ to join us at Stack Exchange. If it weren't for us, she would still be pursuing a PhD in Psychology. While in attendance at Duke University, Lauren didn't have access to a car, so she got her motorcycle license and rode around on a hot pink Vespa. In between shifts on the CHAOS squad, Lauren enjoys distance running, traveling, and playing violin - sometimes all at the same time! (To which we say: pics or it didn't happen, Lauren.)
 
 **[Katey Healy-Wurzburg](http://stackexchange.com/users/3e019111-ac86-4c6b-a2e7-94d074b235f4)** **(Valued Associate #43):**
 

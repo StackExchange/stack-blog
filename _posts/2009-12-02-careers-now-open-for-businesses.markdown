@@ -18,7 +18,7 @@ I'm pleased to announce that [the employer beta](http://blog.stackoverflow.com/2
 
 
 
-[![dilbert-new-employee](http://blog.stackoverflow.com/wp-content/uploads/dilbert-new-employee.png)](http://www.dilbert.com/)
+[![dilbert-new-employee](https://i.stack.imgur.com/acWft.png)](http://www.dilbert.com/)
 
 
 
@@ -49,7 +49,7 @@ Employers can give our search interface a spin for free, to see total match coun
 
 
 
-[![Stack Overflow Careers](http://blog.stackoverflow.com/wp-content/uploads/stack-overflow-careers.png)](http://careers.stackoverflow.com/)
+[![Stack Overflow Careers](https://i.stack.imgur.com/4Q6kH.png)](http://careers.stackoverflow.com/)
 
 
 

@@ -11,6 +11,7 @@ wordpress_id: 13206
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/82092950-stack-exchange-stack-exchange-podcast-44.mp3
 ---
 
 
@@ -59,4 +60,4 @@ Welcome Back!  Our guest today is the one and only Robert Scoble - blogger and 
 
 
 
-<p><iframe src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F82092950&amp;show_artwork=true" height="166" width="100%" frameborder="no" scrolling="no"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/82092950&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>

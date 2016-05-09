@@ -35,7 +35,7 @@ We've been beating this drum since the day the project began. Our goal is to mak
 
 Of course, searching a _single site_ like Stack Overflow with Google (or your favorite web search engine) is plenty easy. We even have helpers on the [search page](http://stackoverflow.com/search) to assist:
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/search-options-default-providers.png)](http://stackoverflow.com/search)
+[![](https://i.stack.imgur.com/KdIph.png)](http://stackoverflow.com/search)
 
 Doing it manually isn't hard, either; just enter the `site:` operator in front to scope your search to just a single site.
 
@@ -53,7 +53,7 @@ Until now!
 
 We just added a custom Google search for _all_ of our sites at the top of [http://stackexchange.com](http://stackexchange.com).
 
-[![stack exchange search all sites](http://blog.stackoverflow.com/wp-content/uploads/stack-exchange-all-site-search.png)](http://stackexchange.com)
+[![stack exchange search all sites](https://i.stack.imgur.com/HnIUW.png)](http://stackexchange.com)
 
 So you can now express and share network wide searches like so:
 

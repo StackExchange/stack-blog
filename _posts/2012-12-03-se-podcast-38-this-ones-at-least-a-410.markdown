@@ -11,6 +11,7 @@ wordpress_id: 12554
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/69812124-stack-exchange-stack-exchange-podcast-38.mp3
 ---
 
 Welcome to Stack Exchange podcast #38 with Joel, Jay, David, and new special guest Will Cole, PM on the Careers team.  We're doing a deep dive into [Careers](http://careers.stackoverflow.com) today, as we have the launch of [Careers in German](http://blog.stackoverflow.com/2012/11/join-stack-overflow-in-berlin-for-a-blowout-bash-on-december-5/) coming up!
@@ -65,4 +66,4 @@ Welcome to Stack Exchange podcast #38 with Joel, Jay, David, and new special gue
 
 
 
-<p><iframe src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F69812124&amp;show_artwork=true" frameborder="no" scrolling="no" width="100%" height="166"></iframe></p>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/69812124&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>

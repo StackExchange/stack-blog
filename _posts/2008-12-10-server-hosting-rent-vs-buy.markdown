@@ -21,7 +21,7 @@ We currently rent [two identical dedicated servers from CrystalTech](http://blog
 
 
 
-[![Powered By CrystalTech Web Hosting](http://blog.stackoverflow.com/wp-content/uploads/powered-by-crystaltech.png)](http://crystaltech.com/dedicated-windows.aspx?uid=101)
+[![Powered By CrystalTech Web Hosting](https://i.stack.imgur.com/gSHMf.png)](http://crystaltech.com/dedicated-windows.aspx?uid=101)
 
 
 

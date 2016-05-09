@@ -11,6 +11,7 @@ wordpress_id: 13889
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/104100512-stack-exchange-stack-exchange-podcast-51.mp3
 ---
 
 Welcome to Stack Exchange Podcast #51, with special guest [Jeff Atwood](http://www.codinghorror.com/) and the usual suspects Joel Spolsky, David Fullerton, and Jay Hanlon. Today's show was brought to you by [Pan-American World Airways](http://www.panam.org/)!
@@ -60,4 +61,4 @@ Welcome to Stack Exchange Podcast #51, with special guest [Jeff Atwood](http://
 Thanks for listening to the Stack Exchange podcast featuring Jeff Atwood! Check out [BoingBoing's forums](http://bbs.boingboing.net/) or [How-To Geek's forums](http://discuss.howtogeek.com/) to see [Discourse](http://www.discourse.org/) in action. Until next time!
 
 
-<iframe src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F104100512" height="166" width="100%" frameborder="no" scrolling="no"></iframe></p>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/104100512&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>

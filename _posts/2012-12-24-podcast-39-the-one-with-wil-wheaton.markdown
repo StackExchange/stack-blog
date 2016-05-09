@@ -11,6 +11,7 @@ wordpress_id: 12862
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/72432544-stack-exchange-stack-exchange-podcast-39.mp3
 ---
 
 Today's guest is [Jeremy Tunnell](http://stackexchange.com/users/1635441/jeremy-tunnell), who says it's great to be here. He's the new Product Manager on the Stack Exchange team. He works out of Nashville but is in New York with us, recording live in the podcast studio!
@@ -75,4 +76,4 @@ Today's guest is [Jeremy Tunnell](http://stackexchange.com/users/1635441/jeremy
 That's all for this week. See you on ChaCha!
 
 
-<iframe src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F72432544" frameborder="no" scrolling="no" width="100%" height="166"></iframe></p>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/72432544&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>

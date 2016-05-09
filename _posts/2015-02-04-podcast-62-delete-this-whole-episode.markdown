@@ -1,5 +1,5 @@
 ---
-author: abbytmiller
+author: hairboat
 comments: true
 date: 2015-02-04 20:00:01+00:00
 layout: post
@@ -12,6 +12,7 @@ tags:
 - company
 - podcasts
 - announcement
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/189301069-stack-exchange-stack-exchange-podcast-episode-62-delete-this-whole-episode.mp3
 ---
 
 Welcome to Stack Exchange Podcast #62, recorded live on January 20th--with a [live studio audience (kinda)!](http://chat.stackexchange.com/transcript/message/19636047#19636047). Today's podcast was brought to you by the American Venture Capital Association. With you today are our hosts Jay Hanlon, David Fullerton, and Joel Spolsky.
@@ -96,4 +97,5 @@ Joel wants to sign off, but first make sure you check out [Expression Engine SE
 
 Thanks for wasting an hour on the Stack Exchange Podcast Episode #62, brought to you by the American Venture Capital Association.
 
-<p><iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/189301069&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe></p>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/189301069&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+

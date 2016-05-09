@@ -1,5 +1,5 @@
 ---
-author: abbytmiller
+author: hairboat
 comments: true
 date: 2014-05-29 19:00:29+00:00
 layout: post
@@ -11,6 +11,7 @@ wordpress_id: 14722
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/151731070-stack-exchange-stack-exchange-podcast-59-hes-one-of-those-science-ists.mp3
 ---
 
 Welcome to the 59th running of the Stack Exchange podcast, brought to you by Nutella! Your hosts Joel Spolsky, David Fullerton, and Jay Hanlon are joined this week by special guests Josh Heyer (aka Shog9) and Robert Cartaino (aka Robert Cartaino) of the Stack Exchange Community Growth team.
@@ -61,4 +62,4 @@ Thanks for listening to Stack Exchange Podcast #59, brought to you by Nutella!
 
 
 
-<p><iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/151731070&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true" width="100%" height="166" frameborder="no" scrolling="no"></iframe></p>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/151731070&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>

@@ -1,10 +1,12 @@
 ---
 layout: post
-author: abbytmiller
-title: "Stack Exchange Podcast #65: The Word Has Two Meanings, You See"
+author: hairboat
+title: "Podcast #65 - The Word Has Two Meanings, You See"
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/210303965-stack-exchange-stack-exchange-podcast-episode-65-the-word-has-two-meanings-you-see.mp3
+wordpress_id: 15936
 ---
 Welcome to the Stack Exchange Podcast, episode #65, recorded Tuesday, May 12, 2015 at Stack Exchange Headquarters in New York City. Today’s podcast is brought to you by the Association of Airline Mile Programs and hosted by the usual suspects.
 
@@ -39,4 +41,5 @@ It’s finally time for…
 
 Thanks for listening to Stack Exchange Podcast Episode #65. For a special treat stay tuned after the credits for the Very First Episode of the Stack Overflow Podcast, starring Joel and co-founder (emeritus) Jeff Atwood.
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/210303965&color=ff5500"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/210303965&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+

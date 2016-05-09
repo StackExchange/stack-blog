@@ -11,6 +11,7 @@ wordpress_id: 12499
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/66762703-stack-exchange-stack-exchange-podcast-36.mp3
 ---
 
 So as you may have heard in the news, the east coast got hit pretty hard by Hurricane Sandy - in particular, our datacenter in Lower Manhattan was almost knocked entirely offline.  If not for the incredible efforts of Fog Creek Software, Squarespace, and Peer1 (the datacenter) there would have certainly been days of outages for everyone involved.
@@ -134,4 +135,4 @@ We're planning on telling the whole story of Hurricane Sandy - it's roughly in c
   
 
 
-<p><iframe src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F66762703&amp;show_artwork=true" frameborder="no" scrolling="no" width="100%" height="166"></iframe><br />
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/66762703&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>

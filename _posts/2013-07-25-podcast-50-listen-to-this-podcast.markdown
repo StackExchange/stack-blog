@@ -11,6 +11,7 @@ wordpress_id: 13878
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/102518231-stack-exchange-stack-exchange-podcast-50.mp3
 ---
 
 Welcome to Stack Exchange podcast #50, featuring usual suspects Joel Spolsky, Jay Hanlon, and David Fullerton, plus special guest Shog9 aka Nine Shogs [Shogging](http://dictionary.reference.com/browse/shogging).  And remember, today's podcast is sponsored by the House of Lords, bringing you excellent laws, 100% free!
@@ -72,4 +73,4 @@ Welcome to Stack Exchange podcast #50, featuring usual suspects Joel Spolsky, Ja
 Thanks for joining us!  Today's guest has been Nine Shogs Shogging, joining Jay Hanlon, David Fullerton, and Joel Spolsky.  Today's episode was sponsored by the House of Lords. See you next time!
 
 
-<iframe src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F102518231" height="166" width="100%" frameborder="no" scrolling="no"></iframe></p>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/102518231&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>

@@ -26,12 +26,12 @@ Visit the [ad summary page](http://rads.stackoverflow.com/ossads/all), and mouse
 <tr >
 
 <td >
-<a href="http://rads.stackoverflow.com/ossads/all"><img src="http://blog.stackoverflow.com/wp-content/uploads/oss-ad-stats-1.png"></a>
+<a href="http://rads.stackoverflow.com/ossads/all"><img src="https://i.stack.imgur.com/TvIza.png"></a>
 
 </td>
 
 <td >
-<a href="http://rads.stackoverflow.com/ossads/all"><img src="http://blog.stackoverflow.com/wp-content/uploads/oss-ad-stats-2.png"></a>
+<a href="http://rads.stackoverflow.com/ossads/all"><img src="https://i.stack.imgur.com/cEBj6.png"></a>
 
 </td>
 </table>

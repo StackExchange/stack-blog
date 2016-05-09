@@ -30,7 +30,7 @@ Over the course of the next few weeks, we will be rolling out the new Stack Exch
 At first glance, the new beta theme looks like an unembellished version of any graduated site: Finished, but without any particular "beta" theme, _per se_. But that's sort of the point.
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/Judaism-Beta-Theme-new-cropped.png)](http://judaism.stackexchange.com)
+[![](https://i.stack.imgur.com/XoCEl.png)](http://judaism.stackexchange.com)
 
 
 The crux of this change is that it's high time we stopped equating beta sites with being somehow _unfinished_. Sure, in their earliest days — when a community is defining their scope, building a FAQ, and finding its community leaders — a site might be considered _unfinished_ (i.e. "under construction"). But once you are past those earliest wild-west days of figuring out why your site exists, a site should no longer be considered unfinished. Right out of the gate, the Stack Exchange engines gives you a world-class Q&A suite worth recommending on its own merits. If you've been holding back, go ahead; share, promote, and enjoy!

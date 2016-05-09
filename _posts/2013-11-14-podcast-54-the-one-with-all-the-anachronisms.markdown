@@ -11,6 +11,7 @@ wordpress_id: 14205
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/120103057-stack-exchange-stack-exchange-podcast-53.mp3
 ---
 
 Welcome to Stack Exchange Podcast #54, with special guest [Sara J. Chipps](http://sarajchipps.com/)! Joining us today also is CFO Michael Pryor. Your hosts as usual are Jay Hanlon, David Fullerton, and Joel Spolsky. Today's episode is brought to you by [/r/husky](http://reddit.com/r/husky)!
@@ -90,4 +91,4 @@ Welcome to Stack Exchange Podcast #54, with special guest [Sara J. Chipps](http
 Thanks for listening to the Stack Exchange Podcast with special guest [Sara J. Chipps](https://twitter.com/sarajchipps), along with Stack Exchange CFO Michael Pryor, brought to you by [/r/husky](http://reddit.com/r/husky).
 
 
-<iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/120103057" height="166" width="100%" frameborder="no" scrolling="no"></iframe></p>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/120103057&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>

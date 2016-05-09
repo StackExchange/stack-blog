@@ -1,5 +1,5 @@
 ---
-author: abbytmiller
+author: hairboat
 comments: true
 date: 2014-03-17 19:00:39+00:00
 layout: post
@@ -11,6 +11,7 @@ wordpress_id: 14603
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/139449126-stack-exchange-stack-exchange-podcast-55.mp3
 ---
 
 Welcome to the Stack Exchange Podcast #56 recorded on Thursday, March 6th 2014, aka the 4th of Adar II 5774, aka the second day of Lent. Today's podcast is sponsored by Patent Trolls of America. Today's guest is Micah Siegel, Senior Patent Advisor at Stack Exchange and Professor Emeritus at Stanford.
@@ -79,4 +80,4 @@ Thanks for listening to Stack Exchange Podcast #56, sponsored by the Patent Trol
 
 
 
-<p><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/139449126&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true"></iframe></p>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/139449126&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>

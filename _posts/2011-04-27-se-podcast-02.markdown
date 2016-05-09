@@ -11,6 +11,7 @@ wordpress_id: 7858
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14250494-stack-exchange-se-episode02.mp3
 ---
 
 This week on the Stack Exchange podcast, Jeff and Joel are back into the swing of the weekly podcast and jump right into business, including:
@@ -45,6 +46,4 @@ See you next week when Jeff and Joel are joined by [Scott Hanselman](http://www.
 
 One final note - we're re-numbering the podcast to start back at the beginning, so this is now episode #02 and last week is now episode #01.
 
-[Stack Exchange Podcast - Episode #02](http://soundcloud.com/stack-exchange/stack-exchange-podcast-7/s-Fk90d) by [Stack Exchange](http://soundcloud.com/stack-exchange)
-
-<p><object width="100%" height="81"><param name="movie" value="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F14250494%3Fsecret_token%3Ds-Fk90d&amp;secret_url=true" /><param name="allowscriptaccess" value="always" /><embed type="application/x-shockwave-flash" width="100%" height="81" src="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F14250494%3Fsecret_token%3Ds-Fk90d&amp;secret_url=true" allowscriptaccess="always"></embed></object> <span><a href="http://soundcloud.com/stack-exchange/stack-exchange-podcast-7/s-Fk90d">Stack Exchange Podcast &#8211; Episode #02</a> by <a href="http://soundcloud.com/stack-exchange">Stack Exchange</a></span></p>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/14250494&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>

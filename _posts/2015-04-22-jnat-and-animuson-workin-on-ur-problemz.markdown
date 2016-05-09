@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "JNat and animuson: workin' on ur problemz"
-author: abbytmiller
+author: hairboat
 hero: https://i.stack.imgur.com/9lDma.jpg
 tags:
  - company

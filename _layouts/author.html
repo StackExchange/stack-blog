@@ -21,7 +21,7 @@ top_nav: contributors
 				  			{% endif %}
 				  			{% if page.author.github %}
 				  				{% if page.author.twitter or page.author.website %} • {% endif %}
-				  				<a href="https://github.com/{{ author.github }}">GitHub</a>
+				  				<a href="https://github.com/{{ page.author.github }}">GitHub</a>
 				  			{% endif %}
 				  			{% if page.author.stack %}
 				  				{% if page.author.twitter or page.author.website or page.author.github %} • {% endif %}
@@ -39,9 +39,7 @@ top_nav: contributors
 		<div class="-row author-content">
 			<div class="-col8">
 				<div class="posts">
-				{% for post in paginator.posts %}
-				{{ post.pre_render }}
-				{% endfor %}
+				{{ paginator.posts }}
 				</div>
 			</div>
 		</div>

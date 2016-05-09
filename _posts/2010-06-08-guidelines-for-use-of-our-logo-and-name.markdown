@@ -4,7 +4,7 @@ comments: true
 date: 2010-06-08 09:02:49+00:00
 layout: post
 redirect_from: /2010/06/guidelines-for-use-of-our-logo-and-name
-hero: http://blog.stackoverflow.com/wp-content/uploads/legalese.jpg
+hero: https://i.stack.imgur.com/d2rdA.jpg
 slug: guidelines-for-use-of-our-logo-and-name
 title: Guidelines for Use of our Logo and Name
 wordpress_id: 3490
@@ -80,7 +80,7 @@ If you're unfamiliar, the [legalese hall of shame](http://www.partyofthefirstpar
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/legalese.jpg)](http://www.partyofthefirstpart.com/hallOfShame.html)
+[![](https://i.stack.imgur.com/d2rdA.jpg)](http://www.partyofthefirstpart.com/hallOfShame.html)
 
 
 

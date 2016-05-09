@@ -18,7 +18,7 @@ We'd like to apologize to the [Area 51](http://area51.stackexchange.com) communi
 
 Allow me to explain with a diagram:
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/charlie-brown-lucy-football.png)](http://peanuts.com/)
+[![](https://i.stack.imgur.com/EOkWT.png)](http://peanuts.com/)
 
 In this diagram:
 

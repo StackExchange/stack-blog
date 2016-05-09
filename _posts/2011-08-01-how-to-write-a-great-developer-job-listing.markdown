@@ -21,7 +21,7 @@ Among other things, [we sell job listings](http://careers.stackoverflow.com/jobs
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/careers-tall-ad.png)](http://careers.stackoverflow.com)
+[![](https://i.stack.imgur.com/qQJ4l.png)](http://careers.stackoverflow.com)
 
 In order to get people to apply for your job, you will have to get them to your listing first. There are a few places that will help with that: our text ads on [Stack Overflow](http://stackoverflow.com) (see image), various places on our [web site](http://careers.stackoverflow.com/?bmid=BP1) and our [tweets](https://twitter.com/#!/StackCareers). Due to space considerations there isn’t a whole lot for people to base their decision on (to click or not to click?). They’ll see:
 

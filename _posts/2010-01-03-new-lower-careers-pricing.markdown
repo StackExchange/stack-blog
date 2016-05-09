@@ -30,7 +30,7 @@ Our new year's resolution is to **reduce the price** of filing your CV.
 
 
 
-[![sudden realization](http://blog.stackoverflow.com/wp-content/uploads/sudden-realization-small1.png)](http://www.wulffmorgenthaler.com/strip.aspx?id=b8588605-9f9b-425f-a45b-b8fa9a5823d1)
+[![sudden realization](https://i.stack.imgur.com/Utrsw.png)](http://www.wulffmorgenthaler.com/strip.aspx?id=b8588605-9f9b-425f-a45b-b8fa9a5823d1)
 
 
 

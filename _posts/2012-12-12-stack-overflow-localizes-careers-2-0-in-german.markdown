@@ -59,6 +59,6 @@ All in all, it's been a great project for our team (though also a difficult one,
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/careers_de-1.png)](http://careers.stackoverflow.com/de)
+[![](https://i.stack.imgur.com/txshp.png)](http://careers.stackoverflow.com/de)
 
 P.S. We know we missed some things, so if you speak German, feel free to check out the site and [let us know what we still need to fix](http://meta.stackoverflow.com/questions/156432/feedback-wanted-careers-in-german).

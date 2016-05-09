@@ -34,13 +34,13 @@ Putting voting front and center is very much intentional; it is how ...
 
 **It's only through voting that a class of editors, closers, and moderators can emerge to help run and govern the site.** Voting is how site leadership forms. That's why [the reputation leagues](http://blog.stackoverflow.com/2010/09/customizing-stackexchange-com/) show a breakdown of reputation spectrums. 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/se-reputation-spectrums.png)](http://blog.stackoverflow.com/2010/09/customizing-stackexchange-com/)
+[![](https://i.stack.imgur.com/Q6YEu.png)](http://blog.stackoverflow.com/2010/09/customizing-stackexchange-com/)
 
 Does your site have a healthy middle class of users with vote up and down, and edit tag [privileges](http://blog.stackoverflow.com/2010/10/membership-has-its-privileges/)? Does it have a healthy governing class of users with edit, close, and moderation [privileges](http://blog.stackoverflow.com/2010/10/membership-has-its-privileges/)? All of this requires sufficient reputation, which in turn requires users to _exercise their right to vote_.
 
 In fact, we've begun showing beta site health on [Area 51](http://area51.stackexchange.com) as partially a function of how many "avid" users there are -- where "avid" is defined as _has at least 200 reputation_.
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/area-51-avid-users.png)](http://area51.stackexchange.com)
+[![](https://i.stack.imgur.com/5Twoc.png)](http://area51.stackexchange.com)
 
 (click through to any Area 51 site proposal that is currently in beta to see the evaluation.)
 

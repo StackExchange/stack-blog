@@ -11,6 +11,7 @@ wordpress_id: 10208
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/28160568-stack-exchange-stack-exchange-podcast-27.mp3
 ---
 
 Jeff & Joel are joined today by Dave Winer, who's upset that we don't have a jingle to start the show! He "invented" (well, pioneered, really) the [XML-RPC protocol](http://en.wikipedia.org/wiki/XML-RPC). Dave tells us the story of how and why the protocol came to be.
@@ -54,6 +55,4 @@ Jeff & Joel are joined today by Dave Winer, who's upset that we don't have a jin
   * You can find Dave at [Scripting News](http://www.scripting.com), and you should also check out [EC2 for Poets](http://poets.scripting.com/).
 
 
-[Stack Exchange Podcast - Episode #27 w/ Dave Winer](http://soundcloud.com/stack-exchange/stack-exchange-podcast-27) by [Stack Exchange](http://soundcloud.com/stack-exchange)
-
-<p><object width="100%" height="81" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowscriptaccess" value="always" /><param name="src" value="https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F28160568" /><embed width="100%" height="81" type="application/x-shockwave-flash" src="https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F28160568" allowscriptaccess="always" /></object> <span><a href="http://soundcloud.com/stack-exchange/stack-exchange-podcast-27">Stack Exchange Podcast &#8211; Episode #27 w/ Dave Winer</a> by <a href="http://soundcloud.com/stack-exchange">Stack Exchange</a></span></p>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/28160568&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>

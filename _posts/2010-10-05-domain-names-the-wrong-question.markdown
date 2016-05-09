@@ -72,7 +72,7 @@ We _should_ have asked the community to ...
 
 Instead of stressing out over the vagaries of the brutal, cut-throat .com domain market and debating the "least worst" domain name options ad nauseam, **simply focus on _telling the world what your community is about_**. Don't even think about the domain name! Give us the one sentence "elevator pitch" for your community. How would you explain your site to a stranger you met on an elevator? It's about ... what, exactly?
 
-Maybe the one of the [7 Essential Meta Questions](../2010/07/the-7-essential-meta-questions-of-every-beta) should ask instead, **WHAT IS THIS SITE ABOUT?**
+Maybe the one of the [7 Essential Meta Questions](https://blog.stackexchange.com/2010/07/the-7-essential-meta-questions-of-every-beta/) should ask instead, **WHAT IS THIS SITE ABOUT?**
 
 And that, once decided, can become:
 

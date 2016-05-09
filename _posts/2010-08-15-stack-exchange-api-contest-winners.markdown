@@ -79,7 +79,7 @@ It was tough judging winners between so many fantastic entries. I  encourage you
 >
 **[Six to Eight : an iOS client](http://stackapps.com/questions/623/six-to-eight-an-iphone-client-now-in-the-app-store)**
 
-> [![](http://blog.stackoverflow.com/wp-content/uploads/six-to-eight-screenshot.png)](http://stackapps.com/questions/623/six-to-eight-an-iphone-client-now-in-the-app-store)
+> [![](https://i.stack.imgur.com/8rrAm.png)](http://stackapps.com/questions/623/six-to-eight-an-iphone-client-now-in-the-app-store)
 
 > Six to Eight is a free, pocket sized iOS client, for you to track your activity and get answers to those niggly, "need an answer right now" problems. Full browsing, searching, statistics and user tracking. [App Store link](http://itunes.apple.com/us/app/six-to-eight/id384094708?mt=8) (free)
 
@@ -104,7 +104,7 @@ It was tough judging winners between so many fantastic entries. I  encourage you
 >
 **[StackPrinter: the Stack Exchange Printer Suite](http://stackapps.com/questions/179/stackprinter-the-stack-exchange-printer-suite)**
 
-> [![](http://blog.stackoverflow.com/wp-content/uploads/stackprinter-screenshot.png)](http://stackapps.com/questions/179/stackprinter-the-stack-exchange-printer-suite)
+> [![](https://i.stack.imgur.com/tBCYv.png)](http://stackapps.com/questions/179/stackprinter-the-stack-exchange-printer-suite)
 
 > StackPrinter is a website that pulls the main details of a given question, all its answers, comments and votes formatting them in a simple essential printable view.
 
@@ -131,7 +131,7 @@ It was tough judging winners between so many fantastic entries. I  encourage you
 >
 **[StackTack, a Javascript widget you can stick anywhere](http://stackapps.com/questions/518/stacktack-a-javascript-widget-you-can-stick-anywhere)**
 
-> [![](http://blog.stackoverflow.com/wp-content/uploads/stacktack-screenshot.png)](http://stackapps.com/questions/518/stacktack-a-javascript-widget-you-can-stick-anywhere)
+> [![](https://i.stack.imgur.com/ZwCpp.png)](http://stackapps.com/questions/518/stacktack-a-javascript-widget-you-can-stick-anywhere)
 
 > StackTack is a widget for bloggers and writers to easily tack questions and answers from the Stack Exchange sites such as Stack Overflow, Server Fault and Super User, into their articles. The widget remains up to date as answers get added, modified, voted on and accepted.
 

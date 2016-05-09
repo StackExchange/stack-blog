@@ -59,7 +59,7 @@ Now, we realize that we weren't exactly hurting for “more challenges in figuri
 
 You can always find your local meta right under the main site in the site switcher in the upper left corner of the site:
 
-![](https://i.stack.imgur.com/urV64.png)
+![where you find your local meta](https://i.stack.imgur.com/urV64.png)
 
 If you have any input or ideas to share, _just go right to your favorite site's meta and do it there_; there's no need for you to go to Meta Stack Exchange at all.
 
@@ -69,4 +69,4 @@ The largest beneficiary of this split is probably the Stack Overflow community; 
 
 Young sites don't generally have, and may _never_ have the sorts of challenges that Stack Overflow did. Now, there's a place for our smaller communities to come together and figure out what works for _them_.
 
-Do you have some great ideas that could make quite a few communities even better? Take them to your site's own little town hall, or feel free to bring them to [the capital city](http://meta.stackexchange.com) directly. Do you have ideas that suit the scale of Stack Overflow? Well then, [c'mon, get meta](http://blog.stackoverflow.com/2009/06/cmon-get-meta/), as it was intended.
+Do you have some great ideas that could make quite a few communities even better? Take them to your site's own little town hall, or feel free to bring them to [the capital city](http://meta.stackexchange.com) directly. Do you have ideas that suit the scale of Stack Overflow? Well then, [c'mon, get meta](http://blog.stackoverflow.com/2009/06/cmon-get-meta/), as it was intended.

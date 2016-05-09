@@ -17,7 +17,7 @@ I'm a big fan of [annoying my coworkers](http://www.codinghorror.com/blog/2007/1
 
 Enter [Rovio, the wi-fi enabled robotic WebCam](http://www.amazon.com/dp/B001CQLGD6/?tag=stackoverfl08-20).
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/rovio.jpg)](http://www.amazon.com/dp/B001CQLGD6/?tag=stackoverfl08-20)
+[![](https://i.stack.imgur.com/HrciE.jpg)](http://www.amazon.com/dp/B001CQLGD6/?tag=stackoverfl08-20)
 
 Rovio got mixed reviews, but we decided to give it a shot anyway. You control Rovio through a web browser interface, with full (but low-res) video and audio. Here's a few shots of us driving around the New York World Headquarters.
 

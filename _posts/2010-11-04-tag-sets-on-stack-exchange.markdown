@@ -51,7 +51,7 @@ That's what tag sets are for. You can freely browse tag sets other users have se
 
 Click on the **tagged questions** navigation link, then select **my tag sets** to construct your own.
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/stackexchange-tagged-question-nav.png)](http://stackexchange.com/tagsets)
+[![](https://i.stack.imgur.com/aPrJ1.png)](http://stackexchange.com/tagsets)
 
 Look in the sidebar on the right for a tag-centric autocomplete area.
 

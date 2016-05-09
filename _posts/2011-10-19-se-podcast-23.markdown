@@ -11,6 +11,7 @@ wordpress_id: 10072
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/25906939-stack-exchange-stack-exchange-podcast-23.mp3
 ---
 
 Our guest today is [James Portnow](https://twitter.com/#%21/JamesPortnow) of [Extra Credits](http://www.penny-arcade.com/patv/show/extra-credits). We are also joined in the studio by [David Fullerton](http://meta.stackoverflow.com/users/146719/david-fullerton).
@@ -54,7 +55,7 @@ Our guest today is [James Portnow](https://twitter.com/#%21/JamesPortnow) of 
   * James is the hero in his own story. Games teach you that you can always win, and that nothing is unachievable. We will close on that hopeful note! James can be found @[JamesPortnow](https://twitter.com/jamesportnow) or @[ExtraCreditz](https://twitter.com/extracreditz) on Twitter, or over at [Extra Credits](http://www.penny-arcade.com/patv/show/extra-credits).
 
 	
-  * Oh, right, news from Stack Exchange: David, interim CTO while Jeff is on vacation, has no news. Except that we have a [mascot](../2011/10/meet-bubbles/) now. (David had nothing to do with it.) Also, Jeff will be speaking at [Oredev](http://oredev.org/2011), which is November 7-11, and Punyon should probably go with him.
+  * Oh, right, news from Stack Exchange: David, interim CTO while Jeff is on vacation, has no news. Except that we have a [mascot](https://blog.stackexchange.com/2011/10/meet-bubbles/) now. (David had nothing to do with it.) Also, Jeff will be speaking at [Oredev](http://oredev.org/2011), which is November 7-11, and Punyon should probably go with him.
 
 	
   * Oh, yeah! We have our own URL shortener! It's [s.tk](http://s.tk/). Check out [s.tk/joel](http://s.tk/joel) and you'll pick up the gist.
@@ -62,6 +63,4 @@ Our guest today is [James Portnow](https://twitter.com/#%21/JamesPortnow) of 
 
 Make sure to tune in next week when our guest is Eric Ries.
 
-[Stack Exchange Podcast - Episode #23 w/ James Portnow](http://soundcloud.com/stack-exchange/stack-exchange-podcast-23) by [Stack Exchange](http://soundcloud.com/stack-exchange)
-
-<p><object width="100%" height="81" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowscriptaccess" value="always" /><param name="src" value="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F25906939" /><embed width="100%" height="81" type="application/x-shockwave-flash" src="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F25906939" allowscriptaccess="always" /></object> <span><a href="http://soundcloud.com/stack-exchange/stack-exchange-podcast-23">Stack Exchange Podcast &#8211; Episode #23 w/ James Portnow</a> by <a href="http://soundcloud.com/stack-exchange">Stack Exchange</a></span></p>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/25906939&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>

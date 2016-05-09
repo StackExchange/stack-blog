@@ -1,5 +1,5 @@
 ---
-author: abbytmiller
+author: hairboat
 comments: true
 date: 2014-05-19 19:00:11+00:00
 layout: post
@@ -11,6 +11,7 @@ wordpress_id: 14709
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/149558524-stack-exchange-stack-exchange-podcast-episode-58-pack-em-in-like-bees.mp3
 ---
 
 Welcome to Stack Exchange Podcast #58 brought to you by [the Stack Exchange iOS app](https://itunes.apple.com/us/app/stack-exchange/id871299723)! Our hosts Joel Spolsky, David Fullerton, and Jay Hanlon are joined this week by our guests, the Stack Exchange Design Team: Jin Yang, Stéphane "The French Guy" Martin, Courtny Cotten, and Josh Hynes.
@@ -95,4 +96,5 @@ Thanks for listening to Stack Exchange Podcast #58, brought to you by our iOS ap
 
 
 
-<p><iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/149558524&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true" height="166" width="100%" frameborder="no" scrolling="no"></iframe></p>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/149558524&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+

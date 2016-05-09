@@ -38,7 +38,7 @@ As part of our [datacenter migration](http://blog.stackoverflow.com/2010/10/data
 
 However, a few things didn't go quite to plan in the migration. Much to our chagrin, **the database server ended up being barely faster** -- and maybe even a bit slower than our old database! This was deeply troubling.
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/spud-server.jpg)](http://d116.com/spud/)
+[![](https://i.stack.imgur.com/2pkYi.jpg)](http://d116.com/spud/)
 
 The new Nehalem CPUs (what you may know as Core i7) are sort of _meh_ on the desktop, but they are **monsters on the server**. It's not unusual to see 200% performance increases going from Core 2 class server CPUs, like the ones we have in Oregeon, to these newer Core i7 class server CPUs. Just [ask AnandTech's Johan De Gelas](http://www.anandtech.com/show/2743/17):
 

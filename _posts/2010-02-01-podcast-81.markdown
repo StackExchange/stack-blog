@@ -11,6 +11,7 @@ wordpress_id: 2670
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14168893-stack-exchange-stack-exchange-podcast-5.mp3
 ---
 
 In this episode of the Stack Overflow podcast, Joel and Jeff discuss the value of Deep Blue, the Five Whys process, and whether programmers should blog.
@@ -63,3 +64,5 @@ We answered the following listener questions on this podcast:
 If you'd like to submit a question to be answered in our next episode, record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.com](mailto:podcast@stackoverflow.com). You can [record a question](http://blog.stackoverflow.com/index.php/2008/05/recording-podcast-questions-using-your-telephone/) using nothing but a telephone and a web browser. We also have a dedicated phone number you can call to leave audio questions at **646-826-3879**.
 
 The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?W29125) for this episode is available for public editing.
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/14168893&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>

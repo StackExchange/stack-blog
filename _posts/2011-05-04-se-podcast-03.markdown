@@ -11,6 +11,7 @@ wordpress_id: 7997
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14679940-stack-exchange-se-episode03.mp3
 ---
 
 This week, Jeff and Joel are joined by [Scott Hanselman](http://www.hanselman.com/blog/) - tune in for their discussion of everything from MIX11 to the salads at Jack in the Box.
@@ -48,6 +49,5 @@ This week, Jeff and Joel are joined by [Scott Hanselman](http://www.hanselman.co
 Tune in to next week's podcast when Joel will be "live" from London and our guest will be the infamous Jon Skeet!
 
 Also, if you're interested in helping us pick content for Stack Overflow Dev Days - check out [Joel's post on it](http://blog.stackoverflow.com/2011/05/devdays-2011-planning-begins/).
- [Stack Exchange Podcast - Episode #03 w/ Scott Hanselman](http://soundcloud.com/stack-exchange/se-episode03) by [Stack Exchange](http://soundcloud.com/stack-exchange)
 
-<object height="81" width="100%"><param name="movie" value="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F14679940"></param><param name="allowscriptaccess" value="always"></param><embed allowscriptaccess="always" height="81" src="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F14679940" type="application/x-shockwave-flash" width="100%"></embed></object>  <span><a href="http://soundcloud.com/stack-exchange/se-episode03">Stack Exchange Podcast &#8211; Episode #03 w/ Scott Hanselman</a> by <a href="http://soundcloud.com/stack-exchange">Stack Exchange</a></span> </p>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/14679940&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>

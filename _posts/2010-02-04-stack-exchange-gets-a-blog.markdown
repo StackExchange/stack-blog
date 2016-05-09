@@ -19,7 +19,7 @@ A little birdie told me that the formal launch of [Stack Exchange](http://stacke
 
 
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/stackexchange-logo.png)](http://stackexchange.com/)
+[![](https://i.stack.imgur.com/DdRrc.png)](http://stackexchange.com/)
 
 
 

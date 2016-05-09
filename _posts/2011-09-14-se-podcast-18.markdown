@@ -11,6 +11,7 @@ wordpress_id: 9809
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/23329020-stack-exchange-stack-exchange-podcast-18.mp3
 ---
 
 No guest this week as Joel calls in to the show live from the TechCrunch Disrupt Conference in San Francisco since he's there launching [Trello](http://www.trello.com) for Fog Creek Software (also why his audio isn't quite as good as usual, it's pretty loud there).  There's still a full hour of Jeff & Joel goodness though so make sure to check it out!
@@ -21,7 +22,7 @@ No guest this week as Joel calls in to the show live from the TechCrunch Disrupt
   * Joel gives rundown of what he’s seen at the [TechCrunch Disrupt conference](http://disrupt.techcrunch.com/SF2011/) in San Francisco so far. A discussion about differences between East Coast and West Coast tech startups leads Jeff and Joel to talk about how important centralized locations are for modern day companies.
 
 	
-  * The recent [Facebook deal](../2011/08/facebook-stackoverflow/) has led to a recent influx of general Facebook support emails. This leads to a discussion about user support and how other companies rate against Stack Exchange.
+  * The recent [Facebook deal](https://blog.stackexchange.com/2011/08/facebook-stackoverflow/) has led to a recent influx of general Facebook support emails. This leads to a discussion about user support and how other companies rate against Stack Exchange.
 
 	
   * The merits of paying for internet services comes up, specifically the[freemium](http://en.wikipedia.org/wiki/Freemium) and [37signals](http://37signals.com/) models. Jeff discusses the merits of 37signals and Joel recounts his time using that model.
@@ -53,7 +54,4 @@ Tune in next week at the normal time and with our normal in-studio setup (really
 See you then!
 
 
-
-[Stack Exchange Podcast - Episode #18](http://soundcloud.com/stack-exchange/stack-exchange-podcast-18) by [Stack Exchange](http://soundcloud.com/stack-exchange)
-
-<p><object width="100%" height="81" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowscriptaccess" value="always" /><param name="src" value="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F23329020" /><embed width="100%" height="81" type="application/x-shockwave-flash" src="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F23329020" allowscriptaccess="always" /></object> <span><a href="http://soundcloud.com/stack-exchange/stack-exchange-podcast-18">Stack Exchange Podcast &#8211; Episode #18</a> by <a href="http://soundcloud.com/stack-exchange">Stack Exchange</a></span></p>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/23329020&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>

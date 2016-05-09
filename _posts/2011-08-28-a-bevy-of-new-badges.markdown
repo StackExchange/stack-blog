@@ -27,7 +27,7 @@ The badge system exists for two reasons:
 
 As the engine grows and evolves, we discover new areas that need badges.
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/nerd-badges.jpg)](http://www.nerdmeritbadges.com/)
+[![](https://i.stack.imgur.com/44Ddf.jpg)](http://www.nerdmeritbadges.com/)
 
 In fact, we've added a bevy of new badges in the last 6 months or so that we haven't had time to talk about yet.
 

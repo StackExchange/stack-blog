@@ -18,7 +18,7 @@ You can now **subscribe to a tag (or set of tags) and get an email when new ques
 
 To begin, visit the [Tag Sets page on stackexchange.com](http://stackexchange.com/tagsets/popular), and either create a new tag set, or find a cool tag set someone else already put together.
 
-[![](http://blog.stackoverflow.com/wp-content/uploads/popular-tag-sets.png)](http://stackexchange.com/tagsets/popular)
+[![](https://i.stack.imgur.com/mp0oI.png)](http://stackexchange.com/tagsets/popular)
 
 Click on a tag set to browse the questions, then look on the **sidebar** for the email option:
 

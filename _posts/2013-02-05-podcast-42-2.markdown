@@ -11,6 +11,7 @@ wordpress_id: 13150
 tags:
 - company
 - podcasts
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/77975208-stack-exchange-stack-exchange-podcast-42.mp3
 ---
 
 Welcome to Stack Exchange Podcast #42 - it's our usual gang back this week with Joel, Jay, David, and Producer Alex.  There's plenty of inside baseball, so put on your rally caps and make sure to stick it through to the end!
@@ -71,4 +72,4 @@ Well that's the podcast for this week! Thanks for tuning in, and now for our st
 
 
 
-<p><iframe src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F77975208" height="166" width="100%" frameborder="no" scrolling="no"></iframe></p>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/77975208&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
