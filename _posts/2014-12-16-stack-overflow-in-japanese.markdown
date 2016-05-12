@@ -14,6 +14,8 @@ tags:
 - community
 - internationalization
 - stackoverflow
+langs:
+- jp
 ---
 
 _Hi English-language readers! This blog post is not for you; perhaps you'd like [a hat](http://blog.stackoverflow.com/2014/12/winter-bash-2014/) instead? No? Well, [when last we spoke of creating non-English versions of Stack Overflow](http://blog.stackoverflow.com/2014/02/cant-we-all-be-reasonable-and-speak-english/), some of you were certain we should've gone the easy route and just leveraged a machine translation service instead of creating real sites for real people to use. I humbly invite you to read the rest of this post using the mechanical babelfish of your choice, and see if you think such tools can be relied on for important work..._
