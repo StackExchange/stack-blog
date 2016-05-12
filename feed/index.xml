@@ -35,24 +35,47 @@ layout: null
 	</image>
 	{% for post in site.posts limit:40 %}
 		{% unless post.draft %}
-		<item>
-			<title><![CDATA[{{ post.title | raw }}]]></title>
-			<link>{{ site.url }}{{ post.url }}</link>
-			<dc:creator><![CDATA[{{ post.full_author.name }}]]></dc:creator>
-			{% for category in post.tags %}
-			<category><![CDATA[{{ category }}]]></category>
-			{% endfor %}
-			<comments></comments>
-			<pubDate>{{ post.date | date: "%a, %d %b %Y %T +0000" }}</pubDate>
-			<guid></guid>
-			<description><![CDATA[{{ post.excerpt | raw }}]]></description>
-			<content:encoded><![CDATA[{{ post.content | raw }}]]></content:encoded>
-			<wfw:commentRss></wfw:commentRss>
-			<slash:comments></slash:comments>
-			{% if post.podcast %}
-			<enclosure type="audio/mpeg" url="{{ post.podcast }}" length="0"/>
+			{% if post.langs %}
+				{% if post.langs.size == 0 or post.langs contains 'en' %}
+					<item>
+						<title><![CDATA[{{ post.title | raw }}]]></title>
+						<link>{{ site.url }}{{ post.url }}</link>
+						<dc:creator><![CDATA[{{ post.full_author.name }}]]></dc:creator>
+						{% for category in post.tags %}
+						<category><![CDATA[{{ category }}]]></category>
+						{% endfor %}
+						<comments></comments>
+						<pubDate>{{ post.date | date: "%a, %d %b %Y %T +0000" }}</pubDate>
+						<guid></guid>
+						<description><![CDATA[{{ post.excerpt | raw }}]]></description>
+						<content:encoded><![CDATA[{{ post.content | raw }}]]></content:encoded>
+						<wfw:commentRss></wfw:commentRss>
+						<slash:comments></slash:comments>
+						{% if post.podcast %}
+						<enclosure type="audio/mpeg" url="{{ post.podcast }}" length="0"/>
+						{% endif %}
+					</item>
+				{% endif %}
+			{% else %}
+			<item>
+				<title><![CDATA[{{ post.title | raw }}]]></title>
+				<link>{{ site.url }}{{ post.url }}</link>
+				<dc:creator><![CDATA[{{ post.full_author.name }}]]></dc:creator>
+				{% for category in post.tags %}
+				<category><![CDATA[{{ category }}]]></category>
+				{% endfor %}
+				<comments></comments>
+				<pubDate>{{ post.date | date: "%a, %d %b %Y %T +0000" }}</pubDate>
+				<guid></guid>
+				<description><![CDATA[{{ post.excerpt | raw }}]]></description>
+				<content:encoded><![CDATA[{{ post.content | raw }}]]></content:encoded>
+				<wfw:commentRss></wfw:commentRss>
+				<slash:comments></slash:comments>
+				{% if post.podcast %}
+				<enclosure type="audio/mpeg" url="{{ post.podcast }}" length="0"/>
+				{% endif %}
+			</item>
 			{% endif %}
-		</item>
 		{% endunless %}
 	{% endfor %}
 	</channel>
