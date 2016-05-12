@@ -94,6 +94,7 @@ hero: [url of a high quality hero image to be used for your post. Optional, you 
 source: [url of the original post so a source banner will be added to the post. Optional, you can remove this whole line]
 description: [a description that will show up in search results, up to 160 characters. Optional, you can remove this whole line]
 tags: [what channel this post belongs to (engineering/company), and any related tags, required]
+langs: [what languages this post will be available in, optional. You should add the country code in lowercase like 'jp', 'es', 'ru'. If this includes 'en' it will show up in the feeds]
 ---
 [Content of your post in markdown]
 ```
