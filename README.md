@@ -194,6 +194,18 @@ langs:
 ---
 ```
 
+However, if you add `en` to the list of languages, it will *also* be syndicated like a default post:
+```
+---
+layout: post
+title: [title of post]
+author: [author id]
+langs:
+- jp
+- en
+---
+```
+
 If you leave out the `langs` parameter, leave it empty, or add `en` to the list of languages supported, the post will behave with the default behavior and be treated like a regular post.
 
 **Where to get good hero images**
