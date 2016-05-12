@@ -10,6 +10,7 @@ module Jekyll
     @@posts
     @@authors
     @@tags
+    @@langs
 
     def initialize
       clear
@@ -27,10 +28,15 @@ module Jekyll
       return @@tags
     end
 
+    def self.langs
+      return @@langs
+    end
+
     def self.clear
       @@posts = []
       @@authors = Hash.new
       @@tags = Hash.new { |hash, key| hash[key] = Tag.new(key) }
+      @@langs = Hash.new
     end
   end
 
@@ -42,6 +48,7 @@ module Jekyll
       @data = @post.data
       @tags = @data['tags']
       @date = post.date
+      @langs = @data['langs']
 
       payload = Utils.deep_merge_hashes({
         'post' => post.to_liquid,
@@ -76,6 +83,17 @@ module Jekyll
       Utils.deep_merge_hashes({
         'pre_render' => @pre_render
       }, @post.to_liquid(attrs))
+    end
+
+    def is_localized
+      if post.data.key?('langs') && !post.data['langs'].nil?
+        if post.data['langs'].count > 0
+          if !post.data['langs'].include?('en')
+            return true
+          end
+        end
+      end
+      return false
     end
   end
 
@@ -255,6 +273,8 @@ module Jekyll
         path = path.sub(':tags', category_tags.join("/"))
 
         posts = All.posts
+        posts = posts.find_all{|post| !post.is_localized}
+
         for tag in category_tags
           posts = posts.find_all{|post| post.data['tags'].include?(tag)}
         end
