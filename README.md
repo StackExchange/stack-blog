@@ -162,6 +162,40 @@ tags:
 
 ```
 
+**Internationalization**
+
+By default, all posts are assumed to be in English and targeted for English-speaking audiences. However, there is a way to make sure that posts are flagged as internationalized using the optional `langs` parameter in a post. Flagging a post that is internationalized and does *not* support English will do the following:
+ - Posts will *not* show up in any of the list pages on the blog. This includes the homepage, and the two channel pages for Company News and Engineering navigable from the top menu.
+ - Posts will *not* appear in the RSS feed at `/feed`. That means posts will *not* be syndicated on the community bulletin or in RSS feeds.
+ - Posts will be accessible only from the direct URL.
+ - Posts will continue to show up for the author list pages.
+
+When writing a new post, you can add the language audiences this post is for at the top of the post markdown file with the optional parameter. 
+```
+---
+layout: post
+title: [title of post]
+author: [author id]
+langs:
+- [lang1]
+- [lang2]
+- [lang3]
+---
+```
+
+For example, if you wanted to make sure that this post was flagged for Japanese, you would add the country code `jp`:
+```
+---
+layout: post
+title: [title of post]
+author: [author id]
+langs:
+- jp
+---
+```
+
+If you leave out the `langs` parameter, leave it empty, or add `en` to the list of languages supported, the post will behave with the default behavior and be treated like a regular post.
+
 **Where to get good hero images**
  - [Unsplash](https://unsplash.com/grid)
  - You can also upload them to `images` and it will be accessible using `/images/path-to-your-image`
