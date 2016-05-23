@@ -28,7 +28,7 @@ So we have:
 
 ![](/images/wordpress/logochange.png)
 
-Which name do you like better? I like "Nothing to Install" but I'm not exactly unbiased. I work very hard with these communities, and coming up with decent names is difficult work; some say irreconcilably difficult. But when a site _does_ come up with a good domain name, I believe they should get to use it (when the Stack Overflow folks read this, I'll be in biiiig trouble). On the other hand, most of the domain name ideas are_ so_ bad, perhaps every site should _not_ worry about having their own domain name by the end of beta (when the community reads this, I'll be in biiiig trouble).
+Which name do you like better? I like "Nothing to Install" but I'm not exactly unbiased. I work very hard with these communities, and coming up with decent names is difficult work; some say irreconcilably difficult. But when a site _does_ come up with a good domain name, I believe they should get to use it (when the Stack Overflow folks read this, I'll be in biiiig trouble). On the other hand, most of the domain name ideas are _so_ bad, perhaps every site should _not_ worry about having their own domain name by the end of beta (when the community reads this, I'll be in biiiig trouble).
 
 I won't argue that the naming decision was right or wrong. Our opinions were scattered and obfuscated among concerns of search engine optimization, marketing, site-vs-network autonomy, and the mind-rending madness of picking 25+ different domain names. As with most religious arguments, the loudest 1% of each side has become thoroughly entrenched in defending their position. That's not to make light of the arguments, but to step back and look at a bigger picture.
 
