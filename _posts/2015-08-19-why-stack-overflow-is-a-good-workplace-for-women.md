@@ -88,4 +88,4 @@ It's a privilege to work with smart, supportive colleagues every day, and to be 
 
 Oh, and Stack Overflow is [actively hiring](http://stackexchange.com/work-here) :)
 
-*\* Name changed*
+\* *Name changed*
