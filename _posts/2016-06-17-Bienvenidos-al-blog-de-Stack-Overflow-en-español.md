@@ -2,7 +2,8 @@
 layout: post
 title: Bienvenidos al blog para Stack Overflow en español
 author: juanm
-hero: https://i.stack.imgur.com/qOAcI.jpg
+hero: https://i.stack.imgur.com/oWMzw.png
+lang: es
 tags:
  - company
  - español
