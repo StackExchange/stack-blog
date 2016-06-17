@@ -16,7 +16,7 @@ Empezando ahora, podrán las publicaciones más actualizadas a mano derecha del 
 
 ![](https://i.stack.imgur.com/mSbgS.png)
 
-Por favor usen el siguiente enlace para suscribirse al RSS:  [blog.stackoverflow.com/feed/es](blog.stackoverflow.com/feed/es)
+Por favor usen el siguiente enlace para suscribirse al RSS:  [blog.stackoverflow.com/feed/es](http://blog.stackoverflow.com/feed/es)
 
 ¡Nos vemos pronto!
 
