@@ -94,7 +94,7 @@ hero: [url of a high quality hero image to be used for your post. Optional, you 
 source: [url of the original post so a source banner will be added to the post. Optional, you can remove this whole line]
 description: [a description that will show up in search results, up to 160 characters. Optional, you can remove this whole line]
 tags: [what channel this post belongs to (engineering/company), and any related tags, required]
-langs: [what languages this post will be available in, optional. You should add the country code in lowercase like 'jp', 'es', 'ru'. If this includes 'en' it will show up in the feeds]
+langs: [what languages this post will be available in, optional. You should add the language code in lowercase like 'ja', 'es', 'ru'. If this includes 'en' it will show up in the network-wide feeds]
 ---
 [Content of your post in markdown]
 ```
@@ -170,6 +170,12 @@ By default, all posts are assumed to be in English and targeted for English-spea
  - Posts will be accessible only from the direct URL.
  - Posts will continue to show up for the author list pages.
 
+There are additional feeds, one per language, that have been set up for the currently existing Stack Overflow sites in other languages:
+ - `/feed/es`
+ - `/feed/pt`
+ - `/feed/ja`
+ - `/feed/ru`
+
 When writing a new post, you can add the language audiences this post is for at the top of the post markdown file with the optional parameter. 
 ```
 ---
@@ -183,14 +189,16 @@ langs:
 ---
 ```
 
-For example, if you wanted to make sure that this post was flagged for Japanese, you would add the country code `jp`:
+Typically, languages will be specified using the language code that matches the subdomain of that community on Stack Overflow. 
+
+For example, if you wanted to make sure that this post was flagged for Japanese, you would add the language code `ja`:
 ```
 ---
 layout: post
 title: [title of post]
 author: [author id]
 langs:
-- jp
+- ja
 ---
 ```
 
@@ -201,7 +209,7 @@ layout: post
 title: [title of post]
 author: [author id]
 langs:
-- jp
+- ja
 - en
 ---
 ```
