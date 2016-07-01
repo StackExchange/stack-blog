@@ -80,9 +80,9 @@ Then on the next screen, you can submit the pull request:
 
 ###2. Publishing a post
 
-[Publish a new post](https://github.com/StackExchange/blog/new/master/_posts) ([See example post file](https://github.com/StackExchange/blog/edit/master/_posts/2014-1-28-My-First-Six-Weeks-Working-At-Stack-Overflow.md), [published version](http://stackexchange.github.io/blog/01/28/My-First-Six-Weeks-Working-At-Stack-Overflow/))
+[Publish a new post](https://github.com/StackExchange/blog/new/master/_posts) ([See example post file](https://github.com/StackExchange/stack-blog/blob/master/_posts/2014-01-28-My-First-Six-Weeks-Working-At-Stack-Overflow.md), [published version](http://blog.stackoverflow.com/2014/01/my-first-six-weeks-working-at-stack-overflow/))
 
-To create a new post, you need to create a new markdown file with a particular format in the `_posts` folder in order to publish. The file needs to include the date and title separated by dashes: `YYYY-MM-DD-Title-With-Dashes-As-Spaces.md`. For example, Jon Chan published a post on January 28th, 2014 titled "My First Six Weeks Working at Stack Overflow". So the title of his file was `2014-1-28-My-First-Six-Weeks-At-Stack-Overflow.md`.  In the content of this markdown file should be the following (you don't need the square brackets): 
+To create a new post, you need to create a new markdown file with a particular format in the `_posts` folder in order to publish. The file needs to include the date and title separated by dashes: `YYYY-MM-DD-Title-With-Dashes-As-Spaces.md`. For example, Jon Chan published a post on January 28th, 2014 titled "My First Six Weeks Working at Stack Overflow". So the title of his file was `2014-01-28-My-First-Six-Weeks-At-Stack-Overflow.md`.  In the content of this markdown file should be the following (you don't need the square brackets): 
 ```
 ---
 layout: post
@@ -98,7 +98,7 @@ langs: [what languages this post will be available in, optional. You should add 
 ---
 [Content of your post in markdown]
 ```
-So Jon Chan's post `2014-1-28-My-First-Six-Weeks-At-Stack-Overflow.md` would look something like the following:
+So Jon Chan's post `2014-01-28-My-First-Six-Weeks-At-Stack-Overflow.md` would look something like the following:
 ```
 ---
 layout: post
