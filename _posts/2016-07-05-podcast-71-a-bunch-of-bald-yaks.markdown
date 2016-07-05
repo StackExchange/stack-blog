@@ -4,7 +4,7 @@ date: 2016-07-05
 title: "Podcast #71 - A Bunch of Bald Yaks"
 author: hairboat
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/272176699-stack-exchange-stack-exchange-podcast-71-a-bunch-of-bald-yaks.mp3
-draft: true
+draft: false
 tags:
 - company
 - podcasts
