@@ -10,7 +10,7 @@ tags:
 - podcasts
 ---
 
-Welcome to the Stack Exchange Podcast, recorded Tuesday June 28th at Stack HQ! Today's podcast is brought to you by [Eugene McCarthy for President](https://en.wikipedia.org/wiki/Eugene_McCarthy_presidential_campaign,_1968), as well as by IBM. New this week: one of those two sponsors is *a real live sponsor*. Bet you can't guess which one! (It's IBM.) Your hosts today are joined by Daniel X. Moore and Gareth Wilson from the [HyperDev](https://hyperdev.com) team at [Fog Creek Software](http://www.fogcreek.com).
+Welcome to the Stack Exchange Podcast, recorded Tuesday June 28th at Stack HQ! Today's podcast is brought to you by [Eugene McCarthy for President](https://en.wikipedia.org/wiki/Eugene_McCarthy_presidential_campaign,_1968), as well as by IBM. [Try the new IBM Cloud Tools for Swift](https://developer.ibm.com/swift/). New this week: one of those two sponsors is *a real live sponsor*. Bet you can't guess which one! Anyway, your hosts today are joined by Daniel X. Moore and Gareth Wilson from the [HyperDev](https://hyperdev.com) team at [Fog Creek Software](http://www.fogcreek.com).
 
 But before we talk to the guests, our esteemed hosts run through some interesting tech news. (Or maybe just tech news. -Ed.) First up: [.NET Core](https://blogs.msdn.microsoft.com/dotnet/2016/06/27/announcing-net-core-1-0/)! Microsoft is trying to turn a gigantic ship around toward open-sourciness and community-friendliness. (Said ship is apparently unrelated to the arm of Microsoft that forced you to upgrade to Windows 10.) Also: did Microsoft build their own version of Trello? [You decide.](https://i.stack.imgur.com/QwT4S.png) 
 
