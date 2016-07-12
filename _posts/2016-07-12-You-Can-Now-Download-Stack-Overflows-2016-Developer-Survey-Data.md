@@ -2,7 +2,6 @@
 layout: post
 title: "You Can Now Download Stack Overflow’s 2016 Developer Survey Data"
 author: kcpike
-draft: true
 description: "Earlier this year we released the results of our annual developer survey. With more than 50,000 responses fielded from 173 countries, it was the largest and most comprehensive survey of the programmer workforce that has ever been conducted."
 tags:
  - company
