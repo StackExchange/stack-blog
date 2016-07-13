@@ -13,7 +13,7 @@ tags:
 - superuser.com
 ---
 
-Well, [Windows 8](http://windows.microsoft.com) is finally available [in the wild](http://www.pcmag.com/article2/0,2817,2411443,00.asp). Of course, developers have had access to it for quite a while - [our ongoing Apptivate contest](http://apptivate.ms/) would be looking pretty sad otherwise. But now you can actually _buy _the upgrade for your home PC if you're so inclined, or for your mom's PC if you haven't been getting enough tech-support calls from her recently... 
+Well, [Windows 8](http://windows.microsoft.com) is finally available [in the wild](http://www.pcmag.com/article2/0,2817,2411443,00.asp). Of course, developers have had access to it for quite a while - [our ongoing Apptivate contest](http://apptivate.ms/) would be looking pretty sad otherwise. But now you can actually _buy_ the upgrade for your home PC if you're so inclined, or for your mom's PC if you haven't been getting enough tech-support calls from her recently... 
 
 In recognition of this, [Super User is running its own little promotion](http://blog.superuser.com/2012/10/22/windows-8-challenge/): 
 
