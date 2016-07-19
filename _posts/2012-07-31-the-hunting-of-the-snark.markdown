@@ -240,4 +240,4 @@ I think this proves that the methodology is reasonably sound. I think everyone c
 
 
 
-There's a lot of other interesting stuff in the data, so here's [an Excel workbook containing the raw data and friendliness ratings](http://blog.stackoverflow.com/?attachment_id=12040).
+There's a lot of other interesting stuff in the data, so here's [an Excel workbook containing the raw data and friendliness ratings](/content/StackOverflowFriendlinessData.zip).
