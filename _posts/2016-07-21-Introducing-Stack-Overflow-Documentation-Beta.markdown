@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing Stack Overflow Documentation [Beta]
+title: Introducing Stack Overflow Documentation Beta
 author: kevinmontrose
 draft: true
 tags: 
