@@ -57,7 +57,7 @@ Once word got out Stack Overflow was expanding, the developers responsible for s
 ![Our partners](http://i.stack.imgur.com/zhq1e.png)
 </partner pics!>
 
-will be participating in Documentation right alongside the community.  They'll be watching to see what kind of great examples and documentation are created to inform their own work and help answer or clarify anything that needs it.  They're Stack Overflow users like everyone else, we're all working together (to help developers everywhere), so you could see your change reviewed by an Microsoft-y or you find a request from a Dropbox-er.
+will be participating in Documentation right alongside the community.  They'll be watching to see what kind of great examples and documentation are created to inform their own work and help answer or clarify anything that needs it.  They're Stack Overflow users like everyone else, we're all working together (to help developers everywhere), so you could see your change reviewed by a Microsoft-y or find a request from a Dropbox-er.
 
 # Ready to help?
 
