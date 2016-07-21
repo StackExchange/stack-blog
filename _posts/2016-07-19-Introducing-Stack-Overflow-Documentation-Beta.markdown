@@ -55,7 +55,7 @@ Documentation gives a home to a lot of this good content that has been turned aw
 Once word got out Stack Overflow was expanding, the developers responsible for some of our favorite tech got a little excited.  The Meta community got first dibs with the private beta, but now that Documentation is live on Stack Overflow I'm pleased to announce developers from:
 
 <partner pics!>
-![Our partners](http://i.stack.imgur.com/MU5Ag.png)
+![Our partners](http://i.stack.imgur.com/zhq1e.png)
 </partner pics!>
 
 will be participating in Documentation right alongside the community.  They'll be watching to see what kind of great examples and documentation are created to inform their own work and help answer or clarify anything that needs it.  They're Stack Overflow users like everyone else, we're all working together (to help developers everywhere), so you could see your change reviewed by an Microsoft-y or you find a request from a Dropbox-er.
