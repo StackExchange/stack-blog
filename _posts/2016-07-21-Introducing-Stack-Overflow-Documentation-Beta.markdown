@@ -2,7 +2,6 @@
 layout: post
 title: Introducing Stack Overflow Documentation Beta
 author: kevinmontrose
-draft: true
 tags: 
  - company
  - stackoverflow
