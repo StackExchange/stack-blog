@@ -19,6 +19,7 @@ p {
 }
 h1,h2,h3,h4,h5,h6,p {
 	margin-top: 0;
+	font-weight: normal;
 }
 blockquote {
 	margin: 0.75em 0;
@@ -347,7 +348,6 @@ article.post {
 			text-transform: uppercase;
 		}
 		h1 {
-			font-weight: 600;
 			font-size: 1.8461538461538463rem;
 			line-height: 1.15384615;
 			margin: 0;
@@ -415,7 +415,6 @@ article.post {
 				}
 			}
 			h1 {
-				font-weight: 600;
 				font-size: 50px;
 			}
 		}
