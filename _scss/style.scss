@@ -5,6 +5,7 @@ $color-white:     		hsl(0,0%,100%);
 $color-grayMid:   hsl(206,10%,42%);
 $color-grayLight: spin(desaturate(lighten($color-grayMid,50%),3%),-6);
 $blue: #0077cc;
+$orange: #f48024;
 $baseTextGray: rgba(0,0,0,0.8);
 
 html {
@@ -161,7 +162,7 @@ i.blog-icon {
 header {
 	padding: 25px;
 	padding-bottom: 45px;
-	background: #F48024;
+	background: $orange;
 	color: #fff;
 	height: 136px;
 	.site-avatar {
@@ -202,7 +203,7 @@ div.subheader {
 	top: 97px;
 	height: 35px;
 	nav {
-		background: #F48024;
+		background: $orange;
 		a {
 			font-size: 14px;
 			padding: 10px;
@@ -387,8 +388,8 @@ article.post {
 			padding: 150px 0px;
 			padding-bottom: 50px;
 			&.no-image {
-				background: #F48024;
-				padding-top: 125px;
+				background-color: $orange;
+				padding-top: 10px;
 				.author-container {
 					margin-top: 0;
 				}
@@ -715,13 +716,10 @@ specificity overrides some default styles */
 		nav {
 			clear: left;
 			text-align: left;
-			padding-top: 15px;
+			padding: 15px 0;
 			margin-left: -8px; /* align text with the logo */
-			a, a:link, a:visited {
-				color: mix($color-white, $blue, 60%);
+			a, a:link, a:visited, a.active, a:hover {
 				border: none !important;
-			}
-			a.active, a:hover {
 				color: $color-white;
 			}
 		}
@@ -739,14 +737,14 @@ specificity overrides some default styles */
 
 				height: 0px !important;
 				.hero {
-					background: #F48023 !important;
+					background-color: $orange !important;
 					height: 0% !important;
 				}
 			}
 		}
 		&.full-post {
 			.hero {
-				background: #F48024!important;
+				background-color: $orange !important;
 				padding-top: 150px;
 				height: auto;
 				h1 {
