@@ -100,6 +100,8 @@ Above all else, our system is fair and evaluates individual performance, not tea
 
 A happy developer is a productive developer, and while a fair system does not allow you to easily control salary costs in terms of budget (because everybody can be a 5), it does help increase job satisfaction, lower turnover, and maintain a relationship of trust with managers. And as [I've written about before](http://www.haneycodes.net/developer-turned-manager), if you don't have the trust of your employees, you will fail.
 
+**EDIT (7/27/2016):** We have published a salary calculator based on our internally transparent compensation numbers! [Take a look](http://stackoverflow.com/company/salary).
+
 PS - hate stack ranking but love Stack Overflow? [Come and work with us!](http://www.stackoverflow.com/company/work-here)
 
 *Follow David Haney on Twitter at [@haneycodes](http://www.twitter.com/@haneycodes)*
