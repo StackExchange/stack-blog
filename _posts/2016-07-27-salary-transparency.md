@@ -13,7 +13,7 @@ We believe (and developers [tell us](http://stackoverflow.com/research/developer
 
 Remarkably, we learned that job listings which include a salary range got **[75% more clicks](#75)** than job listings that don’t. With this experiment, we’re even more convinced that transparency isn’t just the right thing to do, it’s good for companies, too.
 
-Along with much of the tech community, we were impressed with [Buffer’s]((https://buffer.com/salary)) boldness and leadership in salary transparency. So…
+Along with much of the tech community, we were impressed with [Buffer’s](https://buffer.com/salary) boldness and leadership in salary transparency. So…
 
 ##Introducing the Stack Overflow salary calculator
 
