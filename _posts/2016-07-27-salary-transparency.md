@@ -19,7 +19,7 @@ Along with much of the tech community, we were impressed with [Buffer’s]((http
 
 We’ve created a **[salary and skills calculator](https://stackoverflow.com/company/salary)** for Stack Overflow’s engineering, design and product roles. This has been transparent internally for a while; now it’s transparent with you.
 
-####**[Try it now…](https://stackoverflow.com/company/salary)**
+[![Try the salary calculator](http://i.stack.imgur.com/wucYG.png)](https://stackoverflow.com/company/salary)
 
 Those who know Stack Overflow know that we work hard to work in public. This is a continuation of that tradition.
 
