@@ -33,7 +33,7 @@ We believe that conventions can change. If more companies become open on salary,
 
 ###Work in progress
 
-Our salary calculator doesn’t cover every role at Stack Overflow. It doesn’t include equity, and doesn’t address currencies other than USD. In the spirit of “default public”, we would rather share an incomplete system than not share at all.
+Our salary calculator doesn’t cover every role at Stack Overflow. It doesn’t include equity, and only describes US salaries. (International employees use the same system but it’s not merely a currency conversion.) In the spirit of “default public”, we would rather share an incomplete system than not share at all.
 
 <a name="75"></a>
 ##The experimental details: 75% more clicks
