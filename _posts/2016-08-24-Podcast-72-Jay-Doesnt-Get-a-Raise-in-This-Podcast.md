@@ -1,6 +1,6 @@
 ---
 layout: podcast
-title: Podcast #72 — Jay Doesn’t Get a Raise in This Podcast
+title: "Podcast #72 — Jay Doesn’t Get a Raise in This Podcast"
 author: kcpike
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/279635609-stack-exchange-stack-exchange-podcast-72-jay-doesnt-get-a-raise-in-this-podcast.mp3
 date: 2016-08-24
