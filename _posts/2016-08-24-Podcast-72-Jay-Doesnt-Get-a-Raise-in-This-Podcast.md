@@ -11,7 +11,7 @@ tags:
  - company
 ---
 
-Welcome to the Stack Exchange Podcast, recorded Tuesday, August 2 at our headquarters in NYC. This week’s episode is brought to you by peanut butter, the tasty legume paste Americans spend $800 million on each year, as well as by our actual sponsor, IBM. [Try the new IBM Cloud Tools for Swift.](https://developer.ibm.com/swift/) 
+Welcome to the Stack Exchange Podcast, recorded Tuesday, August 2 at our headquarters in NYC. This week’s episode is brought to you by peanut butter, the tasty legume paste Americans spend $800 million on each year, as well as by our actual sponsor, IBM. [Try the new IBM Cloud Tools for Swift.](https://developer.ibm.com/swift/?utm_source=blog&utm_medium=blog&utm_campaign=podcast) 
 
 This week, our usual hosts Joel, Jay, and David are joined by Stack Overflow engineering manager Matt Sherman, [who recently led the launch of our salary calculator](https://blog.stackoverflow.com/2016/07/salary-transparency/). If you’re interested in working at Stack Overflow, or you just want to know how much our engineering, design, and product roles make according to years of experience and skill level, the salary calculator offers transparency into our compensation methodology. 
 
