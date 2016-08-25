@@ -17,7 +17,7 @@ redirect_from:
 
 <channel>
 	<title>The Stack Exchange Podcast</title>
-	<atom:link href="{{ site.url }}/feed/podcast" rel="self" type="application/rss+xml" />
+	<atom:link href="{{ site.url }}/feed/podcast/" rel="self" type="application/rss+xml" />
 	<link>{{ site.url }}</link>
 	<description>free, community powered Q&#38;A</description>
 	<lastBuildDate>{{ site.time | date: "%a, %d %b %Y %T +0000" }}</lastBuildDate>
@@ -36,7 +36,7 @@ redirect_from:
 		<width>144</width>
 		<height>144</height>
 	</image>
-	<itunes:new-feed-url>{{ site.url }}/feed/podcast</itunes:new-feed-url>
+	<itunes:new-feed-url>{{ site.url }}/feed/podcast/</itunes:new-feed-url>
 	<itunes:subtitle>A look inside the Stack Exchange Network</itunes:subtitle>
 	<itunes:summary>Hosted by Joel Spolsky with Jay Hanlon and David Fullerton, the Stack Exchange podcast lets you listen in on discussions and decisions about the Stack Exchange Network. The Stack Exchange podcast gives you an unparalleled view into how a startup is created and built.
 
