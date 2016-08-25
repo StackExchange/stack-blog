@@ -30,7 +30,7 @@ redirect_from:
 	<webMaster>podcast@stackoverflow.com (The Stack Overflow Team)</webMaster>
 	<ttl>1440</ttl>
 	<image>
-		<url>https://cdn.sstatic.net/stackexchange/img/se-podcast-logo.png</url>
+		<url>https://i.stack.imgur.com/0u29E.png</url>
 		<title>The Stack Exchange Podcast</title>
 		<link>{{ site.url }}</link>
 		<width>144</width>
@@ -57,7 +57,7 @@ Stack Overflow is the flagship property of a fast-growing network of over 100 qu
 	</itunes:owner>
 	<itunes:block>no</itunes:block>
 	<itunes:explicit>no</itunes:explicit>
-	<itunes:image href="https://cdn.sstatic.net/stackexchange/img/se-podcast-logo.png" />
+	<itunes:image href="https://i.stack.imgur.com/0u29E.png" />
 	{% for post in site.tags.podcasts %}
 		{% if post.podcast and post.draft != true %}
 		<item>
