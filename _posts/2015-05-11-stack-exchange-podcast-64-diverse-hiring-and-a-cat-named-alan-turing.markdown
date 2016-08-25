@@ -41,7 +41,7 @@ Roberta didn't apply to work here when she first saw the listing (even though sh
 
 Roberta's hesitance to apply with us isn't surprising given lots of her past experiences with programming while female. Example: at a conference last summer, which she attended as a representative of Stack Overflow wearing a Stack Overflow t-shirt, one of the conference *organizers* assumed she was a booth babe. Lots of people visiting the Stack Overflow booth addressed their technical questions to Gabe, [who does *not* work as a developer here](http://blog.stackoverflow.com/2013/08/introducing-gabe-the-smiling-community-manager/). This is the kind of thing that happens all day every day in real life and on the Internet.
 
-<img src="https://i.stack.imgur.com/iMePz.jpg" alt="Roberta "Not A Booth Babe" Arcoverde" />
+<img src="https://i.stack.imgur.com/iMePz.jpg" alt="Roberta 'Not A Booth Babe' Arcoverde" />
 
 Another relevant link: [Coding Like a Girl](https://medium.com/@sailorhg/coding-like-a-girl-595b90791cce).
 
