@@ -12,6 +12,7 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/20873269-stack-exchange-stack-exchange-podcast-15.mp3
+duration: "01:05:53"
 ---
 
 Joining Jeff and Joel this week is [Michael Natkin](http://cooking.stackexchange.com/users/1393/michael-at-herbivoracious), from our Cooking.SE site.  Michael is especially interesting because he is a computer programmer, but he doesn't answer questions at Stack Overflow, only on the Cooking site (he's our first guest to do so!) - he also writes over at [Herbivoracious](http://herbivoracious.com/) (which he started back in 2007).

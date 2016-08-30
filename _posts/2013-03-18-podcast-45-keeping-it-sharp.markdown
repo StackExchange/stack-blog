@@ -12,6 +12,7 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/83835972-stack-exchange-stack-exchange-podcast-45.mp3
+duration: "00:56:15"
 ---
 
 Our guest this week is Eric Lippert - language architect extraordinaire and famous for all his work at Microsoft in developing their languages

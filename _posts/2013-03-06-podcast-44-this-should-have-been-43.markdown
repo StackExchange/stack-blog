@@ -12,6 +12,7 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/82092950-stack-exchange-stack-exchange-podcast-44.mp3
+duration: "01:01:59"
 ---
 
 

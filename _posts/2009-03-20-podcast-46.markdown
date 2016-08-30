@@ -12,6 +12,7 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14377508-stack-exchange-stack-overflow-podcast-32.mp3
+duration: "01:09:56"
 ---
 
 

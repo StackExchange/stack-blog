@@ -12,6 +12,7 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14377258-stack-exchange-stack-overflow-podcast-23.mp3
+duration: "01:06:36"
 ---
 
 This is the 55th episode of the StackOverflow podcast where Joel and Jeff discuss killer IDEs, how much interview feedback is appropriate (for both parties), and how to teach young programmers who think they know it all.

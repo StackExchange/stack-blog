@@ -12,6 +12,7 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/77975208-stack-exchange-stack-exchange-podcast-42.mp3
+duration: "00:54:20"
 ---
 
 Welcome to Stack Exchange Podcast #42 - it's our usual gang back this week with Joel, Jay, David, and Producer Alex.  There's plenty of inside baseball, so put on your rally caps and make sure to stick it through to the end!

@@ -12,6 +12,7 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/15072642-stack-exchange-stack-exchange-podcast-7.mp3
+duration: "01:08:23"
 ---
 
 This week, the Stack Exchange podcast travels to England, where Jeff and Joel are joined by [Stack Overflow legend Jon Skeet](http://blog.stackoverflow.com/2010/09/what-happens-when-you-reach-200k-reputation/) (and son!) along with [Marc Gravell](http://blog.stackoverflow.com/2010/06/welcome-stack-overflow-valued-associates-00006-and-00007/).

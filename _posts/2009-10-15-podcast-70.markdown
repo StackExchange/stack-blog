@@ -12,6 +12,7 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14376840-stack-exchange-stack-overflow-podcast-7.mp3
+duration: "01:08:02"
 ---
 
 In this episode of the podcast, Joel and Jeff discuss DevDays, the diversity of Stack Exchange sites, the debut of CVs and careers on Stack Overflow, and the viability of WiFi at tech conferences.

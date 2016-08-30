@@ -12,6 +12,7 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14377094-stack-exchange-stack-overflow-podcast-18.mp3
+duration: "01:08:11"
 ---
 
 This is the 60th episode of the StackOverflow podcast where Joel and Jeff discuss the value (or lack thereof) of meta-discussion, how much "big iron" popular websites need, and whether code forking is sometimes inevitable.

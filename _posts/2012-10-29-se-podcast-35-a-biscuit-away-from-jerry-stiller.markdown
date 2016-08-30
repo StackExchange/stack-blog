@@ -12,6 +12,7 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/65220816-stack-exchange-stack-exchange-podcast-35.mp3
+duration: "00:50:47"
 ---
 
 Welcome to Stack Exchange podcast #35 with special guest Scott Hanselman. We also have your loyal cohosts, Jay Hanlon and David Fullerton. And Joel Spolsky?

@@ -12,6 +12,7 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14376850-stack-exchange-stack-overflow-podcast-8.mp3
+duration: "01:16:26"
 ---
 
 In this episode of the podcast, Joel and Jeff discuss open sourcing Markdown, the necessity of barriers on the open internet, and the importance of design in the software process.

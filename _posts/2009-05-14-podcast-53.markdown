@@ -12,6 +12,7 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14377334-stack-exchange-stack-overflow-podcast-25.mp3
+duration: "01:00:25"
 ---
 
 This is the 53rd episode of the StackOverflow podcast where Joel and Jeff sit down with [Wil Shipley](http://www.wilshipley.com/blog/) of [Delicious Monster](http://delicious-monster.com/) to discuss the shifting sands of Apple and Microsoft APIs, the value of software development conferences, intuition versus empiricism for developers, and "parrot programming".

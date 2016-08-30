@@ -12,6 +12,7 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/22802616-stack-exchange-stack-exchange-podcast-17.mp3
+duration: "01:15:24"
 ---
 
 Jeff & Joel are back with guests this week - joining them are [Kyle Brandt](http://serverfault.com/users/2561/kyle-brandt) and [George Beech](http://serverfault.com/users/5880/zypher), our very own sysadmins/ops guys/[insert your own term here]

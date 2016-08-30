@@ -12,6 +12,7 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14378616-stack-exchange-stack-overflow-podcast-77.mp3
+duration: "00:46:14"
 ---
 
 This is the inaugural episode of the StackOverflow Podcast, with your hosts [Joel Spolsky](http://www.joelonsoftware.com/) and [Jeff Atwood](http://www.codinghorror.com/blog/), wherein we explain what StackOverflow.com will be. We hope.

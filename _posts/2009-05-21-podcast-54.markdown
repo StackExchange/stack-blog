@@ -12,6 +12,7 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14377289-stack-exchange-stack-overflow-podcast-24.mp3
+duration: "01:10:00"
 ---
 
 This is the 54th episode of the StackOverflow podcast where Joel and Jeff discuss bespoke software development, URL routing, the God Algorithm, and getting your database under version control.

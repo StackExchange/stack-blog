@@ -12,6 +12,7 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/74385052-stack-exchange-stack-exchange-podcast-40.mp3
+duration: "00:59:29"
 ---
 
 You're listening to the Stack Exchange Podcast #40 (We apologize to everyone who expected Wil Wheaton last week)  Your hosts are David Fullerton, Jay Hanlon, and Joel Spolsky.  We also have a surprise special guest: Britton Payne, professor of Copyright, Trademark, and Emerging Technologies at Fordham University. He knows a lot of things about software patent law, so we grabbed him as he walked by the studio to talk to us.

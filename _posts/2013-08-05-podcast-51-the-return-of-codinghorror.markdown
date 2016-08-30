@@ -12,6 +12,7 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/104100512-stack-exchange-stack-exchange-podcast-51.mp3
+duration: "01:04:01"
 ---
 
 Welcome to Stack Exchange Podcast #51, with special guest [Jeff Atwood](http://www.codinghorror.com/) and the usual suspects Joel Spolsky, David Fullerton, and Jay Hanlon. Today's show was brought to you by [Pan-American World Airways](http://www.panam.org/)!

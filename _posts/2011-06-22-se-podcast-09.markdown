@@ -12,6 +12,7 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/17651950-stack-exchange-stack-exchange-podcast-10.mp3
+duration: "01:09:10"
 ---
 
 This week, Jeff and Joel are joined by Greg Wilson, an author, developer, and former university professor, who is also an expert on open source software development.  Once make it through the jokes and get his mic sounding great, we can jump in and explore all kinds of interesting topics, like:

@@ -12,6 +12,7 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/20358142-stack-exchange-stack-exchange-podcast-14.mp3
+duration: "01:07:11"
 ---
 
 [Miguel De Icaza](http://tirania.org/blog/) joins Jeff & Joel this week to discuss everything from Miguel's many projects to identity on the internet to playdates for toddlers.  Miguel is a force in the software world, having initiated and contributed to all kinds of products over the years - he's also well known for being one of the most productive programmers out there.  Check out the full episode for:

@@ -12,6 +12,7 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/28804935-stack-exchange-stack-exchange-podcast-28.mp3
+duration: "00:59:48"
 ---
 
 Jeff & Joel are joined this week by Brent Ozar, database wizard who has helped tons of companies (including Stack) with their massive scaling needs.

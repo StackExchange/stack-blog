@@ -12,6 +12,7 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14378610-stack-exchange-stack-overflow-podcast-76.mp3
+duration: "00:50:34"
 ---
 
 This is the second episode of the StackOverflow podcast, wherein Joel and I discuss the following:

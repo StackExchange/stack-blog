@@ -12,6 +12,7 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/14376817-stack-exchange-stack-overflow-podcast-6.mp3
+duration: "01:47:53"
 ---
 
 A collection of clips recorded at the [San Francisco DevDays conference](http://stackoverflow.carsonified.com/events/sanfrancisco/), including Joel Spolsky, Mark Harrison, Jeff Atwood, Scott Hanselman and Rory Blyth. This episode runs a bit longer than usual.

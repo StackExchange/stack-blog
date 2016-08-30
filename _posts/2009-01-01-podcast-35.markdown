@@ -12,6 +12,7 @@ tags:
 - company
 - podcasts
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/220593516-stack-exchange-stack-overflow-podcast-episode-35.mp3
+duration: "01:11:37"
 ---
 
 This is the 35th episode of the StackOverflow podcast, where Joel and Jeff discuss the mysteries of server hardware, anomalous voting patterns, change fatigue, and whether or not Joel is the Martha Stewart of the software industry.

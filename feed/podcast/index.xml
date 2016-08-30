@@ -79,6 +79,9 @@ Stack Overflow is the flagship property of a fast-growing network of over 100 qu
 			<itunes:explicit>no</itunes:explicit>
 			<itunes:summary><![CDATA[{{ post.content | strip_html | unescapeHTML | truncate: 4000 }}]]></itunes:summary>
 			<itunes:subtitle><![CDATA[{{ post.excerpt | strip_html | unescapeHTML | truncate: 255  }}]]></itunes:subtitle>
+			{% if post.duration %}
+                        <itunes:duration>{{ post.duration }}</itunes:duration>
+			{% endif %}
 			<enclosure type="audio/mpeg" url="{{ post.podcast }}" length="0"/>
 		</item>
 		{% endif %}
