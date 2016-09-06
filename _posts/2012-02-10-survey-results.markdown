@@ -6,7 +6,7 @@ layout: post
 redirect_from: /2012/02/survey-results
 hero: 
 slug: survey-results
-title: 2011 Stack Overflow User Survey Results
+title: 2012 Stack Overflow User Survey Results
 wordpress_id: 11011
 tags:
 - company
@@ -15,7 +15,7 @@ tags:
 - survey
 ---
 
-In December we launched the [3rd ever Stack Overflow Annual User Survey](http://blog.stackoverflow.com/2011/12/come-here-often/) to measure changes in user demographics and trends from [last year](http://blog.stackoverflow.com/2011/01/survey-says/).  First, a big thank you to everyone who participated, and now on to the results!
+In December 2011, we launched the [3rd ever Stack Overflow Annual User Survey](http://blog.stackoverflow.com/2011/12/come-here-often/) to measure changes in user demographics and trends from [last year](http://blog.stackoverflow.com/2011/01/survey-says/).  First, a big thank you to everyone who participated, and now on to the results!
 
 
 
@@ -45,4 +45,4 @@ Last year, many of you asked to segment the data by reputation, so here goes.  
 
 [![](https://i.stack.imgur.com/0Nrj2.png)](http://blog.stackoverflow.com/2012/02/survey-results/rep-table/)
 
-If you’d like to receive the entire data set, [download them from here](https://drive.google.com/a/stackoverflow.com/#folders/0BwIexitMAu8ceG95UUkyUGlRM0U).
+If you’d like to receive the entire data set, [download them from here](https://drive.google.com/uc?export=download&id=0B0DL28AqnGsrX3JaZWVwWEpHNWM).
