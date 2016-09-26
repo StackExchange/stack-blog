@@ -2,7 +2,7 @@
 author: alex
 comments: true
 date: 2013-09-03 19:34:45+00:00
-layout: post
+layout: podcast
 redirect_from: /2013/09/podcast-52-we-didnt-need-headphones
 hero: /images/category/podcasts.jpg
 slug: podcast-52-we-didnt-need-headphones
@@ -73,4 +73,4 @@ Welcome to Stack Exchange Podcast #52 with your hosts Joel Spolsky, David Fuller
 Thanks for listening to Stack Exchange Podcast #52. Marmite may be stored at room temperature, even after it's been opened.
 
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/108681379&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
