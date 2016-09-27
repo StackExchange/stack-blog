@@ -10,7 +10,7 @@ tags:
 - podcasts
 ---
 
-Welcome to The Stack Overflow Podcast, recorded September 20 at our headquarters in NYC. This week’s episode is brought to you by [adorable otters](http://www.otter.org/Public/), who hold hands at night so they don’t float away from each other. The episode is also brought to you by [Compose, an IBM company](http://www.ibm.com/analytics/us/en/technology/cloud-data-services/compose/). Compose is a production-ready, cloud hosted platform for building enterprise applications on open source database technologies. 
+Welcome to The Stack Overflow Podcast, recorded September 20 at our headquarters in NYC. This week’s episode is brought to you by [adorable otters](http://www.otter.org/Public/), who hold hands at night so they don’t float away from each other. The episode is also brought to you by [Compose, an IBM company](https://www.compose.com/?utm_source=podcast_Sept26&utm_medium=link&utm_campaign=datalayer&utm_term=SO_blogpost). Compose is a production-ready, cloud hosted platform for building enterprise applications on open source database technologies. 
 
 Before you listen, please note that this is episode #88, not to be confused with what should have been episode #73 since we last left off at episode #72. That episode was for The Stack Exchange Podcast, and this is The Stack Overflow Podcast. Confused? You’re literally the only one who is. Bury your feelings of embarrassment and don’t let anyone know.
 
