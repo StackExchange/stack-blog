@@ -27,6 +27,7 @@ Last week’s winner, commenting on whether socks should go on before pants or p
 See you next week!
 
 Notable links:
+
 * Twitter: [@stackpodcast](https://twitter.com/StackPodcast)
 * Facebook: [The Stack Overflow Podcast](https://www.facebook.com/stackoverflowpodcast)
 * Our website is now live: [http://stackoverflow.com/podcast](http://stackoverflow.com/podcast)
