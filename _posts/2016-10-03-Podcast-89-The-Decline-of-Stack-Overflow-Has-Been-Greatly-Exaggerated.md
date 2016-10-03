@@ -32,4 +32,4 @@ Notable links:
 * Facebook: [The Stack Overflow Podcast](https://www.facebook.com/stackoverflowpodcast)
 * Our website is now live: [http://stackoverflow.com/podcast](http://stackoverflow.com/podcast)
 * Fascinating [Xerox Alto](http://www.righto.com/2016/06/y-combinators-xerox-alto-restoring.html) restoration information 
-* Check out [Esperanto.SE](http://esperanto.se/) and [Lindsay Does Languages segment on Esperanto](https://www.youtube.com/watch?v=ls0QVGKJkbM).
+* Check out [Esperanto on Stack Exchange](http://esperanto.stackexchange.com/) and [Lindsay Does Languages segment on Esperanto](https://www.youtube.com/watch?v=ls0QVGKJkbM).
