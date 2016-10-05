@@ -2,8 +2,7 @@
 layout: post
 title: El-Estado-de-Stack-Overflow-en-español
 author: juanm
-hero: https://github.com/StackExchange/stack-blog/blob/master/images/SO_Communities_Blog.jpg
-draft: true
+hero: /images/SO_communities_Blog.jpg
 tags:
 - company
 - español
@@ -20,4 +19,16 @@ Pero, antes de comenzar, nos gustaría saber cuales pasos siguientes debemos tom
 
 Les dejo con algunos números interesantes para el mes de septiembre del 2016:
 
+####Preguntas más respondidas:
+1. [¿Cómo puedo proteger mi código de robo?](http://es.stackoverflow.com/questions/22333/c%C3%B3mo-puedo-proteger-mi-c%C3%B3digo-de-robo)
+2. [Python ¿Qué es mas eficiente if not == o if !=? ](http://es.stackoverflow.com/questions/23328/python-qu%C3%A9-es-mas-eficiente-if-not-o-if)
+3. [¿Cual es el mejor lugar para colocar los tag <scripts src=""> en html?](http://es.stackoverflow.com/questions/23328/python-qu%C3%A9-es-mas-eficiente-if-not-o-if)
+
+####Respuestas con más votos:
+1. [Opiniones sobre uso de Ñ en nombre de variables en C#](http://es.stackoverflow.com/a/22393/4)
+2. [Guía de estilo para HTML, CSS y Javascript](http://es.stackoverflow.com/a/22413/4)
+3. [Coordenadas de la aguja del minutero](http://es.stackoverflow.com/a/24793/4)
+
+####La pregunta más visitada:
+1. [¿Cómo añadir mensaje de error en código jQuery?](http://es.stackoverflow.com/questions/23944/c%C3%B3mo-a%C3%B1adir-mensaje-de-error-en-c%C3%B3digo-jquery)
 
