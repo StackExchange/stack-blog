@@ -22,15 +22,15 @@ Today we shipped an [update](https://stackoverflow.com/company/salary) to the ca
 
 [![Try the salary updated calculator](https://i.stack.imgur.com/JrueQ.png)](https://stackoverflow.com/company/salary)
 
-### Setting the market salaries
+### Setting the US market salaries
 
 Our base salaries are updated once a year based on the best available information “market” rates. Sources we look at:
 
-- Salary reports on the entire industry. We purchase salary data from a third-party that aggregates it by job title. This gives us rough data for e.g. Software Engineers or Graphic Designers (though it isn’t specific to startups).
-- VC surveys. All of our main VCs do yearly compensation surveys (which we participate in) and then share the aggregated data with us. This is our best survey data because it’s more specific to startups, though the sample size is smaller.
-- Competing offers. For anyone hired in the previous year, we take into consideration any competing offers they received that they’re willing to share.
+- **Industry reports.** We purchase salary data from a third-party, aggregated by job title. This gives us rough data for e.g. Software Engineers or Graphic Designers (though it isn’t specific to startups).
+- **VC surveys.** All of our main VCs do yearly compensation surveys (which we participate in) and then share the aggregated data with us. This is our best survey data because it’s more specific to startups, though the sample size is smaller.
+- **Competing offers.** For anyone hired in the previous year, we take into consideration any competing offers they received that they’re willing to share.
 
-### Setting the international conversions (new!) 
+### Setting the international salaries (new!) 
 
 As of 2016, we also benchmark international salaries.
 
@@ -40,4 +40,4 @@ We recognize that some countries have market salaries that are lower than the US
 
 The international salaries are updated yearly. If we hire someone in a new country mid-year, we’ll research and establish the base salary then.
 
-####[Try the Stack Overflow salary calculator...](https://stackoverflow.com/company/salary)
+###[Try the updated Stack Overflow salary calculator...](https://stackoverflow.com/company/salary)
