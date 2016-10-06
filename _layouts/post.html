@@ -49,4 +49,9 @@ layout: default
 	</div>
 </article>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+
+{% capture pubdate %}{{ page.date | date: "%Y-%m-%d" }}{% endcapture %}
+
+{% if pubdate < "2015-07-02" %}
 <script src="{{ site.baseurl }}/js/post.js"></script>
+{% endif %}
