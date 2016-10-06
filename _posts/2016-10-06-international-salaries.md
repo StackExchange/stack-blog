@@ -3,8 +3,8 @@ layout: post
 title: "International salaries at Stack Overflow"
 description: "Our salary calculator now covers international rates, and a couple of new roles."
 author: jhumphries
-draft: true
-date: 2016-10-04
+draft: false
+date: 2016-10-06
 tags: 
 - company
 langs:
