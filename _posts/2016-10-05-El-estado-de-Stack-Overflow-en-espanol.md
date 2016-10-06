@@ -15,14 +15,14 @@ Si están leyendo esto, sabrán que no es cuestión de imaginarse un lugar así.
 
 Este reporte es exactamente de lo que estamos hablando - una manera de echar un vistazo detrás de la cortina para ver lo que estamos planeando y pensando. Esta es una manera en la cual podremos compartir con ustedes algunos datos de importancia sobre nuestro crecimiento e impacto. Será una manera de contarles como va todo con la comunidad porque estos sitios son enormes y sabemos lo difícil que es el poder mantener todos los datos organizados. Compartiremos estadísticas interesantes con ustedes de mensualmente y pondremos el reporte aquí en el blog donde lo podrán encontrar fácilmente para leerlo y comentar sobre lo que vean.
 
-Pero, antes de comenzar, nos gustaría saber cuales pasos siguientes debemos tomar - ¿cuales estadísticas les servirá conocer? ¿Que les gustaría saber, conocer, platicar o leer? Tenemos algunas ideas que queremos intentar pero nadie sabe mas sobre que ustedes lo que la comunidad necesita. Denos sus ideas sobre lo que este espacio pueda ser e intentaremos soportar sus intereses de la mejor manera posible.
+Pero, antes de comenzar, nos gustaría saber cuales pasos siguientes debemos tomar - ¿cuales estadísticas les servirá conocer? ¿Que les gustaría saber, conocer, platicar o leer? Tenemos algunas ideas que queremos intentar pero nadie sabe más que ustedes lo que la comunidad necesita. Denos sus ideas sobre lo que este espacio pueda ser e intentaremos soportar sus intereses de la mejor manera posible.
 
 Les dejo con algunos números interesantes para el mes de septiembre del 2016:
 
 ####Preguntas más respondidas:
 1. [¿Cómo puedo proteger mi código de robo?](http://es.stackoverflow.com/questions/22333/c%C3%B3mo-puedo-proteger-mi-c%C3%B3digo-de-robo)
 2. [Python ¿Qué es mas eficiente if not == o if !=? ](http://es.stackoverflow.com/questions/23328/python-qu%C3%A9-es-mas-eficiente-if-not-o-if)
-3. [¿Cual es el mejor lugar para colocar los tag <scripts src=""> en html?](http://es.stackoverflow.com/questions/23328/python-qu%C3%A9-es-mas-eficiente-if-not-o-if)
+3. [¿Cual es el mejor lugar para colocar los tag <scripts src=""> en html?](http://es.stackoverflow.com/questions/25088/cual-es-el-mejor-lugar-para-colocar-los-tag-scripts-src-en-html)
 
 ####Respuestas con más votos:
 1. [Opiniones sobre uso de Ñ en nombre de variables en C#](http://es.stackoverflow.com/a/22393/4)
