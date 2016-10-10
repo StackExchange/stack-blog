@@ -2,6 +2,7 @@
 layout: post
 date: 2016-10-11 12:30:00
 title: "Bye Bye, Bullets: The Stack Overflow Developer Story is the New Technical Resume"
+draft: true
 author: jhanlon
 hero: https://i.stack.imgur.com/rmaaP.png
 tags: 
