@@ -7,7 +7,7 @@ hero: https://i.stack.imgur.com/rmaaP.png
 tags: 
 - company
 - stackoverflow
-- announcement
+- announcements
 ---
 
 If you write code, you know that you’re more than a list of places where you worked or went to school. However you got to where you are now, what should matter is what you’ve built, and what you can do. Whether you're currently looking for new opportunities or not — and whether you're active on Stack Overflow or not — your Developer Story is the best way to share whatever it is that *you* take pride in.
