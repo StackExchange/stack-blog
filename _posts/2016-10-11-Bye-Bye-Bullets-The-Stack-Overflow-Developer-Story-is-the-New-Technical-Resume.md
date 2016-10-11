@@ -16,7 +16,7 @@ It’s your story; tell it your way.
 
 ![](https://i.stack.imgur.com/Xd0YG.png)
 
-Get yours today at [s.tk/story](s.tk/story). It only takes a few minutes, and you do NOT want some other joker snapping up the good URLs. Take it from me, [stackoverflow/story/J@yH@n10n](https://www.youtube.com/watch?v=DLzxrzFCyOs).
+Get yours today at [s.tk/story](http://s.tk/story). It only takes a few minutes, and you do NOT want some other joker snapping up the good URLs. Take it from me, [stackoverflow/story/J@yH@n10n](https://www.youtube.com/watch?v=DLzxrzFCyOs).
 
 ## Technology has evolved. Tech resumes? Not so much. 
 
