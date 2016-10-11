@@ -40,7 +40,7 @@ The Developer Story puts the work you’re most proud of where it belongs: at th
 
 ![Which of these better tells the real story?](https://i.stack.imgur.com/5jcMz.png)
 
-** No reputation points? No problem.** Posting answers or contributing to [Documentation](http://stackoverflow.com/documentation) is one way to build up public artifacts of your coding experience, but it’s not the only way. Your Developer Story lets you show off whatever you work on. So you’ll look good, no matter how much rep you have on Stack Overflow.
+**No reputation points? No problem.** Posting answers or contributing to [Documentation](http://stackoverflow.com/documentation) is one way to build up public artifacts of your coding experience, but it’s not the only way. Your Developer Story lets you show off whatever you work on. So you’ll look good, no matter how much rep you have on Stack Overflow.
 
 ### Find a job you'll love, on your terms. 
 
