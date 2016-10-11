@@ -390,6 +390,12 @@ article.post {
 				.author-container {
 					margin-top: 0;
 				}
+				h1 {
+					text-shadow: none;
+				}
+			}
+			h1 {
+				text-shadow: 1px 1px black;
 			}
 			h1, h2, .date {
 				color: #fff;
