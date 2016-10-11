@@ -76,6 +76,6 @@ So, for the next two weeks, if you tweet a link to your developer story, and inc
 
 ![Grace Hopper](https://i.stack.imgur.com/b9CbL.png)
 
-Thanks to Abby Miller, Elaine Wang, Kaitlin Pike, Kit Carrau, Rachel Maleady, Taryn Pratt, and Tim Post for helping to improve this post.
+Thanks to Abby T. Mars, Elaine Wang, Kaitlin Pike, Kit Carrau, Rachel Maleady, Taryn Pratt, and Tim Post for helping to improve this post.
 
 
