@@ -14,7 +14,7 @@ Welcome to The Stack Overflow Podcast #90, recorded October 3 at Stack Overflow 
 
 In this episode: Rant Soup™, now with Trello! If you would like to make your own Trello board of rants, or soup, go to [Trello.com](https://trello.com/). Also, according to Joel, Jay is still not getting a raise. (Don't worry buddy, you'll get there someday…)
 
-Today's special guest, calling in from not-so-sunny London, is Stack Overflow PM Kit Karrau. Kit is the driving force behind our new product, the Developer Story, launching today. Developer Story shows what you’ve built, not just where you’ve worked or went to school. It’s your story; tell it your way. Go to s.tk/story to create yours now.
+Today's special guest, calling in from not-so-sunny London, is Stack Overflow PM Kit Karrau. Kit is the driving force behind our new product, the Developer Story, launching today. Developer Story shows what you’ve built, not just where you’ve worked or went to school. It’s your story; tell it your way. Go to [s.tk/story](http://stackoverflow.com/users/story/join) to create yours now.
 
 As part of our favorite story about a developer in this week’s episode, we learn that Joel's hands are very small in a certain photo on a certain [website](https://www.linkedin.com/in/joelspolsky) (so you should definitely NOT go there right now to point and laugh).
 
@@ -30,9 +30,9 @@ See you next week!
 
 Notable Links:
 
-Developer Story: [s.tk/story](http://stackoverflow.com/users/story/join)
-Devrant: [https://www.devrant.io/](https://www.devrant.io/)
-Twitter: [@stackpodcast](https://twitter.com/StackPodcast)
-Facebook: [The Stack Overflow Podcast](https://www.facebook.com/stackoverflowpodcast/)
-Our website is now live: [http://stackoverflow.com/podcast](http://stackoverflow.com/podcast)
+* Developer Story: [s.tk/story](http://stackoverflow.com/users/story/join)
+* Devrant: [https://www.devrant.io/](https://www.devrant.io/)
+* Twitter: [@stackpodcast](https://twitter.com/StackPodcast)
+* Facebook: [The Stack Overflow Podcast](https://www.facebook.com/stackoverflowpodcast/)
+* Our website is now live: [http://stackoverflow.com/podcast](http://stackoverflow.com/podcast)
 
