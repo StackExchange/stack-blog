@@ -75,6 +75,8 @@ So, for the next two weeks, if you tweet a link to your developer story, and inc
 
 *(We hope you’ll indulge our use of Rear Admiral Hopper’s incredible biography as a case study for the images in this post. You should not take this to mean that the Rear Admiral endorses Stack Overflow in any way. You can, however, take it to mean that we endorse her. Wholeheartedly.)*
 
+![Grace Hopper](https://i.stack.imgur.com/b9CbL.png)
+
 Thanks to Abby Miller, Elaine Wang, Kaitlin Pike, Kit Carrau, Rachel Maleady, Taryn Pratt, and Tim Post for helping to improve this post.
 
 
