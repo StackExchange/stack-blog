@@ -2,7 +2,7 @@
 layout: post
 title: Estado da Pilha Internacional - Outubro/2016
 author: gabekoscky
-date: 2014-10-12
+date: 2016-10-12
 hero: /images/SO_communities_Blog.jpg
 tags:
 - company
