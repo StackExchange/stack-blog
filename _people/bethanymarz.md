@@ -11,4 +11,5 @@ speaker_intro: Bethany focuses on growing Stack Overflow Careers by engaging dir
 speaker_tags:
 - marketing
 - recruiting
+inactive: true
 ---

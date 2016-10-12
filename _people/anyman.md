@@ -12,5 +12,6 @@ speaker_intro: Angela has an extensive expertise in branding, marketing manageme
 speaker_tags:
 - marketing
 - recruiting
+inactive: true
 ---
 
