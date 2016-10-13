@@ -71,7 +71,7 @@ Stack Overflow is the flagship property of a fast-growing network of over 100 qu
 			{% if post.wordpress_id %}
 			<guid isPermaLink="false">http://blog.stackoverflow.com/?p={{ post.wordpress_id }}</guid>
 			{% else %}
-			<guid isPermaLink="false">{{ site.url }}{{ post.url }}</guid>
+			<guid isPermaLink="false">http://blog.stackoverflow.com{{ post.url | downcase }}</guid>
 			{% endif %}
 			<description><![CDATA[{{ post.excerpt | raw }}]]></description>
 			<content:encoded><![CDATA[{{ post.content | raw }}]]></content:encoded>
