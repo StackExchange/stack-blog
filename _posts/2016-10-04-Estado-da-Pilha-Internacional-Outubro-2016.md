@@ -12,7 +12,7 @@ langs:
 ---
 Imagine uma comunidade online, repleta de pessoas, ideias e possibilidades. Um lugar onde pessoas se encontram, para ajudar umas às outras e dividir seu interesse em algo muito importante em suas vidas. Imagine esse lugar se tornando parte da rotina de cada membro, contribuindo para que eles aprendam mais sobre algo que eles adoram fazer. Imagine uma comunidade que incentive o debate, alimente a curiosidade e recompense a dedicação - não só com pontos mágicos de internet mas com algo mais concreto: o sentimento de descobrir algo novo, de alcançar um objetivo, de ir mais longe no seu aprendizado.
 
-Se você está lendo este post, é provável que não precise *imaginar* um lugar assim. Você já sabe que ele existe, e faz parte dele. Todos nós fazemos parte dele. Nós todos compartilhamos a reseponsabilidade de ajudar nossa comunidade a continuar crescendo, forte e saudável. O quão mais forte ela for, mais pessoas vamos poder ajudar.
+Se você está lendo este post, é provável que não precise *imaginar* um lugar assim. Você já sabe que ele existe, e faz parte dele. Todos nós fazemos parte dele. Nós todos compartilhamos a responsabilidade de ajudar nossa comunidade a continuar crescendo, forte e saudável. O quão mais forte ela for, mais pessoas vamos poder ajudar.
 
 E é daí que nasceu o Estado da Pilha. Uma maneira de vocês poderem dar uma olhada nos bastidores e saber o que estamos pensando, quais são nossos planos e o que estamos fazendo parar apoiar vocês e todos as outras pessoas que chegam ao nosso site. Também é uma maneira de vocês poderem nos dizer como as coisas estão indo do seu lado, já que nossa comunidade é bem grande e não temos como estar de olho em tudo o tempo todo. Vamos sempre tentar dividir algumas estatísticas interessantes sobre o site, no último mês, mostrando o que aconteceu de notável no período. Tudo isso de maneira regular - provavelmente mensal - aqui no nosso blog.
 
@@ -30,7 +30,7 @@ Algumas estatísticas de Setembro/2016:
 2. [Como obter valores únicos em um array JavaScript?](http://pt.stackoverflow.com/questions/150415)
 3. [Por que é obrigatório implementar `public static void main (String [] args)`?](http://br.stackoverflow.com/questions/151131)
 
-####Pergunta Mais Visitada
+####Perguntas Mais Visitada
 1. [Divergência em criptografar e descriptografar em Java e C# algoritmo Aes](http://br.stackoverflow.com/questions/152080)
 2. [Como obter valores únicos em um array JavaScript?](http://br.stackoverflow.com/questions/150413)
 3. [Por que é obrigatório implementar `public static void main (String [] args)`?](http://br.stackoverflow.com/questions/151129)
