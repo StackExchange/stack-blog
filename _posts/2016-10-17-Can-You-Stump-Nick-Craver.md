@@ -14,7 +14,7 @@ Welcome to The Stack Overflow Podcast #91, recorded Tuesday, October 11 at Stack
 
 In this episode you can learn way too much about the New York Transit Museum, the word "Stack" at Microsoft, and the etymology of Channel 9, where Joel was [interviewed](https://channel9.msdn.com/Blogs/Seth-Juarez/Joel-Spolsky-Talks-About-Building-Stack-Overflow-and-Values-Developers-Care-About) last week with the help of gender neutral robot cameras.
 
-We have a two new segments debuting this week: 
+We have two new segments debuting this week: 
 
 * Introducing Stump Nick Craver! Here's how it works, we call Nick Craver ([@Nick_Craver](https://twitter.com/Nick_Craver)) and he will have 60 seconds to answer 5 questions about servers. If he answers all correctly, he will win a 6 month supply of [Clorox Toilet Wands](https://www.clorox.com/products/clorox-toiletwand-system/?gclid=CJaj4KGG4s8CFU46gQodqawCVg). As it turns out, a 6-month supply is exactly one wand.
 
