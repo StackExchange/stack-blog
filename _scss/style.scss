@@ -4,7 +4,7 @@ $mediaQuery-small:      768px;
 $color-white:     		hsl(0,0%,100%);
 $color-grayMid:   hsl(206,10%,42%);
 $color-grayLight: spin(desaturate(lighten($color-grayMid,50%),3%),-6);
-$blue: #0077cc;
+$blue: #3190d4;
 $orange: #f48024;
 $baseTextGray: rgba(0,0,0,0.8);
 
@@ -165,6 +165,8 @@ i.blog-icon {
 		padding: 0;
 		li {
 			border-bottom: 1px solid rgba(0,0,0, 0.1);
+			font-size: 15px;
+			letter-spacing: 0.2px;
 			font-weight: 200;
 			padding: 10px 0px;
 			&:last-child {
