@@ -39,9 +39,10 @@
 
   <body>
     <div class="container">
-      {% if page.layout != "post" %}
+      <!--TODO: Make this more general-->
+      {% unless page.layout == "post" or page.layout == "podcast" %} 
         {% include header.html %}
-      {% endif %}
+      {% endunless %}
     <div id="main" role="main">
       {{ content }}
     </div>
