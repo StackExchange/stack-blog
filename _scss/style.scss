@@ -320,7 +320,7 @@ i.blog-icon {
   .-item {
     transition: all 0.1s ease;
     -webkit-transition: all 0.1s ease;
-    border-right: 1px solid rgba(255,255,255,0.25);
+     border-right: 1px solid rgba(255,255,255,0.25);
     -webkit-flex-shrink: 0;
     .-nav-link:hover {
         background-color: rgba(132, 141, 149, 0.05);
@@ -347,7 +347,7 @@ i.blog-icon {
   -webkit-transition: all 0.05s ease;
   width: 30px;
   height: 100%;
-  background: url(../images/blog-logo.svg);
+  background: url(../images/blog-logo-color.svg);
   background-repeat: no-repeat;
   background-position: center center;
   padding: 0;
@@ -396,13 +396,13 @@ i.blog-icon {
   .log-in-btn {
       color: #0077cc;
   }
-  .-item { 
+  .-item {
+		border-right: 1px solid #eff0f1; 
      .-nav-link {
         color: #848d95;
-        border-right: 1px solid #eff0f1;
     }
     &.hlogo a {
-        background: url(../images/blog-logo.svg);
+        background: url(../images/blog-logo-color.svg);
         background-size: 150px;
         background-repeat: no-repeat;
         background-position: center center;
