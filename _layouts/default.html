@@ -39,21 +39,9 @@
 
   <body>
     <div class="container">
-    <header>
-      <div class="inner-container -row">
-        <div class="-col4">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
-        </div>
-        <nav class="-col8">
-          <a class="home{% if page.top_nav == "home" %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
-          <a class="company{% if page.top_nav == "company" %} active{% endif %}" href="{{ site.baseurl }}/company/">Company News</a>
-          <a class="engineering{% if page.top_nav == "engineering" %} active{% endif %}" href="{{ site.baseurl }}/engineering/">Engineering</a>
-          <a class="authors{% if page.top_nav == "authors" %} active{% endif %}" href="{{ site.baseurl }}/authors/">Contributors</a>
-          <a class="speakers{% if page.top_nav == "speakers" %} active{% endif %}" href="{{ site.baseurl }}/speakers/">Speakers</a>
-        </nav>
-      </div>
-    </header>
-
+      {% if page.layout != "post" %}
+        {% include nav.html %}
+      {% endif %}
     <div id="main" role="main">
       {{ content }}
     </div>
@@ -120,5 +108,12 @@
     </footer>
     </div>
     {% include analytics.html %}
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script>
+      $(window)
+        .scroll(function() {
+            $('header').toggleClass('sticky', $(this).scrollTop() > 1);
+        });
+    </script>
   </body>
 </html>
