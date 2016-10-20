@@ -152,12 +152,29 @@ i.blog-icon {
 		text-justify: inter-word;
 		line-height: 20px;
 	}
-	section {
-		padding-bottom: 25px;
-	}
+
   #hireme {
     min-height: 234px;
   }
+}
+
+.sidebar-nav {
+	margin-bottom: 40px;
+	ul {
+		list-style-type: none;
+		padding: 0;
+		li {
+			border-bottom: 1px solid rgba(0,0,0, 0.1);
+			font-weight: 200;
+			padding: 10px 0px;
+			&:last-child {
+				border-bottom: none;
+			}
+			a {
+				text-decoration: none;
+			}
+		}
+	}
 }
 
 .mainnav-wrapper.grow-form .mainnav .-item:not(.hlogo) {
@@ -399,7 +416,7 @@ i.blog-icon {
     width: 100%;
     text-align: center;
     color: #ffffff;
-    background: linear-gradient(rgb(44,116,155), rgb(65,60,127));
+    background: linear-gradient(rgb(41,121,148), rgb(65,60,127));
     div {
         margin: 0 auto;
         margin-top: 40px;

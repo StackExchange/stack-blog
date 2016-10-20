@@ -3,18 +3,37 @@
 		{% include search.html %}
 	</section>
 
+	<section class="sidebar-nav">
+		<ul>
+			<li>
+				<a href="#">ALL POSTS</a>
+			</li>
+			<li>
+				<a href="#">DEVELOPMENT</a>
+			</li>
+			<li>
+				<a href="#">SYSADMIN</a>
+			</li>
+			<li>
+				<a href="#">DESIGN</a>
+			</li>
+			<li>
+				<a href="#">EVANGELISM</a>
+			</li>
+			<li>
+				<a href="#">OPINION</a>
+			</li>
+		</ul>
+	</section>
+
+
 	<section>
-	<h3>Hello World</h3>
-	<p>Welcome to <a href="http://stackoverflow.com/">Stack Overflow</a> Engineering! We assume if you’ve arrived at this page, you probably already know all about the <a href="http://stackoverflow.com/">Stack Overflow</a>, and likely some of the other <a href="http://stackexchange.com/sites">Q&amp;A sites</a>. In addition to writing a lot of code, we like to write about writing code and the other things we're doing to improve the tech community. We're trying a new thing by collecting those writings here so we can share them with the larger programming community. We hope you like it!</p>
+	<h3>Contributors</h3>
+	{% include authors.html %}
 	</section>
 
 	<section>
 		<p><a href="https://github.com/StackExchange">Open Source</a></p>
 		<p><a href="https://github.com/StackExchange/stack-blog">Blog Repository</a></p>
-	</section>
-
-	<section>
-	<h3>Contributors</h3>
-	{% include authors.html %}
 	</section>
 </div>
