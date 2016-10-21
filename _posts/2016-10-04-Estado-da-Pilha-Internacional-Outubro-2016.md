@@ -30,7 +30,7 @@ Algumas estatísticas de Setembro/2016:
 2. [Como obter valores únicos em um array JavaScript?](http://pt.stackoverflow.com/questions/150415)
 3. [Por que é obrigatório implementar `public static void main (String [] args)`?](http://br.stackoverflow.com/questions/151131)
 
-####Perguntas Mais Visitada
+####Perguntas Mais Visitadas
 1. [Divergência em criptografar e descriptografar em Java e C# algoritmo Aes](http://br.stackoverflow.com/questions/152080)
 2. [Como obter valores únicos em um array JavaScript?](http://br.stackoverflow.com/questions/150413)
 3. [Por que é obrigatório implementar `public static void main (String [] args)`?](http://br.stackoverflow.com/questions/151129)
