@@ -992,16 +992,10 @@ specificity overrides some default styles */
 	}
 	header {
 		height: auto;
-		padding-bottom: 20px !important; /* important because the pages that have sub-nav override this value in-page */
 		nav {
 			clear: left;
 			text-align: left;
-			padding: 15px 0;
-			margin-left: -8px; /* align text with the logo */
-			a, a:link, a:visited, a.active, a:hover {
-				border: none !important;
-				color: $color-white;
-			}
+			margin-left: 8px;
 		}
 	}
 	.add-padding {
