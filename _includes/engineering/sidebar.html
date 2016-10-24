@@ -6,22 +6,22 @@
 	<section class="sidebar-nav">
 		<ul>
 			<li>
-				<a href="{{ site.baseurl}}/engineering/">ALL POSTS</a>
+				<a class="{% unless paginator.channel %} active {% endunless %}" href="{{ site.baseurl}}/engineering/">All Posts</a>
 			</li>
 			<li>
-				<a href="{{ site.baseurl }}/engineering/development/">DEVELOPMENT</a>
+				<a class="{% if paginator.channel == "development" %} active{% endif %}" href="{{ site.baseurl }}/engineering/development/">Development</a>
 			</li>
 			<li>
-				<a href="{{ site.baseurl }}/engineering/sysadmin/">SYSADMIN</a>
+				<a class="{% if paginator.channel == "sysadmin" %} active{% endif %}" href="{{ site.baseurl }}/engineering/sysadmin/">Sysadmin</a>
 			</li>
 			<li>
-				<a href="{{ site.baseurl }}/engineering/design/">DESIGN</a>
+				<a class="{% if paginator.channel == "design" %} active{% endif %}" href="{{ site.baseurl }}/engineering/design/">Design</a>
 			</li>
 			<li>
-				<a href="{{ site.baseurl }}/engineering/evangelism/">EVANGELISM</a>
+				<a class="{% if paginator.channel == "evangelism" %} active{% endif %}" href="{{ site.baseurl }}/engineering/evangelism/">Evangelism</a>
 			</li>
 			<li>
-				<a href="{{ site.baseurl }}/engineering/opinion/">OPINION</a>
+				<a class="{% if paginator.channel == "opinion" %} active{% endif %}" href="{{ site.baseurl }}/engineering/opinion/">Opinion</a>
 			</li>
 		</ul>
 	</section>

@@ -3,25 +3,25 @@
 		{% include search.html %}
 	</section>
 
-		<section class="sidebar-nav">
+	<section class="sidebar-nav">
 		<ul>
 			<li>
-				<a href="{{ site.baseurl }}/company/">ALL POSTS</a>
+				<a class="{% unless paginator.channel %} active{% endunless %}" href="{{ site.baseurl }}/company/">All Posts</a>
 			</li>
 			<li>
-				<a href="{{ site.baseurl }}/company/announcements/">ANNOUNCEMENTS</a>
+				<a class="{% if paginator.channel == "announcements" %} active{% endif %}" href="{{ site.baseurl }}/company/announcements/">Announcements</a>
 			</li>
 			<li>
-				<a href="{{ site.baseurl }}/company/podcasts/">PODCASTS</a>
+				<a class="{% if paginator.channel == "podcasts" %} active{% endif %}" href="{{ site.baseurl }}/company/podcasts/">Podcasts</a>
 			</li>
 			<li>
-				<a href="{{ site.baseurl }}/company/community/">COMMUNITY</a>
+				<a class="{% if paginator.channel == "community" %} active{% endif %}" href="{{ site.baseurl }}/company/community/">Community</a>
 			</li>
 			<li>
-				<a href="{{ site.baseurl }}/company/culture/">CULTURE</a>
+				<a class="{% if paginator.channel == "culture" %} active{% endif %}" href="{{ site.baseurl }}/company/culture/">Culture</a>
 			</li>
 			<li>
-				<a href="{{ site.baseurl }}/company/diversity/">DIVERSITY</a>
+				<a class="{% if paginator.channel == "diversity" %} active{% endif %}" href="{{ site.baseurl }}/company/diversity/">Diversity</a>
 			</li>
 		</ul>
 	</section>
