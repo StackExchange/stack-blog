@@ -465,9 +465,7 @@ div.subheader {
 .not-found {
 	padding-top: 100px;
 }
-// .home-hero {
-// 	padding: 150px 0px;
-// }
+
 .post-tag, .postTag {
 	padding: 0.45em 0.5em 0.45em 0.5em;
 	font-size: 13px;
@@ -839,6 +837,41 @@ footer {
 	}
 	padding: 50px 0px;
 }
+
+/* ==============================
+
+	   PAGE SPECIFIC STYLES
+
+============================== */
+
+#home-container {
+	.home-blog-container {
+		cursor: pointer;
+		border: 1px solid #ddd;
+		display: block;
+		text-align: center;
+		margin: 40px;
+		padding: 15px;
+		text-decoration: none;
+		img.home-blog-hero {
+			width: 140%;
+			margin-top: -30%;
+			margin-left: -40%;
+			margin-right: -40%;
+			margin-bottom: 0;
+		}
+		h2 {
+			margin: 1em 0;
+		}
+		p {
+			color: #333;
+			line-height: 1.25;
+			font-size: 14px;
+		}
+	}
+}
+
+
 #authors-container {
 	.author-container {
 		.info {
