@@ -40,9 +40,7 @@
   <body>
     <div class="container">
       <!--TODO: Make this more general-->
-      {% unless page.layout == "post" or page.layout == "podcast" %} 
-        {% include header.html %}
-      {% endunless %}
+      {% include header.html %}
     <div id="main" role="main">
       {{ content }}
     </div>

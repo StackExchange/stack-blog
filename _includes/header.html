@@ -5,29 +5,21 @@
                 <div class="hlogo -item">
                   <a class="current -nav-link hlogo-link" href="/"></a>
                 </div>
-                <div class="qanda -item">
-                  <a class="-nav-link" href="//stackoverflow.com">Q&amp;A</a>
-                </div>
-                <div class="documentation -item">
-                  <a class="-nav-link" href="//stackoverflow.com/documentation">Documentation</a>
-                </div>
-                <div class="jobs -item">
-                  <a class="-nav-link" href="//stackoverflow.com/jobs">Jobs</a>
-                </div>
-                <div class="users -item">
-                  <a class="-nav-link" href="//stackoverflow.com/users/story/join">Developer Story</a>
-                </div>
             </nav>
             <nav class="activity-nav horizontal-nav">
-                    <div class="login -item">
-                        <div class="login-buttons">
-                            <a class="btn btn-outlined log-in-btn" href="#">Log In</a>
-                            <a class="btn sign-up-btn" href="#">Sign Up</a>
-                        </div>
-                    </div>       
+                {% if page.layout == "post" or page.layout == "podcast" %}
+                <div class="-item">
+                {% if page.tags contains "company" %}
+                    <a class="-nav-link" href="/company">All Posts</a>
+                {% else if page.tags contains "engineering" %}
+                    <a class="-nav-link" href="/engineering">All Posts</a>
+                {% endif %}
+                </div>
+                {% endif %}
             </nav>
         </div>
     </header>
+    {% unless page.layout == "post" or page.layout == "podcast" %}
     <div class="home-hero">
         <div class="hero-content">
             {% unless page.header_headline and page.header_subhead %}
@@ -42,6 +34,7 @@
             {% endif %}
         </div>
     </div>
+    {% endunless %}
 </div>
 
 
