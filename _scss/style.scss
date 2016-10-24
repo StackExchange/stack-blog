@@ -182,18 +182,6 @@ i.blog-icon {
 	}
 }
 
-.mainnav-wrapper.grow-form .mainnav .-item:not(.hlogo) {
-  opacity: 0;
-}
-.mainnav-wrapper.grow-form .mainnav .-item:not(.hlogo) .-nav-link {
-  width: 0px;
-  padding: 0;
-}
-
-.mainnav-wrapper.grow-form .activity-nav {
-  opacity: 0;
-  display: none;
-}
 .btn {
   font-size: 12px;
   display: inline-block;
@@ -268,7 +256,6 @@ i.blog-icon {
   display: flex;
   flex-direction: row;
   width: 1000px;
-  min-width: 1000px;
   justify-content: space-between;
   -webkit-justify-content: space-between;
   margin: 0 auto;
@@ -1064,7 +1051,16 @@ specificity overrides some default styles */
 			clear: both;
 		}
 	}
-	footer .about {
-		margin-bottom: 15px;
+	footer {
+			h4 {
+				margin-bottom: 5px;
+			}
+			div.media-padded {
+				margin-bottom: 15px;
+			}
+	
+	 	.about {
+			margin-bottom: 15px;
+		}
 	}
 }
