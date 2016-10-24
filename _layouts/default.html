@@ -39,7 +39,6 @@
 
   <body>
     <div class="container">
-      <!--TODO: Make this more general-->
       {% include header.html %}
     <div id="main" role="main">
       {{ content }}
@@ -48,24 +47,36 @@
     <footer class="footer">
       <div class="inner-container">
         <div class="-row">
-          <div class="-col3 media-padded">
+          {% unless page.url == '/' %}
+            <div class="-col2 media-padded">
+              <h4>Our Blogs</h4>
+              <p><a href="//codeforaliving.io">Code for a Living</a></p>
+              <p><a href="//business.stackoverflow.com/blog">Talent</a></p>
+              <p><a href="{{ site.baseurl }}/company">Company</a></p>
+              <p><a href="{{ site.baseurl }}/engineering">Engineering</a></p>
+            </div>
+          {% endunless %}
+          <div class="{% if page.url == '/' %}-col3{% else %}-col2{% endif %} media-padded">
             <h4>Company</h4>
             <p><a href="http://stackexchange.com/about">About Us</a></p>
-            <p><a href="http://stackexchange.com/work-here">Work Here</a></p>
+            <p><a href="//stackoverflow.com/company/work-here">Work Here</a></p>
             <p><a href="http://meta.stackexchange.com/">Any feedback?</a></p>
           </div>
-          <div class="-col3 media-padded">
+          <div class="{% if page.url == '/' %}-col3{% else %}-col2{% endif %} media-padded">
             <h4>Support</h4>
             <p><a href="http://stackexchange.com/about/contact">Contact Us</a></p>
             <p><a href="http://stackexchange.com/legal/privacy-policy">Privacy Policy</a></p>
             <p><a href="http://stackexchange.com/legal">Legal</a></p>
           </div>
-          <div class="-col3 media-padded">
+          <div class="{% if page.url == '/' %}-col3{% else %}-col2{% endif %} media-padded">
             <h4>Connect</h4>
             <p><a href="https://www.facebook.com/stackexchange">Facebook</a></p>
             <p><a href="https://twitter.com/stackexchange">Twitter</a></p>
+            <p><a href="//stackoverflow.com/podcast">Podcast</a></p>
+            <p><a href="{{ site.baseurl }}/speakers">Speakers</a></p>
           </div>
-          <div class="-col3 media-padded">
+          {% unless page.url == '/' %}<div class="-col2"></div>{% endunless %}
+          <div class="{% if page.url == '/' %}-col3{% else %}-col2{% endif %} media-padded">
             <p><strong>&copy; {{ site.time | date: "%Y" }} Stack Overflow</strong></p>
           </div>
         </div>
