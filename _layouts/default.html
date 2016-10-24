@@ -58,9 +58,9 @@
           {% endunless %}
           <div class="{% if page.url == '/' %}-col3{% else %}-col2{% endif %} media-padded">
             <h4>Company</h4>
-            <p><a href="http://stackexchange.com/about">About Us</a></p>
+            <p><a href="//stackoverflow.com/company/about">About Us</a></p>
             <p><a href="//stackoverflow.com/company/work-here">Work Here</a></p>
-            <p><a href="http://meta.stackexchange.com/">Any feedback?</a></p>
+            <p><a href="//meta.stackoverflow.com/">Any feedback?</a></p>
           </div>
           <div class="{% if page.url == '/' %}-col3{% else %}-col2{% endif %} media-padded">
             <h4>Support</h4>
@@ -70,10 +70,13 @@
           </div>
           <div class="{% if page.url == '/' %}-col3{% else %}-col2{% endif %} media-padded">
             <h4>Connect</h4>
-            <p><a href="https://www.facebook.com/stackexchange">Facebook</a></p>
-            <p><a href="https://twitter.com/stackexchange">Twitter</a></p>
+            <p><a href="//www.facebook.com/officialstackoverflow/">Facebook</a></p>
+            <p><a href="//twitter.com/stackoverflow">Twitter</a></p>
+            <p><a href="//www.linkedin.com/company/stack-overflow">LinkedIn</a></p>
+            {% unless page.url == '/'%}
             <p><a href="//stackoverflow.com/podcast">Podcast</a></p>
             <p><a href="{{ site.baseurl }}/speakers">Speakers</a></p>
+            {% endunless %}
           </div>
           {% unless page.url == '/' %}<div class="-col2"></div>{% endunless %}
           <div class="{% if page.url == '/' %}-col3{% else %}-col2{% endif %} media-padded">
