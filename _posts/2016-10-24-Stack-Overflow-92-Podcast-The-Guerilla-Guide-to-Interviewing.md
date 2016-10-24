@@ -18,11 +18,11 @@ Launching this week, Startup Or Shut Up, our new game where Joel, Jay, and David
 
 But what really grinds our gears? This week, the gang rants about awful recruiter questions and responses, specifically from Google's (alleged, possibly outdated) ["Director of Engineering" hiring test](http://www.gwan.com/blog/20160405.html), such as
 
-**Recruiter**: Why is Quicksort the best sorting method?
-**Interviewee**: It's not always the case, nor even suitable.
-**Recruiter**: Quicksort has the best big-O.
-**Interviewee**: "big-O" ignores data storage latencies, topology, volume, available memory, and even the computational cost of every CPU instructions involved in a given implementation – instead, it merely counts the number of algorithmic operations! Big-O can be a valuable indication when designing algorithms but the best performing and scaling solution depends on the particular constraints of any specific problem and environment.
-**Recruiter**: Wrong, you had to give me the Quicksort big-O score.
+**Recruiter**: Why is Quicksort the best sorting method?  
+**Interviewee**: It's not always the case, nor even suitable.  
+**Recruiter**: Quicksort has the best big-O.  
+**Interviewee**: "big-O" ignores data storage latencies, topology, volume, available memory, and even the computational cost of every CPU instructions involved in a given implementation – instead, it merely counts the number of algorithmic operations! Big-O can be a valuable indication when designing algorithms but the best performing and scaling solution depends on the particular constraints of any specific problem and environment.  
+**Recruiter**: Wrong, you had to give me the Quicksort big-O score.  
 
 Aside from listening to the episode, if you want to learn how to do interviews the right way, go to [Joel on Software](http://joelonsoftware.com/) and check out [The Guerilla Guide to Interviewing](http://www.joelonsoftware.com/articles/GuerrillaInterviewing3.html).
 
