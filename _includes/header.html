@@ -22,10 +22,10 @@
     {% unless page.layout == "post" or page.layout == "podcast" %}
     <div class="home-hero">
         <div class="hero-content">
-            {% unless page.header_headline and page.header_subhead %}
+            {% if page.header_headline == null and !page.header_subhead == null %}
                 <h1>Great ideas from great people.</h1>
                 <h2>Stay up to date with everything that's happening inside Stack Overflow</h2>
-            {% endunless %}
+            {% endif %}
             {% if page.header_headline %}
                 <h1>{{ page.header_headline }}<h1>
             {% endif %}
