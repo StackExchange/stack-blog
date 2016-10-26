@@ -5,11 +5,12 @@ $color-white:     		hsl(0,0%,100%);
 $color-grayMid:   hsl(206,10%,42%);
 $color-grayLight: spin(desaturate(lighten($color-grayMid,50%),3%),-6);
 $blue: #3190d4;
+$light-blue: #3Af;
 $orange: #f48024;
 $baseTextGray: rgba(0,0,0,0.8);
 
 html {
-	font-family: 'Helvetica Neue', 'Helvetica', sans-serif;
+	font-family: 'Arial', sans-serif;
 	body {
 		margin: 0;
 		background-color: #fff;
@@ -240,12 +241,16 @@ i.blog-icon {
   position: fixed;
   width: 100%;
   border-bottom: 1px solid rgba(255,255,255,0.25);
-  border-top: 3px solid #f48024;
+  border-top: 6px solid #f48024;
   background-color: rgba(0,0,0,0.25);
   transition: all 0.1s ease;
   -webkit-transition: all 0.1s ease;
   z-index: 200;
   top: -1.2px;
+	&.transparent {
+		background-color: rgba(0,0,0,0);
+		border-bottom: none;
+	}
 }
 .mainnav-wrapper {
   z-index: 200;
@@ -409,7 +414,7 @@ i.blog-icon {
 }
 .home-hero {
     margin-top: -40px;
-    height: 400px;
+    height: 350px;
     width: 100%;
     text-align: center;
     color: #ffffff;
@@ -423,12 +428,16 @@ i.blog-icon {
         top: 50%;
         h1 {
             font-size: 3.0em;
-            margin-bottom: 10px;
+            margin-bottom: 15px;
             font-weight: 300;
         }
+				p {
+					font-size: 1.35em;
+					line-height: 25px;
+				}
         h2 {
-            font-size: 1.5em;
-            font-weight: 300;
+            font-size: 1.35em;
+            font-weight: 200;
         }
     }
 }
@@ -454,9 +463,7 @@ div.subheader {
 		}
 	}
 }
-#main {
-	margin-bottom: 50px;
-}
+
 .not-found {
 	padding-top: 100px;
 }
@@ -807,6 +814,7 @@ article.author {
 	}
 }
 footer {
+	background-color: #f8f8f8;
 	h4 {
 		font-size: 14px;
 		color: #444444;
@@ -842,13 +850,14 @@ footer {
 	.home-blog-container {
 		cursor: pointer;
 		border: 1px solid #ddd;
+		border-radius: 5px;
 		display: block;
 		text-align: center;
-		margin: 40px;
+		margin: 40px 15px;
 		padding: 15px;
 		text-decoration: none;
 		img.home-blog-hero {
-			width: 140%;
+			width: 125%;
 			margin-top: -30%;
 			margin-left: -40%;
 			margin-right: -40%;
@@ -856,6 +865,9 @@ footer {
 		}
 		h2 {
 			margin: 1em 0;
+		}
+		&:hover h2 {
+			color: $light-blue;
 		}
 		p {
 			color: #333;
@@ -1043,7 +1055,7 @@ specificity overrides some default styles */
 			display: block;
 			width: 50%!important;
 			float: left;
-			padding: 0 25px;
+			padding: 0 20px;
 			box-sizing: border-box;
 		}
 		.-col8 {
