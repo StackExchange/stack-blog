@@ -435,12 +435,24 @@ i.blog-icon {
 					font-size: 1.35em;
 					line-height: 25px;
 				}
-        h2 {
-            font-size: 1.35em;
-            font-weight: 200;
-        }
     }
 }
+
+@media (max-width: $mediaQuery-small) {
+	.home-hero {
+		div {
+			padding: 0 10px;
+			h1 {
+				font-size: 2.5em;
+			}
+			p {
+				font-size: 1.1em;
+			}
+		}
+	}
+}
+
+
 div.subheader {
 	position: absolute;
 	width: 100%;
@@ -847,13 +859,16 @@ footer {
 ============================== */
 
 #home-container {
+	.-row {
+		margin: 0 -15px;
+	}
 	.home-blog-container {
 		cursor: pointer;
 		border: 1px solid #ddd;
 		border-radius: 5px;
 		display: block;
 		text-align: center;
-		margin: 40px 15px;
+		margin: 40px 20px;
 		padding: 15px;
 		text-decoration: none;
 		img.home-blog-hero {
@@ -876,6 +891,15 @@ footer {
 		}
 	}
 }
+
+@media (max-width: $mediaQuery-small) {
+	#home-container {
+		.-row {
+			margin: 0;
+		}
+	}
+}
+
 
 
 #authors-container {
