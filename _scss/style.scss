@@ -38,7 +38,7 @@ a, .link {
 
     &:hover, &._hover,
     &:focus, &._focus {
-        text-decoration: underline;
+				color: $light-blue;
     }
     &:focus, &._focus { outline: none; }
 }
@@ -871,7 +871,7 @@ footer {
 		margin: 40px 20px;
 		padding: 15px;
 		text-decoration: none;
-		height: 325px;
+		height: 320px;
 		img.home-blog-hero {
 			width: 125%;
 			margin-top: -30%;
