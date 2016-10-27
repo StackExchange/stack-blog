@@ -133,7 +133,7 @@ module Jekyll
     def initialize(site, author_doc)
       author_data = author_doc.data
       @id = author_data['id']
-      @url = "#{site.baseurl}/authors/#{id}"
+      @url = "#{site.baseurl}/authors/#{id}/"
       @name = author_data['name']
       @avatar = author_data['avatar']
       @twitter = author_data['twitter']
