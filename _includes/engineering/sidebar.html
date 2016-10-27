@@ -3,18 +3,37 @@
 		{% include search.html %}
 	</section>
 
+	<section class="sidebar-nav">
+		<ul>
+			<li>
+				<a class="{% unless paginator.channel %} active {% endunless %}" href="{{ site.baseurl}}/engineering/">All Posts</a>
+			</li>
+			<li>
+				<a class="{% if paginator.channel == "development" %} active{% endif %}" href="{{ site.baseurl }}/engineering/development/">Development</a>
+			</li>
+			<li>
+				<a class="{% if paginator.channel == "sysadmin" %} active{% endif %}" href="{{ site.baseurl }}/engineering/sysadmin/">Sysadmin</a>
+			</li>
+			<li>
+				<a class="{% if paginator.channel == "design" %} active{% endif %}" href="{{ site.baseurl }}/engineering/design/">Design</a>
+			</li>
+			<li>
+				<a class="{% if paginator.channel == "evangelism" %} active{% endif %}" href="{{ site.baseurl }}/engineering/evangelism/">Evangelism</a>
+			</li>
+			<li>
+				<a class="{% if paginator.channel == "opinion" %} active{% endif %}" href="{{ site.baseurl }}/engineering/opinion/">Opinion</a>
+			</li>
+		</ul>
+	</section>
+
+
 	<section>
-	<h3>Hello World</h3>
-	<p>Welcome to <a href="http://stackoverflow.com/">Stack Overflow</a> Engineering! We assume if you’ve arrived at this page, you probably already know all about the <a href="http://stackoverflow.com/">Stack Overflow</a>, and likely some of the other <a href="http://stackexchange.com/sites">Q&amp;A sites</a>. In addition to writing a lot of code, we like to write about writing code and the other things we're doing to improve the tech community. We're trying a new thing by collecting those writings here so we can share them with the larger programming community. We hope you like it!</p>
+	<h3>Contributors</h3>
+	{% include authors.html %}
 	</section>
 
 	<section>
 		<p><a href="https://github.com/StackExchange">Open Source</a></p>
 		<p><a href="https://github.com/StackExchange/stack-blog">Blog Repository</a></p>
-	</section>
-
-	<section>
-	<h3>Contributors</h3>
-	{% include authors.html %}
 	</section>
 </div>
