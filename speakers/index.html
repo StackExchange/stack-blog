@@ -26,7 +26,7 @@ header_subhead: Stack Overflow is run by talented individuals with fascinating s
 			{% else %}
 				<strong>Filter by speaker tags:&nbsp;</strong>
 				{% for tag in site.data['speaker_tags'] %}
-					<a href="/speakers/{{ tag }}" class="postTag">{{tag}}</a>
+					<a href="/speakers/{{ tag }}/" class="postTag">{{tag}}</a>
 				{% endfor %}
 			{% endif %}
 		</div>
@@ -63,7 +63,7 @@ header_subhead: Stack Overflow is run by talented individuals with fascinating s
 				  		
 				  		<div class="locale-and-tags">					  	
 						  	{% for tag in person.speaker_tags %}
-								<a href="/speakers/{{ tag }}" class="postTag">{{ tag }}</a>
+								<a href="/speakers/{{ tag }}/" class="postTag">{{ tag }}</a>
 							{% endfor %}		
 				  		</div>
 				  		
