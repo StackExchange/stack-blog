@@ -54,4 +54,4 @@ Along with all these new and improved filters to help you suss out specific crit
 
 Curious? Want to try it out for yourself? Head over to [Stack Overflow Jobs](http://stackoverflow.com/jobs) now to search, filter, and create alerts. 
 
-Got questions? Leave comments for us on [Meta](http://meta.stackoverflow.com/).
+Got questions? Leave comments for us on [Meta](http://meta.stackoverflow.com/). Our community's feedback is at the heart of what makes our products like Jobs better, faster, stronger. <3
