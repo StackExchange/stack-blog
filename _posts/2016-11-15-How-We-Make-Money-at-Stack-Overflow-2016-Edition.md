@@ -62,7 +62,7 @@ It’s important to know that the rejection of ads we could be selling came from
 
 We have a few ads that are loading slowly (thanks for the reports, meta users!). We’re tracking down the advertisers and figuring that out, helping where we can. That’s a complicated one due to how many people are involved, but we’re on it. Samo and I will be adding timing information to our sampling profiles for these items, so we can keep an eye on them in the future and alert on issues automatically. We believe ads that load slowly or are expensive diminish the user experience. Performance is a feature and anything on the page matters to us.
  
-I’m working with our ad sales team to ensure starting in January 2016, all of our advertisements will be HTTPS compatible. This is mostly the case today, but not guaranteed, and in the future we’ll enforce this. I don’t want them to be a blocker for anything. We’re about to move all Imgur images to https://, and enforce it. I’m also about to move all site logos and icons to https://. We’re working on that huge project… but that’s another (very long) post.
+I’m working with our ad sales team to ensure starting in January 2017, all of our advertisements will be HTTPS compatible. This is mostly the case today, but not guaranteed, and in the future we’ll enforce this. I don’t want them to be a blocker for anything. We’re about to move all Imgur images to https://, and enforce it. I’m also about to move all site logos and icons to https://. We’re working on that huge project… but that’s another (very long) post.
 
 ## Enterprise
 
