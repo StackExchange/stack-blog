@@ -17,7 +17,7 @@ tags:
 
 Ever seen this diagram?
 
-![](http://cdn.sstatic.net/Img/about/venn-diagram.png)
+![](https://cdn.sstatic.net/Img/about/venn-diagram.png)
 
 That's the visual [elevator pitch](http://en.wikipedia.org/wiki/Elevator_pitch) for Stack Exchange. We were the little dot in the middle, a potent mix of useful traits from other tools, a wiry mutt full of hybrid vigor. The purpose of this blend was to allow and _encourage_ the construction of a library of solutions, by providing communities with the tools they needed to share their experiences and challenges with others who might struggle with the same issues.
 
