@@ -16,7 +16,7 @@
     <meta property="og:title" content="{{ page.title }}"/>
     <meta property="og:url" content="{{ page.url }}"/>
     <meta property="og:site_name" content="Stack Overflow Blog"/>
-    <meta property="og:description" content="{{ page.description }}">
+    <meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines }}{% else %}{% if page.excerpt %}{{ page.excerpt | markdownify | strip_html | strip_newlines }}{% else %}{{ site.description }}{% endif %}{% endif %}">
     <meta property="og:type" content="website"/>
 
     <!-- Twitter metadata -->
@@ -24,7 +24,7 @@
     <meta name="twitter:site" content="@StackOverflow">
     <meta name="twitter:creator" content="@StackOverflow">
     <meta name="twitter:title" content="{{ page.title }}">
-    <meta name="twitter:description" content="{{ page.description }}">
+    <meta name="twitter:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines }}{% else %}{% if page.excerpt %}{{ page.excerpt | markdownify | strip_html | strip_newlines }}{% else %}{{ site.description }}{% endif %}{% endif %}">
     <meta name="twitter:image" content="{% if page.hero %}{{ page.hero }}{% else %}https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon.png{% endif %}">
     <meta name="twitter:image:alt" content="{% if page.hero %}{{ page.title }}{% else %}Stack Overflow{% endif %}">
 
