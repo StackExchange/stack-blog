@@ -14,7 +14,7 @@ Grab a cookie (before Joel eats them all) and listen to the Stack Overflow podca
 
 Joel actually doesn't have a rant today. **gasp** Instead, we chat about our annual company meetup, which took place this year in the sometimes sunny Philadelphia. The gang explains why getting everyone together at least once a year is so important in such a heavily remote company. Hint: it's mainly to assure Jay to his face that no one hates him. 
 
-One of the coolest things to come out of this year’s meetup was a Tiny Talk by Stack Overflow developer Bret Copeland titled ["How to Land a Space Shuttle… from Space"](https://www.youtube.com/watch?v=Jb4prVsXkZU) that has gotten over 87,000 (as of 11/14) views on YouTube. He wears a flight suit and everything…
+One of the coolest things to come out of this year’s meetup was a Tiny Talk by Stack Overflow developer Bret Copeland titled ["How to Land the Space Shuttle… from Space"](https://www.youtube.com/watch?v=Jb4prVsXkZU) that has gotten over 87,000 (as of 11/14) views on YouTube. He wears a flight suit and everything…
 
 This week's constitutional amendment question (along with way too much talk about stickers) is: Should you be allowed to comment out code and check it in? Jay (tries to) explain what this means while Joel and David try very hard not to laugh. Post your answer to Twitter using the hashtag #stackoverflowpodcast, with either PRO if yay, or CON if nay, along with your explanation. Keep it short but convincing! The best explanation, whether on the winning side or the losing side, will be read on next week's podcast and win a fabulous STACK OVERFLOW STICKER courtesy of the Stack Overflow Podcast.
 
