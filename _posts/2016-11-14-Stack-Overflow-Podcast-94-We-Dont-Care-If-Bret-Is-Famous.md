@@ -27,7 +27,7 @@ Thanks and see you next week!
 Notable Links:
 
 * [Code to Inspire](http://codetoinspire.org/) - 1 Year Anniversary Celebration is happening Friday 11/18 in NYC! Sign up [HERE](https://www.eventbrite.com/e/code-to-inspire-first-annual-graduation-ceremony-tickets-28532734176) if you would like to attend.
-* ["How to Land a Space Shuttle… from Space"](https://www.youtube.com/watch?v=Jb4prVsXkZU)
+* ["How to Land the Space Shuttle… from Space"](https://www.youtube.com/watch?v=Jb4prVsXkZU)
 * One-Minute Tech Review: [Kayak Trips](https://www.kayak.com/trips)
 * Twitter: [@stackpodcast](https://twitter.com/stackpodcast) 
 * Facebook: [The Stack Overflow Podcast](https://www.facebook.com/stackoverflowpodcast/)
