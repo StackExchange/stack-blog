@@ -29,6 +29,7 @@ We will not have a podcast for the next two weeks because of the holidays, but l
 Links:
 
 Get your own Jewelbots:
+
 * [http://jewelbots.com](http://jewelbots.com)
 * [http://www.target.com/p/jewelbots/-/A-51848933](http://www.target.com/p/jewelbots/-/A-51848933)
 * [http://money.cnn.com/2016/11/17/technology/jewelbots-smart-friendship-bracelet/](http://money.cnn.com/2016/11/17/technology/jewelbots-smart-friendship-bracelet/)
