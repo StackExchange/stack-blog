@@ -17,7 +17,7 @@ A principal mudança é que passamos de indecisos para decididos. Vamos, assim q
 
 1. **Ainda somos péssimos com traduções**: Os tradutores fazem um excelente trabalho mas nós continuamos jogando string atrás de string no projeto, deixando-o cada vez maior e mais complexo. Assim não há projeto de tradução que aguente. Precisamos encontrar uma maneira de organizar o projeto e fornecer contexto, para que nossos bravos tradutores não passem tanta dificuldade. **Sem o trabalho dos tradutores, não há SOpt**.
 
-2. **Docs ainda não é um projeto _estável_**: Esse é um problema associado ao primeiro. Docs é um projeto novo e prtanto ainda sofre mudanças constantes, principalmente de interface. É basicamente inviável que um projeto desse porte consiga se manter constantemente traduzido com a ajuda de voluntários, principalmente se não damos à eles ferramentas minamamente decentes.
+2. **Docs ainda não é um projeto _estável_**: Esse é um problema associado ao primeiro. Docs é um projeto novo e, portanto, ainda sofre mudanças constantes, principalmente de interface. É basicamente inviável que um projeto desse porte consiga se manter constantemente traduzido com a ajuda de voluntários, principalmente se não damos à eles ferramentas minimamente decentes.
 
 Esses são problemas bem complicados, mas suas soluções são requerimentos absolutos para termos Docs. Caso a Documentação fosse trazida ao nosso site, no momento atual, sua interface rapidamente se reverteria ao inglês e isso é a última coisa que queremos.
 
