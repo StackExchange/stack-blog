@@ -2,7 +2,8 @@
 layout: post
 title: Stack Overflow - Counting Developers with Providence
 author: kevintroy
-date: 2016-11-22
+date: 2016-11-30
+draft: true
 description: Our data platform, Providence, has evolved over the last two years.  We look at how and why it has changed, and the effects on our counts of developers.
 tags:
   - engineering
