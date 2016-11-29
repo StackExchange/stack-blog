@@ -14,7 +14,7 @@ Capturing developer trends data
 
 For the last two years, we have contributed data on developer trends across Europe to [The State of European Tech Report](http://www.atomico.com/news/the-state-of-european-tech), created by Atomico and Slush.
 
-The way we captured the developer trends data changed this year as we rebuilt our data analysis platform called Providence. Providence is our machine learning platform that tracks user behaviour on Stack Overflow. It analyses the questions and answers that users interact with, in order to determine what sort of technologies an individual works with.
+The way we captured the developer trends data changed this year as we rebuilt our data analysis platform called [Providence](https://stackoverflow.blog/2016/11/Stack-Overflow-Counting-Developers-with-Providence/). Providence is our machine learning platform that tracks user behaviour on Stack Overflow. It analyses the questions and answers that users interact with, in order to determine [what sort of technologies an individual works with](http://stackoverflow.blog/2015/11/how-to-target-your-job-listing/). (If you'd like to see your own Providence record, you can access it [here](http://stackoverflow.com/users/prediction-data).)
 
 The improvement that has had the most dramatic impact is the way the system registers individuals visiting Stack Overflow, making the counting of developers much more precise. Like all systems, the longer it runs, the better it gets. We fine-tune it over time.
 
