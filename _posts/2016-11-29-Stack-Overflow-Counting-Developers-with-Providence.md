@@ -5,7 +5,8 @@ author: kevintroy
 date: 2016-11-29
 description: Our data platform, Providence, has evolved over the last two years.  We look at how and why it has changed, and the effects on our counts of developers.
 tags:
-  - engineering
+- engineering
+- data
 ---
 
 
