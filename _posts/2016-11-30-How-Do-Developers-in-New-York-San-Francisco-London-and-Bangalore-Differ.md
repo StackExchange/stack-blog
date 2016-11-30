@@ -7,6 +7,7 @@ tags:
 - engineering
 - company
 - stackoverflow
+- data
 ---
  
 When I tell someone Stack Overflow is based in New York City, they're often surprised: many people assume it's in San Francisco. (I've even seen job applications with "I'm in New York, but willing to relocate to San Francisco" in the cover letter.) San Francisco is a safe guess of where an American tech company might be located: it's in the heart of Silicon Valley, near the headquarters of tech giants such as Apple, Google, and Facebook. But New York has a rich startup ecosystem as well- and it's [a very different world](http://www.businessinsider.com/difference-between-nyc-and-sf-tech-scene-2016-7) from San Francisco, with developers who use different languages and technologies.
