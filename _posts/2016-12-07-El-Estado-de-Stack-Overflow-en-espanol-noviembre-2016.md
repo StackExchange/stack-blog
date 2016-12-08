@@ -26,7 +26,7 @@ Ahora sí, algunos numeros interesantes del mes de noviembre:
 5. [Marcos Gallardo](http://es.stackoverflow.com/users/16597/marcos-gallardo) - ¡65 preguntas contestadas!
 
 ### Las 3 preguntas más compartidas del mes:
-1.[Validar un email en JavaScript](http://es.stackoverflow.com/questions/142/validar-un-email-en-javascript) - compartida 128 veces
+1. [Validar un email en JavaScript](http://es.stackoverflow.com/questions/142/validar-un-email-en-javascript) - compartida 128 veces
 2. [¿Cómo puedo hacer que cada perfil tenga N número de mascotas? Cada perfil debe tener mascotas diferentes](http://es.stackoverflow.com/questions/33198/c%C3%B3mo-puedo-hacer-que-cada-perfil-tenga-n-n%C3%BAmero-de-mascotas-cada-perfil-debe-t) - compartida 8 veces
 3. [Mi aplicación se detiene con el error “android.support.v7.widget.AppCompatTextView cannot be cast to android.widget.EditText”](http://es.stackoverflow.com/questions/35465/mi-aplicaci%C3%B3n-se-detiene-con-el-error-android-support-v7-widget-appcompattextvi) - compartida 6 veces
 
