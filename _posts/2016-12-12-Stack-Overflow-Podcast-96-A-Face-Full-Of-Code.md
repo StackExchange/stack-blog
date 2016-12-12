@@ -3,7 +3,7 @@ layout: podcast
 date: 2016-12-12
 title: "Stack Overflow Podcast #96 - A Face Full of Code"
 author: jpardue
-podcast: 
+podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/297574056-stack-exchange-stack-overflow-podcast-96-a-face-full-of-code.mp3
 draft: false
 tags:
 - company
