@@ -1,7 +1,7 @@
 ---
 layout: podcast
 date: 2016-11-21
-title: "Stack Overflow Podcast #95 - Shakespearian SQL Server"
+title: "Stack Overflow Podcast #95 - Shakespearean SQL Server"
 author: jpardue
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/294106721-stack-exchange-stack-overflow-podcast-95-shakespearian-sql-server.mp3
 draft: false
