@@ -25,7 +25,7 @@ This week's constitution question: Is it pronounced GIF with a hard G **/ɡif/**
 
 Last week's winner, with an answer to the question, "Is it ok to get a mechanical keyboard with loud 'clicky' keys when you are sharing an office?" AKA The Punyon Amendment, is Brian with:
 
-"PRO because they shouldn't be able to hear the keyboard over my trap music." - [@TheBestHuman][10]
+>"PRO because they shouldn't be able to hear the keyboard over my trap music." - [@TheBestHuman][10]
 
 Congrats Brian, you won a thing!
 
