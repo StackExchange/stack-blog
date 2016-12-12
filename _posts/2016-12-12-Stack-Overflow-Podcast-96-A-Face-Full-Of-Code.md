@@ -10,7 +10,7 @@ tags:
 - podcasts
 ---
 
-Welcome to the Stack Overflow Podcast #96 recorded on December 8, 2016 at the Stack Overflow headquarters in the jackhammer capitol of the world (probably), NYC. Today's podcast is brought to you by the [Pizza Saver][1], otherwise known as the small table thingie that keeps your pizza from sticking to the top of the box. It is also brought to you by [IBM Watson][2]. What does a world with IBM Watson look like? With Watson, the world is getting healthier, safer, cleaner, more creative and even more personal. That's cognitive that matters. Welcome to the IBM Watson world.
+Welcome to the Stack Overflow Podcast #96 recorded on December 8, 2016 at the Stack Overflow headquarters in the jackhammer capital of the world (probably), NYC. Today's podcast is brought to you by the [Pizza Saver][1], otherwise known as the small table thingie that keeps your pizza from sticking to the top of the box. It is also brought to you by [IBM Watson][2]. What does a world with IBM Watson look like? With Watson, the world is getting healthier, safer, cleaner, more creative and even more personal. That's cognitive that matters. Welcome to the IBM Watson world.
 
 For today's shenanigans, we are so lucky to have guest host (as well as new [Fog Creek CEO][3] and close friend of Stack Overflow) Anil Dash, who rightfully mocks Joel's recent keynote at Slush 2016 in Helsinki. If you watch the video [here][4], you will understand this reference:
 
