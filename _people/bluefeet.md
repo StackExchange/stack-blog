@@ -1,6 +1,6 @@
 ---
 layout: author
-id: onlybluefeet
+id: bluefeet
 name: bluefeet
 job: Community Manager
 avatar: https://i.stack.imgur.com/HPLH0.jpg
