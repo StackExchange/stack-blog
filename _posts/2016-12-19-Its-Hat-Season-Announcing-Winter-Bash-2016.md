@@ -43,12 +43,12 @@ As always, if you're a hater of fun and hats, you don't need to participate or e
 Just like prior years, we've got all new hats lined up for the event this year.  There are 28 total hats you can earn over the next few weeks.  We've got some secret hats lined up with a few minor changes:
 
 - A secret hat for correctly guessing a secret hat will no longer be awarded.
-- This year there are no secret hats for <s>tormenting</s> incessantly poking SE employees under a post. Blame our lawyers, they did not like the idea of staff being poked or tormented for hats. 
+- This year there are no secret hats for <s>tormenting</s> incessantly poking SE employees under a post. Blame our lawyers; they did not like the idea of staff being poked or tormented for hats. 
 
 Hats are awesome and a fun way to end the year.  It's our way of showing the communities how much we love them.  We also put a lot of love into making hats fun for all.  We want to give a special nod to everyone involved in putting it together:
 
 - The Marketing Design team for coming up with the beautiful design. With extra special thanks to Kalina Moniquet and [Nohemi Olvera](http://stackoverflow.com/users/5921168/nohemi-olvera) for the amazing hat images.  
-- Our hat-umentary team [Kaitlin Pike](http://stackoverflow.com/users/5741738/kcpike) for producing the video, [David Fullerton](http://meta.stackexchange.com/users/146719/david-fullerton) for the idea it, and [Talal Sarwani](http://meta.stackexchange.com/users/306119/talal) for directing it.
+- Our hat-umentary team [Kaitlin Pike](http://stackoverflow.com/users/5741738/kcpike) for producing the video, [David Fullerton](http://meta.stackexchange.com/users/146719/david-fullerton) for the idea, and [Talal Sarwani](http://meta.stackexchange.com/users/306119/talal) for directing it.
 - Our hat-velopers, [Sklivvz](http://stackoverflow.com/users/7028/sklivvz) and [Oded](https://stackexchange.com/users/1190/oded) for implementing all engineer-y stuff to get this launched.
 - The hat PM, [balpha](http://stackexchange.com/users/40051/balpha), for being our fearless hats leader again this year. 
 - Plus, everyone else who offered up ideas for hat triggers, designs, and assisted in getting it out the door. 
