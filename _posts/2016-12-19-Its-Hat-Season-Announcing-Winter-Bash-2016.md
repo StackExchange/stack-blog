@@ -43,7 +43,7 @@ As always, if you're a hater of fun and hats, you don't need to participate or e
 Just like prior years, we've got all new hats lined up for the event this year.  There are 28 total hats you can earn over the next few weeks.  We've got some secret hats lined up with a few minor changes:
 
 - A secret hat for correctly guessing a secret hat will no longer be awarded.
-- This year there are no secret hats for <s>tormenting</s> incessantly poking SE employees under a post. Blame our lawyers, they did like the idea of staff being poked or tormented for hats. 
+- This year there are no secret hats for <s>tormenting</s> incessantly poking SE employees under a post. Blame our lawyers, they did not like the idea of staff being poked or tormented for hats. 
 
 Hats are awesome and a fun way to end the year.  It's our way of showing the communities how much we love them.  We also put a lot of love into making hats fun for all.  We want to give a special nod to everyone involved in putting it together:
 
