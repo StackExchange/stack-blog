@@ -9,6 +9,7 @@ tags:
 - announcement
 - community
 - stackexchange
+- stackoverflow
 ---
 
 Another year is rapidly coming to an end, which means it's time for some fun. Fun with hats! That's right, it's time for our annual event that brings joy to all and creates hat-fanatics everywhere... **Winter Bash!**
