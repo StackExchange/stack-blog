@@ -13,7 +13,7 @@ tags:
 
 Another year is rapidly coming to an end, which means it's time for some fun. Fun with hats! That's right, it's time for our annual event that brings joy to all and creates hat-fanatics everywhere... **Winter Bash!**
 
-![Winter Bash 2016 header/logo image](https://i.stack.imgur.com/lLWuo.jpg)
+![Winter Bash 2016 header/logo image](https://i.stack.imgur.com/SBn6C.png)
 
 Starting today through the end of the day on 8 January 2017, you'll be able to earn and wear hats (and possibly accessories) for performing various things you already do across the Stack Exchange network.
 
