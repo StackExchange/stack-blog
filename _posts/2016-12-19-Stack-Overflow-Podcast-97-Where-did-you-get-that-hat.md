@@ -23,7 +23,7 @@ This week's Developer Story is Dan Luu, senior engineer at Microsoft and prolifi
 
 "Hardware tools are really really bad... so you can get a lot of value in writing your own, only somewhat crappy tools… it's a very slow process."
 
-This week's constitution question: The Somonyi Amendment, Shall we bring back [Hungarian Notation](https://en.wikipedia.org/wiki/Hungarian_notation)? Post your answer to Twitter using the hashtag #stackoverflowpodcast, with either PRO if yay, or CON if nay, along with your explanation. Keep it short but thick! The funniest explanation, whether winning or losing, will be read on next week's podcast and win an awesome STACK OVERFLOW STICKER. We also need new amendments, so tweet us your ideas and we could name an amendment after you!
+This week's constitution question: The Simonyi Amendment, Shall we bring back [Hungarian Notation](https://en.wikipedia.org/wiki/Hungarian_notation)? Post your answer to Twitter using the hashtag #stackoverflowpodcast, with either PRO if yay, or CON if nay, along with your explanation. Keep it short but thick! The funniest explanation, whether winning or losing, will be read on next week's podcast and win an awesome STACK OVERFLOW STICKER. We also need new amendments, so tweet us your ideas and we could name an amendment after you!
 
 Last week's winner is Jason St-Cyr!
 
