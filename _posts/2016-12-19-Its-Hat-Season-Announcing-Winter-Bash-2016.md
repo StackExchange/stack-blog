@@ -3,7 +3,6 @@ layout: post
 title: "It's Hat Season...Announcing Winter Bash 2016"
 author: bluefeet
 date: 2016-12-19
-draft: true
 tags:
 - company
 - announcement
