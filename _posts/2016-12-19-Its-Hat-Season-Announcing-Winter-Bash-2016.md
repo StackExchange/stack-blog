@@ -20,10 +20,7 @@ Starting today through the end of the day on 8 January 2017, you'll be able to e
 
 ### Wait, what are hats again?
 
-For those who aren't familiar with Winter Bash and the Season of Hats, we've documented the long history of Hats for your viewing pleasure:
-
-<insert hat-umentary here>
-{% include youtube.html video_id="SQoA_wjmE9w" %}
+For those who aren't familiar with Winter Bash and the Season of Hats, [we've documented the long history of Hats for your viewing pleasure](https://youtu.be/CDi_nj1-G6U).
 
 Upon completing one of the [many challenges](http://winterbash2016.stackexchange.com/) while being logged on a [participating site](http://winterbash2016.stackexchange.com/leaderboard/network), you will be awarded the associated hat. Once you've earned a hat, you can visit your profile on any site to choose the item you want to wear.  Just click the hat dressing up your badges section on your profile to show the dialog:
 
