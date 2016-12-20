@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Developers, webmasters, and ninjas: what's in a job title?"
+title: "Developers, webmasters, and ninjas: what’s in a job title?"
 author: drobinson
 date: 2016-12-20
 tags:
