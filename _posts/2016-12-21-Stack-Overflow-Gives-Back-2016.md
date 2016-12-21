@@ -10,7 +10,7 @@ tags:
 ---
 It's hard to believe this has been a thing for eight years now. Every year since 2009, we've set aside this time of year to remember the people and the organizations who desperately need our help.
 
-It started with Stack Overflow LLC when three employees and three sites decided to "give back" with some charitable donations and to remember the people and projects that helped us succeed. In the next year, we grew to twenty-four employees and 130+ moderators across 38 sites, so it seemed only fitting to get our Moderators more evolved in the process. An invitation went out where we offered to make **a $100 donation to a selected charity on behalf of each Moderator representing their community.**
+It started with Stack Overflow LLC when three employees and three sites decided to "give back" with some charitable donations and to remember the people and projects that helped us succeed. In the next year, we grew to twenty-four employees and 130+ moderators across 38 sites, so it seemed only fitting to get our Moderators more involved in the process. An invitation went out where we offered to make **a $100 donation to a selected charity on behalf of each Moderator representing their community.**
 
 And a tradition was born.
 
