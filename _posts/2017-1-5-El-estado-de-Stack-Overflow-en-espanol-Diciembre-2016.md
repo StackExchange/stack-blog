@@ -1,6 +1,6 @@
 ---
 layout: post
-title: El estado de Stack Overflow en español Diciembre 2017
+title: El estado de Stack Overflow en español Diciembre 2016
 author: juanm
 hero: /images/SO_communities_Blog.jpg
 tags:
