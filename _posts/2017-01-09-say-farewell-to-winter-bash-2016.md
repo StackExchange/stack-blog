@@ -110,7 +110,7 @@ This year we had 4 users who earned the most hats [network-wide](http://winterba
 Please join me in congratulating the users who earned all **41 hats** across the network:
 
 - [Alexander O’Mara](http://stackoverflow.com/users/3155639/alexander-omara)
-- [alexce](http://stackoverflow.com/users/771848/alecxe)
+- [alecxe](http://stackoverflow.com/users/771848/alecxe)
 - [Eran](http://stackoverflow.com/users/1221571/eran)
 - [David](http://blender.stackexchange.com/users/2217/david)
 
