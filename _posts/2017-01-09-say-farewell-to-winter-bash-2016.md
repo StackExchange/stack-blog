@@ -3,7 +3,6 @@ layout: post
 title: "Say Farewell to Winter Bash 2016!"
 author: bluefeet
 date: 2017-01-09
-draft: true
 tags:
 - company
 - announcement
