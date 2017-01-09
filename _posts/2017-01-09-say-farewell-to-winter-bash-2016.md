@@ -21,11 +21,11 @@ We saw many creative ways to wear hats, but here are a few of our favorites:
 
 ### Some Stats about Hats!
 
-This year **215,960 users** earned a total of **797,074 hats**!  The most awarded hat was our version of a participation trophy, **Just Here for the Hat.** This hat was awarded to all Winter Bash users on a site, once any 20 hats were unlocked on that site.  A total of 269,016 of them were handed out across the network, to 214,457 unique users. Some people wore the hat brilliantly:
+This year **215,960 users** earned a total of **797,074 hats**!  The most awarded hat was our version of a participation trophy, **Just Here for the Hat.** This hat was awarded to all Winter Bash users on a site, once any 20 hats were unlocked on that site.  A total of 269,016 of them were handed out across the network to 214,457 unique users. Some people wore the hat brilliantly:
 
 ![Just Here for the Hat](https://i.stack.imgur.com/CJjqQ.png)
 
-[Stack Overflow](http://stackoverflow.com/) was the first site to unlock it. They were also able to get the hat in less than 8 hours into the fun with only 6 users.  A big congratulations goes out to [Language Learning](http://languagelearning.stackexchange.com/) as it only took 2 users to unlock the hat, with [one user having 18](http://languagelearning.stackexchange.com/users/800/christophe-strobbe) of the distinct hats. On the other hand, it took 11 users to unlock the hat on [Software Recommendations](http://softwarerecs.stackexchange.com/), that's quite a team effort by them. All in all, 108 communities earned the trophy hat. 
+[Stack Overflow](http://stackoverflow.com/) was the first site to unlock it. They were also able to get the hat less than 8 hours into the fun, with only 6 users.  A big congratulations goes out to [Language Learning](http://languagelearning.stackexchange.com/), as it only took 2 users to unlock the hat, with [one user having 18](http://languagelearning.stackexchange.com/users/800/christophe-strobbe) of the distinct hats. On the other hand, it took 11 users to unlock the hat on [Software Recommendations](http://softwarerecs.stackexchange.com/), that's quite a team effort by them. All in all, 108 communities earned the trophy hat. 
 
 The next most common hat was **I Have A Little Dreidel**, it was awarded 146,403 times to 116,462 users. Because it was awarded an entire week of Winter Bash for participating on a site during any day of Chanukah, most everyone had a chance to earn it. 
 
@@ -39,7 +39,7 @@ The silver badge hat, **925** was handed out 54,023 times to 50,954 users.  We a
 
 This year was the first year we introduced some site specific hats.  Stack Overflow has two products, Developer Story and Documentation, that are not available on the rest of the network, so we awarded hats for participating in them.  **The NeverEnding Story** hat was awarded to 5,263 users, and **What’s Up, Doc?** was awarded to 3,246 users.  
 
-In order to offset, the Stack Overflow only hats, we created two hats that were available on the rest of the network.  To earn **Polymath** (1,934 times to 516 users) and **Running Ragged** (256 times to 80 users) you needed to run ragged across multiple sites, and show off your knowledge in more than one area.
+In order to offset the Stack Overflow only hats, we created two hats that were available on the rest of the network.  To earn **Polymath** (1,934 times to 516 users) and **Running Ragged** (256 times to 80 users) you needed to run ragged across multiple sites, and show off your knowledge in more than one area.
 
 ![Site Specific Hats](https://i.stack.imgur.com/IRRG7.jpg)
 
@@ -51,11 +51,11 @@ We switched things up this year when it came to secret hats. In the past, users 
 
 There were a total of 14 secret hats (assuming you count both the sun and moon version of Where In The World? separately) meaning a total of 42 hats again this year. Of course, at most you could only earn 41 since you couldn't get both the sun and moon hat. 
 
-The most common secret hat was the solstice hat for participating on December 21, 2016. The **Where In the World?** Sun hat was awarded 39,078 times to 33,341 users, while the Moon version was awarded 35,784 times to 30,209 users.  This was similar to last year's [Flip Flop hat](http://meta.stackexchange.com/questions/270788/is-there-a-list-of-what-each-of-the-winter-bash-hats-is-named-after/272558#272558), but [Sklivvz](http://meta.stackexchange.com/users/131112/sklivvz) got creative in [how the randomness was assigned](http://sklivvz.com/posts/i-built-a-hardware-rng-for-christmas). 
+The most common secret hat was the solstice hat for participating on December 21, 2016. The **Where In the World?** Sun hat was awarded 39,078 times to 33,341 users, while the Moon version was awarded 35,784 times to 30,209 users.  This was similar to last year's [Flip Flop hat](http://meta.stackexchange.com/questions/270788/is-there-a-list-of-what-each-of-the-winter-bash-hats-is-named-after/272558#272558), but [Sklivvz](http://meta.stackexchange.com/users/131112/sklivvz) got creative in [how randomness was assigned](http://sklivvz.com/posts/i-built-a-hardware-rng-for-christmas). 
 
 ![Where In the World](https://i.stack.imgur.com/gCc44.jpg)
 
-The first secret hat awarded was **This Is Fine**. It was awarded to [Jake](http://stackoverflow.com/users/3814799/jake) on [Stack Overflow](http://stackoverflow.com/) less than 30 minutes into Winter Bash on December 19th.  The community accurately guessed that this was awarded if you have an upvoted answer on a question with a bounty, but you dont win the bounty.  This hat was awarded 965 times to 958 users. 
+The first secret hat awarded was **This Is Fine**. It was awarded to [Jake](http://stackoverflow.com/users/3814799/jake) on [Stack Overflow](http://stackoverflow.com/) less than 30 minutes into Winter Bash on December 19th.  The community accurately guessed that this was awarded if you have an upvoted answer on a question with a bounty, but you don't win the bounty.  This hat was awarded 965 times to 958 users. 
 
 ![This Is Fine](https://i.stack.imgur.com/ubTNy.png)
 
@@ -67,15 +67,15 @@ Less than 10 minutes later, **Don't Wanna Taco 'Bout It** was triggered by users
 
 ![Don't Wanna Taco 'Bout It](https://i.stack.imgur.com/x92Wd.png)
 
-**Elementary** was the next secret hat awarded and this was handed out when users edited 5 questions that were posted more than a year ago.  A total of 466 users earned this hat 506 times, with [Kris Roofe](http://stackoverflow.com/users/6521116/kris-roofe) on [Stack Overflow](http://stackoverflow.com/) being the first. 
+**Elementary** was the next secret hat awarded, and it was handed out when users edited 5 questions that were posted more than a year ago.  A total of 466 users earned this hat 506 times, with [Kris Roofe](http://stackoverflow.com/users/6521116/kris-roofe) on [Stack Overflow](http://stackoverflow.com/) being the first. 
 
 ![Elementary](https://i.stack.imgur.com/4bAyr.png)
 
-Two more secret hats, **6** (3,293 times to 3,193 users) and **8,243,721** (354 times to 338 users) were earned by commenting and then cleaning up after yourself.  The first hat, [6 aka Bert](https://www.youtube.com/watch?v=nKfY6kapyBY), was earned if 6 posts were edited by the owner after you commented on them.  The second hat, 8,243,721 aka Ernie, was awarded by deleting 6 comments from under posts (not your own) that were edited by their owners after you commented on them. These two hats worked hand in hand, if you commented on 6 posts, and the owner edited them, then you went back to delete the comments, you'd earn both hats.  [Jaromanda X](http://stackoverflow.com/users/5053002/jaromanda-x) was the first to earn 6 on [Stack Overflow](http://stackoverflow.com/), and [TypoCube&trade;](http://dba.stackexchange.com/users/993/typocube%E1%B5%80%E1%B4%B9) was the first to earn 8,243,721 and did so on [Database Administrators](http://dba.stackexchange.com/).
+Two more secret hats, **6** (3,293 times to 3,193 users) and **8,243,721** (354 times to 338 users) were earned by commenting and then cleaning up after yourself.  The first hat, [6 aka Bert](https://www.youtube.com/watch?v=nKfY6kapyBY), was earned if 6 posts were edited by the owner after you commented on them.  The second hat, 8,243,721 aka Ernie, was awarded by deleting 6 comments from under posts (not your own) that were edited by their owners after you commented on them. These two hats worked hand in hand, if you commented on 6 posts, and the owner edited them after your comment, then you went back to delete the comment, you'd earn both hats.  [Jaromanda X](http://stackoverflow.com/users/5053002/jaromanda-x) was the first to earn 6 on [Stack Overflow](http://stackoverflow.com/), and [TypoCube&trade;](http://dba.stackexchange.com/users/993/typocube%E1%B5%80%E1%B4%B9) was the first to earn 8,243,721, and did so on [Database Administrators](http://dba.stackexchange.com/).
 
 ![Bert & Ernie](https://i.stack.imgur.com/kNH86.jpg)
 
-Also awarded on the opening day of Winter Bash was my personal favorite, **Blue In the Face**. Users earned this hat by talking so much you were blue in the face. In other words you got it by posting 10 comments that earned an upvote. It was first given out to [rmaddy](http://stackoverflow.com/users/1226963/rmaddy) on Stack Overflow](http://stackoverflow.com/) but was earned 2,660 times to 2,523 users. It took a few days, but the community eventually guessed this trigger. 
+Also awarded on the opening day of Winter Bash was my personal favorite, **Blue In the Face**. Users earned this hat by talking so much you were blue in the face. In other words, you got it by posting 10 comments that earned an upvote. It was first given out to [rmaddy](http://stackoverflow.com/users/1226963/rmaddy) on [Stack Overflow](http://stackoverflow.com/) but was earned 2,660 times by 2,523 users. It took a few days, but the community eventually guessed this trigger. 
 
 ![Blue in the Face](https://i.stack.imgur.com/vch53.jpg)
 
