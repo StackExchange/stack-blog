@@ -2,7 +2,7 @@
 layout: post
 title: The 2017 Stack Overflow Developer Survey is Now Live
 author: kevintroy
-date: 2017-01-11 15:00
+date: 2017-01-12 11:00
 draft: true
 description: We’re back for another edition of the Stack Overflow Developer Survey, the largest and most comprehensive survey of software developers on earth. Every year, we include questions about your favorite technologies, coding habits, and work preferences, as well as how you learn, share, and level up as a developer. 
 tags: 
