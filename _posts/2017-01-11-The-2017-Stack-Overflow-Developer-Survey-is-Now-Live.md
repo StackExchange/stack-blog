@@ -10,9 +10,9 @@ tags:
 - community
 - announcements
 ---
-We’re back for another edition of the [Stack Overflow Developer Survey](https://www.surveymonkey.com/r/92SGNSF), the largest and most comprehensive survey of software developers on earth. Every year, we include questions about your favorite technologies, coding habits, and work preferences, as well as how you learn, share, and level up as a developer. 
+We’re back for another edition of the [Stack Overflow Developer Survey](https://www.surveymonkey.co.uk/r/VJ7R7K7), the largest and most comprehensive survey of software developers on earth. Every year, we include questions about your favorite technologies, coding habits, and work preferences, as well as how you learn, share, and level up as a developer. 
 
-Want to see how you stack up against the world’s developers? **[Take the survey now.](https://www.surveymonkey.com/r/92SGNSF)**
+Want to see how you stack up against the world’s developers? **[Take the survey now.](https://www.surveymonkey.co.uk/r/VJ7R7K7)**
 
 We’ll publish initial results for you to peruse in March. A few weeks after that, you’ll be able to download and analyze anonymized results of the survey under the [Open Database License (ODbL)](http://opendatacommons.org/licenses/odbl/1.0/). We look forward to seeing what you find!
 
@@ -28,7 +28,7 @@ We also of course use the survey to improve our own policies at Stack Overflow, 
 
 ##See How You Stack Up
 
-Last year, we fielded responses from over 50,000 developers in 173 countries. We’re looking to break our record again this year, and we need your help. **[Take the survey now.](https://www.surveymonkey.com/r/92SGNSF)**
+Last year, we fielded responses from over 50,000 developers in 173 countries. We’re looking to break our record again this year, and we need your help. **[Take the survey now.](https://www.surveymonkey.co.uk/r/VJ7R7K7)**
 
 Got questions of your own or feedback? Post in the comments below or on [Meta](http://meta.stackoverflow.com/).
 
