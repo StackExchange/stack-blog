@@ -43,7 +43,7 @@ Podcast Links:
 
 Links from our conversation with [Scott Hanselman](http://www.hanselman.com/):
 
-* Listen to his podcasts, they are amazing. Seriously, Just do it. [Hanselminutes.com](http://www.hanselminutes.com/), [This Developer's Life](http://thisdeveloperslife.com/), (Ratchet & The Geek)[http://www.ratchetandthegeek.com/]
+* Listen to his podcasts, they are amazing. Seriously, Just do it. [Hanselminutes.com](http://www.hanselminutes.com/), [This Developer's Life](http://thisdeveloperslife.com/), [Ratchet & The Geek](http://www.ratchetandthegeek.com/)
 * Anjuan Simmons - [Lending Privilege](https://www.youtube.com/watch?v=nwj0smPMv9c)
 * [Babysmash.com](http://babysmash.com/)
 
