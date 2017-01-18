@@ -9,6 +9,9 @@ tags:
 - engineering
 - company
 ---
+
+<link rel="canonical" href="https://www.stackoverflowbusiness.com/blog/what-benefits-are-companies-offering-developers">
+
 I just started my new job here at Stack Overflow, and like most of us, one thing I think about when considering a career move is what kind of benefits a company offers. Firms looking to hire developers can create a [company page](http://stackoverflow.com/jobs/companies) here at Stack Overflow. This means that we here on the Data Team can explore what types of benefits companies offer developers and how those benefits change across companies of different sizes or in different locations. In this post, we'll use text mining and data visualization to investigate the benefits companies offer to the developers they hire.
 
 ## Most Common Benefits
