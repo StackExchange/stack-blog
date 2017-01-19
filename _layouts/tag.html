@@ -5,9 +5,9 @@ layout: default
 	<div class="-row">
 		<div class="-col8">
 			<div class="posts">
-				<h3>{{ page.tag.name }}</h3>
 				{{ paginator.posts }}
 			</div>
+
 		</div>
 		<div class="-col4">
 			<div class="sidebar media-padded">
@@ -26,3 +26,4 @@ layout: default
 		</div>
 	</div>
 </div>
+{% include paginator.html %}
