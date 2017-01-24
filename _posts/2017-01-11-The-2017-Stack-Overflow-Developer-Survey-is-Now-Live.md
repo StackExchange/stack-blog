@@ -9,6 +9,7 @@ tags:
 - company
 - community
 - announcements
+- survey
 ---
 We’re back for another edition of the [Stack Overflow Developer Survey](https://www.surveymonkey.co.uk/r/VJ7R7K7), the largest and most comprehensive survey of software developers on earth. Every year, we include questions about your favorite technologies, coding habits, and work preferences, as well as how you learn, share, and level up as a developer. 
 

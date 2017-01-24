@@ -8,6 +8,7 @@ description: I just started my new job here at Stack Overflow, and like most of 
 tags: 
 - engineering
 - company
+- data
 ---
 
 <link rel="canonical" href="https://www.stackoverflowbusiness.com/blog/what-benefits-are-companies-offering-developers">
