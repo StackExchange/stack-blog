@@ -33,14 +33,13 @@ The Stack Overflow community has always been open to the world. It has gotten mo
 
 What does a typical weekday look like for Stack Overflow Q&A? There are about 8,000 questions asked, and 9,500 answers provided. These come from 150 separate countries, and 84.7% of answers come from a different country than the asker.
 
-What does that global exchange of knowledge look like? You can click <a href="/content/globe.html">here</a> for an interactive visualization.
+What does that global exchange of knowledge look like?
 
-<a href="/content/globe.html">
-![](https://i.stack.imgur.com/KIpJJ.png)</a>
+<iframe width="100%" height="600" scrolling="no" frameborder="no" src="/content/globe.html"></iframe>
+			
+(You can rotate or resize the globe with your mouse). Each one of these arcs represents one user getting help from another. I've heard programmers refer to Stack Overflow as their "external brain"; these are its neurons.
 
-Each one of these arcs represents one user getting help from another. I've heard programmers refer to Stack Overflow as their "external brain"; these are its neurons.
-
-(We took several thorough measures to anonymize the interactive visualization above to prevent the possibility of users being matched to locations, including, but not limited to, fuzzing locations and removing ones without a minimum number of distinct users.)
+(Incidentally, we took several measures to anonymize the interactive visualization above to prevent the possibility of users being matched to locations, including, but not limited to, fuzzing locations and removing ones without a minimum number of distinct users.)
 
 So if I ask a question from my office in the US, who might answer it?
 
