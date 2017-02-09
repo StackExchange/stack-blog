@@ -16,9 +16,9 @@ tags:
 
 You can now **subscribe to a tag (or set of tags) and get an email when new questions arrive**.
 
-To begin, visit the [Tag Sets page on stackexchange.com](http://stackexchange.com/tagsets/popular), and either create a new tag set, or find a cool tag set someone else already put together.
+To begin, visit the [Tag Sets page on stackexchange.com](http://stackexchange.com/tagsets), and either create a new tag set, or find a cool tag set someone else already put together.
 
-[![](https://i.stack.imgur.com/mp0oI.png)](http://stackexchange.com/tagsets/popular)
+[![](https://i.stack.imgur.com/mp0oI.png)](http://stackexchange.com/tagsets)
 
 Click on a tag set to browse the questions, then look on the **sidebar** for the email option:
 
@@ -45,4 +45,4 @@ We already supported [emailing new answers](http://blog.stackoverflow.com/2009/0
 
 Fundamentally it's the classic divide between push (we notify you when there are new questions, at the risk of bugging you) and pull (you visit the site whenever you like and see for yourself if there are new questions, at the risk of missing some things). Of course, we still support RSS everywhere, as we always have.
 
-We're thinking of adding a simple one click "subscribe" option on the websites proper to make it easier to subscribe to a tag or set of tags. But until then, we'd like to **gather data on what types of tag sets are getting actively used**. So, as ever, [visit the Tag Sets page](http://stackexchange.com/tagsets/popular), try it out, and let us know what you think!
+We're thinking of adding a simple one click "subscribe" option on the websites proper to make it easier to subscribe to a tag or set of tags. But until then, we'd like to **gather data on what types of tag sets are getting actively used**. So, as ever, [visit the Tag Sets page](http://stackexchange.com/tagsets), try it out, and let us know what you think!
