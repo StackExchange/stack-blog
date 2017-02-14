@@ -90,18 +90,21 @@ At this point there was enough info to make the top navigation redesign an actua
 ![](https://i.stack.imgur.com/Vjp7a.png)
 
 **Primary goals**
+
 * Present all the tools we provide for developers in a way that's consistent with them actually discovering them
 * Increase traffic to Jobs and Documentation
 * More intuitive, updated visual design
 * Increase the number of users who sign up and gain access to more site features
 
 **Secondary goals**
+
 * Increase in notifications acknowledged
 * Increase or no decline in searches
 * No decline in questions asked
 * And a handful of other important and boring metrics that we simply didn’t want to screw up
 
 The progressive rollout plan to measure success had the following objectives:
+
 * **Usability tests** on clickable prototype with 6 additional users to catch any major UX and functionality issues and gather qualitative insights about the new design 
 * **A/B test with 5% of anonymous users** to measure usage data
 * **A/B test with 10% of registered users** with less than 500 reputation to measure usage data
