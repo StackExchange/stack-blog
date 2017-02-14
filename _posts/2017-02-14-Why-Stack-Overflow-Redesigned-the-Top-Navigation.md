@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why Stack Overflow Redesigned the Top Navigation"
+title: "How Stack Overflow Redesigned the Top Navigation"
 author: kjbeavers
 date: 2017-02-14 13:30:00
 tags:
@@ -10,7 +10,7 @@ tags:
 ---
 You may have noticed that we’re sporting a new look today.
 
-![New Top Navigation](https://i.stack.imgur.com/9oVEl.png)
+![New Top Navigation](https://i.stack.imgur.com/jHJJI.png)
 
 We launched this update today as part of a series of changes supporting our core mission: Make developers’ lives better. In the past year, we fully integrated our by-developers, for-developers [Jobs](http://stackoverflow.com/jobs) product. We added a whole new content type — [Documentation](https://stackoverflow.blog/2016/07/introducing-stack-overflow-documentation-beta/) — to help you find even more solutions to your programming questions. And we added [Developer Story](https://stackoverflow.blog/2016/10/bye-bye-bullets-the-stack-overflow-developer-story-is-the-new-technical-resume/) to help developers ditch the outdated resume format. 
 
@@ -87,10 +87,10 @@ And the **new version**:
 
 At this point there was enough info to make the top navigation redesign an actual project. The nav is an area of the site that touches so many different use cases, user types, and metrics; it was important to tightly scope the project and clearly define the goals in advance in order to ship quickly. To mitigate scope creep, feature parity to the current navigation was the defined scope (with a few exceptions).
 
-![](https://i.stack.imgur.com/MACo9.png)
+![](https://i.stack.imgur.com/Vjp7a.png)
 
 **Primary goals**
-* A stronger presentation of Stack Overflow as a multi-product brand
+* Present all the tools we provide for developers in a way that's consistent with them actually discovering them
 * Increase traffic to Jobs and Documentation
 * More intuitive, updated visual design
 * Increase the number of users who sign up and gain access to more site features
@@ -112,7 +112,7 @@ Our findings from each...
 
 # Usability Tests
 
-These tests were conducted in 1-1 recorded hangouts with a range 6 users who ranged from having low to high reputation. 
+These tests were conducted in 1-1 recorded hangouts with 6 users who ranged from having low to high reputation. 
 
 While a few participants struggled with identifying two of the icons (which were updated mid-testing), all participants successfully completed all tasks, and all participants prefered the new design over the current.
 
@@ -128,7 +128,7 @@ This test ran from 12/01/2016 to 01/19/2017 for about 2 million users in each A/
 
 * Signups increased by 7%
 * Clicks to Questions increased by 163%
-* Clicks to Jobs increased by 160% (an expected 16% increase in overall traffic)
+* Clicks to Jobs increased by 160% (an expected 16% increase in overall Jobs traffic)
 * Clicks to Documentation increased by 229%
 * Clicks to Tags increased by 113%
 * Clicks to Users increased by 178%
@@ -148,7 +148,7 @@ This test ran from 01/18/2017 to 01/30/2017 for about 100k users in each A/B gro
 * Inboxes shown increased by 45%
 * Achievements shown increased by 11%
 * Clicks to Questions increased by 51%
-* Clicks to Jobs increased by 99% (an expected 15% increase in overall traffic)
+* Clicks to Jobs increased by 99% (an expected 15% increase in overall Jobs traffic)
 * Clicks to Documentation increased by 113%
 * Clicks to Tags increased by 32%
 * Clicks to Users increased by 82%
@@ -169,6 +169,6 @@ Feedback from the Meta community has been extremely helpful. Thank you to everyo
 
 There’s a running list of ideas we’d like to try in the near future. We plan on iterating upon the design and functionality of our new top nav in a series of A/B tests. There are also early-phase explorations into how this might roll out to international and other Stack Exchange community sites.
 
-The design team is working on a cohesive design language  in order to create consistent experiences across all our product areas. Some of these changes have already rolled out, and more are coming in the near future. Special thanks to Paweł Ludwiczak’s hard work designing and implementing the new top navigation.
+The design team is working on a cohesive design language  in order to create consistent experiences across all our product areas. Some of these changes have already rolled out, and more are coming in the near future. Special thanks to Paweł Ludwiczak’s and Oded Coster's hard work designing and implementing the new top navigation.
 
-As always, we appreciate your feedback. Have a bug or feature request — post it on Meta.
+As always, we appreciate your feedback. If you have a bug or feature request — post it on Meta.
