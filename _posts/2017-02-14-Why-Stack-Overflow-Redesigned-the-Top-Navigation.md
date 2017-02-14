@@ -87,7 +87,7 @@ And the **new version**:
 
 At this point there was enough info to make the top navigation redesign an actual project. The nav is an area of the site that touches so many different use cases, user types, and metrics; it was important to tightly scope the project and clearly define the goals in advance in order to ship quickly. To mitigate scope creep, feature parity to the current navigation was the defined scope (with a few exceptions).
 
-![](https://i.stack.imgur.com/Vjp7a.png)
+![](https://i.stack.imgur.com/DnQ56.png)
 
 **Primary goals**
 
@@ -127,7 +127,7 @@ While a few participants struggled with identifying two of the icons (which were
 
 ## A/B Test with 5% of Anonymous Visitors 
 
-This test ran from 12/01/2016 to 01/19/2017 for about 2 million users in each A/B group. Anonymous visitors account for about 97% of all page views but only 61% of the current navigation clicks.
+This test ran from 2016-12-01 to 2017-01-19 for about 2 million users in each A/B group. Anonymous visitors account for about 97% of all page views but only 61% of the current navigation clicks.
 
 * Signups increased by 7%
 * Clicks to Questions increased by 163%
@@ -146,7 +146,7 @@ While some dropoff often happens after launch due to novelty effect, these incre
 
 ## A/B Test with 10% of Registered Users with Less than 500 Rep
 
-This test ran from 01/18/2017 to 01/30/2017 for about 100k users in each A/B group . Registered user account for about 3% of all page views but about 44% of the current top navigation clicks.
+This test ran from 2017-01-18 to 2017-01-30 for about 100k users in each A/B group . Registered user account for about 3% of all page views but about 44% of the current top navigation clicks.
 
 * Inboxes shown increased by 45%
 * Achievements shown increased by 11%
@@ -164,7 +164,7 @@ This phase began Tuesday, February 1. About 100 Stack Overflow employees opted i
 
 ## Opt-in for All Users
 
-This phase began 02/7/2017 to 02/14/2017. Around 1600 users opted in.
+This phase began 2017-02-07 to 2017-02-14. Around 1600 users opted in.
 
 Feedback from the Meta community has been extremely helpful. Thank you to everyone who participated! A number of bugs were fixed during this period, some feature requests were implemented and others considered or planned. For a more complete list of updates, see [Des’s most recent post](http://meta.stackoverflow.com/questions/343653/top-navigation-update?noredirect=1#comment447065_343653).
 
