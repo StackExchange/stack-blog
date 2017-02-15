@@ -10,7 +10,7 @@ tags:
 ---
 Since Stack Overflow was founded, we've described it as "a question and answer site for professional and enthusiast programmers." It supports both experienced developers who code as part of their work, and people who are learning as part of a university curriculum.
 
-So just how many of our users are students? We on the Data Team can estimate this based on what fraction of our questions come come from university ISPs. In this post, I'll share some numbers about how students (both undergraduate and graduate) use Stack Overflow, what programming languages they tend to ask about, and how this differs between schools.
+So just how many of our users are students? We on the Data Team can estimate this based on what fraction of our questions come from university ISPs. In this post, I'll share some numbers about how students (both undergraduate and graduate) use Stack Overflow, what programming languages they tend to ask about, and how this differs between schools.
 
 # Finding students on Stack Overflow
 
