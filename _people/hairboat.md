@@ -1,8 +1,8 @@
 ---
 layout: author
 id: hairboat
-name: Abby T. Miller
-job: Community Growth Team Lead
+name: Abby T. Mars
+job: Director of Community Management
 avatar: https://i.stack.imgur.com/UfZIh.jpg
 twitter: hairboat
 github: hairboat
