@@ -1,6 +1,6 @@
 ---
 layout: podcast
-date: 2017-01-30
+date: 2017-02-27
 title: "Stack Overflow Podcast #102: What Can We Learn from Uber?"
 author: jpardue
 podcast: http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/309837196-stack-exchange-stack-overflow-podcast-102-what-can-we-learn-from-uber.mp3
