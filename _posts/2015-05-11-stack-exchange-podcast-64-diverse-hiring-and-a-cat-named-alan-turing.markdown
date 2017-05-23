@@ -2,7 +2,7 @@
 author: hairboat
 comments: true
 date: 2015-05-11 20:00:01+00:00
-layout: post
+layout: podcast
 redirect_from: /2015/05/stack-exchange-podcast-64-not-recorded-in-ithaca/
 hero: https://i.stack.imgur.com/FCLQG.jpg
 slug: podcast-64-diverse-hiring-and-a-cat-named-alan-turing
@@ -53,4 +53,4 @@ So what can we get better at? We put Roberta on the spot but she'd rather talk a
 
 Thanks for listening to Stack Exchange Podcast #64, brought to you by string cheese. See you next time!
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/204221383&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+

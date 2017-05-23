@@ -3,5 +3,6 @@ layout: post
 ---
 {{content}}
 {% if page.podcast %}
-<p>{{ page.podcast | soundcloudify }}</p>
+<p>{{ page.podcast | soundcloudify }}
+<a href="{{ page.podcast }}">Download this episode.</a></p>
 {% endif %}

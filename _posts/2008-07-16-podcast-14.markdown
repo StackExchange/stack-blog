@@ -2,7 +2,7 @@
 author: jeffatwood
 comments: true
 date: 2008-07-16 22:11:35+00:00
-layout: post
+layout: podcast
 redirect_from: /2008/07/podcast-14
 hero: /images/category/podcasts.jpg
 slug: podcast-14
@@ -84,4 +84,4 @@ record an audio file (90 seconds or less) and mail it to [podcast@stackoverflow.
 
 The [transcript wiki](http://stackoverflow.fogbugz.com/default.asp?W13086) for this episode is available for public editing.
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/14378386&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+

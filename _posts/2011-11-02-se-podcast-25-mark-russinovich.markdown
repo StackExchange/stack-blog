@@ -2,7 +2,7 @@
 author: alex
 comments: true
 date: 2011-11-02 19:00:15+00:00
-layout: post
+layout: podcast
 redirect_from: /2011/11/se-podcast-25-mark-russinovich
 hero: /images/category/podcasts.jpg
 slug: se-podcast-25-mark-russinovich
@@ -63,4 +63,3 @@ This week's guest is [Mark Russinovich](http://en.wikipedia.org/wiki/Mark_Russin
 
 Next week's guest is [Chris "moot" Poole](http://en.wikipedia.org/wiki/Christopher_Poole), from [4chan](http://www.4chan.org) and [Canvas](http://www.canv.as).
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/26994881&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>

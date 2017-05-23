@@ -2,7 +2,7 @@
 author: alex
 comments: true
 date: 2012-03-06 15:15:27+00:00
-layout: post
+layout: podcast
 redirect_from: /2012/03/se-podcast-32-jarrod-dixon-and-josh-heyer
 hero: /images/category/podcasts.jpg
 slug: se-podcast-32-jarrod-dixon-and-josh-heyer
@@ -104,4 +104,4 @@ Well that's it for this week's podcast - join us in the coming weeks as we get b
 
 
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/38889143&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+

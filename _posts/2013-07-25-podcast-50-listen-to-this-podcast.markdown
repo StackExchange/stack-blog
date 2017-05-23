@@ -2,7 +2,7 @@
 author: alex
 comments: true
 date: 2013-07-25 08:05:01+00:00
-layout: post
+layout: podcast
 redirect_from: /2013/07/podcast-50-listen-to-this-podcast
 hero: http://i.imgur.com/CqsAzHL.jpg
 slug: podcast-50-listen-to-this-podcast
@@ -73,4 +73,4 @@ Welcome to Stack Exchange podcast #50, featuring usual suspects Joel Spolsky, Ja
 Thanks for joining us!  Today's guest has been Nine Shogs Shogging, joining Jay Hanlon, David Fullerton, and Joel Spolsky.  Today's episode was sponsored by the House of Lords. See you next time!
 
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/102518231&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+

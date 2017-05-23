@@ -2,7 +2,7 @@
 author: alex
 comments: true
 date: 2011-09-14 19:00:45+00:00
-layout: post
+layout: podcast
 redirect_from: /2011/09/se-podcast-18
 hero: /images/category/podcasts.jpg
 slug: se-podcast-18
@@ -54,4 +54,4 @@ Tune in next week at the normal time and with our normal in-studio setup (really
 See you then!
 
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/23329020&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+

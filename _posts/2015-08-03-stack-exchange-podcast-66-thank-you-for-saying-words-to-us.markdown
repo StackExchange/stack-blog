@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: podcast
 date: 2015-08-03
 title: "Podcast #66 - Thank You For Saying Words To Us"
 author: hairboat
@@ -31,4 +31,4 @@ The biggest lesson we can take away is that we have to listen to the things our 
 
 We abruptly thank you for listening to Stack Exchange Podcast #66 brought to you by the AEFCSI!
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/214902705&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+

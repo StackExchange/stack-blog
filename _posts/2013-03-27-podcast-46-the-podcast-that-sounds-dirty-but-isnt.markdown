@@ -2,7 +2,7 @@
 author: alex
 comments: true
 date: 2013-03-27 21:14:59+00:00
-layout: post
+layout: podcast
 redirect_from: /2013/03/podcast-46-the-podcast-that-sounds-dirty-but-isnt
 hero: /images/category/podcasts.jpg
 slug: podcast-46-the-podcast-that-sounds-dirty-but-isnt
@@ -67,4 +67,4 @@ That's a wrap! You've been listening to Stack Exchange Podcast #46 with special 
 
 
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/85215663&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+

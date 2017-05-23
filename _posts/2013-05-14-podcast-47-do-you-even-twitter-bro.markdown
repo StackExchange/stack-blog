@@ -2,7 +2,7 @@
 author: alex
 comments: true
 date: 2013-05-14 21:42:45+00:00
-layout: post
+layout: podcast
 redirect_from: /2013/05/podcast-47-do-you-even-twitter-bro
 hero: /images/wordpress/Screen-Shot-2013-05-14-at-4.40.15-PM-1024x577.jpg
 slug: podcast-47-do-you-even-twitter-bro
@@ -64,4 +64,4 @@ Taping podcasts in our new "studio"!
 That's our show! Thanks for listening to Stack Exchange Podcast #47. See you in two weeks!
 
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/92213289&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+

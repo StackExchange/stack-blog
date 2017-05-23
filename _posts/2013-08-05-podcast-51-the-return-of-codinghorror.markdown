@@ -2,7 +2,7 @@
 author: alex
 comments: true
 date: 2013-08-05 14:01:14+00:00
-layout: post
+layout: podcast
 redirect_from: /2013/08/podcast-51-the-return-of-codinghorror
 hero: /images/category/podcasts.jpg
 slug: podcast-51-the-return-of-codinghorror
@@ -61,4 +61,4 @@ Welcome to Stack Exchange Podcast #51, with special guest [Jeff Atwood](http://
 Thanks for listening to the Stack Exchange podcast featuring Jeff Atwood! Check out [BoingBoing's forums](http://bbs.boingboing.net/) or [How-To Geek's forums](http://discuss.howtogeek.com/) to see [Discourse](http://www.discourse.org/) in action. Until next time!
 
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/104100512&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+

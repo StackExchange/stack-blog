@@ -2,7 +2,7 @@
 author: alex
 comments: true
 date: 2012-11-09 17:07:58+00:00
-layout: post
+layout: podcast
 redirect_from: /2012/11/se-podcast-36-we-got-hit-by-a-hurricane
 hero: /images/category/podcasts.jpg
 slug: se-podcast-36-we-got-hit-by-a-hurricane
@@ -135,4 +135,4 @@ We're planning on telling the whole story of Hurricane Sandy - it's roughly in c
   
 
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/66762703&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
