@@ -20,7 +20,7 @@ On [Podcast #58](http://blog.stackoverflow.com/2009/06/podcast-58/), Joel and I 
 
 
 <blockquote>
-Joel says that the only bad simple question is a duplicate simple question. I say simple questions are OK as long as they’re actually interesting (in some way) for other users to consider and answer. To prove his point, Joel actually asks the question on Stack Overflow: <a href="http://stackoverflow.com/questions/1003841/how-do-i-move-the-turtle-in-logo">How do I move the turtle in LOGO?</a> Do <em>you<em> think this question adds value?
+Joel says that the only bad simple question is a duplicate simple question. I say simple questions are OK as long as they’re actually interesting (in some way) for other users to consider and answer. To prove his point, Joel actually asks the question on Stack Overflow: <a href="http://stackoverflow.com/questions/1003841/how-do-i-move-the-turtle-in-logo">How do I move the turtle in LOGO?</a> Do <em>you</em> think this question adds value?
 </blockquote>
 
 
