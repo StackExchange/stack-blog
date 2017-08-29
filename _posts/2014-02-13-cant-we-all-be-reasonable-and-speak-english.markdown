@@ -59,7 +59,7 @@ Which... actually sounds plausible. But it's wrong.
 
 <p>Again, I couldn't. Well, I came up with <a href="http://en.wikipedia.org/wiki/Shigeru_Miyamoto">Shigeru Miyamoto</a>. But he's apparently a designer. I couldn't <em>name</em> even one. Not like I can <em>name</em> Carmack or Stallman, or Hopper, or even "DHH." (Does DHH have an actual name? I personally imagine him as a very handsome, talented, fast-driving set of initials. But I digress.)</p>
 
-<p>Is it plausible that there aren't *any* devs good enough to be famous from those countries? Nope. Here's what's happening:</p>
+<p>Is it plausible that there aren't <em>any</em> devs good enough to be famous from those countries? Nope. Here's what's happening:</p>
 
 <blockquote>It's easy to assume that there aren't any devs who can't speak English because I never see any. But I never see any because I'm hanging around places where devs go <em>to talk to each other in English</em>.</blockquote>
 
@@ -82,7 +82,7 @@ Which... actually sounds plausible. But it's wrong.
 
 <p>I think:</p>
 
-<blockquote>"Yes, that makes sense. You are insanely good at two difficult, language-based things. Most people will find both of them to be a _lot_ more challenging than you did."</blockquote>
+<blockquote>"Yes, that makes sense. You are insanely good at two difficult, language-based things. Most people will find both of them to be a <em>lot</em> more challenging than you did."</blockquote>
 
 <p>The truth is, by requiring fluency in English, we're shutting out of a lot of developers who may know enough English to read it but not enough to feel comfortable participating.</p>
 </li>
@@ -121,6 +121,6 @@ That probably limits the list of potential candidates to Mandarin, Japanese, Por
 
 And so far, it's an _incredible_ success. Despite an audience limited to portuguese-speaking devs, the site's activity in its first week was higher than all but 4 out of 120 sites we've launched to date, including the original trilogy.
 
-More importantly, people who couldn't ask questions are asking them, and getting great answers. When in doubt, we want to err on the side of helping more people. If just one little girl in Brazil sticks with programming because an answer on this site helped her finish her first project, well... _**that's not good enough! **_** **I want to help thousands of them. And the boys, too.
+More importantly, people who couldn't ask questions are asking them, and getting great answers. When in doubt, we want to err on the side of helping more people. If just one little girl in Brazil sticks with programming because an answer on this site helped her finish her first project, well... ***that's not good enough!*** I want to help thousands of them. And the boys, too.
 
 Still, it's a good start.
