@@ -15,7 +15,7 @@ tags:
 ---
 
 
-Have you ever wondered [why you can't accept your own answer](http://blog.stackoverflow.com/2008/11/why-cant-i-accept-my-own-answer/) on Stack Overflow? If so, you're [not alone](http://stackoverflow.uservoice.com/pages/general/suggestions/39426-allow-users-to-accept-their-own-answers-with-no-rep-gain).
+Have you ever wondered [why you can't accept your own answer](http://blog.stackoverflow.com/2008/12/why-cant-i-accept-my-own-answer/) on Stack Overflow? If so, you're [not alone](http://stackoverflow.uservoice.com/pages/general/suggestions/39426-allow-users-to-accept-their-own-answers-with-no-rep-gain).
 
 
 
