@@ -1,6 +1,6 @@
 # [Stack Overflow Blog](http://blog.stackoverflow.com/)
 
-NOTE: This repository is no longer being actively maintained since the Stack Overflow blog has been moved off of Jekyll. We've kept it available for you to use and explore, but any PRs or issues will no longer be addressed.
+NOTE: This repository is no longer being actively maintained since the Stack Overflow blog has been moved off of Jekyll. We've kept it available for you to use and explore, but any PRs or issues will no longer be addressed. Thank you to everyone who has contributed!
 
 ## Getting Started
 This blog runs on [Jekyll](http://jekyllrb.com/). Posts are written in [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
