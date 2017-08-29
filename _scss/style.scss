@@ -129,8 +129,7 @@ i.blog-icon {
 	}
 }
 .inner-container {
-	max-width: 1000px;
-	margin: 0px auto;
+	margin: 8px;
 	&.padded {
 		margin: 70px auto;
 	}
@@ -529,9 +528,6 @@ article.post {
 	}
 	&.draft {
 		background-color: #fff3c7;
-	}
-	.inner-container {
-		max-width: 800px;
 	}
 	.author {
 		font-size: 16px;
