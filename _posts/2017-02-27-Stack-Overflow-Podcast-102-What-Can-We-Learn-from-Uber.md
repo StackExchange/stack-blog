@@ -31,6 +31,7 @@ Thanks for Listening! Please follow us on [Facebook](https://www.facebook.com/st
 Links:
 
 More from Erica Brescia:
+
 * [Kubeapps.com](https://kubeapps.com/) - Sign up for free!
 * [Bitnami.com](https://bitnami.com/)
 * Twitter: [@ericabrescia](https://twitter.com/ericabrescia)
