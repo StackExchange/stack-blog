@@ -2,7 +2,7 @@
 author: hairboat
 comments: true
 date: 2015-03-25 20:00:01+00:00
-layout: post
+layout: podcast
 redirect_from: /2015/03/podcast-63-the-plumbers-up-to-67-coins/
 hero: https://cloud.githubusercontent.com/assets/12239801/7543823/a30079b2-f595-11e4-8463-c9f25dcfda81.jpg
 slug: podcast-63-the-plumbers-up-to-67-coins
@@ -36,5 +36,5 @@ So what came out of this discussion? [We changed close vote aging](http://meta.s
 
 Thanks for listening to the Stack Exchange Podcast, brought to you by Cool Whip -- a whipped topping, NOT whipped cream.
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/197512699&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
 

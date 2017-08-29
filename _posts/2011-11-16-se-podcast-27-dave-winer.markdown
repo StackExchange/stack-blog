@@ -2,7 +2,7 @@
 author: alex
 comments: true
 date: 2011-11-16 20:00:20+00:00
-layout: post
+layout: podcast
 redirect_from: /2011/11/se-podcast-27-dave-winer
 hero: /images/category/podcasts.jpg
 slug: se-podcast-27-dave-winer
@@ -55,4 +55,3 @@ Jeff & Joel are joined today by Dave Winer, who's upset that we don't have a jin
   * You can find Dave at [Scripting News](http://www.scripting.com), and you should also check out [EC2 for Poets](http://poets.scripting.com/).
 
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/28160568&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>

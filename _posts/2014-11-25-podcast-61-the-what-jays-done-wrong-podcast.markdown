@@ -2,7 +2,7 @@
 author: hairboat
 comments: true
 date: 2014-11-25 19:37:42+00:00
-layout: post
+layout: podcast
 redirect_from: /2014/11/podcast-61-the-what-jays-done-wrong-podcast
 hero: https://cloud.githubusercontent.com/assets/12239801/7544037/84f1dde2-f597-11e4-81e0-4584a5ba2a93.jpg
 slug: podcast-61-the-what-jays-done-wrong-podcast
@@ -110,5 +110,5 @@ We've been going for HOURS (one hour), so it's time to wrap it up. Thanks for li
 
 
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/178619053&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
 

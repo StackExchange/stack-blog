@@ -2,7 +2,7 @@
 author: alex
 comments: true
 date: 2012-12-24 15:34:05+00:00
-layout: post
+layout: podcast
 redirect_from: /2012/12/podcast-39-the-one-with-wil-wheaton
 hero: /images/category/podcasts.jpg
 slug: podcast-39-the-one-with-wil-wheaton
@@ -76,4 +76,4 @@ Today's guest is [Jeremy Tunnell](http://stackexchange.com/users/1635441/jeremy
 That's all for this week. See you on ChaCha!
 
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/72432544&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+

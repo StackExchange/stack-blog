@@ -2,7 +2,7 @@
 author: jeffatwood
 comments: true
 date: 2009-04-15 23:55:45+00:00
-layout: post
+layout: podcast
 redirect_from: /2009/04/podcast-49
 hero: /images/category/podcasts.jpg
 slug: podcast-49
@@ -96,4 +96,4 @@ Reminder: next week, we'll have Steve Yegge as a guest. The [previous episode wi
 
 The [transcript wiki](https://stackoverflow.fogbugz.com/default.asp?pg=pgWiki&command=view&ixWikiPage=29041) for this episode is available for public editing.
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/14377437&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+

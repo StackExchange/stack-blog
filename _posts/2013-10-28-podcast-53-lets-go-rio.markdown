@@ -2,7 +2,7 @@
 author: alex
 comments: true
 date: 2013-10-28 18:20:25+00:00
-layout: post
+layout: podcast
 redirect_from: /2013/10/podcast-53-lets-go-rio
 hero: /images/category/podcasts.jpg
 slug: podcast-53-lets-go-rio
@@ -82,4 +82,4 @@ Thanks for listening to Stack Exchange Podcast #53 with special guest Gabe Kosck
 
 
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/117482173&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
