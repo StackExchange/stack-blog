@@ -6,7 +6,7 @@ layout: post
 redirect_from: /2013/01/2012-stack-overflow-user-survey-results
 hero: 
 slug: 2012-stack-overflow-user-survey-results
-title: 2012 Stack Overflow User Survey Results
+title: 2013 Stack Overflow User Survey Results
 wordpress_id: 12948
 tags:
 - company
@@ -32,12 +32,7 @@ No real surprise here, but of the mobile family, the number of users who own And
 
 Since 2010, we’ve seen a 2.2% uptick in workplace satisfaction, so 70% of you are happy in your current jobs. We’re not going to point fingers or anything, but we hope there may be some causation for those of you who found your current job from among the 10,000+ roles that were posted on Careers 2.0 last year.
 
-Since we now have three years’ worth of data, we wanted to put together something a little special for this year’s overview, so check out the infographic below that our designer created to highlight some of our key findings.
 
-[![](https://i.stack.imgur.com/EqnLT.png)](http://blog.stackoverflow.com/2013/01/2012-stack-overflow-user-survey-results/survey-final-3/)
-
-In our effort to make all information publicly available, here is [a basic report of the results](https://www.surveymonkey.com/sr.aspx?sm=vU4rF_2bPVQaftSo1s69bGGbvMPXp7ktcfSHiDFP_2bM5qw_3d) or if you'd prefer to play around with the data yourself, [download the survey results](https://drive.google.com/a/stackoverflow.com/#folders/0BwIexitMAu8ceG95UUkyUGlRM0U).
+In our effort to make all information publicly available, here is [a basic report of the results](https://www.surveymonkey.com/sr.aspx?sm=vU4rF_2bPVQaftSo1s69bGGbvMPXp7ktcfSHiDFP_2bM5qw_3d) or if you'd prefer to play around with the data yourself, [download the survey results](https://drive.google.com/uc?export=download&id=0B0DL28AqnGsrenpPNTc5UE1PYW8).
 
 
-
-**UPDATED: **Check out our [European version of the infographic here](https://www.dropbox.com/s/cenyt88smoa30b0/Stack%20Overflow%20Survey%20Results%20-%20Europe.png).

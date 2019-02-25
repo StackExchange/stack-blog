@@ -27,7 +27,7 @@ Owning our own meta, rather than outsourcing it, has been _hugely_ productive in
 
 
 
-So it's clear with [Stack Exchange 2.0](http://blog.stackexchange.com/post/518474918/stack-exchange-2-0) that every new site will have a child meta -- on day one of the private beta. If we were to launch, say, **unicornoverflow.com**, it'd have these two top level domains immediately:
+So it's clear with [Stack Exchange 2.0](http://blog.stackoverflow.com/2010/04/changes-to-stack-exchange/) that every new site will have a child meta -- on day one of the private beta. If we were to launch, say, **unicornoverflow.com**, it'd have these two top level domains immediately:
 
 
 

@@ -21,7 +21,7 @@ I know the idea sounds risky. How could that possibly work? People would either 
 
 Spoiler: none of that has happened. The conversations have been productive and civil; the volunteers have been open-minded and allowed themselves to be vulnerable, while other participants have asked questions, offered support, and shared different perspectives. In several instances, people responded with things like, "WHAT??!! Really? I can’t believe that happened to you!" or fervently agreed that they had experienced something very similar. People have even been brave enough to ask if their own behavior was perpetuating the issue, and asked to be called out if they did something that bothered anyone.
 
-![before we rebranded to Stack Overflow](http://i.stack.imgur.com/2mDtm.png)
+![before we rebranded to Stack Overflow](https://i.stack.imgur.com/2mDtm.png)
 
 ## What We’ve Learned
 By no stretch of the imagination do I think this would be a good idea in every workplace. Stack Overflow seems to be just the right size with the appropriate tools to make something like this work. Furthermore, people were at least willing to give it a try, and kept open minds. So we had the means to make it happen, and I think we also found a formula that heavily contributed to it being productive:

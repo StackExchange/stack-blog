@@ -1,13 +1,6 @@
 ---
 layout: default
 ---
-<style>
-	header {
-		position: absolute;
-		background: none;
-		width: 100%;
-	}
-</style>
 <article class="post full-post" data-id="{{ page.id }}">
 	{% if page.hero == null or page.tags contains 'podcasts' %}
 	<div class="hero no-image">
@@ -20,7 +13,7 @@ layout: default
 		<div class="inner-container media-padded">
 			<h1 class="h2">{{ page.title }}</h1>
 			<div class="author-container">
-				<a href="{{ site.baseurl }}/authors/{{ page.full_author.id }}"><img src="{{ page.full_author.avatar }}"></a>
+				<a href="{{ site.baseurl }}/authors/{{ page.full_author.id }}/"><img src="{{ page.full_author.avatar }}"></a>
 				<h2 class="h4 author-name">by <a href="{{ site.baseurl }}/authors/{{ page.full_author.id }}/">{{ page.full_author.name }}</a></h2>
 				<div class="date">on {{ page.date | date: "%B %e, %Y" }}</div>
 			</div>
@@ -33,7 +26,7 @@ layout: default
 		  		<p>This post was originally published elsewhere and has been put here with the author's permission. You can see <a href="{{ page.source }}" target="_blank">where it was originally published here</a>.</p>
 		  	</div>
 		  	{% endif %}
-		  	<div class="media-padded">
+		  	<div>
 			    {{ content }}
 			    <div class="metadata -row">
 			    	<div class="-col6 _textLeft">
@@ -56,4 +49,9 @@ layout: default
 	</div>
 </article>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+
+{% capture pubdate %}{{ page.date | date: "%Y-%m-%d" }}{% endcapture %}
+
+{% if pubdate < "2015-07-02" %}
 <script src="{{ site.baseurl }}/js/post.js"></script>
+{% endif %}

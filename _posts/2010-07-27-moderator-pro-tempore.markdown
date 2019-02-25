@@ -16,7 +16,7 @@ tags:
 
 There's a bit of a leadership vacuum inside [the new Stack Exchange communities](http://area51.stackexchange.com/) in public beta. We've put a lot of responsibility on each group to take ownership of their own site. The Stack Exchange team can act as guide, but we don't always have the domain knowledge to understand the needs of each group. As the Network expands, this stretches our ability to assure that each community's issues are properly addressed.
 
-[![](http://i.stack.imgur.com/tzK8D.png)](http://stackexchange.com)
+[![](https://i.stack.imgur.com/tzK8D.png)](http://stackexchange.com)
 
 That's why I am in the process of **identifying and organizing a team of provisional Moderators from within each community** (about three per site, starting  about seven days into the public Beta). This is a temporary, short-term appointment. Moderators Pro Tem focus and expedite [the essential needs of each new site](http://blog.stackoverflow.com/2010/07/the-7-essential-meta-questions-of-every-beta/). By the end of Beta, the community will be better suited to hold their own elections.
 

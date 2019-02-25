@@ -1,5 +1,7 @@
 # [Stack Overflow Blog](http://blog.stackoverflow.com/)
 
+NOTE: This repository is no longer being actively maintained since the Stack Overflow blog has been moved off of Jekyll. We've kept it available for you to use and explore, but any PRs or issues will no longer be addressed. Thank you to everyone who has contributed!
+
 ## Getting Started
 This blog runs on [Jekyll](http://jekyllrb.com/). Posts are written in [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
@@ -80,9 +82,9 @@ Then on the next screen, you can submit the pull request:
 
 ###2. Publishing a post
 
-[Publish a new post](https://github.com/StackExchange/blog/new/master/_posts) ([See example post file](https://github.com/StackExchange/blog/edit/master/_posts/2014-1-28-My-First-Six-Weeks-Working-At-Stack-Overflow.md), [published version](http://stackexchange.github.io/blog/01/28/My-First-Six-Weeks-Working-At-Stack-Overflow/))
+[Publish a new post](https://github.com/StackExchange/blog/new/master/_posts) ([See example post file](https://github.com/StackExchange/stack-blog/blob/master/_posts/2014-01-28-My-First-Six-Weeks-Working-At-Stack-Overflow.md), [published version](http://blog.stackoverflow.com/2014/01/my-first-six-weeks-working-at-stack-overflow/))
 
-To create a new post, you need to create a new markdown file with a particular format in the `_posts` folder in order to publish. The file needs to include the date and title separated by dashes: `YYYY-MM-DD-Title-With-Dashes-As-Spaces.md`. For example, Jon Chan published a post on January 28th, 2014 titled "My First Six Weeks Working at Stack Overflow". So the title of his file was `2014-1-28-My-First-Six-Weeks-At-Stack-Overflow.md`.  In the content of this markdown file should be the following (you don't need the square brackets): 
+To create a new post, you need to create a new markdown file with a particular format in the `_posts` folder in order to publish. The file needs to include the date and title separated by dashes: `YYYY-MM-DD-Title-With-Dashes-As-Spaces.md`. For example, Jon Chan published a post on January 28th, 2014 titled "My First Six Weeks Working at Stack Overflow". So the title of his file was `2014-01-28-My-First-Six-Weeks-At-Stack-Overflow.md`.  In the content of this markdown file should be the following (you don't need the square brackets): 
 ```
 ---
 layout: post
@@ -94,10 +96,11 @@ hero: [url of a high quality hero image to be used for your post. Optional, you 
 source: [url of the original post so a source banner will be added to the post. Optional, you can remove this whole line]
 description: [a description that will show up in search results, up to 160 characters. Optional, you can remove this whole line]
 tags: [what channel this post belongs to (engineering/company), and any related tags, required]
+langs: [what languages this post will be available in, optional. You should add the language code in lowercase like 'ja', 'es', 'ru'. If this includes 'en' it will show up in the network-wide feeds]
 ---
 [Content of your post in markdown]
 ```
-So Jon Chan's post `2014-1-28-My-First-Six-Weeks-At-Stack-Overflow.md` would look something like the following:
+So Jon Chan's post `2014-01-28-My-First-Six-Weeks-At-Stack-Overflow.md` would look something like the following:
 ```
 ---
 layout: post
@@ -160,6 +163,60 @@ tags:
 ---
 
 ```
+
+**Internationalization**
+
+By default, all posts are assumed to be in English and targeted for English-speaking audiences. However, there is a way to make sure that posts are flagged as internationalized using the optional `langs` parameter in a post. Flagging a post that is internationalized and does *not* support English will do the following:
+ - Posts will *not* show up in any of the list pages on the blog. This includes the homepage, and the two channel pages for Company News and Engineering navigable from the top menu.
+ - Posts will *not* appear in the RSS feed at `/feed`. That means posts will *not* be syndicated on the community bulletin or in RSS feeds.
+ - Posts will be accessible only from the direct URL.
+ - Posts will continue to show up for the author list pages.
+
+There are additional feeds, one per language, that have been set up for the currently existing Stack Overflow sites in other languages:
+ - `/feed/es`
+ - `/feed/pt`
+ - `/feed/ja`
+ - `/feed/ru`
+
+When writing a new post, you can add the language audiences this post is for at the top of the post markdown file with the optional parameter. 
+```
+---
+layout: post
+title: [title of post]
+author: [author id]
+langs:
+- [lang1]
+- [lang2]
+- [lang3]
+---
+```
+
+Typically, languages will be specified using the language code that matches the subdomain of that community on Stack Overflow. 
+
+For example, if you wanted to make sure that this post was flagged for Japanese, you would add the language code `ja`:
+```
+---
+layout: post
+title: [title of post]
+author: [author id]
+langs:
+- ja
+---
+```
+
+However, if you add `en` to the list of languages, it will *also* be syndicated like a default post:
+```
+---
+layout: post
+title: [title of post]
+author: [author id]
+langs:
+- ja
+- en
+---
+```
+
+If you leave out the `langs` parameter, leave it empty, or add `en` to the list of languages supported, the post will behave with the default behavior and be treated like a regular post.
 
 **Where to get good hero images**
  - [Unsplash](https://unsplash.com/grid)

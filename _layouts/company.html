@@ -1,25 +1,9 @@
 ---
 layout: default
 top_nav: company
+header_headline: Company
+header_subhead: Find the latest news about what we're doing at Stack Overflow from product launches to big hires and more
 ---
-<style>
-	header {
-		padding-bottom: 80px;
-		margin-bottom: 35px;
-	}
-</style>
-<div class="subheader hidden-nav">
-	<div class="inner-container">
-		<nav class="-row">
-			<a class="category{% unless paginator.channel %} active{% endunless %}" href="{{ site.baseurl }}/company/">All</a>
-			<a class="category{% if paginator.channel == "announcements" %} active{% endif %}" href="{{ site.baseurl }}/company/announcements/">Announcements</a>
-			<a class="category{% if paginator.channel == "podcasts" %} active{% endif %}" href="{{ site.baseurl }}/company/podcasts/">Podcasts</a>
-			<a class="category{% if paginator.channel == "community" %} active{% endif %}" href="{{ site.baseurl }}/company/community/">Community</a>
-			<a class="category{% if paginator.channel == "culture" %} active{% endif %}" href="{{ site.baseurl }}/company/culture/">Culture</a>
-			<a class="category{% if paginator.channel == "diversity" %} active{% endif %}" href="{{ site.baseurl }}/company/diversity/">Diversity</a>
-		</nav>
-	</div>
-</div>
 
 <div class="inner-container padded">
 	<div class="-row">
@@ -33,3 +17,5 @@ top_nav: company
 		</div>
 	</div>
 </div>
+
+{% include paginator.html %}

@@ -41,4 +41,4 @@ _Competitive_ means that you’re earning at least as much at Stack Exchange as 
 
 One important principle of Stack Exchange is that we do as much as we can publicly, and we try to leave public artifacts of all the work we do. In that spirit I've uploaded a complete copy of the current compensation plan so you can see what goes into compensation decisions at Stack Exchange. The only thing that is not public is the actual, final computation that determines each individual's paycheck, because we have to balance our own philosophy of openness against the individual developer's right to personal privacy.
 
-[Stack Exchange Developer Compensation (PDF)](http://blog.stackoverflow.com/wp-content/uploads/Stack-Exchange-Developer-Compensation.pdf)
+[Stack Exchange Developer Compensation (PDF)](/content/Stack-Exchange-Developer-Compensation.pdf)

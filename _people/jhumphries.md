@@ -4,6 +4,6 @@ name: Joe Humphries
 id: jhumphries
 twitter: Jumpfreeze
 job: Director, People Team
-avatar: https://i.stack.imgur.com/Kf0W4.jpg
+avatar: https://i.stack.imgur.com/p0D2j.jpg
 website: 
 ---

@@ -16,8 +16,8 @@ redirect_from:
 >
 
 <channel>
-	<title>The Stack Exchange Podcast</title>
-	<atom:link href="{{ site.url }}/feed/podcast" rel="self" type="application/rss+xml" />
+	<title>The Stack Overflow Podcast</title>
+	<atom:link href="{{ site.url }}/feed/podcast/" rel="self" type="application/rss+xml" />
 	<link>{{ site.url }}</link>
 	<description>free, community powered Q&#38;A</description>
 	<lastBuildDate>{{ site.time | date: "%a, %d %b %Y %T +0000" }}</lastBuildDate>
@@ -30,15 +30,15 @@ redirect_from:
 	<webMaster>podcast@stackoverflow.com (The Stack Overflow Team)</webMaster>
 	<ttl>1440</ttl>
 	<image>
-		<url>http://cdn.sstatic.net/stackexchange/img/se-podcast-logo.png</url>
-		<title>The Stack Exchange Podcast</title>
+		<url>https://cdn.sstatic.net/stackexchange/img/se-podcast-logo.png</url>
+		<title>The Stack Overflow Podcast</title>
 		<link>{{ site.url }}</link>
 		<width>144</width>
 		<height>144</height>
 	</image>
-	<itunes:new-feed-url>{{ site.url }}/feed/podcast</itunes:new-feed-url>
+	<itunes:new-feed-url>{{ site.url }}/feed/podcast/</itunes:new-feed-url>
 	<itunes:subtitle>A look inside the Stack Exchange Network</itunes:subtitle>
-	<itunes:summary>Hosted by Joel Spolsky with Jay Hanlon and David Fullerton, the Stack Exchange podcast lets you listen in on discussions and decisions about the Stack Exchange Network. The Stack Exchange podcast gives you an unparalleled view into how a startup is created and built.
+	<itunes:summary>Hosted by Joel Spolsky with Jay Hanlon and David Fullerton, the Stack Overflow podcast lets you listen in on discussions and decisions about the Stack Exchange Network. The Stack Overflow podcast gives you an unparalleled view into how a startup is created and built.
 
 About Stack Overflow:
 Stack Overflow is the flagship property of a fast-growing network of over 100 question and answer sites on diverse topics from software programming to cooking to photography and gaming. We are an expert knowledge exchange: a place where physics researchers can ask each other about quantum entanglement, computer programmers can ask about JavaScript date formats, and photographers can share knowledge about taking great pictures in the snow.</itunes:summary>
@@ -57,7 +57,7 @@ Stack Overflow is the flagship property of a fast-growing network of over 100 qu
 	</itunes:owner>
 	<itunes:block>no</itunes:block>
 	<itunes:explicit>no</itunes:explicit>
-	<itunes:image href="http://cdn.sstatic.net/stackexchange/img/se-podcast-logo.png" />
+	<itunes:image href="https://cdn.sstatic.net/stackexchange/img/se-podcast-logo.png" />
 	{% for post in site.tags.podcasts %}
 		{% if post.podcast and post.draft != true %}
 		<item>
@@ -71,7 +71,7 @@ Stack Overflow is the flagship property of a fast-growing network of over 100 qu
 			{% if post.wordpress_id %}
 			<guid isPermaLink="false">http://blog.stackoverflow.com/?p={{ post.wordpress_id }}</guid>
 			{% else %}
-			<guid isPermaLink="false">{{ site.url }}{{ post.url }}</guid>
+			<guid isPermaLink="false">http://blog.stackoverflow.com{{ post.url | downcase }}</guid>
 			{% endif %}
 			<description><![CDATA[{{ post.excerpt | raw }}]]></description>
 			<content:encoded><![CDATA[{{ post.content | raw }}]]></content:encoded>

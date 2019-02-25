@@ -3,7 +3,7 @@ layout: post
 title: "Winter Bash 2015: Hats Off"
 author: stackpops
 date: 2016-01-06
-description: Stack Exchange Winter Bash 2015 wrap-up
+description: It's a new year, and another Winter Bash is behind us. Let's relive some of the highlights, and finally get to the bottom of the mysteries of the secret hats, before we close the 2015 (year)book for good!
 tags:
  - company
  - announcement
@@ -31,7 +31,7 @@ The most commonly awarded hat this year was, of course, __Every! Body! Gets! A H
 
 ![Every! Body! Gets! A Hat! worn by hellyale][imgOprah1]  
 
-Congratulations to [Mathematics SE](http://math.stackexchange.com) for being the first site to unlock this hat, less than 18 hours into the event! Also to [Code Review SE](http://codereview.stackexchange.com) and [Blender SE](http://blender.stackexchange.com) for technically needing only three users each to get this hat (i.e. at the time that the hat was earned, one user had 16 or more hats, and two other users had enough hats that the first user didn't, filling the number up to 20). The biggest "team effort" occurred at [Aviation SE](http://aviation.stackexchange.com) and [English Language Learners SE](http://ell.stackexchange.com), on each of which ten users came together to reach the 20 hat total. All in all, 90 communities managed to pass the 20-hat mark.
+Congratulations to [Mathematics SE](http://math.stackexchange.com) for being the first site to unlock this hat, less than 18 hours into the event! Also to [Code Review SE](http://codereview.stackexchange.com) and [Blender SE](http://blender.stackexchange.com) for technically needing only three users each to get this hat (i.e. at the time that the hat was earned, one user had 16 or more hats, and two other users had enough hats that the first user didn't, filling the number up to 20). The biggest "team efforts" occurred at [Aviation SE](http://aviation.stackexchange.com) and [English Language Learners SE](http://ell.stackexchange.com), on each of which ten users came together to get the site past the 20-hat mark. All in all, 90 communities managed to "get Oprahed."
 
 Not surprisingly, the next-most-common hats were "participation hats," given for doing little more than showing up on a given date: __A New Hope__ was earned the most total times, at 35,329, but __Sufganiyot__ was earned by the most distinct people, 27,050. The most common hat for an actual achievement was [__Cerro de Potosi__](https://en.wikipedia.org/wiki/Cerro_Rico), with 21,720 awarded users for earning silver badges; fortunately, our badges don't require any destructive real-world silver mining. Actually, more people earned silver badges during the event than visited on Christmas; Cerro de Potosi edged out __O Tannenbaum__, which was earned 20,104 times.
 
@@ -51,7 +51,7 @@ The first one awarded, and first one the community figured out the trigger for, 
 
 ![Odinson worn by Brian Rogers][imgOdinson]
 
-The first user to correctly explain Odinson was Undo. In doing so, he earned himself a second secret hat: __Archimedes__, the hat given out for correctly identifying another secret hat's trigger,. Veteran Winter Bashers may remember it being called Eureka in past years. This year's only manually awarded hat, it was earned by 18 people.
+The first user to correctly explain Odinson was Undo. In doing so, he earned himself a second secret hat: __Archimedes__, the hat given out for correctly identifying another secret hat's trigger. Veteran Winter Bashers may remember it being called Eureka in past years. This year's only manually awarded hat, it was earned by 18 people.
 
 Next to fall was __Hairboat's Revenge__, which was given to any user who replied to everyone's favorite Community Manager, Jon Ericson, by answering one of his questions, commenting on one of his posts or replying to one of his comments. A total of 516 users did this, and it was apparently so fun that many did it on multiple sites; the hat was given out 614 times.
 
@@ -104,33 +104,33 @@ Thanks to everyone who got involved for another fun year!
 ![Copernicus worn by Kit Z. Fox][imgCopernicus2]  
 ![Every! Body! Gets! A Hat! worn by Air][imgOprah2]
 
-For those who are especially interested, I'll be posting additional statistics and analysis to Meta Stack Exchange soon (and will update this post with a link when the meta post is up).
+For those who are especially interested, I've [posted additional statistics and analysis on Meta Stack Exchange](http://meta.stackexchange.com/questions/272735/winter-bash-2015-post-mortem) (along with more screenshots).
 
 Here's to a great 2016!
 
 ![Auld Lang Syne worn by ff524][img2016]
 
 
-  [imgSufganiyot]: http://i.stack.imgur.com/5GJSR.png
-  [imgOprah1]: http://i.stack.imgur.com/8UXdD.png
-  [img007]: http://i.stack.imgur.com/q4KKR.png
-  [img9000]: http://i.stack.imgur.com/QvMZj.png
-  [imgFFb]: http://i.stack.imgur.com/ySDMx.png
-  [imgFFw]: http://i.stack.imgur.com/8JawI.png
-  [imgFive]: http://i.stack.imgur.com/5vx9v.png
-  [imgEdwards]: http://i.stack.imgur.com/8vvIl.png
-  [imgOnion]: http://i.stack.imgur.com/V0033.png
-  [imgOdinson]: http://i.stack.imgur.com/wKPMM.png
-  [imgCopernicus1]: http://i.stack.imgur.com/oYVMZ.png
-  [imgDYEL1]: http://i.stack.imgur.com/hCFD8.png
-  [img2016]: http://i.stack.imgur.com/f8CDE.png
-  [imgHatsman]: http://i.stack.imgur.com/rIPvB.png
-  [imgUp]: http://i.stack.imgur.com/3yeDE.png
-  [imgDrWho]: http://i.stack.imgur.com/l3BjK.png
-  [imgHatTrick]: http://i.stack.imgur.com/R7S17.png
-  [imgSpeedy]: http://i.stack.imgur.com/JGPP7.png
-  [imgCopernicus2]: http://i.stack.imgur.com/adP41.png
-  [imgOprah2]: http://i.stack.imgur.com/69oYT.png
-  [imgCleanup]: http://i.stack.imgur.com/QS0BE.png
+  [imgSufganiyot]: https://i.stack.imgur.com/5GJSR.png
+  [imgOprah1]: https://i.stack.imgur.com/8UXdD.png
+  [img007]: https://i.stack.imgur.com/q4KKR.png
+  [img9000]: https://i.stack.imgur.com/QvMZj.png
+  [imgFFb]: https://i.stack.imgur.com/ySDMx.png
+  [imgFFw]: https://i.stack.imgur.com/8JawI.png
+  [imgFive]: https://i.stack.imgur.com/5vx9v.png
+  [imgEdwards]: https://i.stack.imgur.com/8vvIl.png
+  [imgOnion]: https://i.stack.imgur.com/V0033.png
+  [imgOdinson]: https://i.stack.imgur.com/wKPMM.png
+  [imgCopernicus1]: https://i.stack.imgur.com/oYVMZ.png
+  [imgDYEL1]: https://i.stack.imgur.com/hCFD8.png
+  [img2016]: https://i.stack.imgur.com/f8CDE.png
+  [imgHatsman]: https://i.stack.imgur.com/rIPvB.png
+  [imgUp]: https://i.stack.imgur.com/3yeDE.png
+  [imgDrWho]: https://i.stack.imgur.com/l3BjK.png
+  [imgHatTrick]: https://i.stack.imgur.com/R7S17.png
+  [imgSpeedy]: https://i.stack.imgur.com/JGPP7.png
+  [imgCopernicus2]: https://i.stack.imgur.com/adP41.png
+  [imgOprah2]: https://i.stack.imgur.com/69oYT.png
+  [imgCleanup]: https://i.stack.imgur.com/QS0BE.png
 
-  [imgLeaderboard]: http://i.stack.imgur.com/iITG2.png
+  [imgLeaderboard]: https://i.stack.imgur.com/iITG2.png

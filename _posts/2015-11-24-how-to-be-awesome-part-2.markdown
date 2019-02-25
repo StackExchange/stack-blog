@@ -76,7 +76,7 @@ What did they think they were adding by giving us this information? You don't ne
 
 Here's an example of a cover letter that worked - it's my own, from when I applied to work at Stack Exchange almost two years ago.
 
-![Cover letter](http://i.stack.imgur.com/SHQBh.png)
+![Cover letter](https://i.stack.imgur.com/SHQBh.png)
 
 Looking back at this now, what's interesting is that it's not brilliant. At all. In fact it's embarrasingly short - I clearly didn't spend as long on it as I should have. However, it does demonstrate the points I'm making. The first sentence just gets straight to the point, saying who I am and what I'm all about. There's a link there to all my open source code so anybody can go and look through that. It explains why I'm applying now, to this company, and why I'm excited at the opportunity.
 

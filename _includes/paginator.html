@@ -1,0 +1,19 @@
+{% if paginator %}
+    <div class="pagination">
+      <div class="inner-container">
+        <div class="-row">
+          <div class="-col2 _textLeft">
+          {% if paginator.next_page %}
+              <a class="page older" href="{{ paginator.next_page_path }}"><i class="blog-icon left-arrow"></i> Older Articles</a>
+          {% endif %}
+          </div>
+          <!-- Note this overrides the default grid styles to separate the paginator buttons-->
+          <div class="-col2 _textRight" style="float:right;">
+          {% if paginator.previous_page %}
+            <a class="page newer" href="{{ paginator.previous_page_path }}">Newer Articles <i class="blog-icon right-arrow"></i></a>
+          {% endif %}
+          </div>
+        </div>
+      </div>
+    </div>
+{% endif %}

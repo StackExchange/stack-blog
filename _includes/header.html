@@ -1,0 +1,40 @@
+<div class="index-nav">
+  <header class="header {% if page.layout == 'post' or page.layout == 'podcast' %} transparent{% endif %}">
+        <div class="mainnav-wrapper">
+            <nav class="mainnav horizontal-nav">
+                <div class="hlogo -item">
+                  <a class="current -nav-link hlogo-link" href="/"></a>
+                </div>
+            </nav>
+            <nav class="horizontal-nav">
+                {% if page.layout == "post" or page.layout == "podcast" %}
+                <div class="-item">
+                {% if page.tags contains "company" %}
+                    <a class="-nav-link" href="/company">All Posts</a>
+                {% else if page.tags contains "engineering" %}
+                    <a class="-nav-link" href="/engineering">All Posts</a>
+                {% endif %}
+                </div>
+                {% endif %}
+            </nav>
+        </div>
+    </header>
+    {% unless page.layout == "post" or page.layout == "podcast" %}
+    <div class="home-hero">
+        <div class="hero-content">
+            {% if page.header_headline == null and !page.header_subhead == null %}
+                <h1>Company News, Developer Trends, Hiring and More</h1>
+                <p>An inside look at all-things Stack Overflow</p>
+            {% endif %}
+            {% if page.header_headline %}
+                <h1>{{ page.header_headline }}</h1>
+            {% endif %}
+            {% if page.header_subhead %}
+                <p>{{ page.header_subhead }}<p>
+            {% endif %}
+        </div>
+    </div>
+    {% endunless %}
+</div>
+
+

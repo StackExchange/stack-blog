@@ -6,7 +6,7 @@ layout: post
 redirect_from: /2014/02/2013-stack-overflow-user-survey-results
 slug: 2013-stack-overflow-user-survey-results
 hero: https://i.stack.imgur.com/ztPXx.jpg
-title: 2013 Stack Overflow User Survey Results
+title: 2014 Stack Overflow User Survey Results
 wordpress_id: 14574
 tags:
 - company
@@ -16,7 +16,7 @@ tags:
 - survey
 ---
 
-In 2013, our Stack Overflow community grew from 21.5 million to 26.9 million monthly visitors from 242 countries around the world. We're doing a lot to keep growing with the community -- we now have localized versions of Careers 2.0 for French and German audiences, we're developing [iOS](http://meta.stackoverflow.com/questions/220264/help-us-test-the-alpha-version-of-our-ios-app) and [Android](http://blog.stackexchange.com/2014/01/stack-exchange-for-android-is-here/) mobile apps for our entire network, and our first ever [localized](http://blog.stackoverflow.com/2014/02/cant-we-all-be-reasonable-and-speak-english/) version of Stack Overflow with [the Portuguese site](http://pt.stackoverflow.com/) currently in beta. As a way for us to make sure we're doing the most for our users and community on Stack Overflow, we conduct a survey every year to see what you're up to, how you're using our site and what else is on your mind. This year, we analyzed a survey sample of 7,500 responses from 96 countries. As a thank you for the time you spent filling it out, we donated an additional $12,000 to our [Stack Exchange Charities](http://blog.stackoverflow.com/2013/12/stack-exchange-gives-back-2013-2/).
+In 2013, our Stack Overflow community grew from 21.5 million to 26.9 million monthly visitors from 242 countries around the world. We're doing a lot to keep growing with the community -- we now have localized versions of Careers 2.0 for French and German audiences, we're developing [iOS](http://meta.stackoverflow.com/questions/220264/help-us-test-the-alpha-version-of-our-ios-app) and [Android](http://blog.stackexchange.com/2014/01/stack-exchange-for-android-is-here/) mobile apps for our entire network, and our first ever [localized](http://blog.stackoverflow.com/2014/02/cant-we-all-be-reasonable-and-speak-english/) version of Stack Overflow with [the Portuguese site](http://pt.stackoverflow.com/) currently in beta. As a way for us to make sure we're doing the most for our users and community on Stack Overflow, we conduct a survey every year to see what you're up to, how you're using our site and what else is on your mind. This time, we analyzed a survey sample of 7,500 responses from 96 countries. As a thank you for the time you spent filling it out, we donated an additional $12,000 to our [Stack Exchange Charities](http://blog.stackoverflow.com/2013/12/stack-exchange-gives-back-2013-2/).
 
 
 ## Observations
@@ -34,7 +34,4 @@ Not only is the Android Phone the most popular mobile device with 63.8% of respo
 
 As our Stack Exchange team is growing and [we have more employees working remote](http://blog.stackoverflow.com/2013/02/why-we-still-believe-in-working-remotely/), we added a number of questions about remote work. While only 10.6% of respondents said they are full-time remote, 63.9% of total respondents say they work remotely at least occasionally.
 
-Here’s a special infographic to sum up our survey findings. If you’d like to do your own analysis you can [download the survey results](https://docs.google.com/spreadsheets/d/16C6ZeNSvd-qIg45J9E-vx2YCsD8w5oZaSTUtJ-52e-w/edit?usp=sharing).
-
-[![developers_final](/images/wordpress/developers_final.png)](/images/wordpress/developers_final.png)
-<a href="/images/wordpress/developers_final.png"><img src="/images/wordpress/developers_final.png" style="width: 100%;"></a>
+If you’d like to do your own analysis you can [download the survey results](https://drive.google.com/uc?export=download&id=0B0DL28AqnGsrempjMktvWFNaQzA).

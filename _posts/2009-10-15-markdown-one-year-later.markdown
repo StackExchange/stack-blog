@@ -50,7 +50,7 @@ We knew early on that there were [a handful of Markdown Gotchas](http://blog.sta
 
 
 
-Apparently GitHub also uses Markdown, and they independently arrived at some of the same conclusions we did -- synthesizing something they call [GitHub Flavored Markdown](http://github.github.com/github-flavored-markdown/).
+Apparently GitHub also uses Markdown, and they independently arrived at some of the same conclusions we did -- synthesizing something they call [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown).
 
 
 

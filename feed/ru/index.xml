@@ -1,0 +1,66 @@
+---
+layout: null
+redirect_from:
+ - /feeds/ru
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:media="http://search.yahoo.com/mrss/"
+>
+
+<channel>
+	<title>Stack Overflow на русском</title>
+	<atom:link href="{{ site.url }}/feed/ru" rel="self" type="application/rss+xml" />
+	<link>{{ site.url }}</link>
+	<description>Вопросы и ответы для программистов</description>
+	<lastBuildDate>{{ site.time | date: "%a, %d %b %Y %T +0000" }}</lastBuildDate>
+	<language>ru</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator></generator>
+	<copyright>Copyright © Stack Overflow, {{ site.time | date: "%Y" }}</copyright>
+	<managingEditor>team@stackoverflow.com (The Stack Overflow Team)</managingEditor>
+	<webMaster>team@stackoverflow.com (The Stack Overflow Team)</webMaster>
+	<ttl>1440</ttl>
+	<image>
+		<url>https://cdn.sstatic.net/ru/img/apple-touch-icon@2.png</url>
+		<title>Blog - Stack Overflow на русском</title>
+		<link>https://ru.stackoverflow.com</link>
+		<width>144</width>
+		<height>144</height>
+	</image>
+	{% for post in site.posts limit:40 %}
+		{% unless post.draft %}
+			{% if post.langs %}
+				{% if post.langs contains 'ru' %}
+					<item>
+						<title><![CDATA[{{ post.title | raw }}]]></title>
+						<link>{{ site.url }}{{ post.url }}</link>
+						<dc:creator><![CDATA[{{ post.full_author.name }}]]></dc:creator>
+						{% for category in post.tags %}
+						<category><![CDATA[{{ category }}]]></category>
+						{% endfor %}
+						<comments></comments>
+						<pubDate>{{ post.date | date: "%a, %d %b %Y %T +0000" }}</pubDate>
+						<guid></guid>
+						<description><![CDATA[{{ post.excerpt | raw }}]]></description>
+						<content:encoded><![CDATA[{{ post.content | raw }}]]></content:encoded>
+						<wfw:commentRss></wfw:commentRss>
+						<slash:comments></slash:comments>
+						{% if post.podcast %}
+						<enclosure type="audio/mpeg" url="{{ post.podcast }}" length="0"/>
+						{% endif %}
+					</item>
+				{% endif %}
+			{% endif %}
+		{% endunless %}
+	{% endfor %}
+	</channel>
+</rss>

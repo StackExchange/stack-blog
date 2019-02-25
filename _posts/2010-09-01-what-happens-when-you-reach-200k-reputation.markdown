@@ -55,7 +55,7 @@ As you might have noticed, he's become rather expert at it; Jon's magnum opus on
 
 
 
-**[http://tinyurl.com/so-hints](http://tinyurl.com/so-hints)**
+**[http://tinyurl.com/stack-hints](http://tinyurl.com/stack-hints)**
 
 
 
